@@ -151,7 +151,7 @@ def main():
             logging_dir=os.path.join(output_dir, "logs"),
             save_total_limit=2,
             dataset_text_field="text",
-            max_seq_length=config.max_seq_length,
+            max_length=config.max_seq_length,
         )
 
         trainer = SFTTrainer(
