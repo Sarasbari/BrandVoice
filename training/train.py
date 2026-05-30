@@ -15,7 +15,7 @@ from peft import (
     get_peft_model
 )
 from datasets import Dataset
-from trl import SFTTrainer
+from trl import SFTTrainer, SFTConfig
 
 # Ensure local training directory takes import priority to avoid clashes with global config packages
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -133,8 +133,8 @@ def main():
         print(f"[{get_timestamp()}] Loaded {len(train_dataset)} training samples")
 
         # 6. Configure SFTTrainer
-        print(f"[{get_timestamp()}] Setting up SFTTrainer arguments...")
-        training_args = TrainingArguments(
+        print(f"[{get_timestamp()}] Setting up SFTConfig and SFTTrainer...")
+        sft_config = SFTConfig(
             output_dir=output_dir,
             num_train_epochs=config.num_train_epochs,
             per_device_train_batch_size=config.per_device_train_batch_size,
@@ -150,15 +150,15 @@ def main():
             report_to="none",
             logging_dir=os.path.join(output_dir, "logs"),
             save_total_limit=2,
+            dataset_text_field="text",
+            max_seq_length=config.max_seq_length,
         )
 
         trainer = SFTTrainer(
             model=model,
             train_dataset=train_dataset,
-            dataset_text_field="text",
-            max_seq_length=config.max_seq_length,
             tokenizer=tokenizer,
-            args=training_args,
+            args=sft_config,
         )
 
         # 7. Train
