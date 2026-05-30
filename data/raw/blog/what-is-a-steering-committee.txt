@@ -1,0 +1,67 @@
+Title: What’s a steering committee in project management?
+Published Date: 2023-09-15T00:00-03:00
+URL: https://www.notion.so/blog/what-is-a-steering-committee
+
+For most employees, daily decisions involve specific project work and team dynamics. When you join a company, you slowly learn the culture and overarching goals, but you don’t make choices that direct its course.A steering committee is what offers that guidance, taking the wheel when leaders need help making high-level decisions. These boards are at the helm of an organization or project, choosing how to approach the route ahead. And inside the “vehicle” are the employees that must implement committee decisions and understand the board’s vision.
+
+What’s a steering committee?
+
+A steering committee is an advisory board made of leadership individuals and external stakeholders. These boards govern organizations or projects, and the nature of the initiative determines who’s on the committee. A committee focused on organizational change may need subject-matter advisors, while an initiative-based committee would gather project managers.
+
+Steering committees’ roles and responsibilities include setting goals, defining a company’s direction, and determining parameters like budgets, timelines, and project scope. These boards look to the future, aiming to make the best decisions possible for the health of an organization or initiative.
+
+Who should be on a steering committee?
+
+All committee members have a stake in the organization’s success, but they aren’t all necessarily internal to the entity. Steering committee members generally include executives, senior managers, and external stakeholders — individuals who focus on making significant strides instead of performing micro-level task management. To support more thorough decision-making, steering committees often also include subject-matter experts that offer their knowledge to the team.
+
+All boards look a bit different. For project-based committees, you might involve a project manager and a client-side professional to discuss who must be on the board. And C-suite individuals will likely decide who they want on a company-wide committee.
+
+5 types of steering committees
+
+The composition of a steering committee depends on the type of work it performs. Here are five types of committees:
+
+Executive committees generally include officers and directors. These boards make high-level decisions based on expert-level knowledge. This work may involve fund allocation, report collection, and timeline creation. Project-steering committees focus on a particular initiative. These boards ensure project managers have the support they need to meet larger goals. This support includes monitoring progress, risks, and resources. Privacy committees keep client data safe and protect a company’s reputation. These boards ensure that organizations securely store data, mitigating the risk of a breach and ensuring alignment with IT privacy regulations. Compensation committees create employee benefits and pay packages. Board members often have expertise in the administrative aspects of running a business. Non-profit boards manage limited funds through strategic plans, tight budgets, and innovative project management. These boards keep operations functional, even if the organization doesn’t make a profit.
+
+Executive committees generally include officers and directors. These boards make high-level decisions based on expert-level knowledge. This work may involve fund allocation, report collection, and timeline creation.
+
+Project-steering committees focus on a particular initiative. These boards ensure project managers have the support they need to meet larger goals. This support includes monitoring progress, risks, and resources.
+
+Privacy committees keep client data safe and protect a company’s reputation. These boards ensure that organizations securely store data, mitigating the risk of a breach and ensuring alignment with IT privacy regulations.
+
+Compensation committees create employee benefits and pay packages. Board members often have expertise in the administrative aspects of running a business.
+
+Non-profit boards manage limited funds through strategic plans, tight budgets, and innovative project management. These boards keep operations functional, even if the organization doesn’t make a profit.
+
+What does a steering committee do?
+
+Steering committees offer direction for an organization or project in six main ways:
+
+Providing advice — steering committees often include subject-matter experts that advise companies on next steps. These individuals pinpoint potential issues and provide insights on mitigating them. Setting goals — after defining ideal, impactful project outcomes, members use their expertise to set realistic goals for an operation. As part of the goal-setting stage, these committees also determine a project’s scope and develop metrics for measuring success. Creating budgets and timelines — a steering committee provides general advice on budgeting for operations and can do so at the institutional or project level. These boards determine what assets, like capital, skilled personnel, and time, a business needs to succeed. And when working on the strategic direction of a project, the steering committee approves the initial budget and any changes to it. They’ll also approve the timeline to ensure timely deliverables. Projecting risks — steering committees take a proactive approach to mitigating risk by determining the likelihood of potential issues and the consequences. The board then creates plans to prevent these risks and react in a contingency situation. If the problem is a project bottleneck or conflict, steering committees can reallocate resources, mediate differences in opinion, and problem-solve so work continues to flow.Tracking organizational and project success — steering committees set and monitor initiatives to ensure timely, quality results. Then the committee audits projects and makes changes as bottlenecks or setbacks arise. Steering committees don’t need to know about every little project detail, but managers should present results at intervals. Fostering communication — steering committees ensure both stakeholders and high-ranking employees receive timely information on project progress. These advisory boards also know who to include in communications and involve these individuals — like project managers and subject-matter experts — on relevant initiatives.
+
+Providing advice — steering committees often include subject-matter experts that advise companies on next steps. These individuals pinpoint potential issues and provide insights on mitigating them.
+
+Setting goals — after defining ideal, impactful project outcomes, members use their expertise to set realistic goals for an operation. As part of the goal-setting stage, these committees also determine a project’s scope and develop metrics for measuring success.
+
+Creating budgets and timelines — a steering committee provides general advice on budgeting for operations and can do so at the institutional or project level. These boards determine what assets, like capital, skilled personnel, and time, a business needs to succeed. And when working on the strategic direction of a project, the steering committee approves the initial budget and any changes to it. They’ll also approve the timeline to ensure timely deliverables.
+
+Projecting risks — steering committees take a proactive approach to mitigating risk by determining the likelihood of potential issues and the consequences. The board then creates plans to prevent these risks and react in a contingency situation. If the problem is a project bottleneck or conflict, steering committees can reallocate resources, mediate differences in opinion, and problem-solve so work continues to flow.
+
+Tracking organizational and project success — steering committees set and monitor initiatives to ensure timely, quality results. Then the committee audits projects and makes changes as bottlenecks or setbacks arise. Steering committees don’t need to know about every little project detail, but managers should present results at intervals.
+
+Fostering communication — steering committees ensure both stakeholders and high-ranking employees receive timely information on project progress. These advisory boards also know who to include in communications and involve these individuals — like project managers and subject-matter experts — on relevant initiatives.
+
+How to run a steering committee meeting
+
+Steering committees assume a great deal of responsibility. And these groups must meet to align on plans that affect everything from the success of a business to employee compensation. Committee meetings must be effective so members can agree on and execute high-impact initiatives.
+
+Because steering committees focus on high-level issues, the meeting agenda should cover highlights instead of details that could slow the session down. The committee chairman can define the terms of the meeting, pinpointing finite discussion items for a productive session and keeping the talk on topic.
+
+Board members should receive information that helps them prepare and keeps the session on schedule beforehand. This includes outlining individual expectations (assigning a note-taker, mentioning someone’s presentation), the meeting’s main goal, and a bulleted timeline for the chat. If the board must make decisions during the session, all should be aware and prepared.
+
+A board’s decisions affect an entire operation, so steering committees should document why they selected a particular route to help teams understand the logic behind their work.
+
+Hold better steering committee meetings with Notion
+
+Making widespread decisions for an organization or project is daunting since stakes are often high.
+
+Use templates and guides to ensure this work runs smoothly. Notion’s ultimate task template helps teams define action items they can plot into a task management table. And use the meeting tips template to hold more efficient sessions — whether daily check-ins or high-level steering committee meetings.

@@ -1,0 +1,83 @@
+Title: How to create an action items list in 5 easy steps
+Published Date: 2023-04-27T00:00-06:00
+URL: https://www.notion.so/blog/action-items
+
+You just finished a project kickoff meeting and everyone’s jazzed up and ready to start. But as time passes, you notice you’re not the only one feeling confused about next steps. You remember great ideas bouncing around and the project manager verbally delegating critical tasks, but project momentum has reached a standstill.
+
+If only one of you had made an action items list.
+
+What’s an action item?
+
+An action item defines a specific task that contributes to a project or goal, who’s responsible for it, and when it’s due. Project managers and team members often come out of a meeting or brainstorming session with an actionable items list of every task mentioned. These lists provide immediate momentum toward a project’s goals, since everyone understands what they must do and by when.
+
+The benefits of using action items
+
+Action items clearly state expectations and give meaningful details so employees know what to do. Here are a few benefits of defining action items:
+
+Actionable meeting notes — populating meeting minutes with action items means everyone immediately knows what to do to push the discussed project forward.
+
+Organized projects — you can use action item lists to create project timelines, progress trackers, and roadmaps so everyone feels well-informed and prepared to succeed.
+
+Established priorities and expectations — because action items are well defined and include timelines, they clearly set expectations for your team. And as a project manager, you can use this information to create task priority lists for everyone involved.
+
+Simplified monitoring and progress tracking — beginning a project with a list of action items and deadlines make it easy for project managers to monitor progress. An action item tracker can also monitor items and provide an immediate snapshot of a project’s status.
+
+More accountability — creating action items immediately after a meeting or brainstorming session ensures that employees can take ownership of their ideas and tasks right away. These well-defined lists also give teammates someone directly connected to each task to whom they can direct their questions.
+
+The three Ws of action items
+
+When you come out of a project kickoff with meeting notes, you likely have some action items to define and assign. Creating and assigning each action item starts with answering three important Ws:
+
+What’s the task — every action item should state the task, preferably with a strong, concise verb. A detailed to-do like “Back up all SQL databases on the Marketing_DB server” uses the action verb “Back up” to clearly define the action one must take in order to complete the task.Who should complete it — always include an assignee to action items to make them immediately actionable. This is the person or team responsible for completing the task. They’re also the direct report for the task, so people know who to deliver questions or relevant information to regarding this item.When it should be ready — outline when the assignee must complete this item so they know right away how to organize their time and resources to stay on schedule. Note any dependencies, if necessary, like other items the team must finish before they can work on this one.
+
+What’s the task — every action item should state the task, preferably with a strong, concise verb. A detailed to-do like “Back up all SQL databases on the Marketing_DB server” uses the action verb “Back up” to clearly define the action one must take in order to complete the task.
+
+Who should complete it — always include an assignee to action items to make them immediately actionable. This is the person or team responsible for completing the task. They’re also the direct report for the task, so people know who to deliver questions or relevant information to regarding this item.
+
+When it should be ready — outline when the assignee must complete this item so they know right away how to organize their time and resources to stay on schedule. Note any dependencies, if necessary, like other items the team must finish before they can work on this one.
+
+How to create a high-quality action items list
+
+High-quality action items include all the information the assignee will need in order to complete the task on time. Follow these five steps to create an effective action items list.
+
+1. Give your action item a title (what)
+
+Your title is a short description of the task that includes a strong, concise verb to convey a sense of action — someone must do something. After the verb/action, describe the item. This is the object of the action you just established. “Back up all SQL databases on the Marketing_DB server” is great because it follows these guidelines.
+
+2. Add a start and end date (when)
+
+Include a start and completion date so assignees understand expectations and can begin to organize their time to accommodate this task. These dates should be specific to avoid confusion or misunderstandings, like “By EOD September 23rd.” You can also include a concise timeline to showcase dependencies if necessary.
+
+3. Assign task owners (who)
+
+Note who’s responsible for each action item, be it an individual or a team. If you’re assigning multiple people, define who’s responsible for what aspect of the task so other coworkers know where to bring their questions.
+
+4. Set priorities
+
+Once you’ve set all the action items relevant to a specific project or team, create a prioritization list so employees understand the bigger picture and can manage their workload accordingly. Consider each item’s importance (how critical it is to the project or other team objectives) and urgency (how soon the assignee must complete it) when you create this list.
+
+4. Add relevant details
+
+High-quality action items contain all the information the task owner needs in order to complete it. You can easily connect relevant and helpful documents to action items in a connected workspace like Notion, or send this information to the assignee via your workplace project management or communication platform. Just avoid adding these lengthy details directly to the action item, since these lists should be concise and understandable at a glance.
+
+Action items examples
+
+To help you get started, here are some examples of high-quality action items.
+
+Example #1
+
+Task title: Back up all SQL databases on the Marketing_DB serverDue date: By EOD September 23rdTask owner: Alan B.Priority level: MediumDetails: Please synchronize additional backup copies to the cloudstor245656 storage account.
+
+Example #2
+
+Task title: Confirm meeting date for next quarterDue date: End of monthTask owner: Vi Y.Priority level: LowDetails: None
+
+Example #3
+
+Task title: Send complete list of team members to Ali in HRDue date: TomorrowTask owner: Preet S.Priority level: HighDetails: Send this in Excel spreadsheet format using the columns identified in the following [linked document].
+
+Create your action items list in Notion
+
+High-quality action items generate high-quality output since employees clearly understand expectations. Create action item lists after meetings, brainstorm sessions, and when beginning a new project to ensure you never miss another great idea or urgent task.
+
+To get started, use a meeting notes template, project management template, or Notion AI to create meeting summaries that include action item lists.

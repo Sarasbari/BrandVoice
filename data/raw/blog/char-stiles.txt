@@ -1,0 +1,381 @@
+Title: Char Stiles explores tools for expression and experience
+Published Date: 2022-01-04T00:00-08:00
+URL: https://www.notion.so/blog/char-stiles
+
+Char Stiles is an artist, educator and programmer whose work uses emerging technologies to bring to light how computers work. Char works and collaborates across mediums such as interactive installation, video, performance and web. She is a part of the Livecode.nyc collective, where she organizes shows, and livecodes music and visuals and has given talks and led workshops at Carnegie Mellon University, Duke University, University of Limerick, MIT and NYU. She is currently at an NEA-funded artist residency at the Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University to develop an open-source toolkit for artists.
+
+DEVON: Hello, I'm Devon and you're listening to Tools & Craft. Today, I'm talking to Char Stiles, a computational artist, educator, and programmer. I'm excited to talk to Char because she works at lower levels of computation systems in a way that's very different from most programmers. She approaches it in a highly aesthetic, intuitive way that reframes what those tools are for. Another reason I'm excited to talk to her is that live coding is a niche, but rapidly expanding art form, so the tool set is also rapidly evolving to meet the needs of those artists. Char has made tools for herself and for the broader live coding community, and I'm excited to ask her about all of that. Finally, I'm also looking forward to asking Char about all of her fun, quirky projects that demonstrate that software's capabilities are a lot broader than most programmers take advantage of. So Char, thank you so much for taking the time to chat.
+
+CHAR: Thanks, Devon. I'm so excited to be here.
+
+DEVON: So to get started, our listeners may not be familiar with some of the things that you do or even what live coding is. So can you start by defining some terms such as what is GPU coding and what is live coding?
+
+CHAR: Yes. So what live coding is is it's a way to perform writing code. So usually there's someone who will code the music and someone will code the visuals. And as they do so, they actively change a live document to recompile the code continuously and their code is displayed for an audience to see, so there's this one to one correspondence. You see the code that is being written, that is creating the music and the visuals that you see. And these performances usually happen at events that we call algoraves, which is a portmanteau of algorithm and rave.
+
+DEVON: I love that.
+
+CHAR: And... Yes.
+
+DEVON: I haven't heard that term before.
+
+CHAR: Yeah, right. It's really neat. I really like it too. It was coined by Alex McLean. Actually, 10 years ago around this time, because we're having like a 10 year anniversary, but the specific type of live coding that I do is shader coding, and shader coding is a way to write a program directly on your GPU. So I'm writing code that is being run, one time per pixel, 60 times a second. And so let's say you have a regular HD screen, that piece of code that I'm writing and it's continually compiling is being compiled over 100 million times a second. So this shader coding is usually used in all things real time graphics. Because of its power, because it can be run one time per pixel for 60 times a second, this allows you to have great power to create real-time experiences. So the kind of like defacto example of popular shader use is in video games. So almost all 3D video games, I'd say all 3D video games, use shaders in some way. And I just use it for making interactive abstract art.
+
+DEVON: That is really cool. I watched some of your live coding performances on YouTube, and I noticed that you project your code up on the screen, as well as the graphics that you're creating. Besides the fact that it looks super cool, why do you make that aesthetic choice?
+
+CHAR: I really believe in developer transparency and being able to be really vulnerable with the process of coding, including the errors and the slowness and the frustration, and basically, just like the human components of programming. And I know that it isn't necessarily the most efficient way to expose someone who programs, maybe the most efficient way would be to just sit someone next to me and just kind of explain everything. But I think that any type of exposure, even through dance and music, is a way to, I guess, recontextualize programming and anything... Basically, I'm a huge advocate for demystifying computation. And so just seeing me as a person as I am, just programming and showing the code as I program, showing my screen, I think is a really powerful thing for me to do, especially because I get really shy on stage. And so this was like a way for me to be able to share my process and share my code and kind of get over this fear too.
+
+DEVON: One of the descriptions that I read that you gave about what live coding is is like you're coding a graphics program where everyone can see the process, they can see your body language as well. And that's really interesting because it... Usually, the way we interact with software is on our phone or it's on our computer. We have no idea who made it, we have no idea what it was like to make it. And it's just really hard to empathize with that person, which means in turn, it's hard to imagine yourself making that thing.
+
+CHAR: Exactly. Yeah. And I want to kind of loosely quote an artist, Melanie Hoff, she talks about teaching computation in an artful way. She says, "What if the person who wrote the code loved you? What would that code look like? What if you loved the person that wrote the code that we're using today?"
+
+DEVON: That's very interesting. How would software be different if all programmers took that to heart?
+
+CHAR: Oh, wow. It would be so different. I think there would be less dark patterns. There would be less kind of, I guess, shuffling, there would be more empathy in the code and in your experience. But I firmly believe that there would be not one source of... There would be less basically... Sorry. I'm kind of stumbling over this. But basically, I think that if all programmers coded with love and intention, there would be less centralization. There would be more personal experiences and more tailored experiences on smaller scales, more... Maybe it's a little bit more, I guess, dispersing. But I think that it's... Honestly, I think scale is something that is kind of an antithesis too, or being like a huge entity is kind of like an antithesis to computing with love, because love is an intentional action and it's hard to tailor that to any specific person if you're just trying to create this broad experience.
+
+DEVON: One of my favorite essays that I actually just reread this morning is called An App Can be a Home-cooked Meal.
+
+CHAR: Yes.
+
+DEVON: Have you read this essay?
+
+CHAR: I haven't, but I just love that. I love that terminology. I always think about coding as cooking.
+
+DEVON: That's exactly the metaphor in this. And it's basically saying when we tell people, "You should learn to code," we implicitly are saying, "You should learn to code, because it will be good for your career. You'll get good jobs," whatever, which is a totally valid reason to do something. But then if you say, "Oh, what if you were to learn how to cook?" Most people are not implying like you should become a chef. You could do that, but that's not really what most people say when they're learning how to cook. It's more like I want to learn how to cook so I can make something for my mom, I could make something for my husband, whatever it is, someone that you really love. And it's much more of a gift that you're giving to somebody or different contexts, or just to be healthy.
+
+CHAR: Oh, my gosh. Yes. And also, another way that this... This is such a great analogy. Another way that this extends food is that we consume things that people code every day. Right now, using the computer, we're consuming code in a way. And I also like to think about it in the way that like in Ratatouille where that main chef guy is like, "Anyone can cook." That's the way I feel about code, it's like anyone can code. And it's just something that... It is such a personal journey and a personal experience. And the way that you approach learning to code should be as different as the people who are doing it. So I think there should be so many different routes into learning how to code. And as of right now, there's really kind of like a definitive path that is recommended for you to learn how to code. And I think part of my work is that I really want to create these alternative routes into learning tech, if you so desire.
+
+DEVON: Yeah. That is really interesting. One of my favorite educational theorists is Seymour Papert, and he pushed back against the framing that a lot of people give of like, "I'm not a math person. I can't really learn math." There's this quote he has where he's saying like, "Yeah, sure. People in math class often don't really learn math, but it's also true that if you are in French class, you're not really going to learn French, but we don't say you don't have the aptitude to learn French. You say like, 'Oh, they didn't grow up in France.'" And so he has this idea of, "What would it look like to create Mathland?" A place where just everything around you sort of has math embedded in it and you're just kind of coming across it in a lot of different diverse ways over the course of your day. You would probably learn math much more intuitively just like how you learn French when you're in France. Is that something that you think about in the context of live coding?
+
+CHAR: Oh, my gosh. Yes. I love this so much. So I'm going to backtrack a little bit. Remember how I was talking about how GPU code is this very powerful function or very powerful program that is run hundred million times a second. The kind of drawback to that is that you have to speak more like a computer. Because you're working at this super low level, the code has to go through less layers of abstraction to get the result on your screen. And so the language of computers is math. So you basically are just working with linear algebra, trigonometry, the kind of like... There is a lot more math involved than normal programming.
+
+CHAR: So because the input is the pixel coordinate, so the X, Y position, and an output is the red channel, green channel, and blue channel. So you're basically just writing a big function that is input as a Cartesian space and an output is a color channel. And using this very, very limited, very hard creative restraint, you use math to kind of expand that out and to create different features throughout space and time. And so I think about this all the time when I'm GPU coding, when I'm writing shaders. I think about how this is such a fun way to learn math. For example, when I was learning dot products in linear algebra class. You learn about dot product, it's like, "Oh, it's-"
+
+CHAR: ... "to have a visual outcome that the strength of the color on your material is directly corresponding to the dot product of the normal to that surface and the angle of the light." And let me just quickly define what a normal is. On a surface of an object, of a 3D object, the normal is a vector that is perpendicular to an instantaneous spot on a surface. Sorry, if that was a little bit too much. It's kind of hard to... Just like I said, it's kind of hard to think about it without a visual. I'm a very visual person, so I wish that I...
+
+DEVON: No, it reminds me a lot of... I practiced classical guitar when I was younger. And I remember when we started learning fractions in school, I had this moment where I was like, "Wait, four quarter notes is just like the same thing as how one quarter times four equals one. It's the same thing." I remember breezing through that part of the math class because it was just like, "Oh, yeah, I've been doing this for years. This is no big deal." And I could think about it musically. And that was really nice to be able to connect it to something I actually liked, as opposed to math, which usually feels so abstract in school.
+
+CHAR: Oh, my gosh. Yeah. They go through the effort of making up scenarios that will never happen so that they can teach you these super abstract concepts, when there are in fact extremely concrete examples of fraction stuff. It's not like the classic of like Timmy has 12 bananas and 13 apples and then takes both of them away. It's like, "Why do you have 13 apples?" It's literally just take a little bit of creativity and think about what 13 of something that you would have anyways.
+
+DEVON: Right. And also, how can you connect it to something that people can feel and have emotions about? Music is a perfect example of that.
+
+CHAR: Oh, my gosh, yes. I recently started learning music. I haven't really been putting anything out because I'm still very much in my absorbing phase, but this is like the... I'm so excited about learning music and learning about the fifths and power chords and all this stuff, because exactly what you're saying, it's just like another application. Well, it's not just another application, but I'm sure very music theorist are probably cringing at me saying this, but I'm just seeing parallels to math and music as I... I'm just such a baby in the music world. And when you said you studied classical guitar, I'm like, "Oh my gosh, it's so cool." But I'm also... Hopefully, I'm not saying things that are just grating your ears.
+
+DEVON: No. Music is one of the reasons why I always liked math in school because there were so many connections and I could think about like, "Okay, what can I predict about this?" Or it made math rhythmic, basically. And I could feel it in my body, as opposed to just abstractly being like, "Okay, I guess we got to add up these bananas or apples," or whatever.
+
+CHAR: Right.
+
+DEVON: Another aspect of learning that I think can be really helpful is to look at the same problem from a different angle. Are there any other mathematical concepts that you maybe didn't intuitively understand as well when you were studying them in school, but you picked up much more quickly once you started writing shaders?
+
+CHAR: I think another one is just a cross product. I know it's very similar to dot product, but in cross product, I learned it really well because you can use it to compute the frustum of a camera in a ray marching shader. Let me kind of backtrack a little bit. Ray marching is a way of writing a small renderer inside of a single shader. So that means that... I'm going to say this again, I teach a lot of shader workshops and I always try to hammer it in my students, is the input is the pixels position and the output is the color. So given just this restraint, you can actually create a 3D world.
+
+And how you do is that you get... So you get your 2D position, you just start pretending that that is a window into a 3D world. And you create a camera in 3D space by just starting to use vector threes, so that's a X, Y, Z coordinate, instead of just an X, Y. You just add a third dimension and then you just start pretending it's 3D, and then all of a sudden it is 3D. So when you add this third dimension, you need to create a camera frustum and perspective from when you cast your pixels out into the 3D space to then return its color. So ray marching, it's called ray marching because you just pretend your pixels are casted out from this camera frustum into 3D space.
+
+The 3D space is defined by what I'm just going to refer to know as... You don't have to understand it, but basically, it's kind of like a black box. And I'm just saying this now, just so we can kind of continue forward. But we use this thing called signed distance functions, which are... You can just believe me when I say that they return, they describe a 3D scene using the distance of a pixel's position to the distance of the surface of the object. So just to reiterate, so we have pixels casting out into this 3D scene that is constructed by signed distance functions. And the pixels are basically returning the color of the object that it hits as if it was a light ray. And funnily enough, I always like to relate this to... So Plato thought that that's how vision worked.
+
+He thought that eye feelers were cast out of your eyes and landed on objects and would touch the objects, and then your eye feelers would come back into your eyes and tell your brain what's out there. It is theorized that that is the reason why soldiers salute when they see their general, it's because their eye feelers, the general's eye feelers are so strong, they must protect their eyes from the strong general's eye feelers. Anyways, back to ray marching. So ray marching is kind of like if emission theory was true. And so it's like instead of calculating every single ray that comes from a light source and then just rendering the ones that hit your camera, you do the opposite.
+
+You compute every single light ray that comes from the camera source, and then you return the color of the pixel from that light, from that eye feeler. Also, they eventually... To go back into Plato, why Plato was... How they figured that Plato was wrong was that they said that, "Oh," when they found out that stars were really far away, they were like, "This doesn't really line up." Because when you look at up at the stars, you see them immediately, your eye feelers don't... You don't have that delay. So anyways, that was just to kind of wrap up that fun fact.
+
+DEVON: That's really interesting how you're turning a pretty mathematical concept into a metaphor, more of a narrative or a story of like, "Okay, imagine that you have these eye feelers that go out and do this," which I find to be a much more helpful type of description of how something works than, I don't know, you could have probably described it in terms of coordinates or sort of abstract notation or something. That might be more precise and it has its place and the computer likes to hear that, but it's not as natural for most people to think about, especially if you're approaching a concept for the very first time.
+
+CHAR: Exactly. Yeah. I am a huge advocate for prioritizing fun over accuracy, the exact minute details or whatever. But yeah, that's my long winded way of saying I learned how to compute a camera frustum through cross product.
+
+DEVON: When you teach workshops, have you found that there are people who, coming into them, have said like, "I'm sorry, I'm not a math person," and then going out, have been like, "Oh, math is actually kind of fun."
+
+CHAR: Oh, my gosh. Yes. I feel like that's so vetting of my students, especially because I really like to hold my students hands as we go through it. And I really relate it back to where a lot of people had their math education kind of cut off is high school. And that's really where I like to pick up. And so I'll reference things that we were taught in high school, to my math classes, so that they don't feel left behind, because it's so easy to quickly feel super left behind or have no frame of reference when you're learning math concepts again for the first time in many years. A lot of my students are programmers and designers.
+
+CHAR: And it's funny that the programmers... Yeah, programming, you don't really encounter linear algebra and trigonometry a lot in programming, so it's really like a... Everyone's kind of... Even though it's a one-room schoolhouse, I'm able to kind of hone in on what the general designer and programmer's knowledge is in math. And yeah, I love it when students have a new found... Or even just a very strong want to learn more about math. That's one thing that I see again and again, is that students are like, "I see how knowing math is applicable here and it's really motivating for me to learn more." And that's why in my going forward section in my workshops, I always include three... What is it? 3Blue1Brown, which is a YouTube channel. Maybe it's the opposite, but...
+
+DEVON: That is a great YouTube channel for anyone listening. I love it. It does such a good job of making math actually beautiful, both visually beautiful, but also pulling out the lyricism of it as well.
+
+CHAR: Mm-hmm.
+
+DEVON: How did you first come across GPU and shader coding?
+
+CHAR: Gosh. Oh, that's a great question. Honestly, I was just Googling around. I was just traversing the internet, surfing around, and I kind of came across it. And I thought, "Oh, this is something that really makes sense to me." It kind of was like a click moment where I was like, "This is really what I want to do." And the reason was because I was lucky enough to be studying computer science and fine art in my undergrad, the two combined together just made a lot of sense. I'm very scrappy in a way that I like to utilize everything that I have at hand.
+
+And so I didn't want to just do art and I didn't want to just do computer science, because I was learning both. And so I was like, "How can I combine them and be resourceful?" And GPU coding just made a lot of sense for that. I think I was also really drawn to the difficulty or the kind of mystery around it, because a lot of folks will just say shaders are wizards on your computer and you don't need to know exactly what's happening or rather that's kind of like where your knowledge, where people say like, "That's where my knowledge stops," is that... There's just wizards on the GPU computing pixel magic."
+
+DEVON: Oh, interesting. So would it be correct to say that a lot of people who do GPU coding don't really have that much of an understanding of what's going on in the computer, or they're not that interested in it?
+
+CHAR: I think it's more that GPU coding and shader programming is very ubiquitous so that people who are normally doing game development or any kind of like 3D or video stuff, shaders are always kind of there and looming over you because they're in all sorts of any type of visual real-time graphics. I really believe that anyone who sets out to learn shaders can definitely learn it. Yeah.
+
+DEVON: What was your immediate first time?
+
+CHAR: Who this was like his main thing, and he was signed on PC Music. His name is Lil Data, a really nice person. But I was so nervous because it was my first algorave and I was kind of thrown in... Not thrown in the deep end, but I just had this great opportunity to be playing with people who do this a lot and have it be their main practice. And I remember he comes up to me and he's like, "What's happening here?" And kind of like quizzically being like, "Oh, what are you doing?" And I was just unable to process a human conversation and to be writing shader code at the same time. I think I just kind of just brushed him off, but it was very thrilling... The whole thing is very thrilling. And I think my stage fright really kept me going because I would... It's kind of like riding a rollercoaster in a way.
+
+DEVON: That is, I think, a different experience than most people have with stage fright, which is they want to get away from it as soon as possible and never do it again. But yeah, once you frame it like, "Yeah, it's like a rollercoaster. What's the worst can happen? You're not going to die, so-"
+
+CHAR: Yeah. I guess rollercoasters are a little bit more scary than my case.
+
+DEVON: So when you first started, what tools were you using and then how have those evolved?
+
+CHAR: Yeah. So when I first started, I was using... My first show, that wasn't as necessarily live coding, but it was my first visual show. I was using just a series of pre-made shaders. I wasn't coding the shaders necessarily, but I was calling them in functions and I had a JavaScript wrapper. It was really hacky because I didn't know what I was doing. So it was a three JS project that had a bunch of different shaders kind of lined up. And then I had a program that would apply the different shaders at different times.
+
+CHAR: I opened the console and then I would just call the different functions via the console. And then it evolved, I used ADAM, and the first live coder editor that I used in a performance was glsl-live coder by Takayosi Amagi. And it was made in 2017 and that's when I was using it. It's a great tool. I do not use that anymore. I use this other tool called KodeLife, which is a tool made by Hexler who made OSC, which allows for a lot more nuanced input. So you can input audio or video or a noise field. So I use a combination of that, and also, I use my own homegrown JavaScript shader editor called Shader.Place.
+
+DEVON: What motivated you to build your own tool?
+
+CHAR: So it was really teaching during the pandemic that motivated me to build Shader Place. So what Shader Place is is that it is a collaborative code editor and it's kind of like a Google Doc for a shader. You can both be on the same page and edit the shader at the same time. And if it can compile it will, and if it won't, it will just default to the last shader that could compile. It tries to compile every single time there's a change in the document. And so it's kind of like, in a way, it's like the ultimate compression algorithm because I was teaching shaders over Zoom or whatever, and I'd share my screen and it would just be compressing the hell out of it and I'd be like, "Okay, everyone, this looks really bad, but trust me, it's really, really sick. This is a sick shader right here."
+
+CHAR: And I was getting kind of frustrated, and also, the frame rate wasn't good because a lot of interesting visualizations computers comes from its use of smooth time so that it smoothly moves, but the frame rate chopped that off. And so I thought it would be way less work to just send each other the code and then to have it render locally on our machines, and so that's what we did and that's what Shader Place allows for it. It also allows just for really fun remote collaboration as well, or even like if you're in the same room to just kind of be on your own computers, working on a shader together.
+
+DEVON: I saw that a lot of your performances are with another person. Can you talk about how that work? What are the two of you doing? How do you communicate that sort of thing?
+
+CHAR: Ah, yes. So I usually collaborate with a audio live coder, a musician. I collaborate closely with, specifically, Dan Gorelick. We have a lot of performances. We've been doing a lot of performances over the pandemic and I'm actually... This is his microphone. So thanks, shout out Dan. And he will write title cycles code and I will write GLSL code. And then, because we're both creative technologists, we can do things like have him send me a... For example, one performance we did, we had him use a text to speech voice to say words, and then he sent those words to me and I was able to render them in a visual. So we had this like, "Oh, we hear the word and we see the word, and it's being used as a musical component in a visual component as well," in the performance.
+
+CHAR: Other collaborations I've done, I've worked with Danielle Rager. She's a computational neuroscientist and live coder and performer. Or if one voice just... She would send me the MIDI of her music and I would use that MIDI input, so that MIDI signal to then have different features of the visuals kind of come up. And I think that this is a very, very, very, very, very unique thing. Well, not very. I guess it's a unique thing of having programmers be able to make music and visuals is that we can have our programs talk to each other in really convoluted ways. Basically, every single time I do anything that's kind of like outside of like, "Oh, you just have your fast forward, transform, bend audio, audio spectrum in, and then you just do stuff based on that." It's always like you route it through, you send it through MIDI to jack, then jack to OSC, and then OSC sends it through Spout, and then Spout sends it... It's all these crazy tool chains, but it gets the job done.
+
+DEVON: How much of your time is just getting the tool chain to work?
+
+CHAR: Oh, my gosh.
+
+DEVON: Versus kind of actually doing the thing that you're trying to do?
+
+CHAR: I'd say it's getting smaller and smaller. Before, when I was first doing this, I started live coding in 2017. Most of the time would go to building your tool chain, building your communication system, your tools. But now, I'd say it's maybe like 30% if I had to slap a number up there. And it gets more if I try to do something different. So I'm doing this collaboration with DJ_Dave. She's the reason that if I say live coding, some people will be like, "Oh, I know what that is," because she's explaining it and kind of showing it on TikTok. And so if people are in that world of TikTok, they might know. But I'm working with her to create an ASCII art visual set that corresponds with her audio code. So she's coding in Sonic Pi and I'm going to be coding the visuals. And then the ASCII art is going to be overlaid on top of her code to kind of be like embellishments, but also kind of like merge the two and create a visual landscape like that.
+
+DEVON: Oh, that sounds so cool. I look forward to seeing it. So you said it's gotten faster to do the tool chain part. Is this just because you've gotten more comfortable with your tools or have you sort of developed a library of things that you can compose together, or have the tools just improved so it can abstract away some of the complexity?
+
+CHAR: I'd really say both. So the more people that are getting into live code and the more they realize how things are kind of broken and they create tools to fix it. So at this point, I feel like it's across between I'm standing on the shoulders of giants, but also, I've been kind of working with these tools for a while, especially as a creative technologist beforehand. Getting things to talk to each other, I think, is most of the work of a creative technologist, including humans.
+
+DEVON: From poking around... I've never written a real shader, but from booking around, it looks like most of the tools are open source and on GitHub, is that a correct view of it or are there a lot of proprietary tools as well?
+
+CHAR: I think there are a lot of proprietary tools just because... Shader coding is really ubiquitous. It's like everywhere. It's like people are always trying to find ways to not shader code or to make patches instead. And so a lot of times, people don't know that they're coding shader code, but they actually are. So any kind of node programming language is usually kind of a shader code. You're being tricked into writing shader code. So there are a lot of proprietary tool chains and algorithms and everything like that. Because it's like Epic Games Studio probably has their own rendering engine and any VR stuff, you need your own rendering.
+
+CHAR: And the first pixel shader, the first programmable GPU code was in 2001. And so people have been kind of hacking on this for like two decades. So it's kind of at this point where there's a lot of open source stuff, which is awesome and I'm so grateful for. You wouldn't have been able to get into it if there wasn't, and then there's also a lot of proprietary custom software that's used in studios and stuff like that.
+
+DEVON: Gotcha. Do you use any proprietary tools yourself?
+
+CHAR: Well, yeah. I think KodeLife. KodeLife is closed source. Yeah. It's written by two people though, so it's not a super... It's written by one person and then I think there's another person on the team. I'm happy that they're getting paid for their work in a way. Yeah, yeah, yeah.
+
+DEVON: Yeah. There's a very complex balance there between the beauties of open source and also the beauties of being able to pay rent. How do you approach practice?
+
+CHAR: Lots of my practices is kind of like built around collaboration. And also, another cool thing about live coding is that it kind of is... I kind of practice while I'm doing it. And I do a lot of shows and I do a lot of quick iterations, and maybe this makes my artwork cheaper, but I don't care. And so a lot of times, I'll have three shows in one week and then I'll just do the shows and then that's my practice.
+
+CHAR: And so I practice in front of folks, and I kind of like that. I kind of like having the process of what I do be so public, and it does kind of make it such that I have a particular shapes that I end up using a lot, because it's just a lot of times, I'll write a shader and then I'll use that shader as the start of the next performance. And so it's this kind of ongoing ever evolving shader, kind of like the forever soup. You know that concept of the forever soup?
+
+DEVON: No, I don't think so.
+
+CHAR: So it's basically you make a soup, and then you eat part of it and then there are leftovers, so you just use the leftovers in the next soup and it just keeps going on and on and on and on and on. I mean, you could only do it for so long because it's food, but I think there's some cases where with fermented things, mothers of... What do we call the mother of kombucha?
+
+DEVON: The gooey thing. Yeah.
+
+CHAR: The gooey thing. Yes. The gooey mother that you just kind of keep it alive and you use it again and again and again, and as you use it, it transforms into this other thing to make new things. And so I think that's another great analogy of cooking. This is making me... I'm going to have to... I want to make a fun shader cooking meal after this.
+
+DEVON: I looked it up, it's called a SCOBY.
+
+CHAR: A SCOBY. Yes. I have my SCOBY shader that I evolve and I kind of have that be part of my performance in my practice.
+
+DEVON: What you're saying about practicing live in front of an audience sounds really similar to how comedians are often preparing their-
+
+CHAR: Ah, yes.
+
+DEVON: ... standup. They certainly do a lot of prep beforehand, before they get on stage, but then the refining and making it really funny and perfecting the punchlines often comes by standing up in front of people and getting the feedback of like, "Well, did they laugh?" And if they didn't laugh, it means you should probably change something. Yeah. Or maybe they laughed at a part you didn't expect and so maybe you sort of emphasize that part more in the next one. Last time I was in New York... I'm really into standup.
+
+And last time I was in New York, I went to five standup shows in a week. And it was interesting because a few of the performers were on multiple nights. And so I was able to see their sets three different times. And it was really interesting to see how they had almost the same set, but then they would change the order of things, or they would add a joke here or remove a joke there, or call in the audience a little bit more. And it was really cool to be able to compare and contrast the different sets that they had.
+
+CHAR: I love that. Standup is something that terrifies me, and so initially, I'm extremely drawn to it.
+
+DEVON: Well, it sounds like you have a penchant for that sort of thing. Getting on roller coasters, doing live coding, and standup maybe is the next thing.
+
+CHAR: Yeah. We'll see.
+
+DEVON: So how is practicing live coding different from practicing with a more traditional instrument like a violin or a saxophone or something like that?
+
+CHAR: That's a hard question. I really would love to ask a musician. I mean, I practice guitar every day, so I have opinions, but I'm very nascent in my musical journey. And so far, I really have been applying the kind of thing to it where sometimes you like to go back to your classics and revisit the kind of Cat Power songs that you learned when you were in high school, and compare that to where you are and now. But then also, to learn how to jam and to improvise is very difficult and an ongoing process. And that's definitely something that I saw with my coding too, is that I would... When I first started... So with live coding, a lot of people think that you are always starting from scratch and you will code just from your brain, nothing else, no notes, no nothing, which is a style of live coding.
+
+We have been calling that Mexico City style live coding. I'm not sure... I think maybe it was just one time there was a show like that in Mexico City. And now, that's just called Mexico City style live coding. So if there's anyone who's there, in the live coding scene, I'm sorry if that's wrong. But most of the time, when I do coding, if it's not sprung upon me and someone's just gives me a computer and they're like, "Here, code," I will have something to start from. And the same way that when you're practicing your instrument, maybe you just like performing in certain octaves or you have something to start off of, and then you have your favorite chord structures that you go back to, but then you kind of iterate from there, so very similar in that way.
+
+DEVON: Yeah. That makes sense. You mentioned the Mexico City style. How does the culture of live coding differ in different cities around the world?
+
+CHAR: Oh, my God, it's so cool. So where it originated, in... Oh, my God, there's so much history too. I'm like a history nerd when it comes to this. In the UK in, I think, Sheffield is where it kind of originated with folks like Alex McLean and hellocatfood and Shelly Knotts, those folks over there, they have a much more academic approach to it. So they can talk a lot about the interaction of the computer and the human as they collaborate together to come together to create a new form, and they have beautiful words about it. And I went to a live coding conference in Ireland and I got to meet all those folks. And it was really, really cool seeing them be into it, into the academic side of live coding. And then in New York, we're kind of like, "What even is live coding?"
+
+CHAR: We have people doing modular sense. We consider a modular synth live coding, even though I'm sure some people wouldn't. We consider node programming live coding. We consider... We have DJs who just have a computer aesthetic. We let them in. We invite them. Not even let them, we invite them to our shows and to perform. And so we're kind of like all over the place, super colorful, super... We kind of also have raves, algoraves, where emphasis is on the rave part, I guess. Gosh. It's really a global phenomenon, it's really interesting. In California, there's the AV Club and folks over here are really a lot about... They use a lot of different tool chainings and interesting applications of their own homegrown softwares.
+
+CHAR: That's also something I think it's ubiquitous. Everyone always ends up making their own tool in live coding, which is the inevitable kind of ending part of it because everyone just has... As you use other people's tools, you have ideas on how to create your own. There's also a scene in India of live coding. And from what I can see from here, that's also very education oriented and learning how to code through education, or rather through live coding. There's this artist, Computational Mama, I know her. She goes by Computational Mama online. I haven't met her in person, so I don't know her name. But she's been teaching p5 and all this other cool stuff, and it's involved in the community over there. Yeah, it's all over. I love it so much.
+
+DEVON: What is p5?
+
+CHAR: Oh, p5, it's a JavaScript, visual JavaScript language. So it's a wrapper to create elements on the HTML5 canvas, and it also allows... It's a whole world. So it also allows you to get time input really quickly to be able to get pictures. It's kind of like processing. I don't know if you know Processing.
+
+DEVON: Oh, yeah. I haven't really used it, but I think I have it starred on GitHub.
+
+CHAR: Exactly. Perfect. Yeah. So it's Processing, but for JavaScript instead of Java.
+
+DEVON: So live coding is still, I think, pretty niche, but it seems to be getting more and more popular, or maybe I'm just following more and more live coders and I'm speaking about my own experience. But as it moves more towards mainstream and more people get involved, how has the culture of the community changed?
+
+CHAR: Oh, my gosh. Well, first, I super agree that live coding is getting more and more popular. It's like having a moment. I'm actually on tour right now because I have a performance... Because all of these shows lined up on this side of the United States. And it's really amazing, this has never happened to me before. But it's definitely because of the spreading of live coding, people are hearing about it and then they'll reach out to me and I'll get shows or whatever. I think it's definitely growing and getting bigger. To address your question of how the communities are changing, because live code is growing. It's really just getting more diverse and everyone has their different takes on it. So for example, like DJ_Dave, who's the live coder that I'm touring with, for part of it, she works a lot with sampling. So she'll sample songs and she'll actually use live code to DJ along with making her own music.
+
+She makes kind of produced music that is then released on Spotify and stuff like that. And she'll record each component out of Sonic Pi, which is a Ruby live coding framework, to then give it to a producer to then master it. This is like the application of live coding as it is produced as... And then there's also people like Kingdom who will start from scratch, dude, Mexico City style and code like break beats from scratch in front of the audience. Yeah. There's many different type of evolutions of live coding. And I think that's the beautiful part is that everything that everyone brings to it is equally valid and has its own special something to it. When I was TA-ing, the teacher that I was TA-ing for wouldn't let me help or he didn't ask me to help him grade because he knew that I would just be like, "They're all special snowflakes and they all get A's." And so that's what I'm kind of saying right now is I think everything that everyone makes is just going to be so beautiful and amazing.
+
+DEVON: It's very cool because you can then also incorporate techniques that you see other people using into your own music, if it matches your vibe or you could just enjoy it from afar, if you're like, "You know, that doesn't really work for what I'm trying to do, but it's fun to see."
+
+CHAR: Yeah. The community is so amazing in live code. It's something that really kind of shrinks my global views because I can go to Argentina and my friend Sol, even though our lives are very different, we all can just talk about live coding and relate on this very niche type of performance. And so everywhere I go, I know I'll have someone to nerd out about.
+
+DEVON: This question is more for me, but the audience might find it interesting too. For some background, my boyfriend is from Argentina, so I spend a lot of time there every year. I'm curious, what is the live coding scene like in Argentina and how do they approach it differently?
+
+CHAR: Oh, gosh. I only know a few people in Argentina who are doing it, but it seems... So my friend Soul does it and she is hardcore, math major. And she writes fractals and feedback systems. And I think that, from what I know, it's a lot of using lots of cool math, but maybe that's just my friends that are there, who are into it. Oh, and she's in like a band called, I think, they're called Three Amigos or maybe that's in Spanish, but it's like three friends, and they have audio visual performances over there. I'll send you her stuff.
+
+DEVON: I would love to see it. And if she does in-person performances, maybe next time I'm in Buenos Aires, I'll go watch. It sounds really fun. I imagine your ability to do in-person performances was curtailed during the lockdowns at the beginning of the pandemic. How did you your work to those constraints, and are there any techniques that you picked up during that time that you've carried forward now that in-person performances are back?
+
+CHAR: The biggest challenge for streaming was the combination of a visualist and the musicians code, because you want to be able to see both. And so basically, I just kind of like refine my tool set of being able to combine both pieces of code into one output stream so that you can send it to Twitch or whatever. And really, it's a lot of OBS magic. So I learned OBS a lot over the pandemic and OBS.Ninja, which is a really... It's just actually a different tool, but it's basically does the same thing, but it's online. And I'm definitely going to use that a lot more because it reduce... It makes everything so much easier when you just have one output stream. You can mirror that on projectors and use HDMI splitters just kind of have that be a really quick way to slap up some code up there.
+
+DEVON: Oh, interesting. So if I'm understanding right, before you would have two streams of data, one for the audio and one for the visuals, and then you had to do some complex stuff, but that wasn't really possible when you were streaming, so you learned how to do a more simple, elegant way to do it, that will also be useful for?
+
+CHAR: Exactly. Yeah. Yeah, it puts more of the work onto the computer and less work onto the people setting up projectors and wiring and stuff like that. That is always nice. That's a large part of what computers are good at. Exactly.
+
+DEVON: Before this interview, you sent me a link to toplap.org. I hope I'm saying that right. And it's an organization that promotes live coding and it stands for the Temporary Organization for the Pragmatics of Live Art Programming. And that name made me very curious. I was wondering why is the word temporary in there? And what does that say about the culture of the people who started it?
+
+CHAR: We all embraced ephemerality, even in our manifesto. So the kind of thing that's supposed to bring us together, we call it the Live Coding Manifesto Draft, and it will always be a draft. It's never going to be the final version because everything is always constantly being edited. And I think that that's why it's a temporary organization because we just... Everything is always changing. That's the one thing that is for sure in life is change. And I think that also kind of bleeds... Maybe it's just because I'm in California and I'm in this kind of woo-hoo co-op, and it really leads into my meditation practice of everything is always going to change. And that's the only thing that you can kind of be sure of. Sounds like... I don't know. I guess it's my take on that right now.
+
+DEVON: It's pretty hard to argue with that. Why do you think live coders embrace that and highlight that fact? Because I don't know if I've ever heard of an organization that was officially called the temporary organization for blah, blah, blah.
+
+CHAR: Oh, my gosh. I think that's so smart to do, especially with computers, to just embrace the fact that it is going... Everything is going to end at some point and just to be prepared for that, especially because computers are ever changing objects and any new media artist knows a big pain point, it's just keeping your artwork alive online. So when Flash was deprecated, a whole era of artwork is just gone. And I think just coming forth, embracing that forthright is that everything is changing and all your tools are going to break and eventually degrade, even the disks on hard drives are eventually going to fail. They actually last a shorter amount of time than print. So it's like all of the code that we write is actually going to last a shorter amount of time than if you were to write your code out on a piece of paper.
+
+DEVON: That's really interesting. Yeah. Have you been to the Internet Archive in San Francisco?
+
+CHAR: I haven't been, but I have a friend who works there.
+
+DEVON: Yeah. They talk a lot about this and... They're trying to slow down that process to the extent possible and save things that are digital. But whenever I hear people, they talk about it, I get a sense of they understand that it'll probably happen one day, but let's, at least, to the extent possible, hold on to things.
+
+CHAR: Exactly. I feel that very strongly. And also, just embracing it and saying like, "This isn't going to last forever. I'm not going to last forever."
+
+DEVON: Well, that's a good transition into another topic I wanted to cover, which something that seems to last forever is email. Yeah. It's been around for a very long time, in internet age at least. And that's something that you've done a lot of research on. Something I saw that you had written was that you think the email is very radical. Can you share why you think email is radical?
+
+CHAR: Email is the distribution of it and the decentralization of it. If you really think about it, it's like everything that every radical new protocol wants to be, it's already just built in. So email was made in the '70s and it's not going anywhere. It's basically our digital passports and it's a decentralized, right only protocol. I find email interesting because I realize that it's the only long distance form of communication that I use every day that doesn't necessarily have to rely on a big tech company or the government, including snail mail. Email, it essentially is a protocol that can be written by really anyone, but it also, there's a lot of, I guess, barriers into learning how to set up an email server. But essentially, at its core, it really is like this kind of democratized protocol.
+
+I was thinking about this and I was like, "Oh, wow." I was thinking about how cool email is and why do we hate it so much, and why is this email listing that we turn into something that we kind of regret it every day. And I was thinking about how can I share my love of email to other people? And I thought about making this email server so that, A, I could learn more about email and the difficulties of setting up your own email server, and also, to kind of spread just awareness of what email is and how it exist in the history of it. So I came up with this email server called Computer Faith, and basically, it's running on a server that's... It's not run by Google or Amazon or any kind of big tech company.
+
+It is a mischievous email server in that if you use it to send email, it will kind of scramble your words, whether it be like using a dictionary to replace some words or just scramble it, translate it into another language and translate it back. But basically, it is bringing faith, having faith back into technology, because I was thinking about what are the things that are hot in technology? You have Bitcoins, really hot. We have 3D printing is really... I mean, 3D printing is less hot now, 3D printing and machine learning, all three of those things are extremely hot topics, right?
+
+And the thing that kind of intersects all of them is uncertainty, right? You don't know if your 3D print is going to go, "Hey, why..." You don't know if your machine learning is going to misidentify a duck for a car, or you don't know if Bitcoin's going to go down. And so I was like, "Yeah, what if I just made email as risky as all of these hot technologies?" And that's where I started making Computer Faith. That was my really scrambled way of describing how excited I am about email.
+
+DEVON: No, I mean, it's one of those things where I think it's one of the few types of identification that everyone I've ever met has. I guess, I haven't asked every single person I've met, but almost everyone has a phone number and almost everyone has an email, almost everyone has a name and that's about it.
+
+CHAR: Yeah.
+
+DEVON: It's good stuff.
+
+CHAR: Yeah. Do you remember what your first email address was?
+
+DEVON: It was just [email protected], which is my family's email server.
+
+CHAR: Whoa, wait, your family had an email server?
+
+DEVON: Yeah, my dad set one up when I was a kid.
+
+CHAR: That's so cool.
+
+DEVON: ... ask him why. I don't know why he did it in... I don't think he had any particular reason for it, besides just wanting it to be his.
+
+CHAR: Oh, I love that. My first email address was kinggagu2, because kinggagu is taken, and so I was like, "I guess I just have to be kinggagu2."
+
+DEVON: I was always really jealous of my friend, Anna. Her email address was... I hope that no one sends her a ton of spam now that I'm saying it, but it was... Her last name was Goldberg. And so hers was [email protected] or-
+
+DEVON: Yeah. And the @ sign was used like horsing around at. I thought that was just the most clever thing I've ever seen. I thought she was a genius.
+
+CHAR: There is something that I started doing. So in my research in email, I was just reading the RT... I mean, RFC, which stands for requests for comments. And it's kind of just like internet protocols are just put on RFCs just for... Maybe there's people who are listening who don't know. Basically, if you add a plus at the end of your email before the @ sign, so after your name and before the @ sign, you can add plus, and then you can write anything you want. So you can perhaps say who you gave your email address to when you gave it to them. So if I'm signing up for a service, I'll just put plus, and then the name of the service. So then if I get spam email to that email, I know who leaked. I have also been using it as a small diary. So you can say like Chars, a contact, plus [email protected], so that when I get an email from there, I'm like, "Oh, yeah." It's a little remembering of when I felt good.
+
+DEVON: That's super cute. I had not thought of using that as a diary, that idea. Something you say on your personal website is that part of your interest in email is that you want to call people to value maintenance over invention, because maintenance itself can be innovative. Can you speak a little bit to that and how that relates to email?
+
+CHAR: Oh, my gosh. Yes. So I always say that always this constant technology to reinvent buses or to reinvent things that already exist is kind of getting boring, and I say that with a wink. It's getting, wink, boring, because people like Elon Musk and his boring company, that is just, to me, I'm just like, "That's just like your default go-to to grab for power," or something like that. When in reality, there are all these structures in place that if have respect for previous thinkers and are people who've come before us, you can say like, "Oh, they've thought about this for a long time and we can build on top of that," instead of us starting from scratch. Because in a way, you can still start from scratch, but still use a lot of infrastructure that's already in place that works for people. It's really just being mindful about, I guess, mindful about how you use technology and also respectful of the past. I think that that can go a long way.
+
+DEVON: What does it look like for a technologist to emphasize maintenance? What sorts of actions would you take in your day to day life to try to follow that value?
+
+CHAR: Allocating time to learn. I mean, we all do this in a way, but just kind of, I guess, making a ritual out of it to learn the about the past to respect the past in a way. I say this, but I also... It's one of the reasons why I'm not so much a web developer because web development, you have to learn so much about the past. You can get kind of overwhelming as opposed to learning about something like a native app or C plus... Not that C++ is less work than learning JavaScript, but just in my brain, it's you have to learn less about the history of protocols, why things, they are like this, as opposed to web development. I guess that's not a very great answer, but alas. I guess I don't have a great answer for that.
+
+DEVON: No, I think there's something to that. I mean, one of my big experiences when I worked as a full-time software engineer was whenever I'd come up to a new system, I'd be like, "Okay, I think we should just rewrite it," because then I'll understand it. And this is a terrible idea for a lot of reasons, sometimes, rewrites are a good idea, but very rarely. And the reason there's that mismatch, I think, is because a lot of people, myself included, will go up to a system that you don't understand yet.
+
+And you go, "Well, this doesn't..." The reason I can't understand it is because it's bad, and it's not me that is lazy and doesn't want to learn it, there must be something wrong, so we're going to start from scratch. And there's a time and place for that sometimes, but most of the time, I think it's important to step back and be like, "Okay, maybe there is some reason to this. Maybe I'm going to just make the same mistakes as what they made or worse ones, so let me sit and understand it before I have really strong opinions about how it should be different."
+
+CHAR: Yeah. I agree with that, but I also still see the value of rewriting stuff. I think on a micro scale, that's okay, but on a macro scale of when people have a bunch of power and they're making these grand decisions about infrastructure and technology and stuff going forward, I think that that is when there should be more thought and respect for the past. But if you're trying to get something done, I rewrite things a lot. I even rewrite my own stuff sometimes, because when you rewrite it, you learn it different way.
+
+DEVON: Can you say a little bit more about that? Examples that come to mind?
+
+CHAR: Yeah. I guess the example is just the canonical example I alluded to this before is just like Elon Musk reinventing buses and being like, "Yeah, I need a way... No human can defeat traffic." And there's a universal problem that no human can defeat traffic and all that. It's just kind of like, "Elon, that's a bus. It's a bus, man." It's not fancy. It's not sexy, but it's there and there's solutions to this if you take a more community-centered approach to solving problems. I guess I'm kind of getting into... I'm still... I guess I'm getting kind of into my political framework of reference.
+
+DEVON: For sure. In 2019, you did this really cool project called Empathy Machine where you worked with dancers and had a ring. Can you describe that project and the tools that you used to build it?
+
+CHAR: Yes. So that was with a dance crew, slowdanger, and they were creating a dance piece that was about the kind of relationship to technology, and almost technology and mass hysteria of people. So specifically referencing the Y2K hysteria that happened. They created a dance piece to kind of tell, create conversations around that. And they hired me and one other technologist, Neil Hinkey, to create a system that would actually add light as a collaborator in their dance, so their shadows and a moving spotlight. And what that is, in materiality to, I can paint a picture, is that it's about an LED ring that is 12 feet in diameter and it is above the dancers and these are addressable LEDs. And so you can kind of create a light that moves around the space. You can kind of create a fluctuating noise or have multiple light sources.
+
+This is not the first time that people have used light and dance, but it was a fun way to create a living and very transportable. That was another thing. It was very transportable. So we could travel with it a lot, light installation that the dancers could dance under. And it was extremely DIY as well. And I wrote software to address the LEDs and I added a camera in the center so that it would respond to the dancers in real time. The light could be where they were dancing so they could improv and have the light follow them. Or the light could be opposite from where they're dancing or the lights' features could be corresponded to their location or how they were moving. I used ml4a for which is a openFrameworks plugin that allowed easy access to machine learning algorithms for artists to use.
+
+And so I used a classifier. It was a simple classifier, but to then interpolate between different dance movements or dance formations that the dancer would create. So the one lighting structure would correspond to them all standing and different lighting structure would correspond to them all sitting on the ground. And that was a really fun process because of the way that you need to teach the machine to create the data set. That's one thing that's always I kind of love doing in machine learning is creating the data set is that I just had the dancers stand in all different ways that they possibly could stand with all these different lighting conditions. It was a meditation on standing and a meditation on sitting and doing all their different formations. I really live for those interactions with technology, when I do my work.
+
+DEVON: That's really cool because I think that when I took a machine learning class in college, it was very much framed as the algorithm is the cool part and then the data is the hard, annoying work that you have to do to collect, to make it work. But none of the programmers are really excited about that part, it's just kind of something you have to do. And so it's fun to flip that on its head and be like, "No, that's the interesting part where all the magic is really happening."
+
+CHAR: Exactly. And I think this idea that that is the annoying part is what leads to all of these people trying to siphon data from people who don't consent to having their data inside of a machine learning algorithm, because that is just seen as the boring part or the tedious work or something like that. It just leads to people being like... I don't know. I think more intentional data collection and consensual data collection is a beautiful part of machine learning.
+
+DEVON: What are existing systems that someone might have come across in day to day life that you would do the data collection for differently?
+
+CHAR: Oh, my gosh. This is a really great loop back. So to a previous topic, email. So a lot of natural language processing models and any type of, I guess, model that needs a large text input have connections to what is known as the Enron data set. So with the Enron... Have you heard of this?
+
+DEVON: I have, but go on. This is really good stuff.
+
+CHAR: It is really good. So the Enron data set is emails that was released from a... I think it was some kind of power company. Do you know what kind of company Enron was? It was like oil and gas or something like that.
+
+DEVON: Yeah. Mm-hmm.
+
+CHAR: Yeah. So this oil and gas company was put on trial for a bunch of illegal embezzlement or tax fraud, basically, really white collar crimes, malpractice. And because they were put on trial, their entire email communication systems was released to the public because that was evidence. And because these emails were this massive data set of communication was released to the public, opportune machine learning scientists saw that as something that could be used to train their network. But then, it brings this question of you're training a network on a company that was committing fraud. And not that everyone in the company was doing that, but we could talk a long time about company culture and how that kind of changes...
+
+It changes people in a way. And so it kind of brings the question of this data set is now leached into all sorts of technology that we use today. The same way that like if you were to use a weird onion three months ago in your forever soup, that would still be in your soup three months, or the essence of that somehow would still be in your soup later on because you use that. But it's honestly, Enron, it's everywhere. And so that is an example of a way that data collection is kind of has some... I mean, we don't actually can't even track the unintended consequences of that, but it just calls a question of what is intentional data collecting and should stuff like that be used?
+
+DEVON: Yeah. Especially if it's overrepresented. It's one thing to pull data that is sort of like a representation of all human activity, and one of those things is fraud, but it's another thing if one of the main sources-
+
+DEVON: Yeah. Yeah. Kind of wild.
+
+CHAR: Do you remember what they were on trial for? I think it was fraud or...
+
+DEVON: It was for their bookkeeping. Yeah, it was for fraud. They lied about exactly money, and they were about to go bankrupt or something. So not only were they making less money, they were a completely unsustainable business. I think there were other sketchy things going on too, but that was, I believe, the one that they got nailed for. There's actually a really good documentary on Netflix as a side note that is quite interesting. So when you were building the Empathy Machine with this dance to group, I heard that the ML system broke part of the way through. And you had advocated for keeping it in the show and embracing any mishaps, which feels very in line with a lot of the other things that you said before. Can you say more about why you wanted to do that and what you think would've happened?
+
+CHAR: Because machine learning is this black box, it always has unexpected kind of results happen, and I really like the way that dancers can adapt. And that's kind of what dancers are really best at, making something beautiful out of part of a mistake, or not a mistake... Yeah, a computer's mistake, they can work with that and adapt to that and create something beautiful out of it. I'm not sure if that answers your question.
+
+DEVON: No, no, that's a good answer. Most programming today is done through a keyboard and that's true of most live coding as well as far as I understand. If you were to create a novel input device specifically designed for your performances, how would it work?
+
+CHAR: I would love to embody my performance in a different way. One thing I've been doing a lot recently is aerial silks. And I would love to kind of be able to be up in the air and live coding somehow, maybe that be through movements. Maybe there would be some keyboard involved, but I would love to kind of be like a hybrid. Maybe I'm suspended with the keyboard and also have keyboard embedded in the silks. It's kind of like a crazy dream that I want to do before I die.
+
+DEVON: And when you say aerial silks, you're talking about the circus silks where you're up in the air?
+
+CHAR: Yeah, exactly.
+
+DEVON: Cool. Have you heard of... I think they're pronounced MiMU Gloves or MiMU, I'm not sure.
+
+CHAR: Is it like the Maya armband or no?
+
+DEVON: I haven't heard of that one, but all I know is I saw this video a while back of Ariana Grande with these gloves on where you can change the volume of the music. And I think it follows your fingers to do cool things, and it sounds... It's not exactly what you were describing, but it's the closest thing I've ever.
+
+CHAR: Yeah. No, I think that that's really close. Its like Imogen Heap has the gloves that she performs with a lot of times.
+
+DEVON: Yeah. Yeah. I think these are actually exactly the same gloves.
+
+CHAR: I think that would be really cool. Yeah, something like that. I think I'm always thinking about my physical practice and how I can integrate that into my computational practice. My biggest dream is to bring machine, or room-sized computers back. I want to be able to run across the room to have to hit enter and for there to be just a giant lever that I have to press to run my program. I know this is the exact opposite of where computers are going. I really believe in the importance of embodiment and knowledge that is stored in different parts of the body. And I don't know if this is the way to do it, but it's just kind of like a dream that I have.
+
+I think I'm always thinking about my physical practice and how I can integrate that into my computational practice. My biggest dream is to bring machine, or room sized computers back.
+
+DEVON: I think a lot of people share that intuition actually. I mean have you ever seen Iron Man and how he's got all the different displays around him and he uses his hands and stuff. I think that's a very... It just looks cool, that's part of it, but I think one of the reasons it looks cool is you're feeling like you're really part of the system as opposed to kind of like outside of the system, looking in through a tiny little window.
+
+CHAR: Exactly. Yeah. And you just have little sticks that you're trying to put together. It's like a ship in a bottle.
+
+DEVON: Yeah. I like that metaphor a lot. Okay. So now I will have to it introduce you to Omar when you're back in New York. The friend that I mentioned at the beginning, because he does a lot of work in this realm. If you were to use those gloves, how do you think it would influence the result of your music and the result of the visuals on the screen?
+
+CHAR: Ah, I think that... Gosh. It would be a lot more organic, so there would be a lot more... Less sign waves, because that's the way that I create movement in a shader is that you just kind of put sign of time and then it's this perfect oscillation. But if I have movement that's input correspondence, to me, there would be a lot more randomness and kind of like human movements that our brains can pick up, because we have certain neurons to detect things that we relate to whether it be our movements or our faces. And so it would definitely feel more human. One artist that I really is, a group of artists, is Team Rolfes and they do VR performances, but they use the VR controllers like a handheld kind of camera aspect. And I think that that is a really beautiful. They're super chaotic and maximalist, but the way that they use human input and mocap in their work is really inspiring, so I think that it would probably-
+
+DEVON: So I have one last question, which is what are some ways that you have misused technology?
+
+CHAR: Ah, I have misused technology all my life, so I'm very delighted to be asked this question. Most of the time, my misuse of technology is when I'm writing shader code, I will have a mistake, something that I didn't intend, but I'll lean into that mistake and create something that is beautiful and something that I love more than I would intentionally have intended on doing. I always say that if Bob Ross was a programmer, I sincerely believe he would be a shader programmer because your mistakes are so beautiful and any type of... And I haven't really come across that in any other type of computing where... Especially in all graphics, really, graphics programming. Your outputs can be so visually compelling or your mistakes can be so visually compelling and even brings humor to it. What was one of the reasons why I got into graphics programming was just because the glitches, oh my gosh, they bring me so much joy. A character T-posing off into the sunset while their triangle spaz out. That just is like the pinnacle of comedy.
+
+Maybe that's why I couldn't be a comedian because I would just be talking about graphics glitches, because that just brings me so much joy way. Other ways I misuse technology is in trying to unravel it to talk about how it works. So I misuse email by creating a broken email server because I want to learn about it. So breaking something to learn about it, I think is really important, also, a part of play too. I believe in the huge importance of play and learning how to program. Is there any other things that I'm forgetting? You did such great research by the way. I loved all the research that you did on me. This is super a delightful conversation. I've never had such a nice interview before.
+
+DEVON: Oh, thank you. That makes me very happy to hear. It's easy to ask fun questions when I'm talking to someone who's done really interesting work. So it just kind of flows out to just... Basically, I just read something that you've written or watched something and I'm like, "Okay, well, now, I have a bunch of questions, so I got to ask her those questions." But yes, that does that. Those are great answers to the question. All right. So those are all the questions that I had prepared. Thank you so much for coming on the show. This was such a fun conversation.
+
+CHAR: Yes. I had so much fun.
+
+Brought to you by Devon Zuegel
+
+Devon is a software engineer and writer based out of San Francisco.
+
+Edited by Molly Mielke
+
+Audio by The Land Films
+
+Illustrations by Roman Muradov

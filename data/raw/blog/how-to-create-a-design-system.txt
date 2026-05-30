@@ -1,0 +1,135 @@
+Title: How to create a design system
+Published Date: 2023-09-19T00:00-03:00
+URL: https://www.notion.so/blog/how-to-create-a-design-system
+
+You’ve identified a need in the marketplace and developed a ready-to-sell product or service that addresses that need. Now what?
+
+It’s time to build your brand: a recognizable identity that suits your business’s mission and speaks to your target audience. This includes everything from the buttons on your website to the colors in your logo.
+
+But keeping your branding consistent is easier said than done — especially if you have a large team or hire freelancer designers that need to learn your style, fast.
+
+Knowing how to create a design system goes a long way toward not only making your products and services pop, but building a smoother design process for your team. Here’s how to use one to document design decisions, bank reusable elements, and ultimately build brand consistency.
+
+What’s a design system?
+
+A design system is a collection of reusable elements such as headers, icons, and fonts that meet a set of standards for a brand. Everything within it follows specific guidelines and makes those rules clear for potential designers and developers. It’s a way to streamline the design process and make your company’s branding consistent across all platforms.
+
+Think of the iconic McDonald’s “M” logo. You’d never see that “M” in anything but the brand’s classic red and yellow. It’s instantly recognizable. That’s because McDonald’s has a strong design system that ensures all designers — whether they’re brainstorming an ad campaign or building the storefront of a restaurant location — create an output that looks the same.
+
+With a design system, your team has access to the rules of that button and can maintain its look across every page, everywhere. That consistency should apply to websites, mobile apps, and any other platforms with a heavy focus on visual aesthetics. If a user sees square buttons on your homepage, every other page should have the same square buttons with colors and spacing that match the rest.
+
+Key components of a design system
+
+The components and principles of any good design system need to be homogenous, accessible, and easily reusable to meet its goal of efficiency.
+
+There’s no steadfast list of design system documentation elements that guarantee success. It depends on your brand’s needs. But the best design systems do share some common factors:
+
+Design process guidelines — for designing products and campaigns, there should be comprehensive branding guidelines on layout, fonts, and spacing, just to name a few. These rules should conform to the company’s core values. This is sometimes also known as a design language.A design pattern library — this is a centralized storehouse of patterns — shapes, color schemes, etc. — that designers can use over and over again. This saves time and ensures consistency with a brand’s look and feel.A user interface (UI) kit — like a pattern library, this is a collection of components like buttons, widgets, and emojis. The difference here is that they consider UI and usability along with aesthetics instead of just the latter.Accessibility elements — design guides should outline key rules and recommendations for web accessibility. Every element should comply with the Web Content Accessibility Guidelines to ensure designs reach as wide of an audience as possible.
+
+Design process guidelines — for designing products and campaigns, there should be comprehensive branding guidelines on layout, fonts, and spacing, just to name a few. These rules should conform to the company’s core values. This is sometimes also known as a design language.
+
+A design pattern library — this is a centralized storehouse of patterns — shapes, color schemes, etc. — that designers can use over and over again. This saves time and ensures consistency with a brand’s look and feel.
+
+A user interface (UI) kit — like a pattern library, this is a collection of components like buttons, widgets, and emojis. The difference here is that they consider UI and usability along with aesthetics instead of just the latter.
+
+Accessibility elements — design guides should outline key rules and recommendations for web accessibility. Every element should comply with the Web Content Accessibility Guidelines to ensure designs reach as wide of an audience as possible.
+
+Why is a design system important to have?
+
+Similar to a style guide, a comprehensive, clear, and accessible design system makes it faster and easier for design teams to do their jobs. Instead of creating a new widget when updating a webpage, they can just copy the existing one. And instead of hunting down color schemes and wondering how to present them, they can check the guidelines and find hex codes fast.
+
+Here are four more benefits of implementing a design system:
+
+Consistency — having a bank of consistent design elements and rules makes work easier for your design team and helps build brand recognition for customers and clients.Team collaboration — your design and product development teams access the same guidelines, maintaining cohesion from start to finish. This avoids duplicity and eliminates the off-brand work that might go to waste.Speed and scalability — when teams work from the same central playbook, the output has a faster turnaround time and scales more efficiently.Customer trust and loyalty — a clear and established brand identity appeases the customer and client base through familiarity and professionalism. It also aids user experience (UX) design and UI design, improving your audience's flow.
+
+Consistency — having a bank of consistent design elements and rules makes work easier for your design team and helps build brand recognition for customers and clients.
+
+Team collaboration — your design and product development teams access the same guidelines, maintaining cohesion from start to finish. This avoids duplicity and eliminates the off-brand work that might go to waste.
+
+Speed and scalability — when teams work from the same central playbook, the output has a faster turnaround time and scales more efficiently.
+
+Customer trust and loyalty — a clear and established brand identity appeases the customer and client base through familiarity and professionalism. It also aids user experience (UX) design and UI design, improving your audience's flow.
+
+How to create a design system in 7 steps
+
+Creating an efficient design system takes time, testing, and effort. It’s an ongoing process that doesn’t stop when people start using it. And by being meticulous from the start, you’ll have an accessible and implementable blueprint that you can launch with confidence.
+
+Here are seven steps for creating an efficient design system:
+
+1. Conduct a visual audit
+
+First and foremost, take an honest look at your current designs — your website, apps, and any other digital products in your ecosystem. Focus on such things as colors, fonts, and imagery and how your team has used them in the past. The key here is to find what you’ve been doing right and what you want to change.
+
+Document and catalog this process to get a realistic overview of what next steps you need to take. Maybe you still love the fonts you chose a year ago, but the color scheme looks outdated. This helps you anticipate how much of a task it will be to make changes and effective design choices.
+
+2. Analyze your existing design team’s process
+
+After assessing your current design style, take a look at your process and guidelines. Identify the exact steps and tools that your design team uses to spot any deficiencies and duplicities, and decide whether they’re actually working. Adjusting as needed will streamline the creative process down the line, even if there’s a learning curve as your team conforms.
+
+3. Create a design language
+
+A design language is the heartbeat of your design system, outlining the guidelines and components behind your brand identity. It includes (but isn’t limited to) stylistic choices such as:
+
+Color schemes Typography and fontsSizing and spacingImageryVoiceToneAnimations
+
+Color schemes
+
+Typography and fonts
+
+Sizing and spacing
+
+Imagery
+
+Voice
+
+Tone
+
+Animations
+
+Start this by compiling all of these components into an accessible repository, and create new ones to fill the gaps if you decided to make changes. The important thing here is to have an exhaustive plan and stick to it. Then you’ll have a consistent, yet creative, design matrix.
+
+4. Create a UI library
+
+Alongside your design language, develop and document a collection of reusable UI design components. These might include:
+
+Buttons AlertsTabs Badges Icons Toggles Forms Loaders Carousels Navigation
+
+Buttons
+
+Alerts
+
+Tabs
+
+Badges
+
+Icons
+
+Toggles
+
+Forms
+
+Loaders
+
+Carousels
+
+Navigation
+
+Having these elements available in a copyable format streamlines the design process and helps brands become consistent faster. As you go, review the components and eliminate any the design team no longer needs. Archive them in a separate drive for later use.
+
+5. Have flexible options with the functional elements
+
+Make sure all components in your UI package are editable and flexible. Upload the hands-on file of the component, not just a screenshot of it. That way, designers can use it in multiple contexts with ease. You want these elements to be modular (self-contained), composable (can pair with other components), and customizable (flexible and adjustable).
+
+6. Speak the same language
+
+Now that you’ve established your brand’s components and language, make sure everyone on the team understands what you’re going for. Meet up and take the time to ensure everyone knows what the design system looks like and the reasoning behind it. Make space for rules and feedback. Designers are the ones using your system the most, so this is your time to make sure it serves them.
+
+7. Communicate
+
+Communication is key in all facets of business and life — and it’s no different for design systems. As your system evolves and morphs over time, relay all retooling to involved teams and make sure everyone’s on the same page. Implement open and active communication channels where your team can exchange and workshop ideas.
+
+Streamline your design process with Notion
+
+If you’re ready to take your brand’s design to the next level, use Notion to document the process. Create a design system with sharable files, custom databases, and in-document commenting.
+
+You can check out templates like Headspace's design system, entirely for free. Or, read more about team documentation knowledge management hubs and quality management systems. Your whole process can live in Notion.

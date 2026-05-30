@@ -1,0 +1,97 @@
+Title: How to build an engineering team: Guide & best practices
+Published Date: 2021-12-15T00:00-07:00
+URL: https://www.notion.so/blog/engineering-team-guide-to-sprint-retrospectives
+
+Your product is only as successful as the engineering team building it.
+
+You could have the most incredible marketing and sales departments, but if your engineers haven’t designed the product well, everyone will suffer from customer complaints and nose-diving revenue.
+
+Engineers build things — be it physical structures or virtual platforms. As a company leader, you build teams. And you must build a high-performing engineering team to guide your product toward success.
+
+7 essential engineering roles
+
+Whether you’re building a development team or software engineering squad, here are seven of the most critical roles you should consider onboarding.
+
+1. Business analyst (BA)
+
+Before you build out your team, you need to know what they’ll work on. Building a mobile app requires different expertise than creating a physical product. A BA will determine what your business or project needs and specify team and resource requirements.
+
+2. Chief technology officer (CTO)
+
+A CTO acts as the engineering manager. They’re responsible for the entire team and its deliverables and will often work closely with other company leaders and the BA to confirm that their team can meet a product or project’s requirements.
+
+The CTO understands what resources are needed to complete a project, so they’re usually involved in the hiring process.
+
+3. Software developers
+
+Software development staff are highly valuable to engineering teams because of their coding and programming expertise. Most digital and technical projects nowadays, from website development to city infrastructure planning, require this expertise. Developers often have unique subject matter expertise — like C++, Javascript, or WordPress proficiency — so your engineering leader will hire employees with the skills necessary to complete your project.
+
+4. Software development leads
+
+Depending on your organization’s bandwidth and your unique needs, you might hire several leadership roles to handle different engineers’ specialties. Your CTO might be too busy to oversee your software developers, for example, in which case you’d want to hire a manager to monitor and support this team.
+
+5. Quality assurance engineers
+
+Quality assurance (QA) engineers test products to ensure they meet the client, internal, and target-audience-based specifications set out in your software design document. They’ll run your product through user testing, code reviews, and safety checks, among other things.
+
+6. Project managers
+
+Your CTO or other engineering lead will assign a project manager to every project. This person oversees all project management aspects for the engineering team, like creating and assigning employee action items, monitoring progress, and addressing roadblocks.
+
+7. Product manager
+
+The engineering manager will also assign a product owner/manager to each project. Their role focuses on delivering a product that fulfills specific target audience requirements. They’ll establish the product’s vision, work with the marketing team to develop a strategic plan for launching this product, and ensure the engineering team creates the features necessary to satisfy customers.
+
+An engineering project’s lifecycle
+
+To decide who you need on your engineering team, start by considering the entire product creation and delivery process. Here’s a standard timeline that uses a mobile app project as an example:
+
+Discovery — your BA interacts with your company’s executive team and stakeholders to determine what they want regarding this new mobile app. Maybe the CEO says it must attract the U.S., mid-thirties, liberal demographic and a stakeholder determines it must reach 10,000 subscribers in one year to achieve the results they require. Brainstorming — your BA discusses these high-level requirements with your CTO or other engineering lead to determine what resources you need in order to meet these goals. You might need to hire another software developer or user experience (UX) designer, for example, to ensure the app’s coding is up-to-par and users enjoy a fantastic experience.Assigning responsibilities — the CTO delegates roles, like project and product managers and other team leads. Documentation — everyone involved works together to fill out a software design doc template that outlines this project in detail, including a timeline, milestones, and all requirements. Project kick-off — project managers assign action items for every engineering team member, and employees get to work. Progress review — project and product managers monitor progress and make changes when necessary to ensure everything is on schedule and the product delivers what every department, from sales to marketing to leadership, needs.Testing — quality assurance engineers test the product before release to make sure it’s up to code. UX designers also test the app’s user experience specs and make changes if anything’s difficult to navigate. Release — the engineering team releases the product to the marketing and sales teams to share with their target audience as they see fit.Post-mortem — the engineering team writes a project post-mortem, typically together in a retrospective meeting, to document what went well and what they could improve for next time.
+
+Discovery — your BA interacts with your company’s executive team and stakeholders to determine what they want regarding this new mobile app. Maybe the CEO says it must attract the U.S., mid-thirties, liberal demographic and a stakeholder determines it must reach 10,000 subscribers in one year to achieve the results they require.
+
+Brainstorming — your BA discusses these high-level requirements with your CTO or other engineering lead to determine what resources you need in order to meet these goals. You might need to hire another software developer or user experience (UX) designer, for example, to ensure the app’s coding is up-to-par and users enjoy a fantastic experience.
+
+Assigning responsibilities — the CTO delegates roles, like project and product managers and other team leads.
+
+Documentation — everyone involved works together to fill out a software design doc template that outlines this project in detail, including a timeline, milestones, and all requirements.
+
+Project kick-off — project managers assign action items for every engineering team member, and employees get to work.
+
+Progress review — project and product managers monitor progress and make changes when necessary to ensure everything is on schedule and the product delivers what every department, from sales to marketing to leadership, needs.
+
+Testing — quality assurance engineers test the product before release to make sure it’s up to code. UX designers also test the app’s user experience specs and make changes if anything’s difficult to navigate.
+
+Release — the engineering team releases the product to the marketing and sales teams to share with their target audience as they see fit.
+
+Post-mortem — the engineering team writes a project post-mortem, typically together in a retrospective meeting, to document what went well and what they could improve for next time.
+
+5 engineering team best practices
+
+No engineering handbook covers every best practice, as this depends on your team composition and industry. But here are five worthwhile practices you and your engineering leaders can prioritize to build a strong, collaborative team.
+
+1. Define expectations
+
+As you hire new team members, set clear expectations so they understand their role and can provide meaningful work immediately. Setting expectations also helps everyone understand what success looks like so they know how to move forward and when to celebrate accomplishments.
+
+You should also ask leadership staff to hold frequent one-on-one meetings with their direct reports throughout every project to ensure they feel well-informed about progress and can promptly address any issues, like feelings of burnout or confusion.
+
+2. Encourage automation
+
+Support your engineers and respect their time by automating repetitive and tedious tasks. This frees them up to do more meaningful work and ensures they don’t feel bored by the project’s process. You might use a project management system that automatically shares task progress with project managers, product owners, and product team members, so people don’t have to notify the whole team whenever they complete a task. Or an engineering manager might create a script that propagates notifications whenever a team member makes a coding change, alerting the whole team.
+
+3. Create an effective workflow
+
+Once you’ve established your team, have project managers and engineering leaders develop a workflow everyone approves of. This includes task-tracking software, an established communication cadence, and well-defined software documentation best practices.
+
+4. Encourage diverse knowledge sharing
+
+The more diverse your team is, the more agile it will be when bottlenecks and challenges occur and management present new projects. Prioritize hiring engineers with different subject matter expertise to ensure you’ve filled every gap and encourage cross-training between employees and professional development opportunities for everyone.
+
+5. Prioritize team building
+
+You’re compiling a team of strangers who must effectively work together to achieve shared goals. To build this camaraderie and teamwork, schedule team-building activities such as brainstorming meetings, training sessions, and fun excursions that have nothing to do with work.
+
+Support your engineering team with Notion
+
+Once you’ve established a solid engineering team, support them with Notion’s resources, like the engineering wiki template and the product management system document. Or search the template gallery to find something perfectly suited to your project.

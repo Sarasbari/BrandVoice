@@ -1,0 +1,21 @@
+Title: Better Databases unlock new ways to slice and dice your team’s data
+Published Date: 2022-03-02T08:00-08:00
+URL: https://www.notion.so/blog/better-databases
+
+Databases are one of the most powerful building blocks in Notion — you can create bespoke workflows for every use case, whether it’s sprint planning, product roadmaps, or habit trackers. Today, we’re introducing several major improvements to databases, so they’re easier to use with teammates, customize to your needs, and manage across your workspace.
+
+Here’s what’s included with Better Databases:
+
+Quick filters — it’s easier and faster to filter the items you see in a database view.New save flow — choose whether to save a filter for everyone, or just for yourself. No more accidentally changing shared views for the whole team!View tabs — Quickly access your custom views by switching between tabs at the top of your database.Streamlined design — find all your customization options like filters, sorts, groupings, and more, all in one settings panel.Re-use existing data sources — Reproduce a specific view of any database elsewhere in your workspace, with all the content synced to the original. This functionality is now easier to discover and use.
+
+Quick filters — it’s easier and faster to filter the items you see in a database view.
+
+New save flow — choose whether to save a filter for everyone, or just for yourself. No more accidentally changing shared views for the whole team!
+
+View tabs — Quickly access your custom views by switching between tabs at the top of your database.
+
+Streamlined design — find all your customization options like filters, sorts, groupings, and more, all in one settings panel.
+
+Re-use existing data sources — Reproduce a specific view of any database elsewhere in your workspace, with all the content synced to the original. This functionality is now easier to discover and use.
+
+Better Databases will roll out over the next few weeks. Watch them in action above!

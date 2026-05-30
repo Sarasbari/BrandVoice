@@ -1,0 +1,105 @@
+Title: Explore Notion AI: Augment Your Writing & Creativity Now
+Published Date: 2023-02-22T07:00-08:00
+URL: https://www.notion.so/blog/notion-ai-is-here-for-everyone
+
+For tens of millions, Notion is already a home for knowledge, tasks, notes, and aspirations. Our inspiration has always come from early computing pioneers like Douglas Engelbart, who believed that computers could help us become better, and faster, at solving problems. He referred to this as “Augmenting Human Intellect.” Steve Jobs would later use the phrase “Bicycle for the Mind.”
+
+“We refer to a way of life in an integrated domain where hunches, cut-and-try, intangibles, and the human ‘feel for a situation’ usefully co-exist with powerful concepts, streamlined terminology and notation, sophisticated methods, and high-powered electronic aids.”- Douglas Engelbart, 1962
+
+In recent months, it’s become clear that artificial intelligence can make that vision a reality, augmenting our capabilities in new and unexpected ways. A motorcycle for the mind. So we spent the last ten weeks testing an early version of an AI-powered Notion on an invite-only basis—collecting feedback, iterating on the design, and exploring where AI fits best into your day-to-day workflows.
+
+Today, we’re pleased to announce that Notion AI is now available to everyone.
+
+No waitlist, no “limited preview.” That means you can leverage the power of AI right inside Notion, across all your existing docs and projects, without the need to jump between your work and a separate AI-powered tool.
+
+Bring AI into your existing Notion workflows with these Notion AI templates, like a copy generator, recruiting outreach, and meeting summaries.
+
+AI can help with your daily work
+
+When we chat with our customers, we hear the same frustration expressed by folks across every role: “I spend more time doing ‘work about work’ than the work itself.”
+
+Imagine, then, a world where you can accomplish 30 minute tasks in a matter of seconds—so you can spend your time elevating your craft, and investing in the projects you care about. An assistant that can help with your daily work, right inside the place where you do your work.
+
+Consider this your invitation. Just open any Notion page, and give these things a try:
+
+Generate an instant summary from a page of messy notes. Start a new line, hit space on your keyboard, then select “Summarize.”Become a more effective communicator. Highlight a paragraph you wrote, click “Ask AI” in the toolbar that appears, and select “Improve writing.”Approach projects with new creativity. Create a new page, click “Start writing with AI,” and ask it to list pros & cons of a decision you’re considering.
+
+Generate an instant summary from a page of messy notes. Start a new line, hit space on your keyboard, then select “Summarize.”
+
+Become a more effective communicator. Highlight a paragraph you wrote, click “Ask AI” in the toolbar that appears, and select “Improve writing.”
+
+Approach projects with new creativity. Create a new page, click “Start writing with AI,” and ask it to list pros & cons of a decision you’re considering.
+
+AI isn’t just an author–it’s a thought partner
+
+When we first introduced Notion AI ALPHA last November, most AI buzz was about the ability to quickly generate content from a simple text prompt. Now, after nearly two million waitlist signups and extensive testing, we know that Notion AI’s ability to author new content only scratches the surface of what it can do, and we better understand its real utility in your daily workflows.
+
+Here’s what we’ve learned in the past few weeks:
+
+We imagined many people would use Notion AI to “Write a blog post,” “Write a press release,” or “Write a sales email”. In reality, these prompts were not frequently used when people in the ALPHA created new pages.The #1 way people interact with Notion AI is highlighting existing text and asking AI for help. This suggests that most people start by writing their own content, and treat AI as a thought partner and editor.Out of all the things Notion AI can help with, the one that people come back to most consistently is “Improve writing,” which works like a one-click photo enhancer, but for your words.
+
+We imagined many people would use Notion AI to “Write a blog post,” “Write a press release,” or “Write a sales email”. In reality, these prompts were not frequently used when people in the ALPHA created new pages.
+
+The #1 way people interact with Notion AI is highlighting existing text and asking AI for help. This suggests that most people start by writing their own content, and treat AI as a thought partner and editor.
+
+Out of all the things Notion AI can help with, the one that people come back to most consistently is “Improve writing,” which works like a one-click photo enhancer, but for your words.
+
+These learnings are further validation to the ideas of Engelbart and the Notion vision of augmenting human intellect (not replacing it). So we completely redesigned Notion AI.
+
+The new interface allows you to interact with your words, giving you follow-up prompts until you’re satisfied with the result. Notion AI is useful for authoring new content—but it will also summarize long documents, extract key learnings from messy notes, improve your writing style, and much more. And when you press your spacebar to access Notion AI, it will recommend the highest value actions based on where you’re using it:
+
+You can get started with Notion AI today
+
+Since launching the invite-only ALPHA, people have been testing Notion AI across every manner of workflow, from writing more effective documentation at work, to meal planning at home. Now, it’s available to everyone—whether you have an existing workspace full of notes, or you’re brand new to Notion, AI can be added to any plan.
+
+Try Notion AI for free. Start by creating a new page, and select “Start writing with AI.” You’ll get 20 free AI responses per member in your workspace. Promotion ends April 5, 2023.Add to your workspace for $10 per member / month. For customers with annual billing, a 20% discount is available. Learn more about pricing →Use Notion AI as much as you need. No need to manage your plan or keep track of usage.
+
+Try Notion AI for free. Start by creating a new page, and select “Start writing with AI.” You’ll get 20 free AI responses per member in your workspace. Promotion ends April 5, 2023.
+
+Add to your workspace for $10 per member / month. For customers with annual billing, a 20% discount is available. Learn more about pricing →
+
+Use Notion AI as much as you need. No need to manage your plan or keep track of usage.
+
+Perhaps the most exciting part of today’s launch is that for Notion AI, this is only the beginning. Using your feedback as our guiding light, we’ll continue to improve the experience and introduce new AI capabilities for you.
+
+FAQs
+
+How do I activate Notion AI?
+
+Notion AI is available to all users. You can prompt AI using your space bar, highlighting text and selecting "Ask AI", or via slash commands. You must take action for AI to activate.
+
+It will not generate content or send requests to our AI providers unless you perform one of the actions above. You are in control.
+
+How is Notion different from other AI tools?
+
+Notion certainly isn’t the only AI-powered tool out there. But here’s what makes Notion AI special:
+
+Artificial intelligence becomes more useful when it’s integrated across the place where you’re already doing your work, storing notes & docs, and collaborating with others. No need to switch back and forth between your notes and a separate AI-powered tool.Compared to other tools, Notion has a unique and highly flexible drag-and-drop text editor, where any AI-generated content can be easily rearranged and transformed. Over time, Notion AI will be able to take advantage of even more Notion features.Today, Notion AI has many uses across your notes and docs. But Notion can do a lot more than just notes — we’ll continue to expand Notion AI’s capabilities to help with project management and your team knowledge base in the future. This is just the beginning!
+
+Artificial intelligence becomes more useful when it’s integrated across the place where you’re already doing your work, storing notes & docs, and collaborating with others. No need to switch back and forth between your notes and a separate AI-powered tool.
+
+Compared to other tools, Notion has a unique and highly flexible drag-and-drop text editor, where any AI-generated content can be easily rearranged and transformed. Over time, Notion AI will be able to take advantage of even more Notion features.
+
+Today, Notion AI has many uses across your notes and docs. But Notion can do a lot more than just notes — we’ll continue to expand Notion AI’s capabilities to help with project management and your team knowledge base in the future. This is just the beginning!
+
+How will my data be used?
+
+Your data is still encrypted and private following our standard data protection practices.
+
+The Notion AI Writing Suite will not use your data to train our models. Any information used to power Notion AI will be shared with our partners for the sole purpose of providing you with the Notion AI features. We do not allow any partners or 3rd parties to use your data for training their models or any other purpose.
+
+For information specific to Notion AI, see the Notion AI Supplementary Terms.
+
+How much usage is included with the Notion AI add-on plan?
+
+When you purchase the Notion AI add-on, you’re enabling everyone in your workspace (except for guests) to have unlimited use of Notion AI.
+
+To ensure optimal performance and fair usage across all Notion AI users, your access to AI features can be reduced depending on your usage.
+
+If any user requests 30 or more AI responses within 24 hours, that user may experience slower performance for that period.
+
+Is there a free trial?
+
+Everyone can use Notion AI for free, so you can test its capabilities before purchasing the add-on subscription. The number of complimentary AI responses increases with the more members you have, and is shared among the entire workspace.
+
+Once you've used all your complimentary AI responses, you will see a message that a Notion AI add-on subscription is necessary to continue using AI features. You’ll need to be a workspace owner, and on desktop, to add Notion AI to your plan.

@@ -1,0 +1,117 @@
+Title: A complete guide to writing and accomplishing SMART goals
+Published Date: 2023-08-08T00:00-06:00
+URL: https://www.notion.so/blog/smart-goals
+
+You have a winning vision for a new project. It’ll turn an excellent profit, improve your company’s image, and expand the brand’s reach. As a savvy project planner, you know that your first step in taking this vision and turning it into results is to set excellent project goals. Only then can you chart action items and a timeline.
+
+But bad goals exist. If you poorly define a project’s deliverables, you risk wasting time and resources as your team works toward the wrong things. And if you create goals your team simply can’t complete, you set everyone up for failure.
+
+Instead, define SMART goals to clarify your project’s vision and help your team perform efficiently and effectively.
+
+What are SMART goals?
+
+The term SMART goals stands for specific, measurable, achievable, relevant, and time-bound. These are objectives a team strategically defines to increase the chance they achieve them.
+
+The acronym “SMART” is no misnomer. Teams that use this method while setting goals determine “smart” ones — objectives guided by reason and metrics, not instinct.
+
+Here’s more on the five benchmarks for navigating this goal-setting process:
+
+Specific — clearly delineate the goal and ensure it’s only one objective, not several.Measurable — you should be able to measure goal progress by tracking metrics and reaching milestones. Achievable — set goals that are within reach, so your team challenges themselves but can actually accomplish them.Relevant — your goal should meet a pertinent need that aligns with the company’s vision and client expectations. Time-bound — set goal deadlines to avoid scope creep and prioritize tasks wisely.
+
+Specific — clearly delineate the goal and ensure it’s only one objective, not several.
+
+Measurable — you should be able to measure goal progress by tracking metrics and reaching milestones.
+
+Achievable — set goals that are within reach, so your team challenges themselves but can actually accomplish them.
+
+Relevant — your goal should meet a pertinent need that aligns with the company’s vision and client expectations.
+
+Time-bound — set goal deadlines to avoid scope creep and prioritize tasks wisely.
+
+The benefits of setting SMART goals
+
+Setting SMART goals is one of the first steps in creating a thoughtful project. When you start with reasonable, attainable goals, you can scaffold their completion with a rock-solid plan. Here are a few more benefits of setting SMART goals:
+
+Shared clarity — one of the perks of setting thoughtful and well-defined goals is that they’re easy to transmit to others. Chances are you’ll run a cross-functional project with internal and external stakeholders who need to understand shared and individual goals. Setting SMART ones allows all involved to quickly grasp objectives and work with a sense of clarity.A guide for roadmaps — since these goals are time-bound and measurable, you have data points to plot on project planning charts and schedules. If you know what milestones you must complete by specific dates, you can base your Gantt chart or other project planning tool on this data.Alignment with long-term objectives — when setting these goals, you’ll consider their relevance. In professional settings, this means aligning them with greater business objectives. Working this way gives everyone a sense of purpose and motivation, as they can see how the goal ties into the company’s vision.
+
+Shared clarity — one of the perks of setting thoughtful and well-defined goals is that they’re easy to transmit to others. Chances are you’ll run a cross-functional project with internal and external stakeholders who need to understand shared and individual goals. Setting SMART ones allows all involved to quickly grasp objectives and work with a sense of clarity.
+
+A guide for roadmaps — since these goals are time-bound and measurable, you have data points to plot on project planning charts and schedules. If you know what milestones you must complete by specific dates, you can base your Gantt chart or other project planning tool on this data.
+
+Alignment with long-term objectives — when setting these goals, you’ll consider their relevance. In professional settings, this means aligning them with greater business objectives. Working this way gives everyone a sense of purpose and motivation, as they can see how the goal ties into the company’s vision.
+
+How to set SMART goals: 5 steps
+
+The SMART goal-setting process practically guides itself. So long as you create an objective that meets each of the five acronym benchmarks, you’ll create a feasible, measurable goal.
+
+Use the following guide on how to write goals to ensure you correctly perform SMART checks and balances.
+
+1. Make it specific
+
+Generate a quantifiable goal by pinpointing precisely what you wish to achieve. Try writing it down, as putting it into words might help you define it more clearly. If you’ve written a long goal, chances are it’s too unbounded and not specific enough to the work. And if the goal seems brief and vague, your team might not gain enough guidance. A good marketing team example is “Boost the open rate on marketing emails by 5%,” since it’s concise but also specific.
+
+2. Make it measurable
+
+If your goal has a numerical metric (i.e., increasing the open rate by 5%), you’re already off to a great start in creating a measurable objective. In this step, determine how you’ll track success, like achieving a 1% monthly boost or an extremely high rate of opens on a particular campaign type.
+
+3. Make it attainable
+
+Consider your available resources. Do you have the time, funding, and personnel to complete the goal, and does your team have the time management skills to meet the due date? If not, the aim may be unachievable or possible only if you secure more resources or train personnel. Be honest about what you can get done and scale back a too-ambitious goal if you don’t have the staff, money, or hours to support it.
+
+4. Make it relevant
+
+Map your goal back to crucial company objectives. For instance, increasing email marketing open rates is a great idea, but it’s only SMART if your company's current objective is driving consumer traction. And if your company is prioritizing developing a new product, you might focus on pre-and-post-launch marketing initiatives instead.
+
+5. Make it time-based
+
+Goals that stretch on for a long time can discourage the people working on them. Everyone wants to see results and feel like their efforts are paying off. Set an overall due date for the goal and a schedule of action items for meeting it. You could aim to increase open rates by 5% in five months and set traction-driving marketing campaigns on the department’s schedule to ensure you meet that metric on time.
+
+2 SMART goal examples
+
+Ready to determine objectives that will push purpose, efficiency, and results on your next project? Let these two examples of SMART goals for work guide your ideation process.
+
+Example one
+
+S: The marketing department will improve email open rates by 5% in six months.M: They will measure the goal’s success by tracking what should be a steady improvement in open rates spurred by resonant newsletters and promotions.A: The team has the time and resources to complete action items and monitor advances, like an email marketing tool with data tracking capabilities. R: The company is focusing on expanding its reach into new consumer demographics. T: The team has six months to complete it.
+
+S: The marketing department will improve email open rates by 5% in six months.
+
+M: They will measure the goal’s success by tracking what should be a steady improvement in open rates spurred by resonant newsletters and promotions.
+
+A: The team has the time and resources to complete action items and monitor advances, like an email marketing tool with data tracking capabilities.
+
+R: The company is focusing on expanding its reach into new consumer demographics.
+
+T: The team has six months to complete it.
+
+Example two
+
+S: The software team wishes to develop a beta-stage nutrition tracking application in three months. M: The department will use sprints to roll out functional features and stick to a project calendar that guides iterative work. At the end of each sprint, the team will meet to review project metrics and ensure they’re on track to complete development and reorder the backlog as needed.A: The team has the time, resources, and expertise to complete this work.R: The company wants to shift from game development to wellness. T: The team will complete this work within three months.
+
+S: The software team wishes to develop a beta-stage nutrition tracking application in three months.
+
+M: The department will use sprints to roll out functional features and stick to a project calendar that guides iterative work. At the end of each sprint, the team will meet to review project metrics and ensure they’re on track to complete development and reorder the backlog as needed.
+
+A: The team has the time, resources, and expertise to complete this work.
+
+R: The company wants to shift from game development to wellness.
+
+T: The team will complete this work within three months.
+
+What to do after setting SMART goals
+
+You’ve set your goals and are ready to take action. Just as setting SMART objectives is a reflective, careful process, so is creating a plan to meet them. Here are a few tips for following through on your SMART goals:
+
+Share them — keep SMART goals where everyone can see them, whether in a shared virtual workspace or office whiteboard. Celebrate — when you hit a milestone, celebrate your hard work. Invite the team to a fun off-site event after completing a goal or reward steps along the way, offering praise and perks like an impromptu dessert break. Shift course — don’t be afraid to take a new route if the current one isn’t functional. For instance, if the team is hitting more roadblocks than milestones, you may need to shift the scope of the goal, the due date, and ways of working.
+
+Share them — keep SMART goals where everyone can see them, whether in a shared virtual workspace or office whiteboard.
+
+Celebrate — when you hit a milestone, celebrate your hard work. Invite the team to a fun off-site event after completing a goal or reward steps along the way, offering praise and perks like an impromptu dessert break.
+
+Shift course — don’t be afraid to take a new route if the current one isn’t functional. For instance, if the team is hitting more roadblocks than milestones, you may need to shift the scope of the goal, the due date, and ways of working.
+
+Turn your goal into a reality with Notion
+
+Notion helps teams reach goals by providing guides, templates, and tools to support SMART work.
+
+Use Notion’s goals action plan to plot a course to success and the SMART goals tracker to monitor progress. Document your objectives in our goals-setting worksheet and share them with the team.

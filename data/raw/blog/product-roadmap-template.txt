@@ -1,0 +1,133 @@
+Title: A guide to creating a product roadmap (+ templates)
+Published Date: 2022-05-31T00:00-06:00
+URL: https://www.notion.so/blog/product-roadmap-template
+
+You’re about to build the next breakthrough product. You know what it is, why you’re creating it, and when you need to finish it, but you need to pull it all together and create a guide for your product teams — and you — to follow.
+
+A product roadmap template ensures you don’t forget a crucial step of the development process. You can create a product roadmap and use what you learn from this creation process to choose the best template for your team.
+
+What’s a product roadmap?
+
+A product roadmap is a plan that details the steps involved in product development. Product managers often organize product creation into one or more projects, so you can think of a product roadmap as a project roadmap.
+
+Product roadmaps provide a start-to-finish vision for developing and releasing a product. You can use different roadmap types depending on the project you’re working on and your team’s needs. A newer startup or agile team that isn’t abiding by a specific timeline might map out high-priority tasks to work on first. And a timeline-focused roadmap with a release plan of new product features is great for a software development project. You can also create a roadmap that outlines deliverables or KPIs your team must meet by a certain date.
+
+Roadmaps allow the whole team to understand what stage a product is at so everyone can organize their work effectively to make progress. And keeping all project-relevant information in one place lets your team work more efficiently, since they don’t have to hunt down information needed to complete tasks.
+
+Another advantage that roadmaps give your team is a big-picture view, not just the tasks they need to work on that day. Project managers can anticipate potential problems or bottlenecks, and team members feel motivated remembering what they’re working toward.
+
+How to create a product roadmap: 5 steps
+
+Every product roadmap should address three important questions:
+
+Why are we doing this?When are we doing this?What exactly are we doing?
+
+Why are we doing this?
+
+When are we doing this?
+
+What exactly are we doing?
+
+Keeping these questions in mind, follow these five steps to build your roadmap.
+
+1. Establish your business goals
+
+First, decide what you want to achieve at the outset of your project. High-level goals are important, but consider the smaller problems you’re trying to solve, too. Detail motivating factors such as your customers' pain points, your target demographic's needs, or how you’ll differentiate your product from others in the marketplace.
+
+2. Create your epics and sprints
+
+Keeping your overall goals in mind, create epics: collections of tasks that span a certain period. Your long-term product goals should inform your epics, and they should last around two weeks and include a metric for what you're trying to create or improve. To define your metric, ask: How can we tell we’ve reached this objective?
+
+Each epic will consist of multiple sprints. Sprints are tasks to quickly achieve a goal — a small piece of the bigger project. Here are a few examples:
+
+Epic — create a mobile app for the productSprint — design the landing pageEpic — improve the login page’s functionalitySprint — set up third-party authentication so users can log in with a social accountEpic — set up an online storeSprint — create product pages
+
+Epic — create a mobile app for the product
+
+Sprint — design the landing page
+
+Epic — improve the login page’s functionality
+
+Sprint — set up third-party authentication so users can log in with a social account
+
+Epic — set up an online store
+
+Sprint — create product pages
+
+Each sprint contains several small tasks, like “Create the header component,” “Set up Google single sign-on,” and “Write a product description.”
+
+3. Add details to your tasks
+
+People work efficiently when the steps they need to follow are clear. If you keep all task details in your roadmap, your teammates understand expectations and avoid misunderstandings or delays.
+
+Here’s how you can add details to your tasks:
+
+Set a status, like “Not started,” “In progress,” or “Done”Assign the task to a sprintAdd a priority level, like “High,” “Medium,” or “Low”Add custom properties, like links, media files, and drop-down lists
+
+Set a status, like “Not started,” “In progress,” or “Done”
+
+Assign the task to a sprint
+
+Add a priority level, like “High,” “Medium,” or “Low”
+
+Add custom properties, like links, media files, and drop-down lists
+
+4. Assign your team
+
+Product creation typically involves various employees and several teams, like software development and marketing. But that’s just the beginning of your product resource planning. You should consider stakeholders both within and outside your company. Vendors, investors, and clients who review your work can all affect which features you decide to build next or how your product roadmap might need to change.
+
+5. Make it accessible and flexible
+
+Once you’ve defined your goals, outlined a timeline with tasks and milestones, and assigned team members, house your roadmap somewhere accessible and flexible. A shared workspace like Notion or Google Docs lets everyone collaborate on and communicate about your roadmap. You can also then connect it with other useful documents or platforms, like task checklists and relevant project management files. Make the roadmap work for your team by using different views to display relevant and valuable information, like:
+
+Tasks by engineer — allows engineers to see the items they’re responsible forTasks by status — shows task progressTimeline view — gives project managers a high-level overview of work in progress
+
+Tasks by engineer — allows engineers to see the items they’re responsible for
+
+Tasks by status — shows task progress
+
+Timeline view — gives project managers a high-level overview of work in progress
+
+While you’ll create an initial timeline for your product, you must stress that this timeline is flexible. Delays happen, challenges are inevitable, and employees need to feel there’s room for a missed workday or unexpected burnout. Prepare to reevaluate and adjust your roadmap throughout the development process.
+
+Product management best practices when using a roadmap
+
+Your roadmap is only useful if your teams are using it. Consider following these three best practices so your roadmap effectively keeps everyone on track:
+
+Encourage early roadmap adoption — involve your team from the start. Getting their buy-in on creating the roadmap might increase their motivation because they’ll feel more attached and connected to the project, and it also encourages accountability. Use your roadmap as a living document — when your project changes, you need your plan to change with it, so you can keep working toward your goal even if things don’t go as planned. Set a recurring reminder to check the roadmap every few days and ask your team to do the same. Update task statuses, priorities, and timelines as the project evolves, adding new items when necessary.Learn from the process — once your team completes this project, reflect on your initial roadmap and how you’ve changed it. Consider whether there was information you missed at the outset and include it in future roadmaps. And note how long you had predicted tasks or milestones would take versus how long they actually took to better understand how to schedule tasks.
+
+Encourage early roadmap adoption — involve your team from the start. Getting their buy-in on creating the roadmap might increase their motivation because they’ll feel more attached and connected to the project, and it also encourages accountability.
+
+Use your roadmap as a living document — when your project changes, you need your plan to change with it, so you can keep working toward your goal even if things don’t go as planned. Set a recurring reminder to check the roadmap every few days and ask your team to do the same. Update task statuses, priorities, and timelines as the project evolves, adding new items when necessary.
+
+Learn from the process — once your team completes this project, reflect on your initial roadmap and how you’ve changed it. Consider whether there was information you missed at the outset and include it in future roadmaps. And note how long you had predicted tasks or milestones would take versus how long they actually took to better understand how to schedule tasks.
+
+Product roadmap examples and templates
+
+Here are a few product roadmap examples to help you find one that suits your project best:
+
+A product strategy roadmap compares progress against product goals and includes team initiatives for achieving these goals. You’ll typically use this roadmap to associate your goals with broader business objectives to show how the product development team’s work supports the organization’s milestones.A product innovation roadmap focuses on how a company will achieve an innovation strategy. These roadmaps include strategic goals, initiatives, and critical investment areas.An Agile product roadmap organizes major work themes on a loose timeline in concert with the Agile development methodology. It’s common to see an Agile roadmap with date ranges spanning a quarter or two.
+
+A product strategy roadmap compares progress against product goals and includes team initiatives for achieving these goals. You’ll typically use this roadmap to associate your goals with broader business objectives to show how the product development team’s work supports the organization’s milestones.
+
+A product innovation roadmap focuses on how a company will achieve an innovation strategy. These roadmaps include strategic goals, initiatives, and critical investment areas.
+
+An Agile product roadmap organizes major work themes on a loose timeline in concert with the Agile development methodology. It’s common to see an Agile roadmap with date ranges spanning a quarter or two.
+
+To start, try out one of these templates to determine what roadmap type matches your needs:
+
+Basic roadmapMatch Group's roadmapBranch's engineering roadmapHarmonic.ai's roadmap
+
+Basic roadmap
+
+Match Group's roadmap
+
+Branch's engineering roadmap
+
+Harmonic.ai's roadmap
+
+Keep your roadmap in Notion
+
+A product roadmap gives your team a well-rounded picture of the product development plan. This means fewer questions and delays for you and increased productivity for everyone.
+
+After choosing the best roadmap template, house it in a connected team workspace in Notion so everyone has access. Then connect this roadmap with other important documents like your team’s wiki and to-do lists to enjoy a centralized hub with everything you need to complete the project.

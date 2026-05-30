@@ -1,0 +1,83 @@
+Title: Stand out with a value proposition template
+Published Date: 2023-09-19T00:00-03:00
+URL: https://www.notion.so/blog/value-proposition-template
+
+What sets your brand apart?
+
+The answer to the question is a vital part of your business’s marketing strategy. You likely understand your company’s x-factor, but translating this idea from your mind to paper is a powerful way to influence potential customers to choose your product or services over anyone else’s.
+
+This element is called a value proposition statement, and it’s an opportunity for your company to convert interest into leads and leads into customers. The short blurb should grab viewers' attention and persuade them to take a closer look — or buy in.
+
+Writing a statement that does all this work in just a few words is challenging. Fortunately, a value proposition template can help you organize your thoughts and draft a clear and compelling statement to reel in consumers.
+
+What’s a value proposition?
+
+A value proposition is a statement that informs potential customers about your company’s products or services and how they differ from the competition. It should answer the question, “What makes this product unique and valuable?”
+
+It’s more than a slogan that sums up a company’s offering, but it’s not an opportunity to wax poetic about principles or goals, either. To capture and hold viewers’ attention, a value prop must efficiently communicate your competitive edge in a few sentences.
+
+There are four main types of value propositions, each highlighting a distinct aspect of a company’s offerings. These categories are:
+
+Cost-effectiveness — this type of statement claims that a company’s offering is more affordable than the competition’s. A cost-driven value proposition example is: “The only completely free website builder.”Uniqueness — this value-positioning statement focuses on one-of-a-kind features. So, what’s a unique value proposition in practice? A strong example is: “The only website builder with an AI design assistant.” Ease — an ease value prop statement highlights how simple a product or service is to use or how it will improve the user’s life. An ease-focused statement might read: “Finally: a no-code website builder.” Results — a brand proposition statement that focuses on results and highlights the positive difference a user can expect after using the product or service. Here’s a results-oriented value statement: “Launch your website in under 30 minutes”.
+
+Cost-effectiveness — this type of statement claims that a company’s offering is more affordable than the competition’s. A cost-driven value proposition example is: “The only completely free website builder.”
+
+Uniqueness — this value-positioning statement focuses on one-of-a-kind features. So, what’s a unique value proposition in practice? A strong example is: “The only website builder with an AI design assistant.”
+
+Ease — an ease value prop statement highlights how simple a product or service is to use or how it will improve the user’s life. An ease-focused statement might read: “Finally: a no-code website builder.”
+
+Results — a brand proposition statement that focuses on results and highlights the positive difference a user can expect after using the product or service. Here’s a results-oriented value statement: “Launch your website in under 30 minutes”.
+
+Value proposition versus mission statement: what’s the difference?
+
+New businesses need to make a statement — several of them.
+
+Mission statements and their future-focused counterparts, vision statements, are essential to communicating your organization’s motivations and goals. But these two statements aren’t equivalent to a value prop — rather than promoting what makes your brand better than the rest, they offer a window into what drives and inspires your products.
+
+A mission statement communicates your organization’s purpose. For example, Google’s mission is “to organize the world's information and make it universally accessible and useful.” A vision statement, on the other hand, encapsulates the long-term objectives that guide the company’s work. Google’s is “to provide access to the world's information in one click.”
+
+The critical elements of a good value proposition
+
+A value proposition is public-facing, meaning you must prepare it carefully for use on the brand’s marketing materials, website, and social media accounts. It should contain three elements:
+
+Headline —  the headline is the succinct, compelling blurb we often associate with a value prop. It should be catchy, easy to remember, and just a few words. Subheadline — subheadlines expand on the snappy blurb and provide more details. Use this short paragraph to articulate the company’s offerings and target audience. Visual — a picture says a thousand words. Include a graphic, image, or short video clip that reiterates the message (if relevant).
+
+Headline —  the headline is the succinct, compelling blurb we often associate with a value prop. It should be catchy, easy to remember, and just a few words.
+
+Subheadline — subheadlines expand on the snappy blurb and provide more details. Use this short paragraph to articulate the company’s offerings and target audience.
+
+Visual — a picture says a thousand words. Include a graphic, image, or short video clip that reiterates the message (if relevant).
+
+How to create a value proposition using a template
+
+A value proposition is similar to an elevator pitch for your company. You have a split second to grab a viewer’s attention and make a solid first impression — that’s a lot of pressure.
+
+Creating your value prop is an iterative process. You’ll likely draft tens of options, scrap finished ideas, and turn back to the drawing board again and again. To organize this work, use a template that guides your brainstorming and writing process so you feel confident you’re creating the best possible finished product.
+
+Notion’s value proposition workshop template walks you through the creation process step by step. Gather stakeholders such as product managers, designers, developers, and subject-matter experts, but limit the workshop to the minimum number of people possible — ideally four or five. Then, use the template to define the value of your offerings, analyze your findings, and generate recommendations.
+
+A popular brainstorming methodology you may choose to integrate into this process is a value proposition canvas (Source: Odette Jansen). This model comprises two parts: a customer profile and a value map.
+
+In the customer profile section of the canvas, describe what the end user desires from a product or service. These desires are also called “jobs” and can be functional, emotional, or social. Next, identify your customer’s “pain points.” You likely know your target demographic’s needs well and understand what issues they face to actively work to solve them, so this should be an easy field to populate. Finally, determine the “gains” (positive outcomes) customers hope to achieve by using your product.
+
+Now it’s time to create a value map. Describe how your products or services tackle clients’ pain points. Think of your offering as a tool to improve the buyers’ quality of life — be sure to identify how your offering maximizes gains and benefits for end users.
+
+Whether using Notion’s template, a value proposition canvas, or a combination of the two, this process should give you a clear idea of the value you wish to emphasize in your proposition statement. Continue to refine your message over time — especially for a new product or company — until you land on one that resonates with your team and ideal customer.
+
+Value proposition examples
+
+As you brainstorm value proposition statements for your company’s products and services, look to some of the world’s most renowned companies for inspiration. The following four examples show how major players sum up what differentiates their offering from some very tough competition:
+
+Airbnb — popular vacation rental platform Airbnb uses the value prop statement “Belong anywhere with Airbnb.” These four words let clients know they can have more than a sterile hotel room — they can book a place to feel at home. Lyft — on Lyft’s homepage is a value statement reading, “Ready, set, go in just a few quick taps.” This is a perfect example of a product-based, ease-driven value proposition statement. It tells viewers this ridesharing service stands out because it offers simple, convenient, and efficient access to transport. Slack — Slack, a professional instant messaging program, has a quick and concise value prop heading up its website: “One platform for your team and your work.” The statement is direct and delineates what the user can achieve with the products, tapping into the emotional aspect of purchasing. No one likes cross-platform mix-ups, lost messages, and missed notifications — with Slack and its many integrations, you can forgo the frustration of traditional digital communication and workflow.
+
+Airbnb — popular vacation rental platform Airbnb uses the value prop statement “Belong anywhere with Airbnb.” These four words let clients know they can have more than a sterile hotel room — they can book a place to feel at home.
+
+Lyft — on Lyft’s homepage is a value statement reading, “Ready, set, go in just a few quick taps.” This is a perfect example of a product-based, ease-driven value proposition statement. It tells viewers this ridesharing service stands out because it offers simple, convenient, and efficient access to transport.
+
+Slack — Slack, a professional instant messaging program, has a quick and concise value prop heading up its website: “One platform for your team and your work.” The statement is direct and delineates what the user can achieve with the products, tapping into the emotional aspect of purchasing. No one likes cross-platform mix-ups, lost messages, and missed notifications — with Slack and its many integrations, you can forgo the frustration of traditional digital communication and workflow.
+
+Create a brand with Notion
+
+A value proposition statement is just one of the essential aspects of your brand’s image. As you undertake other necessary marketing initiatives, turn to Notion for help — we offer a variety of guides and templates to speed up the process.
+
+Discover the power of your offering with our product vision board, create a business model with our canvas template, and define your marketing strategy with our handy workbook. Plus, learn to write a formal business proposal you can show to stakeholders and investors.

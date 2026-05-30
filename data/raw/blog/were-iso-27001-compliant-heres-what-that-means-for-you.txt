@@ -1,0 +1,39 @@
+Title: We're ISO 27001 compliant – Here's what that means for you
+Published Date: 2022-12-12T00:00-08:00
+URL: https://www.notion.so/blog/were-iso-27001-compliant-heres-what-that-means-for-you
+
+Notion has always invested in security and compliance as part of our ongoing effort to be the trusted home of your most important information, whether it's your company data or your personal journal.
+
+In 2021, we extended that commitment by achieving the SOC 2 Type 2. Today we’re excited to announce the latest step in our journey — we've received our ISO 27001 Certification for the Notion Information Security Management System (ISMS).
+
+What is ISO 27001?
+
+ISO 27001 is an international standard that describes best practices for an Information Security Management Systems (ISMS) — a documented program for implementing and maintaining dependable security and confidentiality for an organization’s people, processes, and technology.
+
+This standard uses a risk-based approach to minimize threats to information and communication technology assets and offers a framework for other IT requirements a company may have in place. Following this path to preserving the confidentiality, integrity, and availability of all the information in our control ensures that customers can trust Notion’s business practices, goals and objectives (learn more here).
+
+What does this mean for Notion customers?
+
+Your data is safe and secure
+
+ISO 27001 provides a model for implementing, operating, and monitoring an information security management system using a top down, risk-based approach that is technology-neutral.
+
+We'll maintain these practices
+
+As part of our adherence to ISO 27001, we will undergo annual audits by an independent third party to maintain these certifications.
+
+You can verify our practices
+
+You can request a copy of our ISO 27001 certificate here.
+
+How does ISO 27001 Differ from SOC 2?
+
+While they’re both certifications that demonstrate a company’s commitment to information security, ISO 27001 is an international standard which demonstrates our commitment to information security not just in the United States, but across the globe (SOC2 is US-specific). ISO 27001 also focuses on the implementation of our information security program — it’s not just an audit of specific control domains.
+
+Ongoing efforts
+
+The ISO 27001 certification, like the SOC 2 report, isn’t a one-and-done thing — it's an ongoing commitment. And it's important that we stay flexible as we evolve. As we hire more people in more specialized roles, ISO processes will help us maintain checkpoints and continue to make sure security defines every move we make.
+
+If you're a Notion customer and want to learn more, reach out to your Account Executive or Customer Success Manager. Also, if you're thinking about bringing Notion into your team or company, you can contact sales here and mention you're interested in receiving a copy.
+
+You can find more detail about our commitment to security and privacy here. We're always happy to answer questions about this or anything else at [email protected].

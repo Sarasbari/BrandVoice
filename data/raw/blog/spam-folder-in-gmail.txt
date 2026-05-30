@@ -1,0 +1,295 @@
+Title: Your guide to managing the Spam folder in Gmail
+Published Date: 2025-01-01T00:00-07:00
+URL: https://www.notion.so/blog/spam-folder-in-gmail
+
+While Gmail’s spam filtering algorithm is powered by advanced machine learning and a global database of spam reports, it’s not perfect. It can sometimes get aggressively vigilant and send important emails to spam.
+
+Alternatively, Gmail might let spam mail slip through and end up in your main inbox, which can be distracting and even increase the risk of attacks like phishing.
+
+To help you avoid missing valuable correspondence and declutter your inbox, this guide will explain:
+
+Where you can find the Spam folder in GmailHow to check it on desktop and mobileHow to stop emails from ending up in spamHow to report spam and get rid of unwanted messages
+
+Where you can find the Spam folder in Gmail
+
+How to check it on desktop and mobile
+
+How to stop emails from ending up in spam
+
+How to report spam and get rid of unwanted messages
+
+Does Gmail have a junk folder?
+
+Like all major email services, Gmail does have a junk folder called Spam. It’s a system-generated label that Gmail uses for unsolicited, fraudulent, and other potentially harmful mail, such as:
+
+Phishing attemptsExcessive newslettersEmails from suspicious senders
+
+Phishing attempts
+
+Excessive newsletters
+
+Emails from suspicious senders
+
+Gmail automatically recognizes such emails to prevent them from reaching your inbox. It then sends them to Spam, where they stay for 30 days before getting permanently deleted.
+
+Gmail does a decent job at weeding out spam from legitimate mail—for the most part. The algorithm doesn’t get it right every time, so you might want to occasionally check the Spam folder for important emails.
+
+Where is the Spam folder in Gmail?
+
+The Gmail Spam folder is located on the left-hand pane of your main inbox. Whether you’re on a desktop or mobile device, you can access it with a few clicks and taps. Below, we’ll give you a step-by-step process for both options.
+
+1. How to check the Spam folder in Gmail on desktop
+
+The easiest way to access the Spam folder on a desktop is to navigate to it through the sidebar. Here’s how:
+
+Step 1: Open the Gmail web app
+
+Step 2: Click More on the left-hand menu
+
+Step 3: Click Spam
+
+If you don’t see the left-hand menu, it might be hidden either by default or because of a custom setting. To expand it, click the hamburger icon in the top-left corner.
+
+Another way to check the Spam folder is to use the corresponding operator to filter your mail. For instance, typing in:spam operator into the search field and pressing Enter will help you see the Spam folder.
+
+2. How to check the Spam folder in Gmail on your phone
+
+Gmail’s Android and iOS apps are largely the same, so regardless of your device, you can find the Spam folder in three steps:
+
+Open the Gmail AppTap the hamburger icon in the upper-left cornerScroll down to Spam
+
+Open the Gmail App
+
+Tap the hamburger icon in the upper-left corner
+
+Scroll down to Spam
+
+Search operators also work on the mobile app, though using the sidebar is more intuitive. That said, the in:spam operator might still be useful if you can’t see the folder—though in most cases, the Gmail app displays the Spam folder by default.
+
+What to do if you can’t see the Spam folder in Gmail
+
+If you’ve followed the above steps but couldn’t find the Spam folder, it might be hidden by default. This can only happen on the web app because the mobile version of Gmail always displays the Spam folder regardless of your settings.
+
+To unhide the folder in the desktop version, follow these steps:
+
+Step 1: Click the gear icon in the upper-right corner
+
+Step 2: Click See all settings
+
+Step 3: Go to the Labels tab
+
+Step 4: Scroll down to Spam
+
+Step 5: Click Show
+
+Once you go back to the main inbox, repeat the aforementioned steps to check if the Spam folder has appeared.
+
+Pro tip: Gmail lets you create labels that go far beyond those you get out of the box. Learn how to set them up, automatically label emails, and delete unnecessary labels.
+
+Why emails go to Spam in Gmail
+
+Gmail uses numerous signals to spot spammy or malicious mail. The most common red flags are outlined below:
+
+Red flagExplanationMass sendingBulk email sending can sometimes be seen as spamming, especially if it happens frequently.Poor sender reputationIf a sender has been blacklisted and reported by many recipients, Gmail might consider their emails spam by default.Suspicious contentInvisible text, strange formatting, and spammy keywords can signal to Gmail that an email is spam.Phishing signsEmails containing files or links commonly associated with phishing attempts are sent to Spam by default.Lack of SPF/DKIM/DMARC authenticationIf the sender hasn’t set up any of the common authentication methods, Gmail might treat their messages as risky.Lack of opt-out options (for subscriptions)All emails coming from newsletters must have an unsubscribe option, so emails without it are considered spam.
+
+Red flag
+
+Explanation
+
+Mass sending
+
+Bulk email sending can sometimes be seen as spamming, especially if it happens frequently.
+
+Poor sender reputation
+
+If a sender has been blacklisted and reported by many recipients, Gmail might consider their emails spam by default.
+
+Suspicious content
+
+Invisible text, strange formatting, and spammy keywords can signal to Gmail that an email is spam.
+
+Phishing signs
+
+Emails containing files or links commonly associated with phishing attempts are sent to Spam by default.
+
+Lack of SPF/DKIM/DMARC authentication
+
+If the sender hasn’t set up any of the common authentication methods, Gmail might treat their messages as risky.
+
+Lack of opt-out options (for subscriptions)
+
+All emails coming from newsletters must have an unsubscribe option, so emails without it are considered spam.
+
+How to delete or move spam emails in Gmail
+
+Once you’ve accessed the Spam folder, you can check for important or otherwise legitimate mail. There likely won’t be much of it, so you’ll end up deleting most emails.
+
+If you don’t want to wait 30 days, you can delete emails in bulk by clicking the corresponding button, as shown here:
+
+If you want to delete individual emails, open them and look for the Delete forever button in the top-left corner of the message.
+
+If you do find an email that mistakenly ended up in Spam, open it and look for either of these two buttons to send it to your inbox: Not spam and Report not spam.
+
+By telling Gmail that a message isn’t spam, you’ll prevent emails from the same sender from being funneled to junk in the future.
+
+How to prevent emails from going to the Gmail Spam folder
+
+Besides flagging individual emails as not spam, you can take two approaches to ensure that mail from a specific sender doesn’t end up as spam:
+
+Adding the sender to your contactsSetting up a custom filter
+
+Adding the sender to your contacts
+
+Setting up a custom filter
+
+1. Adding the sender to your contacts
+
+Emails from contacts are much less likely to get flagged as spam. The only exception is if the sender has a bad reputation, in which case their emails might be sent to spam by default. This issue is less common, so you should be able to get emails from a sender delivered straight to your inbox after you’ve added them as a contact.
+
+You can do this in three quick steps:
+
+Open an email from a senderHover over their nameClick the Add to contacts button in the top-right corner
+
+Open an email from a sender
+
+Hover over their name
+
+Click the Add to contacts button in the top-right corner
+
+2. Setting up custom filters
+
+If emails from a contact are still delivered to Spam, you might have to explicitly tell Gmail to stop flagging them as spam. You can do this through custom Gmail filters that define specific rules for incoming mail.
+
+Here’s how to set up a filter to bypass spam:
+
+Step 1: Open Gmail settings (gear icon > See all settings)
+
+Step 2: Click Create a new filter in the Filters and Blocked Addresses tab
+
+Step 3: Enter the sender’s address in the From field and click Create filter
+
+Step 4: Check the box next to Never send it to Spam and click Create filter
+
+The filter will override Gmail’s spam detection mechanism and deliver all mail from a sender directly to your inbox. If you change your mind at any point, you can delete the filter from the Filters and Blocked Addresses tab in the settings.
+
+Note that you’re not limited to specific senders when setting up filters. You can also tell Gmail to stop flagging emails with:
+
+Certain keywords and phrasesSpecific subject linesAttachments or specific sizes
+
+Certain keywords and phrases
+
+Specific subject lines
+
+Attachments or specific sizes
+
+How to send emails to Gmail’s Spam folder
+
+Ongoing spam clutters your inbox and makes it hard to stay organized. Deleting spam emails might not be enough to prevent future ones, so you might get caught in an endless cycle of cleaning up unwanted mail.
+
+A much better alternative is to report spam to Gmail—here’s how:
+
+Open the spam emailClick the three-dot icon in the upper-right cornerClick Report spam
+
+Open the spam email
+
+Click the three-dot icon in the upper-right corner
+
+Click Report spam
+
+The process works the same on the Gmail app—you’ll see the three-dot button in the upper-right corner of the screen, and the Report spam button will show up in the pop-up menu.
+
+The email will be sent to the Spam folder, and Gmail will ask you if you want to block the sender to stop receiving mail from them altogether. If you don’t expect to receive any valuable mail for them, doing so might be a good idea.
+
+If you believe a spam email is a phishing attempt, you can click the Report phishing button under the Report spam one. Doing so is more effective than sending an email to Spam because it will be reviewed by Gmail’s team to help prevent similar attempts in the future.
+
+Note that you might have to report a spam email several times before Gmail’s algorithm starts flagging similar emails. The algorithm evolves with user behavior, so it might take time before it can understand your preferences.
+
+Unhappy with Gmail’s spam filtering? Use a capable email client
+
+While Gmail generally handles spam well enough, the native web/mobile app might not be comprehensive enough in terms of spam prevention and overall organization. Even users who love Gmail have complained about spam getting out of hand, which can be distracting and frustrating.
+
+Other common issues users have encountered with Gmail’s spam filtering include:
+
+Inconsistent performance: While Gmail typically filters out spammy promotional emails, they can often end up in the Focused inbox and bury important mail.Lackluster spam management: Gmail doesn’t offer comprehensive spam management features that would help users avoid unwanted mail and keep it at bay in the long run.Spam retention: Gmail keeps spam for 30 days, which some users believe is excessive. Still, deleting spam emails right away could make you permanently lose important mail mistakenly labeled as spam.
+
+Inconsistent performance: While Gmail typically filters out spammy promotional emails, they can often end up in the Focused inbox and bury important mail.
+
+Lackluster spam management: Gmail doesn’t offer comprehensive spam management features that would help users avoid unwanted mail and keep it at bay in the long run.
+
+Spam retention: Gmail keeps spam for 30 days, which some users believe is excessive. Still, deleting spam emails right away could make you permanently lose important mail mistakenly labeled as spam.
+
+A well-built Gmail client can fix these issues. The right solution should build on Gmail’s existing organization features and offer additional functionalities that keep your inbox neat and optimize your workflow.
+
+What to look for in a Gmail client
+
+One of Gmail’s biggest drawbacks is that customizing it can be a hassle. A good example is the filter setup process we mentioned earlier, which involves quite a bit of legwork.
+
+You may not notice this if you’re setting up a filter or two to prevent legitimate mail from going to Spam. Still, if you’re an advanced user who needs to juggle mail from different senders, you’ll likely feel the toll Gmail’s native solutions can take on your productivity.
+
+To avoid this and boost your efficiency, look for a Gmail client that offers at least some of the following features:
+
+FeatureExplanationAI-powered email organizationLook for an email client that replaces extensive point-and-click workflows with prompt-based email labeling, sorting, and overall organization.Inbox personalizationGmail sorts emails in the standard reverse-chronological order, leaving room for distracting spam you’ve received recently. To avoid this, choose an email client that lets you create custom layouts with personalized views.Keyboard shortcutsTo go through spam and other emails more efficiently, opt for a client that comes with intuitive keyboard shortcuts and/or slash commands.Additional productivity featuresEmail organization is only one aspect of productive workflows. Look for features like auto-replies, AI-powered email summaries, and email templates for common correspondence.
+
+Feature
+
+Explanation
+
+AI-powered email organization
+
+Look for an email client that replaces extensive point-and-click workflows with prompt-based email labeling, sorting, and overall organization.
+
+Inbox personalization
+
+Gmail sorts emails in the standard reverse-chronological order, leaving room for distracting spam you’ve received recently. To avoid this, choose an email client that lets you create custom layouts with personalized views.
+
+Keyboard shortcuts
+
+To go through spam and other emails more efficiently, opt for a client that comes with intuitive keyboard shortcuts and/or slash commands.
+
+Additional productivity features
+
+Email organization is only one aspect of productive workflows. Look for features like auto-replies, AI-powered email summaries, and email templates for common correspondence.
+
+As the leading email provider, Gmail works with plenty of clients. This might make the search for the best one tedious and lead to analysis paralysis. If you need a recommendation that’s designed around productivity and convenience, Notion Mail is worth checking out.
+
+Focus on what matters with Notion Mail
+
+Notion Mail is a productivity-focused Gmail client powered by AI that removes distractions from your inbox and lets you create personalized workflows quickly and effortlessly. It’s an intelligent companion that retains Google’s capable spam filtering and enhances it with automated features that prevent spam from cluttering your inbox.
+
+With Notion Mail’s Autopilot, you can set AI-powered rules to sort, label, and filter emails through simple prompts—no additional manual setup required. Doing so lets you expand Gmail’s spam filtering with advanced labeling features that run automatically to free up your time.
+
+Other notable features that boost your efficiency include:
+
+Custom views and layouts: Notion Mail lets you create custom layouts for different workflows, creating “inboxes within an inbox” that keep your mail neatly organized. You can also organize mail by factors like senders and labels to go beyond Gmail’s reverse-chronological order.One-click unsubscribe: Instead of dealing with spam manually, you can get rid of all unwanted mail in bulk through a single click.Intelligent responses: Notion Mail offers contextual AI-suggested replies, as well as reusable one-click templates for responding to common emails.Slash commands: You can use various slash commands to complete emailing tasks quickly, such as the /schedule command for scheduling meetings without collaborative conflicts.
+
+Custom views and layouts: Notion Mail lets you create custom layouts for different workflows, creating “inboxes within an inbox” that keep your mail neatly organized. You can also organize mail by factors like senders and labels to go beyond Gmail’s reverse-chronological order.
+
+One-click unsubscribe: Instead of dealing with spam manually, you can get rid of all unwanted mail in bulk through a single click.
+
+Intelligent responses: Notion Mail offers contextual AI-suggested replies, as well as reusable one-click templates for responding to common emails.
+
+Slash commands: You can use various slash commands to complete emailing tasks quickly, such as the /schedule command for scheduling meetings without collaborative conflicts.
+
+Notion Mail was designed for Gmail, so you can expect the provider’s best features combined with Notion Mail’s advanced AI. No matter how disorganized your current inbox is, Notion Mail can help clean it up in no time.
+
+Sign up for Notion Mail and keep your inbox spam-free
+
+To access Notion Mail, you need to visit the signup page and connect your Gmail/Google account.
+
+It’s free to use, but if you want to expand the platform’s AI capabilities beyond the self-organizing inbox, you can get the Notion AI add-on.
+
+Keep reading: Want to learn more about getting the most out of Gmail and resolving common issues? Check out these guides:
+
+How to delete folders in GmailHow to add contacts to a label in GmailGmail labels vs. foldersHow to manage multiple Gmail accountsHow to remove the Inbox label in GmailHow to automatically move emails to folders in Gmail
+
+How to delete folders in Gmail
+
+How to add contacts to a label in Gmail
+
+Gmail labels vs. folders
+
+How to manage multiple Gmail accounts
+
+How to remove the Inbox label in Gmail
+
+How to automatically move emails to folders in Gmail

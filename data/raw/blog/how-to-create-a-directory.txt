@@ -1,0 +1,105 @@
+Title: How to create a directory for employees: A quick guide
+Published Date: 2023-07-26T00:00-06:00
+URL: https://www.notion.so/blog/how-to-create-a-directory
+
+Your development team has an important presentation with stakeholders next week, and you need a designer to create a graphic that’ll help the audience understand a complex idea.
+
+This issue sounds easy enough to resolve. You’ll simply send an email to the design team.
+
+The problem is, your team doesn’t usually interact with design, so you’re not sure who to contact. You have to pinpoint the right person for the job and locate their contact information. But how do you find an employee of the company who you’ve never met?
+
+An employee directory could save the day. It’s an in-house database that clarifies organizational structures and helps teams share skills at critical moments. Encourage collaboration at your company by learning how to create a directory to keep everyone connected.
+
+What’s an employee directory?
+
+An employee directory is a database that hosts information on an organization’s members, no matter what team they’re on. These directories include basic data, like the employee’s name and role, plus contact information, like their email address or social media. Some employee directories also feature each person’s photo so viewers can associate a face with a name.
+
+Who’s an employee directory for?
+
+Employee directories are for everyone — not just managers and leaders. All members of a company should be able to understand who they’re working with and contact them easily. Employee directories also give everyone a clear idea of what the organizational structure is and who to report to under different circumstances.
+
+That said, not all directories give employees access to every bit of information. In some cases, a company’s C-level team may restrict certain pieces of data, like phone numbers or email addresses, to let assistants handle the first points of contact. Some people also might not be comfortable with sharing personal information with coworkers and don’t include every detail. It’s up to individual and team needs.
+
+The importance of having an employee directory
+
+Employee databases do a lot of heavy lifting when it comes to company transparency and interdepartmental communication. Here are three reasons every business should have an in-house directory:
+
+1. Establish an org chart
+
+Employee directories help collaborators understand the structure of an organization, like who the team leaders and decision-makers are. This information is essential for new employees who need to know who they report to and who reports to them. It’s also critical in times of organizational change; employees can visualize how company shifts impact team structures.
+
+Directories also help everyone reach out to the right people with questions. A new hire who needs more information on their employee benefits package could use the directory to locate an HR professional to help and contact them through the right channel.
+
+2. Make sense of cross-functional teams
+
+Team members working on similar tasks, like developers who all write code, may not collaborate with colleagues from other groups. But companies that run on project management methodologies like Agile build cross-functional teams, harnessing people’s skills from different specialty areas to complete sprint work.
+
+Agile teams can be just as flexible as the project management structures they work within — meaning that a cross-functional group that works on one sprint may never work together again. An employee directory streamlines that occasional communication without bulky structures that take too much time. The directory is always there when someone needs it.
+
+3. Streamline scheduling
+
+For remote companies, an employee directory with geographical and time zone information gives context to the scheduling process. You can check everyone’s availability before accidentally setting up a gathering for when some are offline.
+
+4. Help people learn more about their peers
+
+Members of remote or geographically diverse teams might never meet face-to-face. A robust employee directory with photos, job descriptions, and even fun facts helps everyone learn about the people they’re virtually working with every day.
+
+This resource also helps create a more involved and enjoyable onboarding process. New employees can fill in their profiles while waiting for tasks and training and get to know their peers, connections, and hierarchies.
+
+How to create an employee directory
+
+The simplest way to create an employee directory is with a template. Using an organized, pre-defined system lets everyone edit or delete data as needed without worrying about formatting. Employees come and go and organizational structures shift, and you don’t want to waste time nitpicking when you could be getting work done.
+
+Notion’s team directory template is a great place to start. You can populate it as-is or modify it to your team’s needs, adding new columns and attributes as you go. Whether you use Notion’s template or create your own system, the following steps will guide you while creating a directory:
+
+1. Modify table columns
+
+Notion’s team directory template offers the following default columns:
+
+Name Title Location LinkedIn profileEmployee emailPhone numberFavorite dessertStart date
+
+Name
+
+Title
+
+Location
+
+LinkedIn profile
+
+Employee email
+
+Phone number
+
+Favorite dessert
+
+Start date
+
+You can make the template your own by duplicating it and adding any columns you wish. It’s also a good idea to modify the fun fact column — favorite dessert — to something your team prefers, like favorite book or music. Consider building columns for birthdays, office locations, and teams. An additional column for reporting structure notes can also come in handy.
+
+2. Compile and add data
+
+Once you’ve modified the template columns to your liking, add employee data. An HR professional performing this task likely has access to basic information like employees’ internal email addresses and hire dates. But they should also get permission to publicly post information like personal email addresses before doing so.
+
+It’s also a good idea to get employees to fill out their directory profiles themselves — after all, they know best who they are. Just make sure someone fact-checks information like employee emails and titles so there’s no confusion down the line.
+
+3. Add a photo
+
+In Notion, shift from the table to the gallery view to see a grid of employee photos. Again, reach out to people directly for images so they can provide one they approve of. Adding a picture makes the directory easy to navigate, and it gives everyone a chance to show their personalities.
+
+4. Share the directory
+
+One of the central reasons why you should create an employee directory is to help colleagues connect. With that in mind, make this directory accessible and easy to locate for all employees. If you already use Notion for knowledge-sharing and documentation, you can integrate your directory data directly into your team’s workspace.
+
+You can also make your directory editable but do so with caution. People might accidentally adjust information when they don’t mean to.
+
+5. Explore new viewpoints
+
+This template offers three views: gallery, location, and table. When entering data into the chart, the table view is best because it lets you fill in the fields under each column quickly. It also works well if you just want to see a list of employees.
+
+But you can also toggle to the gallery view to scan the database by photo cards and get a good look at every team. And when scheduling a meeting for a time or local outing, shift to the location view to group people by their home base.
+
+Connect your team with Notion
+
+Notion doesn’t just help you create a people directory — it improves the employee experience from the onboarding stage to exit interviews.
+
+Manage staff with an employee database that establishes a clear reporting structure, centralizes contact information, and is visible to all. When you keep information shareable and in one place, you streamline onboarding and encourage healthy working and social relationships among peers. You can make it all happen in Notion.

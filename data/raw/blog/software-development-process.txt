@@ -1,0 +1,69 @@
+Title: A guide to the software development process
+Published Date: 2023-06-06T00:00-06:00
+URL: https://www.notion.so/blog/software-development-process
+
+Software development projects are (sometimes frustratingly) unique.
+
+You never know the bugs, setbacks, and client requirements you’ll meet when building software, and that’s why outlining a unique software development process for every project is crucial.
+
+Defining the software development life cycle (SDLC) is what helps team members visualize all the work ahead and establish a plan for catching mistakes. No one person should be responsible for holding all the minute details of a complex development project in their head, and everyone should feel confident that they’re creating an exceptional product.
+
+What’s a software development process?
+
+The SDLC covers everything involved when managing a software development project, from the first brainstorming session to publishing the final snippet of code. It’s an umbrella term covering many of the development approaches you might choose, like waterfall, spiral, and incremental models.
+
+Outlining your chosen development process helps you meet the client’s goals and end users’ needs by tracking every development detail. During the planning phase, you might also uncover impractical product requirements and inefficient working methods. Making these observations and building a solid project plan will help your team work smarter, minimize risk and error, and create well-functioning features.
+
+Why software development processes are essential
+
+Most successful projects require planning, so creating one for software development may seem intuitive. But the benefits of outlining your SDLC surpass strong project organization and vision. Here are a few more perks of planning ahead:
+
+Establishes clear roles — outlining an SDLC means all stakeholders understand their roles and responsibilities, encouraging accountability.Sets boundaries — well-defined software development processes push teams to define actions early on and pinpoint the parameters that mark a task’s completion. A crystal-clear idea of the boundaries helps teams avoid “scope creep”: wasting time working on items you’ll ultimately find irrelevant or misguided.Creates formal checks and balances — ambitious developers may take it upon themselves to test for and correct issues, but you shouldn’t rely on this. A detailed SDLC plan gives teams a defined process for testing and fixing bugs.
+
+Establishes clear roles — outlining an SDLC means all stakeholders understand their roles and responsibilities, encouraging accountability.
+
+Sets boundaries — well-defined software development processes push teams to define actions early on and pinpoint the parameters that mark a task’s completion. A crystal-clear idea of the boundaries helps teams avoid “scope creep”: wasting time working on items you’ll ultimately find irrelevant or misguided.
+
+Creates formal checks and balances — ambitious developers may take it upon themselves to test for and correct issues, but you shouldn’t rely on this. A detailed SDLC plan gives teams a defined process for testing and fixing bugs.
+
+The software development life cycle phases
+
+The SDLC typically involves seven steps that guide teams toward creating a highly-functional, error-free product:
+
+Planning — product managers unpack the client’s needs and form an idea of the work. Teams ensure they have the time, mindpower, and resources to execute the project correctly.Requirements — developers and clients set expectations and align on a reasonable scope of work. Software developers may recognize misguided requirements and determine ones that genuinely fulfill the project's aim. Design — requirements in hand, software developers design solutions that correlate to these needs. They may build wireframes to visualize interactions within the software or create more extensive prototypes.Development — in the development (or implementation) phase, developers write the code behind the software, ensuring they meet project requirements. Testing — the testing phase often runs parallel to the development stage so developers can fix bugs and identify flaws.Deployment — after vetting the software's functionality and approving the final product, developers launch it to end users. Maintenance — developers tackle issues and build new features to meet users’ changing needs.
+
+Planning — product managers unpack the client’s needs and form an idea of the work. Teams ensure they have the time, mindpower, and resources to execute the project correctly.
+
+Requirements — developers and clients set expectations and align on a reasonable scope of work. Software developers may recognize misguided requirements and determine ones that genuinely fulfill the project's aim.
+
+Design — requirements in hand, software developers design solutions that correlate to these needs. They may build wireframes to visualize interactions within the software or create more extensive prototypes.
+
+Development — in the development (or implementation) phase, developers write the code behind the software, ensuring they meet project requirements.
+
+Testing — the testing phase often runs parallel to the development stage so developers can fix bugs and identify flaws.
+
+Deployment — after vetting the software's functionality and approving the final product, developers launch it to end users.
+
+Maintenance — developers tackle issues and build new features to meet users’ changing needs.
+
+5 software development methodologies
+
+You can support the software development process with a methodology that works best for your team’s workflow. Here are five popular approaches:
+
+Waterfall — this model is the least iterative of the development methodologies, as coders move from one task to another as if flowing through the project. Waterfall projects close out each development phase before progressing to the next one. Just as waterfalls can’t defy gravity and flow backward, this development tactic prevents teams from returning to a previously completed phase. Incremental — this is a “slow and steady wins the race” approach to software development. The team follows the traditional development steps: working on incremental software builds. In the first rollout, the software offers limited functionality, and developers later build upon it in increments. Agile — the Agile methodology involves developers working in sprints: short periods in which they build, test, and receive feedback on specific features. This piecewise development model allows teams to build out ideas and react quickly to errors and negative feedback.V-shaped — in this model, the sequence of the software development process is bent into a V after the development (or coding) phase. The rest of the steps fall on either side of the V, with the verification phases on one side and the validation ones on the other. The V-shaped model is sequential but also correlative, meaning each development stage has a corresponding testing stage. Developers only move to the next phase when they’ve completed the one before it. Spiral — the spiral model is like a hybrid of the V-shaped and Agile approaches. In this methodology, developers perform in-depth risk analysis on each iteration. After planning, developing, and testing every milestone, the team takes on another one, returning to the beginning of the process cycle. The project builds out in a spiral shape with each new iteration or milestone.
+
+Waterfall — this model is the least iterative of the development methodologies, as coders move from one task to another as if flowing through the project. Waterfall projects close out each development phase before progressing to the next one. Just as waterfalls can’t defy gravity and flow backward, this development tactic prevents teams from returning to a previously completed phase.
+
+Incremental — this is a “slow and steady wins the race” approach to software development. The team follows the traditional development steps: working on incremental software builds. In the first rollout, the software offers limited functionality, and developers later build upon it in increments.
+
+Agile — the Agile methodology involves developers working in sprints: short periods in which they build, test, and receive feedback on specific features. This piecewise development model allows teams to build out ideas and react quickly to errors and negative feedback.
+
+V-shaped — in this model, the sequence of the software development process is bent into a V after the development (or coding) phase. The rest of the steps fall on either side of the V, with the verification phases on one side and the validation ones on the other. The V-shaped model is sequential but also correlative, meaning each development stage has a corresponding testing stage. Developers only move to the next phase when they’ve completed the one before it.
+
+Spiral — the spiral model is like a hybrid of the V-shaped and Agile approaches. In this methodology, developers perform in-depth risk analysis on each iteration. After planning, developing, and testing every milestone, the team takes on another one, returning to the beginning of the process cycle. The project builds out in a spiral shape with each new iteration or milestone.
+
+Go further with the right tools
+
+No matter what software you’re building, when you outline the development process you give your team the information everyone needs to efficiently create something the client loves. This saves time and energy spent working on the wrong tasks and offers all stakeholders a bird’s eye view of the project.
+
+Document everything relevant to your project in a connected workspace so everyone can access wiki databases, useful templates, and task checklists. Get started today.

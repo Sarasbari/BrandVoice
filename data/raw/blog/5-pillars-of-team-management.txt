@@ -1,0 +1,115 @@
+Title: The 5 pillars of team management for enhanced productivity
+Published Date: 2022-08-12T00:00-06:00
+URL: https://www.notion.so/blog/5-pillars-of-team-management
+
+In the 1920s, French architect Le Corbusier developed a set of architectural principles, which are commonly known as the "Five Points of Modern Architecture." Le Corbusier believed these five principles should be incorporated into the design of any building. As a CEO or a startup founder, you’re designing and building a highly productive organization. So what do building a house and building an organization have in common? They both depend on the team behind it.
+
+Just like you need a solid group of engineers, architects, and construction workers to build a stable house, you need a strong team of individuals to build your company. But a good team isn’t enough. You need to apply adequate team management strategies that empower your team to be productive.
+
+To help you foster better team alignment and efficiency, we laid out five principles of team management you can immediately implement in your organization. Even Le Corbusier would be proud.
+
+The link between team management and team productivity
+
+The leadership team's responsibility is to make to make sure everyone is working together to reach a common goal. While teamwork does make the dream work, a team is only as good as its leader. The key to enabling a productive team at your organization is good management.
+
+To understand the link between team management and team productivity, let’s take a look at a social science experiment from 1993, which studied the effect of management and team performance of a professional baseball team. The study identified that team performance and productivity depend on leadership.
+
+Team productivity relies on a shared understanding of the project, the process workflows, and the respective roles of each team member. Even if your team isn’t about to swing bats anytime soon, their productivity still depends on how effectively you manage them.
+
+The 5 pillars of team management
+
+When you’re building a house, the first thing you need is to have the sketches, plans, and all other information in one place for the builders to refer to. The same applies to your organization. It’s important that all information is in one centralized location so your employees have the project docs, meeting notes, and tasks they need to work efficiently.
+
+It’s impossible for one person to build a house alone. Construction workers have to collaborate and communicate with other team members to get the tasks done. Likewise, your team needs to communicate and collaborate to be productive.
+
+However, this environment has to be created by management. Management has to communicate with the team to collaborate to identify tasks necessary to complete the work. The environment in which they’re working needs to be open and transparent, so the team knows how well they’re performing.
+
+Let’s take a deeper look at the five principles of team management:
+
+1. A solid knowledge management system/base
+
+We’ve written about how knowledge is your most important asset. Team members need to know how the organization operates to execute their tasks properly and productively. An engineer needs to know where the API keys are, and sales teams need to know where the CRM is located. Having a knowledge base that outlines where tools and important information are located enables your team to work faster and be more productive. As the first-in-command, managers are responsible for creating, maintaining, and making the knowledge base accessible to all team members.
+
+Building and documenting institutional knowledge helps employees familiarize themselves with the organization’s operations, which can lead to greater productivity. This is particularly relevant when it comes to training junior employees and onboarding new colleagues. Well-documented knowledge helps with getting all employees up to speed.
+
+A knowledge base helps team members operate more efficiently and productively. Design and prototyping tool, Figma, created the Figmanual in Notion — a one-stop shop for company information and policies. The introduction of the Figmanual helped the customer support team respond faster to user questions because they could easily search their FAQs database in Notion for saved replies to common questions. Instead of wasting time chasing senior management for answers, the autonomous support team sources the solution themselves.
+
+How to create a knowledge-sharing culture in your organization
+
+Familiarize your team with the different types of knowledge: Familiarize your team with the three types of knowledge and create knowledge documentation surrounding each type.
+
+Create a knowledge base: This is where the knowledge will be stored and shared. Make sure it’s accessible to all employees.
+
+Encourage contribution from your team: There’s no culture without contribution. Encourage your team to contribute and share any knowledge they have. You might learn a thing or two you didn’t know about your organization.
+
+2. Collaboration
+
+Collaboration is important for the smooth running of your organization’s operations and makes your employees more productive. For instance, a UX designer will collaborate and work closely with the front-end engineer to ensure that the team goals and outcomes are reached quicker than if they were working individually.
+
+A Harvard study revealed that 67% of respondents reported departmental siloes and a lack of collaboration across departments as inhibiting factors to success in the workplace. Team members rely on collaboration to do their job properly. It’s up to management to foster a collaborative environment and openly communicate that teamwork is a priority.
+
+How to create a collaborative environment in your organization
+
+Implement asynchronous communication tools. Slack is a great async communication tool that promotes collaboration. Co-workers can take advantage of the various integrations the messaging tool offers — Google Meet, Zoom, etc.
+
+Ask everyone to make their working hours public. This is especially beneficial for remote teams across different time zones. Team members will be able to prioritize important meetings that align with everyone’s time zones.
+
+Use task management tools. Genially, a visual design platform, uses Notion for cross-functional collaboration. The product and marketing team created a shared workspace where the two teams that work closely together can collaborate and coordinate projects, organize resources, and discuss tasks.
+
+Set goals across the whole department. Give your team a goal to work toward together. List out important milestones and set up check-in points where you can evaluate everyone’s progress.
+
+3. Communication
+
+Communication skills are essential to team productivity. Effective communication between management and employees ensures that employees receive clear instructions about their tasks. With clear instructions, team members are then able to carry out their expected tasks.
+
+When you incorporate open communication in your leadership style, you foster a supportive environment in the workplace. Employees who are struggling with their workload will feel comfortable openly communicating this to management. Management can then step in and offer help.
+
+Clear communication also increases productivity in the workplace. When employees are aware of who is directly responsible for each task or process, it eliminates confusion and saves time. The team is able to focus on meeting their expectations rather than chasing down documents or people.
+
+How Loom uses Notion to communicate
+
+Notion is the communication system for Loom’s remote team. Projects are organized on individual boards that are passed through each stage of the development process. Each board opens up with a full Notion page that captures research, notes, and action items. Project managers across the team are able to see all the tests that are running and their progress —  eliminating the need for meetings to discuss project progress.
+
+Co-founder and CTO Vinay Hiremath uses Notion to express his thoughts with the engineering team, who receive instant notifications as soon as he distributes memos within Notion. Communicating via Notion allows Vinay to share his real-time thoughts and saves him time he would otherwise spend distributing messages individually. Using Notion also means his thoughts are recorded and everyone has access to previous memos and information.
+
+4. Task management
+
+Task management is an indication of great team management skills and is also essential to team productivity. For your team to be productive, tasks need to be distributed efficiently and managed effectively. To ensure you’re maximizing productivity, make sure that when you delegate tasks, everyone’s skill sets are leveraged.
+
+Good task management is also dependent on giving clear instructions, such as the objective and purpose of the task and the due date. This raises accountability and gives management a way of checking that everyone is on track.
+
+iTech Media approaches task management by using a product roadmap in Notion. All projects relating to the product live in a database, and everyone has differing views. Managers have access to company-wide views that show what each team is working on. Other employees filter the roadmap to see their team’s projects. iTech Media’s system ensures that everyone knows what they’re supposed to do and when, and management can easily keep track of where projects and tasks stand.
+
+How to approach task management in your organization
+
+Automate tasks: Set up a system where tasks can be automated and assigned to the relevant person.
+
+Ensure a flexible approach to time management: Make sure your employees have enough time to carry out each task. Naturally, some tasks will take longer, and it’s important that employees are given the right amount of time for the task.
+
+Be realistic: Manage your productivity expectations based on your team’s capabilities and delegate tasks accordingly.
+
+5. Transparency
+
+Transparent leadership is a great way to build a culture of trust between management and the team. This can also lead to greater team productivity. For instance, if employees feel the environment is transparent, they may feel comfortable giving constructive feedback on processes that affect their work, which could drive changes that enhance productivity.
+
+It’s important to be transparent with your team about the success of the organization and team performance, so everyone knows where they can improve to help drive the company forward.
+
+According to the Slack Future of Work study, 80% of workers want to know more about how decisions are made in their company. If there is no transparency around an organization’s decision-making process, especially surrounding internal procedures and workflows, this can lead to gaps in employee knowledge. Gaps in employee knowledge can lead to skill deficiencies which can, in effect, lower productivity.
+
+Sendbird, a messaging solution, created company-wide transparency with Notion by building a homepage for each team in the same workspace. Everyone across the company is able to see what’s going on across different teams at any given time.
+
+Sendbird also fostered a transparent environment between customers and employees. They created a database of customer insights that was made accessible to the whole team, so employees could see how customers felt about the company. Team members are able to use these insights to improve decisions that affect the customer experience.
+
+How to create a transparent environment in your organization
+
+Initiate team-building exercises: Create team-building exercises to strengthen the bond between team members and make your employees feel comfortable with reaching out to each other.
+
+Share business performance: Sharing business performance shows your employees that you’re open and honest with them and creates a transparent environment. You can use a leadership dashboard to share the organization’s business performance.
+
+Ask employees for feedback: Asking for feedback shows your employees that their opinion matters and their thoughts are valued. You can create anonymous quarterly surveys or ask team members for feedback directly during 1:1s. Make sure you keep track of feedback so you can later assess it and make changes that will improve your team’s morale, engagement, and productivity.
+
+Empower your team to be productive
+
+Your team’s productivity doesn’t depend on how many hours of work they put in but rather on how well you set them up for success. Apply the five principles of team management to empower your team to strive toward greater productivity that delivers value to customers, colleagues, and other stakeholders.
+
+Explore the wide range of templates available in Notion to lay a great foundation for your team.

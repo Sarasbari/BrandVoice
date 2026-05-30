@@ -1,0 +1,153 @@
+Title: The OKR framework: what it is and how to use it to guide your startup team to success
+Published Date: 2022-07-26T00:00-06:00
+URL: https://www.notion.so/blog/okr-framework-guide-your-startup-team
+
+Busy work does not drive impact. If you’re an ambitious startup, you probably don’t have the time or resources for work that isn’t impactful — you want to make sure you’re deploying every ounce of your company effectively.
+
+Solid goal-setting frameworks can help focus your team’s efforts. You can find a million of these frameworks online — but for yours to be effective, it needs to be fast to set up, easy to use, and show your progress toward your goals. You want a rocket booster, not quicksand.
+
+The Objectives and Key Results framework helps startup teams prioritize important work, making the best use of their limited time and resources. For companies in the early stages of growth, the framework also helps to provide more specific direction in terms of each person's responsibilities and objectives. Here’s how you can think about creating OKRs for your team, and some ways Notion can help you set this up in a way that’s intuitive and customizable to your needs.
+
+What is the OKR framework?
+
+The OKR framework helps you determine your goals and track your progress. For each objective, you assign a set of success metrics — these are the "key results."
+
+Good OKRs fit this format: "I will [objective] as measured by [key results]."
+
+Andy Grove, the former CEO of Intel, is credited with overturning the conventional top-down management system to create the OKR framework. John Doerr introduced OKRs at Google in the 90s and wrote "Measure What Matters," outlining his approach. For Google, the framework has worked pretty well. Now OKRs are typically used by companies like LinkedIn, Spotify, and Airbnb.
+
+According to Google, the framework helps define the goals of their moonshot mission and then helps them "communicate, measure, and achieve those lofty goals." OKRs provide teams with a roadmap to success.
+
+What are the benefits of OKRs for startups?
+
+Startups are usually under pressure to grow quickly and extend their market reach. Sometimes, this can lead to a lack of focus for teams trying to boil the ocean. Having a system that helps align goals and focus your work toward those goals is necessary.
+
+With limited time, money, and team members, it's important to track progress across the company to make sure you're using those resources efficiently. The OKR framework gives you a simple way of tracking key metrics — plus, it pushes you to achieve goals in a manageable way.
+
+In a new company, you might also be dealing with the fact that:
+
+Everything needs doing, and you don’t know what you should do first.The roles in your organization aren’t clearly defined, and team members are working across the board.Your processes and systems aren’t well established yet, so you’re on the brink of chaos.
+
+Everything needs doing, and you don’t know what you should do first.
+
+The roles in your organization aren’t clearly defined, and team members are working across the board.
+
+Your processes and systems aren’t well established yet, so you’re on the brink of chaos.
+
+OKRs force you to define and prioritize your most important goals. When you narrow your focus to achieving the key results of the objectives, you don’t waste time working on tasks that don’t matter.
+
+Key results are measurable and specific, which means everyone is clear on what their responsibilities are. Because OKRs are transparent to the entire organization, all teams can see the objectives and the progress of everyone else. Everybody can see how they fit into the big picture, where the organization is at as a whole, and if everything is on track.
+
+Another advantage is the flexibility of the OKR framework: you’re able to respond to changing circumstances or adjust your efforts if something isn’t working.
+
+How to set OKRs
+
+OKRs are time-bound, and the typical OKR cycle is a quarter. Senior leadership sets company-wide objectives before the start of each quarter. Then each team sets its own OKRs that align with the company objectives. Team members set their own individual OKR goals after collaborating with their managers. To create OKRs easily, start by copying this Notion template.
+
+Define your objectives
+
+Your objectives are the "what" — they tell you what your priorities are each quarter. You want to set objectives that require you to make a change and would be impossible to achieve if you carried on with business as usual.
+
+To decide on the objectives:
+
+Look at what your customers would ideally want from your product, or brainstorm what your teams would love to achieve.Avoid setting goals that no one cares about by making sure your objectives have business value. Link them to an economic or end-user benefit.Whittle this list down to three objectives (maximum five).Separate your objectives into "aspirational" and "committed."
+
+Look at what your customers would ideally want from your product, or brainstorm what your teams would love to achieve.
+
+Avoid setting goals that no one cares about by making sure your objectives have business value. Link them to an economic or end-user benefit.
+
+Whittle this list down to three objectives (maximum five).
+
+Separate your objectives into "aspirational" and "committed."
+
+A committed objective is a goal you agree to achieve by the end of the quarter (by meeting all of the key results metrics). Committed objectives are a top priority, and teams adjust their schedules and resources to make them happen. They’ll stretch your team and are realistically achievable.
+
+Aspirational objectives or "stretch goals" are less realistic. Teams aren’t expected to fully achieve aspirational objectives but to make progress toward them. Ambitious or “impossible” goals are valuable because they expand your thinking. You make progress toward something incredible — which is more than you would’ve achieved if you’d stuck to what was easily doable.
+
+It’s important that you differentiate between "committed" and "aspirational" objectives so you know what to prioritize. If you discover that people are finding it easy to reach the aspirational objectives, think bigger and set more ambitious goals.
+
+Let’s say our startup is a new app that lets you order coffee from anywhere in your city. We set a committed company-level objective: "Grow our business" and an aspirational objective: "Build a workplace our employees love."
+
+Then, the engineering and marketing departments set their team-level objectives: "Increase production speed of new features" and "Increase brand awareness." The team OKRs are relevant to the whole company’s goals. We’ll end up with three to five objectives per company, team, and individual.
+
+Add key results
+
+Key results are the "how" — how you’ll achieve your objectives. The key results define what reaching your objective looks like, so you can measure success.
+
+For each objective, set two to five key results. Here are some things to keep in mind:
+
+The key results are measurable outcomes, not tasks to complete. If one of your key results is to increase the average opening rate of your newsletter to 50%, then a related task around this could be to A/B test newsletter formats.Without measurable goals, it’s impossible to track progress. Add a link to evidence of completion for each key result — like change lists or published metrics reports.Your key results should be essential indicators of the objective. If you can achieve the objective without completing the key results, you need to rethink. Key results ensure the objective gets achieved. To check you’ve set enough key results, imagine they’ve all been achieved. In that situation, could you say the objective has been achieved? If not, add more key results.
+
+The key results are measurable outcomes, not tasks to complete. If one of your key results is to increase the average opening rate of your newsletter to 50%, then a related task around this could be to A/B test newsletter formats.
+
+Without measurable goals, it’s impossible to track progress. Add a link to evidence of completion for each key result — like change lists or published metrics reports.
+
+Your key results should be essential indicators of the objective. If you can achieve the objective without completing the key results, you need to rethink.
+
+Key results ensure the objective gets achieved. To check you’ve set enough key results, imagine they’ve all been achieved. In that situation, could you say the objective has been achieved? If not, add more key results.
+
+Let’s look at some OKR examples for our app:
+
+Company-wide objective: Grow our business
+
+Launch three more products.Increase monthly revenue by 15%.Get 200 more people to join the premium tier, where their coffee orders get fast-tracked.
+
+Launch three more products.
+
+Increase monthly revenue by 15%.
+
+Get 200 more people to join the premium tier, where their coffee orders get fast-tracked.
+
+Company-wide (aspirational) objective: Build a workplace our employees love
+
+Get an employee engagement score of 75%. Reduce employee turnover rate to 8%. Increase our average Glassdoor rating to 4.5.
+
+Get an employee engagement score of 75%.
+
+Reduce employee turnover rate to 8%.
+
+Increase our average Glassdoor rating to 4.5.
+
+Marketing team objective: Increase brand awareness
+
+Get 100 subscribers to the blog.Increase the average newsletter opening rate to 50%.
+
+Get 100 subscribers to the blog.
+
+Increase the average newsletter opening rate to 50%.
+
+Success looks different for aspirational and committed metrics. Committed objectives are binary — if all the key results are at 100% by the end of the quarter, you've achieved the committed objective. Measure the success of aspirational objectives by looking at the average score of all the key results. If the average is 70% by the end of the quarter, you’ve achieved the objective.
+
+One of our startup's aspirational objectives is "Build a workplace our employees love."
+
+In this example, we can say we’ve achieved the objective because the average key results score is 70%. Customize the “success” threshold depending on the needs of your organization. For example, you might increase it to 90% or reduce it to 50%.
+
+Give context
+
+To encourage a collective effort toward the OKRs, they need to be written down and visible to everyone in your organization. Context lets people understand the reasons behind certain decisions and business goals. When people feel a connection with the overall objectives of the company, they’re more likely to get on board with new initiatives. Transparency is also important because:
+
+Open information helps with the workflow. Instead of getting blocked while waiting for a key piece of data, everyone can get on with their tasks.Cross-functional teams will usually have shared objectives. Access to relevant details means team members are able to complete their part and support each other.
+
+Open information helps with the workflow. Instead of getting blocked while waiting for a key piece of data, everyone can get on with their tasks.
+
+Cross-functional teams will usually have shared objectives. Access to relevant details means team members are able to complete their part and support each other.
+
+Display your OKRs together on one page and on relevant pages that people view often.
+
+On the individual OKRs’ pages, add notes to give extra information and encourage teams to leave comments. Open key results and add custom properties, like individual deadlines.
+
+Update and track your progress
+
+When you update and track your progress, you can adjust your work and resources to make sure the objectives are achieved. You’ll spot any roadblocks in advance and have the chance to come up with a solution.
+
+Set up a system for reviewing progress. Create a company-wide calendar event to remind everyone to check and update their OKRs at least once a week. If it suits your organization, check on the key results more frequently, for example, as part of your morning standup. Regularly celebrating small wins will keep your team motivated.
+
+At the end of the quarter, review and set new OKRs. For any committed objectives that haven’t been achieved, conduct a postmortem to figure out what went wrong. Carry over any unachieved aspirational objectives to the next quarter.
+
+Teach your team to use OKRs to guide their workflow. Because committed objectives are a priority, teams should work on them first before moving on to aspirational objectives. If committed OKRs aren’t on track, teams need to escalate the problem. Leadership should provide help or redefine the measurement metrics if necessary.
+
+If you hold a leadership position, it’s your responsibility to foster a positive culture around OKRs. They’re a method for motivating your organization to leap forward — don’t use them punitively.
+
+Make your own rules
+
+As a startup, you get to define your own culture. Notion’s template gives you the flexibility to customize the OKR framework, so you can make it work for you and your team. Use your Notion pages as a living document. Talk to each other. Share your updates. Give thoughtful feedback. Support your colleagues. Celebrate the wins.

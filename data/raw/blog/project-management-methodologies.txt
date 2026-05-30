@@ -1,0 +1,235 @@
+Title: The pros & cons of 8 project management methodologies
+Published Date: 2022-07-27T00:00-06:00
+URL: https://www.notion.so/blog/project-management-methodologies
+
+In 2018, the Pulse of the Profession report found that roughly $2 trillion dollars are wasted in a year due to poor project management practices in organizations across the globe.
+
+Project management is a core part of operations at any startup, and the chosen methodology says a lot about how a team prefers to work and what they work on.
+
+Before committing to a project management system, you need to know which project management methodology will be best for your team and for the business outcomes you’re looking to achieve. Here's a quick overview of ten of the most popular methodologies to help you choose the one that works best for your team.
+
+Waterfall
+
+The Waterfall methodology is a traditional approach to project management. It emphasizes the completion of activities and phases in a linear, sequential way — each stage of the project must be finished before the next begins. In other words, progress flows in one direction — like a waterfall.
+
+Pros
+
+Because of the rigorous planning required, project plans made with the Waterfall approach are quite detailed. The project scope, cost, and deadline are all well-defined, so clients know exactly what they’re getting.
+
+Even if a team undergoes turnover, a new member can join in and contribute without derailing the timetable if there’s a clear blueprint.
+
+Cons
+
+The Waterfall approach is quite rigid and can be restrictive for certain types of teams where constant change is the norm.Testing is done at the end, not throughout, and the final QA phase takes significant time.A client’s needs can’t be changed halfway through with work in progress.
+
+The Waterfall approach is quite rigid and can be restrictive for certain types of teams where constant change is the norm.
+
+Testing is done at the end, not throughout, and the final QA phase takes significant time.
+
+A client’s needs can’t be changed halfway through with work in progress.
+
+If you often run highly-structured projects with a clear picture of the end product (like in manufacturing or construction), then the Waterfall method is for you.
+
+Agile
+
+The Agile methodology is a project management strategy that divides processes and projects into incremental parts or stages.
+
+Rather than attempting to complete all tasks at once, Agile teams partition them into separate modules that they test and perfect individually before moving on. Agile frameworks emphasize an adaptive and iterative design and build process that helps teams respond to unpredictability.
+
+Pros
+
+The Agile approach is for you if you need to get something up and running fast and deliver workable increments to your clients very quickly.
+
+It’s also great if your project might often change direction and/or otherwise adapt to altering circumstances — without undoing much of the work that’s come before.
+
+Project tasks are tested in flight, allowing for frequent and faster delivery and a better project overall.
+
+Frequent delivery allows for rapid changes in project direction while keeping the project scope intact.
+
+Cons
+
+If you need to stick to a time limit, Agile might not be for you. There’s no strict schedule, which, if not managed, can be difficult under a tight deadline.This methodology won’t work if your client, organization, or industry is very rigid about sequences and schedules.You can’t change out the people in an Agile team — if a person on the project is gone, you could lose time and money trying to get new additions up to speed.
+
+If you need to stick to a time limit, Agile might not be for you. There’s no strict schedule, which, if not managed, can be difficult under a tight deadline.
+
+This methodology won’t work if your client, organization, or industry is very rigid about sequences and schedules.
+
+You can’t change out the people in an Agile team — if a person on the project is gone, you could lose time and money trying to get new additions up to speed.
+
+Implementing an Agile process requires competence, self-sufficiency of team members, and the opportunity for clients to change project requirements along the way. This can apply to any type of project in industries, from software development to wedding planning.
+
+Scrum
+
+Scrum teams commit to shipping working products through set intervals called sprints. During these sprints, they’ll meet for daily standups and review the work completed so far. The goal of this system is to create learning loops to quickly gather and integrate customer feedback. Scrum is a child of the Agile method but has gained enough popularity to be considered a separate project management methodology.
+
+Pros
+
+Processes and timelines are well-established and documented.Because sprints are so short, there’s ample opportunity to revisit ideas, get input, and incorporate it into a future sprint. Plus, there’s flexibility regarding what the team will work on in the next sprint right up until it begins.Daily standup meetings and regular sprint retrospectives mean issues don’t fester for long as everyone’s interacting daily and has a chance to air concerns and ask questions.
+
+Processes and timelines are well-established and documented.
+
+Because sprints are so short, there’s ample opportunity to revisit ideas, get input, and incorporate it into a future sprint. Plus, there’s flexibility regarding what the team will work on in the next sprint right up until it begins.
+
+Daily standup meetings and regular sprint retrospectives mean issues don’t fester for long as everyone’s interacting daily and has a chance to air concerns and ask questions.
+
+Cons
+
+Everyone needs to be bought in — if team members aren’t committed to making Scrum work, it may be difficult to implement.This methodology could increase the chances of scope creep in a project. Project managers have to keep an eye out and manage scope creep, so teams deliver within budget and timeframe.Sprints in Scrum teams can be very fast and frequent, which doesn’t allow teams time to rest in between.
+
+Everyone needs to be bought in — if team members aren’t committed to making Scrum work, it may be difficult to implement.
+
+This methodology could increase the chances of scope creep in a project. Project managers have to keep an eye out and manage scope creep, so teams deliver within budget and timeframe.
+
+Sprints in Scrum teams can be very fast and frequent, which doesn’t allow teams time to rest in between.
+
+The Scrum methodology is applicable to more than software development — it’s also great for event planning, product development, or any project that requires some flexibility.
+
+Kanban
+
+Like Scrum, the Kanban methodology is a part of Agile project management that takes a visual approach to project management. It aids workflow management by displaying tasks on a Kanban board, where all team members can see the order of operations and progress of the project.
+
+Kanban board example
+
+Pros
+
+Kanban boards make sure everyone is on the same page about the tasks, stages, and timelines of a project.Using the Kanban method, you can eliminate bottlenecks as quickly as they crop up by redistributing effort to tasks that are taking too long.With this methodology, there is true flexibility regarding prioritization, decision-making, and the processes necessary to enter or exit each stage.Your team’s queue of priority tasks on a Kanban board can be rearranged and reprioritized based on new information without affecting the rest of the process.
+
+Kanban boards make sure everyone is on the same page about the tasks, stages, and timelines of a project.
+
+Using the Kanban method, you can eliminate bottlenecks as quickly as they crop up by redistributing effort to tasks that are taking too long.
+
+With this methodology, there is true flexibility regarding prioritization, decision-making, and the processes necessary to enter or exit each stage.
+
+Your team’s queue of priority tasks on a Kanban board can be rearranged and reprioritized based on new information without affecting the rest of the process.
+
+Cons
+
+Kanban boards aren't very effective without showing due dates for each task. So it's important to use the right tool — Notion is a popular project management tool for Kanban because it allows you to customize the properties you want to display.If you don’t update the Kanban board consistently, you might be operating with outdated information.Boards can become complex and confusing, depending on the scale of the project.
+
+Kanban boards aren't very effective without showing due dates for each task. So it's important to use the right tool — Notion is a popular project management tool for Kanban because it allows you to customize the properties you want to display.
+
+If you don’t update the Kanban board consistently, you might be operating with outdated information.
+
+Boards can become complex and confusing, depending on the scale of the project.
+
+Although initially developed for manufacturing and for software teams, the Kanban method has since expanded for use across different types of teams and industries.
+
+Lean project management
+
+Lean project management is exactly what its name implies: a method of reducing waste and increasing value in projects and industrial processes.
+
+Pros
+
+The Lean method emphasizes continuous refinement which allows teams to iron out issues and identify pointless tasks. This allows your team to focus on the important stuff, ensuring a higher-quality product.
+
+Employees are better motivated when they’re able to focus on meaningful and impactful work rather than valueless busywork.
+
+Cons
+
+The Lean method leaves no room for potential changes or for implementing new strategies.This process requires all employees to “buy in” to the Lean methodology, otherwise production will suffer.It requires reassessing and possibly overhauling existing production systems in order to function properly, which isn’t feasible for every team.
+
+The Lean method leaves no room for potential changes or for implementing new strategies.
+
+This process requires all employees to “buy in” to the Lean methodology, otherwise production will suffer.
+
+It requires reassessing and possibly overhauling existing production systems in order to function properly, which isn’t feasible for every team.
+
+Lean project management was first developed by Toyota and works great for manufacturing companies. It’s also been adopted in construction, education, software development, and many startups.
+
+Six Sigma/Lean Six Sigma
+
+The Six Sigma approach ensures quality output by identifying and eliminating what isn't working in a project using data and statistics. Lean Six Sigma incorporates Lean methodology to eliminate waste. Project managers need special training to effectively practice either methodology. To learn more about the Six Sigma methodology, check out this article.
+
+Pros
+
+Six Sigma is great for optimizing supply chain processes and increasing customer satisfaction.
+
+This methodology focuses on the entire production process rather than just the end product/result.
+
+It’s a proactive methodology that identifies and provides recommendations for potential problems before the company incurs any form of loss.
+
+Cons
+
+The Six Sigma approach involves time-consuming and complicated procedures.Adoption of its protocols often leads to an increase in the overall costs from the training it requires to the quality improvement tactics a company may have to adopt.You might lose sight of your specific mission statement or policies while getting lost in those recommended by Six Sigma.For small businesses, it may constrain new ideas favoring creativity and innovation, which require some risk-taking to implement.
+
+The Six Sigma approach involves time-consuming and complicated procedures.
+
+Adoption of its protocols often leads to an increase in the overall costs from the training it requires to the quality improvement tactics a company may have to adopt.
+
+You might lose sight of your specific mission statement or policies while getting lost in those recommended by Six Sigma.
+
+For small businesses, it may constrain new ideas favoring creativity and innovation, which require some risk-taking to implement.
+
+This methodology works best for large companies — and not just those with a few hundred employees. It also won’t work for you if your company can’t justify the certification required to practice it.
+
+PRINCE2
+
+PRINCE2 (Projects IN Controlled Environments) is a structured methodology that’s the standard for the UK government. PRINCE2 differs from other traditional approaches, like Waterfall, as it’s not a one-size-fits-all solution but follows seven principles.
+
+Pros
+
+The entire framework is flexible and can be incorporated into about any type of project.
+
+The PRINCE2 project management methodology is one of the best for communication and accountability in projects.
+
+It focuses more on outputs and provides for continuous improvement, so progress and results are guaranteed.
+
+Cons
+
+This methodology won’t work if you don’t like excessive documentation/bureaucracy. At every stage, there’s loads of documentation to maintain and update.
+
+This methodology won’t work if you don’t like excessive documentation/bureaucracy. At every stage, there’s loads of documentation to maintain and update.
+
+Though this method has been adopted by many other country’s governments, it might not be suitable for small-scale projects or companies.
+
+Critical path method
+
+The critical path method (CPM) is a process for identifying the tasks required for project completion and determining scheduling flexibility. In project management, a critical path is the sequence of activities that must be finished in order for the entire project to be completed.
+
+Pros
+
+CPM allows project managers to pinpoint which tasks are most important to ensure resources are adequately allocated.Project managers and development teams that need to map out projects using flow charts or Gantt charts before starting may also enjoy this method.
+
+CPM allows project managers to pinpoint which tasks are most important to ensure resources are adequately allocated.
+
+Project managers and development teams that need to map out projects using flow charts or Gantt charts before starting may also enjoy this method.
+
+Cons
+
+This method is complex and requires project managers to know the steps necessary to reach project goals.The scheduling of personnel and resources is not handled by the CPM, which can slow down progress on a project.
+
+This method is complex and requires project managers to know the steps necessary to reach project goals.
+
+The scheduling of personnel and resources is not handled by the CPM, which can slow down progress on a project.
+
+The critical path methodology is for those managing large-scale projects that have various dependencies and need to follow a tight deadline.
+
+Combine project management methodologies to create the perfect process for your team
+
+More and more, teams are emphasizing cross-functional collaboration, and that’s no different in project management. Teams that were previously isolated are now urged to collaborate in order to reduce reporting hassles and boost visibility.
+
+To further eliminate team silos, consider combining methodologies. It’s less a question of one methodology being better than the other and more of maximizing the benefits of any given process. Mixing methodologies should be about helping all teams and the company as a whole by enhancing visibility and productivity through the use of a process that involves different approaches.
+
+Software teams may take the Lean approach to streamline code production, while project managers may choose Waterfall for projects with strict deadlines. Freedom to choose a project management methodology increases productivity because decisions are based on what works for that project or team.Notion is highly-customizable, allowing teams to build any type of workflow they want, which is perfect for combining project management methodologies. Some Notion templates you can use for project management:
+
+Pre-mortem templatePost-mortem templateProject charterProject roadmapProduct requirement documentProduct docsProduct wikiUser researchTasks and issuesProduct meeting notes
+
+Pre-mortem template
+
+Post-mortem template
+
+Project charter
+
+Project roadmap
+
+Product requirement document
+
+Product docs
+
+Product wiki
+
+User research
+
+Tasks and issues
+
+Product meeting notes

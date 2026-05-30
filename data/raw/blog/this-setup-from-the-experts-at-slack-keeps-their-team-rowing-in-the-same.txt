@@ -1,0 +1,57 @@
+Title: How experts at Slack use Notion
+Published Date: 2021-05-21T09:00-07:00
+URL: https://www.notion.so/blog/this-setup-from-the-experts-at-slack-keeps-their-team-rowing-in-the-same
+
+The way we communicate at work hasn't changed this much or this quickly since email was invented. We're more plugged in than ever — and with more people to loop in across more time zones, every email message is turning into a frustrating game of telephone.
+
+That's why we asked Slack, the world's most popular collaboration tool, for advice. In particular, the Slack Fund — the company's investment arm — always has communication on its mind. All the Slack Fund's investments, from MURAL and Hopin to Loom and Notion (yes, we're on the list), relate to the future of work and how we all talk to each other every day. So the team's got more than few tricks up their sleeve for sharing information seamlessly across the company.
+
+For them, efficient communication isn't about broadcasting everything to everybody. It's all about getting the right info in front of the right people. The tools they use reflect this goal: Slack provides instant accessibility to the greater team, while Notion organizes all their work so anyone can find what they're looking for.
+
+Let's dig deeper into their tips and how you can apply them in your own team so you always get your point across.
+
+Know when to switch between real-time and asynchronous work.
+
+You don't use a screwdriver on a nail. It's the same for communication: Slack may be the go-to for urgent questions, but what if you need more time and context? That's where long-form, asynchronous communication becomes more effective, allowing everyone to think more deeply about a project.
+
+For example, the Fund tracks every potential investment in a Notion database. Updates that would normally get lost among email threads and phone calls are all logged in the same page. Anyone who views the page gets a complete picture of where the deal stands without having to attend every meeting.
+
+If the team needs to bounce ideas around or make a decision in real-time, they use Slack. They drop a link to the Notion page so everyone can access the context they need. When the Fund does have a meeting, there's no time wasted on status updates — they just jump into making key decisions.
+
+Notion's Slack integration makes it even easier to toggle back and forth between synchronous and asynchronous engagement. Whenever a change is made in Notion, it alerts the relevant Slack channel.
+
+But, if there's one piece of advice Jason could give to anyone leading a team, it's to rally your organization around a shared set of rules. "People's behavior has changed," says Jason. "The way that works gets done now is very, very different than what we did in the office. We have to become comfortable with a communication style that isn't always immediate."
+
+Jason recommends setting guidelines for normally unspoken norms, like how quickly you're expected to respond to a Slack message. Documentation like this fosters trust and connectivity. "We need to make everyone — whether they're in the office or remote — feel like they're first-class citizens."
+
+Take the time to tailor updates for different audiences.
+
+People only read what you write if you make it interesting — especially when it comes to work docs. And to make it interesting, you have to know what the audience wants to know (We learned a thing or two writing this).
+
+The Slack Fund knows how important this is — in a 2000+ organization, they have to be thoughtful to win people's most precious commodity: their attention. So for each message, the team always asks two questions: Who is seeing it? And how does that determine the format and what to include?
+
+Sometimes they use a loudspeaker. To drive more visibility to the Slack Fund's work, Jason posts in an #announcements Slack channel that spans the entire org. But he doesn't talk about portfolio health or metrics. "We asked ourselves, what does the larger team need from the Slack Fund? High-level insights into the early-stage startup ecosystem," says Jason. The team collaborates on these reports in Notion, then share as links in Slack when it's ready. "It's made people far more aware and frankly more interested in what's happening."
+
+Then there are times when the Fund needs pinpoint precision — like when they run a particular deal by Slack CEO Stewart Butterfield. "Instead of sending Stewart the whole CRM and making him search for the particular company, we just give him the exact Notion page, and all the context is right there for him," says Jason.
+
+The thought and effort that goes into each message may seem like a lot, but it works. "We've developed an internal culture where everyone can consume content in a really compact and informative way," says Jason.
+
+Build one information hub, with personalized homes for each team
+
+One of the biggest collaboration issues growing teams face is context switching. On a typical day, the Fund might talk to portfolio companies, work with other Slack departments, or discuss projects within their own team. How do they manage all the chaos? By giving each group a designated space to work together.
+
+Each portfolio company is given its own Slack Connect channel and Notion workspace where they can communicate with the Fund. The setup is deliberately open-ended — some teams post updates for board members in Notion, while others draft funding announcements and ask for feedback. If a company needs advice on a particular topic, Jason can put together a database of potential intros with context on why they'd be useful.
+
+In their Slack channels, each company gets easy access to the greater ecosystem — developer relations, partner engineering, platform, product, and sales. "Conversations range from very technical integration questions to strategy and finance" says Jason. "It's much lower friction than going back and forth in a Google doc or email."
+
+The beauty of this system? No matter how much the portfolio grows, everything is still kept on Slack and Notion — not across dozens of tools. "If we had to use a different tool with different learning curves every time we onboarded a new company, it'd be a nightmare," says Jason. "I have Notion open all the time, every day. There's only one place I have to look for notifications across the entire portfolio."
+
+Bring focus back to your work.
+
+As more companies move to a hybrid model post-pandemic, something 72% of knowledge workers prefer according to Slack's Future Forum think tank, the need to streamline team communication is is only compounding. Notion and Slack are bringing focus back to the workplace, but there's still more to be done. Ask yourselves: What tools can you get rid of? What can you consolidate so that your team can focus better?
+
+The Slack Fund is already thinking about how to scale the systems they've put in place. "There's so much more we can do to create the ideal environment for deeper work," says Jason. "I'd love to consolidate more systems of record for the team. We've barely scratched the surface."
+
+Learn more about the Slack Fund and its mission to invest in and collaborate with entrepreneurs creating the next great software companies here.
+
+Illustration by Sarah Mazzetti.

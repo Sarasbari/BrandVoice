@@ -1,0 +1,89 @@
+Title: How Taxfix makes projects transparent and scalable in Notion
+Published Date: 2023-05-29T00:00-04:00
+URL: https://www.notion.so/blog/taxfix-notion
+
+Taxfix centralizes all project work in Notion. This visibility improved both execution and communication, while also establishing a scalable process to ship projects more efficiently.
+
+300Jira licenses eliminated5project management tools replaced
+
+Project work was siloed in different tools, creating a lack of visibility that slowed execution.
+
+Centralizing all project work into Notion, making it easier to know what was happening, communicate updates, and scale their processes.
+
+Company size: Mid-marketIndustry: FintechInsights from: Dušan Stranatić (Principal Technical Program Manager), Chris Glaske (Principal Systems Engineer)Teams using Notion: Entire companyWhy they chose Notion: Flexibility to create their own project management processes
+
+Company size: Mid-market
+
+Industry: Fintech
+
+Insights from: Dušan Stranatić (Principal Technical Program Manager), Chris Glaske (Principal Systems Engineer)
+
+Teams using Notion: Entire company
+
+Why they chose Notion: Flexibility to create their own project management processes
+
+Taxfix’s process for managing projects didn’t meet the needs of a fast growing company.
+
+Europe’s leading mobile tax declaration app has high expectations for consistently delivering value to users, and to do that, it needed to develop standardized, scalable ways to manage projects. But people were using different project management tools, creating a lack of visibility into work, owners, dependencies, and blockers that slowed shipping speed.
+
+“Our needs and demands change frequently, so we need our tools to adapt too,” says Chris Glaske, Principal Systems Engineer at Taxfix. “Notion is able to grow with us.”
+
+Technical program managers centralized project work happening across multiple tools into Notion. They created a single source of truth, making it easier to understand what was happening, communicate those updates to different stakeholders, and build a scalable (and customizable!) process that improved shipping velocity.
+
+A scalable project management process that’s both standardized and customizable
+
+All of Taxfix’s 450+ employees use Notion for project management because it’s flexible enough to meet the needs of diverse teams and types of work. “Other tools really force you into a specific alley of how to work. You don’t get to choose,” says Chris Glaske, Principal Systems Engineer at Taxfix. “In a position like mine, we need to support people in the way they want to work.”
+
+In most cases, supporting working styles of different teams inhibits building scalable processes. But Chris and Dušan Stranatić, Taxfix’s Principal Technical Program Manager, use Notion templates to set shared ways of working while allowing teams to customize these templates to the work at hand.
+
+In the discovery phase, teams use the project charter template. When figuring out the solution, they use the project plan template. For project development, there are templates for decision making, meetings, and reporting. Teams then mold these templates to their needs. Product teams might have larger discovery docs with robust user research, whereas engineering could organize project plans into sprints.
+
+Chris and Dušan define the project management process, inputs, and required information in a way that scales, then empower teams to customize all these elements to fit how they work.
+
+Favorite Notion feature: Templates — Taxfix is able to start with a template that gives them all project inputs, but then individuals can customize it to their needs.
+
+One place for all projects — centralizing tasks, statuses, timelines, and more
+
+Dušan noticed a lot of engineering projects were stuck “in progress” — a project purgatory where teams were working but didn’t deliver as much or as fast. The Technical Program Management (TPM) team found teams were using different tools to track projects, so no one could see all task statuses, dependences, or resourcing constraints. Lack of transparency was the root of the problem, slowing shipping speed.
+
+“We found that projects didn’t get delivered on,” says Chris. “When a project isn’t managed well, it’s just a waste of resources.”
+
+TPMs now centralize all project work into Notion, using a single database to bring clarity to all technical projects. Each project has a timeline. There’s an estimated build cost. You can see the engineers on the project. Tasks are pulled from Jira and organized into project milestones — where each milestone has a completion percentage, which impacts the overall project completion.
+
+Duplicate Taxfix's projects template here
+
+But it’s not just clarity in project execution. “Anyone can see the project charter, the core meeting minutes, the risk register,” says Dušan. “You can easily access all the relevant information about every initiative.”
+
+End-to-end project visibility wasn’t possible when information was fragmented. Now, everyone at Taxfix has full transparency into all aspects of a project because TPMs connect everything in Notion.
+
+Favorite Notion feature: Database properties — Taxfix uses properties to categorize and organize all project information so it’s easy to see what’s happening.
+
+Giving project updates to stakeholders in less time
+
+Having all project work in one place also reduces the amount of time it takes to share updates with stakeholders who have different levels of context about initiatives. Cross-functional partners require more detail than executives.
+
+Previously, project managers had to:
+
+Collect information that lived in different toolsOrganize itPersonalize it into something relevant and usable
+
+Collect information that lived in different tools
+
+Organize it
+
+Personalize it into something relevant and usable
+
+“Most senior leaders don’t have time to go into Jira and check a project status,” says Dušan. “We would have to copy-paste information that lived somewhere else, which increased the complexity of communicating updates.”
+
+Dušan uses views of the project database to surface relevant information with a single click. The view for specific teams shows tasks and blockers. The view for the C-level has updates and statuses.
+
+This makes it easy for Dušan to link views of the project database in several places, knowing the information is correct and up to date. “In Notion, I enter information or a data point once, and it’s there in the database as a single source of truth,” says Dušan. For example, there’s a view in the engineering wiki that shows the most up-to-date status of their projects. Or if Dušan is presenting a large initiative in a monthly business review, all he has to do is link to the project page to share vital info. Communicating updates is easier because information is centralized and accurate.
+
+Favorite Notion feature: Database views — teams and individuals create custom views of the projects database the pulls the information relevant to them.
+
+Making projects more transparent and efficient
+
+Fragmented tools created a lack of transparency in Taxfix’s project management process, resulting in a slowed shipping speed that can be detrimental for a fast-growing company.
+
+Using Notion, Dušan and Chris were able to consolidate projects happening across teams into one place. This visibility helped project planning, execution, and communication — enabling Taxfix to deliver value to its customers faster.
+
+Learn more about how you can manage projects in Notion.

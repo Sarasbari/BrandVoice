@@ -1,0 +1,37 @@
+Title: How I manage my Type 1 Diabetes using Notion
+Published Date: 2024-08-21T09:00-07:00
+URL: https://www.notion.so/blog/how-i-manage-diabetes-with-notion
+
+I have type 1 diabetes. I need prescription insulin 24 hours a day to survive.
+
+How does it work? Normally, my insulin is delivered via an insulin pump that connects to my continuous glucose monitor (CGM) to deliver hyper-accurate doses of insulin throughout the day. It’s really great because it lightens the mental load of this disease. It does almost all the calculations for me and just requires one needle poke every three days, rather than multiple injections daily. Neat!
+
+During the summer months, though, wearing lighter clothing and going to the beach gets annoying. The battery life isn’t phenomenal, and pumps don’t mix well with sand. Not to mention, the sweat caused by extremely humid weather (especially in NYC) makes my pump sites prone to irritation and the occasional infection. Gross!
+
+That’s why I usually take a “pump break” once a year during the summer months. Sometimes it’s only a week long. Other times it ends up being a 1-2 month respite. It’s totally freeing to live, even briefly, free of tubing. I’m on a pump break as I write this! Freedom!
+
+The search for a simple tool
+
+On these “pump breaks”, I rely on tools to help keep me alive. One of them is Notion.
+
+I have been relentlessly searching for a simple, non-bloated tool that can help me record and display my insulin-on-board (IOB), as well as record my daily bolus and basal injections.
+
+IOB tracks how much insulin is still active in my body. Normally, this is something a pump takes into consideration. But without a pump, it’s extremely hard to keep track of how much insulin I have taken throughout the day.
+
+So many diabetes apps are trying to do it all, which makes for a very overwhelming experience for somebody with an already overwhelming disease. Sometimes, an IOB visualizer is available deep inside an over-engineered app. But I don’t need an over-engineered app. I just want a reliable visualizer!
+
+Essentially, all I need to know is how much insulin I have administered at any given time. That way, I don’t insulin stack—or take too much insulin within a short period of time. Taking a dose on top of a dose can lead to severe hypoglycemia, which can ultimately cause unconsciousness, seizures, even death.
+
+My ideal workflow
+
+I needed a dashboard where I could input units of insulin injected and see a visual of my active IOB, as well as a daily overview of my logged injections.
+
+Enter charts in Notion. Now, when I enter my insulin doses into a database, a formula reduces the input over the course of four hours, displaying my current IOB.
+
+Another formula tracks my Basal insulin—a once-a-day, nightly injection that remains onboard for 24 hours (it’s a long-acting insulin with a much slower absorption rate). When this chart approaches zero, I know to re-take my nightly dose. I have also set a reminder in Notion for 10 p.m. every night, just in case.
+
+In addition to using charts, I’ve also incorporated a calendar view of this database to help me visually ensure that I am taking my nightly Basal dose. Phone timers and reminders are helpful, but without a button that creates a record saying “YES I TOOK THIS”, it’s a bit hard to remember whether you actually took your medication or just hit snooze.
+
+Managing type 1 diabetes requires a delicate balance of tools, data, and discipline—even when taking a well-deserved pump break. While the mental load of this disease is never gone, the right apps and tracking systems helps simplify the process and gives me a greater sense of freedom and control.
+
+By the way—I made this into a template, so feel free to start using it yourself! And reach out to us at @NotionHQ to show us what you’ve built.

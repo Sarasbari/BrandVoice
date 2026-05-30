@@ -1,0 +1,57 @@
+Title: How getting organized helped a YouTuber quit his day job
+Published Date: 2021-08-06T09:00-07:00
+URL: https://www.notion.so/blog/youtuber-runs-on-notion
+
+Ahmed's father wasn't convinced his son should become a full-time Youtuber — until he saw the paycheck. It was a surprise for them both. Five years ago, Ahmed was a civil engineer dodging scorpions in the Arabian desert. He started making Youtube videos at night teaching English, content that wasn't easily accessible in Egypt.
+
+After a couple years, he was making more money from Youtube than his day job. With his father's blessing, Ahmed became the most well-known face of Egypt's Youtube scene, with over 42 million views and 1 million subscribers.
+
+Most people would see this as the end of the story. But the trouble was, Ahmed was failing.
+
+"Youtube had always been a hobby for me," says Ahmed. "But once I got to one hundred thousand subscribers, it hit me that this was a real business. When I got to one million, I was lost. I didn't know how to keep up."
+
+He needed goals, a production system, a place to log his ideas for new videos. But all of this was scattered across Google Keep, physical sticky notes, and his brain. "I wasn't doing any long-term planning," he says. "I'd just wake up, decide what to do today, and shoot a video. I was way in over my head."
+
+A friend suggested he try a tool called Notion to help him get organized. At first, it didn't seem any different than Google Keep. "How naive I was," says Ahmed.
+
+The "aha" moment came when Ahmed realized he could link everything together. "I started to connect all the parts of my life — my Youtube ideas, my side projects, my family, my personal tasks and goals. Before, I just had a bunch of tasks scrambled up in my brain. Now it's all together in Notion."
+
+Now, Ahmed has over 5 million Youtube subscribers. He recently published a bestselling Notion Udemy course with more than 7,000 enrollments. Here's how he manages his work and life in Notion.
+
+Ahmed's Youtube production process
+
+Every part of Ahmed's Notion system is optimized for consistency. His success entirely depends on whether he can deliver creative content and present concepts in a fresh way every week.
+
+Consistency starts with tracking the most ephemeral part of the process: ideas. "Our brain is for creating ideas, not storing them," he says. "I get amazing ideas throughout the day, but as soon as I get distracted, the idea evaporates."
+
+In Notion, Ahmed collects all his ideas, not just for Youtube, in a catch-all page called the "Bucket." Sometimes he doesn't have time to work on an idea — he just needs to capture it as accurately as possible. Ahmed processes his notes later, resting easy knowing that they're all captured in one place.
+
+For the ideas that make it into video production, Ahmed moves them into his Youtube database. Status tags help him track where each video is in the pipeline, and every video is linked to individual tasks and sponsors.
+
+Inside each video's page are goals, research notes, and the full script. Everything lives side by side so it's easy to jump between them. To write the script, Ahmed built a template to make sure he checks all the boxes — intro, sponsor mention, fun fact, quote. "I can't afford to forget any of these pieces," says Ahmed. "I found out that people typically leave my videos after four minutes, so it's important to optimize every part."
+
+Planning saved his business
+
+One of the biggest changes Ahmed made to keep up with five million subscribers was how far ahead he planned. "Before Notion, I was like a hamster on a wheel. If I stopped working, it felt like everything would collapse."
+
+Breaking down every video into granular tasks was part of the solution. But he also needed to improve his own productivity. So he built a personal dashboard in Notion based on the Getting Things Done framework to manage his daily tasks. Each task is linked to the respective video project page — all Ahmed needs to do is look at his task list for the day and execute, rather than worrying whether he's making progress on the right things.
+
+Now, he plans videos a month in advance so he has a buffer. He's working on shooting four videos at a time so he can send them all off to his editor.
+
+But some days are better than others. And Ahmed knows it's important to reflect and process what happened. In the same Notion workspace, Ahmed keeps a daily journal where he logs his moods, what he accomplished, and even a picture of the day. "All parts of my life live in Notion because they are all connected to each other. If something is happening in my personal life, it affects my work."
+
+Keeping a daily journal may seem like a lot of work, but the payoff his huge. By filtering the journal entries from a specific period of time, Ahmed can create an instant report of how the week or month went. "I have a bad memory," says Ahmed. "Doing these big-picture reviews helps me understand my working patterns and make sure I'm still on track to finish my larger goals." They've helped him gain peace of mind as he manages a thriving business.
+
+Leveling up as a content creator, not just a Youtuber
+
+Ahmed's thinking bigger than just Youtube. "If I could go back in time, I would have branched out and developed multiple sources of income earlier than I did," he says. "You don't want to be at the mercy of the Youtube algorithm."
+
+As he adds business lines, keeping them all in one Notion workspace allows him to expand without going crazy. Every channel has its own homepage, but what's inside is personalized to the project.
+
+One of his newest projects is his Notion course — since launching it on Udemy six months ago, he's made over 65,000 dollars. All the research, planning, and course content is kept in Notion.
+
+"I've always loved learning new things and sharing with other people," says Ahmed. Except the Youtube algorithm doesn't like longform educational content. "It doesn't drive as many views." But he knew Notion was a skill that more people should be able to learn.
+
+"Right now, Notion is like when they first invented the laser," says Ahmed. "They didn't know what to use it for, but now it's crucial for manufacturing, surgery, even self-driving cars. There's so much potential for more people to use Notion and solve more problems."
+
+Ahmed's seen this potential firsthand. Quitting his job to focus on his passion was just the first step. Turning it into a full-fledged business was another thing entirely. Using Notion, he was able to organize all the parts of his business — and grow in his personal life too. No matter what he does next, he's got a system to tackle it.

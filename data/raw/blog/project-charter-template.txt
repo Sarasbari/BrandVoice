@@ -1,0 +1,137 @@
+Title: Notion project charter template for startups
+Published Date: 2021-11-28T00:00-08:00
+URL: https://www.notion.so/blog/project-charter-template
+
+Launching a new project involves a lot of moving parts and involvement from different people at all levels of the company — from getting leadership’s buy-in to budget approval to resource allocation. And all that needs to happen before you can even kick off the project. One solution? Using a project charter. Project charters are a great tool to get people on different teams aligned behind a project’s goals before you get started — and can help you collaborate to stay on track together until you reach the finish line.
+
+What is a project charter?
+
+A project charter spells out the goals, deliverables, budget, timeline, and people involved in a project. It serves as a starting point to get the team aligned and get everyone on the same page about what the project needs to achieve. Project charters usually include things like:
+
+How the project fits into the organization’s goalsProject objectives and goals Timelines Budget and resources availableTeam members and stakeholdersPossible roadblocks
+
+How the project fits into the organization’s goals
+
+Project objectives and goals
+
+Timelines
+
+Budget and resources available
+
+Team members and stakeholders
+
+Possible roadblocks
+
+Most importantly, a project charter gives the project manager (PM) the authority to get the project off the ground: once a budget is greenlit in the project charter, the PM knows the resources they have at their disposal to get the project done and can begin utilizing them. The project charter also clearly spells out management’s expectations for results, so everyone is aligned from the start, and there are no surprises or miscommunications down the road.
+
+An effective project charter template to get the team organized
+
+Ready to create your first project charter? You can use our project charter template to get started. The template covers all of the specs for the project. Let’s pretend the project is a Q3 Lead Generation Campaign.
+
+Table of contents
+
+The project charter template’s table of contents gives you an overview of the document and allows you to quickly go to different sections. This framework enables anyone on your team to easily and clearly focus on the details they care about during any step of the project.
+
+Goal
+
+The higher-level goal is what your project is trying to achieve. Try to frame this so it aligns with larger company objectives. Setting a goal makes clear to all teams the overall objective for the project and its impact on the company.
+
+Example: Generate 700 new leads.
+
+Description
+
+Describe the problem you’re facing and how the project will solve it. Depending on the project, make sure your description focuses on a specific problem rather than a broad one.
+
+Example: Leads plateaued in Q1, so we are running a comprehensive lead-generation campaign to meet our end-of-year goals.
+
+Major requirements and deliverables
+
+In this section, include stakeholder requirements and project deliverables. As the project moves along, it’ll inevitably touch more hands than it does at the beginning. Specifying the requirements ahead of time keeps everyone aligned on the results the project should deliver. Using Notion, you can even use the @ symbol to add dynamic dates to your deliverables.
+
+Example: Email marketing (5 emails), social media (design and copy), PPC, and retargeting campaign.
+
+Budget
+
+Include the overall budget or itemize it based on how it will be allocated. Breaking it down by team or department is particularly important so that each can plan and predict their expenditures throughout the span of the project.Example: Overall budget $300K = $50k for email marketing, $50k for social media, $100k PPC, and $100k retargeting.
+
+Success factors
+
+Define and list the key factors you need to meet in order for the project to be a success. How and what you measure is important to set ahead of time. This gives all teams a concrete idea of the tasks or features that need to be done/added in order to maximize those key metrics.
+
+Example: Get X engagement on each campaign, with at least Y engagement on each paid ad.
+
+Milestones and schedule
+
+You can use the timeline view to monitor milestones chronologically. Create smaller milestones to track the duration of the project, assign them to different team members, and set deadlines. Using our project charter template, individuals and teams can also update how each milestone is progressing.
+
+Example: Milestone #1 Email campaign launch, July 5th.
+
+Assumptions and constraints
+
+Include known and unknown variables that could affect your project here.Example: Assumption 1, a $100k PPC budget is competitive with what our competition spends.
+
+Project managers and team members
+
+In the database in this section, you can tag all of the project’s team members and clearly list their responsibilities.
+
+Example: @Ada Lovelace — in charge of copy for digital marketing assets.
+
+Approval
+
+Finally, this database lets you list and tag all of the stakeholders who need to approve the project charter before kickoff. Example: @Ted Nelson — date signed, May 2nd — status: Approved.
+
+The benefits and downsides of project charters for startups
+
+Creating a charter gives project managers a clear space to articulate what the project should do and allows them to reap the benefits of having clear communication across the organization. But done incorrectly, project charters create challenges for startup employees who are already stretched thin by expectations.
+
+Benefits
+
+Project charters can give cross-functional teams a unified starting point to kick off a new project — if PMs leverage them correctly.
+
+Market your project internally
+
+A good project charter can help you market your project and get buy-in from the executive team, almost like a project one-sheet. It can position your project within your company’s overall priorities and tie it to your company’s goals. Having a well-written project charter can help justify the resources you need and push stakeholders to approve it.
+
+Confirm authority
+
+Using a project charter is also a good way to confirm the resources the project manager has at their disposal. All of the project’s specs are outlined clearly in one place, so once the charter is approved, the PM knows they have the go-ahead to begin pulling in those resources to get the project done. In some ways, a project charter works like a legal charter: it clearly spells out expectations for everyone involved.
+
+Ensure alignment
+
+Project charters also help make sure the team, stakeholders, and leadership are on the same page from the start. With clearly stated goals, deliverables, and objectives, it’s much easier to collaborate and get your project off the ground successfully.
+
+Prevent scope creep
+
+Having a project charter in place sets expectations from the start, which is great for preventing the dreaded scope creep. If a project starts to balloon past expectations, referring back to the original charter can get the project back on track.
+
+The project charter sets expectations across all teams—with buy-in from all teams—before starting the project. If a stakeholder later changes their mind, the project charter is there to remind them of the original scope. If they want to change it, they need to get buy-in from all the teams again.
+
+Guarantee continuity
+
+Project charters are also useful to guarantee continuity if a team member or even the PM leaves your company midway through the project. Having a charter makes it easier to get caught up and understand all of the project’s different moving parts without losing sight of the original purpose. The charter basically serves as a single source of truth (SSOT) for the project.
+
+Downsides
+
+If a project charter isn’t set up well, it can cause problems down the line. There are a couple of mistakes to avoid:
+
+Rigid expectations
+
+If you make a charter that’s too rigid and can’t adapt to adjustments as the project progresses, it can be more of a hindrance than a help. Sometimes projects need to evolve: the key is to find the balance between flexibility and following the original project charter. On the other hand, having a project charter can help you spot deviations from “the plan” much sooner, so you can decide if they‘ll help accomplish your original project goals and course-correct if not.
+
+Not sharing project charters early enough
+
+Having all of your project specs in one place and getting sign-off from stakeholders before kick off is great—until you run into a roadblock where one busy executive doesn’t have time to read and sign off on your project charter. Having those kinds of bottlenecks at the start can mess up your entire timeline and make you scramble to catch up later. One possible solution is to share your project charter as far in advance as possible and communicate deadlines early.
+
+A project charter template you can start using now (and many more templates for your startup)
+
+Notion offers a number of templates for startups that can get you started. Having a template at your fingertips allows you to duplicate and customize it for each new project, keep your assets and tasks in a single place, and easily collaborate with other team members.
+
+Template for design tasksTemplate from Mixpanel’s engineering team for its daily standup and tasksTemplate for team project tasksTemplate for personal tasks
+
+Template for design tasks
+
+Template from Mixpanel’s engineering team for its daily standup and tasks
+
+Template for team project tasks
+
+Template for personal tasks

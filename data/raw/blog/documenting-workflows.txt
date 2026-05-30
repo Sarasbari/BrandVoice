@@ -1,0 +1,141 @@
+Title: Learn how documenting workflows streamlines business processes
+Published Date: 2023-05-16T00:00-06:00
+URL: https://www.notion.so/blog/documenting-workflows
+
+Every task at a company has a workflow — be it onboarding, submitting invoices, or tracking projects. But if you haven’t documented the most efficient way of doing these things, employees might waste time asking questions or using a more inefficient method.
+
+Documenting your workflows eases every business process because you can quickly direct new hires or confused employees to the right information. They can then start their work immediately and follow a method you’ve deemed productive and streamlined.
+
+What’s a workflow?
+
+A workflow is a set of steps that represents a business process. It outlines how to complete a task in the way the business wants you to.
+
+Some common workplace workflows include:
+
+Onboarding new employeesMoving leads through a customer relationship management (CRM) platformTesting software development projects
+
+Onboarding new employees
+
+Moving leads through a customer relationship management (CRM) platform
+
+Testing software development projects
+
+You can define a workflow for any process that has a start, end, and a couple of steps in between — even your morning routine. That workflow might be:
+
+Wake upMake the bedShowerGet dressedEat breakfastBrush your teeth
+
+Wake up
+
+Make the bed
+
+Shower
+
+Get dressed
+
+Eat breakfast
+
+Brush your teeth
+
+Workflows ensure that you don’t miss necessary steps when completing a task or working toward a goal. For software development, for example, following a workflow means you’ll remember every feature, hit every milestone, and understand your responsibilities well because you stuck to a clearly defined process document.
+
+What’s workflow documentation?
+
+While you might not document your morning routine, businesses need to ensure every employee takes the most streamlined and effective approach to their work. And they don’t want to repeat task how-tos to every new hire.
+
+Workflow documentation is a set of recorded steps for a workflow. Each workflow has its own set of elements, including tasks, points of review, and stakeholders. A workflow document outlines these elements and provides a single source of truth for anyone involved.
+
+Here are some examples of workflow documentation:
+
+Onboarding checklists for new employeesA process flowchart outlining equipment inspection proceduresA Kanban board defining assembly line processes for creating a productA workflow diagram showing a project management communication cadence
+
+Onboarding checklists for new employees
+
+A process flowchart outlining equipment inspection procedures
+
+A Kanban board defining assembly line processes for creating a product
+
+A workflow diagram showing a project management communication cadence
+
+You could use a cloud-based workspace like Notion or Google Docs to outline every workflow how-to in a central location. This helps you create a knowledge base with all the information your team needs in one place.
+
+3 benefits of workflow documentation
+
+Well-documented, efficient workflows make it easy for team members to understand and execute a business process. Here are three specific benefits of documenting your workflows:
+
+Clear expectations — when you document a workflow, everyone on the team knows what needs to happen, when, and who’s responsible.Improved collaboration — when your entire team understands a process, it’s easier to work together, communicate clearly, and hold each other accountable.More efficient operations — process documentation creates a dynamic definition of how your business operates. As teams work and learn together, processes change. You can use workflow documentation to understand and improve any inefficiencies.
+
+Clear expectations — when you document a workflow, everyone on the team knows what needs to happen, when, and who’s responsible.
+
+Improved collaboration — when your entire team understands a process, it’s easier to work together, communicate clearly, and hold each other accountable.
+
+More efficient operations — process documentation creates a dynamic definition of how your business operates. As teams work and learn together, processes change. You can use workflow documentation to understand and improve any inefficiencies.
+
+How to create workflow documentation: 5 steps
+
+Here’s how to create quality documentation and offer your team clearly outlined how-tos for their work.
+
+1. Conduct initial research
+
+Start by considering the following questions:
+
+What’s the purpose of this workflow? This might be to create a product, make a sale, or submit an invoice.Who’s responsible? Consider responsibilities regarding who completes each task in the workflow, who initiates it, and who decides when it’s complete. Invite these team members to help you document the process.What’s the process? With this team, create an initial draft of the broad steps a workflow includes.What documentation style will we use? Consider defining a documentation style that all your documents should follow, like font type and size and how employees should use special characters.
+
+What’s the purpose of this workflow? This might be to create a product, make a sale, or submit an invoice.
+
+Who’s responsible? Consider responsibilities regarding who completes each task in the workflow, who initiates it, and who decides when it’s complete. Invite these team members to help you document the process.
+
+What’s the process? With this team, create an initial draft of the broad steps a workflow includes.
+
+What documentation style will we use? Consider defining a documentation style that all your documents should follow, like font type and size and how employees should use special characters.
+
+2. Choose a documentation method
+
+Decide how best to outline this process. You might choose a:
+
+ChecklistFlowchartMiro boardText documentGantt chart
+
+Checklist
+
+Flowchart
+
+Miro board
+
+Text document
+
+Gantt chart
+
+Also consider where you’d like your documentation to live, like in a shared communication platform or team workspace. Putting it somewhere central means everyone can access it quickly and you can assign and adjust responsibilities somewhere visible.
+
+3. Record detailed steps
+
+Working with everyone involved in the workflow, outline every step of the process, adding the responsibilities you brainstormed at the start and showcasing dependent tasks (items an employee can’t start until someone else completes another item).
+
+When recording your workflow, consider the following:
+
+How the workflow beginsHow the workflow endsMilestones or critical points within the workflowA list of stages that define the work between milestones
+
+How the workflow begins
+
+How the workflow ends
+
+Milestones or critical points within the workflow
+
+A list of stages that define the work between milestones
+
+4. Test, review, and refine
+
+Confirm your documentation is accurate by testing it, performing the workflow tasks from beginning to end and making adjustments if something doesn’t flow.
+
+And consider having several people test the workflow many times throughout a set period, like a week or month. This helps you gain more powerful and accurate metrics about whether a workflow consistently works no matter which employee executes it or when they do so.
+
+You can also use this testing to identify bottlenecks and discrepancies, test for different scenarios, and confirm that you’ve accounted for all aspects of the process — including human and automated components.
+
+5. Publish, capture feedback, and refine as needed
+
+Publish thoroughly tested documents to the accessible location you chose at the start. Then gather feedback on the outlined process and your documentation of it and optimize as necessary.
+
+Document your workflows with Notion
+
+Defining and documenting your workflows ensures that every employee understands expectations and can contribute meaningful work. It feels good to be in the know — and that’s what well-defined workflows offer your team.
+
+Start right away with a Notion template that suits your team's needs, like something from the workflows from leading startups template collection.

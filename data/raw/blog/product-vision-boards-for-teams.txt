@@ -1,0 +1,121 @@
+Title: Product vision boards: why your team needs them and how to make your own
+Published Date: 2022-05-25T00:00-06:00
+URL: https://www.notion.so/blog/product-vision-boards-for-teams
+
+A successful product vision board can help inspire everyone involved in the process of creating a product. From the development team to the stakeholders, it can help improve your product strategy, so you can take an idea and bring it to life.The concept of the product vision board was originally created by Roman Pichler, a well-known expert in product management who specializes in digital products and agile practices. When he was working to develop his product canvas tool in 2012, he needed a way to capture his high-level vision, assumptions, and goals. In order to do that, he created a vision board for his product and found that this product vision board was extremely valuable to the process. He also discovered that it was applicable to many projects — including writing books and updating his training courses.Incorporating product vision boards into your team’s processes and workflows can help improve the outcomes of your projects by keeping them true to your original goals and vision while preventing scope creep. Here’s how they work and how you can make them work for your team, whether in person, hybrid, or fully remote.
+
+The five parts of the product vision board
+
+The purpose of a product vision board is to communicate the ideals and benefits of a new product at a very high level. At this point in the process, don’t allow yourself to get tied down in personas or other product details.
+
+The board is owned and managed by the product owner, and it serves as a product roadmap for the team working on the project. A product vision board includes five parts — vision, target group, needs, product, and business goals. Each part serves a purpose in keeping a product that’s in development aligned with its overarching goal.
+
+Vision
+
+This section is where you write out your aspirational product vision statement. This is your main goal and the reason you want to create the product you have in mind. It should be brief and help inspire the team working on the product. Questions to answer:
+
+What is your purpose for creating the product? Which positive change should it bring about?
+
+What is your purpose for creating the product?
+
+Which positive change should it bring about?
+
+Example:
+
+Help people cook healthy meals faster.
+
+Help people cook healthy meals faster.
+
+Target Group
+
+In this section, you want to address who the end users of your product are that will be benefiting from your product. You’ll also want to include who the customers are if they’re not the end users. Questions to answer:
+
+Which market or market segment does the product address? Who are the target customers and users?
+
+Which market or market segment does the product address?
+
+Who are the target customers and users?
+
+Example:
+
+Adults who need a quick way to cook meals.
+
+Adults who need a quick way to cook meals.
+
+Needs
+
+This section should focus on your value proposition for your product. Address what main issue your product solves based on user needs. This should be compelling and explain why people would be willing to purchase or pay for the product. Questions to answer:
+
+What problem does the product solve? Which benefit does it provide?
+
+What problem does the product solve?
+
+Which benefit does it provide?
+
+Example:
+
+Easy cooking that speeds up the process of getting a meal on the table.
+
+Easy cooking that speeds up the process of getting a meal on the table.
+
+Product
+
+Your product section should include three to five key product features that you want to keep centered throughout development. These are features that will be pertinent to its success while addressing the needs that you’ve outlined.  Questions to answer:
+
+What type of product is it? What makes it stand out? Is it feasible to develop the product?
+
+What type of product is it?
+
+What makes it stand out?
+
+Is it feasible to develop the product?
+
+Example:
+
+An electric pressure cooker. It’s easy to use and clean. Significantly cuts down on cooking time.
+
+An electric pressure cooker.
+
+It’s easy to use and clean.
+
+Significantly cuts down on cooking time.
+
+Business Goals
+
+In this section, you’ll want to highlight why your company should spend time and money creating this project. Think about how it fits with your company’s overall business goals and what it will do for the company.
+
+Questions to answer:
+
+How is the product going to benefit the company? How will this help us achieve our 2022 goals?In what ways will this help the company's revenue growth?
+
+How is the product going to benefit the company?
+
+How will this help us achieve our 2022 goals?
+
+In what ways will this help the company's revenue growth?
+
+Example:
+
+Product will help the company become a household name. Product will expand the brand’s market share.
+
+Product will help the company become a household name.
+
+Product will expand the brand’s market share.
+
+Product vision boards keep you true to your original goals
+
+An effective product vision board guides you through the product development process by helping you keep the big picture in mind. It allows everyone to understand what direction you’re moving in and make decisions that will result in a better final product.
+
+For example, if you find your product seems to be suffering from scope creep when working on product features, it’s time to go back to your product vision board and see which features being developed align with your original goals and which do not. Pare back on features that don’t fit, so you can focus on the ones that will help ensure you create a successful product with a great user experience.
+
+Additionally, it helps keep your product team motivated by zeroing in on inspiring and ambitious goals. Because the product vision board is kept at a high level, it allows your team to be creative and change tactics as needed during development.
+
+How your remote and hybrid team members can leverage product vision boards
+
+Traditionally, product vision boards were written on whiteboards in big conference rooms. Not anymore. With remote and hybrid work, you’ll need to create a product vision board that allows for async collaboration between teammates anywhere in the world. With Notion, teams can create product vision boards to collaborate on in real time during video conference calls or work on perfecting over time when it suits each team member’s availability.
+
+Teams can also connect related project documentation like wikis, meeting notes, design documents, brand guidelines, dashboards, and more to their product vision board. By providing the context and background every team member requires, Notion makes it easier to keep product development moving forward without having to slog through numerous files to find the information you need. This simplicity can also help keep stakeholders in the loop on the progress of a product in development without overloading them.
+
+Give remote teams what they need with a product vision board template from Notion
+
+With an understanding of the benefits of product vision boards and the help of Notion, your team can create product vision boards that are easy to use, maintain, and share and work for your teams wherever they are. Although you could make your own customized product vision board on Notion, you don’t have to start from scratch. Check out our product vision board template to get started on your next great product.

@@ -1,0 +1,21 @@
+Title: Notion acquires Cron, the next-generation calendar
+Published Date: 2022-06-09T09:00-07:00
+URL: https://www.notion.so/blog/notion-acquires-cron
+
+Welcome to Notion, Cron!
+
+The first thing many people do in the morning is check their calendar. It anchors the day, paints a picture of what’s ahead, and keeps track of how we spend our most precious resource: time.
+
+Today, we’re excited to announce that much-loved calendar, Cron, will be joining Notion.
+
+Cron and Notion have a lot in common. We share a sense of craft and an overlapping base of passionate users. Cron was the beloved calendar that was recently named Product Hunt Productivity App of the Year. Notion is making software toolmaking ubiquitous. Although our product is asynchronous, we believe in the power of synchronous tools like video and messaging too — and time is the bridge between the two. Our community is showing us every day how they are using Notion, and it’s often organizing their time. Notion is where you keep your life and work organized, and now Cron will be where you keep your day on track.
+
+Ivan Zhao, Notion’s co-founder and CEO said:
+
+“At Notion, our mission is to make software toolmaking ubiquitous. Time is a fundamental layer of software and our daily workflows. Last year I switched to Cron for my calendaring and was so impressed by the craft behind this product. I’m super excited to see Notion and Cron come together to bridge synchronous and asynchronous work, and help people collaborate more easily on whatever is most important to them.”
+
+Raphael Schaad, Cron’s founder and CEO said:
+
+“Time is one of the most valuable things we have in our lives. And for many of us, calendar software is how we interact with our time. I’m originally from Switzerland and have always been fascinated with timepieces. With Cron, we set out to move the world closer to a place where everyone makes the most of their time. That vision and what our users love about Cron Calendar remains, and now with Notion, we’ll be able to integrate notes and tasks much more seamlessly. I use Cron and Notion side by side every day and am excited about building defining software for the workplace of the future.”
+
+Raphael and the Cron team are joining Notion today, and Cron will continue as a separate app as we build a shared vision and brand.

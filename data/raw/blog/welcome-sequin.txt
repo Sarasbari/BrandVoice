@@ -1,0 +1,53 @@
+Title: Welcome to Notion, Sequin team!
+Published Date: 2026-01-09T00:00-08:00
+URL: https://www.notion.so/blog/welcome-sequin
+
+Work is getting more complex, and company knowledge is increasingly fragmented across tools.
+
+That's why I'm excited to welcome the Sequin team—Eric Goldman, Anthony Accomazzo, and Carter Pedersen—to Notion. At Sequin, they built tools that helped companies bring data from across their software stack into one place. Their thinking on how to bring fragmented information together aligns perfectly with where we're headed.
+
+Earlier this week, I sat down with the founders Anthony and Eric to talk about their journey and what brought them to Notion.
+
+Fuzzy Khosrowshahi: Let's start at the beginning. How did you two meet?
+
+Eric Goldman: We went to college together at USC. Actually, we started our first business in college, selling waffles.
+
+Anthony Accomazzo: Yeah, we got our hands on the first Square card readers. Every other vendor on campus required cash, but our waffle stand could take credit cards—asymmetric advantage. The waffles were delicious. The card readers... less reliable. You had to swipe like 40 times to get them to work.
+
+EG: But it worked! And it planted the seed that we wanted to build something together.
+
+FK: How did Sequin come to be?
+
+EG: We kept finding ourselves helping companies solve the same problem over and over. Companies needed to connect their software to other tools, but everyone was starting from scratch every time.
+
+AA: There was all this repetitive work just to get systems talking to each other. So we built Sequin. Sequin synced data from across a company’s stack—Salesforce, ServiceNow, Stripe—into a popular database for developers (Postgres). This gave developers the building blocks to skip undifferentiated integrations and get back to focusing on what’s unique to their company.
+
+EG: No company has the same requirements for how tools should work together. But developers shouldn’t be constrained by rigid systems. They should have flexible primitives that let them build exactly what their company needs.
+
+FK: That sounds pretty familiar. How did Notion end up on your radar?
+
+AA: We were both early Notion users. We ran our company on Notion from the start. It’s always been a company we really admired.
+
+EG: Notion’s Head of Workflows Max Schoening reached out and painted a picture of where Notion was headed. Once we met the team, it became clear pretty quickly that we thought about the future of work in a similar way.
+
+FK: What stood out?
+
+EG: Honestly, I loved Notion as a product, but I didn't fully appreciate what was being built behind the scenes. When you opened the curtain on enterprise search, on how Notion is thinking about AI and agents, it all clicked.
+
+AA: For me, it was three things. First, the community loves Notion. That type of product love is so rare. Second, the company is incredibly ambitious, and has been since the beginning. And it was clear that AI was accelerating everything Notion had set out to do.
+
+Finally, I could see how well what we were building at Sequin fit in to where Notion is headed.
+
+FK: Let's talk about the bigger picture. How do you see knowledge work evolving?
+
+EG: There's this massive gap right now. Companies have all this information scattered everywhere—in docs, in conversations, in different tools. People spend so much time just searching for things or trying to piece together context.
+
+AA: Notion is in this enviable position where you're already in the stack for knowledge workers. Notion is already home to a company’s docs, notes, and projects. When you layer agents and AI on top of that, the possibilities are huge.
+
+FK: That's what excites me most. We're solving real problems today—helping teams find information faster, automate repetitive work, stay aligned. But we're also preparing for what's next. There's a huge wave of AI-native work coming, and it's going to require different tools and different ways of thinking.
+
+EG: The companies that figure this out early will have a massive advantage.
+
+AA: That's why we're excited to be here.
+
+FK: Well, we're thrilled to have you both. Welcome to Notion—let's build.

@@ -1,0 +1,139 @@
+Title: Improve performance with these 10 project metrics
+Published Date: 2023-09-28T00:00-05:00
+URL: https://www.notion.so/blog/project-metrics
+
+Knowing when to course-correct a project is tough.
+
+You might not realize you’re behind schedule or that team members are overworking before it’s too late — unless you track progress daily.
+
+How well your efforts pay off often hinges on your ability to measure progress and adapt your plan mid-execution if the numbers don’t match your initial projections.
+
+Project metrics play a pivotal role in this journey. They offer you a window into how effective your initiatives may be and reveal any potential areas that you need to improve.
+
+What are project management metrics?
+
+Project metrics offer ways to quantify critical information as you take an idea from prototype to completion. These are the data sets, formulas, and KPIs you can use to judge your project performance and gauge how well it’s progressing in any given area, from employee engagement to customer satisfaction.
+
+The importance of project management metrics
+
+If you aren’t tracking progress, you can identify if your team is on schedule or falling behind. While the specific metrics might vary from project to project, you need to keep tabs on how different elements of a project are performing.
+
+Project metrics provide benefits like:
+
+Measured project performance — get a snapshot of the project's performance against set measurable goals and expectations, which includes ongoing progress. With clear metric tracking, you can see if projects are running behind or if team members are overworking to hit their deadlines. Optimized performance — metric tracking allows your team to spot bottlenecks, optimize workflows, and ensure smoother operations by staying on the same page.Improved stakeholder communication — project management software usually includes reporting that can give quantifiable, easy-to-read snapshots of current project progression to stakeholders.Risk management — you can identify potential risks early by monitoring specific metrics, allowing for proactive mitigation of project setbacks.
+
+Measured project performance — get a snapshot of the project's performance against set measurable goals and expectations, which includes ongoing progress. With clear metric tracking, you can see if projects are running behind or if team members are overworking to hit their deadlines.
+
+Optimized performance — metric tracking allows your team to spot bottlenecks, optimize workflows, and ensure smoother operations by staying on the same page.
+
+Improved stakeholder communication — project management software usually includes reporting that can give quantifiable, easy-to-read snapshots of current project progression to stakeholders.
+
+Risk management — you can identify potential risks early by monitoring specific metrics, allowing for proactive mitigation of project setbacks.
+
+10 key project management metrics
+
+There are any number of project metrics that you can use as a project manager to judge how well your project is progressing. In general, there are 10 key metrics you can begin with:
+
+1. Schedule variance
+
+This metric aims to determine the difference between the planned schedule you and your team or client have agreed upon and the actual progress of your project.
+
+Schedule variance = Earned value – Planned value
+
+In this formula, the earned value is how much time you’ve actually spent on a task compared to the amount planned. This is a crucial metric because you need it to identify potential delays. If a problem arises, you can communicate it quickly to avoid delays or scope creep. And if you’re way ahead of schedule, you can identify where you’re gaining time to inform future project planning.
+
+2. Effort variance
+
+With effort variance, you compare the anticipated effort to complete a project against the actual effort expended.
+
+Effort variance = (Actual effort – Estimated effort) / (Estimated effort)
+
+If the effort variance is positive, it means the project required more effort than originally planned. If it was negative, it means it required less effort. You can measure variance in both time and cost, helping you make more accurate estimates for future projects and workload distribution across team members.
+
+3. Size variance
+
+When calculating size variance, focusing on the overall dimensions of the project can be misleading. It’s more effective to calculate the estimated size based on more specific units, such as added features, modules, or other measurable units. If you’re dealing with subjective units, like the quality of blog posts or time spent refining an image, assign a size system in the project planning stage.
+
+Size variance = Actual size – Estimated size
+
+Monitor size variance to avoid uncontrollable “ballooning” of the project that tries to tackle too many tasks at once.
+
+4. Requirement stability index
+
+With this index, you’re effectively gauging how your project requirements change during the creation lifecycle.
+
+Requirement stability index = Number of changed requirements / Total number of requirements
+
+When that stability is high, you have a relatively stable project. When it’s low, it means the project has undergone significant changes. Use this metric to predict potential timeline shifts or to manage stakeholder expectations, as a lower requirement stability index means there’s less wiggle room during execution.
+
+5. Projectivity (project)
+
+Look at the output of a project concerning what inputs (time, money, resources) you’re using during development.
+
+Projectivity = Output / Input
+
+Increases in productivity indicate that you and your team are providing much higher efficiency than projected, whereas a decrease means you’re underusing a resource. You might have more time allocated than necessary for a deliverable or too little funding to access all the necessary software to finish the project stage. This is one of the best metrics for project managers because it directly informs where there needs to be some flexibility in scheduling and resource allocation.
+
+6. Productivity (test case prep)
+
+Being able to test a product in development is critical to avoiding errors and ensuring a smooth time to market. The rate at which a product moves through the testing phase is helpful when estimating the time required to test a new product.
+
+Productivity = Number of test cases prepared / Time taken
+
+When you have high productivity in this metric, you know it moves through each test phase swiftly, limiting time spent in the testing phase.
+
+7. Productivity (test case execution)
+
+You want to know how quickly your project is progressing through testing and how well you’re identifying issues as they arise.
+
+Productivity = Number of test cases executed / Time taken
+
+Yes, you can get a “unicorn” project that’s perfect from beginning to end — but in most cases, you need to ensure you have robust testing for each phase. By tracking the number of test cases executed within a certain time frame, you can determine how quickly your team is progressing through the testing phase.
+
+8. Productivity (Defect detection)
+
+After you have robust testing in place, you must next be able to detect actual issues in those tests. During the project lifecycle, a higher value in defect detection means your testing systems are working.
+
+Defect detection efficiency = Number of defects detected / Total number of defects
+
+A low number means you need to make some changes so that your quality assurance testing is strong enough to prepare the project for the client or open market demand, while a high number means you’re successfully catching defects in the testing phase.
+
+9. Phase schedule variance
+
+Instead of looking at the entire project as a whole, here you’re breaking down the timeline into specific phases (often billable against current CPI).
+
+Phase schedule variance = Actual phase duration – Planned phase duration
+
+A granular view of each stage can help pinpoint where potential delays occur, enabling your team to enact more targeted interventions likely to lead to higher customer satisfaction in the long term.
+
+10. Phase effort variance
+
+With effort variance, you’re zeroing in on the specific efforts of your team during the segmented phases.
+
+Phase effort variance = (Actual phase effort – Estimated phase effort) / (Estimated phase effort)
+
+You want better source allocation and productivity tracking to make phase-specific adjustments if you run low on money, team hours, resource availability, etc.
+
+Project metrics versus KPIs: Are they the same thing?
+
+While both project metrics and KPIs offer valuable insights, they're not the same. Project metrics provide a broad overview of the project's health, while KPIs are specific indicators that gauge the success of particular project objectives.
+
+Think of metrics as the general indicators of your blog’s overall performance: daily traffic, bounce rate, and average session duration. These metrics give you a broad overview of how well your blog is performing and where your audience’s interests lie.
+
+In this project metrics example, KPIs are the specific indicators that measure the effectiveness of your blog in achieving its objectives. A blog’s KPIs could include metrics such as conversion rates, click rates, and social media shares.
+
+How to choose project management metrics
+
+Choosing the right metrics is like picking supplies for a project — it depends on what you’re working on. Here's how to choose metrics for project management:
+
+Define the project's goals — clearly describe your objectives and key results. This will determine what you need to measure, like the project scope, what project success metrics to consider, and how you’ll establish the fulfillment measurement required for every stage. Understand stakeholder expectations — knowing what your stakeholders expect will guide which metrics are most relevant. You can wrap customer expectations into this same idea. Defining what metrics to use generally depends on who the end user is or the target customer segment. Regularly review and adapt — metrics should evolve with the project. Periodically assess if they're still serving their purpose to adjust as needed.
+
+Define the project's goals — clearly describe your objectives and key results. This will determine what you need to measure, like the project scope, what project success metrics to consider, and how you’ll establish the fulfillment measurement required for every stage.
+
+Understand stakeholder expectations — knowing what your stakeholders expect will guide which metrics are most relevant. You can wrap customer expectations into this same idea. Defining what metrics to use generally depends on who the end user is or the target customer segment.
+
+Regularly review and adapt — metrics should evolve with the project. Periodically assess if they're still serving their purpose to adjust as needed.
+
+Improve performance with Notion
+
+The best way to organize your project metrics is through modern project management tools. Notion provides custom templates, such as the performance improvement plan, to manage, implement, and evaluate project metrics.

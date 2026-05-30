@@ -1,0 +1,25 @@
+Title: Mastering the art of OKRs
+Published Date: 2024-05-15T00:00-07:00
+URL: https://www.notion.so/blog/mastering-the-art-of-okrs
+
+Between 2020 and 2022, Notion grew 25x. We were 20 employees in an old warehouse garage, then the company ballooned to 500 employees seemingly overnight. We upgraded our office space, but not our processes. People started to feel less connected to our larger company goals because there wasn’t an established way to plan and track our progress.
+
+So we turned to OKRs (Objectives and Key Results). The framework was pioneered by Andy Grove, then CEO of Intel, who was looking to create a system that worked well for the growing tech giant. Now, it’s one of the most commonly-used goal setting systems, in large part due to how well it connects the dots between aspirations and tactics. It’s how we track what we want to do and whether or not we did it.
+
+But once you come up with your OKRs, how do you make sure you deliver on them? Here are a few tips and tricks we've learned along the way.
+
+Start with a template: No need to build your own connected OKRs tracker from scratch. Start with a template from the Notion template gallery instead and tweak it to your heart’s content. Build something that really fits your org.
+
+Link everyone with everything: It’s one thing to simply set your objectives and key results. It’s another to actually tie those goals to people and work. When you do, you draw a map with a clear marked trail — no more guessing how to get from Point A to Point B. In Notion, database relations create those pathways that make it easy to connect disparate information, like objectives with their projects, tasks, and docs.
+
+Tip: Use Notion Projects to create a fully connected OKR system. In your Projects database, create a relation to your OKRs database to better align each project with a specific objective.
+
+Get comfortable, then stretch: When was the last time someone told you 70% was successful? Guessing never. But that’s actually the benchmark you should be aiming for when setting OKRs. They’re meant to be an opportunity for you to set sails for uncharted waters, so create ambitious goals that really force you to stretch.
+
+Check in often: OKRs don’t tell you what you should do each day of the week. But they can act as a lighthouse, giving you direction on where to go with specific metrics to aim for. As such, take time to check in — whether it’s weekly, bi-weekly, or monthly — to see how you’re tracking. Use synced blocks and database views in Notion to automatically sync OKRs in your 1:1s and team meetings. No one loves a surprise at the end of the quarter to find out you’re miles behind.
+
+Make it scale: Arguably, the hardest part of setting OKRs is understanding what your company needs, putting plans in place, then getting feedback on whether or not everything aligns. At Notion, we built a hub for all things planning — you can find our company strategy, get feedback on in-progress OKRs, and see what everyone else is working on.
+
+Tip: Create a database calendar view that includes all your key dates for your company’s planning process. Share it out with your entire org — then add it to Notion Calendar for quick access.
+
+Setting goals without a clear line between objectives and work is like knowing a movie’s final scene but not the rest of the script. Use that template up top to tie everything together in a way that works best for you, and be sure you’ll never lose the plot.

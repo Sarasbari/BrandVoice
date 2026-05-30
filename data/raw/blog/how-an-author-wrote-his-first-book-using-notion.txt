@@ -1,0 +1,43 @@
+Title: The Builder Series: How to write a book in Notion
+Published Date: 2025-03-11T09:00-08:00
+URL: https://www.notion.so/blog/how-an-author-wrote-his-first-book-using-notion
+
+Normally, when someone decides to write a book, they wait until they have a book deal to make an announcement. But Simone Stolzoff did it backward: he told the world he was writing a book long before putting pen to paper. He didn’t even have an agent—just an idea born from his own experience choosing between career paths.
+
+Simone (affectionately referred to by friends as “Simo”) grew up in the Bay Area and followed the path that was expected of him: went to college, studied journalism, and became a reporter at The Atlantic. But when faced with the opportunity to join design company IDEO, the decision that loomed weighed heavily.
+
+“Choosing what to do next felt like choosing between two versions of myself: what I wanted to do and what I felt like I should do,” Simo says.
+
+Many people he spoke to felt this same inner conflict, and he wanted to tell their stories. Work has become central to Americans’ identities—but to what end?
+
+When Good Enough is great
+
+With idea in head and pen in hand, Simo set off to write his book—but he didn’t quite know where to start. “The ambition of writing a book is intimidating,” he says. “But if you think about it as a project, you become a project manager for your work.”
+
+If you think of your book as your product, there’s an organizational component that requires attention right from the start. You accumulate reams of research, interviews, and outlines that you’ll need to search when looking for evidence and anecdotes.
+
+He chose to organize all of these inputs in Notion. “I think there’s a misconception about inspiration. Often, people just think about the output of creativity, but what you take in is just as important.”
+
+For Simo, Notion is a second brain where every part of his writing process lives. His daily to-do lists, brainstorms, characters, book covers—everything lives on its own page.
+
+He started by writing down each chapter idea. Those eventually turned into Notion pages filled with research and notes. He then created a database with milestones and due dates. It was exciting to see his book take shape all in one place.
+
+In mid-2023, just three years after his first broadcast on social, The Good Enough Job was met with thousands of five-star reviews and comments about how the book “spoke to [readers’] souls.” He just wrapped up his second book (coming soon!), and yes—he followed the exact same process, all in Notion. Here are Simo’s recs for how to get started:
+
+Tips for book builders
+
+1. Start with shitty first drafts
+
+Writing a book is a long process. Daunting to say the least. But if you create snackable projects as you go, it’s much easier to tackle. “Create short assignments for yourself. It’s much easier to think, ‘Today, I’m going to write a few paragraphs,’” Simo says. “Don’t stare down a whole chapter or even a full page. Just write a few lines and see where it takes you.”
+
+2. Give your brain more room
+
+As you research, you’re likely going to be taking in so much knowledge—and it all needs a place to go. That’s why a second brain is so vital—it’s how you can handle those details in an organized way that allows you to actually use them effectively. “The more intentional you are about what information you take in, the better your output will be,” Simo says. “Your actual brain can only hold so much, so create a digital space where you can easily put things and take the load off yourself.”
+
+3. Stop at strategic points
+
+Build creative momentum by leaving yourself on a cliffhanger. When you finish writing for the day, stop at an interesting point that makes you want to come back. “So much of work is managing your own emotional systems,” says Simo. “When you’re intentional about the work you’re going to do next, it makes it that much easier to pick up the next day.”
+
+We loved getting to know Simo and hearing his story—you can find his book The Good Enough Job on Amazon or anywhere books are sold. And make sure to watch his TED Talk about reclaiming life from work.
+
+If you’re building something in Notion, we’d love to hear about it. Find NotionHQ on X or LinkedIn and send us a note!

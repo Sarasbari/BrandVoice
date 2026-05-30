@@ -1,0 +1,51 @@
+Title: Make with Notion Showcase Europe 2025: Highlights & Takeaways
+Published Date: 2025-12-18T03:00-05:00
+URL: https://www.notion.so/blog/highlights-make-with-notion-showcase-europe-2025
+
+This autumn, we brought Make with Notion Showcase back to Europe.
+
+In the second year of our in-person conference series, we welcomed over 1,300 attendees across four cities for a host of Notion users—from enterprises and startup founders to students and community members alike. Thank you for showing up, sharing your stories, and reminding us why we build Notion in the first place. It’s that connection that makes these events so special, and I genuinely can’t wait to do it all over again next year.
+
+A few weeks later, three themes from those conversations continue to resonate: AI is beginning to take work off our plates rather than merely helping us do it faster, organized knowledge remains critical to powering that future, and our community is actively building the future of AI-powered work together.
+
+Couldn't join us? Watch all the sessions on-demand in our digital hubs. Catch up on Notion's latest product launches and future innovations, learn from industry leaders like EGYM, Pleo, and Qonto, and access templates to supercharge your Notion skills: Berlin, London, Munich, Paris.
+
+Agentic AI has arrived
+
+If last year marked AI's arrival in the workplace, this year ushered in the age of agentic AI—where AI doesn't just assist but takes action. At this year's Make with Notion series, we shared more about Notion 3.0, which marks the shift from Notion as a tool to a teammate. Your Notion Agent can now autonomously handle tedious, multi-step workflows that usually consume hours of your day: writing decision docs from meeting notes, drafting TLDRs, and building, populating, and maintaining databases up to 100× faster than doing it manually.
+
+We also previewed Custom Agents. Your Notion Agent can do a lot and takes action when you ask it to. But Custom Agents can be shared across teams, scoped to specific databases or teamspaces, and triggered automatically by schedules or events. Imagine waking up to your daily brief prepared, last night's bug reports already triaged, and new employee onboarding kicked off—all before you've had your morning coffee. And with MCP (Model Context Protocol) integration, you can access content from Notion and other connected apps, like Slack and Jira, while working within other tools. Coding in Cursor or designing in Figma? Your Notion context comes with you.
+
+Custom Agents are currently in early access with select customers and will be available more broadly in early 2026. We can’t wait to see what you all build. If you want to learn more, sign up here.
+
+Context is (still) king: Why knowledge unlocks AI's potential
+
+Some of the most impactful sessions were our customer panels on knowledge management in the age of AI. In partnership with independent market research agency Vanson Bourne, we surveyed hundreds of business leaders across Europe earlier this year to understand how companies are managing organizational knowledge and integrating AI.
+
+It turns out businesses of all sizes still struggle with knowledge scattered across disconnected tools—and it's costing real money. In the UK, France, and Germany alone, organizations lose up to €16,000 per employee every year due to time wasted searching for information. That's not overhead or opportunity cost. That's money walking out the door.
+
+So what’s the the critical insight? Nscale CPO Dan Bathurst put it simply: “You can use AI as much as you want, but if you don't have relevant context, you’re essentially going to get slop out the other side.” All those powerful AI agents we just talked about are only as good as the knowledge they can draw from. We can't expect agentic AI to autonomously handle complex tasks if information isn’t documented and centralized.
+
+Snir Yarom, CTO of Taxfix, emphasized that investing in taxonomy structure and AI-friendly content early pays massive dividends later. "Having a centralized knowledge base may be a big upfront investment," he said, "but it allows you to execute faster down the road."
+
+Knowledge management isn't just about finding information faster. It's about building the foundation that lets AI—and your team—do their best work.
+
+A celebration of customers, community, and creativity
+
+Beyond product announcements and research findings, each city buzzed with energy from our community. More than 50 guest speakers, including local innovators like Lydia, PhysicsX, and Typeform, shared practical lessons from the front lines on building AI-powered workflows, consolidating knowledge, and scaling with Notion. Founders shared their company journeys. Notion Ambassadors led interactive sessions on tips and best practices. We also honored customers such as Bpifrance, Synthesia, and SumUp for outstanding achievements in business transformation, AI innovation, and change management.
+
+Some of the highlights for me:
+
+In Munich, Georg Ponleitner from refurbed showed how his team rebuilt OKR tracking from a static Excel file into a dynamic system in Notion that help teams work 80% fasterIn London, founders Giovanni Lupetti from humans and Rafi Farooq from Genii shared how Notion and Notion AI are allowing them to disrupt the HR and legal tech industriesIn Paris, Ivan hosted the first‑ever First Block Live in France with Photoroom CEO Matt Rouif, who outlined his three principles for building AI products
+
+In Munich, Georg Ponleitner from refurbed showed how his team rebuilt OKR tracking from a static Excel file into a dynamic system in Notion that help teams work 80% faster
+
+In London, founders Giovanni Lupetti from humans and Rafi Farooq from Genii shared how Notion and Notion AI are allowing them to disrupt the HR and legal tech industries
+
+In Paris, Ivan hosted the first‑ever First Block Live in France with Photoroom CEO Matt Rouif, who outlined his three principles for building AI products
+
+Thank you to everyone who joined us—your energy and engagement made these events unforgettable, and your participation in our community continues to inspire us.
+
+Couldn’t be there? Dive into our city-specific Digital Hubs (Berlin, London, Munich, Paris) to watch keynote announcements, explore customer stories, and access templates to level up your Notion skills.
+
+See you next year.

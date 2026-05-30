@@ -1,0 +1,107 @@
+Title: How to write an effective work plan
+Published Date: 2023-05-09T00:00-06:00
+URL: https://www.notion.so/blog/work-plan
+
+NFL coach Marv Levy once said: "Plan your work and work your plan."
+
+Your project management process can do the same — without the screaming crowd of a football game.
+
+Launching a new product, service, or large-scale project takes foresight. Going with the flow might work for your daily to-dos, but you can’t meet hard deadlines without direction. A work plan lights the way.
+
+Well-documented goals, milestones, and action items prompt you to think through your project before it starts. And you can break a hard plan into smaller tasks and organize all the details into a single document. Give your team a play-by-play so when launch comes, you score a touchdown.
+
+What’s a work plan?
+
+A work plan is a document that holds every detail of a project. It's less a formal doc than a living, breathing plan that lets you track progress and adjust as you go. Your whole team can reference it throughout the process and make sure they’re getting everything done — and doing it on time.
+
+Here’s what a work plan might include, depending on your project scope:
+
+Initial goals and project objectivesResponsibilities of stakeholders and ancillary team membersSuggested timelines and tentative due datesProposed budget and financial goals
+
+Initial goals and project objectives
+
+Responsibilities of stakeholders and ancillary team members
+
+Suggested timelines and tentative due dates
+
+Proposed budget and financial goals
+
+Creating a work plan is a collaborative effort — not just a task for team leads and project managers. Everyone involved can update and optimize your plan as the project goes on, generating feedback and providing momentum for every milestone. And it’s more comprehensive than a project timeline or to-do list because it collects everything you need to get the job done.
+
+Why create a work plan?
+
+Big projects demand extensive documentation, and if your meeting notes and wikis are all over the place, your team will waste precious time hunting them down. A work plan lets your team find key details and due dates quickly in the same hub. Your team can suggest changes, refine initiatives, and brainstorm the most effective workflow for your project.
+
+Here’s how a work plan helps you succeed:
+
+Sets expectations — by the time you start your project, everyone should have already seen (and approved) your plan. Before jumping in, your whole team already knows what to do and when to do it, and will have a chance to speak up if something’s amiss. Keeps you on target and on task — a well-thought-out work plan is a roadmap of project deadlines and tasks. It gives your team insight into how their day-by-day work fits the big picture and project timeline and tracks how they’re moving along.Shares your wins — the next step after setting goals is meeting them. With a clear plan, everyone knows what your objectives are, so you can celebrate together when you reach them. Collectively crossing tasks off the list shows everyone tangible progress.
+
+Sets expectations — by the time you start your project, everyone should have already seen (and approved) your plan. Before jumping in, your whole team already knows what to do and when to do it, and will have a chance to speak up if something’s amiss.
+
+Keeps you on target and on task — a well-thought-out work plan is a roadmap of project deadlines and tasks. It gives your team insight into how their day-by-day work fits the big picture and project timeline and tracks how they’re moving along.
+
+Shares your wins — the next step after setting goals is meeting them. With a clear plan, everyone knows what your objectives are, so you can celebrate together when you reach them. Collectively crossing tasks off the list shows everyone tangible progress.
+
+3 types of work plans
+
+No work plan is the same. Each one will have different goals and details than the next, depending on the stakeholders and scope.
+
+Here’s a breakdown of work plan examples for different teams:
+
+1. Employee work plan
+
+An employee work plan covers shorter projects. A sales team might write a plan for a new sales initiative, cold calling 30% more people and increasing closed deals by 15% from last quarter. This type of work plan should include space for check-ins along the way and a to-do list that tracks everyone’s contacts.
+
+2. Manager work plan
+
+Manager work plans focus on high-level goals, either for the department or an entire team. The sales manager might write a work plan focused on hiring more salespeople or creating an ad campaign to gain leads. It could list out its goals, such as increased sales or more efficient lead generation, and outline the budget for every step.
+
+3. Business owner work plan
+
+A business owner sees everything from the top down, so this work plan has a wider scope. It could describe annual company-wide sales goals or concepts for a completely new service, including metrics, market research, and a reporting structure.
+
+How to create a work plan that gets results
+
+Jotting down some notes and calling it a day won’t give you a successful plan. Like any other long-term documentation, your work plan needs clear, organized steps with a breakdown of action items and relevant knowledge.
+
+Here are the steps you need to take to write a plan that works for your team:
+
+1. Set your goals
+
+Start with your objectives, no matter the project. Use SMART goals (specific, measurable, achievable, relevant, and timely) to set the tone and mission. Your goals aren’t necessarily the purpose of your work plan; they just let you know what you’re working toward. Your goal might be generating 10% more leads, and your work plan would outline how to achieve that.
+
+2. Define deliverables
+
+This part is all about action. You'll need to define clear to-dos and specific deliverables that bring you closer to your main goal. To find leads, you could plan to purchase more ad space online or create new sales marketing materials to hand out at conferences.
+
+3. Make a list of resources
+
+Your work plan should list everyone and everything you need to complete the project. Include a wiki for team members and documentation for every other resource you might need, like extra office space, design software, or sales training materials.
+
+4. Assign team responsibilities
+
+You already have a to-do list, so assign accordingly. Gauge everyone’s capacity and make sure every task has an assignee, and that every assignee knows what they’re doing and when. This should outline the responsibilities of each team member, from making initial sales calls to printing new business cards. Create a communication flow that considers all schedules, conflicts, and concerns.
+
+5. Set project timelines
+
+One missed deadline can derail your whole schedule. Pre-established project timelines keep everyone on task and provide a rough project end date. Maybe the sales conference is in two months, so your team needs to print those flyers before packing their suitcases.
+
+6. Establish a budget
+
+How much does that new design software cost per month? What ad space can you afford? Your work plan should list every expense related to achieving your project goals; calculating a competent budget keeps you from going overboard.
+
+7. List risks and restrictions
+
+Since your work plan is a pre-planning document, it’s an excellent opportunity to capture possible risks or roadblocks that could come up further down the line. Maybe one of your top-performing salespeople has a vacation planned during the conference, or your designer has a stacked workload and a longer timeline for creating graphics. Your work plan is the place to document these speed bumps and brainstorm ways around them.
+
+8. Execute
+
+Now it's time to execute your work plan. Share the document with your team and let everyone comment on the timeline, to-do list, and other notes to give them control of their part of the process.
+
+Review your plan throughout the journey to ensure everything’s on track and decide what to change if your team feels it could be better. And when the project’s over, have a post-mortem meeting to see what went right and what might need adjustment in the future.
+
+Work planning made easier with Notion
+
+Your plan is just the beginning of your next great project. Use one of Notion’s work plan templates to kick off, and start linking it out to all your other docs so your team has everything they need in one place.
+
+Keep track of your team planning process with a research board template, or visualize tasks with a simple daily planner template. For larger ventures, a project management template will help you create a work plan that gets long-lasting results.

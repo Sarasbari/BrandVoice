@@ -1,0 +1,295 @@
+Title: Does Gmail delete old emails when your storage is full?
+Published Date: 2025-01-28T07:00+02:00
+URL: https://www.notion.so/blog/does-gmail-delete-old-emails
+
+Effective email management is crucial if you want to maintain a productive workflow and stay on top of your responsibilities. When your inbox is cluttered, it can lead to missed deadlines, information loss, and general overwhelm.
+
+While some email service providers and third-party tools can automate email cleanup, you can only trust these processes up to a point. Even with the most meticulous filters, a vital email might get deleted without your knowledge.
+
+Does Gmail delete old emails when your inbox is cluttered or storage is almost full? This article will answer the question in depth and help you find the best solution for managing your inbox without deleting crucial messages.
+
+Does Gmail automatically delete old emails?
+
+By default, Gmail doesn’t automatically delete any emails, regardless of how old they are.
+
+You can have an email from a decade ago on Gmail, and the platform won’t delete it, even if your Gmail storage is full. Once you reach your storage limit on Gmail, you won’t be able to receive any new emails, but old messages remain intact.
+
+The only time Gmail automatically deletes an email is when it’s been labeled as Trash for 30 days. Gmail manages emails with a system of labels applied to each message. Inbox is a label, and so is Trash. You can access these labels from the left-hand menu in Gmail.
+
+When you delete an email, Gmail removes the Inbox label and applies the Trash label to the message, effectively removing it from your Inbox and moving it to the Trash menu.
+
+By default, emails stay in the Trash folder for 30 days. You can restore an email from there, but after the 30-day period, the provider will permanently remove the message from your account.
+
+Bear in mind that this doesn’t mean Google hasn’t kept your emails somewhere on their servers or in offline storage it uses for backups. The same is true for most providers that may retain access to your emails long after removing them from your account, and they become unavailable to you.
+
+How to delete all emails older than a certain date in Gmail
+
+To remove all messages past a specific date in Gmail, you have two options:
+
+Deleting emails via the search barCreating a filter
+
+Deleting emails via the search bar
+
+Creating a filter
+
+How to delete older emails in Gmail from the search bar
+
+When used properly, the Gmail search bar can be a powerful tool for finding specific messages or a range of emails. To do so, you’ll need to learn the basics of Gmail search operators. These are parameters you can use to refine your searches and filter emails by criteria like:
+
+LabelsKeywordsRecipientSenderDate
+
+Labels
+
+Keywords
+
+Recipient
+
+Sender
+
+Date
+
+The “before” operator helps find and delete older emails. If you wanted to see all emails received before August 1st, 2023, for example, you’d type before:2023-8-1 in the search bar. The date format is year-month-day.
+
+To delete all emails past a specific date, follow these steps:
+
+Open Gmail in your browserAccess your Inbox from the left-hand menuType before:YYYY-MM-DD with the desired datePress EnterSelect all emails by clicking the checkbox above the search results
+
+Open Gmail in your browser
+
+Access your Inbox from the left-hand menu
+
+Type before:YYYY-MM-DD with the desired date
+
+Press Enter
+
+Select all emails by clicking the checkbox above the search results
+
+All that’s left to do is select the Trash icon. This action will effectively mass-delete everything from that period.
+
+How to delete older emails in Gmail by creating a filter
+
+While useful, search operators are a manual, one-time solution for deleting older emails. Gmail filters are a more permanent option—they can automatically categorize emails according to predefined criteria, including age.
+
+You can set up a filter that applies a certain label (like Trash) to all emails older than a specific date or period. After that, you’ll be able to choose what happens to any matching emails, which is when you’ll opt for deletion.
+
+To create a filter that deletes older emails, follow these steps:
+
+Open Gmail in your browserClick the Settings icon in the top right cornerChoose See All SettingsOpen the Filters and Blocked Addresses tabChoose Create a New FilterEnter older_than:X in the ‘Has the words’ promptChoose Create FilterSelect Delete It in the ‘Select what to do with matching conversations’ promptClick Create Filter
+
+Open Gmail in your browser
+
+Click the Settings icon in the top right corner
+
+Choose See All Settings
+
+Open the Filters and Blocked Addresses tab
+
+Choose Create a New Filter
+
+Enter older_than:X in the ‘Has the words’ prompt
+
+Choose Create Filter
+
+Select Delete It in the ‘Select what to do with matching conversations’ prompt
+
+Click Create Filter
+
+The older_than:X operator is versatile—you can use it to set any number of years, months, or days. For example, to automatically delete all emails older than two years, you’d enter older_than:2y here.
+
+Consult the table below for other examples of how you can use the older_than:X parameter to delete emails:
+
+Desired periodValue of XFull operatorOlder than 15 days15dolder_than:15dOlder than 3 months3molder_than:3mOlder than 1 year1yolder_than:1y
+
+Desired period
+
+Value of X
+
+Full operator
+
+Older than 15 days
+
+15d
+
+older_than:15d
+
+Older than 3 months
+
+3m
+
+older_than:3m
+
+Older than 1 year
+
+1y
+
+older_than:1y
+
+The filter applies to all messages, including emails labeled as Spam and Trash.
+
+How to find missing emails in Gmail
+
+Since Gmail doesn’t delete emails automatically, the most likely cause of a missing email is you deleting it yourself. If you’re positive you haven’t done so, the email could also be:
+
+Archived or marked as spamForwarded to another email account FilteredInaccessible due to email client issues
+
+Archived or marked as spam
+
+Forwarded to another email account
+
+Filtered
+
+Inaccessible due to email client issues
+
+Check if your email was archived or marked as spam
+
+When you archive an email in Gmail, the platform removes its Inbox label, but the message is still accessible through All Mail.
+
+If you suspect the email has been marked as Spam or moved to Trash, follow these steps to find it:
+
+Open Gmail in your browserClick the Show Search Options icon at the end of the search barOpen the All Mail drop-down menuChoose Mail & Spam & TrashEnter any keywords from the email you remember in the ‘Has the words’ promptPress Search
+
+Open Gmail in your browser
+
+Click the Show Search Options icon at the end of the search bar
+
+Open the All Mail drop-down menu
+
+Choose Mail & Spam & Trash
+
+Enter any keywords from the email you remember in the ‘Has the words’ prompt
+
+Press Search
+
+This might also be a good time to manage your Spam folder and avoid future junk mail from filling up your storage. Check out these guides on permanently stopping spam emails on Gmail and blocking emails or specific email addresses.
+
+Keep reading: Discover the top eight solutions if you suspect your Gmail account is not receiving emails.
+
+Check if you’ve forwarded the message to another account
+
+If you’re forwarding emails from Gmail to another account, you may have accidentally deleted the original messages in the process. Gmail’s forwarding settings let you choose between:
+
+Keeping the original emailsArchiving themDeleting them
+
+Keeping the original emails
+
+Archiving them
+
+Deleting them
+
+Follow these steps to check your current forwarding settings:
+
+Open GmailGo to SettingsChoose See All SettingsOpen the Forwarding and POP/IMAP tabSee if Forward a copy of incoming mail has been enabledCheck if Keep Gmail’s copy in the inbox is on
+
+Open Gmail
+
+Go to Settings
+
+Choose See All Settings
+
+Open the Forwarding and POP/IMAP tab
+
+See if Forward a copy of incoming mail has been enabled
+
+Check if Keep Gmail’s copy in the inbox is on
+
+If the last option is set to ‘Delete Gmail’s copy’ or ‘Archive Gmail’s copy,’ it’s probably why your emails are missing.
+
+Check if an email filter is deleting your emails
+
+If you’ve set up a filter to delete emails past a certain date or older than a specific period, the filter is probably to blame for your missing messages. To check whether you’ve created such a filter, follow these steps:
+
+Open Gmail in your browserGo to SettingsChoose See All SettingsOpen the Filters and Blocked Addresses sectionScroll down the list of active filtersSelect the checkbox next to any filters that include the following actions:Skip InboxDelete ItClick Delete at the bottom of the list
+
+Open Gmail in your browser
+
+Go to Settings
+
+Choose See All Settings
+
+Open the Filters and Blocked Addresses section
+
+Scroll down the list of active filters
+
+Select the checkbox next to any filters that include the following actions:
+
+Skip InboxDelete It
+
+Skip Inbox
+
+Delete It
+
+Click Delete at the bottom of the list
+
+Any messages that the filters deleted over 30 days ago will not be accessible, as Gmail has already permanently removed them from Trash. Otherwise, you’ll be able to retrieve the deleted emails from Trash or All Mail, depending on the filter.
+
+Check if emails are inaccessible due to email client issues
+
+You can access your Gmail inbox using different email clients, such as Apple Mail or Microsoft Outlook. In that case, the client downloads emails from Google’s servers via POP or IMAP protocols.
+
+Your POP and IMAP settings in Gmail may be to blame for your deleted messages. Similarly to forwarding, you might have enabled deleting emails from Google’s servers after sending them to the client.
+
+Follow the steps below to check your POP and IMAP settings:
+
+Open GmailGo to SettingsChoose See All SettingsGo to the Forwarding and POP/IMAP tabCheck if POP and IMAP are enabledSee if your messages are set to ‘Keep Gmail’s copy in the inbox’
+
+Open Gmail
+
+Go to Settings
+
+Choose See All Settings
+
+Go to the Forwarding and POP/IMAP tab
+
+Check if POP and IMAP are enabled
+
+See if your messages are set to ‘Keep Gmail’s copy in the inbox’
+
+If you set this option to ‘Delete or Archive messages,’ you won’t be able to see emails in your Gmail Inbox.
+
+Keep reading: If you’re dealing with a cluttered Gmail inbox, discover how to find your unread emails.
+
+Is Gmail the most efficient option for email management?
+
+Gmail offers a widely used, highly accessible email platform. However, it has several limitations that could hinder email management. If you take away the familiarity of its modern interface, you’re left with some shortcomings, such as:
+
+Limited automation: Although Gmail offers basic features like Smart Compose and Smart Reply, it lacks the AI-powered automation found in more sophisticated email clients. This translates to repetitive tasks like sorting, labeling, and filtering, which require manual effort and consume time. Basic organization: What you get from Gmail in terms of organization boils down to tabbed sorting, labels, and filters. These features are not as efficient when grappling with a large volume of emails, and can quickly become cumbersome. Gmail doesn’t offer intuitive features that auto-prioritize what’s important or remove distractions.Basic integration: Gmail integrates with other Google Workspace tools. However, this integration may not be sufficient for users who rely on project management and productivity tools beyond the Google ecosystem. It may require switching between multiple applications, which can lead to app fatigue and compromise productivity.
+
+Limited automation: Although Gmail offers basic features like Smart Compose and Smart Reply, it lacks the AI-powered automation found in more sophisticated email clients. This translates to repetitive tasks like sorting, labeling, and filtering, which require manual effort and consume time.
+
+Basic organization: What you get from Gmail in terms of organization boils down to tabbed sorting, labels, and filters. These features are not as efficient when grappling with a large volume of emails, and can quickly become cumbersome. Gmail doesn’t offer intuitive features that auto-prioritize what’s important or remove distractions.
+
+Basic integration: Gmail integrates with other Google Workspace tools. However, this integration may not be sufficient for users who rely on project management and productivity tools beyond the Google ecosystem. It may require switching between multiple applications, which can lead to app fatigue and compromise productivity.
+
+So, to answer the question, Gmail remains one of the most reliable email services on the market for the average user. However, it may not be the most efficient option if you need advanced automation, customization, and integration to maximize productivity.
+
+If you’re interested in an AI-first email platform with productivity features that significantly boost your email management, check out Notion Mail.
+
+Reclaim your inbox with productivity-focused Notion Mail
+
+Notion Mail is an AI-native email provider that empowers you to adapt your inbox to your unique workflow and save time on routine tasks. This builder-focused email solution allows you to create “inboxes within an inbox,” each dedicated to an individual project or task. This kind of advanced, highly customizable interface allows you to take charge of your inbox and eliminate distractions.
+
+Check out some key features that make Notion Mail a game-changer:
+
+Customizable views: You can create inbox views that prioritize what matters to you, from client emails to project updates or your day-to-day to-dos. Design different views and layouts that fit your unique workflow and filter the content to keep your inbox clean and clutter-free.AI autopilot: This is your AI-powered email assistant that understands your priorities. All you need to do is set simple rules, and Notion Mail takes care of the rest, intelligently sorting emails based on your preferences. Snippets: No need to write the same email repeatedly when snippets enable you to send reusable emails in one click. You can even customize your email template by adding data fields to personalize the email with the recipients’ names.Effortless scheduling: Make email scheduling more straightforward with the /schedule command or insert a button like Calendly via Notion Calendar booking links. Email recipients can choose a time that works for them directly from your calendar without the endless back and forth.
+
+Customizable views: You can create inbox views that prioritize what matters to you, from client emails to project updates or your day-to-day to-dos. Design different views and layouts that fit your unique workflow and filter the content to keep your inbox clean and clutter-free.
+
+AI autopilot: This is your AI-powered email assistant that understands your priorities. All you need to do is set simple rules, and Notion Mail takes care of the rest, intelligently sorting emails based on your preferences.
+
+Snippets: No need to write the same email repeatedly when snippets enable you to send reusable emails in one click. You can even customize your email template by adding data fields to personalize the email with the recipients’ names.
+
+Effortless scheduling: Make email scheduling more straightforward with the /schedule command or insert a button like Calendly via Notion Calendar booking links. Email recipients can choose a time that works for them directly from your calendar without the endless back and forth.
+
+Sign up for Notion Mail
+
+When you start using Notion Mail, you gain access to free, robust tools that can streamline your workflow and boost your efficiency, such as Notion Calendar. If you’re interested in Notion’s core app or the Notion AI add-on, you can always upgrade. Notion Mail offers more than an email service—it fully integrates with Notion’s comprehensive ecosystem.
+
+Creating your Notion Mail account is effortless—sign up with your Google or Gmail account to begin!
+
+Bonus read: If you’d like to see how Gmail compares to some popular alternatives, see our detailed guides:
+
+Gmail vs. Apple MailBest Gmail client options
+
+Gmail vs. Apple Mail
+
+Best Gmail client options

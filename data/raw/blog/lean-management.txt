@@ -1,0 +1,133 @@
+Title: What’s Lean management? Benefits and examples
+Published Date: 2023-05-29T00:00-06:00
+URL: https://www.notion.so/blog/lean-management
+
+There comes a time in your workflow where you want to get more done, faster. On paper it seems easy enough — but you want to eliminate redundancies without sacrificing the quality of your output.
+
+Lean management is a management style that encourages continuous improvement, giving you the best end products possible without a long, meandering creation process. It’s all about streamlining your workflows, reducing waste, and maintaining quality as you go.
+
+A concept born in the manufacturing industry, Lean management is a great way to start reengineering your business process and optimizing your team’s time. Here’s how to implement it, and more about why you should.
+
+What’s Lean management?
+
+In the early 2000s, Toyota formally implemented a Lean manufacturing method known as the Toyota Way. The Toyota Way created five Lean management principles that work together to either streamline or eliminate manufacturing processes that don’t add value.
+
+At the time, this continuous improvement system retired redundant assembly line procedures and heightened efficiency, productivity, and cost savings. As a result, Toyota built better products faster.
+
+The Toyota Way continues to this day within the auto manufacturing world, but it also applies to business in the form of Lean management. It’s all about bringing more value to the customer by identifying inefficiencies and streamlining the backend, no matter the industry.
+
+The 5 principles of Lean management
+
+Lean methodology focuses on five principles that help you identify and implement improvements. No matter your specific Lean processes, following these principles puts you on the path to getting results.
+
+1. Identify value
+
+The first principle of Lean management originated when Toyota looked at its assembly line and determined which product parts or procedures didn’t solve customer problems.
+
+You can do the same with your products and pinpoint the things that don’t actually add value to the final result. Your end product should solve a problem, not create a new one, for you or the customer. If a procedure or method doesn't add value, eliminate it. Your process will be better off.
+
+2. Create a value stream map
+
+A value stream map (VSM) is just another way to implement process mapping. You’ll take a holistic look at every person, resource, and activity within the product creation flow. Generally a series of colorful flowcharts, VSMs let you spot and remove redundant parts of the workflow.
+
+3. Build a continuous workflow
+
+Every workflow looks different — full stop. But you can find defined processes like Kaizen (a rapid continuous improvement method), Six Sigma (methodologies and tools for quality and efficiency), and Shingo (principles for sustainable organization) to give you the structure you need.
+
+The goal is to create a workflow for each team that runs smoothly without incidents or bottlenecks. Experiment and figure out what works. Part of this principle is breaking down work processes and communicating change effectively.
+
+4. Develop a pull system
+
+This Lean technique states that you only start new work based on demand rather than overlapping projects during production. A pull system helps you cut costs by hitting pause on unnecessary production and development and only starting those extras back up when you need them.
+
+5. Support continuous improvement
+
+While the four previous principles form the pillars of Lean management, continuous improvement is the overarching theme. Progress isn’t a one-time action. Lean management should instead employ multiple tools and techniques so your team is always striving to identify and remove obstacles.
+
+What are the benefits of Lean management?
+
+Some of the principles above speak for themselves. But if you aren’t sure whether to implement Lean management, here are some reasons why you might want to start:
+
+Improved efficiency — you'll notice a higher efficiency level in your processes regardless of what methods you use. Customer satisfaction — with your Lean management processes detecting and eliminating every redundancy and defect, you'll maintain a consistently high-quality reputation with your customers.Lower costs — when you eliminate a wasteful process, you save money that can be directed toward marketing, expanding your product line, or treating your team to lunch.Culture change — when you implement Lean management techniques, you tell your team that improvement isn’t just possible — it’s encouraged. When they see your commitment to improving their workflows, they know they’re working on a team that values their time.Higher quality — with Lean management, you'll remove inefficient processes and wasteful projects. This leads to a higher focus on what really matters when constructing a product, making the life of your quality assurance team a bit easier, and ensuring every customer receives the same level of service.
+
+Improved efficiency — you'll notice a higher efficiency level in your processes regardless of what methods you use.
+
+Customer satisfaction — with your Lean management processes detecting and eliminating every redundancy and defect, you'll maintain a consistently high-quality reputation with your customers.
+
+Lower costs — when you eliminate a wasteful process, you save money that can be directed toward marketing, expanding your product line, or treating your team to lunch.
+
+Culture change — when you implement Lean management techniques, you tell your team that improvement isn’t just possible — it’s encouraged. When they see your commitment to improving their workflows, they know they’re working on a team that values their time.
+
+Higher quality — with Lean management, you'll remove inefficient processes and wasteful projects. This leads to a higher focus on what really matters when constructing a product, making the life of your quality assurance team a bit easier, and ensuring every customer receives the same level of service.
+
+Lean management’s limitations
+
+No new process comes without challenge. Regardless of your intent, you’ll run into a few roadblocks.
+
+But since Lean management principles have been around for decades, companies have already done the work for you and spotted the ways the process could go wrong. And thankfully, positive resolve and constant communication can avoid those roadblocks. Here’s what to look out for if you do implement Lean management:
+
+Aversion to change — some team members will be stuck in their traditional work methods. Extensive change takes time. If you meet resistance, communicate the intended changes with examples of time-saving methods so everyone understands why you’re making these decisions. And stay open to feedback. Investment costs — big Lean management changes require training and infrastructure costs, and this could lead to employee turnover as your culture shifts. You might have to invest in training upfront to motivate your team and see those lower costs later. Overworking the data — Lean management tools usually require some sort of key performance indicators (KPIs) to track change, like a database that maps reduced shipping costs. But don't lose yourself in the numbers and neglect short-term planning. Give your team the tools to focus on both long-term planning and immediate change.
+
+Aversion to change — some team members will be stuck in their traditional work methods. Extensive change takes time. If you meet resistance, communicate the intended changes with examples of time-saving methods so everyone understands why you’re making these decisions. And stay open to feedback.
+
+Investment costs — big Lean management changes require training and infrastructure costs, and this could lead to employee turnover as your culture shifts. You might have to invest in training upfront to motivate your team and see those lower costs later.
+
+Overworking the data — Lean management tools usually require some sort of key performance indicators (KPIs) to track change, like a database that maps reduced shipping costs. But don't lose yourself in the numbers and neglect short-term planning. Give your team the tools to focus on both long-term planning and immediate change.
+
+Lean management tools
+
+Like most other processes, Lean management relies on a varied and versatile toolkit to get the job done. You can employ one or multiple tools, or develop a combination that works for your team. As long as the end goal is continuous process improvement, it's Lean management.
+
+Kanban
+
+Kanban is an Agile framework that requires constant, real-time communication and transparency. You can create a Kanban board with visual representations of every task or project you’re currently working on. This visualization helps you streamline workflows and eliminate inefficient processes.
+
+Hosin Kanri
+
+Hosin Kanri rose to prominence in post-war Japan before businesses worldwide found and adopted it. It's a seven-step strategic planning process that communicates company goals, then takes action on them. This eliminates waste by providing consistent direction and discussion.
+
+PDSA
+
+The Plan-Do-Study-Act (PDSA) cycle is a management tool focused on continuous improvement. It plans a test on a newly revised process, does that test, studies the results, and acts on any changes.
+
+PDSA is a more profound Lean management process, and it generally happens after you decide to implement change. It's a higher level of quality control that ensures every iota of every process is as efficient as possible. You’ll repeat it constantly until reaching your goals.
+
+Plan-Do-Check-Act (PDCA) is very similar to (and predates) PDSA. The main difference is that PDCA occurs once, while PDSA happens over and over for the same process.
+
+Lean Six Sigma
+
+Six Sigma is a management process that seeks to reduce variability while improving controls. Basically, it looks at every process down to the employee level and, through data, optimizes workflow.
+
+The “Lean” part of Lean Six Sigma refers to the elimination of waste, though the lines blur between Lean Six Sigma and the definition of Six Sigma itself. But the goal remains the same: to optimize workflows and deliver a more consistent and reliable product to customers.
+
+5 Whys
+
+The 5 Whys method is self-explanatory: It literally asks “why” five times in a row. The reasoning is that when there’s a problem, asking “why” enough times will reveal the root cause. If you encounter a process you’re unsure about eliminating, ask “why.” It leads to the specific information you need to make a decision.
+
+Examples of Lean management
+
+You don’t need a specific Lean manager to improve your workflow. All it takes is research, knowledge, and elbow grease. These broad examples of Lean management can give you a better idea of what it takes to implement change and help your team on the path to eliminating waste.
+
+Lean software development
+
+Lean software development works with your other strategies, like Agile methodologies, to optimize your development time. Imagine your software development team is in a loop of overproduction, creating more code for a single project task than necessary. Lean software development would implement tools like a Kanban board to track down and eliminate wasteful procedures, saving your developers time.
+
+Lean manufacturing
+
+In 1988, TrueCar president (and later Hyundai Motor America CEO) John Krafcik coined the term “Lean.” He’d adapted Toyota's approach to Lean management and written a paper outlining the methodology.
+
+Lean manufacturing is where it all started, and there are dozens of manufacturing-related examples of how Lean management really works.
+
+Let’s say a parts manufacturing company is experiencing a loss of efficiency during shift change. A Lean manager steps in and evaluates the shift change process, working with employees to determine a more efficient scheduling process. The result might be less production downtime, a higher level of maintenance, and increased production.
+
+Lean accounting
+
+Lean accounting focuses on financial statements' simplicity, visualization, and trustworthiness. The goal is to create accounting processes that reduce production waste and present information to customers in the most understandable and visually appealing way possible.
+
+Lean management in accounting could mean anything from cutting unneeded analysis from month-end closing statements to applying a standard formula to forecasting — whatever an accounting team needs to work more efficiently.
+
+Improve your company's processes with Notion
+
+Lean management principles need more than just willpower to implement. While many tools might stand on their own, to truly improve your processes and reach a new level of productivity, you'll need something a little bit extra.
+
+That's where Notion can help. Notion’s workspace hosts all of your strategies in documents in one connected place that every stakeholder can access. From value proposition workshops and product release notes to roadmaps and product wikis, Notion has the tools you need to fully engage your employees on the path to Lean management.

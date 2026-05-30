@@ -1,0 +1,89 @@
+Title: Everything we launched at Make with Notion
+Published Date: 2024-10-24T14:45-07:00
+URL: https://www.notion.so/blog/conference-product-releases
+
+Ninety-three. That’s the average number of tools that companies use in 2024. Shocking, right?
+
+Not if you work in one of these companies. If you do, you know that the fix for any problem that pops up is simply to buy another tool. That turns into one more line item on the company’s bottom line. One more system to learn. One more place to search for the information you need. It’s overwhelming and expensive.
+
+Notion is on a mission to ease this pain by bringing everything you need to get work done into one powerful, flexible, and beautiful tool.
+
+That’s why we’re thrilled to share all the new releases from our conference, Make with Notion. It marks the largest bundle of launches in Notion’s history, all designed to make it easier to build, work, and share what you’ve built in Notion.
+
+Introducing a Preview of Notion Mail
+
+The way we work has evolved, but one of our most-used tools—email—hasn’t kept pace. For decades, it’s remained a cluttered mix of work emails, party invites, and an endless deluge of spam. Worse: today’s inbox is one size fits all.
+
+Instead of wading through a storm surge of messages, email should feel like a trusty rudder that helps you navigate the currents of work—job applications, project updates, upcoming meetings.
+
+Enter Notion Mail. It’s email, reimagined—fully customizable, with AI built in to take care of all the back-and-forth for you. Perhaps the most refreshing feature are new “views” that let you customize your inbox to your workflows, just like the rest of Notion. So if, say, you’re trying to hire someone, Notion Mail automatically clusters those emails into “recruiting” and reserves another “view” for project updates and customer support.
+
+Sign up now to join the waitlist and get early access to Notion Mail.
+
+New ways to build
+
+Notion is made up of building blocks. Instead of designing a rigid app that’s not fit for purpose, we want to give you the tools to create what you need.
+
+Today we released two new blocks that bring everything you need into Notion and allow you to make it beautiful: Forms and layouts.
+
+Forms
+
+Notion is the best place to organize your information and share it with others. But collecting that information with a form requires you to purchase a separate tool (and then manually cut and paste or transfer information back into Notion).
+
+We set out to build a better experience, building forms right into Notion. Now, it’s easy to build and share a form to collect the information you need. Responses are added into a database, where you can filter, sort, analyze, and take action—all in one place.
+
+Need to collect RSVPs for your next party? How about user feedback for a new product? Simply build a form, share it with the world, and let the data come to you.
+
+Learn how you can get started with unlimited forms.
+
+Layouts
+
+You can use databases in Notion for anything: track upcoming social media posts, monitor product feedback, or create a trove of your favorite recipes. But the way you use a social media calendar is very different than how you use a cookbook.
+
+So we had a thought: What if we made the whole page flexible?
+
+Now with layouts, you can create the page that’s best suited for all the ways you use Notion. Build unique layouts for your recipes, social posts, product feedback—really anything.
+
+Try out a new layout now. Simply click ••• on your page, then Customize layout to get started.
+
+New ways to work
+
+Now that you have more ways to make your pages useful and beautiful, let’s make sure you don’t waste your time on routine, repetitive tasks. We’ve upgraded automations and Notion AI to help you get your work done faster than ever.
+
+Automations
+
+Think of automations as your building superpower—you can automate tasks, notify someone that an action has been taken, and make sure no crucial steps are missed in your workflows.
+
+We’ve gradually been adding more automations into Notion over the last year, and we’re excited to bring two big improvements that spice things up. First, you can now automate emails to send via Gmail about any database change, like to update your manager when your project’s status changes. Second, you can now also use formulas in databases and buttons that can complete steps in the background when you trigger an action.
+
+Here are a few of my favorite examples of what formula automations can do:
+
+Triage assignment: Assign a task to the right person based on the team tagged in the bug report.Track company goals: Mark a company-wide goal as At Risk when a project is updated to Delayed.Personalize follow ups: Customize your automated messages for ticket resolutions and calculate how long it took for the ticket to be resolved from the date submitted.
+
+Triage assignment: Assign a task to the right person based on the team tagged in the bug report.
+
+Track company goals: Mark a company-wide goal as At Risk when a project is updated to Delayed.
+
+Personalize follow ups: Customize your automated messages for ticket resolutions and calculate how long it took for the ticket to be resolved from the date submitted.
+
+Notion AI
+
+Notice the friendly face with the wavy eyebrows in the bottom corner of your screen? That’s the new Notion AI. Able to search Slack, Google Drive, and Notion docs, generate and edit content, analyze PDFs and images, and chat using real-world knowledge, it’s a highly capable personal assistant that understands you and your work.
+
+We’re now adding new Notion AI connectors to make it even easier to sync with the tools you already use. And soon, Notion AI will be able to search and create within databases—a huge efficiency unlock.
+
+New ways to share with Marketplace
+
+We’re consistently blown away by the Notion community. The beautiful workspaces and use cases that you all have come up with have blown our minds. Over the last year, we’ve added features like creator profiles and Notion Sites to make it simpler for users and creators to share the incredible things they’ve built.
+
+That vision takes its biggest step forward with the launch of Marketplace, our redesigned home for templates.
+
+Creators now have more control and better insights with features like native payments, analytics, and safeguards to protect their work. And template users can now see reviews and ratings, track purchases, and get refunds in a more streamlined, secure process.
+
+There are templates loaded up with all of the new features we’ve just released in Marketplace today. And if you want to become a creator, there has never been a better time—people are building 7-figure businesses on Notion templates alone!
+
+Building now and for the future
+
+You know that feeling when you find the perfect tool that just gets how you work? That’s what we’re after with these latest updates. Notion’s mission is to help you build beautiful tools for your life’s work—whatever your version of work or life may be!
+
+You have all the building blocks you need. What will you create?

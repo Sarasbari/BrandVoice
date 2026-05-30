@@ -1,0 +1,61 @@
+Title: A one-on-one meeting template to ace your team meetings
+Published Date: 2021-11-16T00:00-07:00
+URL: https://www.notion.so/blog/one-on-one-meeting-template
+
+One-on-one meetings are a crucial part of your startup’s ecosystem. It can be weekly, monthly, or anywhere in between, but no matter when you hold them, regular one-on-one meetings can help level up your team management skills and improve team workflow.
+
+Whether you’re a manager meeting with a direct report, two team members on a project, or a CEO meeting with a potential investor, one-on-one meetings will bolster the confidence and trust you need to keep your startup running smoothly. Below you’ll find out why one-on-one meetings are so crucial to your success as well as how to run them effectively.
+
+Whether it's a 1:1, all-hands, or team meeting — here are 5 templates you can use to take, share, and organize meeting notes better.
+
+Why one-on-one meetings are key for startup success
+
+One-on-one meetings create space for private discussions that improve work relationships, while simultaneously creating more engaged and motivated employees. That level of privacy can help increase dialogue and open communication. Through one-on-one meetings, team members can freely question and discuss company objectives and discover how their ideas can align with the overall startup strategy.
+
+Group meetings, unlike one-on-one meetings, tend to trigger people’s public speaking fears.  Glossophobia, the fear of public speaking, affects up to 75% of the population. The larger the group, the more the fear increases, and the more formal the speech tends to have to be. This can make a person even more nervous to speak up.One-on-one meetings also enable more focused work and more empathic relationships. In large supervised team meetings in which communication is occurring orally rather than through writing, brainstorming can actually harm productivity. With less people in the meeting, there are less opinions expressed and therefore a faster resolution of potential differences. The sooner you can come up with a resolution or innovative ideas, the sooner you can grow your startup to its full potential.Moreover, regular one-on-one meetings foster better working relationships and workplace satisfaction. Frequent meetings lead to consistent open dialogue which reduces the amount of issues an employee may need to “vent” about. According to Harvard Business Review, employees who get more one-on-ones with their managers than their peers are 67% less likely to be disengaged. These employees feel valued and motivated to stay engaged in their work.
+
+How to run effective one-on-one meetings
+
+Effective one-on-one meetings occur regularly and should dive deeper than high-level emails. It’s important not to use these meetings to get status updates that can be done asynchronously.
+
+A “successful ongoing feedback model” uses consistent frequency to keep both parties accountable and on track. Frequent feedback is especially important to the millennial workforce. According to Gallup, “millennials who meet with their manager on a regular basis are more than twice as likely as their generational peers to be engaged at work.”
+
+Choose a meeting cadence
+
+Figuring out your meeting cadence depends on a few factors. Are you planning to meet daily? Weekly? Bi-weekly? Whatever works best for you and your meeting partner will affect the duration of the meeting.
+
+For example, if you choose to meet weekly, the recommended duration is 30 minutes. If you choose to meet bi-weekly, the duration should be 1 hour of deep work. If you meet daily, the meetings should be shorter. If you meet monthly or quarterly, they should be longer. You may need to test out a few different options until you figure out what works best for you and your partner.
+
+A few years ago, Adobe decided to cease conducting their annual performance reviews. They replaced these reviews with more frequent check-ins and one-on-one meetings. This resulted in more equitable relationships between managers and their direct reports. Manager openness to feedback increased dramatically from previous years, which led to a more cohesive environment and increased workplace satisfaction.
+
+Prepare for your meeting
+
+Prior to your meeting, take some time to prepare yourself and your meeting partner by creating an agenda and sharing it with your meeting-mate. You can use a consistent one-on-one meeting template that includes dynamic custom agendas for each meeting. Choosing focus areas such as achievements, suggestions, lessons, roadblocks/solutions, and feedback requests will help you and your meeting partner stay organized. This also gives your partner enough time to prepare anything for the meeting if need be.
+
+Loom uses Notion to prepare documents and uses one-on-one meeting templates that keep everyone on the same page. Zack Hargett, Loom’s former Product Lead says, “Notion creates focus in a way that I've never seen another product be able to create focus. One of the few places I find solace in the workplace is sitting in front of a blank Notion doc and writing.”
+
+Begin with a win
+
+One of the best ways to start a meeting is with a personal, team, or customer accomplishment. Your one-on-one meeting template should start off on the right foot by fostering a positive mindset necessary for a productive meeting. According to the Great Good Science Center, expressing general gratitude at work has been linked to “more positive emotions, less stress and fewer health complaints, a greater sense that we can achieve our goals, fewer sick days, and higher satisfaction with our jobs and our coworkers.”
+
+Steve Foran, founder of the program Gratitude at Work, believes that in order to make your startup more profitable, you have to genuinely share gratitude. Expressing gratitude to your employees will make them more effective and engaged in their work. And, as we know, a more effective and engaged workforce leads to a more successful startup.
+
+Use flexible discussion points and open-ended questions
+
+Following your meeting agenda is important, but there's no need to be too rigid with your meeting flow. If you dive into a useful topic you didn’t plan for, go with it anyway. Active listening and flexibility can bring about unexpected and beneficial outcomes from your one-on-one meetings. Use broad, open-ended questions that invite detailed responses rather than limiting questions that result in “yes or no” type answers.  For example, a great open-ended question would be: “What do you think about how we executed that project?” A limiting question to avoid would be: "Are you satisfied with this project?"
+
+Part of your meeting agenda may include some allotted time to discuss feedback. This time should be devoted to giving AND asking for feedback.
+
+Deborah Peterson from the Stanford Graduate School of Business says it best: “The purpose of feedback is not to change someone else, but rather to motivate him or her to have a problem-solving conversation with you.” When both parties in the meeting are able to provide and receive feedback, you are more likely to solve any issues impeding your startup success.
+
+Provide next steps and action items
+
+Before concluding your one-on-one meeting, connect your meeting notes to your next steps. Deliverables and action items provide clarity and summarize the takeaways from the meeting. Even in a meeting between two people, it's crucial to make sure both parties leave on the same page. Otherwise, you might as well not have the meeting. Don't waste precious time!
+
+For Metalab, sharing their notes and ideas through Notion reduces the risk of wasting time and missed opportunities. This goes for internal meetings as well as meetings with clients. Marie Gosal, Metalab Design Director states: “Every time we start a project we're feeling out the client's needs and preferences. Some want more documentation or more narrative, and Notion supports that.” Clear and detailed communication could be the difference between gaining or losing a client. Outlining next steps and action items sets your company up for a continuous cycle of effective meetings.
+
+Future-proof your one-on-one meetings
+
+Notion’s 1:1 meeting notes template divides the meeting agenda into four focus areas: “Past week, This week, Potential Blockers, and Action Items.” To help maintain accountability and clarity, anyone can add comments to the document, ask questions, provide feedback, or give advice when necessary. This will save you and your team time and energy before the next meeting. The template also provides flexibility to adjust and each one-on-one meeting differently, while still having a place to keep your meetings organized.
+
+Whether you use Notion or not, the key is to be consistent and open in your communication. Using a one-on-one meeting template will help your writing and planning reflect the flow and effectiveness of your meetings.

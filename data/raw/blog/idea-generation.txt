@@ -1,0 +1,105 @@
+Title: Idea generation methods
+Published Date: 2023-10-26T00:00-03:00
+URL: https://www.notion.so/blog/idea-generation
+
+Successful organizations run on great ideas.
+
+Whether you want to improve standard protocols or pitch original initiatives, fresh ideas keep your team and projects from growing stagnant. But idea generation sessions can get messy, with disparate thoughts or unfocused tangents stealing focus from more pressing issues.
+
+Luckily, various techniques exist for encouraging focus and more innovative solutions. Find the right method for your team and enjoy a tried-and-true way of turning out-there concepts into actionable innovation.
+
+Idea generation definition: What is it, and why is it important?
+
+Idea generation — or ideation — is the collaborative creation and development of ideas. It kicks off the idea management process, through which you can build out abstract, concrete, or visual concepts to determine solutions or explore new opportunities.
+
+Fostering a culture that welcomes fresh ideas allows teams and organizations to grow with market shifts and fluctuating consumer demands. When a marketing team brainstorms a new campaign or product managers scout expansion opportunities, diverse perspectives in the ideation stage empower innovation. Varied viewpoints enrich the proposal pool and encourage innovative insights, paving the way for more strategic and successful strategies and initiatives.
+
+How a proactive idea generation process benefits your team
+
+Creative thinking turns vague ideas into groundbreaking changes, turning your team into industry leaders. Here are a few more pointed ways effective idea generation benefits your team:
+
+Offers a competitive advantage — The right ideation method for your team brings out the best in them, resulting in initiatives that help you stand out in the market. Getting creative with brainstorming techniques doesn’t mean you have to act on every wild idea. It’s about setting the stage for forward-thinking concepts. And when an innovative, worthwhile idea pops up, you’re ready to refine it into a product or service that resonates with consumer needs and market trends. Enhances team engagement and morale — effective idea-generating techniques bring all stakeholders on board, making team members feel vital to the company’s mission. And when insights transform into actionable strategies, it fosters collaboration, productivity, and more open communication.Enables anticipatory problem-solving — being proactive with regular solution generation lets you anticipate challenges rather than scramble for solutions. Consistent brainstorming focused on improvement pinpoints potential hurdles early, leaving room for preemptive problem-solving. This forward-thinking approach facilitates strategy adjustments and lets you capitalize on emerging opportunities.
+
+Offers a competitive advantage — The right ideation method for your team brings out the best in them, resulting in initiatives that help you stand out in the market. Getting creative with brainstorming techniques doesn’t mean you have to act on every wild idea. It’s about setting the stage for forward-thinking concepts. And when an innovative, worthwhile idea pops up, you’re ready to refine it into a product or service that resonates with consumer needs and market trends.
+
+Enhances team engagement and morale — effective idea-generating techniques bring all stakeholders on board, making team members feel vital to the company’s mission. And when insights transform into actionable strategies, it fosters collaboration, productivity, and more open communication.
+
+Enables anticipatory problem-solving — being proactive with regular solution generation lets you anticipate challenges rather than scramble for solutions. Consistent brainstorming focused on improvement pinpoints potential hurdles early, leaving room for preemptive problem-solving. This forward-thinking approach facilitates strategy adjustments and lets you capitalize on emerging opportunities.
+
+7 idea generating techniques to try with your team
+
+Depending on your objectives, here are seven idea generation methods to tease innovative concepts out of your team.
+
+1. Mind mapping
+
+Mind mapping is more than just a visual outlining method. It’s a structured approach to organizing complex information and concepts.
+
+Imagine you’re launching a new product. To create a mind map, you’d write the product's name in the center of your outline. From there, you’d draw branches representing major categories, such as marketing, product design, and distribution. Next, you’d add sub-branches that detail specific actions or elements.
+
+This visual representation focuses on organizing every project detail, highlighting interdependencies, and ensuring teams see the big picture so they can collaborate effectively. It’s a useful way to plan complex projects while keeping sight of overarching objectives.
+
+2. Blue sky thinking/brainstorming
+
+Blue sky thinking, or brainstorming, encourages unrestrained creativity. When developing a new project, team members throw out specific details or constraints and voice any and every idea, no matter how unconventional.
+
+While the approach might sound chaotic, focusing on quantity rather than the quality lets groundbreaking concepts emerge. Once brainstorming concludes, you scrap unrealistic suggestions and turn viable ones into actionable strategies aligned with your product vision board.
+
+3. Brainwriting
+
+Like brainstorming, brainwriting focuses on amassing different perspectives. But rather than shouting out ideas, team members jot everything down on paper. They then pass their papers around in a circle, and receiving teammates build on each other’s ideas by adding new perspectives or pointing out pain points. The cycle continues until everyone has their original paper back — now fleshed out with team reactions and elaborations.
+
+This technique diversifies ideas and stimulates inclusivity, which is useful for large groups where some team members might be more comfortable verbally sharing ideas than others.
+
+4. SCAMPER
+
+SCAMPER stands for substitute, combine, adapt, modify, put to another use, eliminate, and reverse. It’s a technique to reimagine existing ideas, services, and products. For teams aiming to refresh their offerings, SCAMPER is a structured way to dream up enhancements and new directions.
+
+Imagine a product development team brainstorming ways to revitalize an old product to meet current consumer trends. Using the SCAMPER method, they explore multiple options for reinvention. The “substitute” prompt might lead to swapping a material for another with a lower cost, while “adapt” might stimulate ideas for tweaking the product to cater to a new audience.
+
+5. Role-playing
+
+Sometimes, it’s helpful to step out of your role as a designer, developer, or project manager and think from your consumer's perspective. Role-playing requires you to simulate the users you aim to serve.
+
+Think about building a mobile app. Instead of relying on market data alone, role-playing would have you consider the app from the perspective of your target audience. You might think of how busy parents and teenagers uniquely navigate the app, providing real-time feedback to generate potential refinements and spotlight user concerns.
+
+If your team struggles to reverse roles, build AI-generated scripts based on customer metrics to create an accurate back-and-forth.
+
+6. Storyboarding
+
+Like frames in a comic strip, storyboarding sequences your idea's journey from concept to final product. Using images, quotes, and other graphics brings procedural or product management to life. Storyboarding transforms abstract ideas into clear visual narratives, pointing out potential areas for enhancement and friction points in a way that suits visual learners.
+
+7. Synectics
+
+Teams sometimes get stuck on existing thought patterns, struggling to look beyond solutions they’ve already discussed or executed. Synectics utilizes unrelated problem analogies to stimulate creativity and generate new ideas.
+
+Consider a development team that misunderstands customer needs and wastes time and resources designing unnecessary functions. The team could liken their situation to buying expensive toys for a dog who doesn’t like to play with them. The team would then brainstorm ideas to fix the issue in the analogy — like letting the dog choose a toy at the pet store. This idea can inspire the team to approach their problem in a similar way — by letting the consumer dictate their own preferences rather than prescribing them.
+
+To put this idea into action, the team could generate customer surveys or lead focus groups to gather user insights and then refine their development approach accordingly.
+
+Tools for managing ideas
+
+You experimented with several idea generation techniques and now have many concepts to iron out. Without proper management, potential catalysts for innovation might get lost. Arming yourself with effective tools and alignment strategies ensures that change is innovative and purposeful.
+
+Templates and management tools let you store all your ideas in one place. A shareable template ensures all stakeholders can revisit and organize thoughts in a centralized space. And materials like vision-to-values boards let teams measure the value of an idea against the organization’s overarching mission and goals.
+
+3 tips for successful idea generation sessions
+
+Solution generation requires more than just choosing a method. It’s up to managers to set the scene and create guidelines to push brainstorming in the right direction. Here are three tips to consider.
+
+1. Clearly define the problem or opportunity
+
+Ideas that successfully tackle a problem or seize an opportunity need clear frameworks. Start by giving a detailed definition of what ideation seeks to accomplish. When team members understand the core issue, it directs brainstorming efforts and ensures targeted and relevant suggestions.
+
+2. Involve the right people
+
+Idea generation benefits from diversity of thought, experience, and expertise. To enrich your solutions pool, welcome insights from team members across various departments and roles. Incorporating varied viewpoints helps you anticipate cross-departmental challenges, identify overlooked opportunities, and craft well-rounded solutions.
+
+3. Consider execution
+
+Throwing out ideas is just the beginning of successful ideation. It’s just as essential to develop a clear plan for evaluating, refining, and implementing new initiatives. Tools like Notion’s idea-to-execution template help nurture suggestions from start to finish.
+
+From brainstorm to breakthrough with Notion
+
+Idea generation is a fun — and oft-chaotic — team exercise. But with structured tools, you can turn out-of-the-box thinking into actionable strategies.
+
+Notion’s idea generator and product and content idea generator templates enrich the process by structuring your process. Or search the template gallery to find something that perfectly suits your needs.

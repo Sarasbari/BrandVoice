@@ -1,0 +1,47 @@
+Title: How Leapsome leverages Notion to align on ways of working at scale
+Published Date: 2024-06-06T08:00+10:30
+URL: https://www.notion.so/blog/notion-leapsome
+
+Berlin-based Leapsome is an all-in-one people enablement platform that helps forward-thinking companies drive employee development, productivity, and engagement. When Strategic Projects Manager Amelia Kroner joined the company, she recalls they had just 25 employees and “needed to be lean and focused.”
+
+Since securing $60 million in Series A funding, the company has scaled and now boasts nearly 200 employees (and counting). But they haven’t lost the “bootstrapped” mindset that led them to adopt Notion “to the extreme.” The company now manages most of its core workflows in Notion, including an integrated help desk, community management, and compliance processes. “If we were to buy each of these tools individually, this would cost us at least an additional €40,000 a year—if not more,” says Kroner.
+
+Here’s how Leapsome stays lean, focused, and efficient as the company scales.
+
+Leapsome’s Notion philosophy: Connectivity and consistency
+
+As Leapsome grew, the teams adopted an all-in philosophy on Notion that keeps everyone aligned around work. It's based on two core principles: connectivity and consistency.
+
+Connectivity involves having everyone’s work and all company knowledge either in or linked to Notion. “When everyone’s ideas, projects, and processes are documented in the same shared workspace, it makes it easier to stay aligned while we collaborate,” says Kroner. Most databases in Leapsome’s Notion workspace are linked via relations and rollups, allowing easy connection of multiple items across databases. Notion integrations also keep information from tools like Slack and Personio connected to Leapsome’s workspace via Zapier.
+
+Leapsome also aims for a consistent Notion experience across teams and use cases to ensure strategies scale as the company grows. “Whether I’m asking for help from marketing or IT,” Kroner emphasizes, “we want people to have a single place to go and a similar workflow.” Leapsome’s Notion workspace features comprehensive, multi-purpose linked databases and filters that can easily provide specific, relevant information to employees across multiple Teamspaces. Kroner herself is Leapsome's ‘Notion owner’, driving processes, templates, and wikis, while collaborating with a communication coordinator on each team to maintain that uniform experience.
+
+Connectivity and consistency in practice: Leapsome’s onboarding workflow
+
+At Café Notion, a local event that brings together Notion customers for a day of learning and idea exchange, Kroner shared an example of their Notion philosophy by showcasing Leapsome’s onboarding workflow. The process includes:
+
+Personio, the company’s Human Resources Information SystemZapier, which facilitates connection between Personio and NotionTwo Notion databases: ‘People’ and ‘Tasks’Leapsome Learning, the company’s Learning Management System
+
+Personio, the company’s Human Resources Information System
+
+Zapier, which facilitates connection between Personio and Notion
+
+Two Notion databases: ‘People’ and ‘Tasks’
+
+Leapsome Learning, the company’s Learning Management System
+
+Onboarding begins when a new employee's start date is scheduled in Personio. This information is then synced to the People database in Notion via Zapier. That allows Leapsome to connect an onboarding guide from its Tasks database to the new employee's profile. Next, a Slack message is triggered and sent to the hiring manager (again, powered by Zapier) informing them that the new hire's checklist is ready for review.
+
+The onboarding guide empowers new hires to plan their first few weeks at the company by including a checklist of tasks, each with an estimated completion time, as well as connections to Leapsome content like learning modules, auto-scheduled feedback talks, and engagement surveys.
+
+The onboarding process embodies Leapsome’s Notion philosophy because it is:
+
+Scalable: It’s easy to set up and initiate due to Notion’s connection with Personio via Zapier, connected People and Task databases, and the onboarding guide templatePersonalized: Managers can tailor the onboarding guide to their new hire’s needsConsistent: All new hires have a similar onboarding experienceConnected: The entire process is managed in a central location
+
+Scalable: It’s easy to set up and initiate due to Notion’s connection with Personio via Zapier, connected People and Task databases, and the onboarding guide template
+
+Personalized: Managers can tailor the onboarding guide to their new hire’s needs
+
+Consistent: All new hires have a similar onboarding experience
+
+Connected: The entire process is managed in a central location

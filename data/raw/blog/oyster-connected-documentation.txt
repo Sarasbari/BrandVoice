@@ -1,0 +1,77 @@
+Title: Oyster’s global team stays connected through hyper-scale with documentation in Notion
+Published Date: 2023-03-09T00:00-05:00
+URL: https://www.notion.so/blog/oyster-connected-documentation
+
+Oyster is a global employment platform that empowers companies to hire, pay, and care for talented teammates regardless of location. Of course, Oyster itself is a global, remote company — and in a matter of months, they added over 500 new teammates. To effectively scale, Oyster uses Notion as its home for all knowledge and documentation so employees everywhere can self-serve information, remained aligned, and push work forward more efficiently (no matter where they’re located).
+
+50%fewer emails sent50%fewer meetings2xteam productivity2xfaster onboarding time
+
+Keeping employees in different times zones informed, aligned, and armed with the necessary knowledge to move work forward.
+
+Building a robust documentation system in Notion as a source of truth for teams and projects.
+
+Company size: 600Industry: SoftwareInsights from: Rhys Black (Director of Workplace Design), Bran Stankovic (Manager of Knowledge Management), Kevan Lee (Former SVP of Marketing), Emily Zhang (Former SVP of Product), Jess Romano (Director of Partnerships)Teams using Notion: Every team at OysterWhy Notion? Notion’s versatility. All teams at Oyster use it, and they can mold Notion to meet their needs.
+
+Company size: 600
+
+Industry: Software
+
+Insights from: Rhys Black (Director of Workplace Design), Bran Stankovic (Manager of Knowledge Management), Kevan Lee (Former SVP of Marketing), Emily Zhang (Former SVP of Product), Jess Romano (Director of Partnerships)
+
+Teams using Notion: Every team at Oyster
+
+Why Notion? Notion’s versatility. All teams at Oyster use it, and they can mold Notion to meet their needs.
+
+Adding 500 new teammates: the wiki that holds Oyster’s global team together
+
+From August 2021 to August 2022, Oyster added over 500 teammates across each inhabitable continent in the world. Growing 5x in such a short timeframe could have slowed Oyster down, but because they used Notion to document and organize knowledge, they were able to maintain the operational speed required for a hyper-growth company.
+
+“It could have been chaos adding so many people to the company. But Notion held us together during that period,” says Bran, Oyster’s Manager of Knowledge Management. Rhys, Oyster’s Director of Workplace Design, adds: “If all our documentation was in Google docs, we would’ve come apart at the seams.”
+
+Bran and Rhys centralized all company-wide information in Notion, making it navigable and scalable — company policies, directories, processes, meeting notes. There’s org-level and team-level sections in the sidebar so everyone knows where to find what they need. Creating, organizing, and keeping knowledge in Notion has been essential to Oyster’s culture of documentation, setting the foundation for its growth.
+
+Favorite Notion feature: Sidebar — it helps keep everything organized and makes their robust documentation navigable.
+
+Async communication moves work forward and makes meetings more effective
+
+Oyster sets the standard for how a global, remote team should operate. They use a “follow the sun” model — where teams ending their days can seamlessly hand off work to those starting their days in different parts of the world.
+
+Other companies dream about having this type of workflow. How’d Oyster do it?
+
+Leveraging documentation in Notion to fuel asynchronous communication.
+
+The structure of Oyster’s meetings are set to a global clock. They start with written updates that are meant to be read async. Then, there are discussion items for attendees, where robust notes and comments track everything that happened in the meeting. The company’s all-hands meetings are 100% async. Director of Partnerships Jess has all her 1:1s in Notion, which follow a similar format.
+
+“Notion is an indispensable tool when it comes to asynchronous communication. There’s so much benefit to using documentation to be more productive, and not needing to schedule synchronous meetings for everything,” says Jess.
+
+Duplicate Oyster's all hands template here →
+
+Favorite Notion feature: Comments — these capture some of the discussion around async work, making everyone feel like they’re in the same room.
+
+Teams work how they want — but without the silos
+
+Companies use a smattering of tools because individual teams have specific requirements for how they work. This results in tool bloat and silos, so finding the source of truth feels like an expensive game of darts.
+
+Because Notion is so flexible, all teams at Oyster use it to track work, processes, information, and more. Everyone at Oyster knows to go to Notion first to find what they need, instead of searching through various tools.
+
+Kevan, Oyster’s Former SVP of Marketing, had a marketing wiki containing strategy docs and a database of shared definitions. Jess kicks off projects in Notion, and even uses it to communicate with external partners. Former SVP of Product Emily kept the product roadmap in Notion.
+
+“Notion makes ramping up someone on the team so much easier,” said Emily.
+
+This customization helps individual teams work how they need, while also improving cross-functional collaboration — anyone can hop into the product roadmap to see launches or dip into the marketing wiki to align on strategy.
+
+Teams at Oyster use Notion differently, and their use is constantly evolving. With these changes, Notion has been able to adapt to the needs of Oyster's teams. They're continually  learning and finding new ways to use Notion because it's so customizable.
+
+Favorite Notion feature: Templates — teams create onboarding templates that they spin up and customize for new hires.
+
+Building employer brand leads to thoughtful growth
+
+Companies can’t grow if they don’t attract the right talent. Rhys recognized this early and wanted to give candidates a way to self-select into Oyster’s culture.
+
+He wrote two docs in Notion and published them to web — one about Oyster’s remote working philosophy, and another about how teams at Oyster work. “Those pages became the most valuable pieces of our employer brand,” Rhys says.
+
+This transparency streamlined the hiring process. “Almost every single person I spoke to that came into the company said those two documents convinced them to apply,” Rhys says.
+
+Notion helped cement Oyster’s culture of documentation, creating a sense of place for employees all over the world. Everything’s documented, accessible, and centralized. Everyone’s brought in from day one.
+
+Favorite Notion feature: Publishing pages — Oyster can easily share information, whether it’s employer brand or communicating with partners.

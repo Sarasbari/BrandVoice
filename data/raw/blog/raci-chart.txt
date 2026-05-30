@@ -1,0 +1,101 @@
+Title: A beginner's guide to RACI charts
+Published Date: 2023-05-19T00:00-06:00
+URL: https://www.notion.so/blog/raci-chart
+
+As your business scales, your team grows. And as your team grows, tracking everyone’s responsibilities from project to project gets harder. Who’s contacting vendors, and when? Who’s holding other team members accountable for specific tasks? Who should you inform about new decisions, even if they aren’t involved?
+
+A RACI chart gives you these answers and more. You can track to-dos and every team member’s role — even if all they have to do is know that a certain task is getting done.
+
+What’s a RACI chart?
+
+A RACI chart, or RACI matrix, is a table or database that lists every task your team needs to complete, along with a level of responsibility for every member: responsible, accountable, consulted, and informed.
+
+A RACI model isn’t just one of the most basic project management tools to construct and maintain — it’s also an easy way to keep everyone on your project team in the loop.
+
+Imagine you’re starting a new project. A few key team members will do the job, but another few need to keep tabs on it and make sure everything’s running smoothly. A RACI chart differentiates what you expect from each player. The whole team can quickly reference the chart to see each project role and who you’ve assigned it to so no to-do gets left behind.
+
+A basic RACI chart example might look like this:
+
+What does RACI stand for?
+
+The RACI acronym stands for responsible, accountable, consulted, and informed. Here’s a little more about each role and what assignees can expect:
+
+Responsible
+
+Every project will have a responsible party. This is about more than just showing up to work on time — these people have one or more things they’re directly responsible for doing. A responsible team member usually has to finish a task (big or small), but it can also be a related action, such as reviewing tasks or contacting stakeholders.
+
+Accountable
+
+Each task will have at least one accountable person, ensuring that the responsible team members know project timelines and requirements. Accountable team members are generally in leadership, or at least some sort of decision-making role, because they’re keeping track of other team members.
+
+It’s best practice to only have one or two accountable people. Otherwise that project's destiny is the torture of useless meetings to keep too many people in the loop.
+
+Consulted
+
+The responsible person has a task, and the accountable person oversees it. To follow that progression, the consulted person supplies the information everyone needs in order to complete the task. This could be a subject matter expert or someone who knows what the expectations are.
+
+Someone in this role provides input and feedback on project tasks because the project directly impacts their day-to-day job. Not every task requires consultation, but project managers should involve every possible stakeholder to ensure they don't miss anything — and that includes consultants.
+
+Informed
+
+Informed team members are just that: informed. All they have to do is know that task will happen. You don't need to drag informed people into the nitty gritty of every to-do, but a helpful email here and there goes a long way to protecting your project's success with transparent communication.
+
+What are the rules of RACI?
+
+Like anything else in project management, there are rules for roles and responsibilities charts like RACI. To keep it an efficient and useful tool, you need to give your team clear expectations. The good news is these rules are intuitive.
+
+Every task needs at least one responsible person — there can be one responsible team member or there can be 10. But if no one is responsible, the result is nothing, so there needs to be at least one. Only one accountable person per task — having too many accountable parties confuses the flow of information. Keeping it to one person (two if you must) streamlines the approval process and tells project stakeholders exactly where to send escalations.Don't overload team members — there should be some balance with the responsible tasks. If you notice one developer has a multitude of responsible tasks, add another to distribute the work. Otherwise people burn out, and your project could stall. There are only so many hours in the day.A role on each task for everyone — you get a role, and you get a role. Everyone gets a role! There should be no blanks on your RACI chart. Even if most assignees are just informed, you shouldn’t leave anyone hanging. Assign one role per person — an accountable person is also consulted and informed because they need to know the details of the task. In RACI, it’s a given. Don’t complicate things by assigning multiple roles to the same person.
+
+Every task needs at least one responsible person — there can be one responsible team member or there can be 10. But if no one is responsible, the result is nothing, so there needs to be at least one.
+
+Only one accountable person per task — having too many accountable parties confuses the flow of information. Keeping it to one person (two if you must) streamlines the approval process and tells project stakeholders exactly where to send escalations.
+
+Don't overload team members — there should be some balance with the responsible tasks. If you notice one developer has a multitude of responsible tasks, add another to distribute the work. Otherwise people burn out, and your project could stall. There are only so many hours in the day.
+
+A role on each task for everyone — you get a role, and you get a role. Everyone gets a role! There should be no blanks on your RACI chart. Even if most assignees are just informed, you shouldn’t leave anyone hanging.
+
+Assign one role per person — an accountable person is also consulted and informed because they need to know the details of the task. In RACI, it’s a given. Don’t complicate things by assigning multiple roles to the same person.
+
+When to use a RACI chart
+
+Use a RACI chart when you’re working on projects with multiple tasks and people with varying responsibilities. In other words, use it anytime you need to organize assignees. Agile and Scrum methodologies can use RACI charts, either as an integration or as a separate part of the project lifecycle.
+
+Keep in mind that RACI charts sometimes add a level of unneeded complexity to smaller projects with clearly predefined roles. If your team is working on a design project similar to ones you’ve done before, tracking team details might not be necessary; everyone involved already knows what to do. But if larger projects are on the horizon, it might be helpful to start working with RACI charts to get everyone used to the process.
+
+More extensive, long-term projects need RACI charts, or similar tracking methods, in order to function. The more stakeholders and additional subject matter experts that need to contribute their expertise, the more critical it is to capture all that information. Signing off on a project task is easier if you know who’s responsible for what.
+
+Benefits of a RACI chart
+
+Many RACI chart rules play double duty as benefits; you’ll keep team members from too many assignments and make sure everyone has a role. A RACI chart can also help you:
+
+Set clear expectations — knowing who’s accountable, who’s responsible, and so on erases any possible confusion. Your project progresses with confidence rather than uncertainty. Streamline communication — with a RACI chart, you know who to communicate with and when, and so does everyone else. Since the main benefit of making a RACI chart is to create a high-level view of your project's roles, this is a massive time-saver. You won’t have to hunt people down to learn their responsibilities, which speeds up sign-offs and lets you hit milestones faster. Inform assignees with ease — your whole team (and then some) should have access to your RACI chart, so that if roles change, everyone will know. You can tag people, add notes, and even indicate every task’s status to keep everyone in the loop, all the time.
+
+Set clear expectations — knowing who’s accountable, who’s responsible, and so on erases any possible confusion. Your project progresses with confidence rather than uncertainty.
+
+Streamline communication — with a RACI chart, you know who to communicate with and when, and so does everyone else. Since the main benefit of making a RACI chart is to create a high-level view of your project's roles, this is a massive time-saver. You won’t have to hunt people down to learn their responsibilities, which speeds up sign-offs and lets you hit milestones faster.
+
+Inform assignees with ease — your whole team (and then some) should have access to your RACI chart, so that if roles change, everyone will know. You can tag people, add notes, and even indicate every task’s status to keep everyone in the loop, all the time.
+
+How to create a RACI Chart
+
+Creating a RACI chart is as easy as making a new page in Notion and creating a database. But to plug in all the information you need, here are a few more practical steps:
+
+Identify roles — take the time to list every team member and stakeholder and assign them a role. Gather names and job titles, then add them to your RACI chart template, one column for every person. Break down tasks — review your entire project to determine which people are responsible for which tasks. Add deliverables to the task list. Try not to consolidate tasks because it could cause confusion. Keep it simple. Assign RACI to each role and task — compare tasks with team members, and decide what role each person has to play within your project. Everyone should have a role, and only one person per task should be accountable. Kick over the silo — don't do this alone. Communicate with your team to openly discuss roles and responsibilities and clear up any possible redundancies. Meet with stakeholders — review the RACI chart with management and other stakeholders. They might notice something you missed. Update your RACI chart — if things change, update your RACI chart. Projects tend to ebb and flow, and your RACI chart should be flexible. Change, add, or remove elements altogether quickly.
+
+Identify roles — take the time to list every team member and stakeholder and assign them a role. Gather names and job titles, then add them to your RACI chart template, one column for every person.
+
+Break down tasks — review your entire project to determine which people are responsible for which tasks. Add deliverables to the task list. Try not to consolidate tasks because it could cause confusion. Keep it simple.
+
+Assign RACI to each role and task — compare tasks with team members, and decide what role each person has to play within your project. Everyone should have a role, and only one person per task should be accountable.
+
+Kick over the silo — don't do this alone. Communicate with your team to openly discuss roles and responsibilities and clear up any possible redundancies.
+
+Meet with stakeholders — review the RACI chart with management and other stakeholders. They might notice something you missed.
+
+Update your RACI chart — if things change, update your RACI chart. Projects tend to ebb and flow, and your RACI chart should be flexible. Change, add, or remove elements altogether quickly.
+
+Keep your project organized with Notion
+
+Create a project-specific, cloneable RACI chart with Notion. You can connect it to other docs, like project scope and team wikis, so you never have to hunt down information.
+
+But organizing your project requires more than a RACI chart. Use a decision matrix to pick your next project, or a task triage template to clean up any outstanding tasks. And design a projects and goals hub to keep tabs on everything. It’ll all live in your team’s Notion.

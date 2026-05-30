@@ -1,0 +1,107 @@
+Title: Agile versus Waterfall project management: A comparative guide
+Published Date: 2023-08-15T00:00-06:00
+URL: https://www.notion.so/blog/agile-vs-waterfall
+
+Some tasks must happen sequentially, like signing a client contract and aligning on deliverables before starting project work.
+
+But employees can simultaneously complete other actions. A development team might code a website while the design team determines page aesthetics.
+
+The opportunity for sequential and simultaneous work means that project managers (PMs) need to plan for both, and the Agile and Waterfall planning methods address these distinct project planning needs.
+
+Leaders who understand when to prioritize Agile versus Waterfall methods and how to run each management style organize efficient, smartly planned projects.
+
+What’s Agile project management?
+
+Agile project management is an iterative planning methodology where teams — including interdisciplinary ones — perform various tasks simultaneously. Teams work in sprints, which are 1–4-week iterations of work, completing set tasks during those periods. The goal of each sprint is usually to tick off a significant milestone, like developing a functional feature of an application or product.
+
+The Agile approach to project management relies on the principles of transparency, collaboration, and flexibility. Teams working the Agile way shift course quickly, respond to obstacles efficiently, and keep internal and external stakeholders in the loop on progress.
+
+What’s Waterfall project management?
+
+Waterfall projects run sequentially. Project managers divide work into linear phases, and teams must complete one step before starting another.
+
+This approach is most efficient when teams already know how to complete the tasks ahead, as there’s little room for error or rework. The sequential style of Waterfall projects makes it difficult for groups to return to a previous task to correct an issue.
+
+Waterfall versus the Agile methodology: Benefits and challenges
+
+PMs must be open-minded when choosing either the Agile or Waterfall method, as the work often dictates the right choice. Understanding the benefits and challenges of each technique can help you make the right call on when to use Agile versus Waterfall.
+
+Agile project management pros and cons
+
+The Agile method is excellent for projects with clear, short-term milestones and highly collaborative work. But the downfall of asking cross-functional teams to perform tasks simultaneously is that a project can quickly become disorganized. That said, proper planning mitigates the risk of overlapping work, miscommunication, and late deliveries due to overly complex calendars.
+
+Waterfall project management pros and cons
+
+The Waterfall method works well for teams that wish to plan an entire project at once and know they can correctly execute the relevant tasks on the first try. But while Waterfall’s heavy structure is a blessing regarding thoughtful planning, it can also be a curse. Waterfall projects aren’t very flexible, and if there’s a roadblock, the entire calendar has to shift.
+
+How Agile and Waterfall respond to various project aspects
+
+While the most notable difference between Agile and Waterfall project management styles is that the former is iterative and the latter sequential, each style responds uniquely to project demands. Here’s how the methodologies support a given project’s essential aspects:
+
+Client involvement — Agile teams work closely with clients throughout a project to ensure work satisfies end-user needs. Those using the Waterfall method take less client input as they set strict requirements from the start. Changes — Agile is more flexible than Waterfall in the face of change, be it internal or external. If a client requires a new development feature, an Agile team can react quickly and shift scope, while a Waterfall team holds to the requirements everyone agreed on at the start. Milestones — Agile products aim to fulfill small (but satisfying) milestones with each sprint, while Waterfall projects may not deliver results until project closure.Teamwork — Agile teams have agency when planning work, divvying up tasks and taking on only what they can complete in a sprint. This way of working fosters conversation, transparency, and collaboration but can also lead to disorganization. Waterfall team members do what they must to accomplish project plan requirements, often working solo or with their direct teammates, not cross-functionally.
+
+Client involvement — Agile teams work closely with clients throughout a project to ensure work satisfies end-user needs. Those using the Waterfall method take less client input as they set strict requirements from the start.
+
+Changes — Agile is more flexible than Waterfall in the face of change, be it internal or external. If a client requires a new development feature, an Agile team can react quickly and shift scope, while a Waterfall team holds to the requirements everyone agreed on at the start.
+
+Milestones — Agile products aim to fulfill small (but satisfying) milestones with each sprint, while Waterfall projects may not deliver results until project closure.
+
+Teamwork — Agile teams have agency when planning work, divvying up tasks and taking on only what they can complete in a sprint. This way of working fosters conversation, transparency, and collaboration but can also lead to disorganization. Waterfall team members do what they must to accomplish project plan requirements, often working solo or with their direct teammates, not cross-functionally.
+
+Which method is best for your project?
+
+The wise way to choose which management method is right for your project is to consider the nature of the work. In general, Agile best supports complex, flexible work, while the Waterfall method works well for simple projects that follow strict rules. Here’s more on the types of projects that best suit each technique.
+
+Use Agile if:
+
+The requirements and scope of a project could change The client wants constant deliverables You must test (and potentially rework) features The project is complex, with a long list of deliverables You wish to encourage collaborationYou want teams to self-organize, planning their tasks and calendarsThe project is experimental in nature (i.e., development, UX, or design)
+
+The requirements and scope of a project could change
+
+The client wants constant deliverables
+
+You must test (and potentially rework) features
+
+The project is complex, with a long list of deliverables
+
+You wish to encourage collaboration
+
+You want teams to self-organize, planning their tasks and calendars
+
+The project is experimental in nature (i.e., development, UX, or design)
+
+Use Waterfall if:
+
+The project has strict, unchanging requirementsTeams must perform work sequentially (think: construction projects) The project scope is straightforward and has explicit time bounds You’ve secured the resources, tools, and personnel for the projectThe project is short enough that you won’t waste much time correcting an error from a previous phaseYou’ve performed this type of work before and have a good idea of how it will run
+
+The project has strict, unchanging requirements
+
+Teams must perform work sequentially (think: construction projects)
+
+The project scope is straightforward and has explicit time bounds
+
+You’ve secured the resources, tools, and personnel for the project
+
+The project is short enough that you won’t waste much time correcting an error from a previous phase
+
+You’ve performed this type of work before and have a good idea of how it will run
+
+What about a hybrid approach?
+
+Neither Agile nor Waterfall is suitable for every project, and you can combine the power of both in a hybrid approach. Here’s how:
+
+Use Waterfall to align on requirements and scope — the Waterfall methodology relies on setting firm requirements and scope before starting work, and many projects can benefit from a clear initial idea and unwavering alignment with the client.Use Agile sprints — even teams who use the Waterfall technique of first determining requirements and scope can switch to Agile sprints for project planning and execution.Don’t wait for phases to complete — teams can combine the flexibility and efficiency of Agile with the Waterfall method’s phase-based planning by moving through work as quickly as possible, not waiting for phases to end before starting new ones. Groups working in this hybrid manner can begin a step when they’re ready, not when the calendar dictates. Adopt Agile communication — any project benefits from open communication and transparency, so adopting Agile documentation and collaboration techniques is an excellent idea. Even traditional Waterfall-method teams can hold daily stand-up meetings, encouraging members to discuss progress and concerns. These gatherings alone can mitigate a good deal of risk. You can also use shared project dashboards or task boards — a common facet of Agile — to keep everyone on the same page. And consider hosting retrospectives, meetings inherent to the Agile process that encourage teams to learn from successes and failures.
+
+Use Waterfall to align on requirements and scope — the Waterfall methodology relies on setting firm requirements and scope before starting work, and many projects can benefit from a clear initial idea and unwavering alignment with the client.
+
+Use Agile sprints — even teams who use the Waterfall technique of first determining requirements and scope can switch to Agile sprints for project planning and execution.
+
+Don’t wait for phases to complete — teams can combine the flexibility and efficiency of Agile with the Waterfall method’s phase-based planning by moving through work as quickly as possible, not waiting for phases to end before starting new ones. Groups working in this hybrid manner can begin a step when they’re ready, not when the calendar dictates.
+
+Adopt Agile communication — any project benefits from open communication and transparency, so adopting Agile documentation and collaboration techniques is an excellent idea. Even traditional Waterfall-method teams can hold daily stand-up meetings, encouraging members to discuss progress and concerns. These gatherings alone can mitigate a good deal of risk. You can also use shared project dashboards or task boards — a common facet of Agile — to keep everyone on the same page. And consider hosting retrospectives, meetings inherent to the Agile process that encourage teams to learn from successes and failures.
+
+Get started with Agile today
+
+Ready to learn Agile or adopt some of its techniques in your current project-management style? Let Notion show you the way with our library of guides and templates.
+
+Use the Agile project management template to learn the basics. Then discover how to sprint plan, chart tasks on a Kanban board, and hold a retrospective meeting to assess a project or sprint’s success.

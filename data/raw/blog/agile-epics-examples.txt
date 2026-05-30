@@ -1,0 +1,135 @@
+Title: A complete guide to Agile epics (with examples)
+Published Date: 2023-05-29T00:00-06:00
+URL: https://www.notion.so/blog/agile-epics-examples
+
+When you think of epics, you might think of “The Iliad” or “Paradise Lost.” These examples actually aren’t entirely different from a practical project management tool: Agile epics.
+
+Like the legendary poems of centuries past, an Agile epic is a collection of stories — user stories — that help you break down your project into smaller, customer-focused tasks. They’re versatile necessities within Agile project management plans, letting you apply change to a project while maintaining a consistent focus on the end goal.
+
+But before getting to Agile epic examples, let’s explore where user stories fit within your larger project plan.
+
+What’s an epic in Agile?
+
+Within Agile project management, an Agile epic is a collection of user stories (requirements or requests) that add structure and direction to your project roadmap. They aren’t the same stories you’d find in a book — they’re tasks and requests. You step into the end user’s shoes and think about what your project is designed to give them. What tasks do you need in order to achieve that end result? Those are your user stories.
+
+Each user story relates to a to-do in your overall project, from creating a mobile version of your landing page to making sure there’s an “X” in the corner of your pop up. Whatever the project, you can derive each task from a user story.
+
+User stories are part of every Agile project. The difference with epics is that your project might be too comprehensive for a single sprint to complete. Agile epics break your stories down into more manageable chunks, collecting those tasks and splitting the workload into a more realistic flow. You might start with epics and break them down into stories, or the other way around. It depends on how your team works.
+
+Agile epics and project management
+
+When you’re working with Agile, you’re working in phases. These phases are the core of the methodology, allowing for alterations to the project and pushing learning points forward as you complete each one.
+
+To understand how epics really work, you need to know how they fit within the larger project scope. In no particular order, here are some other phases of Agile project management and how they relate to Agile epics:
+
+Project roadmap
+
+Your roadmap is a picture of your project, including milestones, deadlines, and a comprehensive timeline. Think of a physical paper map and how you mark every destination or pathway. A project roadmap does the same thing, and epics are your pit stops — the to-dos you have to cross off before moving on to the next thing on the road.
+
+User stories
+
+Epic user stories are the tasks within your epics. They refer directly to user requirements, requests, and feedback, and they don’t have to be as long as “The Odyssey” to be effective. Concise, to-the-point user stories work best because they’re the smallest level of individual tasks within the project hierarchy.
+
+Epics
+
+Epics still won’t be quite as long as the literary genre suggests, but they do require more doc space because they collect and host your stories. Each could be a particular feature or enhancement to your product — anything that aids the client or customer experience.
+
+Initiatives
+
+When you group together a bunch of epics, that's an initiative. If you find that all of your epics are about adding functions to a form, that’s one initiative. If they’re all about customer troubleshooting, that’s another initiative. The broader roadmap outlines each one and how it fits into the rest of the project.
+
+Themes
+
+Project management and epic terminology have themes: the long-term goals that your Agile initiatives serve. They’re the reasons you circled that spot on the map and decided on those to-dos. Every story and epic relates back to your theme.
+
+The many benefits of Agile epics
+
+The main benefit of breaking down your project into Agile epics and user stories is total project visibility. You’ll have an overview of everything you need to do, down to the smallest puzzle piece. But there are more reasons why Agile epics are helpful tools:
+
+1. Epics keep large projects organized
+
+It might seem counterintuitive to think that the more epics you have, the easier they are to organize. But you need to see every task in front of you to create a comprehensive finished product. Otherwise you might miss smaller pieces and disappoint your customer base. Epics help your team keep track of and group similar stories.
+
+2. Epics guide focus to your project themes
+
+Each epic contributes to a project's overall theme and outlines the steps you need to take to reach your goals. This breakdown helps you manage deadlines, estimate the entire project timeline, and present deliverables more often than just at the end of a project.
+
+Within an Agile epic, you can even add story points: metrics that helps you estimate the time your team needs to complete each user story task. You’ll stay connected to the overall project theme without dropping the ball on deadlines.
+
+3. Epics help meet client needs
+
+If you've worked with clients, you know that they always want to know what’s happening, from what initiatives you’re working on to when you’ll finish them. Epics give you a more organized framework to provide updates and keep everyone in the loop, and open the floor for feedback and necessary changes as the project progresses.
+
+How to create compelling Agile epics: 6 elements
+
+When it comes to how to write an epic, you should always keep the customer and final product in mind. They don’t have to rhyme or follow a character — a story list with a clear objective statement is more than enough.
+
+But if you want to write a comprehensive epic, it should contain at least these six essential elements, depending on your project’s complexity and breadth.
+
+1. Epic introduction
+
+Start every epic with “what” and “why.” What problem does this epic solve, and why does it relate to the overall project roadmap? The “what” could be creating a donation button, and the “why” could be that a client encourages charity donations alongside each sale on its website.
+
+Each epic might also link out to related documentation or proof of concept, like research that suggests that donation buttons next to checkout buttons encourage conversion. This added information helps your team and other stakeholders understand the importance of the tasks at hand.
+
+2. Story organization
+
+Organize the stories within your epics based on related content. All stories related to the parallax scroll images on your website’s homepage would be in one group, while all the stories about the shopping cart page would be in another. These epics would likely be part of a larger initiative: upgrading website design.
+
+This organization makes it much more painless to update the project roadmap and provide detailed timelines for deliverables. This is where you’ll analyze each story and offer an estimated time of completion based on the resources you have available.
+
+3. Product requirements
+
+Within each epic should be its functional and non-functional requirements. This goes back to the “what” part of the introduction, but with more specificity. Sure, you need a donation button on the checkout page, but what should that button do? Should it open a new page or a popup window? These requirements guide your project team to create a deliverable that meets user needs.
+
+4. Technical requirements
+
+This is where your design and engineering specifications come into play. Your UX designer should know what color palette to use for your donation buttons, and your development team needs to know the backend specs of how you want the popup to work. The user stories within your epic should give you the necessary information to create these technical requirements.
+
+5. Feedback
+
+Don't neglect your stakeholders and subject matter experts. Consult your whole team before assigning an epic. They might notice something you missed — especially regarding technical details — or point out a story that isn’t as achievable as you initially thought.
+
+6. Metrics
+
+When your epic's goal is to enhance existing products, metrics are key. You’ll need to measure the effectiveness of your strategies and pinpoint elements in order to improve.
+
+Imagine a client wants to change the entire layout of a web page due to poor performance. Examining metrics like the number of clicks in certain places or levels of user interaction with specific color schemes can help inform future user stories.
+
+Examples of Agile epics
+
+Agile epics don’t have to fit inside a cookie-cutter form. In Notion, you can include only the points important to your project and link out to the docs you’ll actually use — and your epics can fit into a larger Agile project management template.
+
+Here are two examples of what Agile epics might look like and what they can include:
+
+Example #1: The client needs a functional web page so customers can open a new brokerage account.
+
+Example #2: The client has requested a feature update to its landing page slideshow and wants to optimize it for mobile.
+
+Best practices for Agile epics
+
+There are no industry-standard rules within Scrum or Agile methodology that restrict how you construct your epic. But there are some best practices that can make your Agile epics, well, epic.
+
+1. Work from the top down
+
+You might already have ideas for how to reach your end goal. But if you’re stuck, start with your theme — "build a website" or "create a new banking app" — and work from there. Break it down into more minor themes (different website pages), initiatives (functions on a single page), and epics (building each function). And once you know your epics, you can break those down into user stories.
+
+This flow keeps every task and idea organized so you can visualize your process and produce realistic timelines for deliverables. Keep in mind that you don’t always have to build from the top down, but that strategy can help you make sure you didn’t miss anything.
+
+2. Pick a descriptive name
+
+Pick a name that describes what each feature or upgrade the epic contains, with no room for misinterpretation. If one epic is about creating a confirmation page for a purchase using a discount code, don't just name it "confirmation page." Something more descriptive, like a "discount code confirmation page," would separate this epic from others. The more descriptive the name, the less chance for confusion.
+
+3. Size your epics correctly
+
+When adding user stories to your Agile epics, try not to include too many. If you find you’re jamming too many user stories into one epic, expand to an initiative and create new epics within it.
+
+Jam-packed epics might seem exciting, but they can slow overall progress — to mark it as done, you must complete the entire epic. Making epics too small, on the other hand, can mess with your project backlog by creating way too many tiny pieces to keep track of.
+
+4. Keep your epic adaptable
+
+Things change. Requirements change. And client needs change within the lifetime of a project. When structuring your epic, allow for expansion and contraction. Your project will always need space to adapt to changing requirements, and that includes epics.
+
+Use Notion to tell your story
+
+Notion’s connected workspace has everything you need to build and implement Agile methodology. You can create your own epic templates to support your team, and if you need more tools, Notion has Agile project management, weekly sprint, and SaaS planner templates. Keep your project organized, on track, and on time.

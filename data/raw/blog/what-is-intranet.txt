@@ -1,0 +1,87 @@
+Title: What’s an intranet? A quick guide
+Published Date: 2023-04-13T00:00-06:00
+URL: https://www.notion.so/blog/what-is-intranet
+
+When you’re jump-starting a business, you might use personal emails or store documents on local drives to lower administrative fees. But as your company grows into a scale-up or even a medium-to-large organization, your internal communications and process document needs will also increase. You'll have to juggle multiple email threads, messaging apps, and file-sharing platforms to stay up to date on the latest projects and colleague communication.
+
+Employees might find this overwhelming and time-consuming, and you might lose important messages in the shuffle. Luckily, an intranet is what you can use to ease this communication process and safely store your documents.
+
+What’s an intranet?
+
+An intranet is a private, customized space on the internet that an organization’s employees can use to communicate and store information. You might create one to use as a customer relationship management (CRM) platform, for example, or as a digital workplace communication hub. Microsoft Sharepoint and Notion are examples of intranet platforms.
+
+You can host this centralized platform on a local server within your company's premises or in the cloud so it’s accessible from anywhere with an internet connection. The former is better for onsite teams, while a cloud-based solution is perfect for remote workers and distributed departments based in various geographic locations.
+
+Intranets are the key to secure, effective communication within your company — no matter how big or small your business is. They provide a platform for team members and stakeholders within a company to:
+
+Easily collaborate on documents and share informationStore and access essential resources like company policies, workflow process docs, and project roadmaps in a centralized workspaceManage internal messages and announcements to ensure everyone is on the same pageMaintain consistency in communication security and company branding
+
+Easily collaborate on documents and share information
+
+Store and access essential resources like company policies, workflow process docs, and project roadmaps in a centralized workspace
+
+Manage internal messages and announcements to ensure everyone is on the same page
+
+Maintain consistency in communication security and company branding
+
+Internet versus intranet
+
+Intranet sounds like “internet,” which can be confusing at first — but here are some differences between the internet and an intranet:
+
+Accessibility — the internet is a public network that’s accessible to anyone with an internet connection through a web browser. An intranet is a private network designed exclusively for authorized users within an organization. While nearly anyone can access the internet to search for information, use social media, or shop online, you can only access a company’s intranet with the proper permissions.Centralization — the internet is vast and decentralized. Web servers all over the world store information. Conversely, the intranet is centralized, with companies typically hosting it on a local server or in the cloud. Content — the internet hosts a wide variety of content, like news articles, videos, and social media posts. Intranets house content that’s specific to an organization, like company news, employee directories, and other resources. This tailored approach to content declutters the information ecosystem and keeps employees informed.
+
+Accessibility — the internet is a public network that’s accessible to anyone with an internet connection through a web browser. An intranet is a private network designed exclusively for authorized users within an organization. While nearly anyone can access the internet to search for information, use social media, or shop online, you can only access a company’s intranet with the proper permissions.
+
+Centralization — the internet is vast and decentralized. Web servers all over the world store information. Conversely, the intranet is centralized, with companies typically hosting it on a local server or in the cloud.
+
+Content — the internet hosts a wide variety of content, like news articles, videos, and social media posts. Intranets house content that’s specific to an organization, like company news, employee directories, and other resources. This tailored approach to content declutters the information ecosystem and keeps employees informed.
+
+In between the internet and intranet is a third network type: an extranet, which is like an intranet that allows communication between a company and its external partners, such as vendors or clients. As it’s not limited to internal company usage, you can use an extranet to share information with third parties while maintaining security and control.
+
+The pros and cons of having an intranet
+
+An intranet can provide significant benefits to an organization, like streamlined and safe communication, but it has a few drawbacks. Here are some pros and cons of using an intranet for your organization.
+
+Benefits of an intranet:
+
+Better communication — improving communication between departments, teams, and individual employees with a standardized messaging process reduces the need for email and improves real-time collaboration through messaging and shared documents.Increased data security — since intranets have restricted access, encryption, and firewalls, they offer more protection than a publicly-hosted communication hub like Gmail. Intranets help you keep sensitive company information secure and prevent unauthorized access. An intranet can also protect against internal threats like accidental data leaks or intentional sabotage by disgruntled employees.Easier information sharing — by creating a central location for all information, intranets help employees find and access important documents, like training materials and timelines. This breaks down information silos and helps improve team collaboration and decision-making.Standardized processes — you can customize intranets to fit your needs, whether that’s managing projects, tracking progress, or handling HR tasks, and standardize these processes to build consistency among employees.
+
+Better communication — improving communication between departments, teams, and individual employees with a standardized messaging process reduces the need for email and improves real-time collaboration through messaging and shared documents.
+
+Increased data security — since intranets have restricted access, encryption, and firewalls, they offer more protection than a publicly-hosted communication hub like Gmail. Intranets help you keep sensitive company information secure and prevent unauthorized access. An intranet can also protect against internal threats like accidental data leaks or intentional sabotage by disgruntled employees.
+
+Easier information sharing — by creating a central location for all information, intranets help employees find and access important documents, like training materials and timelines. This breaks down information silos and helps improve team collaboration and decision-making.
+
+Standardized processes — you can customize intranets to fit your needs, whether that’s managing projects, tracking progress, or handling HR tasks, and standardize these processes to build consistency among employees.
+
+Disadvantages of an intranet:
+
+Too much information — having all corporate information in one place is great, but how much is too much? Employees might miss important announcements or spend excessive amounts of time searching for what they need. To avoid this, designate responsible individuals to review, organize, and update content.They’re not always mobile-friendly — not all intranets are mobile-responsive since traditional intranets were for desktop use. This is a problem for employees who need to access information while on the go. When selecting an intranet, consider whether your employees need to access it from their phones and choose a mobile-friendly solution.Constant maintenance — intranets require continuous maintenance and oversight. Without proper information management, an intranet, like any other wiki or knowledge base, could become too overloaded with documents to be useful. Maintenance tasks may also include updating software, fixing broken links, and monitoring security. This can be time-consuming and costly. To minimize the burden, choose an intranet solution that’s easy to use and maintain.
+
+Too much information — having all corporate information in one place is great, but how much is too much? Employees might miss important announcements or spend excessive amounts of time searching for what they need. To avoid this, designate responsible individuals to review, organize, and update content.
+
+They’re not always mobile-friendly — not all intranets are mobile-responsive since traditional intranets were for desktop use. This is a problem for employees who need to access information while on the go. When selecting an intranet, consider whether your employees need to access it from their phones and choose a mobile-friendly solution.
+
+Constant maintenance — intranets require continuous maintenance and oversight. Without proper information management, an intranet, like any other wiki or knowledge base, could become too overloaded with documents to be useful. Maintenance tasks may also include updating software, fixing broken links, and monitoring security. This can be time-consuming and costly. To minimize the burden, choose an intranet solution that’s easy to use and maintain.
+
+5 intranet best practices
+
+With the rise of remote work and online collaboration, intranets are an increasingly popular way to secure communication and streamline workflows. Here are five best practices for using an intranet in your workplace:
+
+Only store relevant content — an intranet provides a central content management system for storing and sharing resources. But this doesn’t mean you should simply store every piece of information on the intranet. Be selective and properly organize intranet content to make it easier for teammates and stakeholders to surface relevant documents.Concentrate all communications there — it might be tempting to DM a colleague or shoot off a quick email, but you should keep all communication in your intranet since it’s a secure platform that stores a record of all internal communications. Centralizing company-wide or team-wide communications, like announcements, updates, and news also reduces the risk of misunderstandings. Facilitate connection between different teams — breaking down barriers between teams and departments by bringing them into a connected workspace like Notion. By creating custom pages and portals for various project teams, you ensure the right people can access the information they need, thus facilitating collaboration and improving cross-functional communication.Use customization to increase productivity and avoid distractions — tailor your intranet to your business’s needs by implementing custom workflows, forms, and dashboards. This increases productivity and reduces distractions since employees can quickly find information on customized landing pages.Get everyone involved and engaged — promote employee engagement through the intranet with surveys, polls, and public commendations. This helps create a sense of community and ownership among employees and encourages them to contribute to the business’s success.
+
+Only store relevant content — an intranet provides a central content management system for storing and sharing resources. But this doesn’t mean you should simply store every piece of information on the intranet. Be selective and properly organize intranet content to make it easier for teammates and stakeholders to surface relevant documents.
+
+Concentrate all communications there — it might be tempting to DM a colleague or shoot off a quick email, but you should keep all communication in your intranet since it’s a secure platform that stores a record of all internal communications. Centralizing company-wide or team-wide communications, like announcements, updates, and news also reduces the risk of misunderstandings.
+
+Facilitate connection between different teams — breaking down barriers between teams and departments by bringing them into a connected workspace like Notion. By creating custom pages and portals for various project teams, you ensure the right people can access the information they need, thus facilitating collaboration and improving cross-functional communication.
+
+Use customization to increase productivity and avoid distractions — tailor your intranet to your business’s needs by implementing custom workflows, forms, and dashboards. This increases productivity and reduces distractions since employees can quickly find information on customized landing pages.
+
+Get everyone involved and engaged — promote employee engagement through the intranet with surveys, polls, and public commendations. This helps create a sense of community and ownership among employees and encourages them to contribute to the business’s success.
+
+Everything you need for your company — in one workspace
+
+Intranet platforms unite your company and streamline communication while keeping sensitive data safe.
+
+If you want to implement a company intranet, consider Notion, a user-friendly, connected workspace. Whether you’re a team or an enterprise, our fully customizable features enable you to intuitively organize your business’s information. Get started today.

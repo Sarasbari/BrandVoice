@@ -1,0 +1,73 @@
+Title: How Notion Calendar helps you manage your time more effectively
+Published Date: 2024-04-18T10:00-07:00
+URL: https://www.notion.so/blog/notion-calendar-helps-you-manage-your-time-more-effectively
+
+Time can be a cruel master.
+
+What time do I need to leave for work? Do I have 30 minutes free to grab coffee? Is there a time that works for both of us? When are we launching our next product?
+
+We spend so much time managing our time. Too much. So how do we make organizing our lives easier so we don’t waste so much precious time scheduling?
+
+We recently launched Notion Calendar in an effort to help connect all aspects of your life in one place. Here’s some of the feedback we’ve gotten so far:
+
+Here are a few ways you can get a better handle on your time with Notion Calendar — with a bit of help from the Notion community.
+
+Never get double-booked again
+
+There’s nothing worse than being over-extended.
+
+Your boss sets up a meeting in what looks like an open spot on your calendar. But she can’t see that you have a doctor’s appointment on your personal calendar. Now you have to be in two places at once.
+
+What to do?
+
+Enter auto-blocking in Notion Calendar. Add an event to one synced calendar and it automatically shows that you’re busy on all your other calendars too.
+
+This is a lifesaver in more ways than one.
+
+First, your team gets a more accurate version of your schedule that blocks off all of your events. But more importantly, you can actually take back control of what’s going on in your life. No more shuffling plans or missing eye exams.
+
+No more calendar puzzles
+
+Can you do Tuesday? What about Saturday? Next week?
+
+The dreaded back and forth game. Trying to fit multiple schedules together to find the last remaining open spot. Plus, schedules change continuously — so it’s impossible to remember when people are actually free.
+
+That’s why the scheduling snippet in Notion Calendar is so powerful.
+
+Block time on your calendar when you’re free, use the automatically-created text snippet, and share with anyone you’re meeting with. Once they pick a time that works best for them within that window, your new meeting is automatically added to everyone’s calendars.
+
+While the scheduling snippet makes it easy to coordinate, sometimes you just need to find the best time that works for your team. Cassidy Williams, Chief Technology Officer at Contenda, uses Notion Calendar to quickly get everyone on the same meeting without the back and forth.
+
+“I love the fact that I can easily look at my team’s calendars and gather time slots that work for everyone,” says Cassidy. “And doing it with a few keyboard shortcuts makes the whole process so much quicker.”
+
+BONUS: Keyboard shortcuts make setting up meetings a snap. Simply press C to create a quick calendar event or F to set up time to meet with specific teammates.
+
+Limit deep work disruptions
+
+Distraction kills productivity. Those distractions can be loud, like the barrage of pings and notifications pulling you in what feels like a hundred different directions at once. But distractions can also be soft, like jumping from your blog post draft over to Slack so you can send an update to your team.
+
+These subtle distractions happen every time you have to pause your work to jump to your calendar. You lose your spot. You get pulled out of your flow state. But if you don’t, you risk being late to a meeting — or forgetting it altogether.
+
+With Notion Calendar, you can see your entire day from your menu bar. And when a meeting is imminent, you’ll get a notification that includes a direct link right to your meeting. You can see your calendar — and every single event — without leaving the app you’re working in.
+
+Sync more than just events
+
+Keeping your calendar tidy is vital to maintain an organized life. But your calendar should be more than just time blocks and placeholders — it needs layers of workflows, docs, and other context that should be attached to those events.
+
+While you and your team probably know what projects you’re working on, you may not always remember the milestones and deadlines that come with them. With Notion Calendar, you can easily connect it to any database in your Notion workspace to keep track of every important date in one place.
+
+Thomas Frank, YouTube creator and Nebula Co-founder, has been using Notion to power his work for years. Notion Calendar makes it easier for him to coordinate more easily than ever.
+
+“I've always wanted the ability to bring events from multiple databases into a unified calendar view,” says Thomas. “Now I can do that — in a full-featured calendar app to boot. It's a major upgrade to my productivity stack.”
+
+Create a more connected life
+
+A good calendar goes beyond just organizing your work life. It helps you stay on track for your personal life’s biggest moments and goals too.
+
+“It enables you to reliably and consistently get the right things done, the things that actually move you toward your life aspirations — the things that are most important,” says August Bradley.
+
+Bringing your events, timelines, milestones, and deadlines into one place is more than just time management — it’s life management.
+
+How are you using Notion Calendar? Share on social using #mynotioncal.
+
+Get started with Notion Calendar for free today.

@@ -1,0 +1,47 @@
+Title: Welcoming Campsite’s Founders to the Notion Team
+Published Date: 2024-12-20T09:30-08:00
+URL: https://www.notion.so/blog/welcoming-campsites-founders-to-the-notion-team
+
+Work today is drowning in noise. Notifications compete for our attention, chat channels multiply, and there are simply too many apps. Managing this chaos has become a job in itself—on top of the work you already do.
+
+We’ve always believed there’s a better way. Notion was built to be a space where collaborating on work, sharing ideas, and staying aligned is simple, intuitive, and beautiful—like having a conversation around a coffee table even when you’re miles apart.
+
+That’s why meeting the cofounders of Campsite felt like meeting kindred spirits. They’ve spent years rethinking how teams communicate and share knowledge and have built a Lego block that was missing from our construction set.
+
+That’s why we’re thrilled to welcome Campsite’s Brian Lovin and Ryan Nystrom to the Notion team. I sat down with them earlier this week to hear about their humble beginnings and why this represents an important step forward in our mission to build beautiful tools for your life’s work.
+
+Randy Hunt: So how did Campsite come to be?
+
+Brian Lovin: Campsite started as a nights-and-weekends side project back in the spring of 2022. The goal was to build a tool for design teams to help them share work in progress, give better feedback, and create a rich archive of their design explorations.
+
+Randy: Why did you think it was so important to build?
+
+Ryan Nystrom: It’s tough for designers to stay connected with what everyone else is doing as a company grows. There are so many channels and files to keep track of, and by the time you see someone’s work, it’s often too late to give meaningful feedback.
+
+Brian: Exactly. That can lead to lower-quality work—work that’s not as good for customers or for the world.
+
+Design teams often work in silos, so they miss out on important context. Things like: What’s happening on other projects? What existing patterns can we reuse to create cohesive software? What other ideas are in the works? Without that context, they end up duplicating work, giving less helpful feedback, and missing alignment on where they’re headed.
+
+A lot of this boils down to poor communication and tools that aren’t built for how we actually work. Conversations get scattered across apps, and it becomes impossible to follow an endless stream of comment threads.
+
+Randy: You know, as you’re describing all this, you could probably swap “design teams” with marketing or product or even operations. These challenges aren’t unique to designers.
+
+Brian: Exactly. It’s why we eventually broadened Campsite’s focus beyond design teams to helping entire companies collaborate better.
+
+So many communication problems come down to the same issue: It’s hard to get into deep, focused work when you’re constantly pinged with notifications and juggling chat threads. We were a very small team at Campsite and even our channels were busy, so imagine a 2,000 person company trying to manage the noise. It’s exhausting, and teams lose focus on what’s actually important.
+
+Ryan: Right, and we use these real-time chat tools for everything—a DM has the same weight as a company-wide announcement! Chat apps often give you small spaces to write in, encouraging quick, half-baked thoughts instead of fully-formed ideas. You send five short messages where one longer message would work better.
+
+So with Campsite, we changed that. We found that small tweaks, like giving you more space to write your thoughts and adding titles to discussions, encouraged more thoughtful communication. Instead of losing information to 1:1 chats or busy channels, teams used Campsite to make more—and better—asynchronous decisions.
+
+Brian: We think about work on two axes: individual-to-multiplayer and synchronous-to-asynchronous. Right now, most companies reach for different tools to do different tasks along those spectrums, each with their own logins, comments, and links to share. What we really want to see is a single platform that helps teams move smoothly along those two axes without having to bounce between tools.
+
+For example, at Campsite, we built a single app for your team discussions, private chats, video calls, and documentation. Everything was connected so you could easily move from one mode of communication to another. This gave people flexibility to share ideas at the right time, with the right people, and maintain a strong source of truth for decisions.
+
+Randy: That makes so much sense—putting all that functionality in one place seems a lot simpler.
+
+Ryan: Right? That’s why joining Notion felt so natural. From the start, it was clear we all agreed how collaboration and knowledge sharing should work. Companies need a better way to communicate and share information, and it’s exciting to see Notion already solving those problems.
+
+Brian: And the more we got to know the team at Notion, the more excited we were to play a part. We have big ideas about how to change the way people work and communicate, and we can’t wait to make them happen together.
+
+Randy: Well, we’re thrilled to have you both on board. Welcome to Notion—let’s get to work!

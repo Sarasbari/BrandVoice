@@ -1,0 +1,67 @@
+Title: Asynchronous collaboration models for distributed teams
+Published Date: 2021-12-15T00:00-07:00
+URL: https://www.notion.so/blog/3-asynchronous-collaboration-models-for-distributed-teams
+
+In-person models for collaboration are rarely effective for remote work, which has its own challenges (and is becoming more popular every day). Distributed teams face problems of distance, social disconnection, time zone delays, and Zoom fatigue. However, those issues often come from the application — or expectation — of collaboration and communication techniques that were designed for life in the office.
+
+Distributed teams and asynchronous work require their own unique models and the right collaboration software to work together effectively. We’ve created a list of asynchronous collaboration models that you can adopt (and adapt), including suggestions for the right tools for each particular hurdle faced by distributed teams.
+
+1. Spread company culture and encourage socialization with internal documentation
+
+Internal documentation doesn’t have to just be an encyclopedia of work processes: it can — and should — enforce your culture as well. Company culture can get lost (or not created at all) in a situation with a distributed team, but it’s important for keeping all team members on the same page.
+
+Company culture also fosters the social relationships that are easy to lose with virtual teams of any kind.
+
+Reinforce your brand through internal documentation
+
+The tabletop gaming company Metaverse uses Notion to promote socialization, which it does in a unique way that bolsters its culture of gaming. And this culture helps unite the team and spreads their product’s tone throughout the company.Team members create a “character sheet” in the employee directory and share this with the team. This character sheet mimics the ones used in tabletop games and shares personal details about the team member. Employees even include a small pixel cartoon character of themselves on their sheet. This cartoon avatar looks like it could have stepped out of an old-school video game and is commissioned from an artist.
+
+Are the expense and effort necessary? Not in the strictest sense. But these fun character sheets reinforce the fun, game-focused culture Multiverse has cultivated.
+
+Organize social interaction with your internal wiki
+
+It can sound a little silly, but distributed teams need to be reminded to socialize. Not only is socialization a benefit to their mental health, but it’s also one of the faster ways to create and spread company culture. At Notion, every Friday over Zoom, a new employee presents their life story document — a collection of pictures, videos, stories, and more that takes viewers through the presenter’s life however they see fit. This is on the shared company calendar, of course. But the life story also lives in Notion’s internal wiki, specifically in the company’s people directory.
+
+Teammates get to know each other better through these life stories, of course. But because they’re housed in the wiki, employees old and new can revisit these life stories to build an even stronger connection with their teammates. Whether it’s shared pasts, empathy, or favorite ice cream flavors, these life stories spur conversations that might have not existed without them.
+
+2. Reduce knowledge silos and redundant work with enforced internal documentation
+
+Distributed teams require a strong policy of communication and documentation, because knowledge silos tend to form when everyone is off working by themselves, all alone, and in different time zones to boot.
+
+Distributed teams also need documentation that’s easy to find and provides context to the work being done, a combination that reduces instances of redundant or unnecessary work.
+
+Defeat knowledge silos with mandatory documentation policies
+
+Knowledge silos are so troublesome because you often don’t know what you don’t know. A team (or individual) might be creating entire processes and ways of doing things that no one else is even aware of.If these unknown processes work well, you may never find out about them until that individual leaves. Good luck to the person who has to replace them. This newcomer will either have to try to reverse engineer what your old team member did or come up with an entirely new strategy or process. They often have to do this difficult task while dealing with the confusion of onboarding. Now repeat this uncertainty (in onboarding and ongoing production) with every single position, team, or department. No thanks.Fight knowledge silos with a strong, compulsory, and easy-to-execute internal documentation strategy. The earlier this strategy goes into effect, the better. Every team or department (no matter the size) should have a shared but custom workspace and wiki where processes are illustrated and updated as needed.
+
+Make your team accountable for ongoing notation. In Notion, you can grant ownership of these wiki pages to individuals and even set reminders at regular intervals to double-check that the documents are up to speed and still relevant to the processes they’re outlining.
+
+Enforce context in your internal documentation: why was a change made?
+
+Every group of people working together runs into the same problem: you don’t all share a brain. Changes get made by individuals that other team members might not be aware of. Or, equally frustrating, a change has been made to a process or project, but no one else on the team knows why the change was made. Team members may disregard this new change as “unnecessary” and avoid implementing it while missing perhaps a very good reason for the change. These sorts of problems crop up without proper notation or notification built into the system.
+
+The solution is to use a collaborative system that enforces context.
+
+Loom, a workplace communication software company, made context a cornerstone of their collaboration model. Loom Co-founder and Head of Engineering Vinay Hiremath says: “Context answers the important question of ‘Why are we even doing this?’” Loom found that when the team understood why something was being implemented, they adopted the process faster. They deployed Notion to help create this context in their documentation. They made sure to include “context sections” in all of their templates and shared documents, which had to be filled out. These context sections existed on all templates, including planning docs, feedback docs, and after-action reports.
+
+3. Collaborate more efficiently with task management software
+
+Gone (or rapidly fading) are the days when managers could walk over to someone’s desk and remind them of a task or just hand them a new project. So, too, are the days of just asking a specific department to all gather in the conference room “real quick” to sort out who’s doing what and when.
+
+Notify distributed teams when changes are made
+
+Asynchronous collaboration relies on team members being able to make changes at all hours — but that also means the whole team needs to know what changes have been made. That’s why you need to use a collaboration tool that sends notifications when changes happen.
+
+While using Notion to manage your tasks, you can integrate Slack to push notifications of changes to all relevant parties working on that document. This works in reverse, too — you can say, “We’re brainstorming right now; hop in” and drop a Notion link in Slack for everyone to work on. Those who are able to work on the doc in real time can. Those who aren’t available for synchronous collaboration can work on that doc later. And changes and notifications will come back to the Slack channel for everyone else at a later time — enabling sync and async work on everyone’s schedules.
+
+Create task templates to speed up new projects
+
+Task templates, stored in a central shared database, allow teams to iterate quickly on new projects and jobs. If you’re working on product pages, for instance, you could have a task template containing all the information for a product — product name, UPC code, product image, details, etc. No need to set this up every time you need a page.With Notion, you can then assign a priority, a status, who owns the task, and when it’s due with a couple of quick clicks. From template to task assignment, you’re ready to begin a new project in minutes without having to lay all new track. Plus, it ensures your team is using the same framework when getting projects started. See below, where tasks are highly visible and contain all necessary variables, including priority, status, details, due date, and who is assigned to each task.
+
+And, of course, one template won’t be enough to manage every project. Task templates should be created and customized for anything from media outreach to feature ideation to training ideas. Then, these templates can be used to quickly create new tasks at any time without any extra upfront time or energy costs.
+
+Collaborate asynchronously with clients, too
+
+Of course, we don’t just collaborate with our team — depending on your industry, you’re doing work alongside your clients as well. Reboot, a digital product studio, was using Notion for team collaboration and internal documentation already. However, they realized that their collaboration with clients and outside companies was still reliant on the kind of random email threads and chat messages they’d done away with internally. So, they decided to use Notion to create project dashboards for each client and invited those clients to work inside their existing framework.
+
+Adopting these internal and external collaboration models is not only necessary for distributed teams, but also to increase efficiency, productivity, and accountability across the board.

@@ -1,0 +1,151 @@
+Title: What’s a feasibility study, and how can you conduct one?
+Published Date: 2023-07-28T00:00-06:00
+URL: https://www.notion.so/blog/feasibility-study
+
+Before making a major decision in your personal life, you probably list the pros and cons.
+
+Why not apply this method at work?
+
+In some ways, it’s even more pertinent to consider the benefits and consequences of workplace decisions, since they can greatly impact the entire company. And deciding to execute a certain project is one such high-impact decision.
+
+Worthwhile projects provide a solid return on investment (ROI), expand a company’s reach, and improve an organization’s image. Before launching a new initiative at your company, vet the project’s potential with a feasibility study. This activity gives you a peek into the future, forecasting the gains a project offers and predicting where obstacles might arise.
+
+What’s a feasibility study?
+
+A feasibility study is an evaluation that estimates a project’s viability. This analysis determines the work’s potential strengths and risks, weighing benefits against disadvantages — much like a pros and cons list.
+
+Feasibility studies predict the performance of a project with key business goals in mind. If a company hopes to increase ROI, the work’s ability to do so is a deciding factor on whether to proceed.
+
+The most comprehensive feasibility studies include data on the following:
+
+Business and project history Accounting and finances Operations Tax obligations Legal requirements A company’s target market
+
+Business and project history
+
+Accounting and finances
+
+Operations
+
+Tax obligations
+
+Legal requirements
+
+A company’s target market
+
+Why are feasibility reports important?
+
+Feasibility studies allow teams to confidently take on new projects. These analyses also save companies from wasting resources like time and money and ensure that all stakeholders align on the work to come. This planning phase also helps project managers:
+
+Estimate ROIDetermine the project’s success rateIdentify risksPinpoint areas of opportunity Bring focus to a projectAllow teams to veto a dubious project before starting Ascertain financial, regulatory, and technical restraints that could impact the work
+
+Estimate ROI
+
+Determine the project’s success rate
+
+Identify risks
+
+Pinpoint areas of opportunity
+
+Bring focus to a project
+
+Allow teams to veto a dubious project before starting
+
+Ascertain financial, regulatory, and technical restraints that could impact the work
+
+5 feasibility study types
+
+Project feasibility studies typically consider one or more of the following five areas:
+
+Technical feasibility studies evaluate the hardware, software, and other tools a company has on hand to ensure they meet the project's demands. These studies help teams determine whether they need to acquire new resources to meet project requirements and whether the investment is worthwhile. Economic feasibility studies, or financial feasibility analyses, consider the project’s cost-benefit relationship. Teams define whether the financial investment will result in lucrative enough rewards to make the work viable. Operational feasibility studies ensure that a project meets business needs. The project should align with the company's overall goals, vision, and character. The company should also have the functional resources, like personnel and internal structures, to complete the work.Legal feasibility studies confirm that no regulations or laws prevent the company from completing a project. Tech companies might consider data processing laws, while brick-and-mortar businesses might check zoning regulations. Assuming the project is legal, this step helps the company understand the permits and permissions needed before beginning work. Scheduling feasibility studies check whether a company’s employees have enough time to complete the proposed project. Leaders should also determine how long the project will take and ensure the team can complete work quickly enough to benefit the business or client.
+
+Technical feasibility studies evaluate the hardware, software, and other tools a company has on hand to ensure they meet the project's demands. These studies help teams determine whether they need to acquire new resources to meet project requirements and whether the investment is worthwhile.
+
+Economic feasibility studies, or financial feasibility analyses, consider the project’s cost-benefit relationship. Teams define whether the financial investment will result in lucrative enough rewards to make the work viable.
+
+Operational feasibility studies ensure that a project meets business needs. The project should align with the company's overall goals, vision, and character. The company should also have the functional resources, like personnel and internal structures, to complete the work.
+
+Legal feasibility studies confirm that no regulations or laws prevent the company from completing a project. Tech companies might consider data processing laws, while brick-and-mortar businesses might check zoning regulations. Assuming the project is legal, this step helps the company understand the permits and permissions needed before beginning work.
+
+Scheduling feasibility studies check whether a company’s employees have enough time to complete the proposed project. Leaders should also determine how long the project will take and ensure the team can complete work quickly enough to benefit the business or client.
+
+7 critical components of a feasibility study
+
+When performing a project feasibility study, prepare a report containing the following seven sections:
+
+An executive summary describing the study's outcome and whether the project is viableA project description explaining what work the team will perform and key outputs like products or new services it’ll developTechnical details such as any hardware, software, and other necessary technical resources Market data that indicates consumer interest in the new product or serviceOperational information describing the team’s functional capacity to complete the workA project timeline outlining key milestones and start and end datesFinancial projections demonstrating the project’s economic benefits, like ROI
+
+An executive summary describing the study's outcome and whether the project is viable
+
+A project description explaining what work the team will perform and key outputs like products or new services it’ll develop
+
+Technical details such as any hardware, software, and other necessary technical resources
+
+Market data that indicates consumer interest in the new product or service
+
+Operational information describing the team’s functional capacity to complete the work
+
+A project timeline outlining key milestones and start and end dates
+
+Financial projections demonstrating the project’s economic benefits, like ROI
+
+How to conduct a feasibility study: 6 steps
+
+Offer yourself and your team confidence in the work ahead by conducting this six-step feasibility study.
+
+1. Gather general data
+
+A feasibility study prevents you from potentially taking on an unsuccessful project, and performing a general analysis before starting a feasibility study can save you the work of the study itself. Consider any inevitable obstacles, like a lack of funding, that would halt even the best-planned project. Stop now if the project is untenable.
+
+Imagine a marketing team that wants to move its data to a new customer relationship management (CRM) system. In this step, the team considers what data types they wish to store, such as client contacts or purchase history, and what functionality the software should have, like e-commerce integrations. Gathering this general information helps the team take the next step toward finding the right software.
+
+2. Consider financial information
+
+Financial resources are often the make-or-break factor regarding a project’s feasibility. Consider current resources, what you expect you can attain, and what this project must provide post-completion regarding ROI. A company’s financial team would work with the project’s owner to calculate this information.
+
+The marketing team compares the costs of various platforms, requests budget guidelines from C-suite and financial executives, and brainstorms ways to fill any financial gaps. They also calculate how much money they’ll save in the long run by changing CRM systems.
+
+3. Perform market research
+
+No matter how fantastic your offering, it’ll only be successful if there’s market demand for it. Conduct a market analysis to better understand competitor products, target audience purchasing habits, and whether this offering fills a lucrative gap.
+
+Our marketing team considers how each platform helps them provide better services to current clients and seamlessly turn leads into new customers. Perhaps a new CRM system will help the team generate tailored offerings, driving sales and value for customers.
+
+4. Assess technical and operational feasibility
+
+If your company has the capital to run a project and there’s market interest, the next step is determining whether your current tools and operational capacity can support the work.
+
+You might consider the following questions:
+
+Do we need to hire personnel with niche skills?Do existing team members have the capacity to complete the work?Do we need to purchase any new tools or software?Is now the best time to take on this work, or is there a future date when we’d have more resources?
+
+Do we need to hire personnel with niche skills?
+
+Do existing team members have the capacity to complete the work?
+
+Do we need to purchase any new tools or software?
+
+Is now the best time to take on this work, or is there a future date when we’d have more resources?
+
+The CRM-shifting marketing team assesses how quickly and easily they can migrate data into the new program and whether the software demands additional tools or training.
+
+5. Project risks
+
+If a project looks viable this far into your analysis, the outlook is positive. Now run a risk assessment to rule out any catastrophic obstacles.
+
+Consider financial risks, like income projections higher than the market data supports, staffing issues like potentially overtasked personnel, and concurrent work or third-party delays that could negatively impact the project timeline.
+
+The marketing team should consider the time and effort it will take to migrate data and launch the new platform and whether this implies delays in client services.
+
+6. Make a decision
+
+Review your feasibility study with the team to decide whether you’ll nix the project, move forward with adjustments, or confidently forge ahead.
+
+If moving forward with the project, write an executive summary that explains what it is, why it’s feasible, and what the general timeline looks like. Share this summary and the full study with all stakeholders so they can ask questions and proverbially poke holes in the decision to move forward one last time.
+
+The marketing team invites anyone who would use the new CRM to review the feasibility study and confirm the team has made the right decision.
+
+Evaluate the success of your next project with Notion
+
+While project managers might try to envision the future, there’s no guarantee that even the best plans will result in successful outcomes. But performing cautious evaluations helps.
+
+Notion’s templates and guides walk teams through the project planning process. Learn the basics of project management or how to perform a risk assessment to supplement your feasibility analyses. Once you’ve vetted an initiative, write a proposal, and tick off all the boxes on your project management checklist.

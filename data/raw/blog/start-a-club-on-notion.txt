@@ -1,0 +1,61 @@
+Title: Start a club on Notion!
+Published Date: 2024-09-10T09:00-07:00
+URL: https://www.notion.so/blog/start-a-club-on-notion
+
+College students, welcome back to campus. We know you’re probably off doing the usual things—studying, partying, wondering what you’re going to do with your life. That last one might take a minute.
+
+In the meantime, why not explore a few options by starting or joining a club? It’s easy to do with Notion, and completely free for your team to use with our student org discount. Nearly 10,000 clubs on university campuses around the world already use Notion to stay organized. It’s how they’re able to plan their social schedules, run events, and manage complex projects.
+
+We’ve seen all sorts of student orgs get started, from the biggest campus newspapers in the world to an engineering team building and racing electric cars (not a typo). We chatted with two different yet equally impressive student orgs to learn how they stay organized and productive without losing their minds in the process.
+
+App Development Club
+
+Members: 600+Who we are: We focus on teaching students how to develop all types of applications by providing a space for them to learn, grow their skills, and connect with others who share their interests.Coolest way we’ve used Notion: We planned a local hackathon for hundreds of developers in Oregon with a $2,000 prize.
+
+Members: 600+
+
+Who we are: We focus on teaching students how to develop all types of applications by providing a space for them to learn, grow their skills, and connect with others who share their interests.
+
+Coolest way we’ve used Notion: We planned a local hackathon for hundreds of developers in Oregon with a $2,000 prize.
+
+Hey, I’m Tom, but everyone just calls me Nyuma (my last name). I’m the president of the App Development Club at Oregon State, and currently interning at Notion. It’s wild—I’ve been using Notion since my freshman year when COVID hit, and now I’m actually helping to build it.
+
+The App Development Club is a place where students on campus can learn, build, and share projects with other student developers. But honestly, calling us the App Development Club is kinda an understatement. We do a lot more, like build IOT devices and even dabble in robotics. There are over 600 of us, so everyone has their own thing. We've built some pretty amazing things: an AI-powered chat bot where students chat about their classes and an app that allows you to control your computer using hand gestures, for example.
+
+But I’d say what makes our club special is fostering collaboration and passion, and creating a learning environment that you can’t always get in school. It’s a space where everyone can work together and feel comfortable being involved. Plus, unlike many computer science clubs, anyone can join, there’s no experience in app development required.
+
+Why we use Notion
+
+We looked at a lot of tools, like Jira and Confluence. But Notion felt more community-oriented, something where we could actually collaborate.
+
+We use it for everything, from little things like running our random design meetings all the way to writing out our project tech specs. It’s really good at running projects end to end too, which is something we do a lot. It’s got integrations that we use all the time, so we’re able to drop our diagrams and whiteboards into one place. Oh, and we just hosted a huge local hackathon, so we used Notion to plan that too.
+
+So why would I recommend it to other clubs? I think it’s because there’s no “right” way to use it. You can do what you need, how you need to. Our club is all about growing together, not competing, and Notion has been the best place for us to do that.
+
+Formula Electric Club
+
+Members: 100Who we are: We’re a group of curious and ambitious builders. While our work may be extracurricular, it’s an application of what we study and is a great opportunity to gain new life experience and skills outside of the classroom.Coolest way we’ve used Notion: We track the manufacturing process of all parts we need for our electric car builds.
+
+Members: 100
+
+Who we are: We’re a group of curious and ambitious builders. While our work may be extracurricular, it’s an application of what we study and is a great opportunity to gain new life experience and skills outside of the classroom.
+
+Coolest way we’ve used Notion: We track the manufacturing process of all parts we need for our electric car builds.
+
+Hi! I’m Taras, a fourth-year engineering student at the University of Waterloo, and I’m part of Waterloo Formula Electric.
+
+Every year, we design, build, test, and race a fully electric, open-wheeled race car. We’ve been competing in international competitions for about 40 years now—we compete four or five times a season, facing teams from all over the world.
+
+Our team has anywhere from 80 to 100 members a season. But what’s really cool about UWFE is that we cover all aspects of engineering the cars—mechanical work with the chassis and suspension, electrical systems, high voltage stuff with our battery pack and inverter, aerodynamics with fluid simulations, thermal analysis... pretty much everything. Plus, there’s the whole project management and business side, so we really have to build and manage the product from the ground up ourselves.
+
+Why we use Notion
+
+We used to use Confluence and Jira, but they were a pain to manage since our team is large and constantly changing. Notion makes it super easy to add new members and keep everything in one place.
+
+We use Notion for all our technical documentation, project management, and timelines. It’s crucial for tracking our manufacturing process—things like sourcing materials for our chassis can take months, so we need a solid system to keep everything on track. We also use the search tool a ton since we have years of documentation from previous builds. Being able to quickly find old design decisions or spreadsheets really helps us avoid repeating past mistakes and keeps our knowledge base growing.
+
+For me, being part of this team has been an incredible experience. It’s not just about building a cool car, it’s about learning to work in a large, complex team to solve real engineering challenges.
+
+Get started
+
+As you dive into your own campus adventure this year, remember: a little organization goes a long way. Check out the best templates for student orgs here. Already in a club? We’d love to see what you’ve built in Notion—share your creations with us at @NotionHQ.

@@ -1,0 +1,103 @@
+Title: Introducing Notion AI for Work
+Published Date: 2025-05-13T05:25-07:00
+URL: https://www.notion.so/blog/notion-ai-for-work
+
+The promise of AI is exciting—finally something to vaporize busywork! But three years into an AI world, we still spend countless hours searching for answers, writing updates, and following up on meetings.
+
+The problem is, there are plenty of AI tools out there, but they tend to sit outside your team’s workflow—lacking any context and data—so they’re of limited use. You can pile on AI subscriptions, but the cost and complexity quickly stack up. We’re hearing this loud and clear in our research: “integrating AI” is the number-one business challenge.
+
+That changes now. Notion AI for Work delivers on AI’s promise. It’s an all-in-one AI toolkit built right into your Notion workspace.
+
+Here’s what’s new:
+
+AI Meeting Notes (never take notes again!)Enterprise Search (find answers across all apps!)Research Mode (auto-drafts your docs!)Access to top models (no separate subscription required!)All-in-one pricing (lower costs and complexity!)
+
+AI Meeting Notes (never take notes again!)
+
+Enterprise Search (find answers across all apps!)
+
+Research Mode (auto-drafts your docs!)
+
+Access to top models (no separate subscription required!)
+
+All-in-one pricing (lower costs and complexity!)
+
+These releases bring your team the power and ease of true AI integration. And the fastest-growing companies, like OpenAI, Ramp, Vercel, and Harvey, are already on board.
+
+Perfect meeting memory
+
+Of all the ways AI can help at work, this may be the sleeping giant: meeting notes.
+
+Even with the most dedicated note-taker, most of the decisions, ideas, and insights are lost as soon as the meeting ends. Meeting attendees are stuck splitting their attention between discussion and capture. Action items slip and important context that other teams need down the line gets buried.
+
+With AI Meeting Notes, you have a new trusted note-taker built right into your workspace.
+
+It transcribes any conversation (feel free to talk to it alone 😄), then summarizes and surfaces action items. Since all your meetings are stored in Notion, everything is searchable with AI and connected to your projects.
+
+Drop the new /meeting block into all your meeting templates. Connect to Notion Calendar to add AI Meeting Notes to all your calendar events—never forget to capture notes again.
+
+Evaluating your options?
+
+Check out our handy buyer's guide
+
+One place to search for everything
+
+Work is splintered across a dizzying number of tools. Conversations happen in Slack and Gmail, files are stored in Google Drive, pull requests are tracked in GitHub. Finding what you need means hunting in a forest of apps or waiting hours for a teammate to respond to questions.
+
+With Enterprise Search, there’s no more digging for information. Everything is accessible through a new, fast search experience.
+
+Simply ask for whatever you’re looking for, including open-ended questions: “What’s the latest on our upcoming brand campaign?” Notion AI will search your Notion workspace and connected apps to find the answer you’re looking for. Connectors are released for tools like Slack, Microsoft, Jira, Google Workspace, and GitHub, with Linear, Gmail, Zendesk, Box, and Salesforce coming soon.
+
+Your new research assistant
+
+Let's take a common scenario. You get a request for an update on your team’s project or that all-too-familiar question, “Do we have this documented somewhere?” You know the information lives somewhere, but pulling everything together and polishing it up into a shareable doc will eat up the better part of a day.
+
+Enter Research Mode. It auto-drafts detailed, beautiful docs that are ready to share with your team. It analyzes all of your sources—plus the web—and thinks through the best response. Create project updates, research reports, and internal best practices in minutes with one prompt. We’ve already seen this save days worth of time.
+
+Chat with the top AI models, and much more
+
+We’ve all experienced chatting with frontier models from OpenAI and Anthropic, but it’s another layer of cost and context-switching. That’s why we’ve made chatting with the most powerful AI models inside your workspace easy and bundled in. Anyone can start chatting in a new Home tab that brings Notion AI tools into one space.
+
+We’ve also improved a ton of the foundational building blocks based on your feedback.
+
+New fast and secure file-upload API now availableCan now add rich context to Slack notifications with dynamic content and @mentionsWe’re rolling out Salesforce integrations, legal holds for compliance requirements, and EU data-residency options very soon!
+
+New fast and secure file-upload API now available
+
+Can now add rich context to Slack notifications with dynamic content and @mentions
+
+We’re rolling out Salesforce integrations, legal holds for compliance requirements, and EU data-residency options very soon!
+
+The best all-in-one AI tools, at the best price
+
+Getting the full power of AI can mean paying for separate tools for search, note-taking, writing, chat, translation, and more. That’s in addition to core tools for managing projects, workflows, and company knowledge.
+
+Buying separate tools costs $150–300+ per user each month. With Notion, you can get it all starting at $20 per user per month. And you can try before you buy with a new free trial of the Business plan.
+
+It’s simple, affordable, all-in-one pricing. Learn more about the new plans here.
+
+Your tools should reduce cognitive load and make you more productive. With everything new in Notion AI for Work, you’ll finally have a tool that works for your teams.
+
+Give it try, chat with our team, and check out our on-demand walkthrough to see it live. We’ll keep on working on building the best AI work tools for you!
+
+FAQ
+
+When will my workspace get access to these features?
+
+Research Mode and AI Meeting Notes are already available, and Enterprise Search and AI Connectors are rolling out now. If you don’t see them in your workspace yet, sit tight—they’ll arrive soon.
+
+Can I try these Notion AI features?
+
+Yes! There are several ways to try these new features based on your company, and we’ll be regularly adjust based on new features and feedback. Most users have access to try all Notion AI features (in addition to other features) on paid plans. If you work at a larger company, contact our team and we can work with you on the best ways to try Notion AI.
+
+If your workspace previously purchased a Business or Enterprise plan with the Notion AI add-on, you will have immediate access to all new Notion AI features.
+
+Are there any changes to pricing?
+
+Yes—check out notion.com/pricing for details. Updated pricing goes into effect today for new subscriptions. If you’re an existing customer and your plan has changed price, the change won’t go into effect until your first renewal after August 13, 2025.
+
+We’re excited to help build a future where AI is seen as an essential tool to help everyone do their best work. The new prices for the Business and Enterprise plans reflect not only all-in-one pricing for Notion AI, but also over a dozen new features to help keep your business secure.
+
+Does Notion AI train on my data?
+
+No. By default, neither Notion nor our AI sub-processors train any models on your data. For more information, check out Notion AI Security & Privacy practices →

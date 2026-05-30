@@ -1,0 +1,37 @@
+Title: Explore Over 5,000 Free Templates in Notion's Revamped Gallery
+Published Date: 2023-06-21T00:00-07:00
+URL: https://www.notion.so/blog/new-notion-template-gallery
+
+Notion’s global community is incredibly deep and diverse.
+
+We’ve been consistently amazed by the ways we see the community use Notion, and the people behind these creations. Braelyn helps people with ADHD stay organized. Milo works with teachers to create a better learning environment. Julie Chabin, Head of Design at Product Hunt, helps designers more efficiently review their work. Some folks even quit their jobs and build entire businesses on Notion, like Pascio. There’s a creator and a template for just about anything — journaling, gardening, design, movies, and more. In the past year alone, there have been 51 million template duplications from nearly 11 million people.
+
+But much of this work happens across other websites and on social media, in niche corners all over the internet. We want to make it easier to find the study setups you might see on YouTube, or the personal dashboards you’ve scrolled through on TikTok.
+
+Today, we’re launching a reimagined Template Gallery, giving global creators a place to showcase their work and single place for our community to see what is possible with Notion.
+
+More templates, and better ways to surface what you need
+
+Notion templates exist in many online spaces, like Etsy, Gumroad, Pinterest, and hundreds of personal websites. If you’re looking for a specific template or creator — or you have a template and want to showcase your work — this breadth can make it hard to know where to go.
+
+Our new Template Gallery is the central place to find and share templates.
+
+We’ve expanded from 600 templates to more than 5,000, touching every area of your life and each of Notion’s main product groups: Docs, Wiki, Projects. Included in these are brand new template bundles, built by Notion, bringing together an entire team’s work in one place. For example, our Engineering Team in a Box template allows you to track bugs, do sprint planning, write tech specs, and organize technical documentation, all in a connected workspace.
+
+To improve discoverability, we’re increasing the number of template categories from 21 to 250+. You can also type anything into our new search bar on web and quickly find the template that matches your needs. We’ll highlight templates in our curated template collections around popular use cases — like project management, planning summer trips, and more.
+
+The best templates from your favorite creators and organizations
+
+Behind templates are their creators, who have been a core part of the Notion ecosystem since we first launched (check out these templates that are more than five years old, from Ben Lang, who went on to join Notion and lead our community efforts). By investing in templates, we’re also investing in creators — and we wanted to give creators more ways to interact with the people using their work.
+
+We are introducing Creator profiles, pages in the Template Gallery that unite all a creator’s templates, share information about themselves, and promote their work.
+
+Today, you’ll see over 2,000 Creator profiles, from brands and organizations to entrepreneurs and hobbyists. We’ve partnered with some of the best thought leaders across dozens industries to bring their insights to the Notion Template Gallery.
+
+You can learn how to build a company story with Brie Wolfson or build your product from Lenny Rachitsky. See how First Round Capital creates its content or how Loom handles async communication. You can even learn how to improve productivity (back with scientific research!) from Cajun Koi.
+
+As a further investment in Creators, we’re debuting a new template submission process, making it easier to get your templates in the Gallery. Today, we’re be opening up submissions for creators to submit their templates and claim their Notion handles. You can grab yours here!
+
+Uniting templates, their creators, and a global community
+
+Builders and creators embody the spirit behind Notion. The new Template Gallery hopes to give our community a space to create, build, learn, and share what matters most to them. In turn, this helps millions of people and companies around the world find new, creative ways to accomplish amazing things.

@@ -1,0 +1,83 @@
+Title: Product versus project manager: Responsibilities and skills
+Published Date: 2023-01-12T11:00-06:00
+URL: https://www.notion.so/blog/product-manager-vs-project-manager
+
+A huge part of management is solving puzzles — and not the fun kind you do on a rainy day. Managers at any level need to help their team members solve workplace problems to keep teams operating smoothly.
+
+For product and project managers, the stakes are even higher. These professionals aren’t just managing people, but entire projects, from setting budgets to due dates. Product managers focus on delivering products that a defined target audience will love, while project managers oversee the start-to-finish of many types of projects, regardless of subject matter.
+
+Understanding product versus project manager roles helps managers decide which professional they need to hire, and helps individuals recognize which career they want to pursue.
+
+What’s a product versus a project manager?
+
+A product manager defines and delivers a product that fulfills specific target audience needs, whether that’s a new lipstick or an operating system update. They’ll update features to meet changing desires or outline new products to meet market niches.
+
+A project manager plans, executes, and delivers a project of anymore. The outcome of this project might be a completed product, but it could be a marketing campaign or an update to the company's internal processes. A project manager might oversee the development of a product, but that project will likely also have a product manager. The latter will have a narrower focus, while the former focuses on each team involved.
+
+Comparing product versus project manager salaries, product managers tend to earn slightly more than project managers. This is because product delivery is often higher-stakes, requires deeper technical knowledge, and brings in more revenue than many of the projects a project manager might lead. That said, exact salaries for either role vary greatly depending on the industry, location, and responsibilities.
+
+What does a product manager do?
+
+A product manager defines and delivers a product to market. Some of their responsibilities are to:
+
+Establish product vision — understanding the needs and wants of the target market, which determines why there’s a need for a product. Then the product manager must develop a concept that meets those user needs in a unique and compelling way. For instance, a product manager might have a vision for a new smart home device geared toward homeowners looking for a way to control security, lighting, and temperature. The product manager needs to decide what the product will be and how it will satisfy customers. Develop a strategic marketing plan — product managers use market research about the target audience to plan how to introduce the new product to their customer base.Create a product roadmap — a product roadmap is a high-level plan outlining a product’s features and the steps necessary to launch them. A product manager might create a roadmap detailing the release of a software update for an application, with the project estimated to take 6–12 months.
+
+Establish product vision — understanding the needs and wants of the target market, which determines why there’s a need for a product. Then the product manager must develop a concept that meets those user needs in a unique and compelling way. For instance, a product manager might have a vision for a new smart home device geared toward homeowners looking for a way to control security, lighting, and temperature. The product manager needs to decide what the product will be and how it will satisfy customers.
+
+Develop a strategic marketing plan — product managers use market research about the target audience to plan how to introduce the new product to their customer base.
+
+Create a product roadmap — a product roadmap is a high-level plan outlining a product’s features and the steps necessary to launch them. A product manager might create a roadmap detailing the release of a software update for an application, with the project estimated to take 6–12 months.
+
+Manage cross-functional teams — project teams often include members from various departments like engineering, design, and marketing. A product manager is responsible for managing all these team members to meet deadlines and quality standards. They might work with the development team to test a new feature for a mobile app while coordinating with the marketing team to create a launch plan and promotional materials.Define a PDR — product managers create Product Required Documents (PDRs) that detail the requirements developers or designers must meet in building a new product. The PRD helps product managers request and allocate resources to meet those expectations.
+
+Manage cross-functional teams — project teams often include members from various departments like engineering, design, and marketing. A product manager is responsible for managing all these team members to meet deadlines and quality standards. They might work with the development team to test a new feature for a mobile app while coordinating with the marketing team to create a launch plan and promotional materials.
+
+Define a PDR — product managers create Product Required Documents (PDRs) that detail the requirements developers or designers must meet in building a new product. The PRD helps product managers request and allocate resources to meet those expectations.
+
+What does a project manager do?
+
+When comparing the product specialist versus project manager descriptions, the biggest difference is that project managers focus more on logistics. Some of their responsibilities are to:
+
+Plan project timelines and ensure they’re met — project timelines outline the tasks and milestones needed to complete a project. Project managers create a Gantt chart or team dashboard to track progress. They break down milestones into smaller steps and assign them appropriately, then keep tabs on each team as the project continues. Monitor several teams — projects often require cross-team collaboration and need a central figure to ensure that every team stays on track. Project management tools like Notion can outline expectations for each team in order to help project managers monitor the bigger picture.
+
+Plan project timelines and ensure they’re met — project timelines outline the tasks and milestones needed to complete a project. Project managers create a Gantt chart or team dashboard to track progress. They break down milestones into smaller steps and assign them appropriately, then keep tabs on each team as the project continues.
+
+Monitor several teams — projects often require cross-team collaboration and need a central figure to ensure that every team stays on track. Project management tools like Notion can outline expectations for each team in order to help project managers monitor the bigger picture.
+
+Manage resources — a project manager outlines and manages the resources needed to complete a project, including budget, personnel, and equipment. That means they work with the finance team to create a budget, human resources to identify and hire necessary personnel, vendors to allocate external resources, and more.
+
+Manage resources — a project manager outlines and manages the resources needed to complete a project, including budget, personnel, and equipment. That means they work with the finance team to create a budget, human resources to identify and hire necessary personnel, vendors to allocate external resources, and more.
+
+What skills are needed for each position?
+
+Here are some of the skills needed to excel in each role.
+
+Product management skills
+
+To be a successful product manager, you need to understand your target audience and how to deliver products that meet their needs. Some useful skills for tackling these responsibilities include:
+
+Data analysis — product managers need strong analytical skills to make informed decisions about products. This involves analyzing market data to understand customer needs and identify opportunities for innovation. It also includes evaluating a product’s performance to identify areas for improvement. Market assessment — product managers need to be comfortable conducting market research to gather insights into customer needs and keep up with industry trends.Basic user experience (UX) knowledge — having some UX knowledge helps product managers create enjoyable and intuitive experiences for their target market. Continuously gathering customer feedback and incorporating it into the product development process ensures they’re meeting their target market’s needs. These individuals may conduct their own research or collaborate with UX designers to determine best practices.
+
+Data analysis — product managers need strong analytical skills to make informed decisions about products. This involves analyzing market data to understand customer needs and identify opportunities for innovation. It also includes evaluating a product’s performance to identify areas for improvement.
+
+Market assessment — product managers need to be comfortable conducting market research to gather insights into customer needs and keep up with industry trends.
+
+Basic user experience (UX) knowledge — having some UX knowledge helps product managers create enjoyable and intuitive experiences for their target market. Continuously gathering customer feedback and incorporating it into the product development process ensures they’re meeting their target market’s needs. These individuals may conduct their own research or collaborate with UX designers to determine best practices.
+
+Project management skills
+
+To be a successful project manager, you must plan, execute, and deliver projects on time and within budget. Some key skills for excelling at this include:
+
+Risk management — project managers need to identify and mitigate potential risks that could impact a project’s success. This involves creating contingency plans, noting potential roadblocks, and working across teams to find creative solutions.Knowledge of project management tools — project managers must be proficient in using project management tools to plan, track, and monitor progress. This involves using project management platforms like Notion to create project plans and put everything relevant to a project in one place.Knowledge of project management approaches — project managers should be familiar with various approaches to project management (examples include Scrum, Agile, and Waterfall), and know how to choose what’s most appropriate for the project at hand. For example, a project manager could use an Agile approach for a software development project that requires frequent changes and updates, but choose the Waterfall approach for a construction project with well-defined deliverables and processes.
+
+Risk management — project managers need to identify and mitigate potential risks that could impact a project’s success. This involves creating contingency plans, noting potential roadblocks, and working across teams to find creative solutions.
+
+Knowledge of project management tools — project managers must be proficient in using project management tools to plan, track, and monitor progress. This involves using project management platforms like Notion to create project plans and put everything relevant to a project in one place.
+
+Knowledge of project management approaches — project managers should be familiar with various approaches to project management (examples include Scrum, Agile, and Waterfall), and know how to choose what’s most appropriate for the project at hand. For example, a project manager could use an Agile approach for a software development project that requires frequent changes and updates, but choose the Waterfall approach for a construction project with well-defined deliverables and processes.
+
+Resources for both positions
+
+Both product and project managers oversee complicated business objectives and dedicate themselves to delivering products or completing projects—but each role is vital to a company’s success.
+
+No matter which position interests you, we offer resources to help you tackle your responsibilities. Check out our templates for developing and launching an app, setting a project schedule, and conducting a project post-mortem.

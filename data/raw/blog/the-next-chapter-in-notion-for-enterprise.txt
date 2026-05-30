@@ -1,0 +1,45 @@
+Title: Introducing the new Notion for enterprise
+Published Date: 2023-10-18T09:00-07:00
+URL: https://www.notion.so/blog/the-next-chapter-in-notion-for-enterprise
+
+For years, Notion has been a tool that companies choose to connect all their work and knowledge — millions of employees use Notion every day to plan, collaborate, and execute on work. But building an enterprise-ready product takes time, so we spent the last year focused on making sure that Notion checks all the boxes.
+
+Today, we’d like to introduce you to the most complete enterprise version of Notion. We’ve made it easier than ever to adopt Notion with more admin, security, and compliance capabilities. We’ve also added 20+ enterprise features in the past several months so admins can trust that Notion has them covered.
+
+Our goal is to build the modern productivity platform that enterprises love and trust. Our work isn’t over, but we’re thrilled to share this major milestone with you.
+
+Enterprise-grade security & compliance controls
+
+Notion is a hub for knowledge, everything from new product launch details to company strategies and policies. But that knowledge needs to stay safe inside your workspace. We know the importance of enterprise-grade security and compliance to protect that information as adoption of Notion grows within an organization, so we’re excited to share what’s new.
+
+Managed users dashboard & controls
+
+The new managed users dashboard gives workspace owners visibility into each employee with their registered domain. And with new user controls, admins can manage things like employee information, external workspace access, session duration, passwords, and account suspension or deletion for every employee registered with their company domain.
+
+DLP & SIEM integrations
+
+Our new integrations with leading Security Information and Event Management (SIEM) and Data Loss Prevention (DLP) solutions help you confidently store your data in Notion.
+
+We’re partnering with Datadog, Panther, Splunk, and Sumo Logic to help you centralize your Notion audit logs with the rest of your SaaS apps to help identify and respond to any suspicious activity in your workspace. Additionally, we’ve partnered with Nightfall AI and Polymer to help you set policies to detect sensitive content in your workspace and trigger notifications or automated actions to remediate.
+
+For more information about these integrations, check out our latest security & compliance guide here. If your preferred SIEM or DLP solution is not yet listed in this initial list, please fill the integration request form to share your interest.
+
+Organizational level controls [Coming soon]
+
+Over the next few months, we’re revamping our Admin console into a new full page experience to better support our growing list of admin features in our toolkit.
+
+There will also be a new organization layer that will act as the container for all the workspaces that belong to your company. It will be easier than ever to manage security, maintain compliance, and monitor user and workspace activity across the entire organization.
+
+A complete enterprise tool
+
+These additions are just a few of the many enterprise-ready features that our team has recently launched. Just look at the difference a year can make.
+
+Based on customer feedback, one of our main focus areas has been making Notion easier to implement and scale.  So we added new and improved integrations that make it easier to connect Notion with other tools in your tool stack. And the latest additions and upgrades to our importers — like the new Universal Importer — make migrating your existing information into Notion more seamless than ever.
+
+Our commitment to making your Notion workspace a secure and private environment extends to Notion AI as well. When you and your teammates use features that are powered or enhanced by AI, you can confidently know that your data is not used to train any AI models. And Notion AI honors existing permissions, so it never references information that a user doesn’t have access to.
+
+Securely implement and scale with Notion
+
+The new Enterprise experience on Notion gives workspace owners the visibility and control they need to manage all their employees’ information and checks all their security and compliance needs. And new change management features make it easier to implement and scale Notion with your growing company.
+
+To get in touch with our team about upgrading to our enterprise plan, please contact our team here.

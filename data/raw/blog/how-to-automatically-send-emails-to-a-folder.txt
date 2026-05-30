@@ -1,0 +1,359 @@
+Title: How to automatically send emails to a folder in Outlook
+Published Date: 2025-01-01T00:00-07:00
+URL: https://www.notion.so/blog/how-to-automatically-send-emails-to-a-folder
+
+Tired of wasting time manually sorting your emails? With the right setup, Outlook can do the work for you. Once you learn how to automatically send emails to a folder, Outlook will send emails to your desired folders without you having to lift a finger.
+
+In this step-by-step guide, we’ll show you how to:
+
+Set up rules to route emails to designated foldersCreate folders and categories to manage emails more efficientlyAutomate your inbox so you can focus on work instead of email management
+
+Set up rules to route emails to designated folders
+
+Create folders and categories to manage emails more efficiently
+
+Automate your inbox so you can focus on work instead of email management
+
+Can Outlook automatically sort emails into folders?
+
+Yes, Outlook can automate sorting emails into folders with its built-in feature called rules. This feature is designed to simplify and streamline managing your Outlook inbox. It can be super helpful if you have a high volume of emails you need to organize daily or if you simply want to keep your primary inbox clutter-free.
+
+What are Outlook rules, and how do they work?
+
+Outlook rules are automated instructions for managing incoming or outgoing emails. All you need to do is set specific conditions, and when an email matches that criteria, Outlook will detect it and automatically perform the action you’ve defined.
+
+With Outlook rules, you can automate a decent chunk of tedious tasks, including:
+
+Highlighting emails with a specific keywordDeleting or archiving emailsFlagging emails from important sendersAutomatically assigning categories for a specific keywordSetting up custom alertsForwarding emails to target recipientsSending emails to folders
+
+Highlighting emails with a specific keyword
+
+Deleting or archiving emails
+
+Flagging emails from important senders
+
+Automatically assigning categories for a specific keyword
+
+Setting up custom alerts
+
+Forwarding emails to target recipients
+
+Sending emails to folders
+
+To set a rule, you need to specify three things:
+
+Name (description)Condition (what triggers it)Action (what it does)
+
+Name (description)
+
+Condition (what triggers it)
+
+Action (what it does)
+
+You can also add exceptions to conditions to skip certain emails. To do so, you should select options Add a condition, Add an action, or Add an exception.
+
+Outlook also provides a range of templates to create or change rules. You can access and edit them according to your needs by taking these steps:
+
+Select FileClick Manage rules and alertsChoose New RulesEdit the rule description that’s underlined in blue to meet your criteriaHit NextChoose conditions and exceptionsName your ruleSelect Finish
+
+Select File
+
+Click Manage rules and alerts
+
+Choose New Rules
+
+Edit the rule description that’s underlined in blue to meet your criteria
+
+Hit Next
+
+Choose conditions and exceptions
+
+Name your rule
+
+Select Finish
+
+Bear in mind that the templates are only available in the classic version of Outlook for Windows.
+
+Bonus read: Learn the difference between Office 365 and Outlook in our in-depth guide.
+
+How to automatically move emails to a folder in Outlook
+
+As mentioned earlier, one of the most useful ways to leverage Outlook rules is by automatically sending your incoming emails to specific folders. For example, you could create a rule that routes messages from your boss and coworkers directly to your Work folder. Setting up a rule takes just a minute, and it saves you the time you’d otherwise spend manually sorting your inbox.
+
+Note: Outlook doesn’t let you create rules from your iOS or Android app. To set them up, you’ll need to use your computer or open Outlook on the web.
+
+1. How to automatically send emails to a folder in Outlook for Windows
+
+To exemplify setting up a rule for organizing your incoming emails, we’ll cover how to send all emails from one sender to a folder in Outlook on a computer. The steps are:
+
+Log in to your Outlook accountOpen the email from a sender you want to create the rule forRight-click on the emailHover over Rules and select Create ruleChoose the folder (or create a new one)Click on OK
+
+Log in to your Outlook account
+
+Open the email from a sender you want to create the rule for
+
+Right-click on the email
+
+Hover over Rules and select Create rule
+
+Choose the folder (or create a new one)
+
+Click on OK
+
+Another option is to create more advanced rules or direct emails from multiple senders to a certain folder. In that case, follow these steps:
+
+Open the email from the sender that will be included in the conditionRight-click on the emailHover over Rules and select Create ruleClick More optionsName your ruleAdd the conditions, actions, and exceptions(Optional) Check Stop processing more rules if you don’t want Outlook to apply other rules to that email(Optional) Check the Run rule now to apply the condition to the existing messageClick Save
+
+Open the email from the sender that will be included in the condition
+
+Right-click on the email
+
+Hover over Rules and select Create rule
+
+Click More options
+
+Name your rule
+
+Add the conditions, actions, and exceptions
+
+(Optional) Check Stop processing more rules if you don’t want Outlook to apply other rules to that email
+
+(Optional) Check the Run rule now to apply the condition to the existing message
+
+Click Save
+
+2. How to automatically send emails to a folder in Outlook on the web
+
+To move the emails from the sender to a folder in Outlook.com, follow the same steps you’d use on a desktop. If you’re looking to create more advanced rules to automatically move emails to a folder in Outlook, do the following:
+
+Select SettingsChoose Mail and then RulesClick Add new ruleName your rule, and then choose a condition and action(Optional) Select Add a condition or Add an action to set multiple conditions and actions(Optional) Click Add exceptions and choose the ones you want to apply from the menuPress Save
+
+Select Settings
+
+Choose Mail and then Rules
+
+Click Add new rule
+
+Name your rule, and then choose a condition and action
+
+(Optional) Select Add a condition or Add an action to set multiple conditions and actions
+
+(Optional) Click Add exceptions and choose the ones you want to apply from the menu
+
+Press Save
+
+If you want to take your email organization to the next level, you’ll need to think beyond setting Outlook rules.
+
+More ways to organize your Outlook inbox like a pro
+
+In addition to rules, Outlook offers several built-in features that can help you sort and organize your emails more efficiently. We’ll walk you through five simple, but powerful methods that can drastically improve how you manage your inbox:
+
+Create custom folders Organize emails with categoriesUse Outlook’s Focused InboxFlag important emailsAutomate repetitive tasks with Quick steps
+
+Create custom folders
+
+Organize emails with categories
+
+Use Outlook’s Focused Inbox
+
+Flag important emails
+
+Automate repetitive tasks with Quick steps
+
+1. Create custom folders
+
+With folders, you can group and organize your emails according to topics to quickly find and reference your messages, which eases the pressure of managing multiple inboxes.
+
+While Outlook comes with a couple of default folders like Archived and Notes, you can create your own to organize your emails based on your needs. To create folders, take these steps:
+
+Head to the left-hand menu from the main inbox and find FoldersSelect Create newName the folder and click Save
+
+Head to the left-hand menu from the main inbox and find Folders
+
+Select Create new
+
+Name the folder and click Save
+
+If you’d like to break things down further, you can create sub-folders within existing folders. Here are a couple of examples of how you can organize your emails with this feature:
+
+FolderSub-foldersProjectsPlanningIn progressCompletedArchivedClientsSun Tech LabsBluewave AgencyHighPeak SolutionsNewslettersBusinessProduct updatesIndustry news
+
+Folder
+
+Sub-folders
+
+Projects
+
+Planning
+
+In progress
+
+Completed
+
+Archived
+
+Clients
+
+Sun Tech Labs
+
+Bluewave Agency
+
+HighPeak Solutions
+
+Newsletters
+
+Business
+
+Product updates
+
+Industry news
+
+You can create as many folders and sub-folders as you want, and once you’ve done that, you can use Outlook rules to sort the incoming emails automatically.
+
+Besides using rules to move existing emails to folders, you can also move them manually. This may be the case if some emails don’t fit any rule or if you want to organize a few specific messages. To do this, follow these steps:
+
+Click on the emailSelect the Move to optionChoose the folder you want to move the email to
+
+Click on the email
+
+Select the Move to option
+
+Choose the folder you want to move the email to
+
+Bonus read: If you’re also using Gmail, check out our guide on Gmail folders vs. labels to understand how these tools work.
+
+2. Organize emails with categories
+
+Another way to organize your Outlook inbox is to use categories. They can complement the folders well by adding color-coded labels to your emails that help you filter through messages later.
+
+The difference between categories and folders is that they don’t move emails out of your inbox like folders do. You can also add multiple categories to a single email if it relates to more areas—and here’s how:
+
+Click on the email you want to categorizeSelect the tag iconChoose Manage categoriesClick Create category to add your own or edit the existing ones
+
+Click on the email you want to categorize
+
+Select the tag icon
+
+Choose Manage categories
+
+Click Create category to add your own or edit the existing ones
+
+Bonus read: Want to learn how this feature works on Gmail? Find out how in this guide.
+
+3. Use Outlook’s Focused Inbox
+
+Outlook’s Focused Inbox can separate the most important emails from the less relevant ones. This can be a helpful feature if you don’t want to overlook key emails because of a cluttered inbox or too many promotional emails.
+
+If you’d like to activate the Focused Inbox, do this:
+
+Select the settings icon at the top rightChoose LayoutClick Sort messages into Focused and OtherSelect Save
+
+Select the settings icon at the top right
+
+Choose Layout
+
+Click Sort messages into Focused and Other
+
+Select Save
+
+After that, Outlook will automatically sort emails into Focused and Other depending on how it assesses their priority. The only issue is that it might route an important email to the Other folder. If that happens, move it to the Focused Inbox manually.
+
+4. Flag important emails
+
+If you receive a large influx of emails, Outlook flags can help you keep track of those that need your attention. Whether you want to revise the message again or send a reply, Outlook will highlight it and add it to the Microsoft To Do app.
+
+To flag an email, just click the flag icon next to it. You can also set up a follow-up reminder by right-clicking the flag and selecting a follow-up time.
+
+5. Automate repetitive tasks with Quick steps
+
+Quick steps are shortcuts that let you automate common email activities. They can be helpful with repetitive tasks, such as:
+
+Moving emails to a folderReplying with a pre-written templateMarking email as readForwarding emails
+
+Moving emails to a folder
+
+Replying with a pre-written template
+
+Marking email as read
+
+Forwarding emails
+
+Even though Quick steps aren’t the most advanced solution and can’t handle complex workflows, they can cover some basic tasks. Here’s how you can set up your own:
+
+Select MailIn the Home tab, choose Quick stepsSelect Manage quick stepsChoose New quick stepUnder Choose an action, add the action(s) you want it to take(Optional) To set a keyboard shortcut, select the one you want from the Choose a shortcut boxClick Save
+
+Select Mail
+
+In the Home tab, choose Quick steps
+
+Select Manage quick steps
+
+Choose New quick step
+
+Under Choose an action, add the action(s) you want it to take
+
+(Optional) To set a keyboard shortcut, select the one you want from the Choose a shortcut box
+
+Click Save
+
+Move beyond Outlook’s basic organization feature
+
+Outlook might have a decent number of organization features, but a common complaint is that it’s not as intuitive as its major competitor, Gmail. It also lacks more advanced, AI-driven tools that can take your email management to the next level.
+
+If you’re looking to maximize productivity, you might want to consider transitioning to Gmail and combining it with an email client that can automate the majority of the workload with cutting-edge functionalities.
+
+AI-powered email clients like Notion Mail can handle sorting, labeling, and prioritizing with laser precision, so you won’t need to worry about emails landing in the wrong folder. It can also fill the gaps where features like Quick steps fall short, thanks to intuitive automation.
+
+Let Notion Mail auto-manage your inbox for you
+
+Notion Mail is an AI-native email management solution that can automate most of the mundane email tasks and keep your inbox impeccably organized.
+
+With Notion Mail’s built-in AI features, you can save time, reduce inbox clutter, and streamline your email responses. Here are some of its most prominent features:
+
+FeatureWhat it doesAI autopilotUses AI to label and categorize emails based on your priorities Customizable views (inbox within an inbox)Creates customizable views based on the project, sender, or other criteria so you only see what’s relevant to youSmart response suggestionsSuggests AI-powered contextual responses to your emails to speed up composing emailsAuto-repliesAutomates scheduling and replying to emailsEmail summariesGives you an overview of long emails so you can grasp the key points without reading the entire messageAI schedulingIntegrates with Notion Calendar and allows you to schedule meetings straight from your inbox using the /schedule command
+
+Feature
+
+What it does
+
+AI autopilot
+
+Uses AI to label and categorize emails based on your priorities
+
+Customizable views (inbox within an inbox)
+
+Creates customizable views based on the project, sender, or other criteria so you only see what’s relevant to you
+
+Smart response suggestions
+
+Suggests AI-powered contextual responses to your emails to speed up composing emails
+
+Auto-replies
+
+Automates scheduling and replying to emails
+
+Email summaries
+
+Gives you an overview of long emails so you can grasp the key points without reading the entire message
+
+AI scheduling
+
+Integrates with Notion Calendar and allows you to schedule meetings straight from your inbox using the /schedule command
+
+How to get started with Notion Mail
+
+You can use Notion Mail for free once you sign up using your Google or Gmail account. The core AI features come with the free plan, but if you want to explore more advanced options, sign up for the Notion AI add-on.
+
+Keep reading: Check out these Outlook guides and comparisons:
+
+Android Outlook alternativeApple Mail vs. OutlookGoogle Workspace and Gmail vs. Office 365 and OutlookGmail vs. Outlook for businessHow to remove an Outlook account from your iPhone
+
+Android Outlook alternative
+
+Apple Mail vs. Outlook
+
+Google Workspace and Gmail vs. Office 365 and Outlook
+
+Gmail vs. Outlook for business
+
+How to remove an Outlook account from your iPhone

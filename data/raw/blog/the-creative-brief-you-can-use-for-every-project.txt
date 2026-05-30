@@ -1,0 +1,169 @@
+Title: Creative briefs you can use for every project
+Published Date: 2021-02-25T00:00-08:00
+URL: https://www.notion.so/blog/the-creative-brief-you-can-use-for-every-project
+
+A good creative brief is the foundation every project needs.
+
+Everyone involved — from agency to internal team — can turn to your creative brief with any questions about what you're making together. Who's responsible for what? When's it due? How much will it cost? A robust brief will have the answers, like a cheatsheet for a test.
+
+Usually, creative briefs are thought to be the stuff of only marketing or design teams. But we'll show you how they can be an indispensable resource for any type of team or project.
+
+What's a creative brief? And why do you need one?
+
+Many projects are cross-functional — they require collaboration from several teams to get over the finish line.
+
+Redesigning your website's homepage needs code from engineering, layout from design, text from a copywriter. If you work at an agency and you're kicking off an ad campaign with a client, you'll need brand guidelines and budget and goals.
+
+Your creative brief outlines all expectations and requirements for a project.
+
+By scoping a project in one place, it aligns all the teams pitching in to complete it. Without a creative brief, your already-moving train might veer off the tracks without you knowing it.
+
+Centralizing creative needs and project logistics allows contributing teams to operate more efficiently and leads to a better end product — there's zero confusion about what everyone's working toward.
+
+Often, creative briefs are written by project managers (especially at agencies). However, when working in-house, this role may alternate. Design-led projects require briefs from designers, marketing campaigns from marketers, etc.
+
+Once drafted, the brief writer will huddle stakeholders or teams in a kickoff meeting to cement the game plan.
+
+Where most creative briefs fail
+
+Usually, it's how they're composed. Shortcomings are rooted in format.
+
+Consider the tool you're using to write your creative brief. Does it unite cross-functional teams? Does it house all your assets? Is it malleable to your needs? Find the right software that fosters collaboration, keeps everyone updated, and works for every project — taking it from starting point to launch seamlessly.
+
+Too often, creative briefs:
+
+Are too static — despite how concrete you try to make the brief, changes likely arise. It's important you're working with a tool that makes it easy to update everyone of these changes. Emails end up in spam. Slack messages get missed. Find the right software that adapts to the changing needs of your project and keeps everyone in the loop so work isn't done incorrectly.Don't allow for collaboration — you'll likely have many teams contributing to the brief, so they need software that'll centralize all the project's different elements. Copy from marketing. Images for design. Budget from finance. The more interactive your brief, the more useful it'll be to everyone on the project.Can't be customized — every project requires unique goals, assets, scope and more. Think about the number of projects your agency or team takes on a quarter. You'll want to find a template that acts as the foundation for all your briefs (so you establish a standard) but can easily be tailored to any project you're tackling.
+
+Are too static — despite how concrete you try to make the brief, changes likely arise. It's important you're working with a tool that makes it easy to update everyone of these changes. Emails end up in spam. Slack messages get missed. Find the right software that adapts to the changing needs of your project and keeps everyone in the loop so work isn't done incorrectly.
+
+Don't allow for collaboration — you'll likely have many teams contributing to the brief, so they need software that'll centralize all the project's different elements. Copy from marketing. Images for design. Budget from finance. The more interactive your brief, the more useful it'll be to everyone on the project.
+
+Can't be customized — every project requires unique goals, assets, scope and more. Think about the number of projects your agency or team takes on a quarter. You'll want to find a template that acts as the foundation for all your briefs (so you establish a standard) but can easily be tailored to any project you're tackling.
+
+Here's a creative brief template you can customize to be your every-time-we-do-something-we-use-this creative brief.
+
+How to write a creative brief (with examples)
+
+Breaking down the most important elements of a great creative brief and providing examples for how to write one.
+
+1. Project goal(s)
+
+It's best to have goals at the top of your brief, acting as the North Star that guides everyone toward what the project should accomplish. Write clear objectives with measurable, defined metrics. Have one main goal to keep everyone tightly aligned.
+
+Bad goals: Launch our new sneaker.Good goals: Launch Atalanta, our newest running sneaker on February 27, 2020 to elevate our brand in the marathon-running space. Sell out of our first 50,000 pairs on launch day. Get 5 stories in top tier sports press on launch day, and an additional 10 stories over a 30-day period.
+
+Bad goals: Launch our new sneaker.
+
+Good goals: Launch Atalanta, our newest running sneaker on February 27, 2020 to elevate our brand in the marathon-running space. Sell out of our first 50,000 pairs on launch day. Get 5 stories in top tier sports press on launch day, and an additional 10 stories over a 30-day period.
+
+Every project, big our small, has a goal — and they should pack a punch in their assertiveness. Don't leave any room for your goals to be interpreted, ensuring everyone's on the same page from the brief's opening section.
+
+2. Problem statement
+
+This helps put the project in a larger context. Outlining the problem illustrates the value your project is providing — why you prioritized it, why you need to launch at a certain date, why your work is important.
+
+Bad problem statement: We haven't released a shoe in a while, so we need to stay relevant in the market.Good problem statement: The $70B sneaker market is largely dominated by a few brands. We're falling behind. And we need to be innovative, bringing top-end performance to marathon runners who are looking for a competitive advantage down to the millisecond. To win, our product — and our story — needs to stand out in a crowded marketplace.
+
+Bad problem statement: We haven't released a shoe in a while, so we need to stay relevant in the market.
+
+Good problem statement: The $70B sneaker market is largely dominated by a few brands. We're falling behind. And we need to be innovative, bringing top-end performance to marathon runners who are looking for a competitive advantage down to the millisecond. To win, our product — and our story — needs to stand out in a crowded marketplace.
+
+3. Project summary
+
+This is essentially the solution to the problem statement. Your project summary should be just that — a couple sentences to give anyone who reads this a clear idea of what you are trying to accomplish.
+
+Because many projects are cross-functional, people across teams will likely need to understand the project from a high level. This helps anyone who's brought into the fold get a quick download of what to expect from the work at hand.
+
+Bad project summary: Several teams will coordinate the launch of our newest sneaker for marathon runners.Good project summary: Atalanta is our newest running sneaker launching this marathon season — its technology will set us apart in the market. We need to tell the story of its technology and development. Marketing and PR will coordinate a splashy launch in physical and digital formats, partnering with marathoners, garnering reviews, running ads, and getting stories in sports-focused press outlets.
+
+Bad project summary: Several teams will coordinate the launch of our newest sneaker for marathon runners.
+
+Good project summary: Atalanta is our newest running sneaker launching this marathon season — its technology will set us apart in the market. We need to tell the story of its technology and development. Marketing and PR will coordinate a splashy launch in physical and digital formats, partnering with marathoners, garnering reviews, running ads, and getting stories in sports-focused press outlets.
+
+4. Audience
+
+Always consider the target audience. They're unique to each project — and understanding their needs and perspective down to the smallest detail sharpens your key message and puts your work into perspective.
+
+This is especially true for creative projects, as graphic design or copy elements should speak directly to your target buyer, user, or reader. In product design and engineering, new features should be opinionated about how they provide utility to an audience that really matters to you. You might have user personas or demographic info to work with. If you do, include it here.
+
+Bad project summary: Runners.Good project summary: This high-end shoe is designed for experienced marathon runners. Our typical buyers skew male (age 25 - 44). But since over half of marathon runners are women, designs will appeal to everyone. Marketing will speak to marathon runner demographics, who are usually highly-educated, have a higher-than-average household income, and care deeply about staying in shape.
+
+Bad project summary: Runners.
+
+Good project summary: This high-end shoe is designed for experienced marathon runners. Our typical buyers skew male (age 25 - 44). But since over half of marathon runners are women, designs will appeal to everyone. Marketing will speak to marathon runner demographics, who are usually highly-educated, have a higher-than-average household income, and care deeply about staying in shape.
+
+5. Voice & tone
+
+Integral to framing your creative process — especially if you're at an agency! — voice and tone help maintain a consistent branding. Even for product teams, writing is instrumental to understanding a feature or product. Make sure the way it's messaged to your users falls in line with the tone you want to achieve.
+
+You've probably built some of these style guides before as part of your creative work. Share them here so the creative team has all that background information. But in the brief, keep it simple and stick to a few adjectives.
+
+Good voice & tone guidelines: Our brand is bold, assertive, and inspiring both in our narrative and design elements. Since this launch should have broader appeal, its tone should be softer and more welcoming, while staying true to our brand's confident voice.
+
+Good voice & tone guidelines: Our brand is bold, assertive, and inspiring both in our narrative and design elements. Since this launch should have broader appeal, its tone should be softer and more welcoming, while staying true to our brand's confident voice.
+
+Think about it this way. You know the sound of someone's voice — it doesn't change. But their tone changes, if they're angry or sad or happy. Your brand's voice & tone should work the same way.
+
+6. Deliverables & assets
+
+Now we're into the nuts and bolts section of an effective creative brief.
+
+You'll work across all teams to understand the deliverables of your projects — whether it's engineering milestones, marketing collateral or community team support. These should be as clear and specific as possible, down to the file formats.
+
+Bad deliverables: Several ads, testimonials and press stories.Good deliverables: 3 partnerships with top marathon runners (and social media posts for each one across all networks). 10 digital ad options (500 x 500 pixels each in PNG). 8 print ad options based on our runner partnerships (2668 X 3418 pixels in PNG). 3 testimonials from partners. 10 press interviews with our runner partners or executive team and 5 stories on launch day.
+
+Bad deliverables: Several ads, testimonials and press stories.
+
+Good deliverables: 3 partnerships with top marathon runners (and social media posts for each one across all networks). 10 digital ad options (500 x 500 pixels each in PNG). 8 print ad options based on our runner partnerships (2668 X 3418 pixels in PNG). 3 testimonials from partners. 10 press interviews with our runner partners or executive team and 5 stories on launch day.
+
+Having software that keeps all these deliverables in one place is key. It centralizes relevant information and ensures multiple versions don't float around, confusing stakeholders across teams and wasting time.
+
+7. Timeline
+
+Do your best to lock dates in. It could change — but one thing that shouldn't change is launch date (unless something major happens).
+
+There are several different ways to map out timeline. You can do it by week or month. But most importantly, it should outline every important milestone and due date along the way to launching your project.
+
+Below is an example of how it might look. Using Notion for project management, you can take all the tasks your team is working on and put them in a shared calendar or a timeline. You can take that same collection of tasks and organize them by team, by due date, by week or by month.
+
+In Notion, you can even open that calendar event to see all the work associated with it. Whether it's previous drafts, specific requirements, or feedback from teams — all the project's details are inside that calendar page.
+
+8. Stakeholders
+
+This is the braintrust of your campaign or project.
+
+Because you're likely working with several teams on its execution, this isn't just helpful for the stakeholders themselves. It's helpful for everyone involved — so if your marketing team has a question for the design team, they know who to ask (instead of tapping different designers to find the answer).
+
+Having one point person represent each team creates less back-and-forth, and less of an opportunity for confusion or misinformation.
+
+9. Budget
+
+This one is pretty self-explanatory: how much money are you spending on this project? Outline it here so everyone's aligned. Of course, when projects change, budgets likely change. You can give a budget range, accounting for some wiggle room — or set non-negotiables that don't have any wiggle room.
+
+You can also pass this creative brief along to any executives or finance teams responsible for budgeting and ask them to weigh in. Make this a single line — and make sure everyone's OK with the final number.
+
+10. Present
+
+It's crucial that briefs are shared with your team, internally or externally. Even though in-house teams will need to share a brief to collaborate on it, this is especially true for those working at an agency.
+
+Sharing your brief gives clients the ability to comment, edit and provide feedback on your project scope. In Notion, you can set permissions on specific pages, giving the right people access to either edit directly, give comments, or simply read the brief.
+
+Before the brief is ready to guide your project, this final step gives all the necessary parties the opportunity to approve it.
+
+Creative brief template
+
+In Notion, we have a creative brief template you can use for every project. You can:
+
+Duplicate it with ease for every project — by using a consistent creative brief template, you're establishing a standard for how projects should be done.Edit the template with new information — if you learn something from a project, you can put it right in your template for every project moving forward. This keeps your team learning and evolving, instead of staying static in project execution.Customize it to every project — different headers, tagging certain teammates, specific assets, custom tables or calendars. Every project has a unique set of needs, so your creative brief template should be molded to them.Work and project management in one place — with embeds, you can include images, videos, PDFs, Figma drafts, and more right in your brief. That way, it lives alongside all the important dates and project information so you don't have to jump between tools and tabs.Collaborate with team members — tag people, leave comments on specific sections, and have discussions right in your creative brief. This way, you have a record of decisions and why they were made.
+
+Duplicate it with ease for every project — by using a consistent creative brief template, you're establishing a standard for how projects should be done.
+
+Edit the template with new information — if you learn something from a project, you can put it right in your template for every project moving forward. This keeps your team learning and evolving, instead of staying static in project execution.
+
+Customize it to every project — different headers, tagging certain teammates, specific assets, custom tables or calendars. Every project has a unique set of needs, so your creative brief template should be molded to them.
+
+Work and project management in one place — with embeds, you can include images, videos, PDFs, Figma drafts, and more right in your brief. That way, it lives alongside all the important dates and project information so you don't have to jump between tools and tabs.
+
+Collaborate with team members — tag people, leave comments on specific sections, and have discussions right in your creative brief. This way, you have a record of decisions and why they were made.
+
+Download it here.

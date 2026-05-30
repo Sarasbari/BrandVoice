@@ -1,0 +1,85 @@
+Title: Benefits and best practices for capacity planning
+Published Date: 2023-05-01T00:00-06:00
+URL: https://www.notion.so/blog/capacity-planning
+
+Too much product and too little product can both spell disaster.
+
+Not convinced? Here’s an example.
+
+Let’s say a company’s product is in high demand, so it starts producing more. But that demand drops in a short amount of time, and excess inventory starts to pile up, occupying valuable storage space and using more resources than it needs to. Eventually, the company has to reduce the price to get rid of the excess, leading to lower profit margins and potential losses.
+
+But now it’s the holiday season, and demand is high again, which the company didn’t anticipate. It doesn’t produce enough products and misses out on opportunities to generate revenue and satisfy customer demand. Customers turn to competitors to get what they need, and the company loses market share and reputation.
+
+If this was your company, you might think there’s no way to avoid these problems. But capacity planning can help. It won’t give you a concrete overview of what demand will be, but it’ll give you the tools to adjust your capacity as best you can and give customers what they need when they need it.
+
+What’s capacity planning?
+
+Capacity planning is the process of determining how much product you’ll need to produce to meet changing demand. This involves forecasting future market trends, analyzing the production capacity you already have, and developing plans to increase or decrease. With an effective plan, you’ll have the resources to avoid producing too much or too little product.
+
+Capacity management isn’t a one-and-done process. Demand and resources change on a regular basis, so you'll need to assess your capacity weekly, monthly, quarterly, or annually. You can’t account for every potential change, but capacity planning can future-proof your processes and increase efficiency wherever possible.
+
+Some areas you might want to track include team size and responsibilities, manufacturing materials, and production facilities. For example, if you’re launching a website, plan ahead and make sure you have enough people for upkeep and the right software and equipment to get the job done.
+
+Capacity planning ties into other areas of project management, including:
+
+Resource management — identifying and acquiring available resources to meet project goalsTime management — creating project timelines and calendars to complete tasks on scheduleTeam management — organizing and managing project teams so they run smoothly without getting overwhelmedWork management — managing day-to-day project activities so things get done on time and within budget
+
+Resource management — identifying and acquiring available resources to meet project goals
+
+Time management — creating project timelines and calendars to complete tasks on schedule
+
+Team management — organizing and managing project teams so they run smoothly without getting overwhelmed
+
+Work management — managing day-to-day project activities so things get done on time and within budget
+
+Capacity versus resource planning
+
+Together, capacity planning and resource planning help you meet product requirements while using resources efficiently. But capacity planning is broader and includes more factors, while resource planning focuses on resources alone.
+
+Capacity prep focuses on supply and demand. Resource capacity planning factors in what your supply actually looks like, identifying, acquiring, and allocating the assets you need for a project. That way, you have a strategy to make sure resources are available when you need them, and you’re not scrambling to hire a new team member or order more supplies at the last minute.
+
+5 different types of capacity planning
+
+Different businesses have different processes, and one type of capacity planning probably won’t cover everything you need. Try using a combination of a few different types to plan every aspect of your process. These five types of capacity planning are the most common:
+
+Product — examine whether your stock meets customer needs by conducting a demand analysis. Take a look at historical data and research the current market to ballpark how much you’ll need. Production — dig into your production capacity numbers to ensure you can make enough products to meet market demand. Look into your workforce, facilities, and whatever elements of production might need to change. Workforce — determine the type and number of employees you’ll need in order to meet production demand. Analyze your current team’s capacity and skill set, identify any gaps, and hire or allocate employees as needed.Tools — not only do you need the right number of employees to keep your operation running, but you also need to ensure you’ve got the right tools and equipment. Make a plan to acquire production tools based on changes in production. It’s a good idea to keep excess tools in case demand increases.Facilities — can existing facilities handle your production demand? What about in the long term? Examine your current capacity and scale your facilities up or down based on projections.
+
+Product — examine whether your stock meets customer needs by conducting a demand analysis. Take a look at historical data and research the current market to ballpark how much you’ll need.
+
+Production — dig into your production capacity numbers to ensure you can make enough products to meet market demand. Look into your workforce, facilities, and whatever elements of production might need to change.
+
+Workforce — determine the type and number of employees you’ll need in order to meet production demand. Analyze your current team’s capacity and skill set, identify any gaps, and hire or allocate employees as needed.
+
+Tools — not only do you need the right number of employees to keep your operation running, but you also need to ensure you’ve got the right tools and equipment. Make a plan to acquire production tools based on changes in production. It’s a good idea to keep excess tools in case demand increases.
+
+Facilities — can existing facilities handle your production demand? What about in the long term? Examine your current capacity and scale your facilities up or down based on projections.
+
+What strategies can I use for capacity planning?
+
+A good capacity plan combines analysis and action. You’ll research the changing market and create a sustainable strategy for your business — without creating unnecessary costs or sacrificing quality.
+
+Here are three strategies for capacity planning and when you should use each one:
+
+Lag strategy
+
+This careful approach waits until market demand actually changes before taking action to increase or decrease supply. A lag strategy works best when there’s a high degree of uncertainty in the demand forecast or if your capacity is generally low. The only downside is that you might not always be able to meet your needs in real-time, so you could risk underperforming.
+
+A company that sells snow shovels might use a lag strategy during winter. Rather than ramping up production at the start of the season, they’ll wait for more specific forecasts to find out how much snow is going to fall before increasing their capacity. This minimizes the risk of overproduction if it’s a mild winter.
+
+Lead strategy
+
+A lead strategy adjusts capacity before demands increase based on historical data or a strong market forecast. Use this when you’re confident in demand estimates. This strategy lets you be proactive in your planning, but you risk operating on a faulty market assessment. If last-minute changes come in, you might not be ready because you have too much or too little product.
+
+A toy manufacturer could use a lead strategy to introduce a new product for the holiday season. Based on market research and pre-orders, they might ramp up production well in advance of the holiday rush so they have enough inventory to meet demand. This minimizes the risk of stockouts during the critical sales period.
+
+Match strategy
+
+The match strategy takes the middle ground between lag and lead. It adjusts production capacity as demand increases, allowing for proactive planning while simultaneously responding to nuanced market changes. This strategy lowers the impact of stockouts or overproduction, but you still risk not being prepared enough if demand shifts drastically.
+
+A bakery that specializes in wedding cakes might incorporate a match strategy while forecasting demand for the summer wedding season. They increase production capacity gradually as the number of weddings on the books increases, rather than making large adjustments all at once. This lets them respond to changes in demand while avoiding the risk of overproduction.
+
+Start with a template
+
+Don’t lose out on profit by having too much or too little inventory. Instead, use effective capacity planning to forecast demand, analyze production capacity, and implement a strategy that works. Avoid supply chain bottlenecks and create a system that runs smoothly.
+
+Notion’s capacity planning tools help you document your process and let you share predictions and strategies with your team. Use templates like a SMART goal planner, a yearly planning and review document, or a project management hub that tracks every change. Plan ahead to scope out your project and build contingency plans that set you up for success.

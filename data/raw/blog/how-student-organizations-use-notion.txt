@@ -1,0 +1,47 @@
+Title: How student organizations use Notion
+Published Date: 2024-01-10T21:30-08:00
+URL: https://www.notion.so/blog/how-student-organizations-use-notion
+
+Students have been a core part of Notion’s community over the years. Their feedback has helped shape our strategy and better understand what’s most important to some of the most powerful individual users in our community.
+
+When we shared that we were piloting our free plan for student organizations a few months ago, the response was electric. Volunteer-led student groups, from school newspapers to pre-professional societies, were finally able to integrate Notion into their communities for free, despite their limited budgets.
+
+That’s why we’re excited to share that Notion is now free for volunteer student organizations globally. Student organizations at select universities can apply to receive a free Notion Plus plan to add all org members, unlocking the full power of collaboration and work in Notion.
+
+Changing the way organizations can work
+
+Historically, student groups have been forced to operate with limited (or no) budget for operations and tooling. That’s left them with few options, and often means they’re spread across an array of tools like Google Docs, Slack, GroupMe, etc. to share information and collaborate.
+
+"We didn’t have a single internal source-of-truth for our information, so it was hard for us to work together," said members at the Texas Venture Group at the University of Texas, Austin. "Notion has unlocked major growth for our organization, especially since we don’t have any funding."
+
+But so many students already plan, organize, and work in Notion. Needing to add multiple other tools to their workflows stretches everyone thin, it becomes even harder to work with others.
+
+The next generation of tools at school
+
+Every student organization is unique. Groups that may share the same focus or name have a different strategy for the what, why, and how.
+
+They all use Notion differently, too.
+
+Cyclone RoboSub at UC Davis, for example, needs to organize information in ways that make it easy for members to find knowledge quickly. They rely heavily on teamspaces and wikis to keep things tidy.
+
+"College students have busy schedules, so it’s really common for members to miss meetings. So we built a Meetings database that’s linked to our Team Wiki, organized by sub-team, so folks can stay up-to-date," said the Cyclone RoboSub at the University of California, Davis.
+
+Get started with Notion and use our Student Org In-a-Box template to more easily manage your resources, teams, meetings, and more all in one place.
+
+Alpha Theta Delta, a professional design fraternity at the University of Michigan, built a site in Notion for its members. It’s where everyone can connect with each other, learn more about the organization, and see what the latest org policies are — it’s the one-stop shop for all of Alpha Theta Delta’s knowledge.
+
+Texas Venture Group (TVG) at the University of Texas, Austin is home to everything venture capital and startup investing on campus. They landed on Notion after noticing it’s the tool many of their industry inspirations use.
+
+"We wanted to model our organization off of the venture capital firms that we look up to. Since so many of them use Notion, we decided to also — and it’s been great for us," said leaders at the Texas Venture Group.
+
+They have databases for networking with active members and alumni, a current list of available internship opportunities, and highlight the top founder programs for aspiring builders. Putting all this information into a teamspace has also made sharing knowledge far easier — instead of sending out individual links to each doc, everyone has access to one single source.
+
+These orgs, and so many more, rely on Notion to keep things running. And with our latest discount, they can do so — for free.
+
+Get started with Notion on your campus
+
+For more information about how you can bring Notion to your organization and apply for our free student org plan, click here.
+
+And to help you and your organization set up your Notion workspace, check out templates made for students by students and organizations like these in our Template Gallery here.
+
+Want to represent Notion on your campus? Join our Campus Leaders program, and keep an eye out for upcoming Notion events popping up on your campus.

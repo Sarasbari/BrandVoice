@@ -1,0 +1,31 @@
+Title: Enhanced Notion API: Customizable Tools for Developers
+Published Date: 2022-03-02T08:00-08:00
+URL: https://www.notion.so/blog/api-ga
+
+Our API has been our all-time top request in Notion history! Over the years, thousands of people have written in and let us know how they’d leverage our API to integrate Notion with dozens of other tools and supercharge their workflows.
+
+Since we launched the API into beta last year, over 30,000 people have joined our developer community, building everything from workflow automations to blog publishing systems using Notion. We’ve also partnered with Zapier, Typeform, and other tools to offer integrations that help you get new types of work done in Notion. And for the last several months, we’ve been working hard to expand the API’s capabilities and make it even easier to build with Notion (here’s a deep dive into the engineering process, for those who are curious). All of this has led up to this moment. Today, we’re so excited to announce that our API is officially out of beta!
+
+Now that the API is generally available, here’s what we’ve added:
+
+More functionality — The API now supports more block types including synced blocks, columns, and simple tables.Better controls — We’ve made it easier to install and approve apps with OAuth, granular permissions, and admin controls.API improvements and bug fixes — We’ve made the API more stable and consistent, so that it’s easier to to build and test integrations.More documentation — We’ve improved and added to our documentation so it’s easier than ever to get started and stay up to date with the latest API improvements.New integration gallery — We’ve created a space where people can easily discover integrations built on Notion’s platform. Check it out here.
+
+More functionality — The API now supports more block types including synced blocks, columns, and simple tables.
+
+Better controls — We’ve made it easier to install and approve apps with OAuth, granular permissions, and admin controls.
+
+API improvements and bug fixes — We’ve made the API more stable and consistent, so that it’s easier to to build and test integrations.
+
+More documentation — We’ve improved and added to our documentation so it’s easier than ever to get started and stay up to date with the latest API improvements.
+
+New integration gallery — We’ve created a space where people can easily discover integrations built on Notion’s platform. Check it out here.
+
+This is a big step forward for what you can do with Notion — we believe the API is one of the key ways we’ll reach our long-term mission of letting you craft Notion into the exact tool you want it to be. We hope these improvements will help you create more connection with the people and tools you work with, making it easier to share information and stay aligned.
+
+We're going to continue investing in Notion’s platform by adding more functionality to the API, incorporating your feedback to make it even better, and working with our partners to build integrations. This is only the beginning for us!
+
+Explore the integration gallery →
+
+Start building with the API →
+
+Join the developer Slack community →

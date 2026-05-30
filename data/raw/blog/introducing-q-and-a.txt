@@ -1,0 +1,73 @@
+Title: Introducing Q&A: get instant answers to your questions in Notion
+Published Date: 2023-11-14T00:01-07:00
+URL: https://www.notion.so/blog/introducing-q-and-a
+
+Our software tools hold important information. But getting answers to questions about this information has never been easy, natural, or contextual.
+
+Notion is the place where many of you store this information (thank you!) — product roadmaps and onboarding docs, wedding plans and school notes. What if you could ask questions to Notion about this info, like you would a teammate, or a classmate, or a friend?
+
+Today we’re releasing in beta our most exciting Notion AI feature yet: Q&A. It’s a way for you to get instant answers to any question using information across your knowledge, docs, projects, meeting notes, and more.
+
+All you have to do is ask Notion. Less searching, more doing.
+
+Everyone has questions. Q&A provides answers using information from your workspace.
+
+Answers to important questions live inside Notion pages and databases. Q&A uses AI to surfaces them for you immediately.
+
+For example, if you’re joining a project late, Q&A can compile and summarize all the critical docs. Or imagine being a new employee or new student — instead of spending time hunting for answers, you can have them in a few seconds. We want Q&A to be a seamless part of your workflow so you don’t have to context switch or waste time finding information.
+
+There are several ways to access Q&A. You can hit Search in the sidebar, type your question, and Notion AI will answer it. You can also go to the bottom right of any Notion page and click the sparkle icon. You don’t even need to be inside Notion to use Q&A — wherever your Notion desktop app is open (download it here), just use the keyboard shortcut Ctrl/cmd + shift + K and ask your question, wherever you are on your computer. Now product and engineering teams don’t have to leave Github. Designers and Marketers don’t have to leave Figma. Q&A brings the answers to you, wherever you are.
+
+To make Q&A possible, we’ve partnered closely with our friends from Anthropic and OpenAI. We work directly with their teams to design a secure solution that delivers better, more contextual responses and outputs. Customer data is not used to train the AI models. And when you’re receiving answers from Q&A, it only references information in pages you have permission to view. I also want to acknowledge that this is still the beta version of Q&A. It isn’t perfect, but we’re continuing to build and improve daily — so give it try and let us know what you think.
+
+AI designed to actually help you work better
+
+Over the years of building Notion, I’ve personally talked to hundreds of customers. I hear the same frustration no matter who I talk to: they spend too much time doing work-about-work. Hundreds of companies have already been using Q&A in our early access program, like global HR platform Remote. It used to take their employees up to 10 minutes to find information but now with Q&A, it’s only taking seconds.
+
+AI has the potential to augment human intellect in unforeseen ways. Q&A is a step in that direction — allowing you to focus on higher-leverage work instead of searching for the information you need to do that work.
+
+Want to get starting using Q&A in beta? It's rolling out over the next few days to all customers with Notion AI added to their plans.
+
+If you’d like to try Q&A for free, join the waitlist.
+
+You can access Q&A three ways.
+
+In the Notion app:Hit Search in the sidebar and click Ask AI anythingHit the sparkle button on the bottom right of your app windowOutside of the Notion app:Use the keyboard shortcut (Cmd + shift + K for Mac and Ctrl + shift + K for Windows) and ask your question, wherever you are on your computer.
+
+In the Notion app:
+
+Hit Search in the sidebar and click Ask AI anythingHit the sparkle button on the bottom right of your app window
+
+Hit Search in the sidebar and click Ask AI anything
+
+Hit the sparkle button on the bottom right of your app window
+
+Outside of the Notion app:
+
+Use the keyboard shortcut (Cmd + shift + K for Mac and Ctrl + shift + K for Windows) and ask your question, wherever you are on your computer.
+
+Use the keyboard shortcut (Cmd + shift + K for Mac and Ctrl + shift + K for Windows) and ask your question, wherever you are on your computer.
+
+For more information on how to use Q&A, visit our Help Center.
+
+To find the answers to your questions, Q&A searches across thousands of pages in your workspace in seconds. It only references information from pages you have permission to view.
+
+In order for Q&A to reference content, you must:
+
+Be the creator of the page, orBe invited to the page, orThe page’s privacy settings is set to “Everyone at {name of workspace}”
+
+Be the creator of the page, or
+
+Be invited to the page, or
+
+The page’s privacy settings is set to “Everyone at {name of workspace}”
+
+The Notion AI Add-On gives your workspace unlimited usage of Q&A, as well as the writing assistant and database autofill capabilities. It can be added to any paid plan for $8 per member / month, billed annually. Or $10 per member / month for monthly billing and Free plans.
+
+If you purchased the Notion AI Add-On before November 6, 2023, you’ll be able to use Q&A right away.
+
+If you haven’t purchased the Notion AI Add-On, you can request access to join the beta. Your workspace includes a limited number of free AI responses that you can use to test Q&A before purchasing the Notion AI Add-On.
+
+You can learn more about Notion AI’s security practices by visiting this page.
+
+Yes! Q&A can be enabled for any Notion workspace, regardless of which language you’ve selected in your settings. Please note that response quality is highest in English, but the Notion team is working on improving the quality for other languages throughout the Beta period.

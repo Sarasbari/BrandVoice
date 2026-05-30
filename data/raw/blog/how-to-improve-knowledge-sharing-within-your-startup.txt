@@ -1,0 +1,79 @@
+Title: How to improve knowledge-sharing within your team
+Published Date: 2021-09-21T00:00-06:00
+URL: https://www.notion.so/blog/how-to-improve-knowledge-sharing-within-your-startup
+
+Knowledge is your team’s most valuable resource — but it’s also one of the trickiest elements to collect, coax, and control.
+
+While creating detailed digital records gives you a transparent repository of information, no amount of documentation captures the priceless skills your team learns on the job.
+
+If experienced employees hoard their know-how and don’t know how to spread it to others, you risk severe brain drain whenever there’s an organizational shakeup. And weak knowledge-sharing procedures could make you depend on specialized information silos and lose out on greater productivity and efficiency.
+
+Despite the many challenges of effective knowledge management — especially in the remote work era — there are strategies to augment a team’s collective knowledge base. By implementing these techniques into routine procedures, information flows smoothly, and team members become stronger communicators and collaborators.
+
+What’s knowledge-sharing?
+
+Knowledge-sharing is any method individuals or teams use to exchange skills, information, or data in an organization. This could be as intimate as one-on-one mentoring or as formal as all-hands meetings. Information-sharing also happens through written communication and collaborative documents such as surveys, feedback reports, and employee handbooks.
+
+There are two types of knowledge to consider: explicit knowledge and tacit knowledge. When companies capture information formally, it’s explicit. By contrast, tacit knowledge is harder to define — think of the “street smarts” employees pick up through hands-on experience. It refers to the attitudes, processes, and know-how people learn through professional (and life) experience.
+
+Since tacit information takes considerable time to learn and isn’t as easy to document, it’s difficult to replace when experienced employees leave. That’s why you should foster a knowledge-sharing culture that focuses on maintaining and updating explicit knowledge while promoting consistent tacit knowledge transfer.
+
+5 benefits of knowledge-sharing
+
+This isn’t just about getting everyone on the same page. It’s true that each team member needs to know their tasks and responsibilities — but the benefits go beyond avoiding messy miscommunications. Teams with effective knowledge-sharing also:
+
+Foster a sharing teamwork mindset — a knowledge-sharing culture promotes collaboration and open communication within an organization, which strengthens camaraderie. Teamwork connects employees to the company culture and includes them in the workflow process, leading to a greater sense of belonging and competency. Disrupt hoarding and information silos — in a more competitive framework, there’s an incentive for specialists to hide their knowledge for fear of losing an “edge” in the organization. But with knowledge-sharing, employees can feel more comfortable distributing their insights and experience, making companies less reliant on just a few people. Validate concerns — when you give everyone the time and space to raise concerns and submit feedback, you simultaneously spot weak points and give everyone a voice. The openness of a sharing-based culture validates everyone’s experiences and prevents the risk of future conflicts. Streamline onboarding process — a thorough knowledge-sharing process makes getting new hires up to speed on company policies and procedures faster. And personalized mentorship and training sessions boost tacit transfer from the most experienced team members to new employees, leading to higher productivity from the get-go. Strengthen tacit knowledge base — the more people share information within a team, the more tacit insights stick. Even when you lose experienced team members due to turnover or retirement, remaining employees have an easier time rebounding.
+
+Foster a sharing teamwork mindset — a knowledge-sharing culture promotes collaboration and open communication within an organization, which strengthens camaraderie. Teamwork connects employees to the company culture and includes them in the workflow process, leading to a greater sense of belonging and competency.
+
+Disrupt hoarding and information silos — in a more competitive framework, there’s an incentive for specialists to hide their knowledge for fear of losing an “edge” in the organization. But with knowledge-sharing, employees can feel more comfortable distributing their insights and experience, making companies less reliant on just a few people.
+
+Validate concerns — when you give everyone the time and space to raise concerns and submit feedback, you simultaneously spot weak points and give everyone a voice. The openness of a sharing-based culture validates everyone’s experiences and prevents the risk of future conflicts.
+
+Streamline onboarding process — a thorough knowledge-sharing process makes getting new hires up to speed on company policies and procedures faster. And personalized mentorship and training sessions boost tacit transfer from the most experienced team members to new employees, leading to higher productivity from the get-go.
+
+Strengthen tacit knowledge base — the more people share information within a team, the more tacit insights stick. Even when you lose experienced team members due to turnover or retirement, remaining employees have an easier time rebounding.
+
+5 ways to improve knowledge-sharing
+
+Openness and collaboration are at the heart of any great team. But information-sharing takes it a step further, creating as level of a playing field as possible when it comes to collective knowledge.
+
+Those results are easy to talk about but harder to achieve in practice. When implementing any new technique, evaluate its effectiveness and consider how it impacts team communication before diving in. And follow these tips to improve communication:
+
+1. Create a knowledge base
+
+The first step to creating a culture of knowledge-sharing is to organize essential information in one convenient and comprehensive place — usually digitally so it’s accessible from anywhere. That way, employees never waste time and energy scrambling to find the info they need.
+
+To make relevant insights as clear and accessible as possible, create a single source of truth (SSTO), or a centralized database containing all the explicit knowledge throughout the company’s history. Some people organize the SSTO into a knowledge base library or company wiki and include info such as standard protocols, FAQs, and resources.
+
+While the SSTO is a focal point in knowledge collection and dissemination, be careful not to treat it as a static document. As company policy adapts and your team’s expertise grows, continue adding to them. The more thorough, user-friendly, and up-to-date your knowledge base is, the less friction everyone will experience finding and interpreting relevant info.
+
+2. Encourage cross-functional collaboration
+
+It’s easy to get stuck in self-contained silos and concentrate on internal tasks without communicating to the entire team. To prevent this form of information-hoarding, you can turn to cross-functional collaboration techniques that offer transparency and teamwork. Give everyone a big-picture view and seamlessly contribute new insights with shared templates and RACI charts.
+
+Although each team still has unique internal processes and goals, adding cross-functional collaboration provides greater context for each department’s task and how it fits into the overall business operations. It also makes it easier to pull specialized knowledge from different sectors.
+
+3. Offer incentives for active knowledge-sharing
+
+If your team’s hesitant to share trade secrets, consider using rewards such as yearly bonuses or shoutouts to highlight someone’s commitment to sharing information. To avoid solely singling out superstar employees, add group incentive opportunities to bolster everyone’s commitment. Besides rewarding people for their productivity, these incentives are a subtle — but powerful — technique to promote stronger communication.
+
+4. Allow constructive feedback
+
+Asking employees for feedback is a straightforward way to gauge the success of your knowledge-sharing culture. You’ll give team members the freedom to raise concerns, clarify information, and request assistance, all of which help streamline project delivery and knowledge transfer.
+
+Frequent feedback opportunities also positively impact employee engagement, especially when you highlight pressing concerns and make moves to rectify situations. In a way, feedback serves as leadership’s “knowledge brief” — helping you identify cultural strengths and weaknesses and critical areas to address.
+
+While it’s a good idea to incorporate feedback requests into all-hands meetings, be sure to offer people confidential ways to voice their opinions. Options like private office hours or anonymized feedback surveys make it easier for people to share without fear of repercussion. Address the most pertinent issues publicly and introduce specific strategies for resolution.
+
+5. Create an environment that encourages knowledge-sharing
+
+Despite the flexibility remote work provides, knowledge-sharing often comes more naturally in physical spaces — think the lunch room or water cooler. There’s no simple way to digitally replicate the small but significant moments where coworkers share tacit knowledge in the office. But that doesn’t mean remote teams can’t share insights.
+
+If you’re in an exclusively digital workspace, consider scheduling weekly video calls dedicated specifically to intra-departmental status updates and project concerns. Some teams also use asynchronous templates, Slack messaging channels, or shared documents to collaborate and answer questions in real time.
+
+Integrate knowledge-sharing in your culture from the start
+
+Burst information silos and let your team’s knowledge flow with Notion’s digital workspace. From building a team wiki to monitoring progress with transparent timelines, Notion has the templates you need to share and store team insights.
+
+With a solid software infrastructure and knowledge-sharing tools in place, watch as your team naturally gravitates toward a collaborative culture. Try it today.

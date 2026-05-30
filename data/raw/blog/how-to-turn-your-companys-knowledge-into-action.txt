@@ -1,0 +1,49 @@
+Title: How to turn your company's knowledge into action
+Published Date: 2025-05-02T00:00-07:00
+URL: https://www.notion.so/blog/how-to-turn-your-companys-knowledge-into-action
+
+I’ve seen many promising teams slow down—not because they lack talent or vision, but because their knowledge gets stuck in silos, making it hard to get work done quickly.
+
+The problem is how companies manage their work. Our recent Harvard Business Review survey found that only 44% of respondents think their company manages knowledge well. And even fewer—just 3%—are using AI to help.
+
+I spoke with Rohit from OpenAI, Jennifer from Slack, and Kristen from Hinge to learn how they do it. Here’s what I took away (and a few tips to help you get started).
+
+From chaos to clarity
+
+Leaders often tell me they have little visibility into what other teams at their own companies are working on.
+
+Without a clear system for organizing knowledge, important details end up lost in email inboxes, private Slack messages, or old documents. The result? Slow decisions and redundant work.
+
+For example, Rohit shared how OpenAI found several teams tackling the same problems because no one was sharing information. For years, companies have looked for answers by buying new software. But adding more tools alone won’t solve knowledge management challenges.
+
+Try focusing on three key principles:
+
+Organize information based on how people actually work, not idealized processes: Build your knowledge system to fit how teams naturally share and collaborate, rather than forcing them into a rigid setup that looks good on paper but fails in practice.Create clear rules for where knowledge lives: Make it easy to know where teams should document information so they can easily find what they need without endless searching.Design systems people will actually use: Focus on simple, practical processes that fit into daily work instead of building complex solutions that people ignore.
+
+Organize information based on how people actually work, not idealized processes: Build your knowledge system to fit how teams naturally share and collaborate, rather than forcing them into a rigid setup that looks good on paper but fails in practice.
+
+Create clear rules for where knowledge lives: Make it easy to know where teams should document information so they can easily find what they need without endless searching.
+
+Design systems people will actually use: Focus on simple, practical processes that fit into daily work instead of building complex solutions that people ignore.
+
+Bonus ideas: Both Hinge and Slack created rituals that encourage a culture of continuous knowledge sharing. Hinge has “Documentation Fridays,” where they set aside time every week to document important information. Slack built documentation into employee performance expectations so everyone is responsible for knowledge sharing.
+
+5 things you can do today to improve knowledge management
+
+What struck me most about my conversation with Rohit, Jennifer, and Kristen was how, while they all do things a little differently, they shared a few habits. Here are five things I learned from them that can help you improve how your company manages knowledge:
+
+Define your source of truth. When there’s conflicting information, make it clear where people should look first. Create a single source of truth to reduce confusion and provide a one-stop shop for the most current knowledge.Map your knowledge landscape. Make a simple diagram showing where different types of information live. Sometimes, simply making this visible helps teams find what they need and highlights areas that need attention.Create easy-to-use templates. Make documentation simpler with templates for things you do often, like meeting notes, PRDs, or content calendars.Build a knowledge-sharing culture. Create regular time to capture knowledge in your regular routines: After big projects, during sprint reviews, or in team meetings.Recognize people who share knowledge. Celebrate the people who consistently document and share work to encourage others in your organization to do the same.
+
+Define your source of truth. When there’s conflicting information, make it clear where people should look first. Create a single source of truth to reduce confusion and provide a one-stop shop for the most current knowledge.
+
+Map your knowledge landscape. Make a simple diagram showing where different types of information live. Sometimes, simply making this visible helps teams find what they need and highlights areas that need attention.
+
+Create easy-to-use templates. Make documentation simpler with templates for things you do often, like meeting notes, PRDs, or content calendars.
+
+Build a knowledge-sharing culture. Create regular time to capture knowledge in your regular routines: After big projects, during sprint reviews, or in team meetings.
+
+Recognize people who share knowledge. Celebrate the people who consistently document and share work to encourage others in your organization to do the same.
+
+Knowledge is capital
+
+As teams become more distributed, the companies that succeed aren’t just the ones with the best talent or tools—they’re the ones that turn knowledge into action. Mastering knowledge management gives you a major edge: You’ll move faster, innovate more, and learn from every experience. In the end, what matters most is what you know—and how well you use it.

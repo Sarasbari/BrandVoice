@@ -1,0 +1,45 @@
+Title: How we’re killing software sprawl (by using our own product)
+Published Date: 2025-06-10T00:00-07:00
+URL: https://www.notion.so/blog/how-were-killing-software-sprawl-by-using-our-own-product
+
+Modern teams have a problem.
+
+They’ve spent years accumulating more software tools than ever before—the average company uses 112 (!) apps—yet work feels more fragmented than it did even just a few years ago. Teams jump between tools searching for documents, lose productivity flow context-switching between apps, and duplicate efforts because everything lives somewhere else.
+
+Bottom line is, the tools we thought would make our lives easier just create more friction.
+
+And by no means are we immune to the sprawl virus at Notion. We live it daily, but we’ve started to use our own platform to solve it from within. This isn’t just about building better products—it’s about fundamentally rethinking how work should flow.
+
+Solving our own software sprawl
+
+To ease our own pain, we started to think about subtracting rather than adding tools, and quickly found that we could consolidate nearly all of our workflows in Notion.
+
+Here’s a look at what we built to keep our tech stack in check:
+
+Enterprise search: Our main tool stack consists of tools like Notion, Slack, Github, and Google Slides, but important information can be lost to the depths of each. Luckily, Notion AI can dig across all those tools with Enterprise Search—without it, we’d likely be looking at a standalone search app like Glean. Instead of maintaining (and paying for) separate search tools, our teams can find information across all connected apps—plus our Notion workspace—in one place.Meeting notes: Over the last year, we’d tested just about every note-taking tool out there, from Otter.ai and Granola to Zoom and Google Meet. The biggest challenge is that they’re all disconnected from the tools where our work actually happens. With AI Meeting Notes in Notion, our meetings are recorded (with consent!), transcribed, and summarized in a Notion doc. Now, our conversations are more actionable across the company—and searchable by Notion AI—because they live beside our projects, tasks, and other docs.Knowledge management: No surprise, but our documentation happens entirely in Notion. Lots of teams have a scattered mess of docs across tools like Google Docs, Confluence, and other individual team wikis. But keeping everything in Notion means our company documentation exists alongside the work it describes, making it easier to find, use, and keep fresh.Project management: Notion has always been a place to track to-do lists and simple projects. But our teams have complex workflows—EPD, for example, uses GitHub for issues and Figma for design specs, to name a couple. Problem is, paying for seats in every tool for every person adds up. So we built the integrations that connect those tools to Notion so we can avoid the extra cost but keep the context. Now, GitHub issue statuses are automatically updated and Figma design previews are visible in Notion—for everyone.Forms: We run a lot of surveys, everything from customer feedback surveys to figuring out what snacks we want in our offices. But when using a tool like Typeform, we’d always wind up exporting the data and importing it into Notion for analysis. Now with forms built directly into Notion, responses automatically populate databases where we can analyze trends (thanks charts!) and assign follow-up tasks. No more paying for a separate tool to collect information that ultimately winds up in Notion anyway.Email management: Like most teams, we live in Slack and Gmail for communication. But trying to wrangle the constant chaos of an inbox feels like trying to tame Godzilla. Email tools like Superhuman help with speed, but they don’t solve the core problem—your inbox mixes urgent work messages with newsletters and spam in one chronological mess. Notion Mail, on the other hand, uses Notion AI to automatically sort and label emails based on what actually matters. And with a direct integration with Notion Calendar, scheduling meetings is a breeze.
+
+Enterprise search: Our main tool stack consists of tools like Notion, Slack, Github, and Google Slides, but important information can be lost to the depths of each. Luckily, Notion AI can dig across all those tools with Enterprise Search—without it, we’d likely be looking at a standalone search app like Glean. Instead of maintaining (and paying for) separate search tools, our teams can find information across all connected apps—plus our Notion workspace—in one place.
+
+Meeting notes: Over the last year, we’d tested just about every note-taking tool out there, from Otter.ai and Granola to Zoom and Google Meet. The biggest challenge is that they’re all disconnected from the tools where our work actually happens. With AI Meeting Notes in Notion, our meetings are recorded (with consent!), transcribed, and summarized in a Notion doc. Now, our conversations are more actionable across the company—and searchable by Notion AI—because they live beside our projects, tasks, and other docs.
+
+Knowledge management: No surprise, but our documentation happens entirely in Notion. Lots of teams have a scattered mess of docs across tools like Google Docs, Confluence, and other individual team wikis. But keeping everything in Notion means our company documentation exists alongside the work it describes, making it easier to find, use, and keep fresh.
+
+Project management: Notion has always been a place to track to-do lists and simple projects. But our teams have complex workflows—EPD, for example, uses GitHub for issues and Figma for design specs, to name a couple. Problem is, paying for seats in every tool for every person adds up. So we built the integrations that connect those tools to Notion so we can avoid the extra cost but keep the context. Now, GitHub issue statuses are automatically updated and Figma design previews are visible in Notion—for everyone.
+
+Forms: We run a lot of surveys, everything from customer feedback surveys to figuring out what snacks we want in our offices. But when using a tool like Typeform, we’d always wind up exporting the data and importing it into Notion for analysis. Now with forms built directly into Notion, responses automatically populate databases where we can analyze trends (thanks charts!) and assign follow-up tasks. No more paying for a separate tool to collect information that ultimately winds up in Notion anyway.
+
+Email management: Like most teams, we live in Slack and Gmail for communication. But trying to wrangle the constant chaos of an inbox feels like trying to tame Godzilla. Email tools like Superhuman help with speed, but they don’t solve the core problem—your inbox mixes urgent work messages with newsletters and spam in one chronological mess. Notion Mail, on the other hand, uses Notion AI to automatically sort and label emails based on what actually matters. And with a direct integration with Notion Calendar, scheduling meetings is a breeze.
+
+Working in the macro and the micro
+
+It’s great to replace tools company-wide. But over time, these features have allowed our individual teams to scrap redundant tools too.
+
+For example, when we transitioned our Customer Experience team’s knowledge management from Zendesk into Notion, we were rethinking the team’s entire workflow. Doing so saw some impressive improvements: A 73 percent increase in knowledge base engagement, and a 19 percent improvement in team satisfaction. More importantly, we eliminated the cognitive overhead of maintaining multiple systems in parallel.
+
+Consolidation works best when it feels organic rather than forced. Whatever your new tool, it needs to adapt to how your teams actually work, not require them to adjust to rigid tool constraints and processes.
+
+The true cost of fragmentation
+
+For our teams, killing our software sprawl has shown immediate and tangible results. Teams spend less time hunting for information and more time actually using it. Context-switching between apps has virtually disappeared. Most importantly, our work feels more connected—decisions, discussions, and documentation all live in the same ecosystem where they can inform each other.
+
+That’s why we’re reimagining what’s possible when our tools truly understand how we work. The future belongs to organizations that can move fluidly between different types of thinking—creative, analytical, strategic—without those invisible barriers getting in the way.

@@ -1,0 +1,45 @@
+Title: Making 'Make with Notion' ...with Notion
+Published Date: 2024-12-03T00:00-07:00
+URL: https://www.notion.so/blog/making-make-with-notion-with-notion
+
+Last month, over 1,000 builders, creators, and toolmakers gathered at Pier 27 in San Francisco for Make with Notion, our very first in-person user conference.
+
+Make with Notion was a first for Notion, and for the scrappy internal crew who dreamed it up and brought it to life. In some ways, this was a blessing—we didn’t know what we didn’t know, so we linked arms and leaned into each twist and turn as it came. But with no blueprint or precedent, we needed Notion to be what it promised: a workspace to go from thinking to making, from imagination to experience, together.
+
+You may have heard Ivan Zhao, our co-founder and CEO, say in the keynote that Notion is like LEGO for software, meaning it should be soft, flexible, a bunch of blocks that are easy to break apart and form into anything you want.
+
+Here’s how we did it, and the blocks we used:
+
+Automations
+
+Bringing a conference to life meant working with nearly every team at Notion—from Marketing to Product to Finance to Security—not to mention an architecture firm, scenic and fabrication designers, A/V vendors, and more.
+
+With so many moving parts, we needed a single “mission control” to keep it all organized. Our Make with Notion hub, built entirely in Notion, became that control center, and Automations became our always-on eyes and ears. Slack alerts flagged key milestones, property changes triggered status updates, and formulas kept goals aligned. And, of course, custom emojis brought a needed dose of delight in those final, sleep-deprived weeks.
+
+Forms
+
+As with all of our products, we tested Forms internally for months before launching it. Our first company-wide use? Recruiting Make with Notion volunteers—affectionately dubbed Voluntinos.
+
+Within minutes of sending our Voluntino form out, enthusiastic responses from all corners of the company rolled into a Notion database we could easily sort and filter: by office, availability, role interest, and more. From there, we assigned roles with one click, triggered automatic notifications via Automations, and tracked it all in one view.
+
+After launching Forms to the public at Make with Notion, we used it again for our post-event survey, expertly crafted by Makenna Bigelow from our UXR team. No more drafting, commenting, and copy-pasting between tools—we simply built the Notion Form, made it public, and then dropped the link in our “Thank you” email. Responses streamed into a synced database, with charts that we pulled directly into our wrap report. Magic.
+
+Notion Mail
+
+When we opened registration, we set up a designated support email, managed by a single person. Questions trickled in at first (manageable), gradually increasing (still manageable...) and then suddenly: a flood (not manageable!). Thankfully, the new Views feature in Notion Mail helped us triage fast. We auto-tagged incoming messages, grouped them by theme, and used Snippets to reply quickly and consistently.
+
+After the event, as attendees requested early access to Mail, we built a lightweight system to cross-check emails against our registration list—then pinged Mail cofounders Andrew Milich and Jason Ginsberg to add them to the beta.
+
+Integrations, Embeds, and AI—oh my!
+
+Our internal Creative Studio, led by Huy Vu, stored all of our visuals in a rolling Google Slides deck. Molly Otto, who oversaw the Make with Notion website, kept web designers and engineers on track with graphics in Figma. David Tibbitts, who drove the keynote content, first sketched out different keynote flows in FigJam before Pedro de Sousa built out the presentation across four formats. By simply dropping in links, we were able to integrate all of this work happening across different tools directly into our Notion workspace—ensuring version control, one-click previews, and full-text search via Notion AI.
+
+One of our goals at Notion is “perfect memory” across teams and time. This setup got us close, while also surfacing moments of friction that turned into new product ideas.
+
+Oldies but goodies
+
+If Notion is like LEGO, then docs, databases, and wikis are our classic bricks—the originals, the can’t-do-withouts.
+
+Meredith Callan used a combination of all of them to track everything from speaker outreach to Green Room schedules, stitching together dozens of moving parts into one cohesive system. Rusty Van Riper built what might be the most “Notion-y” database of all: our furniture tracker, mapping the full inventory of our beloved office furniture against event needs, complete with photos and floor-level filters. Add a few formulas, relation properties, and synced pages, and we saved hundreds of hours of manual work.
+
+It turns out, building a conference is a lot like building a product: you need a clear vision, a collaborative workspace, and, of course, passionate users! Thank you for joining us, and for making our first Make with Notion so much fun.

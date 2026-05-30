@@ -1,0 +1,69 @@
+Title: Why team size no longer matters
+Published Date: 2026-01-07T09:00-08:00
+URL: https://www.notion.so/blog/why-team-size-no-longer-matters
+
+Recently, I've been hearing the same thing from founders and leaders running lean teams alike: Limited resources, ambitious goals.
+
+Startups competing against well-funded incumbents, regional offices trying to keep pace with global HQ, and small product orgs servicing enterprise customers all face the same challenge: They can't out-hire their competitors, and they can't match the budgets of companies 10x their size.
+
+This represents a fundamental shift in how we measure success. Twenty years ago, career progression meant building bigger teams. The more people you managed, the more successful you were. But that playbook doesn't work anymore. Today's most competitive companies are small, highly interconnected teams where individual impact matters more than headcount.
+
+So how do they compete?
+
+Why adding more doesn't always work
+
+When you need to scale, the natural response is to just add more. More tools to boost productivity. More AI to automate work. More integrations to connect everything.
+
+But this often creates what people call the "multi-tool trap": more and more tools, yet teams feel just as overwhelmed as before. The average company uses 87 tools for work, but as you throw more into the pot, you're adding complexity-not always functionality. Information is scattered across dozens of tools, so people spend more time searching than doing.
+
+And the problem is exacerbated now. AI makes execution faster-you can prototype in hours, generate docs in seconds, and automate tasks that used to take hours. But speed without infrastructure or good direction means making mistakes at light speed.
+
+These days, companies tend to pile on more AI subscriptions like a bandaid over an open wound. The real problem isn't the lack of tools or lack of AI even-it's the lack of infrastructure to support them. Most companies are adding capabilities without rethinking their foundations.
+
+So what actually works? Companies out there are getting it right-the question is how?
+
+How companies are doing it-and at scale
+
+Based on my conversations with founders and business leaders, three key patterns have emerged on how to scale efficiently with less.
+
+Build systems, not collections of tools
+
+Efficiency often comes down to the systems that power work. When you have hundreds of tools, teams (and their work) are splintered. The companies that have figured this out are making sure work is consolidated and connected. No more guessing where things live or manually searching across dozens of tools to find answers.
+
+How does this enable scale? When work and knowledge are consolidated and connected, everyone can search across everything to find what they need and work with real context. This all allows small teams to move as fast as big teams, as they can make their knowledge actionable quicker than ever.
+
+Mark Tanner, Co-founder and CEO at Qwilr put it simply: "Even if everyone in Australia is asleep, having one central place that everyone knows is absolutely critical to being able to scale."
+
+This is also when AI becomes genuinely useful for knowledge work. AI needs context, and when your work lives in one connected tool instead of scattered across dozens, AI can finally deliver on that promise.
+
+Invest in documentation at speed
+
+When execution gets faster, clarity becomes the bottleneck. The right information at the right time is what matters most. It's why it's so important to make knowledge workflows as strong as possible. Better artifacts lead to better decisions at scale.
+
+The challenge here is that lots of companies view documentation as busywork. But it's much deeper. It's decision-making infrastructure, and without it, you lose context on the choices you've made to get you where you are now.
+
+What does that look like? Clear roadmaps. Well thought-out specs. In-depth requirements. Strategic memos. Kim Teo, Co-founder and CEO at me&u says when you can get things down into docs and synthesize thoughts, you have a better framework to make more informed decisions faster.
+
+When you do this well, knowledge becomes a superpower, and collaboration in written form builds stronger ideas. That context persists even when change happens, when people leave, and when goals pivot. New employees can get up to speed without endless sessions or messages to teammates.
+
+Choose infrastructure over headcount
+
+At some point, you hit a fork in the road: Hire more people or build better systems?
+
+It's not an easy choice. Infrastructure work is invisible to customers. It doesn't ship features they can use. Your roadmap might slip, and the pressure to just hire more people and keep moving is real.
+
+But the alternative is worse. You end up with systems that barely hold together, held in place by what one leader I spoke with called "spreadsheets and human glue." Every new person you add becomes another dependency, another handoff, another place where context gets lost.
+
+"Once you get to a certain stage, the right call for companies is to just spend the time redoing the plumbing," said Mark. That way, with the right tools, you build scalable systems that work for 5 people or 500.
+
+The companies making this choice early aren't trying to avoid hiring. They're trying to make sure each hire has maximum impact. When your systems are strong, one person can do what used to take three.
+
+This consolidation unlocks something else. It enables individuals to become effective generalists. When work isn't scattered across dozens of tools, one person can move between customer support, product feedback, and strategic planning without losing context.
+
+Bottom line: You can't scale by stacking people on shaky systems. The teams getting this right aren't doing it through heroics-they're doing it because they built infrastructure that scales.
+
+What separates the winners from the rest
+
+Over the next year or two, it won't be about who has the most AI tools or what team is the biggest. It'll be about who made the infrastructure choices early. Who consolidated ruthlessly, even when it was uncomfortable. Who invested in a culture of documentation and clarity over simply moving fast. Who chose to build strong foundational systems instead of relying on headcount as a bandaid solution.
+
+This all becomes your advantage. Better systems lead to better decisions, and better decisions mean you can move faster with fewer resources. The companies that have figured this out know that infrastructure scales. So focus on building the systems that work now, or risk getting left behind.

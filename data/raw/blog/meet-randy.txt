@@ -1,0 +1,131 @@
+Title: Meet Randy!
+Published Date: 2024-05-16T00:00-07:00
+URL: https://www.notion.so/blog/meet-randy
+
+Notion’s new Head of Design, Randy Hunt, has been building and designing products, brands, and businesses for over two decades at outposts like Artsy, Grab, and Morning. At Etsy, he spent eight years crafting the iconic, creamsicle-hued brand.
+
+Inspired by his website, which organizes his thoughts in the form of an abecedarium,* we asked Randy to tell us more about how he moves about the world and thinks about design—all of which made him the perfect fit for Notion.
+
+*An abecedarium is an inscription consisting of the letters of an alphabet, used for teaching purposes. Randy was first exposed to the term thanks to Paola Antonelli, MoMA’s Senior Curator, Department of Architecture and Design, and Director, R&D, who used the term for an event that accompanied the exhibition Is Fashion Modern? He wasn’t at the event, but did go to the afterparty🕺. Credit for renaming this part of Randy’s site from “resources” goes to our very own Rob Giampietro who suggested it in this Twitter thread. Other suggestions included: Noted, Definitions, Knowbase, Blogroll, and A-Z of Me.
+
+He chose the most obscure historical reference 🤓.
+
+A - Apartments: I’d love to redesign everyone’s apartment, one at a time, in a bespoke way. When you observe people, you’re doing user research. You observe that they hang the coat here, and then walk over there, and then walk back. Then they take their shoes off. If we switch the location of two things and you put a mat here and put a chair next to it, the whole experience is going to be better for you in every way. Because the floor isn’t going to be muddy over there, cleaning is going to be easier. Because you have a place to rest your body when you put your shoes on, you’ll be more comfortable, and your space accommodates more people with more diverse physical needs. You're not fumbling with bags or touching the wall to take your shoes off because there’s no place to sit down. That's a kind of hospitality — a “make sure everyone's cared for” type of thing. Daily-use software feels kind of similar — it’s like your apartment inside your computer.
+
+.
+
+.
+
+.
+
+B
+
+.
+
+.
+
+.
+
+C - Content: When I was in grad school, I was working on a graphic design-y project. The prompt was to use design to touch a community, which often resulted in public artworks.
+
+A classmate of mine had done a bold piece of work: He had written a long poem, and then cut the lines of the poem into stencils with nice typography. Then he went out at night and spray-painted them on the streets of New York. His poem wrapped around a city block. It was a huge amount of effort and a bit dangerous to make.
+
+We got to our critique, and he showed these beautiful photos. Then the teacher said, “Well. You're not a very good poet.” It's funny, yes, and it's a striking reminder that design can't rise above it's content. The content is inherently a thing that is supported; no amount of compelling presentation makes up for a lack of quality at the core.
+
+D - Design culture: My dream is for Notion to be like one living, breathing organism. Our team is talented with a strong push for excellence. We can more deeply invest in a uniquely Notion design culture that builds and ships this very unique product. We’ll do it in a way that embeds the most important parts of the DNA for a long time to come — an enduring commitment that the users and community deserve.
+
+E - Edge cases: When I’m designing, I try to understand the different ways the user might experience the product. When you identify ways people might use the tools that are different than the ideal state, it reveals surprising scenarios (what we call “edge cases” in product design), which can often be accommodated once you’re paying attention to them. And if you design for these cases in an elegant way, it doesn’t even feel like the user is being accommodated. It just is, and it feels right.
+
+.
+
+.
+
+.
+
+F
+
+G
+
+.
+
+.
+
+.
+
+H - Hospitality: I think that hospitality is a well of inspiration. For me, this is where the intellectual and playful come together. It's fun to go have a dining experience and ponder the mechanics of how it ends up working the way it does. Sometimes you have a fast-casual place that is so good at that price — there are times when the economics suggest the quality shouldn't be possible! And at the other end, there's fine dining and the fact that you never have to ask for anything. It’s available to you just when you need it. It is an incredible operational exercise that ends up feeling not operational at all — it feels human and organic when it's done well. I love aspiring to this feeling.
+
+I - Interior:
+
+J - Jury:
+
+.
+
+.
+
+.
+
+K
+
+.
+
+.
+
+.
+
+L - Language: Design is a visual and experiential medium, but I'm as language-centric as I am image-centric. My concepts often emerge first by describing what they'll be like and then making them look, behave, and feel that way. Language is elemental — it goes right back to the Notion editor.
+
+M - Mentorship: While I was getting a formal design education, I got a job at a design studio. I knocked on the door of the studio, and the founder answered. I didn't have much work to show for myself — just a little bit. The founder said a really cool thing: If you don't have much work to share, come back tomorrow and bring stuff you think is good, and we’ll talk about it. He did that as a way to evaluate my taste and understand what my interests were, even if I didn’t have a long track record. It gets at how you think, not what you’ve done. He totally took a chance on me. That informed the way I think about caring for others.
+
+N - Notion: For the product itself, the aspiration is for it to be enduring and inevitable. The design intention for it is to serve people exceptionally well, to be dependable, nourishing, and empowering. That doesn't mean that it lacks excitement, but that it is free of novelty. It is essential — like air.
+
+O - Opening:
+
+P - Pop sensibility: I enjoy intellectual stimulation. Being with your thoughts can be very satisfying. But it's heavily balanced with what I like to call a pop sensibility. I like things that I appeal to a lot of people — things that are fun, culturally relevant, and bring people together. It’s fun to participate in things that are accessible; there's something playful about that. It's like actively cultivating your inner child as much as possible. If you find a good hook, then we'll all be singing along for years to come.
+
+.
+
+.
+
+.
+
+Q
+
+.
+
+.
+
+.
+
+R - Rules: I was doing early-ish work on the web, editing some frontend code and refreshing the browser to see the results of my work. Around the same time I was doing that, I was also learning how to screen print. There's an important learning in both that happened in parallel: understanding the mechanics of how the thing is constructed allows me to manipulate the medium in a more fundamental way than only having knowledge about the output.
+
+In the browser, it was very obvious you were manipulating the thing that rendered something else. That felt like a pretty fixed set of rules. You're kind of like banging around towards what was right.
+
+In screen printing, there are established “rules” around putting the light inks first and the dark inks later. But you don’t have to! You can put extra medium in the ink to make it semi-transparent, or you can toss in something glittery and see what happens. You can really mess with it. And I think learning that lesson around the same time that I was editing code made me feel like, Oh! The digital environment, while free in some ways, feels very rule-based — but you can break the rules there, too.
+
+S - Soleri, Paolo:
+
+T - Thoughtfulness: I enjoy taking care of other people, knowing that other people are taken care of, and also feeling taken care of myself. I feel a drive to make things more thoughtful.
+
+U - Update:
+
+.
+
+.
+
+.
+
+V
+
+W - WELCOME TO NOTION, RANDY!
+
+X
+
+Y
+
+Z
+
+.
+
+.
+
+.

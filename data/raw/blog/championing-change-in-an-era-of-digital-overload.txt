@@ -1,0 +1,67 @@
+Title: Championing change in an era of digital overload
+Published Date: 2025-04-11T09:00-07:00
+URL: https://www.notion.so/blog/championing-change-in-an-era-of-digital-overload
+
+Over the years, I’ve helped hundreds of Notion customers get set up and start transforming how they work. Throughout, I’ve noticed a pattern: while individual teams might find success implementing a new tool at work, spreading that success across an entire organization takes careful change management.
+
+So how do leaders usher in new tools and workflows at their organizations? We spoke with a few to learn more—and while their companies are all different sizes and operate in different industries, they all had shared experiences managing change. Here are a few key learnings from these architects of change.
+
+Start with why
+
+In my years of helping organizations implement Notion, I’ve found that successful change always begins with a compelling reason. Without a clear “why,” even the best tools and processes will struggle to gain traction. Your team needs to understand not just what’s changing, but why it matters.
+
+Today’s workplace challenges make this especially clear. The digital-tool landscape has become increasingly complex—companies are using an average of 101 apps for work, and employees are feeling overwhelmed by the sheer volume of information sources they must navigate. This fragmentation has real costs.
+
+Meri Williams, CTO of Pleo, agreed. “People are overwhelmed—by the number of tools, the different things that you can do, the number of things that you need to know.” This digital overload doesn’t just frustrate employees—it actively hinders their ability to do meaningful work.
+
+The solution lies in consolidation and creating a single source of truth. Cyrielle Jourdren from Accor’s eCommerce product-ops team articulated this challenge perfectly: “There’s a big need to know the source of truth. And there’s a big challenge in disseminating the right information at the right time, to the right target.”
+
+I’ve seen this across organizations of all sizes. When information is scattered across dozens of tools, people spend more time searching than doing. That’s why bringing work into a unified space is so transformative. “For years, we focused on rapid growth, allowing teams freedom to choose their tools,” said Nicholas Suter, former Head of Architecture at TheFork. “But this led to local optimizations at the expense of company-wide performance. Now we’re restructuring and consolidating our tools to improve overall efficiency.”
+
+This need for streamlined, transparent work environments is especially critical as workforce demographics shift. Gen Z workers—expected to make up sixty percent of the workforce by 2030—demand more efficient and collaborative ways of working. They’ve grown up with seamless digital experiences and expect the same at work.
+
+Tip: When making your case for change, focus on specific pain points your organisation is experiencing. Collect stories and examples from team members about time wasted searching for information or confusion about where to find the latest updates. These concrete examples are far more compelling than abstract benefits.
+
+Find your champions
+
+Once you’ve established a strong “why,” you need allies to help drive change throughout your organization. I’ve learned that even the most brilliant solution needs champions at every level to truly transform how teams work.
+
+Start with leadership support by building a compelling business case that addresses both people and ROI. In my conversations with executives, I’ve found they respond best when you connect change to outcomes they already care about.
+
+On the people side, address employee satisfaction and retention—workers who feel unproductive are 8× more likely to leave their roles. When it comes to ROI, focus on time savings from reduced context-switching and more efficient information access. These tangible benefits speak to both the heart and head of your leadership team.
+
+Claire Donald, CPTO at MOO, offered advice I’ve seen work consistently: “Start small and demonstrate the impact. The strongest cases come from teams who can show tangible benefits—first for their immediate team, then how those benefits could scale across the company.” Proof beats promises every time.
+
+But leadership support is only half the equation—you also need to identify your champions across the organization. In my experience, a diverse group from each department creates the strongest foundation for change. It’s important to recognize both builders (enthusiastic early adopters) and consumers (those who need more time to adapt).
+
+As Meri from Pleo put it, “excitement beats apathy every day of the week.” A small group of passionate advocates can create momentum that eventually brings even the most reluctant participants on board.
+
+Tip: When finding your internal change champions, look for "bridge builders"—respected team members who naturally connect different departments. These individuals often have informal influence that extends beyond their formal role and can help translate the benefits of change to various stakeholders across the organisation.
+
+Create quick wins
+
+The most successful change initiatives I’ve supported share one thing in common: they generate momentum through early victories. A few tips on how you can do this effectively:
+
+Make it relevant. Address common pain points that everyone understands. Many organizations struggle with blank-slate syndrome when adopting new tools. I’ve found that starting with company-wide processes that everyone interacts with, like OKRs, creates immediate relevance.Make it inclusive. The best solutions bridge organizational divides. “We’re a physical product company with manufacturing plants and supply chains,” shared Claire from MOO. “Using Notion to help with our workflow from sourcing physical materials through to getting them on our site has linked together departments across the whole organization.”Make it inspiring. Change carries emotion. Meet people where they are, not where you want them to be—have your enthusiastic early adopters showcase creative solutions that spark excitement. “It’s about understanding and being understood by the people you’re talking to, knowing how to adapt what you’re saying,” says Nicolas from TheFork.Make it easy. Remove friction from adoption by providing templates and clear examples that people can quickly adapt. Self-serve training materials help scale adoption without requiring intensive support. In my experience, even small barriers can significantly impact adoption rates.Make it fun. The unknown can be scary. Create interactive learning experiences, like lunch and learns or a company-wide building session. Making adoption feel like a collaborative effort rather than a mandate transforms the entire experience.
+
+Make it relevant. Address common pain points that everyone understands. Many organizations struggle with blank-slate syndrome when adopting new tools. I’ve found that starting with company-wide processes that everyone interacts with, like OKRs, creates immediate relevance.
+
+Make it inclusive. The best solutions bridge organizational divides. “We’re a physical product company with manufacturing plants and supply chains,” shared Claire from MOO. “Using Notion to help with our workflow from sourcing physical materials through to getting them on our site has linked together departments across the whole organization.”
+
+Make it inspiring. Change carries emotion. Meet people where they are, not where you want them to be—have your enthusiastic early adopters showcase creative solutions that spark excitement. “It’s about understanding and being understood by the people you’re talking to, knowing how to adapt what you’re saying,” says Nicolas from TheFork.
+
+Make it easy. Remove friction from adoption by providing templates and clear examples that people can quickly adapt. Self-serve training materials help scale adoption without requiring intensive support. In my experience, even small barriers can significantly impact adoption rates.
+
+Make it fun. The unknown can be scary. Create interactive learning experiences, like lunch and learns or a company-wide building session. Making adoption feel like a collaborative effort rather than a mandate transforms the entire experience.
+
+Change management is an iterative process that requires patience, persistence, and a clear vision of the future you want to create. Nicolas said it best: “Think big, but start small.”
+
+Tip: Create an adoption roadmap with clear milestones and celebrations built in. Publicly recognise early adopters and share success stories widely. Consider gamifying the adoption process with friendly competitions between teams or departments to build momentum through a sense of shared achievement.
+
+Leading change with clarity and purpose
+
+Successfully implementing new tools and workflows across an organization is about more than just finding the right tool. It demands thoughtful change management centered on people. Starting with why, finding your internal champions, and creating quick wins can help you transform how your organization works while bringing your team along on the journey.
+
+As we’ve seen from leaders at MOO, Pleo, TheFork, and Accor, the most successful change initiatives combine clear vision with empathetic leadership and practical action steps. The shift to more consolidated, transparent work environments is about creating spaces where people can do their best work together.
+
+What change are you trying to implement in your organization? We’d love to hear from you at @NotionHQ—drop us a note and share what changes you’d like to see this year.

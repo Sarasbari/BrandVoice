@@ -1,0 +1,239 @@
+Title: How to delete folders in Gmail [+ Bonus inbox cleanup tips]
+Published Date: 2025-04-03T00:00-07:00
+URL: https://www.notion.so/blog/how-to-delete-folders-in-gmail
+
+If you’re trying to tidy up your Gmail, you might be wondering how to delete old “folders” that have piled up over time. While Gmail doesn’t use folders in the traditional sense—it uses labels instead—the goal remains the same: declutter your inbox and regain control.
+
+This short guide will walk you through how to delete “folders” in Gmail and share more tips to help you manage your inbox and keep it tidy. We’ll also explore more advanced solutions for email management so you’re better equipped to keep clutter at bay.
+
+How do you delete a folder in Gmail?
+
+Before we begin, it’s important to clarify that what’s often called a “folder” in Gmail is actually called a “label”. For simplicity, we may still occasionally refer to them as folders.
+
+Deleting a label is a simple process that removes the organizational category from your Gmail. This action does not delete the emails themselves. If you’ve not set other labels that move the emails out of your primary inbox, you’ll still be able to find them in your All Mail section or your primary inbox.
+
+To delete a folder (or label) from Gmail on your desktop browser, do the following:
+
+Open Gmail in your web browserFind the label you wish to delete in the left-hand sidebar of your Gmail interface. You may need to scroll down or click “More” to find the available labelsHover over the label’s name and click on the three dots that appear on the rightOn the drop-down menu that appears, select Remove labelClick Delete on the pop-up that appears to confirm that you want to remove the label
+
+Open Gmail in your web browser
+
+Find the label you wish to delete in the left-hand sidebar of your Gmail interface. You may need to scroll down or click “More” to find the available labels
+
+Hover over the label’s name and click on the three dots that appear on the right
+
+On the drop-down menu that appears, select Remove label
+
+Click Delete on the pop-up that appears to confirm that you want to remove the label
+
+The label will no longer appear in your sidebar, and all the emails will appear in your inbox and All Mail.
+
+How to delete Gmail folders on iPhone and Android devices
+
+The process for deleting folders on mobile devices depends on whether you’re using an iPhone or an Android. The steps for each device are outlined below.
+
+iOS devices
+
+You can delete folders directly from the Gmail iPhone app:
+
+Open the Gmail app on your iPhoneTap the Menu icon in the top-left cornerScroll down and tap SettingsSelect your Gmail account if you have multiple accountsScroll down to Inbox customizationsScroll down to Labels and tap Label settingsSelect the label you want to deleteTap Delete [label name]Tap the Delete button to confirm
+
+Open the Gmail app on your iPhone
+
+Tap the Menu icon in the top-left corner
+
+Scroll down and tap Settings
+
+Select your Gmail account if you have multiple accounts
+
+Scroll down to Inbox customizations
+
+Scroll down to Labels and tap Label settings
+
+Select the label you want to delete
+
+Tap Delete [label name]
+
+Tap the Delete button to confirm
+
+Android devices
+
+The Gmail Android app does not allow direct deletion, but you can do it via a mobile browser:
+
+Open your mobile web browserGo to mail.google.comSwitch to the Desktop site version to load Gmail as it appears on a computerNavigate to the left sidebar and zoom inTap and hold the label’s name to reveal the More optionTap the three dots and select Remove label from the drop-down menuTap Delete to confirm
+
+Open your mobile web browser
+
+Go to mail.google.com
+
+Switch to the Desktop site version to load Gmail as it appears on a computer
+
+Navigate to the left sidebar and zoom in
+
+Tap and hold the label’s name to reveal the More option
+
+Tap the three dots and select Remove label from the drop-down menu
+
+Tap Delete to confirm
+
+How to empty a folder in Gmail
+
+Emptying a label (or “folder) in Gmail is different from deleting it. To empty a folder on Gmail, you’ll need to delete all the emails associated with it. These deleted emails will move to your Trash, and will be permanently removed after 30 days.
+
+On a computer:
+
+Open Gmail in your web browserClick on the specific label in the left-hand sidebar to display the corresponding emailsSelect all emails: Click the topmost checkbox at the top left of the email list to select all the visible emails on the pageIf you have more emails within that label, click on the prompt above the email list that says “Select all X conversations in [label name]” Click the Delete icon (trash can) in the icon row above the emails
+
+Open Gmail in your web browser
+
+Click on the specific label in the left-hand sidebar to display the corresponding emails
+
+Select all emails:
+
+Click the topmost checkbox at the top left of the email list to select all the visible emails on the pageIf you have more emails within that label, click on the prompt above the email list that says “Select all X conversations in [label name]”
+
+Click the topmost checkbox at the top left of the email list to select all the visible emails on the page
+
+If you have more emails within that label, click on the prompt above the email list that says “Select all X conversations in [label name]”
+
+Click the Delete icon (trash can) in the icon row above the emails
+
+On the Gmail mobile app:
+
+Open the Gmail app and tap the Menu icon at the top leftFind the label you want to empty and tap it to reveal all the emails with that labelSelect the emails you want to delete:For a single email: Tap and hold the profile circle beside the emailFor multiple emails: Tap and hold the first email, then select other emails you wish to include Tap the Delete icon at the top of the screen to move the selected emails to Trash
+
+Open the Gmail app and tap the Menu icon at the top left
+
+Find the label you want to empty and tap it to reveal all the emails with that label
+
+Select the emails you want to delete:
+
+For a single email: Tap and hold the profile circle beside the emailFor multiple emails: Tap and hold the first email, then select other emails you wish to include
+
+For a single email: Tap and hold the profile circle beside the email
+
+For multiple emails: Tap and hold the first email, then select other emails you wish to include
+
+Tap the Delete icon at the top of the screen to move the selected emails to Trash
+
+How to edit a Gmail folder
+
+If you’re considering deleting a label because of an error, you don’t have to. Gmail has an edit feature that lets you modify your labels easily. Here’s how to use it:
+
+Open Gmail in your web browserLocate the label you want to edit in the left sidebarHover over the label’s name and click on the three dots that appearSelect Edit from the drop-down menuEnter a name for your new label in the small pop-up windowClick Save to apply the changes
+
+Open Gmail in your web browser
+
+Locate the label you want to edit in the left sidebar
+
+Hover over the label’s name and click on the three dots that appear
+
+Select Edit from the drop-down menu
+
+Enter a name for your new label in the small pop-up window
+
+Click Save to apply the changes
+
+Beyond Gmail folders: 3 effective ways to keep your inbox clutter-free
+
+Deleting emails and folders is a step in the right direction when it comes to managing clutter, but there are other powerful strategies you can employ to maintain a clean and manageable inbox.
+
+The following three methods help reduce unwanted messages and streamline your email workflow:
+
+1. Unsubscribe from promotional emails
+
+Unsubscribing from unwanted promotional emails is a good way to tackle inbox clutter from the source. It reduces daily email volume and helps minimize distractions. This eliminates the need to constantly delete emails that no longer serve you. Here’s how it works:
+
+Identify unwanted promotional senders: Look for newsletters, marketing emails, or promotional offers you no longer find valuableClick the “Unsubscribe” link: Look for the small unsubscribe button at the top or bottom of the email and confirm your choiceTry a Gmail cleaner app: If you have a large volume of clutter to deal with, use a cleaner app to unsubscribe from unwanted senders in bulk
+
+Identify unwanted promotional senders: Look for newsletters, marketing emails, or promotional offers you no longer find valuable
+
+Click the “Unsubscribe” link: Look for the small unsubscribe button at the top or bottom of the email and confirm your choice
+
+Try a Gmail cleaner app: If you have a large volume of clutter to deal with, use a cleaner app to unsubscribe from unwanted senders in bulk
+
+This method is best done periodically to prevent clutter from building up in your labels.
+
+2. Archive non-urgent emails
+
+This is a good way to deal with clutter if you have essential emails you’re not ready to delete permanently. It helps reduce visual clutter while maintaining critical records.
+
+You can use Gmail’s archive button to move emails into the archive label, called the All Mail section. On mobile, a simple swipe action can perform the archive action.
+
+Pro tip: Learn how to archive labels on Gmail and keep your inbox view clean.
+
+3. Set up email filters
+
+If you’re tired of manual inbox management, setting up Gmail filters can help you automate your inbox to help you sort incoming emails. Here’s how you can do this:
+
+Create rules based on specific email characteristics, such as the sender or subject lineSpecify the actions you want Gmail to perform on emails that match your criteria, such as Skipping the inbox to auto-archive emails or Deleting to send it to TrashOnce set, the filters will work in the background to manage new emails as long as they match your set parameters
+
+Create rules based on specific email characteristics, such as the sender or subject line
+
+Specify the actions you want Gmail to perform on emails that match your criteria, such as Skipping the inbox to auto-archive emails or Deleting to send it to Trash
+
+Once set, the filters will work in the background to manage new emails as long as they match your set parameters
+
+To access Gmail filters, click the three-slider icon in the search bar and fill out the necessary details.
+
+Drawbacks of traditional Gmail filters
+
+Gmail filters offer fundamental functionality for automating email organization, but some limitations make them less effective for complex needs. If you’re looking for a truly efficient inbox that doesn’t require constant micromanagement, relying solely on Gmail filters may present some challenges, such as:
+
+Rigid rule-based method of operation where filters function based on the exact criteria you define. If slight variations exist in your filter’s precise wording, your email may be miscategorized.Time-consuming maintenance because of the repeated need for manual adjustments. As your communication needs evolve, you need to rigorously monitor your filters to ensure nothing important slips through the cracks.
+
+Rigid rule-based method of operation where filters function based on the exact criteria you define. If slight variations exist in your filter’s precise wording, your email may be miscategorized.
+
+Time-consuming maintenance because of the repeated need for manual adjustments. As your communication needs evolve, you need to rigorously monitor your filters to ensure nothing important slips through the cracks.
+
+To enjoy an email solution that transcends traditional filter limitations—offering intelligent automation without constant tweaking and monitoring—enhance your email experience with a Gmail client like Notion Mail.
+
+Notion Mail: The ultimate inbox management solution
+
+Notion Mail is an AI-powered email client designed to modernize your Gmail experience by providing an ultimate solution for inbox management. It leverages artificial intelligence tools to automate, organize, and prioritize your communications, effectively reducing clutter and saving your valuable time.
+
+Notion Mail shines through its various AI-driven capabilities, including:
+
+FeatureExplanationAI autopilotAuto-sorts, labels, and prioritizes incoming emails based on simple AI prompts and your learned email behavior—no need for complex filter setupsCustomizable viewsLets you create highly tailored “inboxes within an inbox” to focus on specific clients, projects, or prioritiesAI-powered response and summariesAssists with email composition by drafting emails and suggesting smart replies to save time. Generates concise email summaries from long email threads to speed up information processingAuto-schedulingFast-tracks meeting coordination, allowing your collaborators to schedule meetings directly from your email using a schedule button or the /schedule command
+
+Feature
+
+Explanation
+
+AI autopilot
+
+Auto-sorts, labels, and prioritizes incoming emails based on simple AI prompts and your learned email behavior—no need for complex filter setups
+
+Customizable views
+
+Lets you create highly tailored “inboxes within an inbox” to focus on specific clients, projects, or priorities
+
+AI-powered response and summaries
+
+Assists with email composition by drafting emails and suggesting smart replies to save time. Generates concise email summaries from long email threads to speed up information processing
+
+Auto-scheduling
+
+Fast-tracks meeting coordination, allowing your collaborators to schedule meetings directly from your email using a schedule button or the /schedule command
+
+As a Gmail-only client, Notion Mail seamlessly integrates with your existing account to provide a more streamlined email experience.
+
+How to get started with Notion Mail
+
+To get started, connect your Gmail or Google account with Notion Mail. Once you sign up, you can access various productivity and automation features at no cost. If you’re interested in exploring advanced AI-powered functionalities, get the Notion AI add-on.
+
+Bonus read: Explore our email management guides to find the help you need:
+
+How to add contacts to a labelTips for managing the Spam folderHow to remove the inbox labelHow to manage multiple Gmail accountsWays to recover deleted emails from GmailHow to automatically label emails
+
+How to add contacts to a label
+
+Tips for managing the Spam folder
+
+How to remove the inbox label
+
+How to manage multiple Gmail accounts
+
+Ways to recover deleted emails from Gmail
+
+How to automatically label emails

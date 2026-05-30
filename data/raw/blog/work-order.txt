@@ -1,0 +1,139 @@
+Title: The ultimate guide to work order management
+Published Date: 2023-08-01T00:00-06:00
+URL: https://www.notion.so/blog/work-order
+
+Thanks to the modern digital workforce, we often think of a business as a combination of software and employees rather than a physical workplace. But not all work suits Zoom — many companies still operate brick-and-mortar locations filled with machines and hardware that need consistent inspection and maintenance.
+
+If your organization relies on physical technology, you know that without preventative care and consistent repair to machinery you run the risk of unplanned downtime and losses. To keep equipment running smoothly, your business needs a system in place to organize corrective maintenance actions.
+
+A solid record of work orders helps your company understand its physical inventory and keep operations unbroken and on schedule. Learn how to create, track, and maintain maintenance with work order management.
+
+What’s a work order?
+
+A work order is an authorization for maintenance or repair work.
+
+When a user notices an issue with a piece of equipment that needs fixing, they submit a work request to the maintenance department. The maintenance team’s purpose is to review these requests and approve them, as well as schedule regular preventative upkeep. When they determine the need for a repair or inspection, the department issues a work order to initiate the process. The document outlines the details of a specific maintenance task, information that helps maintenance managers schedule repairs, assign work, and estimate labor and material costs.
+
+If a piece of equipment needs repairs, filling out a work order:
+
+Initiates the task and signals that work is neededDetails exactly what work needs to be doneSpecifies the completion date(s)Provides any special instructions
+
+Initiates the task and signals that work is needed
+
+Details exactly what work needs to be done
+
+Specifies the completion date(s)
+
+Provides any special instructions
+
+The benefits of a work order system
+
+Rather than keeping track of a stack of papers, many companies use a computerized maintenance management system (CMMS) to manage their work orders. Software programs like MaintainX and DPSI centralize work order systems with computerized inventory and labor controls.
+
+There are many benefits to managing your work order process with a CMMS or similar tool, regardless of the specific system. Here are a few examples:
+
+Reduced costs
+
+Whether you choose to use a full-fledged CMMS or a collection of digital templates, running your system on a computer costs less in time and labor than managing paper files and carbon copies. You can easily create, search, and deliver digital work orders in a fraction of the time it takes to put pen to paper — which also reduces the risk of miscommunications that result in costly and unnecessary repairs.
+
+Data visibility
+
+When you log and track every work order for maintenance and repairs within a CMMS or digital tool, that data instantly becomes available for analysis. How much are you spending on maintenance? What are the most frequently requested repairs? What equipment is due for preventative care? It's much easier to answer those questions when you have lightning-fast access to the data (as opposed to digging through filing cabinets).
+
+Automation
+
+A CMMS or similar tool empowers your organization to use data automation to share and digest all information about work orders with greater efficiency. With a digital system, an operational manager can create data dashboards that constantly inform management of top-level maintenance data and maintenance technicians of granular feedback on their performance.
+
+Additionally, the maintenance department can schedule and document recurring work, such as regularly occurring inspections and repairs, far in advance. A shared digital tool keeps everyone on the same page and allows for better resource management, even months in the future.
+
+Types of work orders
+
+There are a plethora of work orders based on specific maintenance needs, and two documents rarely look exactly alike. However, there are six standard categories most work orders fall into:
+
+Preventive maintenance — these orders are for scheduled, routine work to keep physical assets in working order. Inspection — when a maintenance technician needs to assess the condition of a machine, you create an inspection work order. From there, if the technician identifies problems, you may initiate a new repair work order.Emergency — sometimes things just break, no matter how careful your team is. This is when you need an emergency work order to not only track the repair but provide an assessment on how to prevent similar breakdowns from occurring.Corrective maintenance — this is a new work order that springs from any issues discovered during preventive maintenance, inspection, or emergency work.Safety — all repairs or upgrades that directly affect employee safety falls under this type of work order. General — this category is a catch-all for any work order that doesn't fall into the previous categories. General work orders cover everything from setting up new equipment to removing the old ones.
+
+Preventive maintenance — these orders are for scheduled, routine work to keep physical assets in working order.
+
+Inspection — when a maintenance technician needs to assess the condition of a machine, you create an inspection work order. From there, if the technician identifies problems, you may initiate a new repair work order.
+
+Emergency — sometimes things just break, no matter how careful your team is. This is when you need an emergency work order to not only track the repair but provide an assessment on how to prevent similar breakdowns from occurring.
+
+Corrective maintenance — this is a new work order that springs from any issues discovered during preventive maintenance, inspection, or emergency work.
+
+Safety — all repairs or upgrades that directly affect employee safety falls under this type of work order.
+
+General — this category is a catch-all for any work order that doesn't fall into the previous categories. General work orders cover everything from setting up new equipment to removing the old ones.
+
+Work order versus work request
+
+Both work orders and work requests are documentation filled out to indicate necessary maintenance. Although they might sound like the same thing, they’re actually two distinct steps in the repair process.
+
+A work request comes from any non-maintenance personnel at the organization who uses the equipment. When they notice an issue, they file this request with the maintenance department.
+
+Picture a manufacturing company. Let’s say an assembler on the line spots a loose thread in a conveyor belt. Right away, they create a work request detailing the issue and submit it to the maintenance team. Once the work request comes in, the maintenance staff reviews the document and creates a work order for an in-house or third-party technician to make the necessary repairs.
+
+What should a work order include?
+
+An effective work order provides all the relevant information for a maintenance project at a glance. All work orders should contain:
+
+Description of the work needed — whether it’s preventive maintenance or emergency work, provide a detailed description of what needs repairing.Department or individual — include the original work request form and indicate the person or department that flagged the issue.Assigned technician — name the technician responsible for the repairs, whether in-house or a third party contractor.Tools or supplies — list any tools or supplies needed to make the repair.Estimated time to completion — estimates the time it will take to complete the repair and provide a date when the work is expected to be finished.Location of assignment — specify the exact location of the equipment, whether on-site or at a remote facility.
+
+Description of the work needed — whether it’s preventive maintenance or emergency work, provide a detailed description of what needs repairing.
+
+Department or individual — include the original work request form and indicate the person or department that flagged the issue.
+
+Assigned technician — name the technician responsible for the repairs, whether in-house or a third party contractor.
+
+Tools or supplies — list any tools or supplies needed to make the repair.
+
+Estimated time to completion — estimates the time it will take to complete the repair and provide a date when the work is expected to be finished.
+
+Location of assignment — specify the exact location of the equipment, whether on-site or at a remote facility.
+
+The lifecycle of a work order
+
+Something just broke. It's not on fire, but it definitely needs repair. Here’s what should happen next:
+
+1. Submitting a work request
+
+A request for a work order comes from the person or department who spotted the issue. They send the form to a manager for approval, who then submits it to the maintenance team.
+
+2. Evaluating a work request
+
+The maintenance team sorts through incoming work requests to determine validity and order of importance. The department assesses the severity of the issue and verifies if there are already repairs on the schedule or if this is a new problem that needs immediate support. Anything that will cause a work stoppage usually gets the primary focus, while available resources dictate the best time to repair equipment involved in less critical tasks.
+
+3. Creating a work order
+
+Next up is the actual creation of the work order. A maintenance team member determines the project’s scope and costs and fills out the work order in the CMMS or similar system.
+
+4. Assigning a work order
+
+Once the work order is in, a scheduling system or coordinator either automatically or manually assigns the task to a technician who meets the requirements for the job and has the right availability.
+
+5. Finalizing documentation
+
+The maintenance technician records the labor hours, materials used, and exact specifications of the repair, along with any additional notes or observations. If they spot additional issues or think an entire machine needs replacement, they can highlight this in the documentation before closing the work order.
+
+6. Completing review and analysis
+
+The maintenance team leader examines the details of complete work orders to monitor the maintenance process and ensure that issues such as long completion times and repetitive repairs don’t go unnoticed. Was the work order completed on time? Was the process cost-effective? Is the equipment on its last legs?
+
+Work order management best practices
+
+Like any other business process, work orders benefit from standard operating procedures. Here are some best practices to apply to yours.
+
+Clearly define roles and responsibilities
+
+Create a hierarchical chart that clearly states who can assign and prioritize work orders with an approval flow. Can maintenance workers submit orders on their own, or do they need to be approved by the team leader first? When your staff members know who to bring concerns to, you reduce lost time and eliminate duplicate work.
+
+Set and share a calendar
+
+Whether dictated by manufacturer guidelines or your own inspection schedule, set a frequency for regular maintenance work and share it with the team. This way, technicians know when they can expect scheduled preventive care, managers can easily check for potential disruptions, and maintenance team members can use upcoming repairs to help them evaluate the priority of work requests.
+
+Keep everything in one place
+
+The less time staff spend chasing down documents, the better. If possible, set up a CMMS that encompasses the entire maintenance process from start to finish. Files are far less likely to become lost if everything from work requests to closed orders are processed through the same system. Plus, maintenance team leaders can create even more robust data analyses when they have access to all the information in one place.
+
+Manage work orders and requests with Notion
+
+Whether through a CMMS or a custom template, managing your maintenance work digitally is integral to saving time and money. And Notion can help: we offer a robust platform and numerous templates specifically designed for breaking down, managing, and communicating organizational tasks. Check out our task management, to-do manager, and project roadmap templates — and much more.

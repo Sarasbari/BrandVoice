@@ -1,0 +1,223 @@
+Title: Alan Kay on the context and catalysts of personal computing
+Published Date: 2021-09-16T00:00-07:00
+URL: https://www.notion.so/blog/alan-kay
+
+Alan Kay is a prolific computer scientist often referred to as the “father of personal computers." He's best known for his work on object-oriented programming languages, windowing graphical user interface design (also known as GUIs) and for leading the team that developed Smalltalk.
+
+Over the course of his career he spent time at Apple, Atari, Disney, Xerox PARC, and Hewlett Packard, where he worked to shape the future of personal computing and graphical user interfaces during the age of ARPANET. He was awarded a Turing award in 2003 and elected a Fellow of the American Academy of Arts and Sciences, the National Academy of Engineering, the Royal Society of Arts, and the Computer History Museum. In 2001 he founded Viewpoints Research Institute, a non-profit organization dedicated to children and learning, where he continues to explore advanced systems and programming design.
+
+DEVON: Hello. I'm Devon and you're listening to the eighth episode of Pioneers, a series of conversations with the designers, engineers, and inventors who are shaping computing as we know it.
+
+Today, I'm talking to Alan Kay, best known for his pioneering work on object orientated programming, graphical user interfaces, also known as GUIs, and Dynabook. He's worked at Apple, Atari, Disney, Xerox PARC, NYU, Hewlett-Packard, and beyond. Alan, thank you so much for taking the time to chat. I've been really looking forward to this conversation.
+
+ALAN: Glad to be here.
+
+DEVON: How is democracy different when the medium is pamphlets versus TV versus Twitter versus some other medium?
+
+ALAN: Well, McLuhan had a good line about it. He said, "Look, you can argue about a lot of things with stained glass windows, but democracy is not one of them."
+
+DEVON: That last one, what does that mean, the stained glass windows?
+
+ALAN: The worst thing you could ever invent for democracy is television. Television is the stained glass window of the 20th century. It's because it doesn't require any learning and because it has this glow to it that is all about personality and it's about feelings and it's about aptness; it's about story. Democracy has nothing to do with any of those things, nor does science.
+
+ALAN: Our modern versions of democracy and science both started their invention in the 17th century. Part of what catalyzed those inventions was people gradually being able to give up on story forms. We like stories when they're apt, when we feel resonance to them. This is why people are not at all disturbed by the contradictions in the Bible or, in fact, in stained glass windows, because you're feeling one way, like justice must be served. You find the stained glass window that shows somebody getting punished for sinning or you dip into the Bible for that line. But if you're feeling another way about forgiveness, you can go to another stained glass window and there it is, telling you that your feelings there... We have proverbial societies, which most traditional societies are. If you list out the proverbs, they all cancel each other out. Absence makes the heart grow fonder, but out of sight out of mind. You can't tell a book by its cover, but where there's smoke there's fire. One of the legends about Solon, who was called on by the early Athenians to make laws with them because they were tired of having tyrants — this was sixth century BC — Solon was a very wise man, so he approached this carefully.
+
+According to legend, the first thing he did was say, "Well, let's write down everything we think is a principle of our society on the walls of our buildings. They actually put up billboards, using this new technology they had, which is writing with an alphabet. So now, the Athenians had a browsable version of their laws. You could walk around town and see, oh yeah, here's this one and here's that one. Pretty soon, they started noticing that they canceled each other out because what people use these things for was rationalizations and for ways of feeling better. People still do that today. That is the predominant form of human thinking. It hasn't changed in 100,000 years. Almost all progress that humanity has made, in my opinion, has come from opposing most of our genetic tendencies.
+
+I think of civilization as being a set of processes trying to invent things that mediate, deflect, turn away, and modify most of the things that are wrong with our brain. Again, the problem is that we can't change our brain. We can only change some of the processes in it through training. Democracy is one of these things. It has an idea lurking in it that is still one of the hardest ideas for people to learn, which is the idea of equal rights. This is very hard to teach and most people don't believe it for a second.
+
+DEVON: A lot of people pay lip service to the idea, for sure. People say that they believe it. What's the difference between their actions and their statements?
+
+ALAN: Lip service is just rationalization. The science fiction writer, Robert Heinlein, once said, "We're not rational animals. We're rationalizing animals."
+
+Because of that, we have to think of ourselves as intertwined with our cultures. We've got a cooperative drive that makes us a social creature. We have a competitive thing that likely comes from being a subsistence animal for most of our genetic heritage. There's hardly anything that competition really helps.
+
+This is one of the biggest problems with many economic systems that can only work through competition. They just can't do cooperation because cooperation makes it much easier to gain the cooperative systems.
+
+One of the theories is that the reason that writing is correlated with civilization, writing allows ideas to be thought about and organized differently, and most importantly it allows the reading ideas, the receipt of the ideas, to be done independently of response. The biggest problem with oral... See, what I'm doing here is I'm not conversing. I really can't converse very well at my age because I've lost my patience. So, what I do is pontificate, which is the same as giving you something like it's written. In normal conversation, there's this tit for tat kind of thing, but even worse, if somebody says something interesting and you just sit there for five minutes thinking about it, they start getting upset. But in fact, I do that all the time when I'm reading. I'm sure you know about Daniel Kahneman and Thinking Fast and Slow. The whole point here is what are all the modes that allow us to think slowly rather than to think reactively. A lot of these are correlated with inventions like writing and reading and some of the new media that have benefit. News is supposedly about new things, but if you look at the news, all the categories are ones that are completely understood by the audience. They couldn't do 22 minutes of television news if they introduced a new category like calculus.
+
+Here, we're going to tell you something about calculus tonight on the evening news. I'll give you the 30 seconds before the commercial break on it. No, that's new. New is something that you have to train your mind to actually be able to deal with in a fluent way. News is finding another instance of something you already know about. It's another murder, another corrupt action by a politician, another this, another that. You already know everything about it except the tiny detail.
+
+One of the big deals when printing came along was it changed the style of writing because, when you're doing oral traditions and writing them down, and oral stories, writing them down, the stories are never told the same way twice because nobody can remember them exactly. So, what you're doing is painting with a broad brush. Reason why we have a public education system in the US is partly because of people like Jefferson. But basically, a lot of the founders of the country realized that in order for a... they have a voting citizenry that could support a Republic. Once you do that, and a lot of it is learning philosophy in what we call science today, learning how to think in ways that are not natural to human beings.
+
+At age 55 or so, they become a guardian and you're supposed to have achieved enough wisdom to be able to deal with this power. That's the problem. How to make sure that the wisdom exceeds the power, rather than the other way around.
+
+So, Romans tried it and one of the jokes of one of the Roman poets a few hundred years later was who will guard the guardians. If you set up a Republic, maybe only the rich families with join in and maybe they'll use this to their advantage.
+
+The big problem, when it finally came down, thousands of years later, 1500 years later, when the US was trying to put together the constitution, this is one of the things that the thinkers wrestled with. Should we have a Republic? Should we do a monarchy? No. There was a good argument about that in Thomas Paine's "Common Sense" pamphlet. "Common Sense" was a joke because the common sense was that you should have a monarchy, but what Paine wanted to do in this little 40-page pamphlet was to say, "No, forget about what we think of as common sense."
+
+To paraphrase what he said, he said, "Instead of having the king be the law, we can have the law be the king." Meaning, we can design a whole new society. That pamphlet had a distribution of somewhere between 600,000 and 900,000 copies in the six months right before the Declaration of Independence. There were 1.5 million colonists in the 13 colonies at this time that a 600,000 to 900,999 pamphlets of this argument went out.
+
+Think about how you would get that coverage today. If you type into Google something like "proofs of the Constitution," P-R-O-O-F-S of the Constitution, and go to images.
+
+DEVON: It looks like a book with very wide margins.
+
+ALAN: Yeah. It's printed on the right hand side and then there's all these annotations. Think about these 55 guys that have six months to do all the debating and all the organizing, all the designing, and then writing the damn thing. This is pretty quick and they did a pretty good job. They didn't agree at the end, but one of the most important things about the process is it didn't require everybody to be in agreement. What they agreed on was that they were going to get a Constitution done.
+
+Any curious person, I would think, at some point would say, "Well, wait a minute. 55 people. How could they draft this thing? How do they..." Well, you see it right there. The answer is that every night the annotated stuff was typeset. Remember, it was Philadelphia, which is the city of printers. So, it was typeset overnight. It was printed before breakfast. When they came into their meeting, everybody had a fresh copy that looked like the thing there, but without any handwriting on it. They debated about that. They each had their own copy. They wrote their own notes. Then, towards the end of the day, they'd assemble what was going to happen on the next draft. Isn't that great?
+
+You may know of a place called the San Francisco Exploratorium.
+
+DEVON: Great place.
+
+ALAN: It was done by a friend of mine, Frank Oppenheimer. Started trying to get children, but also college students to learn something real about science because, when you're in an educational institution, the tendency, the easy way out, is to try and teach what the field already knows, rather than how the field came to know it and think that.
+
+Especially the undergraduate professors, they might not be as scientific as you might hope. Frank started putting together a bunch of exhibits at the University of Colorado to teach one thing and one thing only, which is the world is not as it seems. This is one of them. And someone of them. And some years later, when he went to California, they gave him a lot of money for what they thought was going to be a science museum, which again, almost never has any science in it. You go into a science museum, you'll find jet planes and every other kind of thing, but basically, you find technology. You never see an exhibit about Newton's Principia.
+
+DEVON: About the process of science and what it means to-
+
+ALAN: Well what it is. What it is. You never see anything. What you see is how science might've affected engineering. I served on some museum advisory boards, and one of the key phrases museums have is called release time. Release time is the maximum time anybody can be allowed to look at a particular exhibit. Because you got all these other people. So it's usually about two minutes. How much are you going to learn about something you don't know about in two minutes? Because a museum can't be anything else, but a commercial. And the real question is what is the commercial for? Yeah. So the number one thing before you even get into what science is, is you have to make the epistemological step of getting a hit...
+
+And so Frank's idea was, well, we can handle 2000 kids at a time, because they had this huge thing that used to be a World's Fair Pavilion in San Francisco. And handle 2000 kids at a time. And we can set up 500 exhibits there. And by the way, we'll have the shop and the manufacturing of the exhibits as one of the exhibits. So the people who are working on the new exhibits, this is part of the museum. So the kids can see that. But the basic idea is randomly bouncing kids around on this stuff. Everything is hands on. What's the chance that A, one of these 2000 kids will find the exhibit that hits them between the eyes in a way they'll never forget. And of course, the funders of this complained bitterly when they found out what he did.
+
+They thought of it as something like a rock and roll mosh pit. Bunch of kids running around screaming. Where are the jet engines? Frank said, "Well, you can't explain a jet engine to somebody who thinks the world is the way it seems." The big deal on a jet engine is, you can think about this the next time you fly on a plane and look out the window at the engine there, but in several critical parts of that engine the temperatures are higher than the melting points of any of the metals, any of the materials, higher. And those things will go for about 9,000 hours before you need maintenance. So they're almost perfect, but you can't really explain that to people until. You have to get people out of this simple minded, fast way of dealing with the world and give them this other mode.
+
+The other thing I was going to mention is that the Jews invented page numbers before the occidentals did. So one of the first places where page numbers occurred in the annotated Talmud in the Kabbalahs. But in Western culture, page numbers seem to be invented about 60 or 70 years after the printing press. The way the books were assembled was that at the bottom of each page would be a word or two on what's going to be on the next page. So no page numbers. And the reason was that each edition in Europe of the same work was typeset differently in a different town. So when page numbers were invented, and they looked like they were invented by Aldus, Minucius, and Erasmus. They were apparently invented to allow stronger argument in the same book, which is what the Jews actually used for hyperlinking in the Talmud. Because writing leads to stronger arguments than you can ever have in oral culture. People start arguing about what they said.
+
+DEVON: Right.
+
+ALAN: Right? You said... No, no, bullshit. Let's write it all down and we can go check it. Let's not argue about what was said. We've got this thing called writing. And once we do that, that means we can make an argument out of a much larger body of evidence than you can ever do in an oral society. It starts killing off stories, because stories don't refer back that much. And so anyway, a key book for people who are wary of McLuhan, to understand this, or one of the key books is by Elizabeth Eisenstein. It's a mighty tome. It's a two volume tome, called the "Printing Press as an Agent of Change." And this is kind of the way to think about it as a kind of catalyst. Because it happened. The printing press did not make the Renaissance happen. The Renaissance was already starting to happen, but it was a huge accelerant for what had already started happening and what Kenneth Clark called Big Thaw.
+
+DEVON: You had mentioned that the framers of the Constitution sort of got tough and started thinking in a more scientific way.
+
+ALAN: Science is the thing that if you get tough, all of a sudden you realize almost nothing that you think is going on is going on.
+
+DEVON: Yeah. So my question is, how do you get tough? What are the things that you can do in your mind that help make you a better thinker?
+
+ALAN: The easiest thing is to help children see it before they are completely fastened on the common sense world. That's why almost all the main work I did in education was done in elementary school. There's a commitment that children make to what you might call normalcy, that is correlated with their settling down much of their language apparatus around age seven. Age seven was the age of majority in the middle ages. So if you were a child who is aged seven or older and you were caught pick-pocketing, you were hanged as an adult. There wasn't a concept of something between infancy and adulthood. Neil Postman wrote a book on that. He said, one of the things that created the concept of childhood was the printing press. Suddenly there was something to do before you could become an adult, which is learn how to read and start learning more than what you're picking up in a village society.
+
+One way to look at all of this stuff is a lot of what we think of as being progressive, is being able to co-op our language apparatus to build other things on top of it with. Because we don't get to change our genetics yet. And I'll be long gone and it will probably be botched when people start to do it. It's possible to do it right now. Probably some people are illegally fooling around with it because of the CRISPR. If you give a cave person a spear that has a factor of a million power over the spear, and you don't fix something in their brain by training, by acculturation or something like that, you've created something that is much worse than a million bad cave people with spears. So that's where we are. And one of the simplest things that isn't taught to children is scaling. Our brains can hardly handle it.
+
+So if I show you one picture, then another picture, and another picture, a half-second apart, you'll see the pictures individually. So that's two a second. If I just go up by a factor of 10, all of a sudden you can't see the individual pictures. Your brain fuses them into a movie. That's just a factor of 10. So that is what the ARPA community in the '60s, and then PARC joined it. PARC was part of the ARPA community. It was just funded by Xerox. But it was populated with people who got their PhDs and the ARPA community. So the vision of the ARPA community articulated by the guy who set it up in 1962, was the destiny of computers to become interactive intellectual amplifiers, for all humanity pervasively networked worldwide. And so whenever anybody asks him what he was funding, you would just say that.
+
+And they said, "Well, what about the 70% failure?" And he said, "We're not playing golf, we're playing baseball." Baseball if you hit 300, you're doing well. And the 70% you don't get a hit is not called failure, it's called overhead because you're trying to do something very, very difficult. Failure is the failure to catch a fly ball. You're supposed to do that 98 or 99% of the time. That's just technique. Even Ted Williams who developed modern batting technique only hit over 400 once in his career.But like I said, it doesn't matter. Because if you look at the scope of what we're funding, if we get 30, 40% success, we're going to change the world. That is exactly what happened. Because one of the things he called for the very next year in 1963 was an intergalactic network.
+
+And they said, "Why intergalactic?" And he said, "Well, engineers always give you the minimum. I want to cover the entire earth. So I'm asking for an intergalactic one." And that's going to force them not to try and do it the way Ma Bell did, AT&T did it. It was switching, whatever. And he was a psychologist. He wasn't a big technologist, but he understood. He was what I call an educated man. He understood what it was that they were actually working on it.
+
+And they didn't worry about what you could do with a computer or not back then. That's the biggest difference. What they were worried about was what are the issues? What are the fundamental issues? And we'll just invent every piece of technology we need. Like at Xerox PARC, we built every bit of every piece of hardware and every software. We didn't buy anything from vendors. We built it. We built the computers. We had a little production shop. We built two or three of these first personal computers that were like Macs, but better, a week. We built 2000 of them by hand, when it was hard to do, because you have to have a bunch of them. We invented the ethernet to connect the stuff together. We invented the internet in order to connect the ethernets together.
+
+The ARPA community was about, "Hey, we're in deep trouble and we're getting in deeper trouble. We need to get more enlightened and we need to do what Doug Engelbart called... we need to not just augment human beings, augment human intellect, but we have to augment the collective IQ of groups." Because most important things are done by groups of people. And so we have to think about what it means to have a group that's smarter than any member rather than a group that is less than the stupidest members.
+
+DEVON: If you were starting your career today, how would you actually tackle that problem? What would you do?
+
+ALAN: And that was just one step better than the rest of the competing industry, which just didn't know what it was doing. It was just feeling its way along, trying to figure out what to sell to people who are doing data processing with punch cards. And IBM already wasn't an enormous company, it took over that entire world and dominated. But the thing is, nobody thought personal computers were a good idea. IBM never had a good network. And partly for the same reason and partly for the same reason that I could make a ham radio when I was 12, just out of junk I got in surplus stores in New York City, because everything had discrete components.
+
+And yeah, it was annoying because you had high voltages and building a computer back then was really annoying, because they had to be physically large, they had cables, everything. So the first people who built computers in the late '40s and early '50s, man, they were horses, absolute horses, but they wanted it. And the other thing we benefited from tremendously was the Cold War. Like the radar effort and SAGE air defense effort and the PARC efforts. And all of these were funded just because the general public was afraid of the Russians. In fact, the thing that killed that research was a combination of the successful moonshot. The public is not at all interested in the idea of interplanetary travel. They were not even interested in the second moonshot. Nobody watched Apollo 13 until they had the problem. It was off the news. This is just a couple of years later, because from the public standpoint, they didn't give a shit about romance or destiny or any of that stuff. They were worried about the Russians. And we showed that we could make better missiles than the Russians.
+
+And another one that is identified is a visual way of dealing with things. The fact that, for example, they showed something like 10,000 slides, at a second or two a piece to poor students at a university, and some of them with parts of them occluded, six months later, those students could identify with 90% accuracy whether they had never seen one of those slides before. If you put 100 words up on the wall, and one of them was the word, "Elephant," you put the pictures of what those 100 words represent up on the wall in the same location. Any human being can find the elephant four times faster.
+
+So one of the strengths of writing is that it doesn't look like images, and one of the strengths of printed writing is that it helps decouple verbal processing from reading. A lot of people never learned to read rapidly because they subvocalize. And you can tell you like, if you have a kid and they're learning to read, you put your finger on your throat. Somewhere in maybe the eighth or seventh century BC, but starting in the script called linear B, which goes back earlier. They started writing down words as they sounded. That was the first time anybody was even aware that they were making speech sounds. Because just like when we read something, when we know how to read, we don't see the letters, the word pops into our mind. We're aware that there are letters there, but we were not looking at the letters. And when people speak fluently, they're not aware that they're saying phonemes, they're saying words. Words are the units of meaning. So it took a long time for people to even see something that should be obvious to anybody that isn't a human being.
+
+What we know from history is incredibly important, because we don't have very many experiments on whole cultures, starting from scratch. What we're trying to do is to make something that was a decent graphical user interface for human beings, and that required invention at every level. It's a user interface. User interface is primarily inactive, theatrical design. So a book to look at, it was written in 1945 by one of the top mathematicians in the world has a long title called "The Psychology of Invention in the Mathematical Field" by Jack Hadamard. So he wrote his friends, the top 100 mathematicians in the entire world, and got each one of them to fill out a questionnaire and write a little thing about how they did their thing.
+
+Maybe 5%, maybe 7% used mathematical symbols; the cliche drawing on the board thing, the mathematical symbols in the process of creation. All the rest used primarily visual means; sketches really. See the thing is about vision, same with the ear, you can only see a few at a time in detail, but you can be aware of 100 things at once. So one of the things we're really bad about is, because of our eyes, you can't get the visual point of view we want. Our eyes have a visual point of view of like 160 degrees. But what I've got here is about 25, and on a cellphone it's pathetic. So this is completely wrong. 100% wrong. Wrong in a really big way. If you look at the first description that Engelbart ever wrote about what he wanted, it was a display that was three feet on its side, built into a desk, because what is it that you design on? If anybody's ever looked at a drafting table, which they may not have for a long time, you need room to design, because there's all this bullshit that you do wrong, right?
+
+This is why experienced programmers have big multiple screens. They're working on something where the result is going to be fit on one screen, but you have to have all this other stuff, it's like when you make an arch; it's not just piling up the bricks, you have to put this whole scaffolding up. You have to hold everything together until you get the keystone in place. And virtually all of the productivity tools that I've seen, I'll just say, "all" because I haven't seen all of them, but the ones I have seen, they just completely don't understand this at all. They're all about this idea, which most programmers have that's wrong, is that you're going to write the program the right way. Nothing's going to be wrong. The whole idea is to make a fucking mess. And if you look at the way Disney artists do things, the whole thing is messy. This is something anybody in the arts knows completely about, and hardly anybody in computing knows anything about. But in fact, it's a key factor in building a good interactive development environment.
+
+DEVON: I read an essay. I always have sort of like a scratch pad on the bottom where I'm constantly sort of massaging the sentences, and sometimes they're not even sentences, and then, sometimes they suddenly flower into a paragraph. I'm like, "Oh, I guess this is actually part of the final product." And then you bring it up. Or like in programming, as you're using a repl-
+
+ALAN: The ideation for these world-class mathematicians was mostly visual. And for 20% of them, including Einstein, Einstein said, "I have sensations of a tactile and muscular kind," by the way, Feynman was too young for this, he missed out. But he literally wrestled with problems. He would occasionally be found under his desk, rolling around, holding onto himself. But Einstein would have sensations along his forearms, and his stomach muscles when he was thinking. It's a little known fact that the very year the first mouse was invented by Engelbart in English in '64, the first tablet was invented. A tablet that you would not feel bad about using today. Not with a screen, but something that was down here and had a stylus. And they had the best gesture recognizer that's ever been done by around '66.
+
+And then they made a system that in every way is an interesting parallel to Engelbart's system because it also had hyperlinking. This system was completely graphical. It was called graphical interaction language. And these guys did not have the scope of use in min Engelbart had. They were trying to improve programming, but they really wanted the people at RAND Corporation. And they had a level of aesthetics that nobody else in the ARPA community did. They just kicked the shit out of stuff.
+
+And so, I had already used the Engelbart system, and really liked it, it had many, many important features. And I went down to RAND in '68, and tried Grail, the first seconds of it was, I had one of these hits that, "Oh, this is not even remotely like using a mouse. And it's not like using a stylus to use a mouse-oriented interface," because the whole thing was that the thing did not even have a keyboard. That is how good the gesture recognition was, but it also recognized symbols and other things. So you built systems on it as fast as you could draw, and you could pop on a box, and it would take you down to another hyper level. I felt intimate; on this system, there was no glass. And I instantly realized that using the mouse on Engelbart's system felt like I was doing an experiment in radioactive chemistry. If you've ever seen there's this Waldo.
+
+DEVON: Where you have distance between you and the actual experiment-
+
+ALAN: Yeah, you have a manipulator that you're holding onto. And there's a wall maybe at the television set on the other side, and there's all the dangerous stuff. And then you're looking at the television set and you're doing this. I realized, "Oh, that's what Engelbart's system feels like." But the grail system felt like, "Oh, I'm just embracing, I'm writing on it." So I spent quite a bit of time trying to understand why. What was the feeling of independency from? And it turned out it was dragging, it was not pointing and clicking, but dragging. And so we use that PARC, and dragging has had a rocky road in the commercial systems. They tended to leave it out, because you have to do some serious programming to do dragging on an '80s computer. But in fact at Apple, I even have a patent somewhere; we did a mouse there and it was intimate.
+
+And we did that by making a mouse that had differential breaks in it. So you could run the thing over a line and you feel a little bump. So it introduced tactility into the thing. We made a mouse actually, they had motors in it.
+
+DEVON: With a lot of these things, you're recreating things you get for free in the real world. Like if I pick up this microphone, it has a weight to it that's corresponding to its mass?
+
+ALAN: All the grad students have huge travel budgets. Also, we were out in the boondocks in Salt Lake City, and Dave wanted us, he said, "Don't wait until anybody writes a paper, just keep traveling."
+
+So the first shot was, well, let's just make a network to basically tie the ARPA projects together. Let's solve that problem, and we'll solve it using packet switching, which was independently invented in an ARPA project, in a DOD project at RAND and in England. And there was some math that indicated how you might avoid some of the problems with packet switching. I was in on most of those meetings, and they went from not having a good way to do it, to having a good way to do it in a few months, and then building hardware to do that, which that hardware are called routers today. So routers had to be invented to do this, and that tied together, the ARPANET probably tied together eventually about 100 places.
+
+And overlapping with this was the idea that we need to have the internet working. Even though theoretically, you could have run it from a central place as a star network, there weren't that many machines. The decision, right from the beginning was, "Screw it; no central control. This thing has to have no privileged computers." It's just a bunch of computers and the software on these computers, particularly the standard software that we'll put on these things has to be enough to make sure that packets get to where we want them to go eventually. They don't have to make it the first time. We wanted to get them there eventually, and we want the thing not to clog up, so it can't crash.
+
+And so a lot of things were learned on the ARPANET. And of course, anybody who's had biological training, the fun thing about biological training is the trade-offs on how control is done. And there are trade-offs. Some things have something like central control, but even that tends to be distributed if you think about it in computer terms, even how you get from DNA to messenger RNA, to the ribosomes and making... It's distributed. If one of them doesn't work, it doesn't matter because it's all redundant in thousands of different ways. And there's error correction everywhere. What's interesting in biology is not the components. So it's very much like computing. You can make a computer out of anything. What's interesting is the organization on it.
+
+I was 13 when the DNA structure was discovered. I'm 81 now. That started turning up more and more interesting things that could be explained completely in chemical terms. These molecules were critical, because in theory, biology shouldn't work very well because you don't have a lot of energy. The reason most chemistry is done over a Bunsen burner is, heating things up really helps molecular motion and that helps the molecules find each other. And at blood temperature, things are not moving nearly as fast. And so, one of the problems 100 years ago was everything's running too slowly to explain what we're seeing. But then people discovered catalysts, but not for organic reactions, but for inorganic reactions. Like platinum is a catalyst. Pretty much anything in engineering, to try and do a really big scalable artifact is the opposite of trivial. So this is one of these things where the idea that you could make an internet is 100%, just from biology being so much more complex and working so well for decades.
+
+DEVON: And why is the decentralization of biological systems and of the internet so important for scalability?
+
+ALAN: Well, because first the thing is, if you don't decentralize, you have one part whose knowledge has to not just say what to do. That's not hard. Top-down is easy if the dictator's always right, but if the dictator doesn't get any feedback and the thing to try and figure out is, how much feedback can a dictator take every day? You could probably listen to 20 yes men a day. And suppose he's got a country that has 50 million people in it.
+
+DEVON: What do you think of something like video games or a simulation, or potentially virtual reality as a way to help us understand these systems even better and see the interactions?
+
+ALAN: So when SimCity got done, I went up to Maxis there and complained to them. I said, "Look, I know you guys are getting these educational awards, but you're getting educational awards from uneducated people. Just ignore those and think about what it is that you've got here." And I said, "This thing is really impressive, but it is anti-educational the way you've got it right now. For example, the rules that drive it are opaque, 100% opaque. The kids can't see what the rules are and they can't change the rules or put in rules of their own. So what you've done here is a thing that's consumable and it can't teach enough."
+
+DEVON: It's pro-symbolism and sort of just saying "We create police forces to solve crime, therefore, they must solve crime," right?
+
+ALAN: Well, no, the way to think about it is, it's basically just reversion from something that's really complicated into a too-simple story. And these were being justified by stories and they were being opposed with stories, rather than dealing with any systemic aspects, which nobody wanted to touch.
+
+DEVON: And you just take the capabilities and you reframe the entire problem. Do you think that they could be reshaped into helping people understand, or are they fundamentally pushing us towards entertainment?
+
+ALAN: No. Well, no. I think having children make games where they have to understand something fundamental to make the games, and not just copy the code to do it.
+
+DEVON: And I'll close with one last, more specific question. You worked with Bob Taylor, who's one of my heroes, what are some of the specific tactics that you learned from him about formulating an inspiring research agenda?
+
+ALAN: Yeah, so Taylor was a character and a half, the sly fox. Have you ever seen a picture of him with his pipe?
+
+DEVON: Yes. Yeah.
+
+ALAN: That was him.
+
+DEVON: He looks like the cover of Rolling Stones.
+
+ALAN: He's a son of a preacher man in Texas. Got a master's in psychology, also in experimental psychology, but he wound up... He was the original funder of Engelbart when Bob was at NASA in the early '60s. And Bob greatly admired Licklider, who was a fellow psychologist. And one of the famous meetings that he ran there towards the end of it, there was a four star general talking and he looked at his watch and he said, "General, you have three minutes to make your point if you have one."
+
+DEVON: Wow, that's amazing. So it's not just brains, but also personality.
+
+ALAN: So Licklider just snatched him out of the Pentagon to be his successor, because Licklider had this idea that nobody should be inside the beltway for more than two years because anybody reasonable would go crazy. You can't have an idea there. So he set up this scheme that you spend two years helping our IPTO prosper. Your last year you train your replacement, and you just go back to the community and your replacement runs for two years and trains his replacement. So Ivan became head of the whole thing at age 26, running everybody. He was the reason that Engelbart gave his demo. He put up about $900,000 of today's money to pay for that demo. Just the demo.
+
+And he said, "Spend what you need, but just make sure that you do it." And they did everything.
+
+The only video projectors you could get back in those days were the size of Volkswagen buses. You could crawl inside of them. They're like cathode ray tubes, but you could open the panel on them and crawl inside and clean them, the gunk that they had. So they're much brighter than any of the video projectors you've seen today. They cost like $500,000 bucks a piece. And Bill English got not one from NASA, but he got one... They have a spare. So he had $1 million of projector up in the balcony of this huge auditorium. It's like 3,000 people. And Engelbart, when he came up... None of the recreations of Engelbart's demo have been even close to the real thing... I was there for the real one. And Engelbart's face was like 60 feet wide. This thing was like a Cinemascope projector of live high resolution video. It was just fantastic.
+
+Somebody asked Taylor, "Well, what is your job here? You're not even a scientist. You're not a computer guy." And he says, "I've got 25 of the absolute best people in the world here. Most of them are lone wolves. And my job is, when it's a good idea for them to cooperate, they will. My job is to set things up so that when they realize they have to cooperate in order to get this big thing they're doing. They can't just do it by themselves." We were a floor culture at PARC so we not only had the bean bags instead of chairs. Why bean bags? Well, you can't leap to your feet to denounce somebody from a bean bag.
+
+DEVON: He sort of socially engineered it so that people can't be unreasonable. Or a certain type of unreasonable, I should say.
+
+ALAN: Well, some of us tried to be unreasonable. But another thing he invented was what he called the type one and the "type two argument." So when a "type one argument" was verging towards the personal and towards this not making progress thing, he would say "type two argument," and everybody would groan. And a "type two argument" is when each of the arguers has to make the other person's argument to them.
+
+DEVON: Right. Steel man it, instead of straw man it.
+
+ALAN: Yeah, until they agree that they're making their argument.
+
+DEVON: Right.
+
+ALAN: Yes, that is the argument I'm making. And then the other person... And this takes for-fucking-ever.
+
+DEVON: Yeah.
+
+ALAN: But-
+
+DEVON: But it means that you actually understand where the other person is coming from before you try to tear it down.
+
+ALAN: Well, it's not even that. One way to think about it, took all the human drama out of it, in the end almost everything that we did at PARC, in the end we didn't vote. In the end we would usually pick somebody to make the decision.
+
+DEVON: How would you pick who should make the decision?
+
+ALAN: Well, often we'd picked somebody like Butler if it was a system thing. Butler understood the process of the thing because he wasn't perfect. ARPA was designed so nobody was the smartest person in the room. But we kind of thought he was. He was brilliant. For a lot of these things we'd ask him what his opinion was after all of the dust had cleared, and very often would go along with it. If you have a group, you're not going to get what you want, period. That's what you learn.
+
+DEVON: But you can go farther as a group than you can alone.
+
+ALAN: You can get something.
+
+DEVON: We're at our time now, so are there any last parting words you want to share before we wrap up?
+
+ALAN: Haven't there been enough?
+
+DEVON: Well, wonderful. There are so many more rabbit holes I would have liked to go down, but I think we're at our time now. So, thank you so much Alan for coming on the show. This was really fun.
+
+Brought to you by Devon Zuegel
+
+Devon is a software engineer and writer based out of San Francisco.
+
+Edited by Molly Mielke
+
+Audio by The Land Films
+
+Illustrations by Roman Muradov

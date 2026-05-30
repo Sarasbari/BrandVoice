@@ -1,0 +1,101 @@
+Title: Use operational plans to keep your business healthy
+Published Date: 2023-04-04T00:00-06:00
+URL: https://www.notion.so/blog/operational-plan
+
+Whether you’re just starting a business or managing its growth, you’ve probably noticed that tracking every benchmark is easier said than done. As the company gains traction, your workload increases. You find yourself needing to bring on new team members, communicate with stakeholders, visit conferences, test new products, and research competitors all at once. It’s easy to lose track of tasks and deadlines.
+
+An operational plan organizes your workflow, delegates responsibility, and helps your business run smoothly. Use these plans to start strong and stay that way while you’re scaling up.
+
+What’s an operational plan?
+
+An operational plan is a detailed document that outlines the specific actions and strategies you’ll take in order to achieve your business goals. It’s a hub that hosts day-to-day activities, reporting structures, and timelines in one place, so you can better keep track of your company goals, your plans to achieve them, and who’s responsible for what.
+
+Operational business plans might seem similar to strategic plans, but they focus more on immediate actions rather than a broad overview. Strategic plans are about the vision for your business’s future — operational plans offer the roadmap you’ll follow to get there.
+
+Operational plans typically include:
+
+Detailed timelinesSpecific objectivesEach team member’s roles and responsibilities
+
+Detailed timelines
+
+Specific objectives
+
+Each team member’s roles and responsibilities
+
+Strategic plans, by contrast, feature:
+
+The company visionLong-term goalsMarket research and strategies
+
+The company vision
+
+Long-term goals
+
+Market research and strategies
+
+How operational plans save you time
+
+Whether you're a small business owner, project manager, or startup founder, an operational plan keeps you focused on the tasks that matter. Maintaining project deadlines, goals, and measurables in one place means you and your team won’t waste time diverging from your shared plan.
+
+Here are four ways that operational plans can help your team:
+
+Improve team organization — defining roles, responsibilities, and tasks for each team member streamlines workflows across the board by letting everyone focus on what they need to do and offering documentation if they need to check what’s on their plates. Manage deadlines — a specific, objective-based timeline lets your team see what’s due every day, week, and month, assess what tasks need adjusting, and keep track of what delivery deadlines are realistic. Host future plans — operational plans don’t outline a business vision the way strategic plans do, but by accounting for daily activities over a few months or the coming year, they help you keep your overall goals in sight without losing track of smaller tasks.Anticipate roadblocks — By anticipating and addressing risks and potential challenges before they become major (or even minor) issues, you can minimize the impact if something does go wrong.
+
+Improve team organization — defining roles, responsibilities, and tasks for each team member streamlines workflows across the board by letting everyone focus on what they need to do and offering documentation if they need to check what’s on their plates.
+
+Manage deadlines — a specific, objective-based timeline lets your team see what’s due every day, week, and month, assess what tasks need adjusting, and keep track of what delivery deadlines are realistic.
+
+Host future plans — operational plans don’t outline a business vision the way strategic plans do, but by accounting for daily activities over a few months or the coming year, they help you keep your overall goals in sight without losing track of smaller tasks.
+
+Anticipate roadblocks — By anticipating and addressing risks and potential challenges before they become major (or even minor) issues, you can minimize the impact if something does go wrong.
+
+What to include in a great operational plan
+
+An operational plan will include several crucial sections and elements. Although every business plan varies, here are some of the basics you should always plan to include:
+
+1. Budget
+
+Assess your financial resources and how you plan to allocate them throughout the process. This should include a budget for both overall operations and specific projects or initiatives. Outline how much to spend on staffing, production, and other expenses. Then break down the remaining budget across your projects and their scopes.
+
+An operational plan for a small business might include budgets for advertising and marketing expenses, hiring and onboarding new employees, and purchasing new equipment. A non-profit organization’s plan might also include budgets for fundraising events, salaries for staff, and overhead costs like rent and utilities.
+
+2. Current status
+
+Assess your business’s current status and how far you are from your future goals. Then decide what steps you’ll need to take in order to bridge that gap. Include a description of team members and roles so that when you’re planning, you can delegate tasks accordingly and track their state of completion.
+
+If you’re creating an operational plan for a sales team, you might want to include an assessment of current sales figures for every team member compared to goals for the quarter, to help determine whether you need to increase sales and identify what you could improve.
+
+3. Steps and strategies
+
+The bulk of your operational plan should outline the specific steps and strategies you’ll take to meet your goals. Include necessary tasks, deadlines, and how they fit into the final product. This is a big section of your operational plan, and it’s the most important one because it lays out your team’s to-dos.
+
+An operational plan for an IT department, for example, should map out daily tasks, specific milestones for the coming weeks or months, and new security measures to implement. Create a schedule and assign team members to keep everyone in the department informed to help make sure the plan runs smoothly.
+
+4. Benchmarks
+
+Include benchmarks like key performance indicators (KPIs) that measure your plan’s progress. KPIs can include sales figures, customer satisfaction scores, productivity levels, and more — whatever applies best to your business and its objectives.
+
+An operational plan for a hiring team could include incoming application numbers and onboarding feedback to measure efficiency and effectiveness, aiming for a 10% increase overall. A plan for a new app could track downloads and the number of bug reports that come in, trying to increase the former and decrease the latter over a set timeframe.
+
+How to write an operational plan that keeps you on track
+
+Operational plans break down larger organizational goals into smaller, actionable steps. Keeping these goals and milestones in one place aligns teams and keeps everyone working toward the same objectives. Here are some steps to make sure you don’t forget any important elements:
+
+Create a title page — add a cover page or section that clearly details the name of the business, the creation date, and the names of key team members or stakeholders involved in creating the plan. This creates a record and specifies who your team should direct questions to if they find mistakes or run into any issues.Define your objectives — delineate your goals for the next few months or even years. Include sections for both short-term and long-term plans. Every small task is a part of the whole, and it’s motivating to see what you’re working towards and how you’re progressing.Set metrics to measure your results — identify KPIs that track your progress toward specific objectives. For example, if you want your business to increase sales by 20% next year, your KPI might be the number of new customers or the average transaction value. Make sure to track this key figure within your plan! Plan for risks — identify potential risks and delays that could derail your strategies. Then create contingency plans so you’re prepared for those challenges. Writing solutions into your operational plan keeps them in front of you so you don’t forget to consider (and avoid) roadblocks. Include next steps — create an action plan that outlines the specific steps you’ll take to achieve your objectives. Include tasks, milestones, and deliverables, along with a schedule to keep your team on track.Create a maintenance plan — operational planning isn’t a one-time process. Think of an operational plan as a living document that needs regular reviews and updates. Your business’s needs will evolve. Maybe you’ll miss the mark on deliverables and need to alter your timeline, or maybe you’re reaching goals faster than expected. Manage your operational plan so it stays achievable.
+
+Create a title page — add a cover page or section that clearly details the name of the business, the creation date, and the names of key team members or stakeholders involved in creating the plan. This creates a record and specifies who your team should direct questions to if they find mistakes or run into any issues.
+
+Define your objectives — delineate your goals for the next few months or even years. Include sections for both short-term and long-term plans. Every small task is a part of the whole, and it’s motivating to see what you’re working towards and how you’re progressing.
+
+Set metrics to measure your results — identify KPIs that track your progress toward specific objectives. For example, if you want your business to increase sales by 20% next year, your KPI might be the number of new customers or the average transaction value. Make sure to track this key figure within your plan!
+
+Plan for risks — identify potential risks and delays that could derail your strategies. Then create contingency plans so you’re prepared for those challenges. Writing solutions into your operational plan keeps them in front of you so you don’t forget to consider (and avoid) roadblocks.
+
+Include next steps — create an action plan that outlines the specific steps you’ll take to achieve your objectives. Include tasks, milestones, and deliverables, along with a schedule to keep your team on track.
+
+Create a maintenance plan — operational planning isn’t a one-time process. Think of an operational plan as a living document that needs regular reviews and updates. Your business’s needs will evolve. Maybe you’ll miss the mark on deliverables and need to alter your timeline, or maybe you’re reaching goals faster than expected. Manage your operational plan so it stays achievable.
+
+Write and share your operational plan in Notion
+
+An operational plan establishes a solid foundation for your business as it grows. It’s the blueprint for achieving your goals, both today and next month. Use it to identify potential roadblocks and risks, allocate resources effectively, and ensure that your team is working together towards common goals.
+
+Notion’s connected workspace can host your operational plan and link to other important documents, like your business plan and reporting structure. Whether you’re building product roadmaps, designing vision boards, or rethinking workflows, we’ve got you covered. Check out our operational plan templates and resources to help you start your planning today.

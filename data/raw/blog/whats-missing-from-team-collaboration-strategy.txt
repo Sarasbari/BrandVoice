@@ -1,0 +1,77 @@
+Title: What’s missing from your team’s collaboration strategy
+Published Date: 2021-07-02T16:00-06:00
+URL: https://www.notion.so/blog/whats-missing-from-team-collaboration-strategy
+
+Harvard Business Review research into 15 multinational companies revealed a curious paradox — the four characteristics that make teams high performing (large in size, based virtually, diversified workforce, and composed of highly educated specialists) also undermine success:
+
+"Members of complex teams are less likely — absent other influences — to share knowledge freely, to learn from one another, to shift workloads flexibly to break up unexpected bottlenecks, to help one another complete jobs and meet deadlines, and to share resources — in other words, to collaborate."
+
+Addressing these challenges proactively is essential for startups. To be proactive, you can create a collaboration strategy in a single tool. This keeps collaboration consistent as companies grow, enabling transparent communication, processes, and documentation. Tools like Notion make collaboration concrete and focused from the get-go, both of which are often missing pieces to a team’s collaboration strategy.
+
+What is team collaboration?
+
+Team collaboration is a series of frameworks that facilitate transparent communication, processes, and documentation in companies of all sizes. Collaboration is crucial for effective cross-department work and should be built holistically into a company’s values to ship projects and build a system for effective execution.
+
+What does good team collaboration look like?
+
+Good team collaboration sets clear expectations and establishes safe, open-minded, transparent space(s) for all team members. It can’t develop without concerted effort or explicit communication.The foundations of all good team collaboration start with these core tenets:
+
+Align on company values and provide examples — if you don’t yet have a set of company values, take this as an opportunity to create them. Done well, formalizing and providing examples of your vision in action for all employees will propel your startup towards collaborative behaviors. Some examples of values you may want to consider: diversity, community, openness/honesty, bravery. This should be an ongoing effort and evolve as values shift and should model this standard from the organization’s top-down. (Try out the culture handbook template if you are looking to reinforce consistent values and practices for your startup)
+
+Establish base rules or expectations for collaboration — this should provide clarity on roles with respect to initiatives or projects and capitalize on specific strengths of team members. For example, if it’s understood that there will always be only one person responsible for finishing a task or that you’ve got to respond to Slack messages within 24 hours but email is 48 hours, the team establishes shared expectations to signal one another toward collaboration.
+
+Build open communication lines early — be transparent about why the collaboration strategy is important to your startup and your work from the get-go. Creating honest communication lines keeps teams accountable, empowering them to speak candidly about everything from pitfalls and roadblocks to wins and successes. This also includes establishing systemic ways of sharing knowledge through a knowledge management system. The goal here is to codify tribal knowledge and build robust documentation to asynchronously get members up to speed without needing to be in every conversation or meeting.
+
+Create psychological safety — psychological safety is a necessary prerequisite to enable creativity in any setting and is a leading indicator of a healthy, thriving workplace. According to Novartis Professor of Leadership and Management at Harvard Business School and author of The Fearless Organization, Amy C. Edmondson, “[psychological safety] leads to the work feeling meaningful, believing what you do has an impact, believing that your colleagues are dependable, and having some structure and clarity about tasks.”
+
+Sounds easy enough in broad strokes, right? Chances are good that your team doesn’t yet have great team collaboration — there are always improvements to be made. Let’s look at how to level-up team collaboration throughout your startup.
+
+How can I improve team collaboration?
+
+As a startup leader, establishing a space in which collaboration can happen is extremely important (more on that later). But before that, it’s crucial to lay out a unified team collaboration vision, communicate and get buy-in from the team, and implement tactile, granular habits or overall frameworks that show what collaboration looks like in practice. Collaboration is much more possible when each member of the team knows how they positively contribute to the well-being of the startup.
+
+Forming this unified vision for the company will require a “sprint” and a dedicated meeting cycle to solidify it as a focus for the group moving forward. If your leadership team is making unilateral decisions and not finding ways to involve the rest of the team or seek buy-in, the collaboration strategy will fall flat.
+
+Founders, managers, and directors must model cooperative behavior for their startup’s team members to live the vision. For example, Notion’s marketing team dedicates a section of our bi-weekly meetings to give each other kudos across all levels and functions of the team, which cultivates positive vibes throughout. Another way to implement this is to establish a “gift culture” where team members view experiences or conversations with leaders or other coworkers as a gift or expression of generosity, rather than a transactional “tit-for-tat culture.”Finally, here’s a few diverse frameworks and their main objectives that you may want to take for a spin as prongs in your startup’s collaboration strategy:
+
+For clear responsibility assignments — RACI matrix (Responsible, Accountable, Consulted, Informed). It’s especially helpful if you’re working across departments or with people you don’t usually work with, to know you’re looping in and following up with involved parties. (And saving the time of those who aren’t involved!) For a continuous feedback loop to stay accountable — Agile framework (not just for engineering teams anymore). The key is to choose which of Agile’s methodologies will resonate best with your team to move quickly and align around a shared mindset of continuous improvement. Check out this post from Notion super-user Audrey Avenel for some ideas to get started with Agile in Notion. Specific to lean startups, this visual from our friends at Miro helps explain the core process of Agile and its cyclicality:
+
+For clear responsibility assignments — RACI matrix (Responsible, Accountable, Consulted, Informed). It’s especially helpful if you’re working across departments or with people you don’t usually work with, to know you’re looping in and following up with involved parties. (And saving the time of those who aren’t involved!)
+
+For a continuous feedback loop to stay accountable — Agile framework (not just for engineering teams anymore). The key is to choose which of Agile’s methodologies will resonate best with your team to move quickly and align around a shared mindset of continuous improvement. Check out this post from Notion super-user Audrey Avenel for some ideas to get started with Agile in Notion. Specific to lean startups, this visual from our friends at Miro helps explain the core process of Agile and its cyclicality:
+
+For supercharging and running better meetings — EOS’s concept of Level 10 Meetings. Level 10 Meetings stick to a firm agenda focused on clear expectations, actively solving problems, and stoking attendee engagement. If all departments operate under a unified concept of what a meeting is and what it should accomplish, it can work wonders for team collaboration.
+
+For supercharging and running better meetings — EOS’s concept of Level 10 Meetings. Level 10 Meetings stick to a firm agenda focused on clear expectations, actively solving problems, and stoking attendee engagement. If all departments operate under a unified concept of what a meeting is and what it should accomplish, it can work wonders for team collaboration.
+
+Build a place to centralize collaboration strategy in Notion
+
+Informed collaboration strategy is all about fighting fragmentation — if tools are fragmented, then information is fragmented, and the team is running circles searching for resources. Rooting an effective, holistic team collaboration strategy in a centralized tool like Notion grounds startups and rallies the team around concrete habits and solutions versus vague concepts (not to mention, it saves the team a whole lot of time in the process).Take it from Alex Cornell, who implemented Notion for his growing team as a co-founder of Cocoon:
+
+An effective collaboration tool should include the following functions:
+
+Note-taking capabilities — specifically, housing meeting notes or actual recordings of meetings for team members to refer back to. Looking to make your meeting notes smart and actionable? Here’s a Notion meeting notes template you can use to get started.Internal documentation organization, or ability to serve as a company “wiki” — lean companies that want to democratize information and share transparently establish company “wikis” early on. This “wiki” serves as a single source of truth for all team processes, research, and knowledge.
+
+Note-taking capabilities — specifically, housing meeting notes or actual recordings of meetings for team members to refer back to. Looking to make your meeting notes smart and actionable? Here’s a Notion meeting notes template you can use to get started.
+
+Internal documentation organization, or ability to serve as a company “wiki” — lean companies that want to democratize information and share transparently establish company “wikis” early on. This “wiki” serves as a single source of truth for all team processes, research, and knowledge.
+
+Onboarding new team members — many startups know that onboarding a new employee is downright time-consuming. And if things are going well, growth and hiring don’t slow as team members get busier. When all your onboarding information is in one tool, it makes the process very easy because the new person has quick and immediate access to all the work at once. Establishing a plug-and-play onboarding process for new team members across the company will scale as you do.
+
+Onboarding new team members — many startups know that onboarding a new employee is downright time-consuming. And if things are going well, growth and hiring don’t slow as team members get busier. When all your onboarding information is in one tool, it makes the process very easy because the new person has quick and immediate access to all the work at once. Establishing a plug-and-play onboarding process for new team members across the company will scale as you do.
+
+Enabling cross-functional team collaboration — a tool should be approachable, easy to use, and intuitive for team members across different functions. For example, anything too mired in developer-speak, clunky for modern use, or action-oriented won’t allow for streamlined cross-functional collaboration. Through features like commenting and discussions, you can track live collaboration through Notion.Task and project management — to keep track of what employees are accomplishing, or how far along they are in a project, a tool like Notion keeps all the loose scraps together neatly without the micro-managing questions like “how is X project coming along?” Parse out different tracking for regular day-to-day tasks from projects to keep all parties in step. You can even use different views of the same board database to help surface relevant information for various functions or types of learners on the team.
+
+Enabling cross-functional team collaboration — a tool should be approachable, easy to use, and intuitive for team members across different functions. For example, anything too mired in developer-speak, clunky for modern use, or action-oriented won’t allow for streamlined cross-functional collaboration. Through features like commenting and discussions, you can track live collaboration through Notion.
+
+Task and project management — to keep track of what employees are accomplishing, or how far along they are in a project, a tool like Notion keeps all the loose scraps together neatly without the micro-managing questions like “how is X project coming along?” Parse out different tracking for regular day-to-day tasks from projects to keep all parties in step. You can even use different views of the same board database to help surface relevant information for various functions or types of learners on the team.
+
+As the first step to better team collaboration, elect a DRI (directly responsible individual) to research, build up the collaboration space, and train the team on it. Some companies call this appointing a “super-user” for a given tool. The key? Appoint just one person to do this. (Side note—DRIs on the granular project side are equally important.)
+
+To get started on fleshing out your team’s collaboration strategy, check out Notion for Teams. We have a suite of templates to kickstart your startup’s Notion for free:
+
+Start tracking a project with the roadmap templateMulti-use creative brief template
+
+Start tracking a project with the roadmap template
+
+Multi-use creative brief template

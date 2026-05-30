@@ -1,0 +1,65 @@
+Title: All you need to know about project workflows for your startup
+Published Date: 2022-05-24T00:00-06:00
+URL: https://www.notion.so/blog/all-about-project-workflows-startup
+
+When you build a startup, you're constantly running multiple projects simultaneously. Whether you're creating a fundraising pitch deck for that Series A round, hiring a new Chief of Product, or simply keeping the lights on, there's a lot on your plate. And some projects might slip through the cracks.
+
+The best way to manage multiple projects in parallel is by having a structured process that breaks down the steps needed to tackle each project. In project management, this is known as a project workflow. Here's a quick crash course on project workflows and how you can implement them at your startup.
+
+What is a project workflow?
+
+A project workflow is a series of individual tasks to execute to complete a project. Project workflows are typically repeatable activities and not one-off occurrences. Think of a project workflow as an enhanced task list, but instead of a series of sequential events, defining the right sequence of events needed for a task to be completed.
+
+Why do you need project workflows?
+
+With project workflows, you’re able to run your projects more seamlessly and efficiently. Establishing repeatable business processes ensures successful projects throughout your startup. Plus, there's a host of other benefits for your startup:
+
+Promotes collaboration: Having clearly structured processes that identify who is responsible for each task enables your team to work well together. If there is any confusion about any aspect of the project, your team will know who to ask for help. Increases productivity: With defined workflows, you spend less time assigning tasks and manually chasing the status of each task and more time focusing on and completing the task. You can see what is or isn't working for your startup in real time and iterate on your processes to make amendments.Enhances knowledge sharing: As team members have access to the project lifecycle, they’re able to see what is going on and have insight into the organization. If there are any bottlenecks, your team will know who to contact for help. You can also use workflows to keep stakeholders up to date with your project statuses.Acts as a knowledge management system: Project workflows form the outline of solid knowledge management systems and processes.  For example, you can turn your company onboarding workflow into a set process for onboarding.
+
+Promotes collaboration: Having clearly structured processes that identify who is responsible for each task enables your team to work well together. If there is any confusion about any aspect of the project, your team will know who to ask for help.
+
+Increases productivity: With defined workflows, you spend less time assigning tasks and manually chasing the status of each task and more time focusing on and completing the task. You can see what is or isn't working for your startup in real time and iterate on your processes to make amendments.
+
+Enhances knowledge sharing: As team members have access to the project lifecycle, they’re able to see what is going on and have insight into the organization. If there are any bottlenecks, your team will know who to contact for help. You can also use workflows to keep stakeholders up to date with your project statuses.
+
+Acts as a knowledge management system: Project workflows form the outline of solid knowledge management systems and processes.  For example, you can turn your company onboarding workflow into a set process for onboarding.
+
+The key elements of a project workflow
+
+Typically project management workflows consist of these three key elements: input, transformation, and output. But for startups, this is quite rudimentary, and these key elements need tweaking. Here are the essential elements of a project workflow we recommend for your startup:
+
+Assigning people to roles: This is the assigning of people to specific roles that need to carry out the assigned task. For example, this could be your Operations Manager.Deliverables: What deliverables are needed to complete tasks? An example — the Ops Manager sending a background request form to a new hire.Milestones: What's the identifying marker for completing each task? For example, if the background request form has been returned, it can be marked as completed. If it has not been returned, it will be classified as pending.Status: It's important to know whether the task is completed or pending to help your team manage their pipeline.
+
+Assigning people to roles: This is the assigning of people to specific roles that need to carry out the assigned task. For example, this could be your Operations Manager.
+
+Deliverables: What deliverables are needed to complete tasks? An example — the Ops Manager sending a background request form to a new hire.
+
+Milestones: What's the identifying marker for completing each task? For example, if the background request form has been returned, it can be marked as completed. If it has not been returned, it will be classified as pending.
+
+Status: It's important to know whether the task is completed or pending to help your team manage their pipeline.
+
+Here's an example from Content Harmony, an SEO analysis tool that uses Notion for their project workflows:
+
+Founder, Kane Jamison says, "When we have random ideas or projects, they immediately go into Backlog status, where we can basically ignore them if they're not a high priority but get them out of our heads. More important tasks that have to be completed (e.g., Bug fixes) go into Upcoming, which means we're definitely going to do this — it's just a matter of deciding which to do next."
+
+How to develop project workflows for your startup
+
+Project planning can be very tough, especially when there are a lot of projects you are individually responsible for, but here's how you can develop project workflows that can be used for all projects at your startup.
+
+Identify the anticipated outcome: Work backward — what does the completed project look like? Look at your project charter (if you have one). Once you know the anticipated outcome, it’s easy to build your project workflow. Let's imagine your project is a new software engineering project that will be released to the market in six months.
+
+Create a list of deliverables: Highlight everything that is needed for the project. This is so your team knows what they need to complete the project. For example, a software engineering project may have the following deliverables: drafting of initial wireframes or a server upgrade or data migration.
+
+Outline the workflow processes: What is required in order to make progress? Use these points as your workflow processes. For instance, "send wireframes from the UX designer to the front-end engineer" will help the team and is an example of a workflow process.
+
+Use the right tools to manage your workflows: There's a range of ways you can do this — you can opt for flowcharts, or maybe dashboards, Kanban boards, or even timelines (our user-friendly version of a Gantt chart). Ensure that you highlight milestones on your workflows, so your team will know what is required to mark a task as completed.
+
+Optimize your workflows: You can automate workflows by using templates, so each time you want to create a new workflow, you don't have to build it from scratch. You can also set up recurring tasks and allow notifications so your team is notified when a new workflow has been added.
+
+French resource management platform PickYourSkills has created workflows that allow them to create recurring tasks using Notion, an all-in-one workspace for docs and projects. Co-founder, Arnaud Caldichoury explains, "The task is created automatically and falls in the current sprint. The owner is then notified on Slack. So all you have to do is have a look at your Kanban board every once in a while to see progress."
+
+Supercharging your project workflows with customization
+
+Introducing and implementing a new project workflow to your startup will give you a strong foundation to execute multiple, complex projects in parallel. But customizing them to the way your team works is how you’ll really amp up your efficiency. Customizable tools like Notion can help you create workflows for every use case your team has.
+
+Rob Walling, the host of Startups For the Rest of Us, says, "I was skeptical when my producer suggested we move our workflow, which had been unchanged for nine years, into Notion. But the ability to house every piece of data about an episode in a single card, that can then be viewed by status, was the benefit that won me over. We are approaching our 600th episode, and nowadays, I wonder why we didn't try a more structured workflow like this sooner."

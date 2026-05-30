@@ -1,0 +1,103 @@
+Title: Categorizing the web: 11 common types of websites worth knowing about
+Published Date: 2023-10-23T00:00-05:00
+URL: https://www.notion.so/blog/types-of-websites
+
+Creating an engaging online presence has never been more important. Freelancers and organizations alike must embrace the opportunity the internet offers to swiftly scale branding efforts.
+
+No matter your professional goals or personal interests, the web gives you instant access to invaluable virtual connections, dramatically increasing your growth prospects and global visibility.
+
+But before creating a new online home, it's essential to review the basics of web architecture and site design. After understanding a website's defining features and the most common types of websites, you'll have an easier time planning and managing yours.
+
+What’s a website?
+
+A website is a virtual space — be it a single page or a group of interconnected pages — arranged and controlled by an entity such as an entrepreneur, company, or government institution. Each page on a website shares the same domain name, which is the word or phrase listed after the subdomain "www" in a URL address. The domain name is associated with the brand, agency, or individual who created the website. For example, the domain name for Notion's website is "Notion."
+
+While each web page on a website displays different information and resources, they're connected using internal hyperlinks and share a common theme with the domain. The homepage is the central hub and usually features links to navigate to web pages associated with distinct categories.
+
+In addition to text, websites display other forms of digital media like photos, animation, and videos. They also have a wide range of use cases, including networking, online shopping, and scheduling events.
+
+How is a website different from a web page and web server?
+
+Although these terms are interrelated, they’re not interchangeable. Be sure to separate these terms when working with your web design team.
+
+Web page versus website
+
+A web page refers to one distinct digital document displayed on a web browser and written in a coding language called HyperText Markup Language (HTML). Whenever you're looking at content on a web browser — including this blog article — you're interacting with a web page.
+
+Each web page could have various media, hyperlinks, and scripts to add extra interactivity and engagement to the user's experience. And web pages with the same domain name are part of a website and usually share the same layout, writing style, and topics.
+
+Web server versus website
+
+Web servers are computers or software programs that store and process website data. Whenever users search for a website's URL on their internet browser, they interact with the web server responsible for storing, sending, and displaying this information.
+
+Sometimes, web servers are called "hosts" because they give visitors access to the web addresses they have on file. All websites need a reliable web server to securely transmit data to internet users.
+
+Are search engines websites?
+
+Although domains like Google are well-known websites offering search functions, that doesn't mean all search engines are necessarily websites. For instance, internet users often type the URL address on the top of their web browser as a type of navigation for websites.
+
+If you search for a web page address on a web browser, you're using a web service rather than a website. But many domain names like Google, Bing, and Yahoo qualify as search engine websites since they focus on scanning the internet for web pages related to user queries.
+
+11 different types of websites
+
+Chances are the site you're browsing — or the one you want to create with a site builder — fits into one of the following common website categories.
+
+1. Sales websites
+
+Sales sites connect buyers and sellers for a friction-free online shopping experience. These platforms offer products directly through their supply chains or provide a platform for third-party vendors to set up an online store.
+
+Even if a website isn't solely focused on selling goods and services, it might include an ecommerce web page to process secure online payments. Prominent examples of sales-focused sites include Amazon, eBay, and Shopify.
+
+2. Blogs
+
+Abbreviated from "weblog," blogs are websites often likened to digital diaries. Although blogs could contain personal posts from the author, they don't always center around an individual's hobbies or life circumstances. Today, many companies use blogs to communicate educational topics or news to interested readers.
+
+Some blogs may not even feature text-based posts, instead focusing on static visual content or videos (like vlogging sites). Companies can design proprietary blogs or use a third-party blogging platform like Medium to create web pages in this genre.
+
+3. Social network websites
+
+A social network site lets users create an online profile to share digital content and connect with friends, family, and coworkers. Social networks like Facebook, TikTok, and Instagram often feature a home screen with a "Feed" highlighting the latest trending posts plus new info on what your friends, content creators, and communities are saying. There are also a few professional social network sites like LinkedIn, which focus on business networking and job opportunities.
+
+4. Business websites
+
+Any website connected with a company qualifies as a business website. These sites serve as an online presence for your brand and help potential customers learn about your history, mission statement, and services. A business website also usually contains contact information and a straightforward user experience to help visitors contact the company.
+
+5. Startup websites
+
+Startup websites are a subcategory of business websites that focus on companies in their initial stages of growth. Like business websites, startup sites focus on building brand awareness online with contact details and info on their services. But since startups are small, they might have a less robust layout than established brands, and they often have web pages focused on series funding rounds or angel investors.
+
+6. Personal websites
+
+Unlike business websites, personal sites are owned and operated by individuals rather than companies or government agencies. While some of these sites focus on personal content such as blog articles and art, they're often used for professional purposes like displaying contact info, relevant work samples, and resumes.
+
+7. Portfolio websites
+
+People interested in showcasing their skills often create a portfolio website with samples of their work. For instance, photographers often create portfolio websites to showcase their work, build online credibility, and attract business inquiries. Writers, musicians, and graphic designers are a few other professions that often use this site type to connect with potential clients.
+
+8. Informational websites
+
+Any site designed to educate its users with fact-based content, including articles, lectures, or webinars, is an informational website. These sites range from one-on-one tutoring services and subscription-based courses to academic research platforms and medical knowledge hubs.
+
+9. Event websites
+
+Whether you're looking for a fun Friday-night event or an upcoming job fair, you'll find all the essential details on an event web portal. Some of these sites have search tabs to help you find whatever concert, conference, or Kundalini yoga class you're most interested in. And there are also standalone sites detailing one specific event, such as a wedding, family reunion, or birthday party.
+
+No matter which event site you're using, it should contain info on where and when the event is taking place and instructions to purchase tickets if applicable.
+
+10. Booking websites
+
+Find openings and schedule reservations at hotels, restaurants, or cruise lines with the help of a booking site like Booking.com, OpenTable, or Expedia. Outside the travel and leisure sector, booking sites are used in industries like healthcare, car rental, and venue services to schedule and confirm appointments.
+
+11. Online forums
+
+Online forums share some traits with social networking sites, but they're more focused on answering questions, starting conversations, and creating an online community centered around a niche subject.
+
+Forum sites arrange discrete discussions into different threads by the topic of conversation, and they often use moderators to issue warnings or ban users who violate the forum's rules for acceptable discourse.
+
+Reddit is an example of an online forum site with threads called subreddits on themes ranging from world news and video games to dog care and cute cat pics.
+
+Navigate web design with Notion’s templates
+
+You don't need to be a genius web designer to create your first website. With the help of Notion's templates, you can start building your dream site today.
+
+Use Notion's templates to test ideas, compile a content management system, and monitor the progress of your web development campaign in one convenient place. Notion also offers team wikis to create a centralized knowledge repository as you build your site.

@@ -1,0 +1,113 @@
+Title: When and how to use a requirements traceability matrix
+Published Date: 2023-05-18T00:00-06:00
+URL: https://www.notion.so/blog/requirements-traceability-matrix
+
+Your product looks good on paper, but that doesn’t mean it works — or that it meets every specification you agreed to include.
+
+One way to make sure you’ve checked every box is to compare your end product’s features against its original requirements.
+
+If a client hired you to design an app, you’ll want to catch an error like a malfunctioning share button before handing it off. And if you developed a website and agreed to code five different pages, you’ll want to make sure each one meets individual specs.
+
+You could go back and search through old docs to find requirements. But a requirements traceability matrix (RTM) gets you organized from the start. It helps teams in niches from app development to product design track project requirements and ensure an error-free output. You’ll deliver a high-quality product that works exactly as it should.
+
+What’s a requirements traceability matrix?
+
+An RTM is a document — often a table — that tracks the completeness of project requirements. With columns for the description, justification, and test results, an RTM serves as a record of project specs and artifacts (your documents and deliverables).
+
+It’s challenging, not to mention stressful, to bear the responsibility of testing for every possible error scenario, catching issues, and meeting stakeholders’ expectations. An RTM lessens the pressure by organizing and tracking every to-do so you always know what tasks you need to complete and when.
+
+While common in software development, RTMs support work in quite a few industries. An automotive company could use a matrix while testing cars’ safety features, and a medical device producer could employ one to check off compliance and quality concerns. Anyone could, and should, use an RTM to assess the success of their project.
+
+Types of traceability
+
+Project managers use three types of traceability in matrices: forward, backward, and bidirectional. Tracing creates connections between requirements and artifacts, so the tracing direction implies which way the correlation forms — whether responding to a requirement or acknowledging it.
+
+Here’s how each type works:
+
+Forward traceability — in this model, the requirement determines a forward, or future,  action, like a test. It outlines a project’s trajectory from beginning to end.Backward traceability — in backward traceability, you map each test case back to a requirement. This makes sure you perform each test for a reason and don’t push past project scope with unnecessary actions.Bidirectional traceability — the most comprehensive form of traceability, bidirectional combines forward and backward models. You’ll check that each test correlates to requirements, and vice versa.
+
+Forward traceability — in this model, the requirement determines a forward, or future,  action, like a test. It outlines a project’s trajectory from beginning to end.
+
+Backward traceability — in backward traceability, you map each test case back to a requirement. This makes sure you perform each test for a reason and don’t push past project scope with unnecessary actions.
+
+Bidirectional traceability — the most comprehensive form of traceability, bidirectional combines forward and backward models. You’ll check that each test correlates to requirements, and vice versa.
+
+How requirements traceability matrices lead to polished output
+
+RTMs are a vital part of a project’s record-keeping. They give you the tools to make sure you deliver a high-quality product, whether for a client or for your company. Here are a few key benefits of using RTMs:
+
+Stay on track — a matrix ensures you meet project goals by tracking actions against baselines. After a client establishes a requirement, you can start tracking its lifecycle within the RTM and make sure you meet every objective.
+
+Stay on track — a matrix ensures you meet project goals by tracking actions against baselines. After a client establishes a requirement, you can start tracking its lifecycle within the RTM and make sure you meet every objective.
+
+Plan better — outlining project requirements from the start dictates the decisions you’ll make later, helping you create a more comprehensive plan. And with everything laid out before you, your team can understand how a change (like a timing setback) affects outcomes.Know what to test — using an RTM in testing informs what you evaluate, when, and why. You’ll document the testing process to prove you’ve covered your bases and run the right tests. Compile clearer documentation — keeping a record of testing, requirements, and their correlations provides comprehensive documentation of a project’s performance. You can share it with a client and use it for future planning, so that every project is better than the last. Clear documentation can also help you spot errors, like a requirement you accidentally missed including.
+
+Plan better — outlining project requirements from the start dictates the decisions you’ll make later, helping you create a more comprehensive plan. And with everything laid out before you, your team can understand how a change (like a timing setback) affects outcomes.
+
+Know what to test — using an RTM in testing informs what you evaluate, when, and why. You’ll document the testing process to prove you’ve covered your bases and run the right tests.
+
+Compile clearer documentation — keeping a record of testing, requirements, and their correlations provides comprehensive documentation of a project’s performance. You can share it with a client and use it for future planning, so that every project is better than the last. Clear documentation can also help you spot errors, like a requirement you accidentally missed including.
+
+What to include in a requirements traceability matrix
+
+An RTM usually takes the form of a chart or table with a different row for every requirement and its testing process. The columns might vary by industry, but most RTMs have sections for:
+
+Requirements
+
+Requirement ID — identify requirements with an ID code so you can easily refer to them over the course of the project. You can use a numeric or alphanumeric code, like R012, to label each one.Requirement description — describe the requirement, like “welcome email” or “add dropdown list to navbar.”Justification — explain what the requirement does and how it might relate to others on the list.
+
+Requirement ID — identify requirements with an ID code so you can easily refer to them over the course of the project. You can use a numeric or alphanumeric code, like R012, to label each one.
+
+Requirement description — describe the requirement, like “welcome email” or “add dropdown list to navbar.”
+
+Justification — explain what the requirement does and how it might relate to others on the list.
+
+Testing
+
+Test case ID — give each test an ID code different from that of the requirement. You can include the requirement code in the Test Case ID column to visualize the correlation. Again, choose a number or alphanumeric code, like T72.Test result or execution status — log whether the test passed, failed, or has yet to run. You can also write who executed the test and when. Notes — include space to add a note about why a test passed or failed, which can inform your next process.
+
+Test case ID — give each test an ID code different from that of the requirement. You can include the requirement code in the Test Case ID column to visualize the correlation. Again, choose a number or alphanumeric code, like T72.
+
+Test result or execution status — log whether the test passed, failed, or has yet to run. You can also write who executed the test and when.
+
+Notes — include space to add a note about why a test passed or failed, which can inform your next process.
+
+Other
+
+Some RTMs may also include columns for:
+
+Requesting department/personBusiness needProject objectiveSpecifications or design statuses
+
+Requesting department/person
+
+Business need
+
+Project objective
+
+Specifications or design statuses
+
+Requirements traceability matrix example
+
+Here’s a simple RTM example to guide you as you structure yours.
+
+How to create an RTM in 4 steps
+
+RTMs break your objectives into requirements and correlate them to actions, creating a living, breathing record of your project process. But with such an important role, your RTM has to be comprehensive. Don’t let its moving parts get lost.
+
+Here are the steps you should take to design a matrix that works for your team:
+
+Define project goals — establish the reason you need the RTM, such as to complete a software development project or accurately test a new prototype.Review documentation — review previous project docs, like a technical requirement document (TRD), functional requirement document (FRD), or business requirement document (BRD). Use these to compile and track all relevant requirements.Create the matrix — set up a Notion database with the columns your team needs in order to effectively trace requirements and tests. Link out to team docs and wikis so everyone knows what processes to follow and who to contact about issues.Fill in (and modify) the RTM — enter each requirement and test case into the matrix, plugging relevant info into every column as you go along. As the project progresses, update the document with test results and related notes.
+
+Define project goals — establish the reason you need the RTM, such as to complete a software development project or accurately test a new prototype.
+
+Review documentation — review previous project docs, like a technical requirement document (TRD), functional requirement document (FRD), or business requirement document (BRD). Use these to compile and track all relevant requirements.
+
+Create the matrix — set up a Notion database with the columns your team needs in order to effectively trace requirements and tests. Link out to team docs and wikis so everyone knows what processes to follow and who to contact about issues.
+
+Fill in (and modify) the RTM — enter each requirement and test case into the matrix, plugging relevant info into every column as you go along. As the project progresses, update the document with test results and related notes.
+
+Save time using a template
+
+Now that you know what a traceability matrix is, create a copyable custom template that your team can use over and over. Templates save time and act as a baseline to modify as you learn more about your workflows.
+
+Notion also offers a range of templates to help you execute projects with ease. Use our Eisenhower matrix template to prioritize tasks or a decision matrix at your next crossroads. With our connected workplace, you can pair your RTM with everything your team needs to know to get the job done.

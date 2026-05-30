@@ -1,0 +1,65 @@
+Title: First Block with Fabian Hedin, Co-founder and CTO of Lovable
+Published Date: 2025-10-29T09:00-07:00
+URL: https://www.notion.so/blog/first-block-with-fabian-hedin
+
+Listen to the First Block podcast on Spotify. To learn more about how Notion is supporting startups, please visit notion.com/startups.
+
+Building software is no longer exclusive to engineers—AI is democratizing development for the 99% who don't code.
+
+Don't overbuild for the future—ship what works today. Lovable initially tried to build complex agent systems anticipating future AI capabilities. Fabian emphasizes focusing on what foundational models can do today rather than banking on future improvements. There's enormous value on the table right now.Launch earlier than you think you should. Despite being early in the space with their chat-and-preview interface, Lovable stayed behind a waitlist too long. Getting feedback from real users sooner would have accelerated their learning and growth.Be your own first customer obsessively. The team builds all their internal tools with Lovable, from office CRMs to operations software. This dogfooding is both addictive and essential—it keeps them in touch with what their product can actually do.
+
+Don't overbuild for the future—ship what works today.
+
+Lovable initially tried to build complex agent systems anticipating future AI capabilities. Fabian emphasizes focusing on what foundational models can do today rather than banking on future improvements. There's enormous value on the table right now.
+
+Launch earlier than you think you should.
+
+Despite being early in the space with their chat-and-preview interface, Lovable stayed behind a waitlist too long. Getting feedback from real users sooner would have accelerated their learning and growth.
+
+Be your own first customer obsessively.
+
+The team builds all their internal tools with Lovable, from office CRMs to operations software. This dogfooding is both addictive and essential—it keeps them in touch with what their product can actually do.
+
+Welcome to First Block, a Notion series where founders from the world's leading companies tell us about the many "firsts" of their startup journeys. We explore the ups and downs that founders face as they build, and what they've learned along the way.
+
+In this episode, we spoke with Fabian Hedin, Co-founder and CTO of Lovable. Lovable is an AI-powered software development platform that enables non-technical people to build production-ready applications through natural language. After launching in November 2024, they've scaled from $1M to $100M ARR in just eight months—one of the fastest growth trajectories in AI history.
+
+Fabian shares his journey from running Minecraft servers in high school to cofounding Lovable, the bold bet on democratizing software development, and why building for today's AI capabilities beats betting on tomorrow's.
+
+What's in this episode:
+
+00:00: Intro01:38: Early Journey05:57: Becoming Lovable08:40: Launch Lessons09:39: Scaling Fast12:38: Building with AI17:11: What's Production-Ready19:39: Notion x Lovable20:34: Future of Building21:20: Advice Block
+
+00:00: Intro
+
+01:38: Early Journey
+
+05:57: Becoming Lovable
+
+08:40: Launch Lessons
+
+09:39: Scaling Fast
+
+12:38: Building with AI
+
+17:11: What's Production-Ready
+
+19:39: Notion x Lovable
+
+20:34: Future of Building
+
+21:20: Advice Block
+
+Download Lovable’s Internal Tool PRD so you can move from idea to spec without staring at a blank page—including clear prompts and example copy to help guide you.
+
+Thought starters for founders
+
+After listening to Fabian’s insights, ask yourself:
+
+What could you build if you focused only on today's AI capabilities rather than tomorrow's?Are you staying behind artificial gates (like waitlists) longer than necessary?What internal tools could you build with your own product to become a better first customer?
+
+What could you build if you focused only on today's AI capabilities rather than tomorrow's?
+
+Are you staying behind artificial gates (like waitlists) longer than necessary?
+
+What internal tools could you build with your own product to become a better first customer?

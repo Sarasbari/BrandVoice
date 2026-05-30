@@ -1,0 +1,221 @@
+Title: Gmail account not receiving emails—top 8 easy fixes
+Published Date: 2025-03-21T16:00+01:00
+URL: https://www.notion.so/blog/gmail-account-not-receiving-emails
+
+If your Gmail account seems quieter than usual, you’re not alone. From misconfigured email filters and spam settings to server issues and incorrect forwarding, a good number of factors can disrupt the traffic in your account—even when you’re using a service as mighty as Gmail.
+
+If you’re someone who can’t receive email messages despite refreshing your inbox endlessly, we have solutions for you! In this in-depth guide, we’ll look at:
+
+Eight common causes of your Gmail account not receiving emailsQuick fixes for the potential issues
+
+Eight common causes of your Gmail account not receiving emails
+
+Quick fixes for the potential issues
+
+We’ll also discuss Notion’s AI-powered email tools and services that can optimize email visibility and take your Gmail experience to the next level.
+
+What to do if you are not receiving emails—8 practical tips
+
+While there are various reasons behind this problem, here are some simple solutions to get your inbox functioning again:
+
+Check if Google is downInspect your internet connectionCheck if your storage is fullReview the email app folders, filters, and configurationsInspect your POP/IMAP settingsRule out domain and account issuesDisable your antivirus programConsider an alternative email management solution
+
+Check if Google is down
+
+Inspect your internet connection
+
+Check if your storage is full
+
+Review the email app folders, filters, and configurations
+
+Inspect your POP/IMAP settings
+
+Rule out domain and account issues
+
+Disable your antivirus program
+
+Consider an alternative email management solution
+
+1. Check if Google is down
+
+Google provides one of the more stable email services, with servers rarely experiencing unplanned downtime. Still, like most scaled systems, Gmail and other Google Workspace apps occasionally run into unexpected difficulties or prolonged maintenance.
+
+If that happens, the only solution is to wait for Gmail to resume working as the problem isn’t on your end. The good news is that Google regularly updates its Workspace dashboard, where you can see the current status of all its services, including Gmail.
+
+2. Inspect your internet connection
+
+If Google’s servers are up, the connectivity issue could be on your end. If you’re on Wi-Fi, check your:
+
+RouterInternet speedDevices
+
+Router
+
+Internet speed
+
+Devices
+
+If the router is currently on, your internet speed might be sluggish, or you might have experienced a momentary outage. Use an internet speed test website to check the stability of your connection. Your device might also be the culprit, so check your emails on another phone, tablet, or computer.
+
+If you’re not on Wi-Fi, check your mobile plan to confirm you haven’t run out of mobile data. Your phone carrier probably maintains a mobile app where you can see such details, or you can enter the appropriate pound code and receive a notification.
+
+Regardless of the potential issue, try resetting your internet connection—solving your problem might be as simple as that.
+
+3. Check if your storage is full
+
+If you can send but not receive emails, it’s often a storage issue. When you’re actively using Google Photos and Drive to back up pictures and other files, you can quickly burn out your storage.
+
+All Google Workspace apps use the 15 GB of storage you get with a free Gmail account and up to 30 TB with one of Google’s paid plans. Once you reach your storage limit, all incoming mail will return to the sender.
+
+You can see how much free space you have in the dashboard of your Google account. If you think maxed-out storage is the reason your Gmail account isn’t receiving emails, you have two options:
+
+Delete some filesUpgrade to a higher plan
+
+Delete some files
+
+Upgrade to a higher plan
+
+If you choose the first option, delete larger files from your Google Drive and Google Photos. Videos and other high-resolution visuals can quickly eat up your 15 GB of free space. For the second option, you can update the tier for your Google Workspace subscription or Google One membership.
+
+4. Review the email app folders, filters, and configurations
+
+Occasionally, your Gmail messages don’t land in your inbox because they might be sorted elsewhere by default—the solution here is to troubleshoot Gmail’s built-in sorting and filtering configurations.
+
+Gmail protects users from spam with aggressive email filters, which can mislabel some of your incoming messages. Before ruling out this option, check the following folders in Gmail:
+
+SpamTrashAll Mail
+
+Spam
+
+Trash
+
+All Mail
+
+You can find Gmail’s folders in the left-hand sidebar. If your missing emails haven’t ended up in Trash or Spam and don’t appear when you go to All Mail, they probably haven’t arrived yet.
+
+Gmail also lets you create additional filters and block specific contacts from sending you emails. You might have accidentally marked someone’s emails as spam in the past or added them to your block list.
+
+To check if this is the case, follow these steps:
+
+Open GmailNavigate to your Account SettingsClick on See All SettingsOpen Filters & Blocked Addresses
+
+Open Gmail
+
+Navigate to your Account Settings
+
+Click on See All Settings
+
+Open Filters & Blocked Addresses
+
+If any contacts are mistakenly on this list, remove the associated filters and ask them to resend the emails. You should then receive their messages without problems.
+
+Additionally, it’s a good call to go over Gmail’s auto-deletion settings that can cause emails and chats with specific labels to bypass the Trash folder and get deleted permanently. For business emails, organizations may configure such settings for the users to save storage space—you may want to reach out to your account admin to adjust the rules.
+
+An outdated Gmail app on your smartphone or tablet might also be the problem due to compatibility issues or outdated security protocols. You need to go to Gmail’s page on Google Play (Android) or App Store (iOS) to see if you’re running the latest app version, and update if necessary. After that, re-log into your Google account on all devices, and reinstall the Gmail app.
+
+5. Inspect your POP/IMAP settings
+
+Gmail uses POP and IMAP protocols to download messages from email servers and display them in your browser or app. If your IMAP settings have been toggled off, the emails might have arrived in your inbox but aren’t visible on your device.
+
+To enable the protocol, follow these instructions:
+
+Open Gmail in your computer browserOpen your Account SettingsGo to See All SettingsFind the POP/IMAP tabSee if Enable IMAP has been toggled on
+
+Open Gmail in your computer browser
+
+Open your Account Settings
+
+Go to See All Settings
+
+Find the POP/IMAP tab
+
+See if Enable IMAP has been toggled on
+
+6. Rule out domain and account issues
+
+If you’re using a custom domain in Gmail and you have a premium Google Workspace subscription, you might be experiencing one of the following account problems:
+
+Type of account issueImpactSolutionSuspended Google Workspace accountEmails bounced back to the senderRenew the annual contract and check if monthly payments have been made on timeDomain host disabled accountEmails not routed from the domain to GmailCheck for payment issues with the domain host provider, renew expired domainIncomplete domain registrationEmails not routed from the domain to GmailComplete the registration process and verify the address with the domain provide
+
+Type of account issue
+
+Impact
+
+Solution
+
+Suspended Google Workspace account
+
+Emails bounced back to the sender
+
+Renew the annual contract and check if monthly payments have been made on time
+
+Domain host disabled account
+
+Emails not routed from the domain to Gmail
+
+Check for payment issues with the domain host provider, renew expired domain
+
+Incomplete domain registration
+
+Emails not routed from the domain to Gmail
+
+Complete the registration process and verify the address with the domain provide
+
+If a managed hosting provider handles your domain, you won’t have to fix related issues yourself. Contact the provider and have them look into why your Google account is not receiving emails.
+
+7. Disable your antivirus program
+
+Some antivirus programs have poorly configured email filtering or firewall settings that may mistakenly mark a legitimate message as spam or a threat. To check if this is the case, follow these steps:
+
+Disable email filtering or the antivirus program temporarilyLog out and log back into Gmail to refresh it Ask the expected sender to try again
+
+Disable email filtering or the antivirus program temporarily
+
+Log out and log back into Gmail to refresh it
+
+Ask the expected sender to try again
+
+If the email arrives after you’ve disabled the antivirus, the program has mistakenly registered the sender as a threat. Most antimalware programs with email filters allow you to create a whitelist with the email addresses of trustworthy senders. Add such senders to the list, and your emails will start coming through. Alternatively, some antivirus solutions may also require you to add your email client to the list of trusted applications or exceptions.
+
+8. Consider an alternative email management solution
+
+While Gmail is a stable solution, it’s hardly ideal to spend too much time and energy on troubleshooting, especially if the issue isn’t technical. Whether you’re a professional or a student, email delivery issues can create unnecessary friction to your workflows due to missed messages, delayed responses, or the sheer chore of digging through emails.
+
+If your emails are frequently lost or misplaced, you may want to rethink your current email management ecosystem and address potential gaps that lead to inbox delays or organization issues.
+
+Most users default to going over the basics—reviewing their email labels, filters, rule settings, etc., which can be quite tedious and even ineffective. Some users even consider deleting their Gmail account and switching to another service, which can be equally overwhelming.
+
+We have a far better solution—why not integrate your Gmail with Notion Mail and maintain a productivity-focused inbox?
+
+Notion Mail is a free AI-first email service designed to help you beat the email overload. It focuses on smart email management and customization—for instance, you can:
+
+Use Notion Mail’s AI Autopilot for automated, intelligent sorting of your priority emails into specific labels and sections in your inboxCreate independent views and layouts for each aspect of your workflow, such as managing a marketing campaign or overseeing a hiring cycle
+
+Use Notion Mail’s AI Autopilot for automated, intelligent sorting of your priority emails into specific labels and sections in your inbox
+
+Create independent views and layouts for each aspect of your workflow, such as managing a marketing campaign or overseeing a hiring cycle
+
+Let your inbox breathe again with Notion Mail!
+
+Your Notion inbox leverages AI and automation to keep you focused and efficient. You can use simple AI prompts to create personalized views of the emails you want to see, keep track of, or archive—all while grouping them automatically with labels.
+
+Notion Mail offers dozens of other features to neutralize any kind of information overload or time crunch you face with your everyday communication. Some examples include:
+
+Option to create minimalist views: You can switch between minimalist and elaborate views depending on the information density you desire.Email summaries: AI-assisted email summaries can get you a brief snapshot of an email with a simple hovering action in your inbox.Quick replies and scheduling: You can use intelligent auto-replies and AI-optimized scheduling options to reduce the workload for follow-up emails.Prewritten email snippets: You get one-click snippets or templates to create and send highly personalized emails in a matter of minutes.Keyboard shortcuts: With Notion Mail’s keyboard shortcuts, you can fast-track tasks such as deleting, responding to, and forwarding emails.
+
+Option to create minimalist views: You can switch between minimalist and elaborate views depending on the information density you desire.
+
+Email summaries: AI-assisted email summaries can get you a brief snapshot of an email with a simple hovering action in your inbox.
+
+Quick replies and scheduling: You can use intelligent auto-replies and AI-optimized scheduling options to reduce the workload for follow-up emails.
+
+Prewritten email snippets: You get one-click snippets or templates to create and send highly personalized emails in a matter of minutes.
+
+Keyboard shortcuts: With Notion Mail’s keyboard shortcuts, you can fast-track tasks such as deleting, responding to, and forwarding emails.
+
+The above is just a snapshot of what you can do with Notion Mail—the platform is built with the foundational productivity features of the core Notion app, so you can benefit from an integrated ecosystem of sister apps like Notion Calendar, as well as dozens of other add-ons and integrations.
+
+How to connect your Gmail with Notion
+
+Your Notion Mail is easy to set up—all you have to do is use your Google or Gmail account to sign up. You can also download dedicated apps for desktop, iOS, and Android.
+
+The platform is absolutely free to use—many AI features are integrated into Notion Mail by default, but you may want to get the Notion AI add-on for access to the more advanced features!

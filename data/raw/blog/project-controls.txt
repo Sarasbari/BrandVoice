@@ -1,0 +1,135 @@
+Title: A complete guide to setting effective project controls
+Published Date: 2023-06-12T00:00-06:00
+URL: https://www.notion.so/blog/project-controls
+
+It’s one thing to manage a project, and another to control it.
+
+Project management, often an umbrella term for any process or plan that keeps an initiative on time and on budget, comprises a series of checks and balances. These checks and balances are project controls.
+
+Savvy project planners likely generate project controls without even realizing it. After all, these controls cover many data-driven parameters that teams commonly set for projects (like a budget).
+
+Whether you’re consciously defining controls or implementing them without thought, your project planning will excel if you understand their function.
+
+What are project controls in project management?
+
+Project controls are processes that analyze variables like expenditures, timeframes, and risks to help managers plan better. Unlike broader project plans, controls focus on specific parts of projects (like costs or quality) rather than charting generally desired outcomes.
+
+Controls often require unique project management methods for monitoring them. The following are a few common ways project managers can create controls:
+
+Correlating tasks to goals Generating a risk management plan Making a budgetDefining roles and responsibilitiesScheduling priority tasksImplementing feedback structures Setting timelines
+
+Correlating tasks to goals
+
+Generating a risk management plan
+
+Making a budget
+
+Defining roles and responsibilities
+
+Scheduling priority tasks
+
+Implementing feedback structures
+
+Setting timelines
+
+5 standard project management control categories
+
+Here are the five main project control types:
+
+Time — project managers should identify critical dates (like deliveries or resource deposits) for a project's implementation and chart activities across a timeline. You could use a Gantt chart to outline this schedule. Cost — identify costs and financial risks that could impact your budget and allocate resources to each part of the project to ensure you’re not over budget or underfunding tasks. Risk — perform a risk analysis and plan for contingencies by charting potential issues.Performance — establish key performance indicators (KPIs) and what tools or systems you’ll use to track them.Communication — generate a plan to report progress, disseminate messages to stakeholders, and maintain communication and feedback loops. Maybe you include daily stand-ups and a reporting cadence in your communication plan, or set up monthly meetings with vendors and clients to discuss progress.
+
+Time — project managers should identify critical dates (like deliveries or resource deposits) for a project's implementation and chart activities across a timeline. You could use a Gantt chart to outline this schedule.
+
+Cost — identify costs and financial risks that could impact your budget and allocate resources to each part of the project to ensure you’re not over budget or underfunding tasks.
+
+Risk — perform a risk analysis and plan for contingencies by charting potential issues.
+
+Performance — establish key performance indicators (KPIs) and what tools or systems you’ll use to track them.
+
+Communication — generate a plan to report progress, disseminate messages to stakeholders, and maintain communication and feedback loops. Maybe you include daily stand-ups and a reporting cadence in your communication plan, or set up monthly meetings with vendors and clients to discuss progress.
+
+The benefits of project control processes
+
+Project controls closely monitor each moving part of an initiative and keep them all functioning. Much like “check engine” lights alert drivers of an issue, project controls help managers notice when an aspect of the work needs inspection — and perhaps a tune-up.
+
+Project controls also:
+
+Eliminate confusion about who should be doing what tasksEncourage ownership and accountability among team members Ensure high-quality, error-free outputs Prevent scope creep (the performance of functions outside the agreed-upon project scope) Mitigate unforeseen costs Keep timelines updatedAllow for timely resource allocation
+
+Eliminate confusion about who should be doing what tasks
+
+Encourage ownership and accountability among team members
+
+Ensure high-quality, error-free outputs
+
+Prevent scope creep (the performance of functions outside the agreed-upon project scope)
+
+Mitigate unforeseen costs
+
+Keep timelines updated
+
+Allow for timely resource allocation
+
+How to create project controls: 3 methods
+
+Since project controls aren’t formulaic and the needs of the work dictate their function, a project manager may feel lost when setting them for the first time (or on a new project type). Luckily, several methodologies can help you develop these controls, no matter your project’s scope.
+
+1. Responsible, accountable, consulted, informed (RACI) matrix
+
+A RACI matrix covers controls related to personnel, charting assignments by breaking them down into the acronym’s four categories. A coder might be responsible for writing a program, for example, and they should consult their superior when an issue arises.
+
+Creating this matrix from the outset helps you control responsibilities, employee-caused delays, and important task dependencies.
+
+2. Critical path method
+
+The critical path method helps you estimate a project’s timeline. First, determine how long each task takes, considering those your team can complete concurrently. Then use this data to set a project end date. When your team is clear on how each task’s progress affects the overall deadline, they understand how a minor setback affects the entire trajectory.
+
+3. Work breakdown structure (WBS)
+
+A WBS helps you create controls by taking the ultimate project goal and breaking it into deliverables and tasks.
+
+Remember that project planning and the controls that scaffold it aren’t the same thing. A plan guides the course of a project, while controls ensure that teams complete tasks correctly and within the set scope, budget, and timeline. As such, any tool that helps a team control a project is an excellent methodology for ensuring quality work and expected outcomes.
+
+3 tips for creating project controls
+
+Project control managers attempt to foresee every project need and set controls to keep the tasks supporting them on track. This is intensive work, but the following three tips set planners up for success:
+
+Document controls — generate a project control plan document that includes the checks and balances you’ve created. After completing your current project, save the document’s shell as a template for those to come.Devise a system for changes — even the best-laid plans don’t always work out, so create a document to track project changes. This log, or change control plan, should document deviations and who requests them. Don’t forget to delegate — a project control plan should contain tasks as well as assignments. A project’s success depends on the people who perform the work, and all involved should be aware of their roles and responsibilities.
+
+Document controls — generate a project control plan document that includes the checks and balances you’ve created. After completing your current project, save the document’s shell as a template for those to come.
+
+Devise a system for changes — even the best-laid plans don’t always work out, so create a document to track project changes. This log, or change control plan, should document deviations and who requests them.
+
+Don’t forget to delegate — a project control plan should contain tasks as well as assignments. A project’s success depends on the people who perform the work, and all involved should be aware of their roles and responsibilities.
+
+How to implement project controls
+
+Teams generally create project controls before the forecasting stage, or before predicting project results. When you make controls early on, they’re in place before the launch, mitigating potential setbacks. But if an issue does arise, you should:
+
+Identify the problem
+
+Log the issue
+
+Project the impact of the issue on the timeline and budget
+
+Resolve the issue
+
+Measure the success of the resolution
+
+When to use project controls
+
+While teams should have project controls in place before starting work, these parameters are helpful in all stages of an initiative. Here’s how project controls guide the project lifecycle:
+
+Beginning — before starting a project, establishing controls helps teams decide on deliverables, assign work, and determine a budget. Controls are the backbone of your entire project plan.Middle — project controls help you track progress against projections and identify issues. For example, a common project control is a budget. Teams can review estimations during the project to ensure they’re on course and not overspending. End — upon closing a project, teams can assess how well the project’s controls guided the work and make necessary changes for next time. If your team found a task-planning methodology clunky and challenging to implement, you can move to a new one on the next project.
+
+Beginning — before starting a project, establishing controls helps teams decide on deliverables, assign work, and determine a budget. Controls are the backbone of your entire project plan.
+
+Middle — project controls help you track progress against projections and identify issues. For example, a common project control is a budget. Teams can review estimations during the project to ensure they’re on course and not overspending.
+
+End — upon closing a project, teams can assess how well the project’s controls guided the work and make necessary changes for next time. If your team found a task-planning methodology clunky and challenging to implement, you can move to a new one on the next project.
+
+Notion makes project management easier
+
+Creating controls requires analyzing and planning every aspect of a project, from budget to task assignments. And each element requires a different approach, making control creation a formidable task. But Notion’s templates can help.
+
+Much like creating a WBS lets you identify deliverables, using a goals hub can guide you while setting company objectives. You can also use Notion’s templates to organize tasks into to-dos, create a roadmap, and gather insights at a post-mortem meeting — all tasks that help you construct, assess, and refine project controls.

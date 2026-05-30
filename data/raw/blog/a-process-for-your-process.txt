@@ -1,0 +1,153 @@
+Title: How to make a custom process for any team
+Published Date: 2021-03-17T00:00-08:00
+URL: https://www.notion.so/blog/a-process-for-your-process
+
+If your company doubles in size, what’s the first thing that breaks?
+
+That's what Justin Watt — Director of Operations at top design agency MetaLab — asks himself. It's a mental stress-test that helps him expose cracks in the company's processes used by all its teams and helps ops prioritize what they'll focus on next.
+
+To fix those cracks? That calls for a custom workflow, created with input from the team running the process itself. This is why, when restructuring the process for any team, Justin's starting point is to bring internal teams together to define challenges and agree on solutions.
+
+The dangers of a heavy-handed process
+
+The goal of improving any process is to make things easier for your team. It's a fine line, one that's easy for ops professionals to cross — your job is to find ways to optimize. But over-process-izing hurts your team's speed and autonomy, focusing too much on how something's done and not the people doing it.
+
+Have you noticed any of these things? Might be time to change up your process.
+
+Your team feels disempowered — process > people can be a real culture killer. A clue that this is happening is when a process doesn't empower your team to make decisions. They feel like a cog in the wheel instead of having the chance to prioritize work or choose what to tackle next.Your red tape has red tape — a process that's overly-complicated unnecessarily draws out work. What could be done with a few people over a couple days turns into an inefficient triathlon because that’s what process dictates.Profit margin decreases as work goes up — this depends on the company size, of course. But if your process is resource-sucking (too many tools, too many people), it can affect your bottom line. Ask yourself: can this be automated? And: can this four-person process by done by two people?
+
+Your team feels disempowered — process > people can be a real culture killer. A clue that this is happening is when a process doesn't empower your team to make decisions. They feel like a cog in the wheel instead of having the chance to prioritize work or choose what to tackle next.
+
+Your red tape has red tape — a process that's overly-complicated unnecessarily draws out work. What could be done with a few people over a couple days turns into an inefficient triathlon because that’s what process dictates.
+
+Profit margin decreases as work goes up — this depends on the company size, of course. But if your process is resource-sucking (too many tools, too many people), it can affect your bottom line. Ask yourself: can this be automated? And: can this four-person process by done by two people?
+
+These process-related causes might be indicators of some larger company-wide symptoms, things not just impacting your teams but the company as a whole. High turnover rate or general decline in company morale (costly in time and money) might reflect a process that's mentally draining.
+
+The best way to rectify an inefficient process? Pull out the mirror. Here's what to look at.
+
+Make a custom process for any team
+
+When amending a current process or making one from scratch, consult the team that's in the trenches of it.
+
+Justin puts it simply: “When the main people who a process is supposed to benefit are unhappy, that’s a sign your process isn’t working. Bring in those who are involved in the work to get their input and take on how things can be improved.”
+
+Custom processes are malleable enough to combine company-level structure with individual or team needs. They fit organizations of different sizes, teams within those organizations, and the specific ways of working for individuals within those teams. And be weary of cookie-cutter processes that fit every team — these may feel like short-term wins but have long-term, negative impact to teams and the company as a whole.
+
+But creating a custom process is easier said than done. Let's break it down.
+
+1. Identify inefficiencies & assess your team's needs
+
+There's a symbiotic relationship between the people running the process and its organizational outcomes. A process with employee or team buy-in often leads to company benefits.
+
+The first thing to do when greasing a wheel is finding the one that squeaks. To do that, you've got to go to the source — the people conducting the process day in and day out.
+
+To do that, you can:
+
+Build cross-functional relationships so problems are surfaced — in order to serve all the departments you’re managing, a tight communication loop helps proactively identify problems before they get out of hand. These relationships bring challenges and opportunities for improvement to the ops team so they can support the other teams they’re working with.Schedule 1:1s or conduct a survey — if you're at a larger company, a survey is probably the way to go. But smaller companies can conduct 1:1s with team leads or department heads. Ask the right questions. What do you like about a process? What isn't working? What do you wish we did? Have them stack rank a list of processes based on efficiency. See what ends up at the bottom and inquire what could make it better. This shapes the process using a people-first mindset.
+
+Build cross-functional relationships so problems are surfaced — in order to serve all the departments you’re managing, a tight communication loop helps proactively identify problems before they get out of hand. These relationships bring challenges and opportunities for improvement to the ops team so they can support the other teams they’re working with.
+
+Schedule 1:1s or conduct a survey — if you're at a larger company, a survey is probably the way to go. But smaller companies can conduct 1:1s with team leads or department heads. Ask the right questions. What do you like about a process? What isn't working? What do you wish we did? Have them stack rank a list of processes based on efficiency. See what ends up at the bottom and inquire what could make it better. This shapes the process using a people-first mindset.
+
+Whiteboard to surface blind spots — after surveys or 1:1s, you can get deeper with some whiteboarding sessions to hash out team needs. Go through a recent process run by that department, looking at the inputs and the outputs. At each stage, try to uncover what could've been better and come up with solutions that help improve areas that are working. Or completely revamp other areas that need wholesale changes.Set department goals that reflect an improved process — work with a department or team lead to come up with some goals that'll signify an improved process. Sales might measure the number of calls with prospective clients or engineering might monitor the number of rejected code commits.
+
+Whiteboard to surface blind spots — after surveys or 1:1s, you can get deeper with some whiteboarding sessions to hash out team needs. Go through a recent process run by that department, looking at the inputs and the outputs. At each stage, try to uncover what could've been better and come up with solutions that help improve areas that are working. Or completely revamp other areas that need wholesale changes.
+
+Set department goals that reflect an improved process — work with a department or team lead to come up with some goals that'll signify an improved process. Sales might measure the number of calls with prospective clients or engineering might monitor the number of rejected code commits.
+
+By working with both team leaders and those comprising the team, you'll get the full picture of why a process isn't working and take the right steps to make it more efficient.
+
+2. Pick the right tool for the job
+
+Custom processes require customizable tools that meet the needs of both operations pros and the teams they’re supporting. They can be both specific and malleable.
+
+"Most project management or process tools bill themselves as everything to everyone," says Justin. "But that's not what they actually are." He says that the software MetaLab was using slowed them down, almost like they needed a full-time person to keep it running.
+
+So he chose Notion for its flexibility. At the highest level, Justin and the teams he works with can structure the company's processes. But inside those processes, teams can work however is best for them.
+
+Here are the features MetaLab uses to organize their work:
+
+Kanban boards form a process — a Kanban board is organized into columns, with each column representing a phase in your process. A sales team might have more columns (like "Lead," "Nurture," or "Demo) than a marketing team (like "Idea," or "In Progress"). Ops leads can establish a shared process for an entire company, while still allowing department heads to have their own boards to run things their way.
+
+Kanban boards form a process — a Kanban board is organized into columns, with each column representing a phase in your process. A sales team might have more columns (like "Lead," "Nurture," or "Demo) than a marketing team (like "Idea," or "In Progress"). Ops leads can establish a shared process for an entire company, while still allowing department heads to have their own boards to run things their way.
+
+All projects get their own pages — inside any board, individual pages in the columns are where work happens. Everything needed for a project is collected in one place, organized, and easy to use. And every page can be customized to the needs of that team (or client).
+
+All projects get their own pages — inside any board, individual pages in the columns are where work happens. Everything needed for a project is collected in one place, organized, and easy to use. And every page can be customized to the needs of that team (or client).
+
+Templates help scale work — to help further cement processes, MetaLab uses templates. This helps quickly spin up projects and ensure there's a consistent framework, also saving the team time so they don’t have to recreate things from scratch. Each is unique to the project and can be modified. But some things, like the DRI (directly responsible individual), cross-functional departments working on it, or checklists needed for QA, don’t change.
+
+Templates help scale work — to help further cement processes, MetaLab uses templates. This helps quickly spin up projects and ensure there's a consistent framework, also saving the team time so they don’t have to recreate things from scratch. Each is unique to the project and can be modified. But some things, like the DRI (directly responsible individual), cross-functional departments working on it, or checklists needed for QA, don’t change.
+
+Sharing work with clients is easy — as an agency, MetaLab is in constant collaboration-mode with their clients. They share Notion pages with clients to get their feedback and input. This collects feedback into one place (the project page), so nothing is missed or overlooked.
+
+Sharing work with clients is easy — as an agency, MetaLab is in constant collaboration-mode with their clients. They share Notion pages with clients to get their feedback and input. This collects feedback into one place (the project page), so nothing is missed or overlooked.
+
+If you're interested in working with someone who can customize your Notion setup based on your specific needs, we have Notion Consultants all over the world that work with teams to optimize their workflows.
+
+“We got rid of nearly a dozen different tools because of what Notion does for us,” Justin says.
+
+3. Build a better process with your team using the RACI framework
+
+The RACI matrix gives ops teams a full field of vision when creating a new process for teams. It accounts for the different stages in that process, who's responsible for what, and who needs to know what's happening.
+
+RACI stands for:
+
+Responsible — this is the person responsible for making sure the project gets shipped at the highest level. Decisions can be escalated to them.Accountable — this person is the project owner or project manager. They're doing the everyday planning, assigning tasks, and ensuring that what’s supposed to happen, happens. Usually, there's only one of these people on the matrix. Sometimes the same person is both the R and the A.Consulted — think of these folks as those who need to be in the loop or provide feedback on deliverables.Informed — this person isn't directly responsible for any work. Instead, they should be given updates about big decisions or progress. No response or action expected.
+
+Responsible — this is the person responsible for making sure the project gets shipped at the highest level. Decisions can be escalated to them.
+
+Accountable — this person is the project owner or project manager. They're doing the everyday planning, assigning tasks, and ensuring that what’s supposed to happen, happens. Usually, there's only one of these people on the matrix. Sometimes the same person is both the R and the A.
+
+Consulted — think of these folks as those who need to be in the loop or provide feedback on deliverables.
+
+Informed — this person isn't directly responsible for any work. Instead, they should be given updates about big decisions or progress. No response or action expected.
+
+On the left column of your matrix, list all the major tasks or steps needed to complete a project. It's helpful to list them in order, from the earliest step to the last.
+
+Then on the top row of the matrix, list everyone who will play a part in your process.
+
+Now, you can go through and assign one of the letters (R,A,C, or I) to each of the squares. That way, everyone knows what role they'll play in the process.
+
+The structure here really forces ops teams and department leads to come up with a step-by-step execution process, see how it'll get executed, and makes it clear who is involved and what to expect from them throughout the process. Not only does it flesh out a process, it makes the entire thing transparent, so no balls get dropped. The transparency makes it so anyone can join a project or a team’s process — the who, what, when, where, and why are all there.
+
+It's also the first step in documenting your process.
+
+4. Document everything about your process
+
+After you've created what you think is a good process for your team, document all parts of it. Not only does this help existing teammates, it allows new teammates to jump right into the process seamlessly. This allows your team — and your process — to scale.
+
+"People don't love having to learn new tools," says Justin. "It's important to discuss this need with them like humans. I often share the 'why' behind the need and tool, and invite any feedback or ideas which both go a long way with getting buy in."
+
+As an ops person, it's important you communicate these things to your team before a process is rolled out:
+
+The "why" behind the process — in Justin's experience, telling your team why a process change is happening makes adoption of that process quicker and better overall. This can come in the form of an email or a Slack message (depending on how formal your company is). If you're using Notion, it can be at the top of any process doc, so anyone looking at the process can see the "why" next to the process itself.Shared language — if everyone is using the same vocabulary to describe the work or the process, there's less confusion and smoother handoffs. MetaLab also avoids jargon, discussing a process in the most human way possible with those doing it.Setting expectations — laying it all out on the table helps teammates know what they're responsible for, leading to better execution. This also helps you surface inefficiencies or streamline a process.
+
+The "why" behind the process — in Justin's experience, telling your team why a process change is happening makes adoption of that process quicker and better overall. This can come in the form of an email or a Slack message (depending on how formal your company is). If you're using Notion, it can be at the top of any process doc, so anyone looking at the process can see the "why" next to the process itself.
+
+Shared language — if everyone is using the same vocabulary to describe the work or the process, there's less confusion and smoother handoffs. MetaLab also avoids jargon, discussing a process in the most human way possible with those doing it.
+
+Setting expectations — laying it all out on the table helps teammates know what they're responsible for, leading to better execution. This also helps you surface inefficiencies or streamline a process.
+
+The last thing? Get some feedback. Justin instills this in the ops teams. It’s important that folks don’t feel like they’re being dictated in their work, and it fosters the sharing of new ideas that may improve the process.
+
+Communication about how a process should be run might also be an indicator that it's overly complex. If you need to communicate a lot, or remind folks how to do it constantly, that might illustrate a process needs to be a little simpler.
+
+5. Don't forget to assess the results
+
+Once a process is chugging along, many operations teams forget to check on its success. Remember those goals you set? After about a month, come back to them and see if what you've implemented has achieved those goals.
+
+That's the core, qualitative metric on which to assess the quality of your process.
+
+You might even create a very short "exit survey" for your process similar to the survey you created when identifying inefficiencies and figuring out teams' needs. Talk to managers responsible for overseeing that process or employees in the trenches running it. This helps you get that first-hand understanding that's so valuable for people-focused optimization.
+
+And if your process didn't work as intended? Use that feedback gathered above to modify or improve a process and surface what isn’t working about it.
+
+Learning from failure
+
+"The best way to learn operations is through failure," says Justin. "You need to be willing to try something instead of taking triple the amount of time just to figure out what you'll do. You might even consider rolling out a pilot to a smaller subset of the team to ensure it works at scale.”
+
+One problem probably has ten different solutions. You won't always land on the right one the first time, but that experience is valuable to uncover what does work. It also goes a long way with your colleagues — who see the effort you're making to streamline their work and, really, create something that's customized to their needs.
+
+Because processes are constantly changing, what makes for an effective long-term process is the process you use to build it.

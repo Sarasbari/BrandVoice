@@ -1,0 +1,265 @@
+Title: How to organize Outlook email in 6 clear steps
+Published Date: 2025-03-04T00:00+02:00
+URL: https://www.notion.so/blog/how-to-organize-outlook-email
+
+While Outlook may not be the most aesthetically pleasing email provider, it offers numerous organizational features that let you stay on top of incoming mail somewhat effortlessly. The only issue here is that many users don’t know how to leverage such features because Outlook’s interface is not particularly intuitive.
+
+In order to save you from experimenting with the platform’s features, this guide will show you how to organize Outlook email using the most effective ones. You’ll then learn whether creating a specific workflow is worth the effort, considering Outlook’s drawbacks.
+
+How to organize emails in Outlook
+
+There are numerous ways to adapt Outlook to your workflow, so if you don’t know where to start, follow these steps:
+
+Leverage Outlook’s Focused InboxGroup emails into foldersUse labels to categorize emailsPrevent new emails from threads you no longer needAutomate email organization with rulesFlag important emails
+
+Leverage Outlook’s Focused Inbox
+
+Group emails into folders
+
+Use labels to categorize emails
+
+Prevent new emails from threads you no longer need
+
+Automate email organization with rules
+
+Flag important emails
+
+1. Using Outlook’s Focused Inbox
+
+Focused Inbox is a useful feature that separates the most important messages from the rest. Messages that Outlook deems important will appear in the Focused tab, with everything else going to the Others tab.
+
+While this feature isn’t perfectly accurate, it highlights the emails that might require your attention. It’s enabled on the mobile app by default, but you might need to turn it on if you’re using Outlook in your browser.
+
+You can do this in a few quick steps:
+
+Click the gear icon in the upper-right corner of the screenGo to LayoutChoose Sort messages into Focused and OtherClick Save
+
+Click the gear icon in the upper-right corner of the screen
+
+Go to Layout
+
+Choose Sort messages into Focused and Other
+
+Click Save
+
+2. Creating and organizing folders in Outlook
+
+Folders give you the quickest way to sort emails and reference them more easily later on. They’re particularly helpful if you use one account for multiple purposes, such as personal correspondence, work, and school.
+
+Outlook offers several default folders, most notably:
+
+ArchiveNotesScheduled
+
+Archive
+
+Notes
+
+Scheduled
+
+If you don’t use these folders much, you can create custom ones to personalize your Outlook workflow. To do so, take the following steps:
+
+Go to the left-hand menu from the main inbox and scroll downUnder Folders, click Create new…Name your folder and click Save
+
+Go to the left-hand menu from the main inbox and scroll down
+
+Under Folders, click Create new…
+
+Name your folder and click Save
+
+To move an email to a folder, you can do the following:
+
+Open the email you wish to moveClick the Move to button above the inboxYou will see recently used folders, so your new one may not appear immediately. Click Move to a different folder at the bottom of the drop-down menu to see all your foldersChoose the folder you want to move the email to
+
+Open the email you wish to move
+
+Click the Move to button above the inbox
+
+You will see recently used folders, so your new one may not appear immediately. Click Move to a different folder at the bottom of the drop-down menu to see all your folders
+
+Choose the folder you want to move the email to
+
+Outlook also lets you create subfolders for further organization. For instance, your Work folder can be broken down into subfolders like Clients, Projects, Invoices, etc. If you don’t want to create such a hierarchy, you can use another useful feature—labels.
+
+Keep reading: Managing a Gmail account as well? Understand if there is a difference between folders and labels, and learn how to automatically move emails to folders or label them.
+
+3. Using Outlook labels to categorize mail
+
+Outlook’s labels—also referred to as categories—let you give each email an attribute that sorts it beyond folders. Categories are color-coded by default, which may not be particularly useful because you need to remember which color represents each category you need.
+
+Luckily, you can create custom categories and edit the existing ones by taking the following steps:
+
+Select the email you want to categorizeClick the tag icon above the inboxYou will see the default list of colored categories, so click Manage categories to edit themIn the pop-up menu, click Create category to add more labels or click the pen icon to edit the existing ones
+
+Select the email you want to categorize
+
+Click the tag icon above the inbox
+
+You will see the default list of colored categories, so click Manage categories to edit them
+
+In the pop-up menu, click Create category to add more labels or click the pen icon to edit the existing ones
+
+Categories will remain color-coded, but you can change their name and choose the color for each label.
+
+There has been quite some confusion around Outlook categories vs. folders, as users often mistake the two. Note that these features are separate, so categorizing an email doesn’t move it to a specific folder. You can use both options in conjunction to fine-tune your inbox organization and store messages more neatly.
+
+4. Ignoring future emails from unnecessary threads
+
+Outlook lets you opt out of threads you no longer need to participate in. This is useful if you’re CC’d on a project you don’t work on anymore or are involved in a group conversation you want to leave.
+
+Whatever the case, you can use the Ignore feature to stop receiving emails from specific threads. To access it, follow these steps:
+
+Right-click the correspondence you want to removeClick IgnoreConfirm your choice by clicking OK
+
+Right-click the correspondence you want to remove
+
+Click Ignore
+
+Confirm your choice by clicking OK
+
+All messages from the selected thread will disappear from your inbox and the folders you have put them in. The only exception is the Sent folder, from which you’d have to delete the correspondence manually.
+
+When someone sends an email to the thread, it will automatically go to the Deleted folder instead of your inbox.
+
+5. Setting rules to automate incoming mail organization
+
+Rules are among Outlook’s most useful features—they reduce manual labor and can significantly improve your correspondence if you implement them properly.
+
+When you set a rule, it applies to all emails meeting certain conditions. Such conditions include the following:
+
+Specific sendersKeywords in the subject, header, and bodyAttachment sizeImportance and sensitivity
+
+Specific senders
+
+Keywords in the subject, header, and body
+
+Attachment size
+
+Importance and sensitivity
+
+You can decide what happens with the emails defined by these conditions to avoid repeating the same action for similar emails.
+
+To create a rule, take the following steps:
+
+Click the gear icon in the upper-right corner of the main screenOpen the Rules tabSelect Add new rule and follow the steps outlined in the window:Name your ruleSet conditions from the available optionsAdd the desired action(s) that will automatically trigger when you receive the emailChoose Run rule now if you want to apply it immediately (optional)Click Save
+
+Click the gear icon in the upper-right corner of the main screen
+
+Open the Rules tab
+
+Select Add new rule and follow the steps outlined in the window:
+
+Name your ruleSet conditions from the available optionsAdd the desired action(s) that will automatically trigger when you receive the email
+
+Name your rule
+
+Set conditions from the available options
+
+Add the desired action(s) that will automatically trigger when you receive the email
+
+Choose Run rule now if you want to apply it immediately (optional)
+
+Click Save
+
+You can set several conditions and actions, which gives you numerous ways to automate incoming mail. This option is handy for removing junk, promotional emails, or spam mail that Outlook’s detection lets through.
+
+Keep reading: Learn more about how filters and rules work in other email providers like Gmail.
+
+6. Flagging emails that require action
+
+You may receive dozens of emails daily, so you might not get to all of them on top of your other work. To make sure you remember to follow up on important emails or reply to them, you can use Outlook’s flags.
+
+When you flag an email, it’s highlighted more prominently in your inbox. It’s also added to Microsoft’s To Do app connected to Outlook, which you can find in the leftmost bar of your inbox. This way, you can turn an email into an action you’ll remind yourself to complete.
+
+If you only wish to highlight an email, hover over it in your inbox and click the flag icon.
+
+If you want to add a date or time for the reminder, follow these steps:
+
+Open the email you want to flagClick the down-facing error next to the flag icon above the inboxChoose when you want to be reminded of the email from the available options
+
+Open the email you want to flag
+
+Click the down-facing error next to the flag icon above the inbox
+
+Choose when you want to be reminded of the email from the available options
+
+After you’ve taken the necessary action, you can remove the flag by clearing it from the menu shown above. You can also do it directly from the inbox by hovering over the email and clicking the flag icon again.
+
+Limitations of Outlook’s organization features
+
+While Outlook undoubtedly gives you numerous opportunities to adapt the platform to your needs and workflow, there are a few notable disadvantages you should keep in mind:
+
+Inconsistent feature availabilityInefficient workflow
+
+Inconsistent feature availability
+
+Inefficient workflow
+
+Inconsistent feature availability
+
+Feature availability varies between Outlook as a standalone platform and as a part of Microsoft’s paid 365 workplace. While both versions support the features we’ve just discussed, the latter contains some options unavailable to free users.
+
+A good example is Quick Steps, a feature that lets you automate some of the main actions you take with specific emails. It’s quite helpful in reducing manual work, but it’s only available with Microsoft 365.
+
+Keep reading: Want to know how the two differ? Understand the role of Microsoft 365 when you’re using Outlook.
+
+Inefficient workflow
+
+Although Outlook offers numerous email organization features, they can sometimes slow you down and hinder your efficiency.
+
+While filtering emails helps keep things tidy, setting up and tweaking rules is time-consuming. Unlike modern email clients that use simple prompts and intuitive commands, maintaining accurate sorting, removing junk, and ensuring no crucial emails are missed requires ongoing manual effort.
+
+The Focused Inbox feature, intended to prioritize emails, can , forcing users to repeatedly check Outlook’s “Other” tab for crucial emails. Users also report that Outlook’s email features are often slow, unintuitive, or buggy, dragging out organization processes and disrupting your workflow.
+
+Ultimately, while functional, Outlook’s organizational features can create more work than they save. For a truly productivity-boosting email service, an AI-powered solution like Notion Mail can offer a significant improvement. It automates much of the organizational overhead so that you can focus on important work.
+
+Boost your productivity with Notion Mail’s AI-powered organization
+
+Notion Mail is an intelligent AI email management solution that automates and accelerates everyday email processes, allowing you to regain control of your time and workflow.
+
+Where traditional platforms typically demand manual, time-consuming tasks like sorting, filtering, and prioritization, Notion Mail’s AI steps in to help you handle much of the organizational workload, freeing you to focus on your crucial responsibilities.
+
+Here’s how the builder-focused email service empowers you and transforms your experience:
+
+AI-driven email management: Notion Mail’s AI autopilot automates the tedious aspects of email, intelligently sorting and prioritizing your messages into specific labels to fit your needs. This helps you focus on high-impact tasks rather than spending hours decluttering. Customizable views: The platform helps you build “inboxes within an inbox” to fit your unique workflows. Whether you’re managing projects, coordinating events, or handling client communications, create tailored views that display only the relevant information, keeping you focused and efficient. AI-assisted email composition: Notion Mail helps you draft emails faster with AI-generated quick replies and reusable snippets. These features streamline responses and ensure consistent communication, saving you valuable time.Intelligent scheduling: By integrating with Notion Calendar, Notion Mail eliminates scheduling headaches and provides seamless, conflict-free scheduling, including the ability to insert scheduling links directly into your emails.
+
+AI-driven email management: Notion Mail’s AI autopilot automates the tedious aspects of email, intelligently sorting and prioritizing your messages into specific labels to fit your needs. This helps you focus on high-impact tasks rather than spending hours decluttering.
+
+Customizable views: The platform helps you build “inboxes within an inbox” to fit your unique workflows. Whether you’re managing projects, coordinating events, or handling client communications, create tailored views that display only the relevant information, keeping you focused and efficient.
+
+AI-assisted email composition: Notion Mail helps you draft emails faster with AI-generated quick replies and reusable snippets. These features streamline responses and ensure consistent communication, saving you valuable time.
+
+Intelligent scheduling: By integrating with Notion Calendar, Notion Mail eliminates scheduling headaches and provides seamless, conflict-free scheduling, including the ability to insert scheduling links directly into your emails.
+
+Beyond its AI-driven organization, Notion Mail enhances your email experience with features like AI-powered summaries, automated follow-ups, seamless Notion integration, keyboard shortcuts, and more.
+
+It’s important to note that Notion Mail is a Gmail client designed to enhance your existing Gmail experience. While this provides a reliable foundation, it requires signing up with a Gmail or Google account.
+
+Sign up for Notion Mail
+
+Notion Mail comes fully equipped with exceptional AI features for free, but there’s more. If you want advanced AI features to further power up your email management processes, get the Notion AI add-on.
+
+It’s super easy to get your Notion Mail account; all you need to do is sign up with your Google or Gmail account to gain access.
+
+Bonus read: Need help organizing your email? Check our other troubleshooting guides or explore alternatives to popular email services:
+
+How to remove an Outlook account from an iPhoneAlternatives to Apple MailAndroid Outlook alternativeGmail not syncing with the iPhone Mail appHow to delete an email account on an iPhoneTop alternatives to YahooBest Proton Mail alternativesGmail account not receiving emailsHow to remove a Gmail account from an iPhoneHow to remove a Gmail account from a phone
+
+How to remove an Outlook account from an iPhone
+
+Alternatives to Apple Mail
+
+Android Outlook alternative
+
+Gmail not syncing with the iPhone Mail app
+
+How to delete an email account on an iPhone
+
+Top alternatives to Yahoo
+
+Best Proton Mail alternatives
+
+Gmail account not receiving emails
+
+How to remove a Gmail account from an iPhone
+
+How to remove a Gmail account from a phone

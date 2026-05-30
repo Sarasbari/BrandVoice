@@ -1,0 +1,63 @@
+Title: How to leverage AI-generated scripts to brainstorm better
+Published Date: 2023-03-27T00:00-06:00
+URL: https://www.notion.so/blog/ai-generated-script
+
+An empty page is a dreadful thing for a screenwriter — the possibilities are endless, but choosing a starting point can feel impossible. Wouldn’t it be great if you could quickly generate content that takes you past the starting line?
+
+Well, you can. Whether you’re working on a document for work, drafting social media content, or creating a video script, you can lean on artificial intelligence (AI) to help you tackle writer's block. In this piece we’ll focus on screenwriting -- how to create AI-generated scripts, and when and how these tools are most useful.
+
+What are AI scripts?
+
+AI scripts are AI-generated content for videos and movies. As a video creator or writer, you can use AI scripts to improve a completed draft or as a starting point to develop content. For instance, AI scripts can provide suggestions for your work’s plot, character development, dialogue, and pacing.
+
+AI systems use algorithms to create scripts that mimic human thinking and language patterns. Engineers train these systems on large data sets that include movie and video content, audience behavior, and cultural preferences. Through this process, AI systems learn to create engaging pieces for a specific target audience.
+
+This is what AI content generators are best as: tools for humans to leverage. They aren’t effective at understanding context or creating nuanced emotional content, so they’re not about to take over for human writers. But you can draw upon AI scripts to lay out a framework, allowing you to focus your creative energy on other aspects of the process, like refining storylines, building characters, and perfecting your piece's overall tone.
+
+3 working modes of AI scripts
+
+AI tools like language bots for brainstorming or video script generators can support writers in a number of important ways:
+
+Leveraging large amounts of data — you can train AI systems in specific data environs, like customer metrics or script data for videos, reels, and movies. Their vast knowledge base enables these systems to determine the tropes or characters that audiences find most appealing and make educated suggestions.Acting as a sounding board — some AI systems, like Notion AI and OpenAI’s ChatGPT-3, combine elements of conversational AIs and language models to work in an interactive, question-and-answer mode. Try using these tools to brainstorm ideas and work through sticky plot points.Analyze your script — feed your script into an AI script generator to project how it measures up to your target audience’s expectations and needs. Is your script well-developed, or do the characters need further work? You can get an educated, well-rounded answer from your AI sounding board.
+
+Leveraging large amounts of data — you can train AI systems in specific data environs, like customer metrics or script data for videos, reels, and movies. Their vast knowledge base enables these systems to determine the tropes or characters that audiences find most appealing and make educated suggestions.
+
+Acting as a sounding board — some AI systems, like Notion AI and OpenAI’s ChatGPT-3, combine elements of conversational AIs and language models to work in an interactive, question-and-answer mode. Try using these tools to brainstorm ideas and work through sticky plot points.
+
+Analyze your script — feed your script into an AI script generator to project how it measures up to your target audience’s expectations and needs. Is your script well-developed, or do the characters need further work? You can get an educated, well-rounded answer from your AI sounding board.
+
+5 tips for writing scripts using AI
+
+At this time, AI scripts still require a human helping hand to complete a quality piece that’s worthy of an audience's attention. Here are five tips for handling AI-written scripts.
+
+1. Choose a broad topic
+
+When selecting a script topic for the AI tool, choose something broad with breathing room for flexibility and creativity. This gives the program more leeway to come up with new ideas and avoid getting stuck in a narrow and potentially irrelevant focus. Instead of choosing a specific historical incident, for example, choose a broader historical moment or theme that allows the tool to explore different ideas.
+
+2. Use AI as a tool, not a replacement
+
+AI is a powerful scriptwriting tool that can automate simple tasks like writing a pitch or creating a synopsis. But current AI content can’t replace human experience and creativity. Use AI to help you generate new ideas and streamline your writing process, then edit the content so it’s relevant and has your personal touch.
+
+3. Provide clear directions
+
+While AI systems like Notion AI comprehend natural language, you should still be clear when providing directions to script generators. Be concise to avoid confusing the system and include all the details the AI will need to generate the content you're looking for. If you’re creating an AI-generated news script, include all the necessary facts, sources, and perspectives to accurately tell the story. And if you’re writing a movie script, instead of simply telling the AI to write a scene with two characters talking, provide detailed information about the characters, their personalities, and the scene’s intended tone.
+
+4. Understand AI’s limitations
+
+Even as AI tools change and grow with each iteration, you should always recognize AI's current limitations by implementing best practices for polishing AI-generated writing. AI may not understand the nuances of certain cultural references or historical events, for example. Even though there are safeguards in place in some AI systems, users have demonstrated that it’s possible to bypass or trick AIs into creating offensive or incorrect content, so always review your AI-generated script before using it.
+
+5. Have a good script to start with
+
+If you’re using an AI tool to enhance an already-written script, remember that it can only work with what it’s given. Deliver a good script and you’ll get good recommendations. A good script includes detailed characters, a well-defined plot structure, and engaging dialogue. Make this information clear by adding labels to sections and spacing everything out so the tool understands what it’s reading and can make useful suggestions.
+
+Will AI replace all artists?
+
+As AI content generators increase in popularity and scope, it’s reasonable to worry whether these algorithms will replace artists of all sorts — not just scriptwriters.
+
+But as Oxford Internet Institute researcher Anne Ploin states, there’s no replacement for human agency in creating art. Ploin argues that while AI can automate parts of the creative process, it can’t replace human creativity as a whole, since the artistic process hinges on choices based on life experience. She concludes that life experiences that inform these choices cannot be transferred into data.
+
+Try out AI-generated scripts with Notion
+
+Though AI-focused platforms like script generators have potential, they’re not here for our creative-industry jobs just yet. AI systems are a great tool to support you through the writing workflow. They can kick-start the process, help you work through writer’s block, and optimize your script. But they’re no match for the effects human creativity and lived experience have on a piece of writing.
+
+Ready to leverage AI-writing tools for your next project? Try Notion AI, which is designed to support your creative process every step of the way, from scriptwriting to copywriting to translations. Get started with our AI video idea inspiration template.

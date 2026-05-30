@@ -1,0 +1,53 @@
+Title: First Block with Gerry Giacomán Colyer, Co-founder and CEO of Clara
+Published Date: 2026-01-21T09:00-08:00
+URL: https://www.notion.so/blog/first-block-with-gerry-giacoman-colyer
+
+Listen to the First Block podcast on Spotify. To learn more about how Notion is supporting startups, please visit notion.com/startups.
+
+Resilience is built through crisis, not despite it. Clara's bank partner shut down just months after launch. Instead of folding, they secured direct issuer licenses with Visa and MasterCard in two weeks. This forced them to build more robust infrastructure from day one, making them stronger than if things had gone smoothly.Product-led growth can work, even in regulated industries. Clara grew to 20,000+ customers across three countries with a self-serve onboarding flow that handles everyone from pre-revenue startups to the Mexican Stock Exchange. Their obsession with invisible product details created the foundation for rapid scale.Deploy AI where you have unique data advantages. Clara's move into AI agents makes sense because they sit on rich transaction data across Latin American businesses. Their financial analyst agent automates policy enforcement and approval workflows where they have information advantages traditional banks don't.
+
+Resilience is built through crisis, not despite it. Clara's bank partner shut down just months after launch. Instead of folding, they secured direct issuer licenses with Visa and MasterCard in two weeks. This forced them to build more robust infrastructure from day one, making them stronger than if things had gone smoothly.
+
+Product-led growth can work, even in regulated industries. Clara grew to 20,000+ customers across three countries with a self-serve onboarding flow that handles everyone from pre-revenue startups to the Mexican Stock Exchange. Their obsession with invisible product details created the foundation for rapid scale.
+
+Deploy AI where you have unique data advantages. Clara's move into AI agents makes sense because they sit on rich transaction data across Latin American businesses. Their financial analyst agent automates policy enforcement and approval workflows where they have information advantages traditional banks don't.
+
+Welcome to First Block, a Notion series where founders from the world's leading companies tell us about the many "firsts" of their startup journeys. We explore the ups and downs that founders face as they build, and what they've learned along the way.
+
+In this episode, recorded live at Mexico Tech Week, we spoke with Gerry Giacomán Colyer, Co-founder and CEO of Clara. In just a few years, Clara has become one of the fastest-growing companies in the Americas, reaching over 20,000 customers across three countries and raising $80 million along the way.
+
+Gerry shares the founding insight that came from watching a previous company struggle without proper financial tools, the near-end experience of their bank partner shutting down months after launch, and how they’re now deploying AI agents to transform finance operations across Latin America.
+
+What's in this episode:
+
+00:00 Intro01:42 The Starting Point05:11 Early Milestones08:47 Scaling Decisions12:30 Staying Lean15:56 Roadmap Across Markets19:52 The Tool Stack20:59 Advice Block
+
+00:00 Intro
+
+01:42 The Starting Point
+
+05:11 Early Milestones
+
+08:47 Scaling Decisions
+
+12:30 Staying Lean
+
+15:56 Roadmap Across Markets
+
+19:52 The Tool Stack
+
+20:59 Advice Block
+
+Download Clara’s OKRs template to connect individual projects and tasks to broader objectives, ensuring everyone on your team can see how their own efforts—and their teammates' work—ladder up to company priorities.
+
+Thought starters for founders
+
+After listening to Gerry's insights, ask yourself:
+
+How can you build infrastructure that's resilient from day one, not as a reaction to problems?Are you treating efficiency as a day-one priority or a later-stage correction?Where do you have unique data advantages that AI could amplify?
+
+How can you build infrastructure that's resilient from day one, not as a reaction to problems?
+
+Are you treating efficiency as a day-one priority or a later-stage correction?
+
+Where do you have unique data advantages that AI could amplify?

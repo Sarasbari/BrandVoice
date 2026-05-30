@@ -1,0 +1,135 @@
+Title: OKRs versus KPIs: How to use each to propel your team forward
+Published Date: 2023-05-12T00:00-06:00
+URL: https://www.notion.so/blog/okrs-vs-kpis
+
+Defining success could determine whether you’ll achieve it. If you define success as running three times a week, you know precisely what to do to accomplish your goal — hit the pavement. And if your broader running objective is to complete a marathon, you can make a plan to hit that milestone that relies on smaller running successes.
+
+Achieving larger goals relies on breaking your “finish line” goal into smaller items, like adding mileage each week and improving your pace. Regardless of the steps you take to get there, you can track your progress toward clearly defined success with these more specific metrics.That’s the crucial difference between OKRs versus KPIs — the former are the finish line and the latter are the steps you take to get there. And using both sets your team up for success.
+
+What’s a KPI?
+
+The KPI acronym stands for key performance indicator. Employees set these quantitative metrics to monitor progress toward broader goals, like individual, team, or company progress.
+
+KPIs are only useful for measuring progress and determining success if they’re specific and reasonable. Your team won’t know how to work toward something vague, and they’ll waste their time striving toward something impossible.
+
+Here’s an example of a great marketing KPI:
+
+3% monthly Twitter-follower growth for the corporate account
+
+This defines something you’re measuring (growing Twitter followers), what your target is (3% growth), and in what timeframe (every month). And maybe the broader business goal this KPI applies to is increased overall revenue or social presence.
+
+KPI targets outline success so everyone’s on the same page and working toward the right goals. This motivates your team because they know when to celebrate (when they meet targets) and how to improve (if they don’t). That’s a much better position to be in than feeling confused or defeated by unrealistic or nonexistent KPIs.
+
+KPI examples
+
+Here are a few more examples of good KPIs. Each one contains a metric that measures business activity and a target for that metric:
+
+An average help desk response time of under 60 minutesMonthly recurring revenue of over $5 millionAn average patient wait time of under 15 minutes120 sales calls per month20 qualified leads per monthAn average customer satisfaction score above 120An average new-customer onboarding time of under 2 hours
+
+An average help desk response time of under 60 minutes
+
+Monthly recurring revenue of over $5 million
+
+An average patient wait time of under 15 minutes
+
+120 sales calls per month
+
+20 qualified leads per month
+
+An average customer satisfaction score above 120
+
+An average new-customer onboarding time of under 2 hours
+
+KPIs are critical to performance management and ensuring that your business is operating optimally. But they’re actually not the best place to start when establishing a framework for measuring your organization’s overall success. That’s where OKRs come in.
+
+What’s an OKR?
+
+The OKR business acronym means objectives and key results. These define ambitious, time-sensitive goals and the steps required to achieve them. And they often provide the broader context for establishing KPIs.
+
+What does OKR mean in a business context? OKRs create a goal-setting framework that connects your employees' work to the organization's mission. They answer the question, “Is what I’m doing contributing to the company’s success?”
+
+Here’s a good OKR example for a marketing team:
+
+Increase marketing engagement on social media
+
+This is a broad objective that defines success (an increase in engagement on socials). You’d then create specific KPIs to reach this goal, like:
+
+Increase LinkedIn followers by 10% this quarterUse three new relevant Instagram hashtags this quarterEngage in a Twitter chat with our five most prolific followers
+
+Increase LinkedIn followers by 10% this quarter
+
+Use three new relevant Instagram hashtags this quarter
+
+Engage in a Twitter chat with our five most prolific followers
+
+OKR examples
+
+Here are a couple more OKR examples, with their corresponding KPIs:
+
+Objective: Increase sales lead generation for new product
+
+KPIs:
+
+Grow social media mentions by 20%Launch customer referral program by the end of Q3Affiliate 20 new brand ambassadorsExtend product demo offers to five product review sites
+
+Grow social media mentions by 20%
+
+Launch customer referral program by the end of Q3
+
+Affiliate 20 new brand ambassadors
+
+Extend product demo offers to five product review sites
+
+Objective: Build AI-powered video streaming platform
+
+KPIs:
+
+Hire 10 data scientistsCreate AI development programAssemble an essential list of AI featuresTest first AI feature before fiscal year-end
+
+Hire 10 data scientists
+
+Create AI development program
+
+Assemble an essential list of AI features
+
+Test first AI feature before fiscal year-end
+
+OKRs versus KPIs: What’s the difference?
+
+Here are a few key differences between OKRs and KPIs so you can best use each metric.
+
+Best practices for creating OKRs and KPIs
+
+Follow these best practices to create meaningful and relevant goals and metrics.
+
+OKR best practices
+
+Start with a few objectives to refine your OKR process and see how your team performs. Set ambitious OKRs that challenge your organization and encourage everyone to reach new heights.Don’t overcommit to OKRs because these lofty goals aren’t always achievable. They’re aspirations, not expectations.Support OKRs from the top down to ensure that leadership shows buy-in and sets a good example.Create high-value OKRs that clearly impact your business, since focusing on unachievable or irrelevant goals could demotivate your team.
+
+Start with a few objectives to refine your OKR process and see how your team performs.
+
+Set ambitious OKRs that challenge your organization and encourage everyone to reach new heights.
+
+Don’t overcommit to OKRs because these lofty goals aren’t always achievable. They’re aspirations, not expectations.
+
+Support OKRs from the top down to ensure that leadership shows buy-in and sets a good example.
+
+Create high-value OKRs that clearly impact your business, since focusing on unachievable or irrelevant goals could demotivate your team.
+
+KPI best practices
+
+Keep it simple, only measuring what’s important to your business instead of irrelevant sideline tasks. Focus on measuring what’s happening now, like daily tasks or the state of a team’s operations.Use current data to keep KPIs up-to-date and relevant. Knowing last week’s sales growth doesn’t help you understand whether sales are growing this week.Monitor KPIs effectively using tested tracking software or graphs and review this data often.
+
+Keep it simple, only measuring what’s important to your business instead of irrelevant sideline tasks.
+
+Focus on measuring what’s happening now, like daily tasks or the state of a team’s operations.
+
+Use current data to keep KPIs up-to-date and relevant. Knowing last week’s sales growth doesn’t help you understand whether sales are growing this week.
+
+Monitor KPIs effectively using tested tracking software or graphs and review this data often.
+
+Achieve your goals with Notion
+
+Your team can only achieve what you set out for them. Use OKRs to align your employees on broad company goals and KPIs to monitor their daily progress toward those goals.
+
+Increase everyone’s chance of achieving lofty goals by using Notion templates like the OKR template, OKRs, or Buffer's OKRs. Or search the template gallery to find something that suits your team’s unique KPIs.

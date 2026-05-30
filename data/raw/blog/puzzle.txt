@@ -1,0 +1,147 @@
+Title: Puzzle’s Notion Playbook: Eight Startup Hacks to Save 8+ Hours Weekly
+Published Date: 2025-03-11T09:30-07:00
+URL: https://www.notion.so/blog/puzzle
+
+In the startup world, we often talk about finding product-market fit. But we also need to talk about product-company fit—or finding the right products that power your company’s daily work.
+
+When we started Puzzle, our mission was clear: to build a system of financial intelligence that helps founders make better business decisions. As a serial entrepreneur whose companies have raised over $1 billion in capital, I’ve seen firsthand how the right operational infrastructure can determine a company’s success. That’s exactly what we needed at Puzzle to support our rapid growth, and it’s why we turned to Notion.
+
+Notion isn’t just another app in Puzzle’s tech stack—it’s our central nervous system. It’s where ideas come to life, processes take shape, and teams collaborate seamlessly. We’ve developed eight key strategies to help us harness the full power of Notion. They’ve saved us countless hours of redundant work and have transformed Notion from a simple tool into the foundation of our operations.
+
+Whether you’re a startup founder or leading a team looking to optimize your operations, here’s how you can make Notion the driving force behind your company’s growth and success:
+
+1. Establish Notion as your SSOT and integrate your other tools
+
+At Puzzle, we live by the classic adage “if it’s not in writing, it didn’t happen.” In our case, if it’s not in Notion, it doesn’t exist.
+
+Our Notion workspace has become our Single Source of Truth (SSOT)—an integrated knowledge hub where our institutional knowledge grows and evolves with our company. Everything is connected, from foundational company information (like policies and procedures) to strategic initiatives (including company-wide OKRs and team goals) to the daily pulse of work happening in specialized tools like Linear. Every doc, design file, data dashboard, project update, and key conversation from connected tools like Slack becomes part of our collective intelligence.
+
+By making Notion our primary workspace, we’ve made company knowledge more discoverable through intuitive organization and created an environment where information naturally flows between teams. This setup saves everyone time and fosters better collaboration. When everything is in a central source of truth (or at least connected to via integrations), team members can more easily share knowledge and learn from each other. You can use Notion’s importer tools to migrate your existing content from legacy tools, allowing you to phase them out and build a more consolidated, connected tech stack with Notion as your SSOT.
+
+To establish Notion as your SSOT, you need to make a clear, intentional declaration. This can be a company-wide announcement at an all-hands meeting or through a documented philosophy in your “ways of working” guide. This foundational step sets the stage for successfully implementing the remaining principles we’ll explore, each of which reinforces Notion’s role as your company’s central nervous system.
+
+2. Streamline recruiting and new employee onboarding
+
+We use Notion to create a seamless experience from a candidate’s first interview through their entire onboarding journey. This approach not only streamlines our People processes but also introduces new hires to our culture of documentation and knowledge-sharing from day one.
+
+Using Notion for onboarding serves a dual purpose: it creates a consistent experience for new hires while also encouraging teams to document their essential processes and knowledge. As teams prepare onboarding materials, they naturally build and refine their documentation, creating a foundation of institutional knowledge that is collectively iterated on over time.
+
+The key components of what makes our onboarding system in Notion work so well:
+
+Establish templates in your workspace for everything from job descriptions to interview scorecards to ensure consistency and save timeInteractive onboarding checklists help new hires track their progress and feel ownership of their journeyFacilitating onboarding in Notion empowers employees to find information independently and use Notion AI to answer their questions before reaching out to teammatesPermission settings allow for gradual access to sensitive information as employees progress through onboarding
+
+Establish templates in your workspace for everything from job descriptions to interview scorecards to ensure consistency and save time
+
+Interactive onboarding checklists help new hires track their progress and feel ownership of their journey
+
+Facilitating onboarding in Notion empowers employees to find information independently and use Notion AI to answer their questions before reaching out to teammates
+
+Permission settings allow for gradual access to sensitive information as employees progress through onboarding
+
+3. Transform team communication with Notion as your async work hub
+
+At Puzzle, we’ve made async communication a cornerstone of how we work together by turning Notion pages into dynamic discussion spaces where decisions unfold. Our teams document decisions, share updates, and solve problems without scheduling endless meetings—a practice that’s especially valuable for our distributed team. This approach has dramatically reduced our meeting load while improving the quality of our discussions and decisions.
+
+Here’s our proven framework for async communication in Notion:
+
+Create structured spaces with templates for different types of documentation (proposals, decisions, updates)Set clear documentation protocols—specify when to use comments vs. new pages, how to tag relevant stakeholders, and expected response timesImplement a regular review cycle to keep documentation fresh and relevantUse Notion’s commenting and @mentions strategically to loop in teammates while keeping discussions focusedLeverage automations to notify teams in Slack and email when important updates are made
+
+Create structured spaces with templates for different types of documentation (proposals, decisions, updates)
+
+Set clear documentation protocols—specify when to use comments vs. new pages, how to tag relevant stakeholders, and expected response times
+
+Implement a regular review cycle to keep documentation fresh and relevant
+
+Use Notion’s commenting and @mentions strategically to loop in teammates while keeping discussions focused
+
+Leverage automations to notify teams in Slack and email when important updates are made
+
+4. Bridge gaps between teams while organizing specialized knowledge
+
+Teamspaces in Notion provide an elegant information architecture that balances specialized team knowledge with cross-functional visibility. Each function maintains its own dedicated space for team-specific content while making it easy for others to discover relevant information. This structure ensures teams can organize their specialized knowledge effectively without creating barriers to collaboration.
+
+For instance, our engineering teamspace contains detailed technical documentation that’s organized for engineers’ daily use while remaining accessible when product managers need architectural context. Similarly, our sales teamspace organizes customer insights and market feedback in a way that works for the sales team while making these valuable insights discoverable for product decisions.
+
+Our teamspaces work particularly well when they have:
+
+Team-specific templates that are tailored to the recurring workflows and documentation of the teamStakeholder database views to present information in ways that work not only for that team but their closest cross-functional partnersPage owners, expiration dates, and verifications for the most important information to ensure quality content that everyone can trust is up-to-dateKeep documentation as open as possible by using granular permissions at the page and database level to balance transparency with necessary privacy
+
+Team-specific templates that are tailored to the recurring workflows and documentation of the team
+
+Stakeholder database views to present information in ways that work not only for that team but their closest cross-functional partners
+
+Page owners, expiration dates, and verifications for the most important information to ensure quality content that everyone can trust is up-to-date
+
+Keep documentation as open as possible by using granular permissions at the page and database level to balance transparency with necessary privacy
+
+5. Turn documentation principles into daily habits
+
+A culture of documentation isn’t just a principle, it’s a muscle that every startup needs to develop. Creating a strong documentation culture requires both clear guidelines and practical habits that teams can follow day-to-day so they become second nature.
+
+Here’s how we’ve made documentation a natural part of work at Puzzle:
+
+Start small: Begin with basic meeting notes and decision logs, then gradually expand to more complex documentation as teams build the habitMake it routine: Build documentation checkpoints into existing workflows, like requiring written proposals before meetings and capturing key decisions afterwardKeep it fresh: Schedule regular review sessions where teams update and improve their most-used documentationCelebrate good docs: Highlight examples of effective documentation during team meetings and recognize contributors who help others learn
+
+Start small: Begin with basic meeting notes and decision logs, then gradually expand to more complex documentation as teams build the habit
+
+Make it routine: Build documentation checkpoints into existing workflows, like requiring written proposals before meetings and capturing key decisions afterward
+
+Keep it fresh: Schedule regular review sessions where teams update and improve their most-used documentation
+
+Celebrate good docs: Highlight examples of effective documentation during team meetings and recognize contributors who help others learn
+
+6. Customize workflows to each team
+
+Even though all teams at Puzzle start with the same basic Notion setup, what makes it really special is that each team can adjust how they use it to fit their specific needs. As any startup knows, processes and systems naturally evolve over time, which is why it’s crucial to use tools that can adapt and scale alongside your growing business. Notion’s flexibility makes this possible, allowing teams to continuously refine their workflows as their needs change.For example, an engineering team might start with simple task tracking before building out a full sprint-planning system, while a marketing team could grow from basic campaign planning into comprehensive content calendars and analytics tracking. This natural progression lets each team build the perfect workspace for their needs while staying connected to the bigger picture.
+
+Some best practices for setting up your evolving workflows:
+
+Start simple, iterate often: Begin with basic workflows that teams can test and refine over time as they discover what worksMaintain guardrails: Use some standard set of database properties and templates to ensure consistency while giving teams freedom to customize their views and processesConnect team workflows: Leverage relations and rollups to link work across teams while preserving each team’s preferred way of working
+
+Start simple, iterate often: Begin with basic workflows that teams can test and refine over time as they discover what works
+
+Maintain guardrails: Use some standard set of database properties and templates to ensure consistency while giving teams freedom to customize their views and processes
+
+Connect team workflows: Leverage relations and rollups to link work across teams while preserving each team’s preferred way of working
+
+7. Leverage AI to take it to the next level
+
+Our team of 50+ employees has transformed how they work by integrating Notion AI into their daily workflows. At first, teams primarily used AI to quickly find answers by asking questions about information spread across our workspace—from product specs to meeting notes to customer feedback. With ten minutes saved per query and an average of five queries per person per day, that’s 50 minutes saved daily—or over twenty-one hours per week across the company!Now, we’ve expanded how we leverage Notion AI across different aspects of our work, using it both as an intelligent assistant and a powerful automation tool:
+
+Instantly find answers to complex questions by having AI analyze information across connected tools and databasesTurn meeting notes into actionable project plans by automatically extracting key decisions and categorizing next stepsCustomize technical documentation for different audiences—one click to convert engineering specs into sales-friendly overviewsExtract product insights by asking AI to identify patterns across customer conversations and feature requestsCreate competitive analysis reports by having AI synthesize internal market research and customer feedback
+
+Instantly find answers to complex questions by having AI analyze information across connected tools and databases
+
+Turn meeting notes into actionable project plans by automatically extracting key decisions and categorizing next steps
+
+Customize technical documentation for different audiences—one click to convert engineering specs into sales-friendly overviews
+
+Extract product insights by asking AI to identify patterns across customer conversations and feature requests
+
+Create competitive analysis reports by having AI synthesize internal market research and customer feedback
+
+8. Track team progress with tasks as shared knowledge too
+
+Just as your team’s documentation and workflows live in Notion as shared organizational knowledge, understanding who is doing what and when is equally vital collective intelligence. Our task-management system in Notion connects individual work to company-wide priorities, giving teams clear context while providing leadership visibility into progress. By linking tasks to strategic initiatives, tracking impact scores, and automating notifications, we’ve created a system that helps everyone understand how their work contributes to larger goals.
+
+What makes task management in Notion uniquely powerful:
+
+Cross-referencing capabilities connect tasks to relevant docs, meetings, and projects, with embedded context living right alongside the work, creating a rich web of knowledgeFlexible views allow each team member to organize tasks their way while maintaining a single source of truthCustom formulas can automatically calculate priority based on multiple factors like urgency, effort, and strategic valueRelations between databases of tasks help surface dependencies and enable resource planning across teams
+
+Cross-referencing capabilities connect tasks to relevant docs, meetings, and projects, with embedded context living right alongside the work, creating a rich web of knowledge
+
+Flexible views allow each team member to organize tasks their way while maintaining a single source of truth
+
+Custom formulas can automatically calculate priority based on multiple factors like urgency, effort, and strategic value
+
+Relations between databases of tasks help surface dependencies and enable resource planning across teams
+
+As your startup scales, having a single source of truth becomes increasingly critical for maintaining alignment, preserving institutional knowledge, and enabling rapid decision-making. What I’ve shared here represents years of refinement as a founder and as a team at Puzzle, resulting in measurable improvements in team efficiency, reduced meeting loads, and faster onboarding times.
+
+If what I’ve shared here resonates with you but feels a bit daunting, my advice is simple: start small, but start today. Choose just one area—perhaps meeting documentation or onboarding guides—and build from there.
+
+The future of work is transparent, connected, and increasingly asynchronous. By building your company’s operating system in Notion, you’re not just solving immediate organizational challenges. You’re also creating a competitive advantage that will scale with your success and compound over time.
+
+Ready to transform how your startup works? Join the Notion for Startups program.
+
+Startups get six months free with unlimited AI access. Build your company’s operating system in Notion with all the premium features you need to scale efficiently.👉 Apply to Notion for Startups Program + get Puzzle's templates

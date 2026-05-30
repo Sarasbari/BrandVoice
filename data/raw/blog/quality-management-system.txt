@@ -1,0 +1,121 @@
+Title: A beginner’s guide to quality management systems
+Published Date: 2023-05-12T00:00-06:00
+URL: https://www.notion.so/blog/quality-management-system
+
+As a business owner, your number one goal is to satisfy your customers. But that’s not a one-step process — so much goes into maintaining your product or service’s quality and keeping everyone happy. To ensure you don’t miss any crucial steps, you can implement a quality management system (QMS) that covers everything relevant to client and stakeholder satisfaction.
+
+What’s a quality management system?
+
+A QMS is a set of documentation, processes, and procedures aimed at helping a business meet specific quality standards. Companies can either choose a QMS and document it themselves, referring to it as they work toward continuous quality improvement, or implement a QMS program that monitors their policies and procedures.
+
+If you have messy documentation, for example, your QMS can outline an organized process your employees should follow to meet the documentation standards you set. And QMS software can even clean up your files.
+
+Most QMSs attempt to meet quality guidelines set by ISO 9001:2015. The International Organization for Standardization established these guidelines in 1987 to help companies demonstrate their product and customer service standards.
+
+7 benefits of using a QMS
+
+A quality management process helps your business meet customer, industry, and organizational requirements. This builds confidence in your organization, in turn increasing your company’s revenue. Establishing a QMS also offers the following benefits:
+
+Streamlines processes — QMS software can automate quality-relevant updates and changes and streamline task reminders, notifications, and electronic signatures so your business runs more smoothly.Eliminates waste — creating more efficient processes and tasks can eliminate duplicate content, such as redundant standard operating procedures (SOPs) or multiple people maintaining the same document.Reduces mistakes — QMS software can create consistent formatting for all your records and documents, reducing errors in forms and contracts. And clients receive mistake-free materials, which helps inspire greater trust.Assists employee training — you can use a QMS program to document training records, track progress, and monitor new hire performance. Solidifies your mission — QMSs are all about creating quality work through process refinement, a value that resonates with your customers. Your clients gain confidence when they see they’re dealing with an organized business focused on quality control.Increased revenue — most companies get ISO-certified as part of their quality management process. Achieving this can help your business expand into new markets, as it's a globally recognized marker of your commitment to consistency, giving you an edge over competitors.
+
+Streamlines processes — QMS software can automate quality-relevant updates and changes and streamline task reminders, notifications, and electronic signatures so your business runs more smoothly.
+
+Eliminates waste — creating more efficient processes and tasks can eliminate duplicate content, such as redundant standard operating procedures (SOPs) or multiple people maintaining the same document.
+
+Reduces mistakes — QMS software can create consistent formatting for all your records and documents, reducing errors in forms and contracts. And clients receive mistake-free materials, which helps inspire greater trust.
+
+Assists employee training — you can use a QMS program to document training records, track progress, and monitor new hire performance.
+
+Solidifies your mission — QMSs are all about creating quality work through process refinement, a value that resonates with your customers. Your clients gain confidence when they see they’re dealing with an organized business focused on quality control.
+
+Increased revenue — most companies get ISO-certified as part of their quality management process. Achieving this can help your business expand into new markets, as it's a globally recognized marker of your commitment to consistency, giving you an edge over competitors.
+
+4 common QMS types
+
+While your values, product offering, and business goals determine the right quality system for you, here are four common types to choose from.
+
+1. Standardized system
+
+A standardized QMS focuses on federal code and regulation compliance, typically complying with ISO certification. Medical device sales and pharmaceutical businesses often follow this system type.Standardized systems cover a laundry list of ISO certifications, such as ISO 9000/9001, ISO 13485, and ISO 14000/14001. Receiving these certifications involves in-depth internal audits and continuous quality assurance monitoring.
+
+2. Total quality management (TQM)
+
+TQM is a comprehensive approach to quality improvement that touches every area of your business, from the executive suite to the warehouse. This method assesses every process’s contribution to the company’s overall productivity and customer satisfaction goals, eliminating redundant tasks that don't add value.
+
+3. Continuous quality improvement (CQI)
+
+CQI focuses on constant preventive action and each employee’s contributions to quality processes. The system follows three steps — develop, implement, and reflect — to continuously question and improve products and services.
+
+4. Six Sigma
+
+This metrics-based method uses whatever tools and training are necessary to get an organization to a 3.4 defects per million opportunities rating. This approach prioritizes data-driven decision-making so leaders and managers have the information they need to improve the quality of their workflows, processes, and team.
+
+9 core elements of a quality management system
+
+No matter the QMS you choose to implement, it will include these nine elements:
+
+Quality policy — this defines what quality means to your company, setting expectations for your QMS. Quality manual — this is an overview of your entire QMS. It helps auditors and customers understand how you've structured your QMS, including its scope, requirements, and processes.Quality objectives — these should be realistic, achievable objectives based on where you currently stand regarding quality. Revisit and revise these objectives as your company moves along the quality management path. Some common objectives are achieving a less than 5% margin of error in data entry or ensuring that all new employees complete new hire training within 20 days. Organizational structure — your QMS will contain an organizational chart defining all roles and responsibilities. While you can include this in the quality manual, it generally stands alone so readers can quickly reference it when building processes and procedures related to their role.Document control — your QMS will outline documentation standards, and QMS software can help maintain these guidelines.Processes and procedures — almost every responsibility within your company has a process, from warehouse storage rules to handling accounts payable invoices. A QMS identifies and defines these processes. Establishing standards is next, along with metrics for success (paying invoices accurately, for example). You can also create flowcharts for every employee regarding the processes related to their responsibilities and how they intersect with other procedures.Data management — you should report data related to customer feedback, process monitoring, and non-conformances regarding regulatory filings and approvals. This data helps you understand how the QMS improves processes and whether it's making a difference in your company’s operations. Continuous improvement and CAPA — new roles and responsibilities might demand previously undefined quality objectives, or your company might shift its business model, requiring a different organizational structure. You must modify currently established processes within your QMS to account for these changes. And auditors hope to see corrective and preventive actions (CAPA) built into your quality objectives. This shows that your company seeks to constantly improve by defining ways you can. Quality instruments — most relevant to manufacturing, science, and medical industries, this means that rules must exist for any control or calibration tool to ensure industry standardization.
+
+Quality policy — this defines what quality means to your company, setting expectations for your QMS.
+
+Quality manual — this is an overview of your entire QMS. It helps auditors and customers understand how you've structured your QMS, including its scope, requirements, and processes.
+
+Quality objectives — these should be realistic, achievable objectives based on where you currently stand regarding quality. Revisit and revise these objectives as your company moves along the quality management path. Some common objectives are achieving a less than 5% margin of error in data entry or ensuring that all new employees complete new hire training within 20 days.
+
+Organizational structure — your QMS will contain an organizational chart defining all roles and responsibilities. While you can include this in the quality manual, it generally stands alone so readers can quickly reference it when building processes and procedures related to their role.
+
+Document control — your QMS will outline documentation standards, and QMS software can help maintain these guidelines.
+
+Processes and procedures — almost every responsibility within your company has a process, from warehouse storage rules to handling accounts payable invoices. A QMS identifies and defines these processes. Establishing standards is next, along with metrics for success (paying invoices accurately, for example). You can also create flowcharts for every employee regarding the processes related to their responsibilities and how they intersect with other procedures.
+
+Data management — you should report data related to customer feedback, process monitoring, and non-conformances regarding regulatory filings and approvals. This data helps you understand how the QMS improves processes and whether it's making a difference in your company’s operations.
+
+Continuous improvement and CAPA — new roles and responsibilities might demand previously undefined quality objectives, or your company might shift its business model, requiring a different organizational structure. You must modify currently established processes within your QMS to account for these changes. And auditors hope to see corrective and preventive actions (CAPA) built into your quality objectives. This shows that your company seeks to constantly improve by defining ways you can.
+
+Quality instruments — most relevant to manufacturing, science, and medical industries, this means that rules must exist for any control or calibration tool to ensure industry standardization.
+
+QMS use cases
+
+Here are a few examples of how a QMS can streamline business processes and increase productivity and profit.
+
+Example:
+
+A company has regulatory compliance issues in reporting food safety records. After some introspection, they discover that they need a standardized documentation process. Some of their restaurants filed supplier receipts, some filed incorrectly, and some didn't file at all.
+
+Using a CQI QMS method, they streamline this process with added training, improved workflows, and escalation rules. This saves the restaurant money by ensuring that every location files all supplier paperwork in the same manner, reducing double, missed, and late supplier payments.
+
+Example:
+
+A financial institution needs tighter controls around its regulatory filings and internal audit schedule. They use the Six Sigma method to create a data-driven process around submitting documents and eliminate the creation of redundant tasks. The data they glean from their Six Sigma software leads to more accurate accounting and regulatory reporting, improving their standing as a financial management leader.
+
+Example:
+
+A manufacturing company is experiencing rapid growth. They’re hiring more people than they can handle onboarding but know they need these employees to expand the business. A TQM program organizes the company’s new hire documents and automates task delegation to streamline the onboarding process.
+
+How to implement a QMS
+
+There are four industry-standard steps to follow when implementing any QMS.
+
+1. Analyze
+
+Work with your leadership team to break your business into key areas (finance, shipping, onboarding) you want to improve. Then meet with relevant managers from these departments to discuss quality management issues. Maybe you identify that accounts receiving has poor documentation and building payment-processing protocols would lead to more satisfied customers.
+
+2. Plan
+
+Once you know where the issues lie, research QMS types to determine the best one to meet your particular challenges. If you want improved data insights, Six Sigma compliance might be best, and if you feel your entire organization requires more robust quality management, TQM is likely ideal.
+
+After deciding on a QMS, determine whether you’ll document and monitor this yourself or implement QMS software. This is daunting and never-ending work, but a quality management software can help you remain compliant and optimized so you don’t burn yourself out trying to do this on your own.
+
+3. Inform
+
+Holding departmental meetings to inform employees about process changes will assist in implementing those changes. If your employees understand why you want to instill tighter controls and efficiency, they'll feel more willing to hold a magnifying glass to their workflows and increase their productivity.
+
+You should also develop training around the new QMS processes so employees are set for success.
+
+4. Deploy
+
+After you deploy your QMS, nominate an employee to check that processes are working and employees are following the new procedures. It's also essential to continuously evaluate whether each process contributes to overall company goals and how your QMS and software are performing.
+
+Quality management made easy with Notion
+
+Implementing a QMS is a commitment to greater productivity and profitability. Doing so shows that you pride yourself on meeting high-quality standards and care about your employees reaching company goals. Help everyone achieve their goals more efficiently with Notion templates that cover the gamut of organizational tasks. From an ISO 9001 audit assistant to task and project management, Notion has the tools to help you succeed.

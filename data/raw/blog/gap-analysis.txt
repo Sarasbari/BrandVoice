@@ -1,0 +1,83 @@
+Title: What’s a gap analysis? A 5-step guide
+Published Date: 2023-09-18T00:00-03:00
+URL: https://www.notion.so/blog/gap-analysis
+
+Companies that don’t settle grow.
+
+Organizations must look toward the future with a critical eye on the present to expand, increase revenue, and create new products. And leaders must continuously pinpoint where they want their team to be and ask, “How do we get there?”
+
+A gap analysis is one method companies use to address these needs. This tool helps teams identify the “holes” in current operations and determine how to boost efficiency and better use resources like capital and technology.
+
+What’s a gap analysis?
+
+A gap analysis involves assessing a company's overall resources or those for a specific team or project. You might conduct this analysis to determine whether you have enough programmers for a software development project or the right equipment for new hires. The ultimate goal is to find shortcomings you can fill or plan for.
+
+When to use a gap analysis
+
+Forward-thinking businesses constantly look for ways to streamline and perfect work, and gap analyses chart a route to improved workflows, products, and services.
+
+Common scenarios where you’d conduct a gap analysis include:
+
+During project planning — determining resource gaps before a project begins allows managers to adjust the plan and anticipate potential shortcomings. And project managers can use a gap analysis’s information to create resource-tracking documentation.Improving team performance — clunky workflows slow your team down and burn up resources. A gap analysis identifies inefficiencies in operational procedures. Making strategic decisions — gap analyses are an excellent way to make data-driven and thoroughly-informed decisions since they look at current and future resource allocation. If a company wishes to restructure, for example, it can use a gap analysis to effectively assign resources to accommodate this reorganization.
+
+During project planning — determining resource gaps before a project begins allows managers to adjust the plan and anticipate potential shortcomings. And project managers can use a gap analysis’s information to create resource-tracking documentation.
+
+Improving team performance — clunky workflows slow your team down and burn up resources. A gap analysis identifies inefficiencies in operational procedures.
+
+Making strategic decisions — gap analyses are an excellent way to make data-driven and thoroughly-informed decisions since they look at current and future resource allocation. If a company wishes to restructure, for example, it can use a gap analysis to effectively assign resources to accommodate this reorganization.
+
+How to conduct a gap analysis: 5 steps
+
+Identifying inefficiencies is far too broad a charge to perform without a plan. Here’s how to do a gap analysis in five steps.
+
+1. Assess the current state of affairs
+
+Research how your company, department, or team currently uses resources. If you’re trying to increase overall revenue, you might first determine current earnings. And if you’re defining the number of employees needed on a project, you might define how many you have at your disposal or how many you used on a similar project in the past.
+
+It’s too complex to run a single gap analysis that considers operational efficacy, company revenue, and sales performance, so limit assessments to particular areas.
+
+2. Set objectives
+
+The best way to understand what you need resource-wise is to determine your project, team, or company-wide targets. If you want to increase revenue by 10%, you can define the exact resources you need to accomplish this.
+
+3. Find the gaps
+
+You’ve pinpointed your current and desired states — now to find the gap. You could create a graph where the Y-axis charts the business facet in question and the X-axis charts time. Then plot two lines: one for your baseline performance if you continue doing everything the same, and the other for projected performance if you meet your desired state. Shade in the space between these two lines to visualize your gap.
+
+While charting the gap provides informative imagery, it doesn’t tell you why current operations perform the way they do, nor will it chart the route forward, so work with your team to understand why you have these gaps. In the revenue increase example, you’d ask why your earnings aren’t where you want them to be. Perhaps the answer is that your fulfillment process is very expensive, so the next question becomes how you can save costs in the process.
+
+4. Make a plan
+
+Once you’ve identified the issues causing the gap, devise a plan to improve them, creating specific gap-filling goals. If you know you must drop spending regarding your fulfillment process, you’ll work with leadership colleagues to determine how to reduce spending in this area or gain savings elsewhere to accommodate this cost. Remember: Actions often incur resources. In plans like this one, which aims to use resources more efficiently, it’s essential to identify how much time, energy, and capital the changes you want to make will cost.
+
+5. Take action
+
+After you’ve completed a gap analysis, it’s time to act. Create roadmaps that outline milestones, timelines, and assignments so your team knows how to meet gap-filling goals. And clearly define individual and team action items, like contacting a new vendor to lower fulfillment costs or onboarding programmers to fill an employment gap.
+
+For each initiative, set key performance indicators (KPIs) to monitor the success of everybody’s hard work. You can use this data to better inform future project planning.
+
+Once you have action items and a metrics-tracking system, launch your initiatives and consistently monitor progress to determine if you’re effectively closing gaps.
+
+3 gap analysis tools
+
+Performance analysis documents seamlessly guide companies toward understanding current and future states. Use the following three tools to give shape and direction to your gap analysis:
+
+SWOT analyses determine a solution or company’s strengths, weaknesses, opportunities, and threats. This process is valuable since it outlines efficient processes you might be able to funnel capital or labor away from to assist weaker ones.PEST analyses work well for companies facing external pressures as these involve investigating political, economic, social, and technological factors. You might discover your fulfillment process is expensive due to international shipping and customs fees, for example.Fishbone diagrams are excellent for digging deep into an issue. Start by writing the problem in the center of a document or whiteboard with a long horizontal line. Then determine the primary categories, like materials or methods, that influence the problem and draw slanted perpendicular lines that connect to the central horizontal line for each category. The resulting chart should look like the skeleton of a fish. You can then draw smaller lines attached to each perpendicular line. These branches represent the causes of the issue the category creates. This gap analysis process helps you visualize the current business actions that spur undesired results.
+
+SWOT analyses determine a solution or company’s strengths, weaknesses, opportunities, and threats. This process is valuable since it outlines efficient processes you might be able to funnel capital or labor away from to assist weaker ones.
+
+PEST analyses work well for companies facing external pressures as these involve investigating political, economic, social, and technological factors. You might discover your fulfillment process is expensive due to international shipping and customs fees, for example.
+
+Fishbone diagrams are excellent for digging deep into an issue. Start by writing the problem in the center of a document or whiteboard with a long horizontal line. Then determine the primary categories, like materials or methods, that influence the problem and draw slanted perpendicular lines that connect to the central horizontal line for each category. The resulting chart should look like the skeleton of a fish. You can then draw smaller lines attached to each perpendicular line. These branches represent the causes of the issue the category creates. This gap analysis process helps you visualize the current business actions that spur undesired results.
+
+Start with a gap analysis template
+
+You’ve determined a performance concern and want to learn more about your company’s current state before setting a goal — an ideal moment to perform a gap analysis. If it’s your first time conducting one or you want help documenting the process, use Notion’s gap analysis template for support.
+
+This outline guides you through identifying the analysis’s focus area, writing about current and desired states, and considering Dirksen’s five gap areas: knowledge, skill, motivation, environment, and communication.
+
+Implement successful changes with Notion
+
+Notion’s connected team workspace offers a resource library that encourages learning and facilitates more organized projects.
+
+Use the project management template to plan initiatives that respond to your gap analysis and the feedback tracker to understand how customers react to your products or services and where to make changes. Or search the template gallery for something perfectly suited to your team’s needs.

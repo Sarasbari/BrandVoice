@@ -1,0 +1,95 @@
+Title: Build a team dashboard to measure your startup team’s performance
+Published Date: 2022-08-25T00:00-06:00
+URL: https://www.notion.so/blog/team-dashboard-to-measure-startup-performance
+
+When founders think of managing a startup, there’s a tendency to think of which project management methodologies like Agile, Kanban, or even Scrum to use.
+
+But what if you thought of managing your startup like baking a cake? They both follow a recipe (your standard operating procedures), require ingredients (your team), and need the right tools (your tools stack). Together these elements form something bigger and more complex than the sum of their parts.
+
+To help guide you with building your team dashboard, we sat down with Chris LaFerla, who worked in early-stage marketing at Faire and is now the CEO and founder of Tatem, a VC-backed tech startup building operating systems for startups and SMBs.
+
+At Faire, Chris worked with core strategist Harsha Yeddanapudy to build out Faire’s dashboards using Notion to create a central source for their team data. Chris shared their core steps for building effective team dashboards to keep team members aligned across a rapidly scaling company.
+
+The best cakes are made when you follow a recipe and measure your ingredients as you go. Similarly, startups need a dashboard that measures team key performance indicators (KPIs), objectives and key results (OKRs), and productivity to successfully manage their sweet success.
+
+How team dashboards help your startup grow
+
+A team dashboard is the best way to gather, analyze, and effectively use your team performance data to grow your startup. You can achieve greater success if you measure your team’s performance, track it over time, and take meaningful action based on what that data is telling you.
+
+Team dashboards help your business in a few specific ways:
+
+Visualize key data. A dashboard visualizes your important data so you can draw effective conclusions from it more easily. Visualizations help you compare datasets and their impact on each other and see trends over time — plus, when you see data, it’s top of mind.
+
+Monitor multiple metrics concurrently. Gather all your important metrics in one place in your team dashboard. You won’t have to go to multiple sources every time you want to check your data, and you can more easily compare different metrics against each other.
+
+Improve cross-collaboration with teams. Teams can collaborate more effectively when they can share data easily and have insight into each other’s key metrics.
+
+Set goals and track progress. Tracking your team metrics helps you set the right goals for your team and track their progress towards them. A dashboard gives your team more transparency into their own performance and shows metrics over time so you can shape realistic goals for your team in the future.
+
+Simplify end-of-year reporting. If you already have data for the year collected in a dashboard, it is easy to collect and export it for reporting.
+
+A team dashboard contains some of your team’s most important information — their goals, and the progress towards those goals. When that info is in one place, you get more clarity on the work that’s moving the needle for your startup.
+
+How to build a team dashboard and use it to improve performance
+
+To build a team dashboard you need to assemble your dashboard,  gathering important data from different sources in one place. However you will also use your dashboard to track performance and grow over time.
+
+1. Determine the core set of metrics that inform the success of your startup
+
+Choose core metrics that are business-critical, such as sales, monthly recurring revenue (MRR), or annual recurring revenue (ARR) per customer.
+
+For an ecommerce startup, sales, conversions, and sign-ups will be essential. For SaaS, you might focus more on users acquired and sales calls booked. Your metrics will be based on your business model, the stage of your business, and your management style.
+
+Buffer determined its two main areas of focus were employee engagement and product performance. The company set up its dashboard to track the metrics that impacted those goals, such as employee engagement survey results, hiring, and Glassdoor reviews.
+
+To track product performance they chose to aim for reducing page load times to under 2 seconds, and to hire 5 quality assurance engineers within the two month timeframe. These metrics work because they have a direct impact on the business and they are clearly time-bound and measurable.
+
+2. Use those metrics to set KPIs and OKRs for your team
+
+Key performance indicators (KPIs) and objectives and key results (OKRs) are the specific goals you set for your team based on the metrics that are important to your business. If sales is a core metric, your KPI might be the number of sales calls booked per month by employee. Tracking those KPIs will help your employees gauge their own performance and allow you to determine whether your teams are on track to meet company goals.
+
+Your KPIs and OKRs should follow the SMART principle to be effective:
+
+Specific – a KPI should measure a specific thing, and the purpose of the KPI should be clearly defined.
+
+Measurable – you need to be able to measure a KPI so you can track performance against it. This could be measured in quantitative numbers, like sales, or in qualitative feedback, like engagement surveys.
+
+Achievable – your team should be able to actually meet the goal set.
+
+Relevant – your KPI should be appropriate to your goals as a company and your employee’s role.
+
+Time-bound – you need to set a time period during which that KPI should be achieved in order to track progress.
+
+3. Lay out your team dashboard
+
+Set up your dashboard to track the progress of each of your KPIs and OKRs. At early-stage startup Tatem, Chris uses their team dashboard to plot out all goals for their small sales team.
+
+“If our OKR is to hit $2.5K in new monthly recurring revenue for October 2022, that will require X amount of emails sent, Y number of demos set up, Z number of demos converted, and K average revenue per user (ARPU),” says Chris. Each of those OKRs is listed in the dashboard once they are assigned to a member of their team to make sure they hit the objectives to reach the key result.
+
+Using Notion, you can have all your OKRs in one database, and use different views to see all the KPIs for each goal. This gives you both a high-level look at all goals, while also providing the ability to drill down into the progress of each KPI as it relates to these different goals.
+
+4. Assign OKRs and KPIs to your team
+
+Assign an owner of each goal. Play into the strengths of your team. Delegate tasks strategically to hit each OKR and KPI most effectively. If you have a sales development representative (SDR) who is good at cold calling, you may want to assign that person the bulk of cold calling on your team.
+
+5. Track progress
+
+Regularly record the progress toward each OKR and KPI in your team dashboard. This can be done manually if you are tracking quantitative data, or you can set up integrations to automatically pull data into your dashboard from sales software and other sources.
+
+You can represent progress toward goals visually in a Notion database, even using the Status property to see how far along your team is to accomplishing each KPI. Record progress numerically, like 50/200 emails sent, or by percentage, like 25% of progress toward a goal.
+
+6. Review team performance
+
+Review your team’s performance against each OKR and KPI. Data will be clearly displayed with charts and graphs in your dashboard so you can visually identify where teams have and haven’t met OKRs and KPIs.
+
+Give your team an opportunity to express how they felt about their own performance on a regular basis. You can gather this data through regular 1:1 meetings, anonymous surveys, and team feedback forms. Include this information in your tracking.
+
+7. Keep your team accountable
+
+Team members should feel a sense of ownership over their metrics. Information about performance should be transparent and shared with them regularly so they can see their progress, be aware of areas of opportunity, and celebrate wins. Give your team the support they need to meet their goals by setting up a team wiki.
+
+Hold team meetings to discuss where you are as a group and make plans for action. Also, have 1:1 meetings with each employee so you can give them feedback about their individual performance. Finally, set individual and team KPIs and OKRs for the next time period and communicate them to your team so they have clear goals to aim for.
+
+A recipe for success
+
+A team dashboard doesn’t just measure your startup’s performance. It provides valuable insights into how your startup is operating that will help you refine your baseline metrics. A great team dashboard can lead your startup to growth and achievement. Craft the recipe for your team’s success by taking advantage of Notion’s customization features to build a team dashboard for your startup.

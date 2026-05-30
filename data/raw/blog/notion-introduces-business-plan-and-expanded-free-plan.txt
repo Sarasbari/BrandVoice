@@ -1,0 +1,109 @@
+Title: Notion introduces expanded Free Plan & new Business Plan
+Published Date: 2022-12-07T08:30-08:00
+URL: https://www.notion.so/blog/notion-introduces-business-plan-and-expanded-free-plan
+
+Today the Notion team is excited to introduce a few updates to our pricing plans. It’s been over two years since we removed the storage limitation for personal users, and a lot has changed since then. Remote and hybrid work went from niche to normal. The creator economy flourished, with more people sharing their strategies for getting and staying organized. And millions of people discovered Notion for the first time, creating workspaces to track personal goals, grow side hustles into startups, and drive alignment across cross-functional teams.
+
+Now, we’ve streamlined our pricing plans to create a better experience for everyone. Here’s a quick summary of what’s changed, and what’s staying the same.
+
+For personal use
+
+We’re continuing to invest in Notion’s free version, so that more people can build their own tools to improve work and life. To take this commitment a step further, we’re discontinuing Notion’s paid personal plan, Personal Pro, and introducing an improved Free Plan with these features that used to require a paid subscription:
+
+Add even more guests — perfect for collaborating on your startup pitch deck, recipe book, class notes, or whatever you’re working on that could benefit from some teamwork.View and restore previous versions of your content with 7-day version historyUse teamspaces as custom sidebar sections to organize your projects and working groupsSee basic analytics about who’s visiting your pages and when (COMING SOON)
+
+Add even more guests — perfect for collaborating on your startup pitch deck, recipe book, class notes, or whatever you’re working on that could benefit from some teamwork.
+
+View and restore previous versions of your content with 7-day version history
+
+Use teamspaces as custom sidebar sections to organize your projects and working groups
+
+See basic analytics about who’s visiting your pages and when (COMING SOON)
+
+If you already had a Personal Pro subscription, you’ll continue to have access to the same features as before, at the same price.
+
+For team use
+
+Forward-thinking companies around the world are using Notion to organize team knowledge, execute on projects, and move faster together. Now there are four plan options for teams of all shapes and sizes:
+
+The Free Plan now offers a fully collaborative workspace with a team trial, so you can add colleagues and start kicking the tires before paying. Individuals, as always, can use Notion for free forever.The Plus Plan (formerly called the Team Plan) is perfect for companies that are just getting started with Notion, and want to organize team knowledge and projects in the same place.The new Business Plan is designed for companies who want to unite several cross-functional teams in Notion. It includes features like SAML SSO to manage employee access at scale, private teamspaces for sensitive documents, and advanced page analytics that deliver actionable insights about your content (COMING SOON).The Enterprise Plan has more features than ever, making it much easier for admins to deploy and manage Notion across an entire organization. Admin roles and security settings are now more granular, audit log and domain claim offer more visibility into workspace activity, and workspace analytics will offer an overview of how employees are using your company’s workspace (COMING SOON).
+
+The Free Plan now offers a fully collaborative workspace with a team trial, so you can add colleagues and start kicking the tires before paying. Individuals, as always, can use Notion for free forever.
+
+The Plus Plan (formerly called the Team Plan) is perfect for companies that are just getting started with Notion, and want to organize team knowledge and projects in the same place.
+
+The new Business Plan is designed for companies who want to unite several cross-functional teams in Notion. It includes features like SAML SSO to manage employee access at scale, private teamspaces for sensitive documents, and advanced page analytics that deliver actionable insights about your content (COMING SOON).
+
+The Enterprise Plan has more features than ever, making it much easier for admins to deploy and manage Notion across an entire organization. Admin roles and security settings are now more granular, audit log and domain claim offer more visibility into workspace activity, and workspace analytics will offer an overview of how employees are using your company’s workspace (COMING SOON).
+
+Regardless of which plan you choose, your company’s workspace will include an easy drag-and-drop text editor, rich integrations with tools like Jira, GitHub & Slack, and 50+ custom content types to meet the needs of every team.
+
+For a detailed list of which features are included with each plan, go to notion.com/pricing.
+
+FAQ
+
+I already have a Notion account. What’s changing for me?
+
+If you created a Notion workspace before December 7, 2022, here’s what has changed for you, broken down by plan type:
+
+Personal Plan:
+
+Your plan is now named “Free Plan.”You can add up to 10 guest collaborators instead of 5.You can add additional workspace members without changing your plan type. When you have 2 or more members in a Free Plan workspace, you can add a limited number of blocks and pages before needing to upgrade.You can now access version history, up to 7 days.You can now create teamspaces and permission groups.
+
+Your plan is now named “Free Plan.”
+
+You can add up to 10 guest collaborators instead of 5.
+
+You can add additional workspace members without changing your plan type. When you have 2 or more members in a Free Plan workspace, you can add a limited number of blocks and pages before needing to upgrade.
+
+You can now access version history, up to 7 days.
+
+You can now create teamspaces and permission groups.
+
+Personal Pro Plan & Education Plan:
+
+Your plan is now named “Plus Plan,” but will continue to have a 1-member limit like before.Your subscription price is unchanged: $4/month for annual billing, $5/month for monthly billing. Free for students and educators.
+
+Your plan is now named “Plus Plan,” but will continue to have a 1-member limit like before.
+
+Your subscription price is unchanged: $4/month for annual billing, $5/month for monthly billing. Free for students and educators.
+
+Team Plan:
+
+Your plan is now named “Plus Plan.”Using your workspace to collaborate across multiple teams, and need increased security & controls? There’s a new Business Plan you can consider. It includes SAML SSO, private teamspaces & more.
+
+Your plan is now named “Plus Plan.”
+
+Using your workspace to collaborate across multiple teams, and need increased security & controls? There’s a new Business Plan you can consider. It includes SAML SSO, private teamspaces & more.
+
+Enterprise Plan:
+
+No changes, but lots of new features have been introduced! Learn more here.
+
+No changes, but lots of new features have been introduced! Learn more here.
+
+Will Notion continue to offer an Education Plan?
+
+Yes! If you already signed up for the Education Plan, you still have access to all the same features. No changes.
+
+If you’re a student or educator at an accredited college or university, and have a school email address, you’re eligible to receive the Plus Plan features (with a 1-member limit) for free. Learn more at notion.com/students.
+
+How many guests can I add to my pages?
+
+The guest feature was designed to share specific pages with external contractors, clients & collaborators. To ensure fair use of this feature, Notion is implementing new guidelines for guests:
+
+Plus Plan: up to 100 guestsBusiness Plan: up to 250 guestsEnterprise Plan: starting at 250 guests
+
+Plus Plan: up to 100 guests
+
+Business Plan: up to 250 guests
+
+Enterprise Plan: starting at 250 guests
+
+For the time being, these limits will not be enforced, to give Notion customers a grace period to adjust guest usage accordingly. For workspaces that are significantly over the limit, the Notion team may reach out to you to put a plan together to ensure optimal guest usage. Learn more about guests here.
+
+If there’s no more Personal Pro, how does Notion make money?
+
+Notion is most powerful when you use it to collaborate at work. Many companies large and small pay for Notion subscriptions to drive team alignment, centralize docs & projects, and make team knowledge easy to find.
+
+In turn, giving away Notion for free to individuals allows us to fulfill our mission: to empower as many people as possible to build their own tools to improve their lives. And as a reminder, we do not sell your personal information, even if you use the Free Plan. Our hope is that people who discover Notion’s value in its free offering will also introduce our product to their colleagues at work.

@@ -1,0 +1,59 @@
+Title: Introducing Notion Mail, a new inbox that thinks like you
+Published Date: 2025-04-15T07:30-07:00
+URL: https://www.notion.so/blog/introducing-notion-mail
+
+There’s a reason why email has stuck around since the 1970s. It’s become our digital identity—every account you create starts with your email address. And for the better part of the last few decades, it’s been the primary way we’ve communicated online.
+
+But while most work tools have evolved to meet our needs over the last fifty years, email has largely been frozen in time—or gotten worse. An overflowing inbox that demands constant attention. The same manual sorting and filtering. The same routine replies to repeat messages. The same endless back-and-forth to schedule quick meetings.
+
+So we asked ourselves: “What might email look like if we started from scratch?”
+
+Enter Notion Mail, the inbox designed to think like you. A more personalized, powerful, modern way to communicate. And with Notion AI built in, all of those tedious tasks are handled for you.
+
+Let us show you how it works.
+
+A new way to automate inbox management
+
+One of the best things about AI is how it applies intelligence to automating routine tasks. But while email platforms have added some automation in the form of labels, the onus is still on you to figure out what’s important now, what can be dealt with later, and what doesn’t need your attention at all.
+
+Now, simply tell Notion AI what matters to you—it will manage the rest.
+
+Say you’re a founder in the midst of a hiring spike. Let Notion AI know that all recruiting emails are important to you, and voila—it’ll automatically label all new related emails as such, and sort them to the top of your inbox or to your custom-made view.
+
+Notion Mail is designed to make email management simpler—a well-oiled machine that hums in the background of your day to day.
+
+Stay focused with custom views
+
+With all the all of the distractions and interruptions of modern life, the last thing you need is something else that eats away at your ability to focus. Yet your inbox mixes urgent messages with spam in one chronological pile. Your inbox should help you prioritize.
+
+With Notion Mail, you can split your inbox into custom views that show different focus areas.
+
+Most email apps limit you to a few catchall categories like promotions, social, and forums. But what’s important for you is different than what’s important for us. And your priorities today will likely look different next month.
+
+Now, you can create custom views that filter and sort your emails to stay distraction-free. That same founder using Notion Mail can build views for their recruiting emails, customer feedback, bugs, or company travel.
+
+With everything in its place, you can finally focus on what matters most.
+
+Get more done, faster
+
+Notion Mail finally puts an end to the scheduling ping-pong and rewriting the same emails over and over.
+
+Here’s how you’ll get more done in less time:
+
+One-click snippets: Save email templates for your most common replies so you don’t have to write the same email againBuilt-in scheduling: Share your upcoming availability and let others quickly book a time through a native integration with Notion CalendarYour personal editor: Need help writing an intro or response? Just ask Notion AI, your new editor-in-chiefNavigate in hyper-speed: Use keyboard shortcuts to instantly get around your inbox, search, compose, and sendThe same Notion you love: Start with a / and draft a beautiful email with the same headings, callouts, and other blocks you already use in Notion
+
+One-click snippets: Save email templates for your most common replies so you don’t have to write the same email again
+
+Built-in scheduling: Share your upcoming availability and let others quickly book a time through a native integration with Notion Calendar
+
+Your personal editor: Need help writing an intro or response? Just ask Notion AI, your new editor-in-chief
+
+Navigate in hyper-speed: Use keyboard shortcuts to instantly get around your inbox, search, compose, and send
+
+The same Notion you love: Start with a / and draft a beautiful email with the same headings, callouts, and other blocks you already use in Notion
+
+The inbox that thinks like you
+
+We built Notion Mail because we believe your relationship with email should empower your work, not impede it. We wanted to reimagine what email could be if it truly understood you—your priorities, your workflows, and the way you think.
+
+To get started with Notion Mail today for free, simply connect your Gmail and get going. It’s available now on web and for MacOS. iOS is coming soon—you’ll be the first to know!

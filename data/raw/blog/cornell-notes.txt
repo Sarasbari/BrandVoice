@@ -1,0 +1,119 @@
+Title: Unlocking your inner scholar the Cornell notes way
+Published Date: 2023-10-12T00:00-03:00
+URL: https://www.notion.so/blog/cornell-notes
+
+Imagine having a magical note-taking format.
+
+Everything’s organized, summarized, and easy to memorize. That's what Cornell notes do.
+
+Whether you're a student aiming for top grades, a professional needing to gather relevant information from meetings and workshops, or someone dedicated to lifelong learning, this structured note-taking system empowers you to understand and retain relevant information so efficiently that it feels like magic.
+
+What are Cornell notes?
+
+Created by Walter Pauk at Cornell University in the 1940s, Cornell notes are a systematic approach to note-taking. They provide a structured format for capturing and organizing information during lectures and meetings. And they're an excellent tool for crafting meeting agendas and action item lists in professional scenarios.
+
+The Cornell notes system is a proven information-retainment method that relies on questions and keywords. This approach divides your page into three main sections:
+
+Cue column — this narrow left-hand column is where you jot down questions, keywords, and ideas related to the material you're studying (anything that makes you go "Hmm…" while listening or reading).Note-taking area — the larger right-hand section is your canvas to record your main notes, capturing key takeaways from a lecture or meeting, details, and explanations.Summary area — at the bottom of the page, there's space for summarizing the main points of the entire page of notes.
+
+Cue column — this narrow left-hand column is where you jot down questions, keywords, and ideas related to the material you're studying (anything that makes you go "Hmm…" while listening or reading).
+
+Note-taking area — the larger right-hand section is your canvas to record your main notes, capturing key takeaways from a lecture or meeting, details, and explanations.
+
+Summary area — at the bottom of the page, there's space for summarizing the main points of the entire page of notes.
+
+Why is the Cornell note-taking method so effective?
+
+Cornell notes are a favorite among students, professionals, and lifelong learners for many reasons, from better recall to clear categorization. Here's why this note-taking method is so effective.
+
+Active summarizing
+
+Cornell notes encourage active engagement with the material. By summarizing key points in your own words, you're forced to process and understand the information on a deeper level. You're not just passively writing stuff down — you're actively summarizing what you're learning in your own words. It's like a workout for your brain.
+
+Improved information retention
+
+Cornell's note-taking system enhances your ability to remember and recall information. When you actively summarize and engage with the material, you're more likely to imprint it in your memory. This helps you understand the topic better initially and ensures that you retain the knowledge for the long term.
+
+Enhanced critical thinking
+
+You're engaging in higher-order thinking processes when formulating questions based on your notes and answering them in your own words. This critical thinking helps you grasp the surface-level content while understanding the underlying concepts, connections, and implications. It fosters a deeper comprehension of the subject matter and prepares you to think analytically and critically about it.
+
+Intentional note-taking
+
+The system promotes intentionality. You're actively selecting and recording the most critical information instead of just scribbling down every word, ensuring that your notes are concise and focused.
+
+Revision-ready notes
+
+The Cornell format naturally divides your notes into cues/questions and summaries, making it easier to review and revise. When it comes time to study, you'll find your notes are well-organized and readily accessible — and that you’ve already identified the murkier concepts. You’ll know exactly where to start studying.
+
+Facilitates group study and collaboration
+
+Cornell notes are incredibly versatile when it comes to working with others. If you're part of a study group or in charge of taking meeting notes, sharing Cornell notes can be a game-changer. The well-organized and easy-to-follow notes help your peers grasp the material more quickly, and discussing the cues/questions and summaries can also lead to dynamic discussions and a deeper subject matter understanding.
+
+How to take Cornell notes in 7 steps
+
+Follow this seven-step guide to effectively adopt this note-taking method.
+
+1. Set up your page layout
+
+Begin by dividing your paper into three distinct sections, as explained earlier:
+
+Cue column for questions and keywords — on the left-hand side of your page, create a narrow column. This is where you'll jot down questions that arise during the lecture or while reading. It's also the space for capturing keywords or phrases that grab your attention.Note-taking area for bullet points, definitions, and drawings — the larger right-hand section is your note-taking canvas. You'll record the main ideas, key concepts, supporting details, and relevant diagrams or drawings here. This is where the bulk of your notes will reside.Summary area to recap the main ideas — at the bottom of your page, allocate some space for summarizing the key ideas covered in your notes. This section is a concise overview of the entire page, making it easy to review relevant concepts at a glance.
+
+Cue column for questions and keywords — on the left-hand side of your page, create a narrow column. This is where you'll jot down questions that arise during the lecture or while reading. It's also the space for capturing keywords or phrases that grab your attention.
+
+Note-taking area for bullet points, definitions, and drawings — the larger right-hand section is your note-taking canvas. You'll record the main ideas, key concepts, supporting details, and relevant diagrams or drawings here. This is where the bulk of your notes will reside.
+
+Summary area to recap the main ideas — at the bottom of your page, allocate some space for summarizing the key ideas covered in your notes. This section is a concise overview of the entire page, making it easy to review relevant concepts at a glance.
+
+Leave a few lines at the bottom of the page for additional summary notes. A Cornell notes template from Notion's resource library can help you better understand what your page should look like. If you aren’t one for handwriting, use Notion’s template to start taking notes today.
+
+2. Take notes during the lecture or meeting
+
+During the lecture or while reading, jot down the main ideas and concepts in the Notes section. Any supporting details will provide context or depth to the subject matter. Use abbreviations and symbols to keep pace and capture as much information as possible.
+
+3. Formulate questions based on your notes
+
+After the lecture or when you're reading, look over your notes with a critical eye. In the Cues column, formulate questions based on the material you've recorded in the Notes section. These questions should serve as prompts for later recall and deeper understanding.
+
+4. Answer your questions in your own words
+
+Cover the Notes section and use the questions you've created to test your understanding. Answer each question from memory in your own words in the Summary section. This exercise reinforces your subject comprehension.
+
+5. Reflect on what you've learned
+
+Take a moment to reflect on the material and think about the big picture. What are the main takeaways? Are there any insights that sparked your curiosity? What questions do you still have?
+
+Reflecting on the content solidifies your understanding and helps you connect new information to your existing knowledge. It's an opportunity to identify any gaps or areas that require further exploration or study.
+
+6. Summarize your notes
+
+In the Summary section, synthesize the main points from your Notes and your answers to the questions. This summary provides a concise version of the entire page, making it easy to review later, which is particularly great for meetings or group assignments.
+
+7. Review the week's notes
+
+Don't just let your notes collect dust — consistent review is critical to retention. Revise your Cornell notes, focusing on the cues/questions and summaries. This reinforces your memory and material understanding.
+
+If you’re taking Cornell notes for meetings or project progress at work, the summaries are particularly useful to someone wondering what was discussed or team members who were absent.
+
+The benefits of handwriting your notes
+
+While AI note-taking tools may be a fast way to write down concepts from a class or meeting, studies show that longhand note-takers perform better at exams. Beyond the perks of a structured approach like the Cornell method, there are also several benefits to handwritten note-taking:
+
+Helps you retain information longer — handwriting engages your brain more actively than typing, leading to better material retention.Boosts your attention span — writing by hand requires sustained focus, helping you stay attentive during lectures and discussions.Sharpens your language skills — translating spoken or written content into your own words enhances your language skills and understanding of complex concepts.Lets you customize your notes — handwriting allows for more flexibility in formatting and customization compared to digital note-taking. Handwritten notes are like a blank canvas where you can doodle, add colors, and make them uniquely yours.Enhances comprehension — when you write by hand, you actively process information and think critically about your writing. So, when translating spoken or written information into your own words, you're essentially "digesting" the knowledge, making it more meaningful and accessible to grasp. Keeps you organized — when you write notes manually, you have complete control over their structure and layout. You can use headings, bullet points, and indentations to represent information hierarchies. This makes it easy to follow the logical flow of concepts and allows you to quickly locate specific information when you need to revisit your notes.
+
+Helps you retain information longer — handwriting engages your brain more actively than typing, leading to better material retention.
+
+Boosts your attention span — writing by hand requires sustained focus, helping you stay attentive during lectures and discussions.
+
+Sharpens your language skills — translating spoken or written content into your own words enhances your language skills and understanding of complex concepts.
+
+Lets you customize your notes — handwriting allows for more flexibility in formatting and customization compared to digital note-taking. Handwritten notes are like a blank canvas where you can doodle, add colors, and make them uniquely yours.
+
+Enhances comprehension — when you write by hand, you actively process information and think critically about your writing. So, when translating spoken or written information into your own words, you're essentially "digesting" the knowledge, making it more meaningful and accessible to grasp.
+
+Keeps you organized — when you write notes manually, you have complete control over their structure and layout. You can use headings, bullet points, and indentations to represent information hierarchies. This makes it easy to follow the logical flow of concepts and allows you to quickly locate specific information when you need to revisit your notes.
+
+From notebook to Notion
+
+If you're looking for a modern twist for your Cornell notes, Notion offers many relevant resources, from Cornell notes templates to organize concepts and condense your ideas to an AI assistant to generate new content. Our tools allow you to have all your information in one easily accessible and well-organized place, so you can focus on learning.

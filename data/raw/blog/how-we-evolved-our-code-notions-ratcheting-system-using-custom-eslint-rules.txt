@@ -1,0 +1,77 @@
+Title: Custom ESLint ratcheting: how Notion modernizes code without slowing down development
+Published Date: 2025-03-03T06:00-08:00
+URL: https://www.notion.so/blog/how-we-evolved-our-code-notions-ratcheting-system-using-custom-eslint-rules
+
+As any codebase grows, so does the proliferation of old code and outdated patterns. This often results in a massive technical burden that requires large cleanup sprints, increasing the risk of regressions and ultimately slowing engineers down. At Notion, we have developed a “ratcheting” system (now open-sourced as eslint-seatbelt) to help us gradually enforce lint rules over a long period of time, helping modernize the codebase without compromising developer velocity.
+
+Tightening standards over time
+
+This ratcheting system helps address a common challenge: while we want our codebase to reach an ideal state—like “no more React class components”—getting there requires considerable effort. Often, this results in a few developers running a massive codebase migration. These large-scale migrations increase the likelihood of introducing bugs and can take away resources from product-development work. Ultimately, we found the most practical way to get us to this ideal state is to gradually migrate, or “ratchet,” older patterns over a long period of time.
+
+When we “ratchet” ESLint errors in the codebase, we are ensuring they trend downward in a steady and irreversible process. The “ratcheting” system is composed of four parts:
+
+Lint rulesWe use a combination of custom lint rules and publicly available lint rules that flag various problems in the codebase.Baseline trackingWe maintain a database that tracks existing error counts for all lint rules and files, and we treat these as temporarily acceptable while preventing new instances.Automatic enforcementIf a developer fixes an existing error, we automatically decrease the allowed error count through pre-commit hooks. If a developer adds a new error, we prevent them from merging their change in the CI pipeline.MonitoringWe mirror the database into Datadog and Notion, where we can track the progress of various migration efforts.
+
+Lint rules
+
+We use a combination of custom lint rules and publicly available lint rules that flag various problems in the codebase.
+
+Baseline tracking
+
+We maintain a database that tracks existing error counts for all lint rules and files, and we treat these as temporarily acceptable while preventing new instances.
+
+Automatic enforcement
+
+If a developer fixes an existing error, we automatically decrease the allowed error count through pre-commit hooks. If a developer adds a new error, we prevent them from merging their change in the CI pipeline.
+
+Monitoring
+
+We mirror the database into Datadog and Notion, where we can track the progress of various migration efforts.
+
+ESLint warnings are confusing
+
+To help enforce these standards effectively, we need reliable ways to flag issues. While ESLint has two ways to report problems in the codebase—errors and warnings—we discovered that warnings tend to confuse developers because they’re often ignored or seen as optional suggestions rather than required fixes, which fails to drive real change. Over time, these warnings pile up, creating noise that obscures truly important issues.
+
+At Notion, we only allow lint rules to report as errors, and if the error is specifically allowed by the ratcheting system, they are downgraded to warnings. This reduces the noise while ensuring that every ESLint warning and error people see is actionable. When a developer adds a new error that is not allowed, our continuous integration pipeline automatically prevents them from merging their change since it would see a new ESLint error.
+
+The ratchet file
+
+The database that tracks lint-rule violation counts across the codebase is called the ratchet file. We initially implemented this using JSON, but quickly ran into issues with merge conflicts. When multiple developers would fix lint errors in parallel, their changes to the JSON file would conflict on whitespace, delimiters, and commas, slowing everybody down.
+
+To reduce merge conflicts and improve the ratcheting workflow, we switched to a tab-separated value (TSV) format that keeps entries atomic and independent while maintaining readability. Each line contains a single file and lint-rule combination with its allowed violation count. When developers fix lint errors in parallel, their changes affect different lines in the TSV file, eliminating merge conflicts. This makes the system smoother and less disruptive to developers’ workflows, even as our team grows.
+
+How enforcement works
+
+To enforce violation counts specified in the ratchet file, we use ESLint’s custom processor functionality, which lets us transform all the errors found in a file before they’re presented to the user. We wrote a processor that automatically downgrades ESLint errors to warnings when the total count in the code is less than or equal to those allowed by the ratchet file.
+
+By leveraging ESLint’s native processors feature, we avoid having to modify individual developer workflows or add new tooling requirements. The system seamlessly integrates with our IDE plugins, command-line tools, and continuous integration pipeline, making the enforcement process transparent to developers while they work.
+
+How we know it’s working
+
+To track our progress in modernizing the codebase, we feed data from the ratchet file into both Notion and Datadog. This gives us visibility into how quickly we’re eliminating outdated patterns and where we might need to focus our efforts.
+
+For Datadog integration, we added a script to our continuous-integration pipeline that parses the TSV ratchet file and sends metrics about error counts for each lint rule. This lets us create dashboards showing migration stats alongside other important metrics, and display them prominently in our office dashboard TV screens.
+
+We also maintain a database in Notion that mirrors the ratchet-file data. Using GitHub Actions and Notion’s API, we automatically update records showing the current state of each lint rule and its violation count. This lets us create charts and reports directly in Notion, where teams can track their migration progress alongside project documentation. Integrating ratchet with Notion is especially important because it makes the data accessible broadly to non-engineers who might not have access to Datadog.
+
+Gradual codemods
+
+Ultimately, the ratcheting system lets us use ESLint to safely and reliably codemod bad patterns out of the codebase. Here’s how it works: we initially create ESLint rules to spot bad patterns. For simpler violations, we write an autofixer that transforms the code directly. We apply the autofixer to the entire codebase as we deploy the ESLint rule, eliminating simple violations immediately. For more advanced violations, we offer suggestions and guidance to developers through descriptive error messages as they work around the violating code. This means:
+
+Updates happen bit-by-bit during regular developmentChanges are made by developers who know the code wellEverything runs automatically through standard dev tools
+
+Updates happen bit-by-bit during regular development
+
+Changes are made by developers who know the code well
+
+Everything runs automatically through standard dev tools
+
+Traditional codemod tools like JSCodeShift require developers to handle advanced violations immediately, increasing the risk of regressions and merge conflicts. They also don’t offer any way to ensure the violations never happen again without building a separate ESLint rule. In contrast, ESLint and ratchet lets us fan out the workload of modernizing code to the entire team while simultaneously making sure we don’t backslide.
+
+Just enough friction
+
+Internally, the ratcheting system has proven instrumental in maintaining strict code-quality standards. We found it provides just enough developer friction to uphold our high standards over time. We automatically update ratchet counts when developers fix issues, and we require approval when they increase violation counts in the ratchet file. While it does create some friction when moving files and restructuring the codebase—since file paths in the ratchet file must be updated—we’ve found this to be a worthwhile trade-off.
+
+Using the ratcheting system, we have executed many complex migrations such as converting React class components to function components, eliminating unsafe type assertions in TypeScript (i.e., any type or as typecasting), deprecating dozens of legacy files and modules, and adding semantic accessibility labels to unlabelled buttons.
+
+Interested in contributing to this type of work at Notion? Check out our open roles here →

@@ -1,0 +1,47 @@
+Title: How Notion’s product team brings context and clarity to work (with a template you can use)
+Published Date: 2023-03-25T00:00-07:00
+URL: https://www.notion.so/blog/how-notions-product-team-brings-context-template
+
+Communication and organization are the underlying foundations for a successful product team. But most struggle to keep everyone aligned across complex, cross-functional initiatives.
+
+That’s why Matt Piccolella, Product Lead at Notion (and former Product Lead at Lyft), built an OS for his team to organize institutional knowledge, track work, and make it clear what the product team is building (and why they’re building it).
+
+In this post, we’ll cover Matt’s OS template in-depth, all of its pieces, and share how you can put it to use for your team.
+
+Connect your goals, projects, and docs to keep everything in context
+
+Matt and team use a number of databases that connect to each other, including a product roadmap, tasks, OKRs, docs, and more.
+
+Duplicate Matt's product team template here →
+
+Each database holds unique and critical information to add additional layers of context. The tasks database, for example, includes places to set owners and timeline, while the meetings database includes meeting lead and type.
+
+"These databases are most powerful together," says Matt. "When your team can easily see the big picture, like the docs that are related to projects or the tasks that roll up to a goal, it connects an individual’s work with your team’s larger efforts."
+
+Here’s an example of how it works: the product team has a project to build a new feature. That project lives in the roadmap database, connected to all those other databases. At a glance, you can see the OKR that it rolls up to and any potential blockers. You can also see the PRDs, decision logs, and design exploration docs. You can even see the the specific tasks that bubble up to this project.
+
+Duplicate Matt's product team template here →
+
+It’s all in one place, bringing everything together to make the project come to life.
+
+This connected system is how the Notion product team keeps track of what’s in-flight (roadmap), why those projects have been green-lit (docs), and how things are moving the needle (goals). Keeping a tight feedback loop between your team’s larger projects with individual, day-to-day tasks and docs is what ultimately helps to keep things from falling through the cracks.
+
+Let other teams easily self-serve information by creating a team home
+
+Take your team's most vital information and package it into a single page that your cross-functional partners can use.
+
+Think of this like your team’s website. It’s a place where other teams can see your goals, what you’re working on, read important docs, or know the right person to ask a question.
+
+The team homepage covers the key foundational information for your team. Matt highlights the product team’s mission and vision at the top. He also lists who's on the team (and their roles) to help show what his team owns (and what they don’t). You can also provide additional context by including critical links that matter most to your team, like strategy docs, annual plans, or metrics dashboards.
+
+"A big part of a product manager’s job is to answer two key questions," says Matt. "What are we doing and why are we doing it? Your team home page is a way to answer those questions in one place without having to constantly connect the dots."
+
+At the bottom of the team home page, Matt even includes the team Slack channels and email addresses so everyone knows where and how to get in touch.
+
+Information, accessible for everyone
+
+When teams use one tool for knowledge, projects, and docs, they’re more aligned. There’s less context-switching and they can get more done. That’s what a connected workspace does — brings all the components of work together.
+
+Matt’s template does exactly that. It provides clarity and alignment to both his team, and also the rest of the company.
+
+To try Matt's product team template for yourself, get started by duplicating the template here.

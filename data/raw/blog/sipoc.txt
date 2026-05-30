@@ -1,0 +1,133 @@
+Title: How to improve your process planning with a SIPOC diagram
+Published Date: 2023-10-12T00:00-03:00
+URL: https://www.notion.so/blog/sipoc
+
+Many moving parts — and sometimes shifting goalposts — stand between a process’s start and end. And one of the easiest ways to capture and comprehend how these pieces fit together is by mapping them out.
+
+Enter SIPOC diagrams. No matter how complicated a business process is, these visual illustrations help you make sense of both big picture and detailed components. Learn how using this process planning tool ensures teams move in the right direction.
+
+What’s a SIPOC diagram?
+
+A SIPOC diagram is a visual mapping tool that illustrates a business process from start to finish, breaking it down into five critical components: suppliers, inputs, processes, outputs, and customers.
+
+Mapping these five components lets you understand where resources originate, how they move through the process, and who benefits from each step. And it also shows how every stakeholder communicates and works with one another.
+
+SIPOC models are often referred to as high-level process maps. Rather than zooming in on every detail, they provide a bird’s eye view of the most critical information. With a holistic understanding of complex processes, you can identify improvement areas and align team members on planning protocols.
+
+The 5 SIPOC components
+
+The SIPOC diagram is built on five key components, each serving a distinct function within the business process. These components are:
+
+Suppliers — vendors and stakeholders that provide necessary materials, tools, and information throughout the process.Inputs — resources (raw materials, services, data) sourced from suppliers to execute the process. Process — step-by-step actions taken to transform inputs into outputs. Outputs — products or services that complete process goals.Customers — end-users that purchase and use the outputs.
+
+Suppliers — vendors and stakeholders that provide necessary materials, tools, and information throughout the process.
+
+Inputs — resources (raw materials, services, data) sourced from suppliers to execute the process.
+
+Process — step-by-step actions taken to transform inputs into outputs.
+
+Outputs — products or services that complete process goals.
+
+Customers — end-users that purchase and use the outputs.
+
+To fully grasp what the SIPOC charts out, consider the first and last letters of the acronym: suppliers and customers. Once you complete the diagram, you'll see how every other component works together to transform materials into a product suitable for users.
+
+What’s a SIPOC diagram used for?
+
+SIPOC diagrams are frequently involved in Lean project management as part of the Six Sigma process improvement methodology. Lean Six Sigma seeks to spot errors, potential bottlenecks, and opportunities for optimization, which is why development teams and manufacturers use it to improve the end-user experience.
+
+The Lean Six Sigma process map follows a DMAIC structure: define, measure, analyze, improve, and control. During the definition phase, creating a SIPOC diagram ensures alignment among team members and stakeholders. Visually mapping out the entire process at the start sets a clear foundation for subsequent planning and implementation.
+
+But this diagram type isn’t exclusive to Six Sigma projects. It can be useful at the beginning of new projects or in quality management for established processes, including reengineering business processes or in product management after a product, service, or process launches.
+
+More pointedly, a SIPOC diagram can help your team with:
+
+Initial project phases — clarity is essential at the beginning of a project for establishing expectations and preventing confusion. A SIPOC diagram helps align the team on the process, expected workflows, and anticipated outcomes. Process improvement — mapping out a process can illuminate unnecessary steps or bottlenecks to simplify or resolve. Visual comparisons — a diagram allows you to see the current process with a potential new process side-by-side. Team onboarding — new team members or stakeholders unfamiliar with best practices or workflows can use a SIPOC as a guide, gleaning a straightforward understanding of how a process evolves. Editing established processes — processes evolve, and periodically checking in on them with SIPOC diagrams can ensure they stay efficient and relevant to your current needs.
+
+Initial project phases — clarity is essential at the beginning of a project for establishing expectations and preventing confusion. A SIPOC diagram helps align the team on the process, expected workflows, and anticipated outcomes.
+
+Process improvement — mapping out a process can illuminate unnecessary steps or bottlenecks to simplify or resolve.
+
+Visual comparisons — a diagram allows you to see the current process with a potential new process side-by-side.
+
+Team onboarding — new team members or stakeholders unfamiliar with best practices or workflows can use a SIPOC as a guide, gleaning a straightforward understanding of how a process evolves.
+
+Editing established processes — processes evolve, and periodically checking in on them with SIPOC diagrams can ensure they stay efficient and relevant to your current needs.
+
+Your SIPOC diagram is just one aspect of team process management. A robust organization system and specific templates will be useful as you improve your operations. After deciding on a new protocol, use a standard operating procedure or role expectations template to keep all team members dialed in.
+
+Benefits of a SIPOC diagram
+
+Although a SIPOC diagram doesn’t get into nitty gritty details, its straightforwardness can significantly simplify process management. This tool can benefit you by:
+
+Providing quick diagnostics — using a SIPOC during the defining phase of process planning allows you to foresee and avoid errors that could compromise your output. Facilitating scalability — as an organization grows, processes can become convoluted with new team members, clients, and projects. Revisiting best practices with SIPOC diagrams can help streamline everything, ensuring your processes scale with the organization. Bridging knowledge gaps — when you have large, multi-departmental teams, stakeholders may interpret processes or objectives differently. A SIPOC diagram aligns everyone from the start, ensuring the whole team is on the path to the same finish line. Optimizing resources — clearly defining inputs and potential vendors allows teams to negotiate better, leading to cost savings and more efficient resource use. Improving customer satisfaction — a robust understanding of the end-user lets you tailor the product or service to best meet market needs and expectations.
+
+Providing quick diagnostics — using a SIPOC during the defining phase of process planning allows you to foresee and avoid errors that could compromise your output.
+
+Facilitating scalability — as an organization grows, processes can become convoluted with new team members, clients, and projects. Revisiting best practices with SIPOC diagrams can help streamline everything, ensuring your processes scale with the organization.
+
+Bridging knowledge gaps — when you have large, multi-departmental teams, stakeholders may interpret processes or objectives differently. A SIPOC diagram aligns everyone from the start, ensuring the whole team is on the path to the same finish line.
+
+Optimizing resources — clearly defining inputs and potential vendors allows teams to negotiate better, leading to cost savings and more efficient resource use.
+
+Improving customer satisfaction — a robust understanding of the end-user lets you tailor the product or service to best meet market needs and expectations.
+
+How to create a SIPOC diagram: 7 steps
+
+Crafting a SIPOC diagram allows your team to develop invaluable insights to build out your processes. Here are seven steps to write yours.
+
+1. Pick a process
+
+Begin by pinpointing the process to focus on. Define its start and end-points to establish your diagram’s scope, and determine the teams and stakeholders who will implement the process.
+
+2. Define the process
+
+Start in the middle with the “P” (process) section, outlining 4–5 critical steps with an action and subject. Organize these steps as a flow chart, with each step leading to the next.
+
+If your process is long and complex, batch steps into groups, like using the descriptions “packaging” and “shipping” to represent all the steps for transferring a finished product to the end customer.
+
+3. Pinpoint the outputs
+
+List every process output to more easily define how each resource contributes to the process and the final product the end-user receives. Your outputs can be materials, services, or information. Likewise, they can be external and internal — customers receive a product, and the company receives earnings, for example.
+
+4. Identify your customers
+
+While you might typically think of customers as external consumers or clients, those benefiting from a process might actually be internal team members. For that reason, it can be helpful to think of your customers more broadly as “end-users.”
+
+For example, when you update your company’s onboarding experience, your “customers” in that process are the new team members who receive training. And when you develop a new product or service for the public, your customers are consumers.
+
+5. Define the inputs
+
+Your inputs are everything you need for your process to run smoothly. Similar to outputs, these may be physical materials, products, or data.
+
+6. Identify your suppliers
+
+Your external suppliers provide you with your inputs, while your internal suppliers impact your outputs. List the suppliers and vendors for each input item to track where your resources come from. Separately, note anyone who directly contributes to an output, including internal team members and end-users.
+
+7. Share your diagram
+
+A SIPOC diagram is meant to create transparency and clarity. It’s most effective when you share it with everyone involved, including team members, investors, and clients. After introducing it at a team or external stakeholder meeting, upload it to an easily accessible, centralized space.
+
+Put it into practice: A SIPOC example
+
+Here’s a hypothetical scenario for a product development team developing a new smartwatch:
+
+Pick a process — the product development team will be working on developing a smartwatch. Stakeholders include product managers, designers, software developers, market research teams, and quality assurance testers. Define the process — the process begins with market research and concludes with prototype creation. High-level steps in the middle include designing an interface, developing hardware, and testing for quality assurance. Pinpoint the outputs — outputs include the smartwatch prototype and items like a detailed feature list, software codes, and design sketches to build it. Identify your customers — externally, the target consumer comprises tech enthusiasts. Internally, customers include sales and marketing teams who will use product details to strategize a launch. Define the inputs — each step will require its own inputs. For the market research phase, inputs include market data and feedback about previous products. Identify your suppliers — internal suppliers include an in-house market researcher, design team, and quality assurance manager. External suppliers include hardware vendors, watch manufacturers, and third-party software providers. Share your diagram — the team shares their diagram with all stakeholders at a team-wide meeting. After discussion and editing, the project manager uploads the document to the centralized project management tool for easy access.
+
+Pick a process — the product development team will be working on developing a smartwatch. Stakeholders include product managers, designers, software developers, market research teams, and quality assurance testers.
+
+Define the process — the process begins with market research and concludes with prototype creation. High-level steps in the middle include designing an interface, developing hardware, and testing for quality assurance.
+
+Pinpoint the outputs — outputs include the smartwatch prototype and items like a detailed feature list, software codes, and design sketches to build it.
+
+Identify your customers — externally, the target consumer comprises tech enthusiasts. Internally, customers include sales and marketing teams who will use product details to strategize a launch.
+
+Define the inputs — each step will require its own inputs. For the market research phase, inputs include market data and feedback about previous products.
+
+Identify your suppliers — internal suppliers include an in-house market researcher, design team, and quality assurance manager. External suppliers include hardware vendors, watch manufacturers, and third-party software providers.
+
+Share your diagram — the team shares their diagram with all stakeholders at a team-wide meeting. After discussion and editing, the project manager uploads the document to the centralized project management tool for easy access.
+
+The best tools for process mapping and improvement
+
+In business processes, getting from point A to B isn’t so simple, but a clear map can positively alter how your teams work together. Once you have a new process, Notion’s standard operating procedure template and automation tools can ensure everyone stays on the same page.

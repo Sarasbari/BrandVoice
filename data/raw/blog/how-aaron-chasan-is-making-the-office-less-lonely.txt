@@ -1,0 +1,35 @@
+Title: How Aaron Chasan is making the office less lonely
+Published Date: 2025-08-05T09:00-07:00
+URL: https://www.notion.so/blog/how-aaron-chasan-is-making-the-office-less-lonely
+
+In 2020, Aaron Chasan was working at Ernst & Young, creating models to help companies decide whether to bring employees back to the office. In his conversations with HR leaders, he kept hearing the same concern: “We’re worried about how people are going to stay socially connected in a hybrid world.”
+
+That’s when the light bulb went off. Remote culture was here to stay. And even if people returned to the office, there was no indication that interpersonal connections would bounce back. So Aaron decided to do something about the problem.
+
+As he thought about employee loneliness, an analogy came to mind. Aaron grew up going to summer camp, where some kids showed up well-connected and others didn’t know anybody. If the camp could somehow link the isolated kids to the social butterflies at the beginning of of their time together, the isolated kids would have a better experience.
+
+Aaron wondered whether he could bring the same logic to the workplace. And violà: Thred was born. Thred is a tool that connects people for one-on-one conversations around shared interests. Employees who opt in fill out a quick interest assessment and then are matched with a coworker who has something in common.
+
+Aaron is making the office less lonely, one connection at a time—and both employees and employers benefit. Data from the platform shows that employees who have made a friend on Thred are 50 percent less likely to leave, which makes sense. Research shows that people who have friends at work are happier and more productive. And although Thred began as a workplace tool, it’s now being used to connect neighborhoods and school districts, too.
+
+Thred runs on Notion
+
+Notion is the operating system for Aaron’s professional life. He uses Notion Calendar to organize his time, Notion docs to organize his thoughts, and Notion workspaces to organize Thred’s product roadmap and internal wikis.
+
+“As a startup founder, tools are everything. I’m constantly in these tools and if they don’t work for me, they slow me down,” Aaron says. “And if they slow me down, I run out of money.”
+
+Aaron is not only fascinated by human connection at the office; he’s also a community-builder outside of work. Notion is the HQ for Aaron’s hobbies, too. Whether he’s developing his Dungeons & Dragons characters, planning an elaborate camp-theme birthday party, or building out the mechanics of a board game he hopes to produce one day, Notion is where his ideas become creations.
+
+Tips for builders
+
+Common ground breeds connection
+
+Thred is built on a simple insight: when people are aware of shared interests, it’s easier for them to connect. If you’re trying to build community in your own life, Aaron recommends applying the same principal. If would-be community builders surface what members of their group have in common, they’re more likely to find their people and feel less alone.
+
+Just start building
+
+When Aaron first had the idea for Thred, he spent months trying to pressure-test the concept. He conducted dozens of informational interviews with HR leaders, community builders, and potential users. One day, a friend of Aaron’s lifted him out of his research rabbit hole by saying, ”You know, you can just start building.” “Just start building” has become a mantra for Aaron. “Building is the fastest way to learn, and in the age of AI, turning your idea into something tangible has never been easier,” he says.
+
+Your customers’ problems matter, but yours do too
+
+Common startup wisdom tells founders to obsess over their customers’ problems, but in Aaron’s experience with Thred, he’s found that it’s equally important for founders to have a personal connection to the problem they’re solving. Aaron’s passion for building community has fueled Thred’s growth into a profitable business without outside funding. Whenever he’s losing sight of why he’s doing what he’s doing, he thinks back to when he was a newcomer at camp who didn’t know anyone—and the counselor who went out of the way to help him belong.

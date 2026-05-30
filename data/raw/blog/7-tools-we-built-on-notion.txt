@@ -1,0 +1,71 @@
+Title: 7 tools we built on Notion instead of buying
+Published Date: 2021-09-29T09:00-07:00
+URL: https://www.notion.so/blog/7-tools-we-built-on-notion
+
+A while back, we wrote a piece on how we use Notion at Notion to organize all our teams, docs, and projects. Obviously, we do practically everything in Notion. So when we need a new tool, we immediately think: "Can we build this in Notion?" Often we do.
+
+It's a question we've seen a lot of other startups face, especially when you don't want to break the bank on expensive software. Below are seven of the most impactful tools we built on Notion instead of buying them — complete with templates you can use for your own team.
+
+An interactive all-hands presentation
+
+Every two weeks, the entire Notion team gets together to make sure we're on course, catch up on big announcements, and celebrate wins. That means there's a rotating cast of presenters across multiple teams who need to add their own info into a single all-hands presentation.
+
+Instead of tossing around Powerpoint files or struggling with formatting in Google Slides, we use a Notion page. We've found it makes the presentation incredibly interactive — if the product team is demoing a new feature, they can link to the product spec and drop in a quick GIF. To introduce new teammates, we just embed our People directory directly into the page.
+
+We keep all these presentations in our company wiki — over time, it becomes a historical record of the company's growth, and it's easy for people to catch up if they're on different timezones or out of the office.
+
+Duplicate the template →
+
+A customizable careers page with a focus on mission and culture
+
+Your careers page is usually the first place future teammates land when they consider joining your company. We wanted to make sure ours not only displayed all our job openings, but also gave a holistic view of what it's like to work here.
+
+Even though we had lots of different content to include — Youtube videos, Greenhouse links, press articles — we were able to host it all on Notion, and avoided spending hours and dollars on a custom landing page.
+
+Above all, this setup lets us stay incredibly flexible. The talent team can add or update job openings instantaneously (there's a template for that included below), and make sure our office policies are up to date as the state of remote work changes.
+
+Duplicate the template →
+
+An editorial calendar where you can plan and write
+
+This one is for all the marketers out there who've spent hours color-coding content in a spreadsheet. Instead of switching between Google Sheets, Google Docs, and who knows what else, we do everything in one database.
+
+Using a calendar view, we can see our monthly publishing schedule and move pieces around to avoid traffic jams. Inside each card, we do all of the actual writing, from outlining to feedback rounds. We also use custom properties to set deadlines, assign owners, and track illustration requests. Everyone in the company knows there's only one place to look for any editorial project. It's truly an all-in-one process that's saved us many logistical headaches.
+
+Duplicate the template →
+
+A media kit that lets the product speak for itself
+
+When journalists click on a media kit, they're looking for specific assets like logos or screenshots. Our media kit uses a gallery, split by asset type, to display all our files so folks can find what they need, fast.
+
+We also include .zip files that are downloadable straight from the page, and display previous press articles — more elegant than a Google Drive link, but much less work than updating a landing page.
+
+Duplicate the template →
+
+A people directory that goes beyond job title
+
+We call our employee directory a "people directory" — because it's all about the people. Instead of using a separate HR tool to put names to faces, we use a database in Notion with custom properties to give every teammate space to show off their personality.
+
+Among others, the database has properties for languages spoken, Myers-Briggs types, and office pets. You can also view the table by team or sort by date joined. Inside each page, you can put whatever you want — some people add user manuals or just a couple of salient bullet points. A lot of us embed our life story presentations (something we do every Friday) so that people who couldn't attend the live event can still learn more about their teammates.
+
+Duplicate the template →
+
+Sales one-pagers that we shipped in a day
+
+Growing sales teams need a lot of content — competitor comparisons, product demos, packets for different use cases and personas. If you're an early startup with limited design resources, using Notion pages is an easy and quick way to support your sales team with the content they need.
+
+Instead of a PDF, a Notion page lets you enhance the experience with product GIFs and Youtube links. The built-in formatting structures like columns and headers also make sure that your pages always look beautiful.
+
+Below, we included one template for competitor comparisons, and one where you can give an overview of your services, tiers, or packages.
+
+Duplicate the competitor comparison template →
+
+Duplicate the services overview template →
+
+Contractor hubs that replace unwieldy email threads
+
+We get a lot of help from amazing contractors and agencies — instead of wading through hundreds of emails and Google Drive links, we build a Notion homepage for each one where we do all our work.
+
+Onboarding a contractor is the same as onboarding a new internal teammate — we provide them with brand guidelines, product training, internal processes, and context about the actual projects they'll work on. All of that lives in a wiki so that the contractor has one place to answer all their questions. The wiki creates full transparency and allows both sides to do their best work together.
+
+Duplicate the agency hub template →

@@ -1,0 +1,99 @@
+Title: Business proposal: A beginner’s guide
+Published Date: 2023-06-15T00:00-06:00
+URL: https://www.notion.so/blog/how-to-write-a-business-proposal
+
+You know what makes your business great, but potential customers don’t. The way you share this information can make or break your success.
+
+A business proposal clearly and persuasively presents the benefit of your company’s services or products, helping a prospect understand the value of working with you. And learning how to write a business proposal is essential to making an excellent and lasting first impression with a potential client.
+
+What’s a business proposal?
+
+A business proposal is a document that demonstrates the value proposition of a product or service. Good proposals clearly express how the company’s offering will benefit the client.
+
+There are three main proposal types, and the primary difference between them is whether a client requests the proposal and with what level of formality they do so:
+
+Formally solicited proposals — companies generate formally solicited proposals upon request when a client wishes to review a bespoke solution. The organization knows the customer's exact needs and can speak to them directly in this type of proposal, offering tailored products or services. A formally solicited proposal may be one of the last documents a customer views before deciding to purchase from a company, as these documents carefully address specifics instead of offering a menu of solutions.
+
+Informally solicited business proposals — companies proactively provide informal proposals to customers to present potential solutions based on their idea of a problem or need. When writing proposals of this nature, businesses can include broader information, as the client likely hasn’t offered exact details on their needs.
+
+Unsolicited business proposals — the most proactive of all proposal types, unsolicited ones market a business’ value proposition to a client who’s potentially interested in their products or services. While unsolicited proposals may not address a spoken problem or request to fulfill specific services, businesses can still generate a helpful document containing attractive solutions by conducting market research on the client’s probable needs.
+
+While often conflated, business proposals differ from business plans because proposals are client-facing documents aimed at convincing the reader to sign a contract or purchase a product. And business plans outline an organization’s mission, trajectory, and financial data. These plans help new business owners set goals and present company data to investors and lenders. Once you’re at the proposal creation stage, you’ve likely already created a business plan and gained investment long ago.
+
+The critical elements of a business proposal
+
+Most companies are solution-minded, and a business proposal should reflect the organization’s ability to fix a problem or provide value to the client.
+
+Proposals typically include the following information:
+
+What the company does and why The customer’s pain point or need The solution the company can offer How the company will implement the solution (including relevant qualifications)The cost of the product or serviceThe time implementation will take Terms and conditions
+
+What the company does and why
+
+The customer’s pain point or need
+
+The solution the company can offer
+
+How the company will implement the solution (including relevant qualifications)
+
+The cost of the product or service
+
+The time implementation will take
+
+Terms and conditions
+
+How to make a business proposal that shines in 8 steps
+
+Project proposals carry immense weight, but following these eight steps will help you create a comprehensive and effective business proposal outline.
+
+1. Start strong
+
+Begin this document with a formal title page that includes the company’s logo and name as well as the date. Use your brand colors and fonts for a professional touch. If the receiver is another company, you can take this styling a step further by incorporating their logo and brand colors as well. This shows you did your research and took the time to personalize the document.
+
+2. Include an index
+
+Add a table of contents so readers can easily see an overview of the document’s content and jump between pages. Don’t forget to continue using company branding on this page and throughout the document.
+
+3. Talk about yourself
+
+To start a business proposal introduction, explain who you are, what you offer, and your core values. This brief overview is also often called an executive summary, and it should be specific enough to give the reader a clear idea of why you’re sending this proposal while not yet diving into the details, like what you’ll offer this prospect.
+
+4. Address their need
+
+Now define the client’s issue as clearly as possible in a problem statement. If it helps, put yourself in the client’s shoes and write the description of needs as they might present it to you. An example of a business proposal need could be “Calendaria wishes to add a reminder feature to their application that sends users updates on approaching holidays, deadlines, and events.”
+
+5. Detail your solution
+
+Provide a detailed description of your solution, offering a project brief that’s tailored to the client’s needs. This section should include clear deliverables, a project timeline, and metrics showcasing how your solution will address their concern.
+
+6. Show off
+
+This prospect might receive several proposals from varying businesses, so you need to differentiate yourself from the competition. Remind the client why your company is right for the job by highlighting your qualifications and social proof. This section should include awards and accolades, impressive metrics, and details on expertise, like “We’ve designed 100+ apps for successful startups.”
+
+7. Set your rate
+
+Include pricing for the services or products you’re offering to give the client a chance to review numbers on their own time. You could add pricing for additional or optional services, too, so the client has all the facts they need to decide.
+
+8. Present your terms
+
+Adding terms and conditions to your proposal provides a clear idea of the agreement the client would be entering into. Terms and conditions help a client decide if working with your company is the right decision. If terms specify that a client must pay within 15 business days and this isn’t possible, the client knows they must negotiate these terms or work with another provider.
+
+Tips on following up
+
+You’ve sent your proposal and put your best foot forward with a prospective client. Now you have to wait, right?
+
+Not necessarily. Following up with a client shows initiative and interest and opens the door for their questions. Here are a few tips regarding following up after sending a proposal:
+
+Don’t jump the gun — give the client sufficient time to review the proposal. Chances are they’re considering several, and pushing a client to decide before they’re ready won’t turn the tides in your favor. Use a clear subject line — use the subject line to let the client know you’re writing to check in on the proposal. A direct subject line can sound aggressive if you send the email too soon, but if you write after the client has had time to review the document, it serves as a handy reminder in their inbox.Keep it short, sweet, and to the point — you’ve already sent a comprehensive proposal, so there’s no need to rehash the details in your follow-up email. Stay professional, offer to answer questions or send more information, and let the client know you’re looking forward to hearing back.
+
+Don’t jump the gun — give the client sufficient time to review the proposal. Chances are they’re considering several, and pushing a client to decide before they’re ready won’t turn the tides in your favor.
+
+Use a clear subject line — use the subject line to let the client know you’re writing to check in on the proposal. A direct subject line can sound aggressive if you send the email too soon, but if you write after the client has had time to review the document, it serves as a handy reminder in their inbox.
+
+Keep it short, sweet, and to the point — you’ve already sent a comprehensive proposal, so there’s no need to rehash the details in your follow-up email. Stay professional, offer to answer questions or send more information, and let the client know you’re looking forward to hearing back.
+
+Create a knockout proposal with Notion
+
+As well as you know your company’s offering, pitching it to third parties is always challenging. You want to make a good impression, include the right information, and establish an approachable tone that invites the client to reach out.
+
+Use a business proposal template to guide your process, and feel confident about the document you send. Notion’s project proposal, pitch deck, and AI-assisted pitch templates help entrepreneurs make a winning first impression and score business.

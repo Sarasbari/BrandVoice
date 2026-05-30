@@ -1,0 +1,273 @@
+Title: How to recover deleted emails from Gmail [Solutions that work]
+Published Date: 2025-01-01T00:00-07:00
+URL: https://www.notion.so/blog/how-to-recover-delete-email-from-gmail
+
+Regularly cleaning your inbox is essential to proper email management, especially with the shared Gmail storage. While a minimalist inbox may boost your productivity by making information more accessible, it’s easy to get carried away and accidentally delete an important message.
+
+This guide will show you what happens to deleted emails and teach you how to recover deleted emails from Gmail on a computer and different mobile devices. You’ll then learn how to manage your inbox more effectively without removing old emails—as the best way to recover accidentally deleted Gmail emails is not deleting them in the first place.
+
+Where do deleted Gmail emails go?
+
+When you delete a message in Gmail, it moves to Trash—a label applied to all deleted emails, which you can access from the platform’s left-side panel.
+
+Gmail temporarily stores deleted messages here until they’re either restored or permanently removed, similar to how the Recycle Bin works on Windows.
+
+If you’ve discarded an email by mistake, you’ll have plenty of time to retrieve it before it’s gone forever. Deleted messages will remain in your Trash folder for 30 days, after which Gmail automatically removes them.
+
+There are two ways to recover deleted emails in Gmail before permanently losing them:
+
+Undoing a delete in GmailRecovering deleted emails from Trash
+
+Undoing a delete in Gmail
+
+Recovering deleted emails from Trash
+
+This guide will walk you through both methods for desktop, Android, and iOS devices. After that, you’ll learn how to find specific deleted messages via Gmail’s search bar.
+
+Retrieving permanently deleted messages is only possible in specific cases, which we’ll also outline below.
+
+How to undo a delete in Gmail
+
+When you delete an email in Gmail, you’ll get a brief chance to retract your decision immediately. You’ll receive a notification confirming that you’ve moved a message (or an entire conversation) to Trash, along with an Undo option highlighted in blue.
+
+The notification will stay there until you do one of the following:
+
+Undo the delete Close the notificationWait 60 seconds for the notification to disappear automatically
+
+Undo the delete
+
+Close the notification
+
+Wait 60 seconds for the notification to disappear automatically
+
+If you delete another email in the meantime, the pop-up will be replaced with an identical notification, now referring to the newer deletion. You can only restore the most recently deleted email using this method.
+
+How to recover deleted emails from Trash in Gmail on a desktop?
+
+Unless you’ve used the Undo link from the notification, your deleted emails will get the Trash label. To restore a message from Gmail’s Trash section via your computer, follow these steps:
+
+Open GmailScroll down to More on the left-hand menuOpen TrashFind the message you want to restoreChoose Move ToPick where you want to move the message
+
+Open Gmail
+
+Scroll down to More on the left-hand menu
+
+Open Trash
+
+Find the message you want to restore
+
+Choose Move To
+
+Pick where you want to move the message
+
+After you restore the message, another notification will appear, giving you the option to undo your action and keep the email in Trash.
+
+How to retrieve deleted emails from Gmail on Android and iPhone
+
+The procedure for recovering deleted Gmail messages on Android and iOS devices is the same—the interface is nearly identical on both operating systems. You can use the following steps to recover deleted Gmail messages:
+
+Open the Gmail app on your tablet or phoneTap the top-left menu with four horizontal linesChoose TrashTap the photo or letter next to the email you wish to retrieveOpen the context menu labeled MoreChoose Move ToPick the new location of the recovered message
+
+Open the Gmail app on your tablet or phone
+
+Tap the top-left menu with four horizontal lines
+
+Choose Trash
+
+Tap the photo or letter next to the email you wish to retrieve
+
+Open the context menu labeled More
+
+Choose Move To
+
+Pick the new location of the recovered message
+
+The exact steps may differ slightly depending on your specific device and version of the Gmail app. In case this procedure doesn’t work, you can also access Gmail from your mobile web browser and follow the steps outlined above.
+
+How to find a deleted email in Gmail
+
+Depending on how many emails you’ve deleted in the past 30 days, your Trash folder might be too cluttered to find a specific message easily. In that case, you can also use Gmail’s top search bar to locate a deleted email in Trash.
+
+You can search for it by entering key data points like:
+
+The sender or the recipientKeywords from the email bodyParts of the subject line
+
+The sender or the recipient
+
+Keywords from the email body
+
+Parts of the subject line
+
+Gmail supports search operators, allowing you to narrow your search even more by defining specific criteria. While searching for a deleted email, you can use the “in:trash” criterion to search messages labeled as Trash.
+
+For example, if you were searching for a deleted email from your colleague John, you could quickly find it by typing “in:trash John” in the search bar.
+
+How to find archived and spam messages in Gmail
+
+If you still can’t find the deleted email, it might have mistakenly been archived or labeled as Spam. To check your Spam folder, you can:
+
+Use the “in:spam” operator in Gmail’s search barCheck the Spam folder manually
+
+Use the “in:spam” operator in Gmail’s search bar
+
+Check the Spam folder manually
+
+Unlike deleted and spam messages, archived emails don’t have a separate label in Gmail—you won’t find them in the left-hand menu. To find archived messages, you can:
+
+Look through the All Mail folder, which includes archived emailsUse the “in:archive” operator in the search bar
+
+Look through the All Mail folder, which includes archived emails
+
+Use the “in:archive” operator in the search bar
+
+The All Mail section is accessible from the left-hand menu. By default, it’s the option immediately above Spam.
+
+How to recover permanently deleted emails from Gmail after 30 days
+
+After a deleted email spends 30 days in your Trash folder, Gmail permanently removes it from your account. Retrieving permanently deleted emails is next to impossible, except by:
+
+Checking unsynced devicesRestoring the messages from the Google Admin consoleRetrieving deleted emails via Google Vault
+
+Checking unsynced devices
+
+Restoring the messages from the Google Admin console
+
+Retrieving deleted emails via Google Vault
+
+1. Checking unsynced devices
+
+If you were logged into Gmail on multiple devices when you deleted an email, there’s a chance this change hasn’t registered across all your phones, tablets, and computers. An older phone that’s turned off and you’re no longer using might still have the email in its version of Gmail.
+
+For this reason, you should check any outdated devices you still have from when you received or sent the email. When you turn them on, immediately disable Auto Sync to stop it from automatically deleting the email.
+
+2. Restoring the messages from the Google Admin console
+
+If you’ve deleted an email from a professional Google Workspace account, you might be in luck. Your organization’s administrator may be able to restore the message, even if Gmail permanently deleted it from your Trash folder.
+
+They can restore your Google account data from a specific date. If you’re the Google admin for your organization, follow these steps to restore your data:
+
+Sign in to your Google Admin accountGo to the Users sectionSelect your user accountClick More OptionsChoose Restore DataPick a date from before you’ve deleted the emailChoose Gmail when asked which type of data you’re restoring
+
+Sign in to your Google Admin account
+
+Go to the Users section
+
+Select your user account
+
+Click More Options
+
+Choose Restore Data
+
+Pick a date from before you’ve deleted the email
+
+Choose Gmail when asked which type of data you’re restoring
+
+The restored data will include permanently deleted messages, but only counting the last 25 days. Since Gmail automatically deletes emails from Trash after 30 days, the Google Admin Console gives you a total of 55 days to retrieve the message after its initial removal date.
+
+That said, Google Admins can’t retrieve a few other types of email data, including:
+
+Messages that were in the Spam folderEmails that were still in the Trash folder on the chosen dateDeleted drafts
+
+Messages that were in the Spam folder
+
+Emails that were still in the Trash folder on the chosen date
+
+Deleted drafts
+
+3. Retrieving deleted emails via Google Vault
+
+Some organizations use Google Vault to manage electronic communications, like chat messages and emails, mostly for legal purposes. Depending on your organization’s policies, you may be able to retrieve a permanently deleted email as long as it’s backed up in Google Vault.
+
+Your Google Admin has probably set specific data retention policies, and depending on those, you might be able to access old deleted emails via the Vault.
+
+Someone with administrator credentials must sign in to the Vault and use eDiscovery to find your specific email.
+
+Similar to an ordinary Gmail search bar, eDiscovery lets you search for data points by various parameters. If your administrator or you find the email in question, you may have the following options:
+
+Restoring the email to your Google Workspace accountExporting the email from Google Vault
+
+Restoring the email to your Google Workspace account
+
+Exporting the email from Google Vault
+
+Depending on your organization’s policies, these options may or may not be available.
+
+How to declutter your inbox without deleting emails from Gmail
+
+Deleting old messages and unsubscribing from newsletters may temporarily declutter your inbox, but these quick fixes don’t last long. And while starting fresh with a new email address might seem like a good idea, it often just resets the cycle.
+
+If you want to keep your inbox organized without the constant cleanup or hard resets, it helps to take a more proactive approach to email management. Gmail offers some built-in features to help, such as:
+
+Filters and labels to automatically sort incoming emailsTabs to separate messages by typeCategories to group emails
+
+Filters and labels to automatically sort incoming emails
+
+Tabs to separate messages by type
+
+Categories to group emails
+
+While these tools are useful, they’re still unintuitive and hard to manage as your inbox fills up. Many users still end up spending hours sorting through messages manually.
+
+Is there a solution? Yes. Modern, AI-adapted email tools can make a big difference.
+
+Designed to help you stay on top of your inbox and prevent clutter build-up, productivity-focused email tools use smart automation to sort and prioritize messages the moment they arrive. Many also offer personalized inbox layouts to match your workflow, so staying organized feels effortless.
+
+If this sounds like the kind of email experience you need—a way to manage your email without the endless decluttering—consider Notion Mail. This Gmail client connects to your existing account, so you don’t have to purge your emails or start from scratch to stay organized.
+
+Bonus: Need a quick way to get rid of unwanted newsletters and promotional emails? Try any of these Gmail cleaner apps.
+
+Regain control over your emails with Notion Mail
+
+Notion Mail is an AI-native email client that brings powerful organization and automation tools into your daily email activities without disrupting your workflow. Instead of relying on folders and filters alone, you can label messages automatically, create “focused inboxes” within your inbox, and even have AI draft emails and automatic replies for you.
+
+For example, if you’re a startup founder juggling product updates, investor emails, hiring chats, and customer feedback—all in one inbox—Notion Mail can help keep things under control. It lets you create separate views for each priority, automatically labeling incoming emails and grouping them into mini inboxes based on your simple AI prompts.
+
+Here’s what you can do with Notion Mail’s advanced inbox management features:
+
+Create inboxes within your inbox: Build fully customizable views that organize and sort emails according to your specific criteria, so instead of a single, cluttered inbox, you have an organized workspace.Automate email labeling and triage: Use the AI autopilot feature to auto-sort and prioritize emails based on their content, sender, subject, and more to reduce manual sorting and quickly surface important emails. Leverage AI-powered writing assistance: Use Notion’s AI assistant to generate replies or create new messages quickly to save time.
+
+Create inboxes within your inbox: Build fully customizable views that organize and sort emails according to your specific criteria, so instead of a single, cluttered inbox, you have an organized workspace.
+
+Automate email labeling and triage: Use the AI autopilot feature to auto-sort and prioritize emails based on their content, sender, subject, and more to reduce manual sorting and quickly surface important emails.
+
+Leverage AI-powered writing assistance: Use Notion’s AI assistant to generate replies or create new messages quickly to save time.
+
+Here are some other Notion Mail features you may find useful:
+
+Email summariesAutomated follow-up repliesKeyboard shortcutsIntegrated scheduling with Notion calendar
+
+Email summaries
+
+Automated follow-up replies
+
+Keyboard shortcuts
+
+Integrated scheduling with Notion calendar
+
+Notion Mail also gives you advanced tools to manage email proactively. Instead of deleting emails to feel in control of your inbox, organize and automate your inbox in a way that supports your tasks and work style.
+
+How to get started with Notion Mail
+
+As a Gmail client, Notion Mail works exclusively with Gmail or Google accounts. To get started, visit the signup page.
+
+Notion Mail is free and comes with advanced inbox management tools right out of the box. If you need enhanced AI-powered automation, you can upgrade with the .
+
+Bonus read: Want more tips to improve your Gmail experience? Check out our helpful guides and tutorials on common email issues:
+
+How to delete labels in GmailHow to create folders in GmailGmail not syncing with the iPhone Mail app—solutionsHow to remove a Gmail account from an iPhoneHow to delete an iCloud email accountGmail account not receiving emailsHow to remove a Gmail account from a phoneHow to remove an Outlook account from an iPhone
+
+How to delete labels in Gmail
+
+How to create folders in Gmail
+
+Gmail not syncing with the iPhone Mail app—solutions
+
+How to remove a Gmail account from an iPhone
+
+How to delete an iCloud email account
+
+Gmail account not receiving emails
+
+How to remove a Gmail account from a phone
+
+How to remove an Outlook account from an iPhone

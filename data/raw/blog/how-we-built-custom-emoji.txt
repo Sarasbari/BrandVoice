@@ -1,0 +1,99 @@
+Title: How we built custom emoji
+Published Date: 2025-01-31T16:00-08:00
+URL: https://www.notion.so/blog/how-we-built-custom-emoji
+
+Notion is always looking for ways to make your workspace a little more you.
+
+Enter custom emojis.
+
+You know that feeling when an idea feels so simple, but once you start working on it, it’s like peeling an onion, with layer after layer of complexity? That’s what I found when I kicked off this project as a Notion intern.
+
+There were so many questions to answer: how do you fit hundreds of personalized, sometimes animated emojis into a workspace without breaking everything? How do you make sure they load fast, look great, and work seamlessly across devices? It was a fun technical puzzle, and this is the story of how we solved it.
+
+How text gets its magic
+
+Let’s start with some basics. In Notion, text isn’t just text—it’s a Swiss Army knife. A single text block can include bold, italics, highlights, inline equations like f(x) = x² + 1⁠, and even @-mentions. Behind the scenes, it’s all powered by our flexible data model for rich text representation.
+
+Here’s how it works: every piece of text is represented as [string, Array<TextAnnotation>]. This allows each text snippet to have layers of formatting or metadata. For example:
+
+A bold link “Click here” is stored as: ["Click here", [["b"], ["a", "www.example.com"]]]A user mention “@Henry” is stored as: ["‣", [["u", "<USER_ID>"]]]
+
+A bold link “Click here” is stored as:
+
+["Click here", [["b"], ["a", "www.example.com"]]]
+
+A user mention “@Henry” is stored as:
+
+["‣", [["u", "<USER_ID>"]]]
+
+This system has served us well for everything from equations to @-mentions. But when custom emojis came along, we had to figure out how to fit them into this framework without reinventing the wheel.
+
+Adding a new text annotation
+
+So how do you represent a tiny, expressive image in a data model like this? Turns out, mentions gave us the perfect blueprint. Since mentions are essentially pointers to backend data, we decided to follow the same pattern for custom emojis: ["‣", [["ce", "<CUSTOM_EMOJI_ID>", "<WORKSPACE_ID>"]]]
+
+This decision had several advantages:
+
+Support for Reactive UpdatesEmojis tied to backend IDs mean seamless updates. Change the image or name, and it automatically updates everywhere, in real time.Seamless IntegrationReusing our mention structure let us plug custom emojis into the existing rendering, editing, and collaborative systems without requiring extensive reengineering.Future ExtensibilityThis setup makes it easy to add additional metadata or functionality later, like emoji categorization, granular permissions, or cross-workspace sharing, while keeping existing references stable.
+
+Support for Reactive Updates
+
+Emojis tied to backend IDs mean seamless updates. Change the image or name, and it automatically updates everywhere, in real time.
+
+Seamless Integration
+
+Reusing our mention structure let us plug custom emojis into the existing rendering, editing, and collaborative systems without requiring extensive reengineering.
+
+Future Extensibility
+
+This setup makes it easy to add additional metadata or functionality later, like emoji categorization, granular permissions, or cross-workspace sharing, while keeping existing references stable.
+
+Making the picker work smarter
+
+Now, let’s talk about the emoji picker—aka the place where you get to see all your custom emojis come to life. The picker worked great for the default emoji set, but introducing custom emojis meant it had to support potentially hundreds of additional images.
+
+So, what happened when we tried rendering every emoji at once? Well, it led to delays, high client-memory usage, and sluggish interactions. Additionally, it forced the client to initiate a flood of image requests simultaneously, and the network groaned in protest.
+
+To address these issues, we turned to virtualization, a technique that dynamically renders only the emojis visible in the picker at any given time. Instead of rendering everything at once, we render only what’s visible in the viewport, plus a little extra buffer for smooth scrolling. This approach reduces memory usage, improves responsiveness, and minimizes network load—all without compromising user experience.
+
+How we load ’em up
+
+Once we had the custom emoji rendering in place, we had to figure out one more thing: when should we load them? We debated between fetching them all during app boot versus fetching them dynamically through an edge cache.
+
+For the initial launch of the feature, we chose to fetch all custom emojis during app boot. While building an in-house edge-cache service would have provided more long-term scalability, it posed significant complexity and could easily become its own standalone project. Fetching on startup allowed us to move faster and bring custom emojis to users sooner, but it came with its own pros and cons:
+
+Pros
+
+Instant AccessPreloading means the emoji picker feels fast—no delays waiting for a network request when you open it.Simple ImplementationFetching everything upfront was quicker to build and reduced complexity on both the client and server sides.
+
+Instant Access
+
+Preloading means the emoji picker feels fast—no delays waiting for a network request when you open it.
+
+Simple Implementation
+
+Fetching everything upfront was quicker to build and reduced complexity on both the client and server sides.
+
+Cons
+
+Inefficient Resource UsagePreloading everything upfront means storing a potentially large blob of custom emoji data on the client, much of which may never be used. To regulate this, we capped workspaces at five hundred custom emojis for now.Network LoadFetching everything at once increased the initial load time. We mitigated this by waiting until after critical app requests to fetch the emoji data.
+
+Inefficient Resource Usage
+
+Preloading everything upfront means storing a potentially large blob of custom emoji data on the client, much of which may never be used. To regulate this, we capped workspaces at five hundred custom emojis for now.
+
+Network Load
+
+Fetching everything at once increased the initial load time. We mitigated this by waiting until after critical app requests to fetch the emoji data.
+
+Growing our emoji garden
+
+Figuring out how to load the emojis was the last blocker before launch. And we’ve been blown away by how quickly they’ve taken off. Since October, users have created over 1.5 million custom emojis in Notion! This rate of adoption validated our initial decision to bring custom emojis to users sooner, and reinforced the importance of scaling the feature for long-term success.
+
+The five-hundred-emoji limit is a constraint we want to push past. So, our next step is to build an edge cache. This will allow us to fetch emojis dynamically, only loading the data that users need when they need it, which will enable larger emoji libraries while keeping performance high.
+
+Building custom emojis in Notion was like adding a new type of LEGO block to our existing system. Each decision—from how emojis fit into our rich text model to how we rendered them in the picker—was about balancing performance, scalability, and user delight.
+
+The best part of working on this project? Seeing how people have made these tiny icons their own. It’s proof that the little things—like a custom team logo or your dog’s silly face—make a big difference.
+
+Interested in building things like this? We’d love for you to apply for our internship here.

@@ -1,0 +1,73 @@
+Title: This meeting agenda template will save you hours of valuable time
+Published Date: 2021-11-11T00:00-07:00
+URL: https://www.notion.so/blog/meeting-agenda-template-save-time-increase-productivity
+
+The crux of an effective meeting is a template that sees around all the corners. It provides resources. It prepares attendees. It sets structure, so you and your team can worry less about all the things they require from a meeting and more about the great ideas that’ll come from it. Without note-taking skills and structures, ideas often get missed, action points get lost in translation, and the meeting could end up being pointless. It’s not just a waste of time; it’s a waste of money — in 2019, Doodle found that ineffective meetings cost more than $399 billion in the U.S. alone.
+
+Luckily, there’s no cost to you to get the most out of these meetings — just prepare appropriately. With a meeting agenda template, you and your team can stop wasting valuable time. The best template will give guidelines for what needs to be recorded but leaves space for lightbulbs that may pop up in the moment.
+
+Whether it's a 1:1, all-hands, or team meeting — here are 5 templates you can use to take, share, and organize meeting notes better.
+
+Why are meeting agendas important?
+
+Without an agenda, a meeting can rapidly descend into chaos, and you might accomplish less than you set out to. The agenda helps keep a meeting on track, making sure that everyone knows what is going to happen before, during, and after.
+
+Improve focus and active listening. By creating a meeting agenda, you can concentrate on the meeting, knowing that you have all the details written somewhere. Explicitly documenting and emphasizing the objectives of the meeting can help you focus at the beginning and maintain it throughout.
+
+Strengthen your organization muscle. A meeting agenda forces you to plan and prepare before a meeting. And being organized will help you feel more confident and prepared to go into the meeting. Also, reviewing your notes after a meeting to see if the objectives were achieved (or if the participants will need to circle back to anything that’s been missed) keeps everyone on task.
+
+Eliminate information silos. Without a documented meeting agenda, any useful information discussed or decided might be lost to non-participants. If the marketing team decides to involve a product designer in a project during a meeting but forgets to document it, that decision is lost to the wind. Or they might even forget why that decision was made at all, which does not help with clarity in briefing the designer or anyone else trying to catch up asynchronously.
+
+5 essential elements of a meeting agenda
+
+Effective note-taking in meetings is all about balance — if you capture too little information, you might miss out on something great. The same idea applies if you capture too much — it’ll be difficult to sift through. The best way to have all your ducks in a row before, during, and after a meeting is to follow a structure dictated by the meeting agenda.
+
+A good meeting agenda template should function as an outline that can be replicated by anyone that uses it. It should include details like:
+
+1. Date, time, and type of the meeting. Documenting these details will help keep your database organized if you keep meeting notes in a central database (which we suggest doing!). Knowing the date and time of a meeting also helps avoid confusion on when a meeting happened and can help give clarity on the timelines for action items. With Notion, you can easily assign any properties to your meeting agenda template.
+
+2. Meeting participants. Knowing who attended a meeting will help anyone that might need clarification on any points discussed in the meeting.
+
+3. Objectives. These provide a north star for every meeting participant to follow so that no one gets too off-track. Without objectives, your meetings can turn out to be not useful — which means you’ll have to settle for another meeting to accomplish anything.
+
+4. Discussion notes. Prepare for the meeting by adding topics to your agenda where you’ll be able to take notes about all the relevant items. These should include everything that might be discussed during the meeting — including how objectives were addressed, questions and answers, or decisions that the participants made. Also, don’t leave anything behind. Note what decisions couldn’t be made and why so that they can be revisited, addressed, or iced.
+
+5. Action items and next steps. Create a meeting summary (you can use Notion AI for this!) and tag the relevant team members within your notes can help give better context for why they’ve been involved. You can also set a reminder for yourself/others to revisit the action items and track their progress. With Notion, you can easily tag all the different people that have access to your company wiki. You can even connect meeting notes and projects so that nothing gets lost.
+
+Your meeting agenda can also include a space for ideas that you have or that others bring up during meetings. While it’s best to address them post-mortem, documenting spontaneous ideas can help inspire future projects.
+
+Tips for better note-taking
+
+Structure helps set your meeting notes up for success, but there are a few tactics you can employ to ensure you’re taking good notes throughout a meeting. Without strengthening your note-taking skills, it’ll be difficult to keep up with the different meeting paces that you might encounter in a startup. One-on-one meetings won’t have the same energy as fast-paced design thinking sessions, but being prepared for any scenario will help you to avoid falling behind and missing important information.
+
+Listen for verbal cues. It can be hard to stay present during a meeting. A good way to focus is to pay attention to verbal cues. When someone mentions a "blocker" or "goal," record their sentiment. And the word "do" is a signal for an action item. Most importantly, capture the "why" of each decision or statement. If frustration with a tool is the reason for an action item to explore new options, note that. It could help provide context about current decisions to future employees.Record your meetings. Take advantage of the technology you’re using to hold meetings and record your calls — after you’ve gotten permission, of course. Even better, embed the full recording in your digital notes. Future you or busy people that are trying to clarify any details will thank you for it. [Learn how you can embed the full recording seamlessly in Notion].
+
+Listen for verbal cues. It can be hard to stay present during a meeting. A good way to focus is to pay attention to verbal cues. When someone mentions a "blocker" or "goal," record their sentiment. And the word "do" is a signal for an action item. Most importantly, capture the "why" of each decision or statement. If frustration with a tool is the reason for an action item to explore new options, note that. It could help provide context about current decisions to future employees.
+
+Record your meetings. Take advantage of the technology you’re using to hold meetings and record your calls — after you’ve gotten permission, of course. Even better, embed the full recording in your digital notes. Future you or busy people that are trying to clarify any details will thank you for it. [Learn how you can embed the full recording seamlessly in Notion].
+
+Find the tool that works best for you. Everyone has the medium that helps them with recall — some people benefit from audiovisual recordings, and others prefer reading. Consider what tool you’re most comfortable with and how easy it’ll be to share the key points from the meeting using that tool.
+
+Delegate. Delegate. Delegate. A meeting should always have an assigned note-taker. This helps to ground the meeting by starting with a routine question like, “Who’s taking notes?” and identifying one person that should fill out the shared template. It doesn’t mean that everyone else can’t take notes — it just ensures that someone will have them ready. This is especially important in1:1 meetings.
+
+Don’t take note of everything. Embrace a “less is more” approach to your note-taking and focus on the stated objectives and the discussions around them. Of course, you shouldn’t ignore the tangents that people go off on — there might be great points brought up during them. But you can always refer to a meeting recording if that’s the case.
+
+Summarize your notes ASAP. While the meeting remains fresh in your mind, write a report based on your notes. Whether or not it’s required, writing a report allows you to break down what was discussed and keep track of the important details. Also, encourage collaboration with meeting attendees to edit the notes after the fact to ensure that all your bases are covered.
+
+Make sure your notes don’t get lost in the shuffle. Make them easily accessible to all project participants so that you and your colleagues can meet your deadlines (without missing any important pieces of the puzzle). Someone might have new ideas or a different perspective that can help move action items along more quickly.
+
+Collect your meeting agendas in Notion
+
+Good news — you don’t have to reinvent the wheel! With Notion, you can create a centralized framework for all your meeting notes that anyone on your team can access. To get started, check out our meeting notes template or take advantage of Notion’s full customization by building your own template.If you’re looking for team-specific templates, we’ve got you covered.
+
+Meeting notes template for sales teamMeeting notes template for support teamMeeting notes template for product teamMeeting notes template for people and HR teamMeeting notes template for designers
+
+Meeting notes template for sales team
+
+Meeting notes template for support team
+
+Meeting notes template for product team
+
+Meeting notes template for people and HR team
+
+Meeting notes template for designers

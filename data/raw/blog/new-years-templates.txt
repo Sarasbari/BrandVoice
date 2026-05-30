@@ -1,0 +1,129 @@
+Title: Notion templates for planning 2023
+Published Date: 2023-01-14T09:00-07:00
+URL: https://www.notion.so/blog/new-years-templates
+
+New year’s resolutions — great in theory, difficult to stick with in practice. All those promises you made to yourself, like “I’ll start running every day” or “I’ll organize my team’s OKRs earlier,” can fall flat if you don’t take steps to follow through.
+
+What you’re missing is a system. A way to check in and make progress day-to-day, whether you’re tracking personal habits or setting strategy for your team. So we collected the best Notion templates to help you find the right setup for your goals.
+
+We included everything from a simple habit tracker all the way to a central operating system that connects team goals to granular projects. Try one or all of them out, and make 2023 the year you reach new heights of clarity and organization — in work and life.
+
+Download the full personal organization bundle →
+
+Download the full team planning toolkit →
+
+The best templates to plan and organize your personal life
+
+Planning goals, following routines, catching up on all those movies you've missed — it's a lot to manage. Let these templates help bring some sanity back into your life.
+
+The New Year vision board
+
+The first step toward having a great next year is to have a clear vision of what you want to achieve. This New Year vision board was created by Notion to help you keep your goals and inspirations top of mind.
+
+Pro tip: Add this page to your favorites for quick and easy access.
+
+Duplicate the template →
+
+The meal planner for sticking with healthier eating habits
+
+Eating better is easier when you have a system that stores your recipes, schedules your meals, and generates your shopping lists. It's all connected — when you add ingredients to your weekly meal plan, your grocery list automatically populates!
+
+Pro tip: Turn your shopping list page into an iOS or Android widget for easy access when you're out and about.
+
+Duplicate the template →
+
+The minimalist dashboard for starting new projects and hobbies
+
+Having one place to house your projects, notes, and goals is key to staying organized in everything you do. But building a dashboard for yourself doesn't have to be complicated or overwhelming. Use this template as inspiration for categorizing the different areas of your life, then watch your new digital home grow with you over time. It's easy to add sections or subpages for your specific topics of interest too — that new knitting hobby of yours definitely deserves its own space.
+
+Pro tip: Drag and drop pages into columns to create your main sections — like Notes, Work, Personal, and Life — for easy navigation.
+
+Duplicate the template →
+
+The hub for staying focused on your life goals (paid template)
+
+A new year means setting many short, medium, and long-term goals — and it's not easy to keep track of them all. Having a central place to not only manage these goals but connect them to each other will help you hit milestones and maintain focus across your days, months, and years. As you start to relate your daily actions to your goals, you'll see your overall progress calculated automatically. A great way to stay motivated!
+
+Pro tip: Begin by setting up your main goal areas then move onto yearly and monthly objectives and smaller milestones. By the time you start tracking daily actions your system will be connected, synced, and ready to go.
+
+Duplicate the template →
+
+The habit tracker for following through on new routines
+
+Habits are formed by creating routines. By listing your habits in an organized database by day or month, you can see at a glance the progress you've been making and be inspired to fill up more and more checkboxes every day. Customize this template with your own habits and routines and quickly create a new entry for each day.
+
+Pro tip: To add more information for a specific day, click into its page to add additional notes, photos, videos, and more — everything you need for those special days.
+
+Duplicate the template →
+
+The all-in-one bullet journal to document thoughts and to-dos
+
+Paper journals have a certain nostalgia, but a digital bullet journal in Notion unlocks a new level of organization. Track your weekly to-do list alongside quick notes and your workout schedule. You'll start to see relationships between your thoughts and habits over time and how you can make changes to your life in the future — and you'll wonder how you ever did it any other way. Make sure to watch creator Matt Ragland’s YouTube tutorial on how he uses the template every day.
+
+Pro tip: Bullet journals are great for keeping track of everything in your life, and Notion's ability to handle rich media like images and videos makes it perfect for capturing your most important moments.
+
+Duplicate the template →
+
+Watch the video tutorial →
+
+✨ Bonus: The worksheets for personal reflection and planning
+
+Whether you're looking to reflect on the past year, plan for the next, or rethink your current setup, YouTuber Rowena Tsai has you covered. By using her set of worksheets and following along with her companion video series, you'll be guided through each step with thoughtful prompts and emerge at the end with a system built just for you.
+
+Pro tip: Get the most out of these worksheets by completing them in order, your custom 2023 plan will be automatically created as you go!
+
+Duplicate the template →
+
+The best templates for annual team planning and project tracking
+
+Keeping a team organised is a challenging task. Set yourself (and your team) up for success with this selection of templates.
+
+The personal OKR planner for product managers to set measurable goals
+
+Retrospectives and OKRs are often used to gauge a product's success, so why not use the same system for yourself? This template from Product School helps you quickly see what worked and what didn't, and how to create an upgraded plan of action for the coming year. Just like with a team's OKRs, you can use the connected databases for your own objectives and key results and see your progress bars filling up as you reach your targets.
+
+Pro tip: Use the template in the Personal OKRs database to create an outline of your objectives, then draft possible key results and how to quantify them.
+
+Duplicate the template →
+
+The peer-review system for streamlined performance feedback
+
+This template is perfect for collecting peer feedback as part of an annual performance review process. Keeping them in a private database will allow you to reference previous reviews each year, providing insight into progress over time.
+
+Pro tip: Feel free to add or modify any of the questions to best suit your review process!
+
+Duplicate the template →
+
+The monthly retrospective that keeps your team's priorities straight
+
+Fintech startup Synctera's monthly retros used to take a whole day — now they take an hour in Notion. They make a habit of doing regular company-wide retros, not just when projects go wrong. "Notion helps us save everything for prosperity," says Engineer Oliver Beaulieu. "We can look back over the past three months and see trends or outliers before they disrupt our work." By using their template, your team will have a shared space to collect their thoughts, discuss ideas, and plan actionable next steps, all updated in real-time.
+
+Pro tip: This template automatically tracks and counts votes for each idea presented. Just click on any item and add yourself under the Vote property!
+
+Duplicate the template →
+
+Read the Synctera Customer Story →
+
+LinkedIn Chairman Jeff Weiner's Vision to Values framework
+
+Beginning the new year with a solid one-pager containing your team's vision, mission, and core objectives gets much easier with the template Jeff Weiner used to lead LinkedIn's team. His framework helps you clearly and effectively codify your company's purpose, approach, and ethos — then easily share the results with your whole team within Notion.
+
+Pro tip: Use synced blocks to share objectives and key statements across different sections of your team's workspace.
+
+Duplicate the template →
+
+The template for transparent team goals that are accessible to all
+
+Transparency in the workplace is important to foster, and no one knows this better than the team at Buffer. With employees across 16 time zones, they needed their system for company, team, and individual goals to be accessible to everyone. By connecting individual projects and tasks to broader objectives, everyone can quickly check in on their own contributions, and see the overall progress of the entire team.
+
+Pro tip: Quantify your achievements by adding an initial, current and target value and watch as the progress bar keeps up.
+
+Duplicate the template →
+
+The system for creating a detailed roadmap for your projects
+
+Achieving the goals you set for your team comes down to a plan. Using this system, your goals are always top of mind and actionable. From a central dashboard, you can clearly see how team goals roll up into company goals and build transparency by assigning team leads and timelines. Use this template to plan with clarity and execute with confidence.
+
+Pro tip: Use separate views to quickly display your projects and initiatives by priority, status, assignees, and more.
+
+Duplicate the template →

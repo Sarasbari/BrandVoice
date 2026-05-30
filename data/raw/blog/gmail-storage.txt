@@ -1,0 +1,237 @@
+Title: Your best guide to freeing up Gmail storage space
+Published Date: 2025-03-04T00:00+02:00
+URL: https://www.notion.so/blog/gmail-storage
+
+With the average email size of 53 KB, it would take over 200,000 emails to fill up Gmail’s 15 GB of free storage. Unfortunately, Gmail storage is not dedicated to emails but shared between Google Drive and Google Photos.
+
+If you use Google Workspace for work or back up your data and photos, the free storage can fill up rather quickly. When it does, you may not be able to receive new mail until you free up the storage.
+
+This guide will help by explaining how to declutter Gmail and free up the available space. You will also learn how to get more storage if you’re willing to commit to Gmail in the long run. To ensure you make an informed decision, we will also discuss the long-term considerations of relying on Gmail, including its email organization limitations and its potential impact on your workflow as your email volume grows.
+
+How to clean up Gmail storage
+
+Considering Gmail’s combined storage, there are three things you can do if you’re running low:
+
+Clean up Google DriveDelete photosRemove large and old emails
+
+Clean up Google Drive
+
+Delete photos
+
+Remove large and old emails
+
+1. Clean up Google Drive
+
+There’s a high chance that much of your used Gmail storage does not come from the email service but from Google Drive. In this case, the most effective way to free up space is to delete large files you no longer need.
+
+You can do this in a few quick steps:
+
+Log into Google DriveFrom the main screen, click Storage in the left-hand menuYou will see your files sorted by storage in descending order, so right-click the heaviest files and choose Move to Trash
+
+Log into Google Drive
+
+From the main screen, click Storage in the left-hand menu
+
+You will see your files sorted by storage in descending order, so right-click the heaviest files and choose Move to Trash
+
+You will notice your storage hasn’t changed. That is because the file wasn’t deleted entirely but only moved to the Trash folder, where it will remain for the following 30 days. To delete the file immediately and free up your storage, follow these steps:
+
+Go to the Trash folderClick the three-dot icon in the upper-right corner of the file you want to deleteClick Delete forever and confirm
+
+Go to the Trash folder
+
+Click the three-dot icon in the upper-right corner of the file you want to delete
+
+Click Delete forever and confirm
+
+Another option is to delete all files permanently by clicking the Empty Trash button, as shown below:
+
+Depending on the number and size of your files, this step alone might free up enough storage for you to keep using Gmail uninterruptedly. If not, you should move on to another platform tied to Gmail’s storage—Google Photos.
+
+2. Declutter Google Photos
+
+If photos from your phone or computer are automatically backed up to Google Photos, your storage might fill up without you realizing it. You will need to delete the photos you no longer need manually, which you can do by following these steps:
+
+Log into Google PhotosSelect the photos you want to delete by clicking the check mark in their upper-left cornerClick on the bin icon in the upper-right corner of the screen and confirm the deletion
+
+Log into Google Photos
+
+Select the photos you want to delete by clicking the check mark in their upper-left corner
+
+Click on the bin icon in the upper-right corner of the screen and confirm the deletion
+
+Your photos will be moved to trash, similarly to files in Google Drive, but there’s an important distinction here—your storage will be freed up immediately. Files in Google Photos’ Trash folder don’t take up your Google storage, so permanently deleting them won’t be necessary.
+
+Deleted photos will be removed automatically after 60 days. If you want them deleted permanently right away, you can follow the same steps you would when deleting files from Google Drive’s Trash. The layout looks virtually the same, so you can find the corresponding options by referring to the steps in the previous section.
+
+3. Delete large and/or old emails
+
+Attachments can often make emails significantly larger than the average size. If you still don’t have enough space after deleting files and photos, you can remove heavy emails and conversations you will no longer refer to.
+
+Gmail’s advanced search can help you identify such emails and delete them in bulk. For example, if you wanted to find and delete emails with attachments larger than 15 MB, you’d follow these steps:
+
+Type has:attachment larger:15MB in the search barSelect the emails you want to delete, or click the checkbox above the inbox to select all emails from the given pageClick on the bin icon above the inbox
+
+Type has:attachment larger:15MB in the search bar
+
+Select the emails you want to delete, or click the checkbox above the inbox to select all emails from the given page
+
+Click on the bin icon above the inbox
+
+You can use a similar approach to find old emails by entering different commands and parameters to define the time frame, such as:
+
+After:Before:Older_than:
+
+After:
+
+Before:
+
+Older_than:
+
+Note that the emails will go to Trash, which you must empty to clean up your inbox and free up storage. Here’s how:
+
+Click More at the bottom of the left-hand menu to expand the folder listGo to TrashClick Empty Trash now
+
+Click More at the bottom of the left-hand menu to expand the folder list
+
+Go to Trash
+
+Click Empty Trash now
+
+Keep reading: Find out what happens to your old emails after a while and how to find unread emails in your Gmail inbox.
+
+How to get more Gmail storage
+
+If you want to keep all your files and emails but still need more storage, you will need to subscribe to one of Google’s paid services, which vary between personal and business Gmail users. The former can opt for Google One, with the following plans:
+
+PlanPricingStorageBasic$1.99 per month100 GBStandard$2.99 per month200 GBPremium$9.99 per month2 TBGoogle AI Pro$19.99 per month2 TB
+
+Plan
+
+Pricing
+
+Storage
+
+Basic
+
+$1.99 per month
+
+100 GB
+
+Standard
+
+$2.99 per month
+
+200 GB
+
+Premium
+
+$9.99 per month
+
+2 TB
+
+Google AI Pro
+
+$19.99 per month
+
+2 TB
+
+Business users also have three standardized options and a custom plan:
+
+PlanPricing (with annual billing)StorageBusiness Starter$6/user per month30 GBBusiness Standard$12/user per month2 TBBusiness Plus$18/user per month5 TBEnterpriseCustom5 TB with the ability to request more
+
+Plan
+
+Pricing (with annual billing)
+
+Storage
+
+Business Starter
+
+$6/user per month
+
+30 GB
+
+Business Standard
+
+$12/user per month
+
+2 TB
+
+Business Plus
+
+$18/user per month
+
+5 TB
+
+Enterprise
+
+Custom
+
+5 TB with the ability to request more
+
+While the plans are relatively affordable, you should think carefully before committing to Gmail. You might get the storage you need, but you might also encounter significant limitations in advanced organization features as your email volume grows.
+
+Why Gmail may be insufficient for high-volume email organization
+
+Gmail is a solid platform, and it works well for many users. However, power users dealing with complex workflows or a high volume of emails often encounter the following hurdles:
+
+Time-consuming organizationConfusing email threads Inefficient workflow processes
+
+Time-consuming organization
+
+Confusing email threads
+
+Inefficient workflow processes
+
+Consistently updating your labels and filters to maintain control can become a significant time drain. Even further, Gmail’s conversation view can sometimes be difficult to navigate for users with demanding workflows. It lacks a clear overview of complex email threads, making finding the latest information in crucial conversations taxing and confusing for some users.
+
+The reality is that for those dealing with a large number of emails, the standard organizational tools Gmail offers can sometimes be bottlenecks instead of enhancements. This is where modern, builder-focused email providers come in.
+
+These services offer advanced AI-automated features that help you create highly customized workflows. They enable you to speed up your workflow and tailor your inbox to fit your priorities, making it more personalized and efficient. If you anticipate your email volume increasing and need a provider that offers such robust AI organization features, consider Notion Mail.
+
+Enjoy improved email organization with Notion Mail
+
+Notion Mail offers a unique alternative to traditional platforms like Gmail. It’s an AI-first email service designed to truly personalize and organize your inbox to meet your specific needs, going beyond basic labels and folders.
+
+Notion Mail leverages AI-powered automation and customization to streamline your workflow and help you manage your communication, no matter how complex. Here’s a glimpse of what it offers:
+
+Customizable views: With Notion Mail, you can create inboxes within your inbox suited for different projects or clients. For instance, you can set up a “Client Comms” view that prioritizes emails from specific clients or create a “Project A” view that only shows emails with a specific keyword.AI-powered autopilot: Notion Mail’s AI autopilot takes over your filtering needs. With simple prompts like “Welcome,” its AI auto labeling feature automatically sorts emails into specific labels and sections in your inbox. This can significantly reduce the time you spend on routine inbox management. Snippets: Repetitive emails are a time drain. Notion Mail’s snippets allow you to insert reusable email templates for common messages. In one click, you can add pre-written responses, Zoom meeting invites, or other data fields to your emails to simplify email composition.
+
+Customizable views: With Notion Mail, you can create inboxes within your inbox suited for different projects or clients. For instance, you can set up a “Client Comms” view that prioritizes emails from specific clients or create a “Project A” view that only shows emails with a specific keyword.
+
+AI-powered autopilot: Notion Mail’s AI autopilot takes over your filtering needs. With simple prompts like “Welcome,” its AI auto labeling feature automatically sorts emails into specific labels and sections in your inbox. This can significantly reduce the time you spend on routine inbox management.
+
+Snippets: Repetitive emails are a time drain. Notion Mail’s snippets allow you to insert reusable email templates for common messages. In one click, you can add pre-written responses, Zoom meeting invites, or other data fields to your emails to simplify email composition.
+
+Keep in mind that Notion Mail is a Gmail client exclusively, which means that you need a Gmail or Google account to get started.
+
+Get started with Notion Mail
+
+Creating a Notion Mail account is completely straightforward! All you need to do is sign up with your Gmail or Google account, and you’re set.
+
+In addition to the many smart features that Notion Mail offers with its free version, you can explore advanced automation features by getting the Notion AI add-on.
+
+Bonus read: Having issues with your email or trying to optimize your setup? Check out our troubleshooting guides and expert reviews to solve common problems and make the most of your inbox:
+
+Gmail account not receiving emailsApple Mail vs. OutlookHow to organize Outlook emailHow to organize GmailBest Proton Mail alternativesGmail vs. Apple MailBusiness Gmail vs. personal GmailHow to remove a Gmail account from a phoneHow to delete all promotions in GmailHow to delete a Yahoo account
+
+Gmail account not receiving emails
+
+Apple Mail vs. Outlook
+
+How to organize Outlook email
+
+How to organize Gmail
+
+Best Proton Mail alternatives
+
+Gmail vs. Apple Mail
+
+Business Gmail vs. personal Gmail
+
+How to remove a Gmail account from a phone
+
+How to delete all promotions in Gmail
+
+How to delete a Yahoo account

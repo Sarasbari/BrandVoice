@@ -1,0 +1,93 @@
+Title: How to write an implementation plan (with examples & template)
+Published Date: 2023-06-12T00:00-06:00
+URL: https://www.notion.so/blog/implementation-plan
+
+Every new project — from software development to marketing campaigns — requires a plan. Without one, you set yourself up for mistakes, misunderstandings, and misery.
+
+A successful implementation plan outlines everything your team members will need (responsibilities, daily tasks, and deadlines) to build that new software, design a killer marketing campaign, or even hold more effective planning meetings.
+
+What’s an implementation plan?
+
+An implementation plan is a document that serves as a blueprint for reaching an overall company or project goal. It helps every stakeholder understand what tasks, strategies, and milestones are necessary to complete the objective.
+
+You can think of an implementation plan as a simplified version of a project plan. While a project plan contains all the details pertaining to schedule, budget, and other criteria, your implementation plan offers an overview of the project which guides its execution.
+
+Most implementation plans briefly outline the following items:
+
+Goals and objectives — write down your project goal and add any significant required milestones as a bulleted list.Pass/fail criteria — meet with stakeholders to determine what factors will contribute to overall project success.Deliverables — add a brief list of project tasks associated with each deliverable. Scope statement — summarize your project scope as a point of reference for resource planning.Risk assessment — note any major risks your team is watching and link out to more detailed documentation. General timeline — use a Gantt chart or task tracker to create a general project timeline to keep your team on track. Roles and responsibilities — your project needs people to complete it. Not every stakeholder and what they’re responsible for in general terms.Metrics — briefly outline the OKRs and KPIs you’ll use to track project success.
+
+Goals and objectives — write down your project goal and add any significant required milestones as a bulleted list.
+
+Pass/fail criteria — meet with stakeholders to determine what factors will contribute to overall project success.
+
+Deliverables — add a brief list of project tasks associated with each deliverable.
+
+Scope statement — summarize your project scope as a point of reference for resource planning.
+
+Risk assessment — note any major risks your team is watching and link out to more detailed documentation.
+
+General timeline — use a Gantt chart or task tracker to create a general project timeline to keep your team on track.
+
+Roles and responsibilities — your project needs people to complete it. Not every stakeholder and what they’re responsible for in general terms.
+
+Metrics — briefly outline the OKRs and KPIs you’ll use to track project success.
+
+4 benefits of creating an implementation plan
+
+An implementation plan provides a project starting point and gives you objective benchmarks for success. At the end of a project, you can look back at your implementation plan and determine whether the results match expectations.
+
+Here are four valuable benefits of starting your project by outlining an implementation plan:
+
+You gain an initial roadmap that sets expectations — when you’re first presenting a company goal or objective, employees or investors might feel skeptical. But if you’ve already documented an implementation plan, you can showcase the project’s viability and immediately set expectations for everyone involved.You create transparency right away — some stakeholders, like vendors and investors, might feel distanced from project details and important information. Showing them an implementation plan right off the bat expresses that transparency between everyone involved is crucial to the project’s success.You promote accountability — the implementation plan defines roles and responsibilities so those involved understand the undertaking and their own accountability. Project managers can then expand on this initial document to create detailed project plans that outline duties even more clearly. You showcase the right work ethic for your team — a project implementation plan starts the process off in an organized and thoughtful manner. You also express that clearly defining expectations and supporting your teammates with a well-thought-out plan is important. This sets a great example as the project kicks off.
+
+You gain an initial roadmap that sets expectations — when you’re first presenting a company goal or objective, employees or investors might feel skeptical. But if you’ve already documented an implementation plan, you can showcase the project’s viability and immediately set expectations for everyone involved.
+
+You create transparency right away — some stakeholders, like vendors and investors, might feel distanced from project details and important information. Showing them an implementation plan right off the bat expresses that transparency between everyone involved is crucial to the project’s success.
+
+You promote accountability — the implementation plan defines roles and responsibilities so those involved understand the undertaking and their own accountability. Project managers can then expand on this initial document to create detailed project plans that outline duties even more clearly.
+
+You showcase the right work ethic for your team — a project implementation plan starts the process off in an organized and thoughtful manner. You also express that clearly defining expectations and supporting your teammates with a well-thought-out plan is important. This sets a great example as the project kicks off.
+
+How to create an implementation plan: 6 steps
+
+You can use an implementation outline to propose a project or begin brainstorming a more detailed plan. Consider working with a project management software like Notion to create this document in a centralized workspace that everyone can access.
+
+Follow these six steps to outline an effective implementation plan.
+
+1. Determine project goals
+
+Figure out the key project deliverable you’re aiming for. Then outline every milestone necessary to reach this broad objective.
+
+To determine each relevant milestone, chat with other stakeholders (like teammates, a client, or a vendor) to ensure you don’t miss something important.
+
+Also, determine what metrics would define success for this goal. If your main objective is to create an effective social media marketing strategy for a new client, for example, you might consider a certain amount of new followers as a metric for success.
+
+2. Conduct research
+
+Now’s the time to figure out whether your project deliverables are feasible. Work with your teammates to develop a resource and budgeting plan and create an initial task prioritization list to determine whether everyone has the capacity to take on the project.
+
+3. Evaluate risks
+
+Create a risk assessment document that covers everything from vendor delays to cybersecurity threats. This comprehensive list of possible delays and hiccups should include plans for tackling each item. You can add a brief bulleted list of the most critical threats to your implementation plan, linking out to the more thorough assessment.
+
+4. Define roles and responsibilities
+
+Clearly define every stakeholder involved in the project and their title, like the project manager, key vendor, and technical lead. You don’t need to outline every task they're responsible for, but this information helps the whole team understand who to go to for what questions and their own responsibilities.
+
+5. Add a scope statement and timeline
+
+Once you’ve determined pertinent project information such as goals, metrics, and responsibilities, create a brief scope statement that summarizes your project’s needs. You should also add a simple timeline that includes a start and end date plus major milestone markers.
+
+6. Review and refine
+
+After you complete the project, review your initial implementation plan to determine what changed and what didn’t. Statistics like customer satisfaction surveys and the percentage of tasks completed on time might reveal inconsistencies in your initial outline.
+
+An implementation plan example
+
+The following example was created using a Notion template. Starting with a template ensures you don’t forget any important sections or information.
+
+Implement your project with Notion
+
+Implementation plans are a great way to check whether an objective is viable and set expectations for your team.
+
+Once your project commences, you can keep everyone on track with Notion’s customizable templates, like the task tracker for single projects or the task tracker for multiple projects. Or try Notion's project goals hub and ultimate tasks templates to help you research your implementation plan.

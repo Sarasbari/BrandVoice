@@ -1,0 +1,91 @@
+Title: What’s a Gantt chart? A complete guide
+Published Date: 2023-09-19T00:00-03:00
+URL: https://www.notion.so/blog/how-to-make-a-gantt-chart
+
+Some tools stand the test of time.
+
+When Henry Gantt invented Gantt charts at the turn of the 20th century, he wanted to measure employee performance and progress. Over time, Gantt charts have evolved from simple paper models to multi-faceted, computer-assisted road-mapping tools. Today, leaders use these charts to monitor complex projects across industries.
+
+So, what’s a Gantt chart’s secret to staying power? Its efficacy.
+
+What was a comprehensive tool over 100 years ago still does the job today. These models cover a project's critical elements — scheduling, monitoring, task assignees, and dependencies — and can help you better manage your resources and workflow.
+
+What’s a Gantt chart in project management?
+
+A Gantt chart is a tracking tool managers use to monitor projects.
+
+Gantt charts typically comprise two parts: a vertical task list on the left side of the page or screen (along the y-axis) and horizontal bar-chart timelines to the right (along the x-axis). The chart provides a clear visual for understanding progress by allowing project managers to compare planned and completed work.
+
+As a flexible and easy-to-use format, project managers can adapt the chart to their unique needs. Some teams infuse Gantt charts with other project variables they wish to monitor: more complex charts include resource allocation, task assignments, dependencies, and budget estimates.
+
+What is a Gantt chart used for?
+
+Teams in just about any industry can use Gantt charts to plan work. The tool is so versatile you could even employ it to organize projects around the house or manage other personal work, like prepping for a party.
+
+Let’s explore three examples that demonstrate the purpose of a Gantt chart in different professional contexts:
+
+Construction — construction projects are ripe for Gantt charts because different contractors or teams (the assignees) perform a range of tasks on staggered timelines that correlate and coincide over the course of a larger project. In this sense, construction projects contain endless dependencies: a contractor can’t tile a floor if the structure underneath isn’t complete. And since Gantt charts keep a close eye on dependent tasks, project managers can be sure they aren’t misordering work. Development and software engineering — Gantt charts also mesh well with software and product development projects. These initiatives are full of bite-sized, iterative tasks that project managers can map along a Gantt chart timeline. By doing so, teams can order dependent development tasks in the correct succession and adjust when an iteration fails and requires a rework. Marketing project management — consider a marketing team planning a season’s promotions. The project manager might use a Gantt chart as a calendar that illustrates when to roll out each promotion and map out the tasks individuals must perform to create content around those campaigns. Plus, the chart empowers the team to allocate resources to each event on the calendar well in advance.
+
+Construction — construction projects are ripe for Gantt charts because different contractors or teams (the assignees) perform a range of tasks on staggered timelines that correlate and coincide over the course of a larger project. In this sense, construction projects contain endless dependencies: a contractor can’t tile a floor if the structure underneath isn’t complete. And since Gantt charts keep a close eye on dependent tasks, project managers can be sure they aren’t misordering work.
+
+Development and software engineering — Gantt charts also mesh well with software and product development projects. These initiatives are full of bite-sized, iterative tasks that project managers can map along a Gantt chart timeline. By doing so, teams can order dependent development tasks in the correct succession and adjust when an iteration fails and requires a rework.
+
+Marketing project management — consider a marketing team planning a season’s promotions. The project manager might use a Gantt chart as a calendar that illustrates when to roll out each promotion and map out the tasks individuals must perform to create content around those campaigns. Plus, the chart empowers the team to allocate resources to each event on the calendar well in advance.
+
+What goes into a Gantt chart
+
+At a basic level, Gantt charts plot tasks over time. But more robust Gantt chart examples contain these basics and a combination of other aspects of project management tracking.
+
+Here’s a rundown of what a chart might include:
+
+Task name — this field is essential, even in the sparest of charts. In it, the project manager describes the tasks so team members can quickly identify them. Task owner or assignee — the project manager assigns each task to the team member responsible for it. Task priority — the project manager must focus resources on essential tasks. Determining and sharing which tasks are priorities guides resource allocation. Due dates — the project manager plots each task’s projected start and end dates on the x-axis. Due dates are essential, even in bare-bones charts, as they allow the project manager to track progress and compare actual versus projected advances. Some managers also use a percent complete marker to denote task progress. Critical path activities — the project manager identifies critical path activities on a Gantt chart. These are known “zero-float” tasks, as they cannot move or take longer than expected without impacting the rest of the project. Task dependencies — some tasks depend on the prior completion of others. A Gantt chart helps the project manager organize this logic and communicate with the rest of the team.
+
+Task name — this field is essential, even in the sparest of charts. In it, the project manager describes the tasks so team members can quickly identify them.
+
+Task owner or assignee — the project manager assigns each task to the team member responsible for it.
+
+Task priority — the project manager must focus resources on essential tasks. Determining and sharing which tasks are priorities guides resource allocation.
+
+Due dates — the project manager plots each task’s projected start and end dates on the x-axis. Due dates are essential, even in bare-bones charts, as they allow the project manager to track progress and compare actual versus projected advances. Some managers also use a percent complete marker to denote task progress.
+
+Critical path activities — the project manager identifies critical path activities on a Gantt chart. These are known “zero-float” tasks, as they cannot move or take longer than expected without impacting the rest of the project.
+
+Task dependencies — some tasks depend on the prior completion of others. A Gantt chart helps the project manager organize this logic and communicate with the rest of the team.
+
+How to use a Gantt chart
+
+Flexible tools present a challenge: there are so many ways to customize them that the options can cause confusion or overwhelm.
+
+With the following steps, you can create a Gantt chart that imposes organization on a project — not add a layer of stress and chaos. Notion offers a user-friendly Gantt chart guide and template to facilitate the process your first time around:
+
+Break down tasks — delineate groups and sub-groups of tasks. If you’re developing a website, a group might be “Design” with a sub-group within this pillar called “Create a welcome page.” Tasks within the sub-group may include adding an engaging background, writing copy, and sourcing images.
+
+Populate the chart with tasks — once you’ve determined groups and sub-groups and added them to your project management software or Gantt chart template, populate the sub-groups with tasks. The following image of Notion’s Gantt chart template demonstrates this type of organization:
+
+Add dates to tasks — assign a due date to each task so you can plot the project timeline and view concurrent work. Here’s what this plot looks like in Notion’s template:
+
+Assign tasks — delegate work to the team member who owns the task. While assigning work, ensure you aren’t overextending or double-booking an individual.
+
+Create dependencies — add dependencies to related tasks. Arrows denote these connections in Notion’s Gantt chart template. If the timeline of one dependent task changes, the actions connected to it must also shift.
+
+Change the status — Notion’s Gantt chart template allows you (or the assignee) to change the status of a task from “Not started” to “In Progress” to “Done.” Use these designations to update the project’s progression.
+
+3 benefits of using a Gantt chart
+
+Gantt charts are a tried-and-tested project management tool because they’ve morphed to meet changing demands over time. But Agile and Scrum models — with their wealth of tools, including burnup and burndown charts — are competitive alternatives. So, why hasn’t this model become outdated in the wake of newer, popular project planning methodologies?
+
+Gantt charts continue to be effective because they:
+
+Provide an excellent bird’s eye view — at a glance, project managers, stakeholders, and team members can view tasks and track advances in workflow, assignments, and dependencies. Have built-in flexibility — project managers can morph Gantt charts to accommodate shifts in a project at any time. With modern tools like Notion’s Gantt chart template, users make changes simply by dragging and dropping assignments. Adapt to new project management trends — teams who want to turn a Gantt chart into a Kanban board or change the viewing style to fit their ways of working can easily do so. Notion’s tool allows users to flip between traditional Gantt and Kanban views quickly.
+
+Provide an excellent bird’s eye view — at a glance, project managers, stakeholders, and team members can view tasks and track advances in workflow, assignments, and dependencies.
+
+Have built-in flexibility — project managers can morph Gantt charts to accommodate shifts in a project at any time. With modern tools like Notion’s Gantt chart template, users make changes simply by dragging and dropping assignments.
+
+Adapt to new project management trends — teams who want to turn a Gantt chart into a Kanban board or change the viewing style to fit their ways of working can easily do so. Notion’s tool allows users to flip between traditional Gantt and Kanban views quickly.
+
+Run better projects with Notion
+
+Notion is a one-stop project management platform that streamlines work and encourages collaboration with wiki databases, document sharing, and AI writing assistance. We’re also a hub for guides and templates that help you run better, more informed projects.
+
+Use our resources to set attainable goals for your initiative, list your to-dos before organizing project tasks, and explore different styles of managing work.

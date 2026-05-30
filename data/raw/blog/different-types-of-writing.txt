@@ -1,0 +1,79 @@
+Title: Different types of writing in business (and when to use them)
+Published Date: 2023-10-03T00:00-03:00
+URL: https://www.notion.so/blog/different-types-of-writing
+
+Business writing is a complicated — and costly — craft.
+
+Even experienced writers sometimes struggle to find the right words. And sloppy copy costs companies billions each year. Without well-defined writing strategies and systems, teams set themselves up for miscommunications, project delays, and unintended complications.
+
+To refine your team’s writing skills, take a step back to review the different types of writing and how to incorporate them into a comprehensive communications strategy. A thorough understanding of major writing categories will help your writers identify the most suitable style for projects and structure thoughts into truly polished copy.
+
+What’s business writing?
+
+Business writing refers to any written communication — including memos, reports, or emails — in a professional workplace environment.
+
+Typically, work-focused documents favor a formal tone that fits a company's brand image and highlights the team's professionalism. Even when co-workers share texts internally (called “transactional writing”), business writing relies heavily on the etiquette appropriate for a professional setting.
+
+In addition to formality, business writing should also prioritize clarity, concision, and specificity. While there are exceptions in sales and marketing, most types of business writing feature short sentences, easily digestible text, and unambiguous calls to action.
+
+What are writing genres and styles?
+
+In writing, the terms “genre” and “style” identify and organize texts into separate categories according to their distinguishing traits. Style is often used to describe a writer's particular way with words, while genres are more broad classifications that group together texts with similar purposes and conventions.
+
+For example, “comedy” is a genre of fiction encompassing texts such as long-form novels, scripts, or short stories, all of which share the goal of making readers laugh. Although all comedic writing shares the same objective, there are significant stylistic differences — including tone, literary devices, and syntax — between different comedic writers. It’s what separates Tina Fey from Jordan Peel, even though both writers have created multiple comedic works.
+
+The 4 types of writing in business, explained
+
+There are as many styles of writing as there are reasons for written expression, but the primary reasons people pen to paper in the business world boil down to a few categories. Before starting down a blank page, consider which of the four writing types best suits the project's specifications:
+
+1. Expository writing
+
+You could substitute “expository” for “explanatory,” as this writing style focuses on educating readers and transmitting clear, unbiased facts. An expository piece highlights news, events, or data in concise and precise language, and it's most associated with journalism, business documents, and technical writing. Academic writing, such as essays and scientific reports, also falls into the expository writing category.
+
+2. Descriptive writing
+
+The descriptive writing style stimulates a reader's imagination by conjuring up sensuous sights, smells, or sounds. Although most people associate descriptive writing with setting a scene in narrative fiction, it's also commonly used in business-oriented writing — especially advertising or marketing — to evoke sensations and put images in the reader's mind. Whenever you see writing that riffs on the five senses, chances are it fits within the descriptive model.
+
+3. Persuasive writing
+
+If authors want to sway a reader's opinion, they cast a stylistic spell called “persuasive writing.” Even if authors don't openly admit they're giving a subjective opinion, persuasive writing often implicitly creeps into documents like marketing strategies, job applications, and advertisements. It's common for descriptive writing to overlap with persuasive techniques, especially when advertisers paint tantalizing pictures to get viewers interested in products or services.
+
+4. Narrative writing
+
+Narrative writing aligns closely with literary works because its purpose is to tell the reader a story. Common examples of narrative prose include novels and short stories, but that doesn't mean narrative writing is purely fictional. For instance, when authors write autobiographies or historians compose biographies, they tell a story about someone's life. Narrative writing sometimes appears in journalism when reporters spotlight interviewees or write human interest pieces. Advertisements may also use customer narratives to generate buzz and increase product credibility.
+
+How to choose the right writing style
+
+Most business writing is formal and expository, but there are instances when it's appropriate to incorporate creativity into your copy. Evaluating the motives and target audience for a project can help your team choose the most relevant and effective writing style. Here’s how:
+
+1. Define the text's primary objective
+
+The first step to choosing the optimal writing style is understanding what you want to accomplish with your text. That may seem self-explanatory, but it's easy to get bogged down in distractions and superfluous details throughout the writing process.
+
+Formulating a clear, one-sentence objective for a text keeps writers on-task and informs their stylistic choices. For instance, teams working on marketing promotions are more likely to use persuasive and descriptive writing versus those writing interdepartmental memos. Keep a text's essential aim in mind throughout the writing process, and be sure the writing style reinforces and elaborates on this objective.
+
+2. Take on the target reader's perspective
+
+There's little point in defining the goal of a text if writers can't communicate this message to their target audience.
+
+Consider the background, interests, and expectations of readers and imagine their reaction to a document in its current form. Constantly refine the writing style to make the reading experience as straightforward as possible with the target readership in mind. Be especially wary of overloading written communications with needless jargon and technical details, unless you intend to send this info to trained specialists.
+
+3. Keep brand messaging consistent
+
+Even if writers have more leeway to add descriptive or narrative elements to their work, the overall tone must fall within the company's brand guidelines. Any glaring deviations in the standardized language or formatting for business communications threaten your organization's professional integrity and public image.
+
+Before submitting a final draft, put it through a quality assurance review to ensure the style fits the official guidelines and avoids obtrusive inconsistencies.
+
+4. Use text analysis for extra insights
+
+Text analysis tools harness the power of machine learning to sift through mountains of content and extract critical data points for teams to review.
+
+One valuable way to use text analysis to inform writing style is to monitor client and customer engagement via sentiment analysis reports. Feed information such as social media posts, emails, and reviews through a sentiment analysis portal to identify trends, strengths, and weaknesses in written campaigns.
+
+Share these findings with the marketing or sales staff to brainstorm ideas, strengthen current campaigns, or shift writing strategies to stay relevant and better engage with customers.
+
+Improve your writing with Notion
+
+Whenever you feel stumped, use Notion templates to brainstorm through that writer's block.
+
+With excellent templates like this writing base, you have the tools you need to jot down ideas, visualize outlines, and organize bite-size daily goals to stay on track without feeling overwhelmed. Notion also has pre-built templates for dozens of business documents like memos, emails, and proposals to help preserve your brand image and keep formatting consistent across departments.

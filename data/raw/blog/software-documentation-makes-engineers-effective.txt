@@ -1,0 +1,75 @@
+Title: Tidy software documentation makes engineers more effective — here’s how (+ templates)
+Published Date: 2022-01-27T09:00-07:00
+URL: https://www.notion.so/blog/software-documentation-makes-engineers-effective
+
+A 2020 publication by ResearchGate found that poor documentation was one of the biggest challenge for engineers at work. This isn’t surprising — engineers are stereotyped as being bad writers. But regardless of writing ability, documentation itself is important, because poor technical documentation is detrimental to your projects. It can slow you down, cause errors, and be counterproductive to engineering teams.Software documentation is not only integral to the whole software development life cycle (SDLC), it also helps you and your fellow developers. This is particularly useful when there are bugs, or the source code needs updating — so you need to make sure your software documentation is well structured. Tidy software documentation makes engineers more effective in employee training, quality control, and collaborative working.
+
+Why tidy software documentation is necessary for building effective engineering teams
+
+Software documentation helps software engineers throughout the development process, explaining the way products and systems are designed, delivered, and supported. For example, architecture documentation provides a map of the software, showing how the software is structured, and a product requirement document defines the software requirements and its features. Here are four ways tidy software documentation can help your engineering team:
+
+1. Ensures good quality control of your product
+
+Software documentation details the intended design and configurations for the system development, ensuring accuracy. And while the project is being developed, you can refer back to your product documentation to confirm you’re on the right track. Also, project documentation can reduce team errors. Dmitri Gaskin, co-founder of Branch, which uses Notion as its documentation system, says “Having clear, searchable documentation in Notion saves everyone a lot of time and prevents a lot of mistakes. We know exactly what was put in place, why, and how it’s evolved over time.”
+
+2. Allows developers to work async
+
+Documentation is perfect for teams that work asynchronously. If a developer is stuck on a particular aspect of the project, they can refer to the technical documentation for guidance rather than asking other team members for assistance, which saves time. Additionally, software documentation is a time-effective way to onboard new hires and train them, eliminating the need for the 1-on-1 rundown on the product. Software documentation doubles up as a knowledge management system.
+
+3. Simplifies working with the development team
+
+We’ve talked about why you shouldn’t leave organizational knowledge undocumented and living in one person’s head. Documenting your code eliminates institutional knowledge and builds up a centralized knowledge base — everyone on the team is able to learn and work together. Most developers have their own coding style. Therefore, software documentation provides standardization, so other programmers can read your code and understand it.
+
+4. Increases developer productivity
+
+Documentation takes any of the guesswork out of building for developers — it clearly lays out what they need to build, when, and what the specifications are. That way, developers can focus on what they do best. They don’t need to be concerned with cross-referencing things like a product brief or figuring out a review cycle. It’s all there, helping boost productivity by way of focus.
+
+Different types of software documentation that engineering teams should have and why they’re important
+
+Software documentation can be divided into two categories: product documentation and process documentation. Product docs describe the product and provide all necessary information on the product, and process docs record the development process.
+
+Product documentation
+
+Product documentation describes the product being developed and provides clear instructions on how to perform the associated tasks with it. There are two key types of product documentation: system documentation and user documentation.
+
+System documentation includes requirements documents, design documents, architecture descriptions, program source code, and FAQs.User documentation, most commonly known as end-user documentation, consists of user manuals that are typically made for the intended end-users of the product. User documentation can be installation and troubleshooting manuals, user guides, or even tutorials.
+
+System documentation includes requirements documents, design documents, architecture descriptions, program source code, and FAQs.
+
+User documentation, most commonly known as end-user documentation, consists of user manuals that are typically made for the intended end-users of the product. User documentation can be installation and troubleshooting manuals, user guides, or even tutorials.
+
+Writing product documentation can be tricky because it has multiple components, but it is important. Consider it like the single source of truth for your entire engineering team; it’s essential to your product and your company. It’s a collaborative effort involving multiple stakeholders, and tidy technical writing is essential, as everyone who will read the documentation needs to understand it. Structured product documentation is also beneficial to engineers, as it ensures the goals of the product are being met. Also, most projects are done in sprints, and good documentation enables the engineer to know where they left off.
+
+Process documentation
+
+Process documentation is all the documents produced during development and maintenance and describes the process. Common examples of process-related documents include project plans, test schedules, release notes, and meeting notes. This type of documentation tends to be specific to the phase of the development process. Structured software documentation ensures important processes aren’t forgotten. Creating process documentation makes engineers more effective by providing a clear methodology for engineers to carry out tasks, and you can use process documentation to understand your engineering workflow.Process documents also make maintenance easier, which is crucial, as maintenance consumes over 90% of the total life cycle cost of a software project. Additionally, process documentation provides a foundation for future processes. When creating a similar project, there is no need to reinvent the wheel.
+
+Tips to write tidy software documentation that developers will love
+
+Writing effective software documentation is not as daunting as it may seem. And you don’t have to be an amazing technical writer to write tidy software documentation. Here are a few clear steps you can take:
+
+Build a documentation culture
+
+Writing tidy documentation starts with your mindset — treat writing documentation as part of your sprints, and document your code and other important technical information at every stage of the software development life cycle. Once you set your mind to this way of writing, it will become second nature to you (and the rest of your team).
+
+Organize information effectively
+
+Establish what you are documenting. This will depend on the document type, whether it’s API documentation or a README. Once you have established what you are documenting, make sure you include justifications for the documentation, so people will know why this was created. If you can, include use case examples.
+
+Format your writing clearly
+
+Keep your writing simple. Less is more, but remember to be precise and ensure you include everything that’s necessary. Also, using templates will help you remain consistent across your documentation — and save you time!
+
+Ensure it can be easily accessed
+
+Spotify conducted a company-wide productivity survey that revealed the third biggest problem for their engineers was not being able to find the technical documentation needed for their work. When creating your software documentation, it’s important that it can be easily accessed. One way to do this is to include it as part of your knowledge management system.
+
+Begin your software documentation journey with Notion
+
+Writing your documentation — you’ll either love it or hate it, but it’s necessary, it makes your engineering team more effective, and it helps your organization. There are tools that can help you with the writing process, whatever your requirement documentation needs are. Whether it’s a systems document or a README, Notion is the perfect software documentation tool to accompany your piece of software. Check out some templates below to help you get started.
+
+Engineering wiki →
+
+Roadmap →
+
+Coding guidelines →

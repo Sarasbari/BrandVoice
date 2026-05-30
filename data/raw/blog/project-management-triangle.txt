@@ -1,0 +1,115 @@
+Title: What exactly is the project management triangle?
+Published Date: 2023-06-12T00:00-06:00
+URL: https://www.notion.so/blog/project-management-triangle
+
+Every day means making tradeoffs. Maybe you spend your time helping a teammate instead of doing project work because they feel overwhelmed, or you choose a lower-salaried job because it offers flexible hours.
+
+But you’ll achieve relative success regardless of how you shift between priorities as long as you’ve made wise choices. And you can say the same for project management, which relies on a project management triangle to balance constraints to accomplish a goal.
+
+Every project has three sides that create the iron triangle of project management. Each constraint has been, at one time or another, a thorn in the side of many a project manager. It takes keen attention and a dash of balance to manage these constraints, but with knowledge and practice, it's like riding a tricycle.
+
+What’s the project management triangle?
+
+The project management triple constraint consists of three variables:
+
+The project scope covers every project task and deliverable. This scope changes based on client, stakeholder, and management needs.Cost (or budget) is the total cost assigned to your project. Variables here could include salaries, resources such as servers or office supplies, and even team lunches. Time refers to a project’s overall timeline and how long each task takes.
+
+The project scope covers every project task and deliverable. This scope changes based on client, stakeholder, and management needs.
+
+Cost (or budget) is the total cost assigned to your project. Variables here could include salaries, resources such as servers or office supplies, and even team lunches.
+
+Time refers to a project’s overall timeline and how long each task takes.
+
+These project management components affect every project, whether the manager is mindful of them or not. You can't escape a cost constraint, as the dollar signs dangle with every new developer added to the project. The scope constraint is present in your project roadmap, and the time constraint is inescapable — the client or your employer won't let you forget about that.
+
+That's why these constraints form “the iron triangle.” It takes a certain amount of fortitude to balance all three because changing one directly impacts the others. If you add another developer to the project, that might cut down on the time constraint, but it forces a change to the project scope by shifting task responsibilities, and it cuts into the cost constraint with an added salary.
+
+The goal is to adjust the iron triangle without impacting the project’s overall quality. Quality isn’t a constraint but rather the overall goal. When your triangle starts to stretch in one direction, you know it's time to rebalance by reviewing your project plan's budget, deadlines, and scope.
+
+How does the project management triangle work?
+
+Balancing the iron triangle means managing tradeoffs: your project’s scope determines its cost and time, and if the scope expands, the other constraints must as well. This requires a strong understanding of all variables within each constraint.
+
+The more project-relevant information you have at the start, the easier it is to predict which sides of the triangle you can adjust and how they affect constraints. Here are some aspects that affect your triangle:
+
+ResourcesEmployee schedulesBudgetsTimelinesTask dependenciesDeliverables
+
+Resources
+
+Employee schedules
+
+Budgets
+
+Timelines
+
+Task dependencies
+
+Deliverables
+
+Start with what you know, like what the client or your employer wants and by when. Then estimate costs and project scope. If a client expands a project, calculate the cost and scope and deliver a new timeline. And if they want a rush job, sacrifice less important product features to tighten the scope. If you determine that the budget is insufficient to complete the request within the client's timeframe, expand the time constraint to meet the expansion of the budget constraint. You can shuffle all three items to meet changing requirements.
+
+The alternative to all this balancing is your project drifting into scope creep: Your project feels never-ending because you keep expanding its scope, budget, and timeline without balancing everything out.
+
+Why is the project management triangle important?
+
+There are three key ways that balancing time, scope, and cost helps you achieve quality:
+
+Brings visibility to your constraints — consciously defining the project management triangle keeps you in a state of heightened awareness of your scope, time, and budget. This awareness means you can quickly adapt to changes.Helps you mitigate risks — every project has risks, but if you’re paying attention to the triple corners of your project management triangle, you gain greater visibility into potential threats. If the client decides to substantially move up a timeline, for example, you already have a cost estimate for adding more resources.Provides transparency for the team — defining your scope, cost, and timeline for the team sets expectations. Employees might also feel more supported and well-prepared knowing you’ve thoughtfully considered these three aspects.
+
+Brings visibility to your constraints — consciously defining the project management triangle keeps you in a state of heightened awareness of your scope, time, and budget. This awareness means you can quickly adapt to changes.
+
+Helps you mitigate risks — every project has risks, but if you’re paying attention to the triple corners of your project management triangle, you gain greater visibility into potential threats. If the client decides to substantially move up a timeline, for example, you already have a cost estimate for adding more resources.
+
+Provides transparency for the team — defining your scope, cost, and timeline for the team sets expectations. Employees might also feel more supported and well-prepared knowing you’ve thoughtfully considered these three aspects.
+
+6 stages of project management
+
+Every project life cycle contains six stages, and understanding them helps you balance your iron triangle by providing an opportunity to adjust constraints at each step:
+
+Definition — consider your project's objectives and initial deadline.Initiation — map out resources and draw up a tentative project plan that defines all three constraints.Planning — finalize the project plan and carefully examine your project management triangle.Execution — start all team members on tasks and deliverables.Monitoring — as the project progresses, continuously monitor your iron triangle to determine whether you’re balancing every side.Closure — once the client or your employer accepts your project deliverables, conduct a post-mortem to determine how your initial triangle projection compares to final scope, cost, and timeline details.
+
+Definition — consider your project's objectives and initial deadline.
+
+Initiation — map out resources and draw up a tentative project plan that defines all three constraints.
+
+Planning — finalize the project plan and carefully examine your project management triangle.
+
+Execution — start all team members on tasks and deliverables.
+
+Monitoring — as the project progresses, continuously monitor your iron triangle to determine whether you’re balancing every side.
+
+Closure — once the client or your employer accepts your project deliverables, conduct a post-mortem to determine how your initial triangle projection compares to final scope, cost, and timeline details.
+
+4 tips for managing the iron triangle
+
+Your project, deliverables, and resources ultimately determine your triangle’s health. Here are some best practices to help you stay on top of all three constraints:
+
+1. Choose one flexible constraint
+
+At the project’s outset, discuss the most important constraint with the client or your manager. This answer will determine where you have wiggle room. If a client has a hard deadline, for example, you might stretch the cost side of the triangle to procure more resources to meet that deadline.
+
+2. Avoid feature creep
+
+List all required product features and prioritize them with your manager or the client's help. This prioritization helps you understand which features you can forego if you need to shorten time or cost constraints.
+
+3. Implement a risk management plan
+
+Even if you set clear expectations at the project’s outset, things can still go wrong. When outlining scope, include a risk management plan that considers any variables that may cause a delay or budgeting obstacles.
+
+4. Use a project management methodology
+
+Once you know your most important constraint, apply a management methodology to it. Each method complements different most-important constraints:
+
+Agile is best for projects with a need for speed, as it allows for quick pivots and flexible variables.Waterfall is a linear methodology that works best for projects with a set-in-stone scope and time constraints.Lean works best when cost is the most significant concern because it focuses on reducing projects to essential tasks and eliminating unnecessary resources.
+
+Agile is best for projects with a need for speed, as it allows for quick pivots and flexible variables.
+
+Waterfall is a linear methodology that works best for projects with a set-in-stone scope and time constraints.
+
+Lean works best when cost is the most significant concern because it focuses on reducing projects to essential tasks and eliminating unnecessary resources.
+
+Project management made easier with Notion
+
+Understanding and embracing the project management triangle keeps your finger on the pulse of everything that’s important to your project’s success. Quality is the name of the game, and balancing the iron triangle is how you win.
+
+To effectively manage your project right away, start with customizable templates in a connected workspace. Try Notion’s project goals hub, to-do lists, and engineering roadmaps, and keep them in a central team workspace for everyone to see.

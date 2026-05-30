@@ -1,0 +1,49 @@
+Title: How European Companies Build AI-Ready Knowledge Foundations
+Published Date: 2026-02-12T10:00+01:00
+URL: https://www.notion.so/blog/how-european-businesses-are-solving-the-knowledge-paradox
+
+This is the first in a two-part series exploring how European organizations are investing in knowledge management to succeed in the age of AI.
+
+Last year, we surveyed business leaders across Europe and found they face a notable contradiction: While most (97%) recognize that knowledge management is critical to their business, very few (28%) have a coherent strategy to execute it well. This gap—knowing knowledge management matters but struggling to deliver on it—is what I call the knowledge paradox. And it’s not just frustrating; it’s expensive.
+
+Poor knowledge management costs European companies up to €16,000 per employee annually in lost productivity. For a 500-person company, that's €8 million a year spent searching for information that already exists, recreating work that's been done before, and watching institutional knowledge vanish when people leave.
+
+To understand how European companies are addressing this knowledge paradox, we spoke with leaders across France, Germany, and the UK. From scaling startups to enduring enterprises, what we heard was consistent: Centralized knowledge is the foundation that makes everything else possible—increased productivity, less repetitive work, faster decision-making—and ultimately, the ability to leverage AI effectively.
+
+Here's what they've learned about knowledge management, what they're doing about it, and why getting it right is the defining advantage that separates thriving companies from the rest.
+
+We asked 650 European decision-makers how they’re rethinking knowledge management in the age of AI. Dive into the research to discover how leading teams are cutting software sprawl, improving search, and unlocking productivity without increasing complexity.
+
+The hidden cost of scattered knowledge
+
+The knowledge paradox manifests differently depending on your stage of growth, but the outcome is the same: when information is spread across people and tools, progress slows.
+
+For hypergrowth companies, speed is the advantage. As teams scale, the informal knowledge-sharing that works for 10 people breaks at 100. Decisions move from hallway conversations to fragmented threads. Context gets lost, silos form by default, and that competitive speed evaporates. In today’s fast-moving markets, speed can determine survival.
+
+For established enterprises, friction often comes from legacy systems and entrenched ways of working—making shifts to new platforms and approaches increasingly costly and complex. “It's very hard to change once the foundations are not ideal,” observes Snir Yarom, CTO of Taxfix. “If these foundations are not built from the get-go, the cost to change later becomes very high."
+
+The true cost of poor knowledge management extends beyond lost productivity—it erodes confidence in decision-making and slows execution. Our research found that most engineering, product, and design leaders (79%) in Europe lack confidence in the data they use to make informed decisions because the information they need is scattered across too many tools. Dan Bathurst, CPO at Nscale, has seen this dynamic in practice: “An absence of centralized knowledge can cause a lot of confusion, which then reduces confidence in someone wanting to make a decision. If employees don't have all the information, they may not feel empowered to sign off on something.”
+
+Luckily, AI is rapidly reshaping how businesses across Europe access and use company knowledge. In 2025, our research found that 56% are already using AI for knowledge management, and another 29% were piloting it. But, there’s a catch: AI can only build upon what already exists. Companies deploying AI without solid knowledge foundations are learning this the hard way. At Nelly, early attempts to build a patient-facing bot exposed gaps in their documentation, forcing the team to reconstruct knowledge retroactively. As Alexandre Imbeaux from Lucca puts it, centralized knowledge "is not an advantage, it's survival."
+
+The takeaway is clear: Before AI can answer questions, write drafts, or support customer-facing workflows, companies need to get their knowledge house in order.
+
+How to build a culture of documentation
+
+Understanding the problem is one thing, but fixing it is another. Once you've recognized AI needs a strong knowledge foundation, the question becomes: How do you build a documentation culture that sticks?
+
+Across the leaders we spoke with, a few patterns emerged:
+
+Start with the why. People need to understand personal benefit before changing behavior, and the most effective framing makes the trade-off concrete. For engineers at Nelly, Co-Founder Laurids Siebel explained it simply: document your work once, or answer the same questions again and again. When presented as a choice between 30 minutes of documentation versus hours of interruptions, the decision became obvious.
+
+Build systems that attract engagement. The most sustainable knowledge systems create willing participation (pull), not forced compliance (push). At Above, Operational Excellence and Strategy Director Tore Fjaertoft worked with one client to move away from requiring teams to fill out endless Excel templates. Instead, he asked them to maintain a single Notion page with their KPIs, OKRs, and high-level roadmap. "We would pull information from that to wherever we need it, when we need it," he explains. The result was simpler for teams and better for the organization: transparency improved, admin overhead dropped, and the information stayed current.
+
+Thomas Zeller, CDO at UnternehmerTUM, echoes this principle—noting that forcing employees to document things for visibility rarely works. Instead, he advocates letting teams work in ways that suit them, then pulling information when and where it's needed.
+
+Make it a cultural shift. Building a culture of documentation means fundamentally changing how people think about knowledge—moving from something individuals own to a shared organizational asset everyone contributes to. Take global fitness technology leader EGYM. Joscha Storz, head of engineering systems and services, attributes the company’s success to offering comprehensive, integrated solutions to customers—not point products, but complete systems that work seamlessly together. He realized this same philosophy needed to apply internally to their company knowledge. In practice, this meant three things: Enabling scalability as they grew rapidly, creating holistic solutions where everything connects rather than exists in isolation, and empowering self-organization so teams could work autonomously while maintaining shared context.
+
+Most critically, it meant actively fighting against the natural tendency for knowledge to become fragmented. "Knowledge naturally accumulates in silos and decentralized clusters," says Joscha. "We now use Notion to actively counter these silos by motivating people to transfer collectively useful knowledge from isolated pockets into shared, central spaces."
+
+The companies we spoke with aren't just implementing new tools or processes—they're rethinking how knowledge flows through their organization: who owns it, how it's created, and how it stays current.
+
+Centralizing knowledge solves the paradox, but it's only the beginning. In Part 2, we'll explore what happens next: how teams start experimenting with AI, which use cases deliver the fastest value, and how small wins compound into lasting adoption.

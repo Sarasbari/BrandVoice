@@ -1,0 +1,93 @@
+Title: Here’s why you need a software design document (+ templates)
+Published Date: 2023-05-12T00:00-06:00
+URL: https://www.notion.so/blog/design-document-template
+
+Building software without a design document is like constructing a house of cards in a windstorm — there might be some entertainment value, but there’s a good chance you won’t design what you hoped.
+
+Instead, prepare your team to deliver a product that meets every requirement by filling out a design document template. This document ensures that everyone understands expectations and can create something that won’t blow over with the first gust.
+
+What’s a software design document?
+
+A software design document outlines the development plan for a piece of software or software feature. Software designers and project managers typically create these documents for development teams, and they include the following:
+
+A project summaryA detailed project planClient requirementsDesign and coding specificationsResource needsAssigned responsibilitiesA term glossary
+
+A project summary
+
+A detailed project plan
+
+Client requirements
+
+Design and coding specifications
+
+Resource needs
+
+Assigned responsibilities
+
+A term glossary
+
+Here's why you need a software design document
+
+Documenting the software development process helps your team deliver something that meets internal and client specifications. They can reference your detailed design document during the project to ensure their work aligns with expectations and deadlines.
+
+Here are some more benefits of using software design documents:
+
+Saves time — software design is a lengthy process. To stay agile and keep everyone on track, project managers need a detailed action plan. A software design document lays out the project's path so your team doesn't waste time wondering what's next. And when creating this document, you can gather feedback from experienced developers at the outset to prepare for or remove foreseen roadblocks.Improves transparency — a filled-out project design template is a contract between software engineers, other team members, and clients. Everyone can agree on the development details at the beginning of the project to avoid miscommunications about deliverables or functional requirements.Encourages teamwork — a software design document shows a team their overarching objectives so they know what they’re all working toward. It also fosters accountability at the outset, since everyone ought to follow the document’s guidelines.Defines success — a software design document outlines key metrics for success, so everyone involved understands what they’re working toward. This clarity regarding what each person must accomplish gives them the sense of purpose they need in order to stay motivated.
+
+Saves time — software design is a lengthy process. To stay agile and keep everyone on track, project managers need a detailed action plan. A software design document lays out the project's path so your team doesn't waste time wondering what's next. And when creating this document, you can gather feedback from experienced developers at the outset to prepare for or remove foreseen roadblocks.
+
+Improves transparency — a filled-out project design template is a contract between software engineers, other team members, and clients. Everyone can agree on the development details at the beginning of the project to avoid miscommunications about deliverables or functional requirements.
+
+Encourages teamwork — a software design document shows a team their overarching objectives so they know what they’re all working toward. It also fosters accountability at the outset, since everyone ought to follow the document’s guidelines.
+
+Defines success — a software design document outlines key metrics for success, so everyone involved understands what they’re working toward. This clarity regarding what each person must accomplish gives them the sense of purpose they need in order to stay motivated.
+
+How to write a software design document: 7 steps
+
+Before filling out your software design document template, work with your team and relevant adjacent departments to research and document the product’s requirements. Also consider client and target audience specifications, as all this information will help you create your document.Your design document should include the following seven sections.
+
+1. Overview
+
+Begin with a brief outline of the software design project, like the broad start and end dates, team members involved, and a sentence or two stating what you’re developing and why. You might also note your methodology, like Agile or Scrum.
+
+2. Project guidelines
+
+Here’s where you dive into the details. Start by outlining developer rules, like coding standards, naming conventions, and relevant dependencies (if a new block of code depends on a previously written one, for example). This ensures that everyone keeps the codebase consistent to reduce errors and increase software versatility. If everyone uses different coding practices, you might have issues where the software loads just fine on one browser but poorly on another, or isn’t responsive to mobile devices because of coding inconsistencies.
+
+You could also outline user experience (UX) and user interface (UI) style guidelines, like colors or buttons that are off-limits because they’re difficult to interact with for some users.
+
+Also include detailed design specifications, like client-approved mockups or graphics with notes for the design team, so everyone feels well-informed and prepared.
+
+3. User stories
+
+Include testimonials and user stories regarding similar software design to show engineers, designers, and UX/UI professionals what works and what doesn’t. And if you’re updating an existing product, present use cases to explain why your team must make the changes outlined. This ensures that everyone feels their work is purposeful, and you won’t waste time answering questions from confused, ill-informed employees.
+
+4. Project scope
+
+Include a detailed project timeline and resource allotment in the project scope section. On this timeline, you should note every due date and milestone, so anyone reading the document gains a thorough understanding of the entire project.
+
+This is also a great place to define the resources you’ll need, including human (team members), financial (stakeholder investment), and technical (an updated design program).
+
+Your software doesn’t stand alone — it relies on an underlying architecture, like an interaction or system data structure. If you’re building a database tool, the backing structure would be SQL, a programming language. Your design documentation should include all servers and subsystems required to implement the software.
+
+5. Testing and maintenance
+
+To ensure that your product meets expectations, define a schedule that covers user, responsiveness, and integration testing, as well as other metrics you’ll track. And include a post-project maintenance schedule to help developers plan future checks.
+
+6. Deliverables
+
+State precisely what you hope to deliver to your employer or client and by when. You might have briefly included this information on your project scope timeline, but you can get even more specific here. Maybe you’ll detail every new feature this product will have once the project is complete, or outline the software updates your team will complete and when.
+
+Since this document is team-facing, also define team responsibilities for each deliverable, with an expected testing and deployment date where relevant.
+
+7. Glossary
+
+Close the document with an outline of brand and software-specific terms and acronyms regarding coding, design, and UX/UI to keep everyone on the same page.
+
+Before you begin using this document, show the draft to the project’s leadership team and internal stakeholders to ensure the information is accurate. Once everyone has signed off, share it with your team, perhaps with action items for each person so they can get started right away.
+
+Start with a Notion template
+
+Building or updating a piece of software is exciting but complex work. Beginning with a design document template can streamline the process and mitigate misunderstandings and mishaps.
+
+Use Notion templates to ease all of your design tasks, like the design specs and design systems documents. Or search the template gallery for something perfectly suited to your needs.

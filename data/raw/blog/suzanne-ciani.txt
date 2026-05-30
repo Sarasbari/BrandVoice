@@ -1,0 +1,287 @@
+Title: Suzanne Ciani explains the composition of her sensory career
+Published Date: 2022-01-04T00:00-08:00
+URL: https://www.notion.so/blog/suzanne-ciani
+
+Suzanne Ciani is a five-time Grammy award-nominated musician, composer, sound designer, and record label executive whose work helped define the sound of electronic music in the 1970s and went on to leave a lasting impression on the genre as a whole. She has released over 20 solo albums including "Seven Waves," and "The Velocity of Love," and was one of the first artists inducted into Keyboard Magazine's Hall of Fame. She is best known for sound designing commercials like the famous Coke noise, appearing on the David Letterman show, and for her explorations in quadraphonic sound.
+
+DEVON: Hello, I'm Devon and you are listening to Tools and Craft. Today, I'm talking to Suzanne Ciani, a musician and composer who's been writing and performing electronic music since the 1970s. She's been nominated for a Grammy five times and she's been dubbed the Diva of the Diode.
+
+I'm excited to talk to Suzanne because music is an especially intimate kind of creative process. Suzanne has had decades of experience working with an instrument called the Buchla, which looks less like a conventional instrument than a piano or a violin and more like an aircraft instrument panel.
+
+It's such a unique interface for the kind of work she's doing. So I'm excited to hear about how it's shaped the work she does and how it felt to be one of the earliest pioneers experimenting with this instrument. Suzanne, thank you for taking the time to chat.
+
+SUZANNE: Lovely. Thank you, Devon.
+
+DEVON: It's going to be very fun and I hope we both learned some things in this conversation too. My first question is how would you redesign sheet music?
+
+SUZANNE: I was brought up as a classical composer but sheet music is not my medium right now. I do know that sheet music has advanced over the ages. I was sitting in a subway recently next to a conductor who was studying a score on his iPad and able to make notes as he went through the pages right on the score.
+
+Even though I personally have not had experience with these new possibilities, I know that traditional music scoring has come into the digital era in a very important way. My work now with the Buchla is not in any way traditional and my scoring techniques or what I use to enable somebody else to perhaps recreate my composition on the Buchla is more of a documentation where I list the sequence is used, I list the patch diagram, I list the movements that I make in a performance in order to facilitate the composition.
+
+It's a completely different world. I feel fortunate that I have lived in both of these worlds, that I grew up in a classical world and that then I transitioned into a digital world, because it does give me some perspective on that.
+
+DEVON: Help me imagine what the documentation looks like for your Buchla music and your Buchla compositions.
+
+SUZANNE: Well, as a matter of fact, I have a paper that I wrote in 1976 that I called The Buchla cookbook that documents my early practice in performing the Buchla. This was to satisfy a grant that I got from the national endowment and it is available on my website. It's quite interesting and I have used it myself. When I came back to performing on the Buchla, I consulted that paper.
+
+What it does, it outlines the raw materials that are used in the performance. First, it gives you the tone rows for the sequencer. Then it gives you the patch diagram. Then it gives you examples of moving from one circumstance to another, performance actions. This is very typical of how you communicate music. That's called a report to the national endowment for the Buchla cookbook. It is on my website and you can look at it. It's a 40 page paper because technology is such a fluid world.
+
+Nothing stays quite the same. And so the chance of having from year to year, even the same tools, change constantly. You're chasing a moving target when you're trying to describe an electronic music performance. The modules can change. The actual hardware changes. In the short run, recently I was working at Berkeley college of music where I'd go a couple of times a year to work in their music technology department.
+
+I'm called a scholar of electronic music there. We were developing a concert for Buchla and orchestra. We created a scoring system and that involved a lot of detail. Some of the processing was in an app on the iPad, say for the H9s, the reverb or the various delays or whatever you want to use, flanging on this processor.
+
+Then we could take photos of the patch and a photo of the Buchla and also list. It's really a Herculean task to think that this composition can be reproduced. But in fact, if you follow the detail, you can get most of the way there. Live performance is also... It's not like a piano piece where you are recreating a given set definition of the composition, the notes.
+
+It is a little bit more free form, it's like jazz. What would you do if you wanted to reproduce a jazz composition? You'd start really with the fundamentals, you'd start with what I call the raw materials and nowadays, we have tools like just recording. You could say, "And here is the recording of that jazz performance." And you have a document. Does that allow you to reduce it by performing yourself? Well, it certainly helps to get you there.
+
+DEVON: It's so interesting to hear how the Buchla is different from conventional instruments, because I think while certainly you could tune a guitar in a different way and therefore change the whole instruments or you could even remove some strings or there's 12 string guitars and so on. Typically, people think of a guitar as a pretty stable instrument that you don't configure too much.
+
+Everyone who plays guitar roughly knows how to play the same type of guitar. It sounds like the Buchla is much more configurable and not just configurable, but it's like inherent in the instrument itself. For our listeners who may not know what a Buchla is, could you give a brief description of the instrument?
+
+SUZANNE: Well, Don Buchla from Berkeley, California was credited with having invented the first analog modular musical instrument in 1963. I met Don in the late '60s and went to work for him. The essence of this instrument is that it is voltage controllable. It is modular and that means that it is a collection of pieces that you assemble and each one has a specific function and capability.
+
+You'll have a module that is a filter, you'll have a module that is an oscillator, a white noise source. You'll have an envelope generator. You'll have a gate for processing the envelope or the amplitude of the sound. All of these special function modules you choose, you could have comb filters and the keyboard controllers, but not conventional keyboard. Let's just say that the Buchla club and Don Buchla envisioned a new performance instrument that did not use a traditional interface. A traditional interface was the keyboard, the black and white keyboard.
+
+That was used in, say, the Moog to make people more comfortable in relating to it as a musical instrument. But actually, attaching that kind of interface as I say, short circuited, the understanding of the machine completely. The essence of this machine is voltage control and a keyboard certainly does produce a voltage. But it is very limited in the sense that if you touch a key, you get one voltage or pitch. You might get one for a dynamic or whatever, but it's a very limited way of accessing the power of the machine, the potential power of the machine.
+
+Don Buchla was an expert at designing interfaces. From the beginning, he had a spatial interface. So the music was immersive, it was quadraphonic and this was done with voltage control. You didn't sit there and wave your finger in the air to do it, although you could. But you could integrate the movement of the sound with the actual generation of the sound.
+
+So it was rhythmically integrated and just married to the actual music. I am a devotee. I worked for Buchla in 1969. No, in 1970 was when I went to work for him. When I finished my master's degree at the University of California, Berkeley, I went and started soldering instruments at his industrial design studio at the waterfront in Oakland with my passion being to actually get one of these instruments.
+
+I feel so fortunate because I was really in this intimate contact with this brilliant inventor at the moment that he was crystallizing a vision for an electronic performance instrument, the 200. The 200 series. He also designed other interfaces. He had the Marimba Lumina which was modeled on a marimba interface. He had the Thunder and Lightning, which was modeled on light wands and the motion of light in space. So he was, I call him the Leonardo da Vinci of electronic music instrument design and we still have so much to learn from him.
+
+He's gone now. He died about five years ago, but his instruments do continue to be available for investigation, not easily, but they're there. I'm out pounding the pavement and performing all over the world to show how we did it in the '60s and '70s.
+
+DEVON: What were some of the insights that he had about instrument design and the interface that musicians used to play their instruments that he introduced to the scene with his innovations?
+
+SUZANNE: What he did was he started at the beginning, at ground zero. He said these machines have an inside and an outside. The inside is the mechanism that's going to produce the technology, the result. The outside is where the human comes in. What is the size of a human hand? How can I make an instrument that is both compact so that in fact it can be transported to perform live?
+
+Some of the early instruments were huge. They were stuck in studios. They couldn't be moved. Don thought, well for a performance instrument, I need to maximize that intersection of the human needs for dimension and the needs of a portable instrument. He just went really to the basics. When he designed a keyboard, it didn't have a physical depression because in electronics, that didn't make sense.
+
+You didn't need to strike a string. You were closing a switch closure. And so he designed a keyboard really that if you pick up your hand and just hold it in front of you, you'll see that it is at an angle. If you put both hands up in front of you, those fingers are not going straight out in front of you, they're kind of tilted in. That is the relaxed position of your hand. If you go to a piano keyboard, you're asked to make your hands straight on, to go into this straight interface.
+
+But in electronics, what he did was he took that position of the hand and designed a touch plate, a keyboard that doesn't look like a traditional keyboard and respects the natural position of the hand. He did this in all of his design.
+
+He said, "What does a performer need?" A performer needs to know what's going on inside the machine. A lot of the early instruments were just opaque. You didn't have any communication about... Maybe you'd get communication about what stage a sequencer was on, but it was very limited. Don's designs had hundreds of lights and each light communicated what was going on inside the instrument. What was the intensity of a voltage? When was something triggered? What was the speed of a sequence?
+
+All these things allowed the machine to come to light. It was like you knew what was going on inside. Therefore, your participation with the machine came alive. You didn't have questions about what was going on. You could interact live in the moment with the machine. That was very much a Don Buchla concept.
+
+I just say, don't take anything for when you're designing. Really, take the problem apart all the way to the beginning. Especially in technology, a lot of times we look at what the technology can do and we start there. If you're working with humans, that's not a good starting place. You need to start with the human and then design the technology around that. So some of the new electronic instruments, Eurorack, have a very diminutive size and I'm sad about that because it's very difficult to interact with those modules, because they're so dense and condensed.
+
+That's just one example of where your brain might take you if you don't go automatic pilot with what's being done already. Buchla didn't follow. He led. This is difficult to do because the market wants you to follow. It's hard to make a statement that is not popular right away. But I think that the job of designing now really is to respect total originality from the beginning. That's my speech.
+
+DEVON: What characterized the people who saw the value of Buchla from the beginning, even though it wasn't popular initially?
+
+SUZANNE: What happened really was that we just lost sight of voltage control. For instance, the Moog was used for Switched-On Bach and people started to think of the instruments as being about sound. Oh, it can sound like a flute. It can sound like whatever. They became obsessed with the quality of the tambour and then they weren't thinking in terms of unique, electronic control voltage, compositional techniques. So you had Switched-On Bach, which was a brilliant work, but again, it was a Barro composition.
+
+Then you had rock and roll people using electronics as just a... So a keyboard player could cut through the way a guitar player could. If you could make a sound like Keith Emerson on the keyboard that rivaled the awesome sound of an electric guitar, you could take center stage.
+
+But again, that was keyboard work. Everybody thought of the synthesizer as something that could synthesize other sounds, make copies of sounds or make new sounds. But in the mold of existing sounds. The other thought about electronic music in those early days was that it was otherworldly or alien or space. Space-like. It just was something extra terrestrial. And that also is very limited. The real power of those instruments could be found by just working with them. It's the most beautiful instrument because it's a feedback system.
+
+Don gave so many options and so much depth to the possibilities. You could connect it in so many ways. No two people would play that instrument alike. If you spent enough time with the instrument, you would discover how to interact with it and play it without bringing a preconceived idea of what it was, without coming to it saying, "Well, it's a keyboard instrument." All of that is fine.
+
+There were many interfaces made in my historic evolution. They made trumpet interfaces for electronics. They made guitar interfaces. Everybody had a way of adapting their early techniques, their traditional acoustic instrument techniques to access electronic sound. But none of those adaptations were focused on what I loved, which was the new world of electronic music composition via control voltages. Do you know what I'm talking about?
+
+DEVON: I think so. You're saying like the people had all of these ideas about what an instrument was. They said, "It sounds like a trumpet," or, "It sounds like a violin." Or something that they recognize. While the synthesizers could do that, they also had this much wider potential that was a brand new sound that you were able to bring to the table.
+
+SUZANNE: Yeah. Not exactly sound. What I always say, it wasn't about this sound. It was about the way the sound could move. With voltage control, you were outside the limitations of your physical body. Up until that time, people were trying to dazzle with their performances, "Look how fast I can play. Look how many... Look how loud I can play the drums. Look..." All of that dazzle, razzle, dazzle in the hands of an electronic instrument were moot as you said because I could make sounds move faster than a human could play them.
+
+And they could move around the room. It was just a whole other realm that instead of just depending on your physical limitations or the acoustic limitations of an instrument, suddenly you had an instrument that wasn't defined by its limitations and that was exciting.
+
+DEVON: That's fascinating. Yeah. This is a poor and loose analogy. I could imagine that back when people used travel agents as their primary way of scheduling travel, travel agents would be like, "I can respond to my clients within two minutes every single time."
+
+That would be incredibly impressive to respond to every email or phone call you got instantly. With travel agents, as soon as you end up having kayak.com or Google Flights or whatever, you have to wait for two minutes for the page to load. It's a qualitatively different thing. Now, of course this has a much more artistic aspect. How did that end up changing the things that you ended up composing?
+
+SUZANNE: I went passionately. I fell in love with that machine. And so even though I was classically trained, when I worked with Buchla, I stopped using any kind of piano interface, any kind of mechanical keyboard because I realized the danger that people would think of it as a keyboard instrument.
+
+That was the biggest danger to the understanding of Don Buchla's instrument. Even though he did make a mechanical keyboard at some time, it was never used as a piano keyboard. It had a lot of options. When I played the Buchla, I stopped playing the piano because I couldn't be in those two worlds simultaneously.
+
+I'm in the same place today. So for five years now, I've been performing on the Buchla, the 200E and I have not touched the piano. There's a kind of internal switch in me from the old days where the keyboard was the danger, it blocked the understanding. And even today, I distanced myself. I have a piano here, but I haven't played it in five years. And just prior to that, I was touring on piano.
+
+DEVON: What do you think would happen if you tried to mix and match and play the Buchla on Mondays and the piano on Tuesdays?
+
+SUZANNE: Well, I have been approached by... I met a wonderful pianist in France on my last tour and she's just magnificent and she's been performing some of my piano compositions and I'm thinking, it would be... She wants to work with me as an electronic person.
+
+I think that I will mix them, but not me. I'll give that piano department to somebody else and see what happens. Don Buchla's wife when he died was a pianist and she was also French and they did do some performances together where he would sit at his Buchla and she would be at the piano and he would maybe process her playing or trigger something.
+
+There are millions of ways of integrating the outside world into the Buchla, whatever that outside world is. It could be a piano, it could be anything. Once you're in the technological domain, the currency is very available. You need a trigger. You can be a dancer and trigger something on the floor and that'll play the music. There are all kinds of ways of interacting with the outside world.
+
+DEVON: Are there any particular performances that Don and his wife did that you would recommend we check out and possibly link to from the transcript?
+
+SUZANNE: Well, I would just see if you can find... I know there was one he did in San Francisco. There were a couple that were just brilliant. One of them was with the Marimba Lumina. This was also demonstrating the fact that even though the interface was a marimba, actual contact with the... What do they call that, that you hit in a marimba? A key was not essential.
+
+In this performance, a woman has a baby carriage and she walks off and on the stage and every time she walks on the stage, she puts a part of the marimba in her carriage and walks off with it. At the end, the marimba player is playing in the air. There's piece of gear there at all because it's all done electronically.
+
+Another piece. Don was so humorous. I was part of this piece. Anyway, we had these huge glasses that has staff paper, music paper on the lens. At a certain point, he started a popcorn maker and our instructions were that when the popcorn starts to leap out of the popcorn maker and crosses your staff paper and creates a visual note, you play that note. You see. It's completely absurd and charming, but really shows the openness of his creativity. He was unhinged from the expectations of integrating with what we already knew. He was definitely just original. He was original.
+
+DEVON: It's so fun to hear about how he's rethinking interfaces and what does it mean to make music as opposed to just making sounds or just playing with toys. I definitely remember when I was younger, learning various instruments. I very much took the instruments as a given, that this is what a guitar is. This is what a baritone is.
+
+Within that, there's a lot of creativity and there's a lot of different ways you could play a baritone, but I never really thought, "Well, could I have creativity at the level of the instrument itself?" It's really interesting to think about, what would it look like if I wanted to innovate on what a baritone looked like, how would I do that? How would I change the interface? How would that change the music that I ended up playing?
+
+SUZANNE: It's a really challenging exploration because when Buchla was dying and I thought, "Oh my gosh! What am I going to do? My inventor is going." Because these things are always morphing and changing. I thought, well, maybe I'll design a module that I need. Buchla had taught me that I could design just by designing the outside. Draw the knobs that you want, what it is you want to interact with, what do you need to control and then let the engineer design the inside.
+
+I do believe that this is very much a collaborative process. It is the marriage of an engineer with a performer. Not that they couldn't be the same person, but you're asking a lot. You don't design the airplane that you fly, but you have certain needs.
+
+DEVON: What are some of the modules that you designed and use?
+
+SUZANNE: Well, the one that I am most in love with is called the Multiple Arbitrary Function Generator, otherwise known as the MARF. And this was part of the 200 system and was not part of the 200E. I had developed, if you look at that Buchla cookbook that's on my website, you'll see that the MARF is an essential tool in controlling a performance live and it still is. So I needed a MARF.
+
+Here's the real crux of the thing. The needs of live performance are a specialized subgroup of all electronic music controls. When you're designing for live performance, you have a set of requirements that is completely separate from other uses of these instruments. Live performance is a special subcategory. So if you're using the instrument in your studio to record and you're over dubbing and you're doing this and that, that's not performance.
+
+Live performance is very demanding. For instance, instead of the MARF, what Buchla had was the DARF. The DARF was not the multiple, it was the dual. Dual Arbitrary Function Generator. And in my first comeback performance, which has been released in a quad vinyl called Buchla Concert... Well, I have the Buchla Concerts 1975, which documented the early performances with the 200.
+
+And then I had an album that came out about a few years ago, quad album for my 2016 performance with the 200E. After that concert, I realized what was missing. That my filters didn't have the control voltages that I had in the 200. That DARF, didn't allow me to octave switching the I could with the MARF. All of these real needs surfaced. I had a clone built of the 200 MARF and I had a clone built of the filter.
+
+There are still a lot of things I miss from the 200, but there's a lot of customization that goes into these because you really do need... Because you can. You can. If you need something, I need a special sequencer just for my spatial control. I wanted a sequencer just for the control voltages for my spatial movement.
+
+I had somebody build this tiny little sequencer with a slope function so that the movement could be very discreet or very continuous and other things. If you have ideas, but what I found was that it's really challenging to design these things. That's when I really tried to do it myself, I thought, "Oh my God! This is just not..." I worked with an engineer for a year.
+
+I thought I'll get what I need. It wasn't happening. Every engineer comes with their own history and you have to find an engineer who thinks like you or who has your experience or knows where you're coming from. I'm coming from a tradition of analog, modular instruments that goes back to the source with Don Buchla. It's really hard to find an engineer that has the familiarity with that, but I have found one. I did find one. Anyway, my job now is to redesign the MARF and the Buchla company says they want to call it the SCAF with my initials. I don't know.
+
+DEVON: I love these names.
+
+SUZANNE: So we'll see what happens.
+
+DEVON: The way you describe your Buchla. Reminds me more of how I feel about my text editor, where I write software than any of the instruments that I've played. As I mentioned before, with instruments, I often felt like I've been given this set of constraints and abilities and I get to play within that. Whereas with my text editor, I feel like I can make it mine.
+
+It's mine to the point where if other people go into my text editor, even if they're very skilled programmers, they don't really know how to use it because I've customized it to a point where they know any of the controls. It's really interesting to hear about a musical instrument.
+
+SUZANNE: Brilliant example.
+
+DEVON: Thank you. It makes me wonder what we are missing with more conventional instruments because people can't change them or at least not as easily.
+
+SUZANNE: One of the first things I learned in mathematics was that there's no such thing as a definition of infinity, that you can have an infinite number of numbers divisible by three and an infinite number of numbers divisible by nine. They're all infinite. So you can say one is bigger than another, gives you more options than another.
+
+But the fact is, it's all infinite. The piano is infinite. There's no limit to what we can discover within the framework of any closed system. I think that the trick with electronics is to define the closed system, to get a grip on how you function within this very open system and you create a frame. You have to have a framework in which to create. We're used to a lot of frameworks.
+
+We used that artists and photographers adopted a certain rectangular format or square format for their images. Now, we're dealing with something without any bounds. We create the bounds. I have an Oculus and I can go in there and get rid of all the edges of everything. Is that a higher level of frame? No, it's just different. You still have an infinite number of possibilities and a traditional frame. Infinite is infinite in all directions.
+
+DEVON: You're talking about sort of getting a grip of how open the instrument is with the Buchla. Is that something that you do on a per composition basis where each time you create a brand new framing of how you're going to approach the composition or is it something where at the beginning, when you first learn how to do it, you have to create a framing for yourself and then in the future, you operate within that?
+
+SUZANNE: Well, my frame now is based on my live performances. I have a very compact instrument. In the early days, I had a huge 200, but I couldn't have…  around the world in it. My sequencer was four panel units or more. My sequencer now is one panel unit.
+
+My system now is based on pretty much a set patch, which I alter in the process of performing. The other nice thing about the Buchla that I hadn't mentioned before is that besides the size of the panel unit and the accommodation of the size of the human hand, he has distinct patch cables and patch points.
+
+There's a lot of color coding. A red banana input is a trigger. A black banana input is a control voltage. An audio is not a banana. It's a mini connector. The patch cables are color-coded according to length. So if I need to grab a short cable, I know which one it is. It's a yellow one, or it's an orange one depending on how short I want it. All of these feedback systems are important to notice in the Buchla.
+
+DEVON: When you begin composing a new piece, how do you start? What is the seed that you start with and how do you cultivate it to grow from there?
+
+SUZANNE: Well, I'm a composer. I compose in a lot of different media. I compose for the orchestra. I compose for piano. I compose and I use other instruments. I think it depends on what type of composition you're making, how you do it.
+
+If I'm doing a piano composition, I could start with two notes. I did a piece, The Velocity of Love, and there were just two that triggered the whole thing. And then your job as a composer is to take that little seed, which you noted is a seed and to explore it and to trust it and to accept it and not to doubt it and to go with it where it wants to go.
+
+That's one process of composing. With the Buchla, as I say, it's really an organic process of spending time, sitting with the machine and before my first concert in New York, I sat with it for six weeks. I got to New York early. I worked with the machine 10 hours a day, immersed in the machine and it grows like an organic plant.
+
+You discover things. It's a relationship. So you need to spend time to get to know it. That's my approach to electronic composition, is to be with the instrument and to spend time with it and let it evolve.
+
+DEVON: Is it a process that you feel like you can just turn on and get into that head space and start working on it? You know that by the end, you'll end up with something that you think is beautiful or whatever emotion you're trying to capture? Or is it something where sometimes you feel it and you feel it calling you in a particular direction. And then sometimes, it's just not there and it's just not a good time to work on it, because you're not getting pulled in that direction.
+
+SUZANNE: At this stage of my life, I certainly have used inspiration by going to distant places. One of my formulas for writing was to escape my normal life, to travel, to shut off the phone, to shut off contact, to focus. It's all about focusing. It can be easier to focus if you get out of your day-to-day life that has so many demands.
+
+I am also because I've been a professional composer, I can write on demand. If you tell me, "I need to do something by three o'clock tomorrow." I do it. Inspiration. It's just a matter of doing it.
+
+So it comes from all directions. My inspiration on a fundamental level has been the sea, the ocean. I'm looking at it right now. That has been the metaphor for the rhythm and whatever that is, the spirit where I feel safe in that vast space, open space. That's a lot of my inspiration.
+
+A lot of my work now, because I'm so busy, is really done by myself just demanding it of myself. Just do it.
+
+DEVON: One of the contexts that you've worked in for a bit of your career was audio logos and background music for brands. I don't think I mentioned this at the beginning, but one of the most memorable things that you've made is Coke's classic pop and pour sound. Yes, I did drink several cans of Coke while preparing for this interview. I was inspired. That sound just makes you want to drink a Coke. I can't help myself.
+
+SUZANNE: That's my sound. You're so apt.
+
+DEVON: When you get hired to do something like that, what information do you need from the client in order to make a good sound or a piece of music that works well for what they're trying to achieve?
+
+SUZANNE: Well, in that particular case, this is interesting because they had a blank space. A lot of times I was hired to do things to picture. So there was a visual tip, a television commercial and there was a scoring element of marrying the sound or the music to the picture in whatever way that could be done.
+
+But in this case, the Coca-Cola was done in a kind of a vacuum. They didn't have a picture. Here are the questions I asked. They asked, "Can you make a sound in this space?" I said, "Yes." I said, "Do you want it just for this space or do you want to use it in other spaces?" In other words, "Am I making a sound that fits into this jingle that's in the key of the flat or do you want to be able to use it anywhere?" And they said, "Well, we don't know."
+
+I think to myself, well, if I can make them a sound that can be used any place, that's much better for me.
+
+DEVON: Because it'll get used more, you'll get paid more royalties presumably. And it's probably more helpful for them too. They don't have to find new music.
+
+SUZANNE: Right. Right. Instead of doing a little electronic melody in that space, I thought, "Well, what can I do that's musical, but not pitch-centered, not key-centered?" I thought of bubbles. I thought those were melodic. They can go up, but they're not key-centric.
+
+You can use those in any context, musically. That was part of the beginning of the evolution of that sound. First of all, the Buchla were things that you could do on the Buchla. It had a wonderful band pass filter.
+
+You could take a very low frequency and pick off the harmonics. That was a very musical gesture and it went up, so it had a certain dynamism. And then you had white noise, which was wonderful. To this day, I use the white noise. I can do a whole concert on white noise. That was also part of the sound. But that's just one and as it turns out, they did use it everywhere. But it wasn't an assignment where they said, "We want a logo sound that we can use in every place." My thinking was, "How can I maximize the usefulness of this sound?"
+
+I think as a sound designer, you need to ask all these questions of yourself. The people that you're dealing with often have a limited notion of what a sound could be or how they would use it. When I was doing this, computer graphics were just starting. They weren't even starting. The first graphics were motion graphics where they did these film frames and they used machines to advance the motion of something.
+
+Robert Abel was doing that. I worked with Robert Abel on designing. These graphics needed sound because they came out of the non-textualized space. They moved, but they moved in a vacuum and the sound needed to marry that visual, to give it a space to live in. It's still that way. You have a lot of visual logos and the sound is what defines space for those visuals. That's wonderful. Now, there's just such a huge need for sound design in this computer graphic world.
+
+DEVON: You've taken such an expansive view of what an electronic instrument can do. It feels like since the '70s, electronic music as a genre has narrowed quite a lot. Of course, there's still a lot of diversity, but I think when most people think about electronic music, they're imagining you go to a club, maybe you take some Molly and you dance all night long.
+
+That's very fun for a lot of people and there's nothing wrong with that. But it seems like it is a narrow view on what electronic music can be. Why do you think the pop definition of electronic music evolved in that way, leaving out so many other different sounds and styles?
+
+SUZANNE: One of the essential attributes of electronic music is that you can do it yourself. You can sit there and control the production, you can start from zero and build up something in your studio or I think a lot of this dance music started with DJs and those tools of using turntables and then adding the drum machines and building up.
+
+All of that is a use of electronics. Sadly, even the Grammys now, they don't know where to put it. Their definition of electronic music really is dance music. Yes, that's a huge market, but it obscures the whole domain of electronic music. One of the things that I loved about electronic music in the beginning was the pure poetry of it. The idea that you were making a sound that could connote an idea. It didn't exist maybe in the real world, but it represented an idea or a feeling. It was free to be experienced and defined in a new way.
+
+I think the kids now, thank goodness for the kids, because they put the brakes on the whole technology thing. They said, "Wait a minute. We're not just going to go marching blindly forward in this promise of digital Nirvana. Let's stop and let's go back." It's because they stopped and they went back to looking at analog instruments. That's amazing because when the analog instruments were invented, we never got there.
+
+Quadraphonic sound never really happened. Analog, modular performance never really happened. Now, we're looking at that. We're looking backwards and we're rediscovering what was there. This is the promise of going forward in a new way. We're not there yet, but the kids are doing it. Even if that means everything has to be in vinyl which is very hard on me because I play quadraphonic and doing a quad vinyl is not easy. I just released a quad vinyl and it was a performance in Geneva.
+
+It's a lot of work to do a quad vinyl, but the kids want vinyl.
+
+DEVON: Why is it difficult?
+
+SUZANNE: It's actually an old system because in the '70s there weren't coding and decoding systems for quadraphonic. How you make a quad vinyl is that you encode it. In the old days, there was an SQ and a QS. These were systems for making quadraphonic. And then on the other end, you decode it. Now, I can make a stereo compatible, quadraphonic recording or LP, so you can play it as a stereo. But if you decode it, it will come out in quad which is what I want.
+
+I also have to download digital for aisles in very high quality that you can get and also play those in quadraphonic.
+
+As I say, there seems to be this passion for vinyl. The challenge is doing the quad vinyl. Doing a quad digital is not that difficult. You just have to download the quad files.
+
+DEVON: What is the physical experience of using the Buchla like?
+
+SUZANNE: It's alive. I think the performance experience is what I care about the most. And that's what I'm promoting, live performance. Whether it's because of the way the instrument is designed or how you compose for it. I'm in the domain of live performance. So playing is... It's exciting because you... It's not like a lot of tech performances became so kind of abstracted. Somebody would sit at their computer and hit play and a digital file would play and that was a performance and you'd see the eyeballs over the MacBook.
+
+That was like, "Oh no. It's so boring." But the thing about the Buchla is that it's a living instrument. It gives back and it's dangerous. It's exciting when you play... It's immersive. You're in the middle of all this sound and you're controlling it live and it's challenging, keeps you on your toes. There are good performances and bad performances.
+
+Fortunately the machine has been working for the most part. I had one problem on my last tour where the tuning didn't work. And I thought, "Oh my God." There's always a plan B. If your tuning doesn't work, as I say, you can do a whole concert on white noise and percussive sounds and that morphing from an ocean to a jet plane or whatever it is. All these percussive and expansive sounds that are in the white noise family.
+
+DEVON: That's so interesting. Yeah. You were talking before about how conventional instruments are defined by physical constraints. There's only so fast you can play a piano. At some point, there's like an inhuman speed that's not possible.
+
+The Buchla lacks that, but what it doesn't lack that conventional instruments have is that it's very high stakes. If it breaks in the middle or it is possible to... Mistakes is not the right word, because that's not a very jazzy framing of it. But it can go in a way that you didn't expect it to go or you didn't want it to go and you have to just live as opposed to if you play more conventional electronic music, you press play, there's not that much that can go wrong unless the speakers blow out or something like that.
+
+SUZANNE: Right, right. It's dangerous and it's alive and it's imperfect. It keeps you on your feet. I know that digitally, electronically, you can make perfection. You can say, "I want my pitches to be perfect." In the system that I play, that's not the case.
+
+My tuning can take hours. I once studied Indian music and to tune a Sitar takes 10 years. You can't even tune it. I don't think that having everything in perfection mode is the way to go.
+
+Even Buchla himself complained about the dual arbitrary function generator, because I couldn't tune it, because it was not linear. This is a complex discussion, but I brought it over to him and I said, "Look, I can get one octave in the middle." I said, "It won't tune." And he said, "Do something else."
+
+DEVON: Tough luck.
+
+SUZANNE: Right. How dare you bring your preconceived notions of what this machine should be doing to the machine. But I do think it's a dance. It is a dance. You want the machine to do certain things and you want to do what the machine wants to do. It is a dance and you have to find that, as I say, relationship.
+
+DEVON: I'm going to ask you just one last question before we sign off. What's something that you haven't seen someone try yet with electronic music, but you would be really interested and excited to see the results?
+
+SUZANNE: One of the problems with traditional symphonic venues, of course, is that they don't accommodate spatial sound. But I have performed in conventional theaters like the Barbican and I even played at perfect places, Royal Albert Hall in London, this beautiful oval-shaped theater.
+
+But I think we need to bring this possibility to the spatial sound into the more conventional venues and then what we really need to do is design new approaches to our concert halls so that we can have these.
+
+I tried to get Avery Fisher Hall in New York redesigned with accommodating spatial electronic sound. That was in the '70s. It didn't happen. They've redesigned it again. I don't think that the classical music world is aware yet of what's coming and what they need to prepare for. A lot of it has to do with the architecture of the spaces.
+
+Also, I think we need to be careful about overstating the issue. There's a lot of talk now in spatial music about the number of speakers and I have 100 speakers, I had 50 speakers, I had... What we're talking about is a kind of a generic that can be up-scaled and down-scaled. I can play in quadraphonic and control my space and it can be easily whatever up routed to 60 speakers or a 100 speakers.
+
+We want to make the problem defined in a fundamental way so we don't get sidetracked, making hugely elaborate statements that don't adapt to the needs. If I'm doing a world's fair and I want them to have 200 speakers or whatever, all that's wonderful, but what we need is concert halls that can adapt to spatial sound in a very elastic way.
+
+DEVON: That makes a ton of sense. The concert hall is as much a part of the instrument as the Buchla itself.
+
+SUZANNE: Yeah.
+
+DEVON: It's ultimately what holds the sound and reverberates. That makes a lot of sense.
+
+SUZANNE: Yeah. Maybe someday, it'll all be done with headphones. I don't know. But I don't think we have to have just one choice.
+
+DEVON: Thank you so much, Suzanne. This was a really fun conversation.
+
+SUZANNE: Thank you, Devon. I really enjoyed it.
+
+Brought to you by Devon Zuegel
+
+Devon is a software engineer and writer based out of San Francisco.
+
+Edited by Molly Mielke
+
+Audio by The Land Films
+
+Illustrations by Roman Muradov

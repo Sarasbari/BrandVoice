@@ -1,0 +1,543 @@
+Title: Danielle Baskin gives words to her many wondrous worlds
+Published Date: 2022-01-04T00:00-08:00
+URL: https://www.notion.so/blog/danielle-baskin
+
+Danielle Baskin is a product designer, situation designer, visual artist, and the founder of numerous small businesses such as Branded Fruit, the first company to print logos on avocados and clementines, Dialup, a voice-based social network that connects friends serendipitously in phone calls, Maskalike, a service that prints your own face realistically on your mask, and many others. She has been featured in The New York Times, Mashable, Vice, Fast Company, Business Insider, Engadget, The Verge, CNET, Oprah, MacWorld, and many others. In her free time she enjoys playing video games, creating Internet pranks, exploring abandoned buildings, and talking on the phone, a lot.
+
+DEVON: Hello, I'm Devon and you're listening to Tools & Craft. Today, I'm talking with Danielle Baskin. Danielle is hard to sum up in one title, which is one of the reasons I'm so excited to have her on the show. She builds companies as performance art, and also runs them as effective businesses. She runs weird events like a conference that takes place while waiting in lines. She runs factories to make things like branded fruit and painted helmets and so much more.
+
+She also co founded Dialup, a voice-based social network that connects friends serendipitously in phone calls. The best title I've been able to come up with to describe the work that she does is situation designer. And after this conversation, you'll be able to decide for yourself if it fits. So, Danielle, thank you so much for taking the time to chat.
+
+DANIELLE: Thanks for having me. I like the phrase, situation designer.
+
+DEVON: A lot of the things that you've built bridges the gap between the digital and the physical. For example, your face ID masks company, which I didn't even mention in the intro, where you can order a respirator mask with your face printed on it, or your branded fruit company that puts logos on fruit.
+
+And I have to admit that I've personally always been pretty intimidated by the prospect of moving from bits to atoms. I've always done software and not "real engineering, real manufacturing." I don't think that outlook is super rare in the software world. So, I'm curious, what aspects of working with atoms would surprise people like me who've worked primarily with bits?
+
+DANIELLE: When I do work with atoms, I think about how that also translates to the digital world. I think actually, a reason why I started a branded fruit company is because I noticed so many people took pictures of it, and then put it on the internet. Like, "Oh, that's a really good swag. It's an avocado that people are photographing. Normally, people don't photograph an avocado."
+
+I think making things with the material world, often it's fine crafts with my hands. It's always been a part of my toolkit, which includes digital stuff, but I always think like ... I have drawers of different types of superglue, and just plastic components, and I save pieces of metal. I just think about physical stuff as something I could do.
+
+DEVON: I think I've heard in some of the other interviews that you got into this stuff because you were a prop designer for real.
+
+DANIELLE: Yes. Totally. I worked on film sets and in theater, on making props. Also, I was a set designer's assistant. And the woman I worked for, before she became a theater set designer, she actually worked in an automobile factory. She had this really intense work ethic to churn out things really quickly with your hands.
+
+I started working for her when I was 20 in this little studio. I think my first day, we had to make a garden of flowers out of old records that we put in an oven and melt it. But we do make tons of them for the effect to work.
+
+Also, theater pieces and films that I worked on, a lot of it was really low budget. If I was working on a sci-fi play, I'd have to wander around the streets and find discarded printers and then smash them open and take out those circuit boards to create a wall of circuit boards. But I think because it was really intense, and I had very real deadlines and low budgets, I had to figure out how to make things as fast as possible and as cheap as possible with my hands. And I did that for many years before I left.
+
+DEVON: I sometimes wonder if constraints actually make things a lot better even if it's more painful at the time. One of the things that I always compare Disneyland to is Disneyland compared to Disney World. Disneyland was made on a relatively small budget when they didn't even know if it was a good idea. And then Disney World is this huge park with way more land. This might start flame wars, but I think Disneyland is way more charming than Disney World. Do you feel like you do your best work when you have constraints? Or is that sort of overly romanticized and no, you would prefer to just have infinite money?
+
+DANIELLE: It depends on the project. It's also hard to answer because I don't know what it would be like to not have constraints. It depends. I mean, for some things, I needed $500 to get started, because I thought that was the cheapest way I could do it. I think, for sure, deciding not to purchase anything new and seeing what I have at home leaves me to make things in a different way.
+
+It's also a fun puzzle to just figure out how to do things without having unlimited resources, but it is project dependent. Some things you can't do if you are manufacturing 20,000 units of something. You need to have some upfront. You need money initially to fund that. If you're making prototypes, you sometimes don't need anything.
+
+DEVON: Do you have any principles or frameworks you use when you think about, "Okay, how do I do this thing on a shoestring budget?" Or is it more of just looking around and seeing what you have?
+
+DANIELLE: It's definitely looking around and seeing what I have, then making a prototype and then taking it from there. What do I need next now that I know what it looks like? Because a lot of times, I imagine something different in my head, and I sort of visualize what it would look like. And I go and make it and it doesn't work.
+
+When I was working on my masks, my earliest prototypes were pretty terrible. And I got all kinds of fabrics to print on and just tried so many different techniques. But each time I made a prototype, I learned I had to purchase more things for the next version, but I did it very incrementally.
+
+DEVON: How does building a product change when you go from just needing to build a prototype to having to turn it into a process that an assembly line can build?
+
+DANIELLE: A lot of it is improvised. I sort of tried to break down the thing I did into repeated steps, and then figure out, "Oh, well, if one person just does this one thing, then it would make the whole process faster." When I had to make these batteries that looked like Poké balls, I made around 50 by myself, but I had to make 2,000 of them.
+
+I remember, I had to find these long tables and then set up stations. And I was so nervous because I had 11 employees coming the next day. The night before, I was trying to figure out, "Okay, what are all the differences ... I guess one person should just be putting on the key chain. One person should just be cleaning these. One person should just be gluing the batteries."
+
+But once I do in general flow of the assembly line, and then I can observe where there's bottlenecks and see, "Oh, this is a two-person role." Or I could see like, "Oh, it would actually make sense if this person was at a different part of the table, or if they had a better storage system." There's tweaking, but usually it's just me running through all the parts myself first before people come over.
+
+DEVON: One thing I noticed when I've hired people in the past to do something that I was previously doing is there's so many things that you don't think to write down or you don't think to mention, because it's just second nature. Is that an issue in physical work too, I would imagine?
+
+DANIELLE: Yeah. I mean, for my branded fruit assembly line, someone was burning the fruit, but I didn't realize it. I just wasn't watching her closely. There's a heating element involved. I just didn't tell her, "Oh, don't like to put this thing too close to the skin of the fruit." Not overly managerial. Is that a word? But I sometimes train someone and then watch them do it once and they're like, "Oh, great," and then walk away, but I don't monitor too closely. Sometimes, 100 units can get messed up because I totally overlooked saying this one thing.
+
+DEVON: I could imagine that also resulting in some innovation where maybe they figure out an even better way than what you had imagined.
+
+DANIELLE: I'm always afraid of something that I think, "I can do this so well." I feel nervous to give that job to someone else, but then I do notice like, "Oh, this person is doing it in a new way. That's so awesome." But there's definitely, yeah, this fear at the beginning like, "Oh, no, what if they can't replicate this?" But then watching people just do their own thing. That's pretty cool and physical stuff. Usually, each person has their own weird way of doing it, especially if it's repetitive. You sort of develop your own motor skills around it.
+
+DEVON: Who are the people who work in the assembly lines that you run in San Francisco and I believe in New York as well?
+
+DANIELLE: When I lived in New York, I sometimes said a few assistants, but I didn't start making things. I mean, I think when I moved to San Francisco, I started making way more objects. Being on an assembly line or at least the way I run it, I think it's very social, especially if you're sitting around a table, doing something repetitive with your hands. You're just going to be chatting with each other.
+
+For branded fruit, I think I worked with 25 different people that I was responsible for scheduling. So, I try to bring people that I observed were better friends with each other. A lot of it is friends of friends of friends. I just email everyone I know and say, "Hey, do you know anyone that wants to hop on this job? And it's different hours every week." Sometimes, I have found people. It's mostly that.
+
+I guess occasionally, I've posted on Craigslist. But yeah, the people that work on my assembly line, there is an 85-year-old who played the flute during breaks. That was delightful. All different people. Some people that are in between jobs and just want something super part-time but then some people who are juggling lots of gigs. People that live all over the Bay Area.
+
+I have loved observing the friendships that develop on the assembly line. The conversations get very deep and very emotional. I think it's because they're not making eye contact. They could be comfortable with silence too, because they have this goal, but they're doing this thing with their hands. It's like art therapy.
+
+DEVON: Yeah, it sounds like a lot of fun. I would really like to actually do something like that with my friends. I feel like when I recently moved, my boyfriend and I were putting together a lot. That was a really satisfying activity. Initially, I was thinking, "Oh, maybe I should hire someone to do some of these." I did that for the bulkier items where I would actually hurt my back, because I'm a small person. But with all the other ones, I actively enjoyed doing it, and I would look forward to that part of my day every day where I got to put together a stool or something.
+
+DANIELLE: I think it's fun if you know that it's just like a temporary thing. When I was running my fruit factory, I actually had a long wait list of people who wanted to work on it. Word got out that the assembly line was fun.
+
+DEVON: And you paid them as well, right?
+
+DANIELLE: Yeah, of course, I paid everyone. But actually, people did reach out and they're like, "Hey, I just want to come see what it's like. You don't have to pay me. Let me work on the assembly line." I'd say, "No, you can't be a tourist. You can't be an assembly tourist. If you want to come and work for fun, then you have to buy us lunch." I don't know, it's just a weird dynamic if some people need the money, and some people are doing it just for recreation. It just feels really weird to me. So, if they want to be a recreational assembly line worker, they have to pay us for the entertainment.
+
+DANIELLE: Yeah. I think if you know it's temporary, the Pokeball assembly line I ran was so much fun, because it only lasted two weeks, and we all knew that. But if you knew that this repetitive task that you're doing with your hands is going to be the next few years, I think that's kind of draining.
+
+DEVON: Yeah, that makes sense. I mean, if it's totally repetitive, and if it's many hours a day as opposed to one hour in the afternoon for two weeks, it's a very different thing. Yeah.
+
+DANIELLE: Yeah. I tried to shake things up for people, give them different tasks if they weren't coming in every day. Like giving them a new thing. Sometimes, instead of us all hanging out, we would listen to a podcast. And then I would also change up the people that shuffle around the assembly line folks so that they'd meet new people, because that also shakes up your day.
+
+DEVON: You've also gone to visit some factories in Shenzhen. I'm curious, how is the physical space in those factories organized?
+
+DANIELLE: I had a conception before I ever went there that I thought it would just be these white rooms with conveyor belts and people in suits. I guess I had an image that it was the media covers of Apple factories. But the factories I visited, a lot of them were so kludge together, these sheds and garages. Sometimes the different parts were in different buildings because the operation was growing gradually, but they couldn't rent out the place next door, so they had to rent something a block away.
+
+Just so much flavor. Like art on the walls, and cats, and there aren't uniforms necessarily. A lot of people are just chatting. Very intricate social dynamics. People at the factory are friends and prefer to sit at a different table. Yeah, it was very different from my previous conception and reminded me of my own operations, just seeing how things were sort of hacked together.
+
+And there are a lot of things that surprised me that weren't automated. I was manufacturing bicycle helmets. I went to a factory that actually makes helmets for major brands. I can't say which ones, but helmets that you would see in a store. They were made at this factory. There was this floor where they were ... Helmets had vent holes. There was this long table and everyone had a razor blade taped up to their thumb, and they were cutting out the vent holes by moving their wrist in a swoopy motion. It was like a dance, but I thought that would be cut out through machines. But a lot of the helmets you get at Target, someone hand cut the vent holes.
+
+DEVON: That's really impressive, because I'm imagining they're very circular as well.
+
+DANIELLE: Yeah. I mean, it's a thinner plastic, so it pops out more easily because it's a vacuum formed thing. There's nothing behind it, so it does pop out. It is like a divot. I asked if they had any automated way to do it, and they had one machine, but it was so much slower than a person doing it, and the machine itself was expensive, and you'd have to program it.
+
+With a person, you could have them be working on multiple helmet shapes. If it's a robot, you'd have to recalibrate. Someone has to put each helmet on the robot. Oh, there's a lot of operations where it is easier to do this with people. Of course, that could change if robots become more dexterous, but then the cost of them is really high too. Yeah. That was so surprising to me.
+
+DEVON: Was there anything that was automated that you expected to not be automated?
+
+DANIELLE: I mean, there were a lot of things that I suspected were automated, but I didn't know exactly how. I went to a factory when I was researching ways that I could print on fruit. I flew to Shenzhen and I went to a factory that printed the eyes on dolls' heads. I just had no idea how that was done. I thought, "Oh, maybe a person will paint them." Which is probably true at some factories. Barbie's eyes all have this ... How do you print on a curved surface?
+
+I saw the whole conveyor belt with this tiny balloon that's dipped in ink, and then pushed onto the plastic. I just thought it was very mesmerizing, but I just thought, "Well, I have never considered how eyes are put on dolls' heads."
+
+DEVON: I think it's a Twitter account and probably an Instagram account and that sort of thing too called ...
+
+DANIELLE: MachinePix?
+
+DEVON: Yeah, MachinePix. From talking to you, I sense that MachinePix is maybe a little misleading. I believe that all of the videos they share are real, but it sounds like they're really a subset of what manufacturing looks like.
+
+DANIELLE: Yeah, I know a lot of those. I love that Twitter account. A lot of those machines are at factories, but also mixed with human labor. And a lot of the machines require that someone continuously loads them.
+
+DEVON: It's pretty interesting, though, that I feel ... I don't know if I can point to those videos that actually have people in them, or at least people are not.
+
+DANIELLE: Yeah. It's usually hand. Maybe hands, but it's mostly just machines.
+
+DEVON: I get the sense that there's just this machine, a building that is basically a giant machine and it just goes down the path and there's no people who touch it, or to do ... You're just watching it or something.
+
+DANIELLE: I mean for some items, yes. If you hang out on Alibaba and look up types of machines, you can see machines that are the size of a room. Yeah, it requires some loading at the front, but then it comes out cereal.
+
+I actually watched a lot of videos of ... I was really interested in mass production earlier last year. I saw a lot of videos on how surgical masks are made. But I would say, each factory is totally different. When I went to look at helmet factories, each one had their own different process, they had different machines, they were different sizes.
+
+Some factories are 150 people, some are 450 people. If you're ordering surgical masks from China, some will come from factories with machines that are fully automated. Some will come from factories where a person is using an ultrasonic press, putting each mask into it and fusing the elastic with their hand. It's the same with any company. You're going to have tiny companies and large companies that are sort of doing the same thing, but have different resources.
+
+DEVON: What are the sorts of differences in resources that drive that diversity?
+
+DANIELLE: I think it is how much business they have, how much money they have. A lot of the factories call the person who runs it just the boss, which I thought was so weird. People would interview like, "Oh, I will introduce you to the boss," which is always some man.
+
+I talked to one boss at a helmet factory. And he started out as a worker on another factory and slowly saved up money to start his own but started as a super tiny operation and then just gradually kept reinvesting in more space, more employees.
+
+If you're running a factory in Shenzhen, you also are paying for lodging and food for your employees. People live there. It's a campus, which is actually so different than anything in this country. Yeah. You try to get repeat business from larger clients, and then take that money and scale your operation and just keep doing it gradually.
+
+DEVON: Yeah, it makes me wonder about big brands that are often seen as easy replacements for each other, like Uber and Lyft, or Pepsi and Coke where you think that they're probably very similar on the inside, but actually, the way they run is probably radically different from each other, and similar in some ways, but the way they triage support requests or something could just be really very different.
+
+DANIELLE: Yeah, maybe. It's also possible that they're getting their cans from the same place.
+
+DEVON: True.
+
+DANIELLE: Yeah. At any factory, you're going to see that they're making things for multiple companies, sometimes competing companies. Also, usually, companies source their stuff for many factories in case one mysteriously shuts down.
+
+DEVON: Right. So, you don't have the supply chain problems we were seeing in March of 2020.
+
+DANIELLE: Yes.
+
+DEVON: Yeah. Beyond these assembly lines, where do you do your work?
+
+DANIELLE: I haven't done so many assembly lines since the pandemic, but actually, I had a rented space for my fruit factory in San Francisco. I actually really wanted to take advantage of having that space. The building was demolished, but I was in an art studio.
+
+Because I had this long wait list to be on the assembly line, I actually did want to run sort of an assembly line immersive theater event out of the space, but couldn't do it because of the pandemic. But now, I just make things in my home space. I've got a lot of machines around. I have my fruit printer. I have a nine foot fabric printer, vacuum former, an air compressor. I've got a lot of machines.
+
+DEVON: When do you decide to buy a machine? Is it when you first have the idea, or is it after you've done it by hand 10 times? What's the trigger point where you go, "Okay, I'm going to invest in buying a machine?"
+
+DANIELLE: Well, I have Craigslist alerts if I find a good deal on a machine. I've always wanted a vacuum former and even bought components to make my own, but then I had a Craigslist alert and found someone getting rid of their vacuum former for $50.
+
+DEVON: What is a vacuum former?
+
+DANIELLE: A vacuum former, it's basically a way to make plastic molds of an object. If you put an object in it, it heats up thin layer of plastic, and then you push the plastic down onto the object, but a vacuum sucks the air out of it. So, it creates a very detailed mold of that thing. And then you can fill it so you can fill the negative space and then make a replica. So, imagine a chocolate mold or a soap mold but a little larger.
+
+DEVON: Oh, man. Now you're making me hungry.
+
+DANIELLE: I could make a lot of chocolate molds. I haven't. I tried to make a jello mold out of this, which I tried to make some jello tools.
+
+DEVON: Correct me if I say ... This makes things where plastic has a really smooth, usually round, some sort of rounded shape. What are other examples?
+
+DANIELLE: It could be a square shape. I mean, it's super thin plastic, so it picks up details. The size of my machine is only 10x12. Ideally, I would want a 24x24 one, so I could vacuum form shells on helmets. That's what I wanted it for. But yeah, it creates a mold of anything. You could stick your phone in there, and then it would create a mold of your phone.
+
+DEVON: Would it ruin your phone?
+
+DANIELLE: Actually, yeah, I wouldn't put my phone down. I've got an old phone in there. It's super hot. It's like hot molten plastic.
+
+DEVON: I was like, "Am I imagining this wrong?"
+
+DANIELLE: I mean, It probably wouldn't, but I don't want to risk it.
+
+DEVON: Yeah, it seems like a risk for sure.
+
+DANIELLE: Yeah. I don't buy machines unless I have a purpose for them. I've never bought a 3D printer because I've never felt I needed one for anything. I would love a laser cutter though or CNC, but-
+
+DEVON: Have you used one elsewhere?
+
+DANIELLE: I used to go to Noisebridge, which is a hackerspace in San Francisco that is just open to the public, and they have a pretty broken laser cutter there that always takes hours to use. I have used that one. I use that for cutting out my acrylic and wood to make physical clouds.
+
+DEVON: Can you explain to the audience what the physical clouds are?
+
+DANIELLE: It is an optical illusion that's made of planes of acrylic. And when you look at it, imagine 10 planes of acrylic, but each one has this part sanded out. It's kind of fuzzy in the middle. When all of these are stacked, it's the illusion of a floating cloud, if that makes sense. You can look it up. I think my company is physical.cloud.
+
+DEVON: I like that you have so many companies that you're not entirely sure what it's all called.
+
+DANIELLE: I forgot the domain. I have so many domain names, I forgot. Yeah. You can also slide things in it, so it's Cloud Storage. I made this joke in 2015 when cloud storage was in the zeitgeist. It's kind of just normal now.
+
+DEVON: They actually look really good too. I remember when I looked at a picture of these, I was like, "Wow, they're actually really very pretty." It's not just a joke. You know what I mean?
+
+DANIELLE: Yeah. They're cool sculptures. The way that the light hits them, they form really cool reflections and shadows. When I was making lots of them, I always had a stack of clouds in my room. I thought it was really beautiful when the sun was setting on the clouds,
+
+DEVON: How do you shape your physical and digital environment to make your work more effective, more creative, more fun?
+
+DANIELLE: Well, I guess regarding my physical environment, it's definitely investing in tools, so things are faster. I used to have a tiny die cutter, a Silhouette Cameo, which is a popular desktop die cutter. But I invested in a fancy Graphtec, so I could cut stickers, vinyl, or even automated drawings very quickly.
+
+When things have less bandwidth to create, I feel more creative. When I know, "Oh, I don't have to babysit this thing for hours," then I'm more inspired to actually do it. Same I guess that also translates to the digital world. I use a lot of automation tools. Actually, I love using Zapier for any website I set up. I have forms triggering things. Or if you call a phone number, that's related to one of my stunts. I get a notification or it automates an email. I just have a lot of automations in place, especially things going into spreadsheets. So, I just don't have to do so many repetitive tasks, which makes me more excited about launching stuff.
+
+DEVON: Yeah, just less of a slog for each one.
+
+DANIELLE: Yeah. And for making landing pages. Instead of spending hours tweaking CSS, I mostly use Carrd, which is a web page builder. Of course, you do have to put in code snippets and stuff, but I don't have to worry about margins and font sizes.
+
+DEVON: What are some tools that you use that you don't see other people using as much?
+
+DANIELLE: I don't know anyone who has a nine foot printer at home. I actually was a beta tester for HP, this is why I have this printer, but it's around nine feet. I use it all the time, and that is a superpower, and I feel so lucky that I have one of these. That's no great answer, because no one listening can easily go get one of these machines.
+
+I don't have this anymore, because I upgraded my die cutter, but I think having a tiny desktop die cutter at home to make your own stickers, logos, signage, all that stuff actually makes your work have so much more professionalism, and it's just super useful. If you want to put a sign on your door, or prank a friend, or suddenly design a T-shirt, or just make a few experimental stickers, but you just want 10 and you don't want to order a few 100 of them online. It's a super useful desktop tool. I think a lot of people don't know that they can find one on Craigslist.
+
+DEVON: How much do they usually cost?
+
+DANIELLE: I think a new one is around $150, but you could find used ones for 80 or 90. When I first got them, they were sort of new. I got my first one I think in 2011. At this point because they're 10 years old, you could find a used one and they still are compatible with new computers.
+
+DEVON: That's a lot cheaper than I would have predicted. That's a good way to point.
+
+DANIELLE: Yeah. I mean, they're slow and tiny. That's why I updated mine to a Graphtec, but they're pretty useful for making logos and stuff.
+
+DEVON: When you're buying a new machine or tool that you've never had before, how do you decide how nice of an expensive one to buy? Do you go for the cheapest ones, you can test it out? Or do you go for the most expensive ones so that you actually use it and it actually works?
+
+DANIELLE: I think I usually go for the cheapest one, unless it's integral to ... If I'm using the thing just to play with, I would go for the cheapest thing. If it's integral to my business, I would get the fancier thing. Even for purchasing media for my printer, I would buy cheaper fabrics at first and cheaper papers at first until I know what I want to keep replicating and then I get a fancier thing. I usually don't start with a fancy thing.
+
+DEVON: Yeah, that makes sense. I sometimes wonder if someone goes to Noisebridge, and uses the semi-broken laser cutter, and that's their first experience with a laser cutter, then they might think, "Oh, these things are no fun, or don't really do what I want them to do."
+
+DANIELLE: That's true.
+
+DEVON: Have you ever had that experience with the cheaper version? Or it just doesn't work, and you think, "Oh, I don't actually like this?" But actually, you would have loved it if you had gotten a fancy one.
+
+DANIELLE: Yeah. I'm experiencing that right now. I actually run my printer on Windows 7. I have a really old PC laptop, because someone just gave it to me for free. I could spend a few $100, or actually probably even less and get a nicer laptop, because this one is so slow. It takes me forever to load images and use the internet.
+
+I should upgrade it, but I also sometimes just get used to things until I experience the nicer version. I'm like, "Oh, why aren't I doing that?" I have experienced that with my bicycle as well. I used to have a really terrible bike, but it was just super heavy, it was from the 1970s. I once tried a nicer bike. I was like, "Why was I on that thing?"
+
+I don't know, it's hard to realize that your process is inefficient, unless you jump into something nicer with any sort of technology. You can get so used to things being, "Oh, that's just how it is." I think what motivates me to research other things if it becomes a very serious bottleneck, or just by luck stumbling into something that's nicer. I didn't know about this Graphtec cutter until I saw it somewhere else.
+
+DEVON: I had a similar experience with a suitcase where I think I had the same suitcase since I was seven or something like that. And then it literally fell apart, so I couldn't use it anymore two years, three years ago before COVID. And I bought a new one, I realized, "Wait, the wheels could not make noise. Wow, it can have multiple zippers. Wow, this is really amazing."
+
+DANIELLE: Totally. Yeah. You didn't seek that out, because that was just your suitcase, and that's what your life is like.
+
+DEVON: Yeah. Just didn't even cross my mind that this could be better. I do find that sometimes I have the opposite pathology, though, where I'm constantly keeping an eye out for new tools that could make me more effective, or more happy, or more efficient, or whatever. But then you can spend so much time looking for tools that you don't actually use them, and you're not doing the goals.
+
+DANIELLE: That's true. Yeah.
+
+DEVON: It was balanced.
+
+DANIELLE: I mean, there's a lot of companies where you could outsource work on a tool. You can get something 3D printed for you. And sometimes, I have friends that ask me like, "Oh, what 3D printer should I buy? I want to do this project." And they think I know about machines, and I'm just like, "Well, if you're just making one unit, you don't need to own a 3D printer. Just use one of the many services that do that for you."
+
+DEVON: Yeah. I think it depends on how much you want to commit to using this thing. How important is it going to be to your creative flow? And if it's very important, then having your own can be really nice, because now you just start using it. But if it's just one, then it's pretty expensive to buy a 3D printer.
+
+DANIELLE: Totally. Yeah. For my mask company, I was considering running the whole assembly line here in San Francisco. I have a fabric printer and I thought, "Oh, I could just hire people to operate the fabric printer and then heat seal it and maybe I should invest in other printers and rent a space." And then I realized, "Oh, there's companies that specialize in custom printed garments that can also sew, but just do this. That is their job. They have figured it all out. There's no need to reinvent this. I can hire them."
+
+DEVON: I guess that was less true for the branded fruit company.
+
+DANIELLE: For unique processes that no one is doing, yeah, you're stuck doing it on your own.
+
+DEVON: The ideas behind all the different things that you've built are always very creative and a little cheeky and end up doing processes that no one has ever done before. I mean I could list a lot of really amazing ones. One of the ones we haven't even mentioned yet is a cryptocurrency ledger that's basically a Swiss Army knife with a crypto wallet inside of it. The list goes on and on. Where you physically when you thought of some of these ideas? And what were you doing at that moment?
+
+DANIELLE: How did I think of the crypto wallet? People don't really use crypto wallets anymore, but in 2017, they were a new concept. I think a friend handed me a crypto wallet at some event, and I held it and I just thought, "This thing is so flimsy and I could lose it, so I need to make it heavier." And then my mind leap to putting it in a pocket knife. But then I thought that was a funny joke.
+
+I don't know, I think ideas come to me when I'm dissatisfied with something. And then I'm like, "How do I tweak my own thing just for myself?" But then I realized, "Oh, this is a funny thing that would resonate with people on the internet."
+
+DEVON: Yeah. I like the prompt of like, "Wouldn't it be funny if ..."
+
+DANIELLE: I think that way a lot. A lot of my ideas are not funny too. I just have a lot of them, and then I pick and choose which ones I want to make public.
+
+DEVON: Well, you definitely have a lot of very funny ideas. You must have a lot of ideas.
+
+DANIELLE: If it were ideas, you have the more decent ones that are going to be mixed in.
+
+DEVON: You're really incredibly prolific, and I don't know very many other people who are nearly as prolific as you are. I think a lot of people strive to be. I wonder, what do you think you're doing differently from them?
+
+DANIELLE: I have a few advantages. I will say this. I have been self-employed throughout my adult life most of the time. I haven't worked for a major company. And actually, I've never focused on having a career. I think because that part of my brain is removed, I mostly focus on what do I want to create. I feel like I have more bandwidth, because I am not focused on any sort of career for myself, if that makes sense.
+
+DEVON: What do you mean by career?
+
+DANIELLE: I don't know. I make lots of things and sell them, but I've never decided to become an industrial designer and climb the ranks of internships and networking and having particular jobs, or deciding to be a UX researcher. I've never really focused on a particular role. I think maybe it's a lack of ambition of working for companies that makes me hyper-focused on creating artwork and stuff. Does that make any sense?
+
+DEVON: Yeah. I think I know what you mean. A lot of brain cycles end up going towards things that are not exactly creative. "Does my boss like me? So that's when he needs promotion." It is the amount of brain cycles.
+
+DANIELLE: Totally. And it's also focusing on social dynamics, and hierarchies, and who do I need to network with. I tend to avoid all worlds, which require, I don't know, anything that feels too network-y. I shy away from and just spend a lot of time just alone making things.
+
+I tried to encourage. I think I've been running a thing for four years called The Decruiter, which is a service for people who are on the fence about quitting their job. And I do have this conversation with a lot of people that they feel so creatively. Their creative self is so committed to their coworkers. Having this company succeed, when they have all these ideas for things they want to do on their own. If their company doesn't give them the free time or bandwidth, then they always table their projects for later.
+
+I do try to encourage people to have more boundaries with their employer so that they can work on their side projects, or have a practice out of dedicating Saturdays to doing a thing that you want to do, not for anyone else. I think that's a symptom of a lot of companies being very creatively demanding of people.
+
+I've been fortunate that I've been able to support myself. And I've noticed times when ... Of course, I'm not always productive or prolific. I've gone through periods of time where I've made nothing, but often that's because I'm working for another person.
+
+DEVON: A very rough trend that seems to have happened in the last, I don't know, 70 years or so, is the sense that you don't need to have as much of a framework provided for you to start something. I don't know, if you wanted to work on a computer company in the 1950s, you probably need to go to IBM. That's at least the most obvious path. As time goes on, it feels less and less the case. I wonder, what do you think you would have been working on if you were in your prime years in the 1950s, instead of now?
+
+DANIELLE: Oh, in the 1950s?
+
+DEVON: Or maybe 1970s. Some previous time.
+
+DANIELLE: Yes, different.
+
+DEVON: 1950s or maybe
+
+DANIELLE: It sucks to be working in the 1950s, honestly. I'm glad I'm not.
+
+DEVON: There are other constraints going on there too.
+
+DANIELLE: Yeah. I think in the 1970s, I don't know, I think that because through most of my life, I've had so much positive reinforcement for making things with my hands, which I actually don't love doing. I actually definitely identify more with being a digital creator, and making apps and internet art. But I probably would have been a craftsman of some sort, like a sign painter. I don't know. Anything that was useful career, making something with my hands that has now been replaced with machines like sign painting.
+
+DEVON: I'm really excited to see how this continues as more and more tools become available to people. And you can have a whole 3D printer in your house now, and you get all these sorts of things. I hope that this gets more people to think about like, "Hey, what can I be doing on my own as opposed to needing to work within the framework of a really big company?"
+
+DANIELLE: Google used to do it. I don't know if they still do this thing where you can spend 20% of your time just working on random creative projects, which is problematic. Because it's also like, "Oh, well, in your spare time, you can just mess around and do whatever you want, but it's all our IP, and it's all for us." I think that, yeah, some companies should just consider giving people time off to work on their own projects that are not owned by the company.
+
+DEVON: I have seen that happening more and more. The company I used to work for, GitHub, had a very ... I mean, I'm going to get some of the legalism wrong here. But basically, they said like, "Anything you do as a side project while you're at the company is yours." And they would be very pro employee if there was ever a conflict. There are a few instances where that came up. I thought that was great, because I'm someone who worked on a lot of random things in my free time.
+
+Even though I hadn't even thought about the IP angle when I joined, I remember being like, "Okay, I appreciate they're making a stand about this, because now, it's not even a question in my mind that I can work on this stuff."
+
+DANIELLE: That's great, but that's rare too.
+
+DEVON: At GitHub too, they kind of have to, because it's a company based all around open source. So, it would be pretty weird if they didn't allow it. So, I don't see a lot of other companies adopting that too soon, but I hope so.
+
+DANIELLE: Yeah, totally. Yeah. I think another thing with working on creative projects is to not be afraid of just launching something, even if it's not finished and stuff.
+
+DEVON: Why do you think people are afraid?
+
+DANIELLE: I think people, especially if it's your first time, unleashing your creative work into the world, I think that you have no ... People don't know how it will be received. People don't know if it's a good idea. They will think it's not polished enough, or that they need more things in place, or they need someone to tell them the launch date.
+
+They just need a lot of hand holding and encouragement when it's actually pretty low bandwidth to just launch out a half finished idea and see the response. Even make a landing page for something without having finished the project just to see if it's worth creating, or to write off the momentum you get when people see it and say, "This is awesome." But I think things don't need to be totally polished before they are released into the world.
+
+DEVON: Yeah. It is super motivating. I feel like if you're really very unconfident, you could also ask for feedback on something and be like, "Hey guys, I really want your input on this." And then they'll help you find the things that need to be improved.
+
+DANIELLE: I get feedback from my friends for so many projects before I launch them. That is a secret thing, because I often just suddenly launch things. It seems it came from thin air, but I've actually been dwelling on it for months and have been going through many iterations and get feedback behind the scenes. Definitely to casually run ideas by friends, especially ones that are critical and not supportive of all the things that I do.
+
+DEVON: Yeah.
+
+DANIELLE: Even ideas for spontaneous pranks. I have texted friends. I'm like, "Is this too weird? Or is this too illegal?" And just see what they say. I just need some hint of positive feedback.
+
+DEVON: Right. Yeah. I think something that I've struggled with some friends is that I think I've always tried to be the friend who always actually says what I think about their thing when they ask me. And this works great with some people, but with other people, they're like, "Wait a second, I just want you to be supportive."
+
+DANIELLE: Yeah, it depends. It's good to ask. I think I like when friends ask me what kind of feedback do you want.
+
+DEVON: Yeah, I think that's a good question. I think asking do you want feedback is a tough question, because who's going to say, "No, I don't want feedback?" I think what gives you a little more flexibility to be like, "Okay, these are where I'm looking for, and these are the areas where I'm really not interested in it, because I'm very committed to this aspect."
+
+DANIELLE: I recently launched this project called Cofounder Quest where I hid floppy disks all over the Bay Area, and then the floppy disks have a link to a website. That's this whole choose your own adventure, interactive fiction style game. I was so nervous about launching this thing, and actually postponed it for a long time, because I did get a lot of negative feedback from the initial game, which was actually very harsh, but made the project so much better.
+
+DEVON: If you don't mind sharing, what kind of feedback?
+
+DANIELLE: My initial game, I just had this idea of hiding floppy disks and putting a game on it, but I didn't think too deeply about the details of the game. My initial game was, "You go to this website," and it's cute and has this old MS-DOS music playing. But the first question was, "Are you a software engineer, yes or no?" And it was this whole sort of interactive job application.
+
+I realized that wasn't that much fun, but only after I got feedback. I sent it to software engineers and they were like, "Oh, it's a cute marketing tactic, but I don't think I'd apply because I would see through the trick. I'd be like, 'You used a clever way to get me to this advertisement for a job.'" And then I thought, "Oh, well, I need to not make it about ... The game shouldn't be about proving you're a software engineer and your skills and stuff. The game should just be an exploration of what my company is, and it could really be for anyone to play that then maybe they would know the right person for the job."
+
+My whole game is about a day in the life of a person who just uses my app, Dialup. And then through a series of encounters, learns that I'm hiring someone, but it's not explicit. I tried to make it fun and change up the style and change the music, but I spent so much time tweaking this and putting it in front of software engineers who would be the target audience.
+
+DEVON: That's amazing. There's so many people out there who are trying to figure out ways to get into people's inboxes. I mean, this is actually a total jerk thing that I do, but I can't help myself, I'm sorry. Which is whenever a recruiter emails me with a completely just a name email that is completely unpersonalized and I can tell that they're mass emailing everyone on LinkedIn, I have this stock thing that's on my clipboard at all times. It's just, "Please don't ever email me again for recruiting purposes including responding to this email." And I just paste it in and I send it.
+
+They're doing the opposite of what you're doing, which is they don't really care about what my experience is. They don't actually care if I am interested in the company. All they care about is that they can send a recruiting lead and hopefully I take the job for the maximum salary, and this is a very frustrating experience. This sounds like a much more fun way to get a job.
+
+DANIELLE: They are being paid for getting as many leads as possible, so that's their incentive. Yes, I wanted to self select with my game and not spam anyone and have people seek me out. So, me seeking them out.
+
+DEVON: It's fantastic.
+
+DANIELLE: That's why I literally hid the floppy disks and planted them and made it obvious on the internet that I was doing this. So, that's where most of my leads come from, but I have not been spammy.
+
+DEVON: Now that it's been a few days since you rolled it out, what's the result been?
+
+DANIELLE: Over 10,000 people have played it, but I didn't know. For any project I launched, even though many of them go viral, I always think it won't. This didn't exactly go viral, but it actually did better than I thought it would. I mean, it's pretty niche.
+
+Yeah, I got 10,000 players through and a third of them actually played the whole game, which is actually very high, but I did spend a lot of time tweaking it, so it would be short and fun. I've been getting so many mix ... I mean, definitely, in my applications, I think 5% of them are interested.
+
+I'm only meeting with a few people. The game had a weird effect where in the game you meet me. I think people think they already know me, so I'm getting so many unhinge hate. Just such casual emails that are not professional. I want people to be a little bit professional and attach their resume and links to their work and stuff, but I'm getting these very run on, too casual. I mean, they're interesting. Of course, my game will attract weird responses. It's a weird experience.
+
+DEVON: But you'll also probably find someone really appreciates a lot of the same things that you do, which is a really cool way to do it, because you're showing your values in the way that you've built it.
+
+DANIELLE: Yeah. I've already started doing interviews. Yeah, I did one yesterday, and the person I met totally understood. It's hard to explain your vision for startup in a concise, sweet way. I've built a voice chat app that lots of people use, but my Cofounder Quest is for my next idea. And I felt like, "Oh, how do I explain this vision?" And the person just totally got it. And I was like, "Oh, it translated. That's so cool. You played the game and you understood. Not just the idea, but how the game itself relates to a thing that I want to build. I just got what I wanted out of it."
+
+DEVON: That is so cool.
+
+DANIELLE: It's cool to meet the ... I think the game attracted more like-minded people, or people that understood the sort of thing I want to build. But simultaneously, I wanted the game to attract people I have not met yet. I wanted to go outside of my circles.
+
+DEVON: Yeah. Doing all sorts of different things on the internet, whether it's tweeting or doing a stunt or whatever, I feel like is a really useful way to be ... Like a lighthouse to draw people in, like the kinds of people that you want to hang out with. This is like one of the more creative ways that I've seen someone do that.
+
+DANIELLE: The amazing thing is putting a project on the internet that gets shared helps you meet people that you would not just meet at a party, and who are not a friend of a friend. Yeah, it expands the number of minds you can meet, which then leads to more serendipitous moments of finding unexpected overlap between people.
+
+DANIELLE: I wanted LionCon to be something that anyone can attend even if just happened to stumble into us in the line and then hang out, which totally happened. Yeah, I love introducing people that would not normally meet. That's a theme.
+
+DEVON: That's a perfect transition to talk a little bit about Dialup, which is the company that you started. What are some requests that you've gotten for Dialup that you found interesting, but decided not to pursue because it didn't quite match your goals for the product?
+
+DANIELLE: Like requests for product features. It's so painful to discuss, because a lot of product features I want to do but that will take three months of engineering resources and is it worth it? That's the hardest thing about running a startup is if you're a creative person working on a company, there's probably 10 different directions you want to go in that might all be great, but you can't. You have to choose something.
+
+I've always wanted to make Dialup right now, or some contacts connects people all over the world who do not know each other to discuss particular topics. On Wednesday night, you could read a poem to each other, or on Monday nights you can discuss what you're making for dinner. If you're a new parent, you can meet other new parents. It's topic based, but it's not anyone you know. It's someone anywhere. They could be in a rural part of Alaska, or they can be in South Korea. It's so random, so many ages and different walks of life.
+
+But I've always wanted to make a version for my friends. Like pick up the phone and match with a surprise friend. I went down the path of developing this thing with building your friends list and stuff. But it's difficult to have that exist on the same app as an app where you're meeting strangers. Also, it's really difficult to convince your friends to be on an app and build out a social network and build out a social graph.
+
+It's something that I personally have on Dialup. I can do my own special features. I can match with surprise friends, but that's the thing other people want. People have requested, they're like, "I don't want to meet a random stranger. I want to talk to a random person from my family. When I'm free, I want to just know when other friends are free, and I could hop on the phone with them." But I never developed that, and that's a possible thing that I could put into my next version.
+
+There's all these, of course, people want super niche topics. They're like, "Yeah, I want to talk to other game designers in Montreal." Yeah, that's possible if I have millions of users, you could find those people.
+
+DEVON: You need a big density to make that happen.
+
+DANIELLE: Yeah. With all the different ideas, it does require that people are already on the app, and that has its own set of challenges. But the direction I'm going in is kind of different. I'm going in the direction of having Dialup be a tool. So, letting people build their own voice experiences on it. If they wanted to develop a special voice chat app for game designers in Montreal, then they can without coding it.
+
+DEVON: That sounds really interesting. What are the primitives that you're going to offer them so they can do that?
+
+DANIELLE: The ability to have this switchboard in the app that they can design a bunch of things. They can design the schedule of when the thing calls, but also designed like when someone picks up the phone, what do they hear? They could also choose, is it a group chat? Is it a one-on-one thing? Is it random? Are you always matched with the same person? What is the algorithm that you can choose to match people?
+
+Or they could decide it is not going to be live voice, I just want to have this thing that calls everyone and they listen to this sort of pre-recorded voice thing for 10 minutes. And that's a way to stay connected. Maybe people take turns recording the voice thing.
+
+I mean, I'm rambling about many different possible things. But the main idea is that it is going to be a switchboard. And of course, I will have to ... With designing any sort of tool, I think you have to put it in front of people and see what the most overlap of needs are, and experiment with many possible use cases and then really shave it down as to what are the core features.
+
+Because I can think of so many different use cases for wanting a tool to build audio experiences. I have talked to museums about it, designing an audio experience that when you're in a museum, you can talk to someone in another museum, looking at work by the same artist, and they want me to build that. But then like, "Oh, well, what is a tool I could give you so that you can build it and set up your own system?"
+
+DEVON: Those are all really cool use cases. It sort of reminds me of almost like a Reddit but for audio. That flattens it a little too much, but you know how you can customize subreddits?
+
+DANIELLE: Yeah. Each Reddit has its own moderators and stuff. Yes.
+
+DEVON: It's a bit of a thing.
+
+DANIELLE: Yeah, Reddit for audio, but also, it would take place on an app and be WebRTC. I guess this is about my creative process. I can sometimes imagine too many things. And then once I put it in front of people, then I have a eureka moment of knowing what to do. And I feel I'm in a phase right now of putting ideas in front of people without having landed on the one thing that I want to do with this. But I do know that people love these intimate one-on-one phone calls. I have been running this for two years, and I do know there's lots of people contacting me on how they can do a very specific thing with it, and they ask me to set that up. And I know it's possible to make a tool for them.
+
+DEVON: Yeah. I've been finding over the course of the pandemic that I actually enjoy phone calls a lot more than video calls. People have philosophized as to why, but it really feels much more intimate even though you're actually getting less information.
+
+DANIELLE: I also think that you're, in many ways, getting more information because you use your imagination. I'm a very visual person, yet I love audio experiences. I mean, it's similar to reading a book. I think when you're talking to someone, you can visualize or take all the cues and imagine a scene for them.
+
+And simultaneously, you can take in all the senses on your end without staring at a screen. Right now, I'm talking to ... But I'm actually staring out my window and watching the trees sway and I'm paying attention to the way the light falls on the walls and all these details of my room, which is actually a richer experience than if I was staring at your screen. In many ways, you're in the room with me here. I have this vague imagination of where you are too.
+
+DEVON: Yeah, and more of your senses are stimulated, and so you're more engaged.
+
+DANIELLE: I also think that people tend to have more vulnerable and intimate conversations when it's through voice. The calls on Dialup are so long. We've had an 11 hour long call. Just crazy.
+
+DEVON: Oh, wow.
+
+DANIELLE: But many of them are an hour and a half. I mean that's crazy because it's people that have never met. I think that you could sort of get more, because your face is shielded. And if you're discussing sad topics, or you're trying to search for words, it's less awkward to pause when you're talking through voice than if you are staring at each other.
+
+If you're staring at each other, you might be more self conscious that you've been silent, or that you're staring off into the distance to think of the answer. There's just all these more things you have to worry about as being a good conversationalist that sometimes disappears when you're talking through voice.
+
+DEVON: Yeah. And when you have video, even though they can see you, they can't see everything around you. For example, if I'm taking notes during a meeting, I feel like I have to clarify. I'm typing, but not because I'm writing an email. I'm taking notes about what you're talking about. Versus in a normal conversation where you're face to face in person, or with an audio only where they can't see what you're typing, you don't have to clarify that the information they're getting is not problematic. How do video call memories differ from phone call memories?
+
+DANIELLE: I actually have a lot of video call memories blur together, because I usually leave my computer in the same place. I have my monitor in the same place. I feel like I've met so many new people in the last year. I kind of forget who was who through voice. I'm actually pretty mobile. I'm a fidgeter, so I kind of wander. When I'm on the phone, I kind of wander on my place. And then I'll end up sitting in some new corner or playing with some objects. I don't know, just touching the leaves of a plant. So, then I'll associate that plant with a person, or I do stuff with my hands.
+
+I am either drawing or fidgeting with something, or putting labels on floppy disks or whatever manual thing I have to do. Or putting logos on fruit. That's a more cohesive memory because it's a different activity for each person.
+
+Yeah. I also just remember my imagination of them. It's surprising. People run into each other on Dialup sometimes. Well, you could choose if you want to talk to someone again, so then it awaits the algorithm so you're more likely to run into them. It's cool that people really remember each other just from their voice.
+
+DEVON: Yeah. How has having conversations with people through Dialup changed your outlook and your conversation skills?
+
+DANIELLE: Oh my god, okay. This is so hard to translate. I kind of think every person is fascinating if you talk to them for at least 20 minutes. Even someone you would immediately judge as like, "Oh, I don't know if that's interesting." Whatever, I would normally hang out with them or they're not someone I'd be friends with.
+
+Every person has a lot of depth if you give them the time to tell you an interesting story. I think before working on Dialup, I was more quick to bucket people or make judgments about people that I would just meet. And this has really changed my perception of just any human. I'm so much more eager to ask a total stranger questions about their life, or sort of go around in the world thinking that everyone is a good person to interview for your podcast.
+
+A lot of people in Dialup are kind of offline. Yeah, they're not on social media and stuff. And so, I'm exposed to people that I would never run into. I got a tarot reading from someone in rural Alabama who does not use social media. I would never be in rural Alabama for any reason. Maybe I'd have to drive through it, but I would never otherwise meet her. I also wouldn't necessarily run into her on the internet.
+
+With all these calls, I just feel like, "Wow, it's so special that I get exposed to this particular person and personality. This is a podcast just for me. No one else can hear it." And I just feel time spent with humans that you cannot otherwise meet is just so special.
+
+DEVON: Do you think part of why they're on Dialup but not on other social media is because it's through a phone medium and they are more comfortable with that, or it just feels less weird for some reason?
+
+DANIELLE: I think it has to do with the way that they found out about Dialup. Dialup had some ... It actually spread a lot through TV news and radio, which I think reaches people that are not on Twitter. They found out about this new ... Normally, people find out about new apps from whatever is trending on Twitter, or they read tech. Like about social networks, there's TechCrunch articles and stuff.
+
+Dialup spins in pretty weird places. It was once in print in Reader's Digest in Canada, so it got a bunch of seven year old Canadian ladies. But then it also was on public radio in Ghana. And I think because of the way it spread, it has reached people who wouldn't normally flock to whatever app is trending on social media, because they're not even on social media. A lot of humans aren't on social media.
+
+DEVON: I know you were referring to these as podcasts just metaphorically, but it would actually be a really interesting podcast if the people looked into it.
+
+DANIELLE: Yeah. I wish. I wish that I knew what was going on in these calls and could listen. I think there's issues with ... I mean, I debated this so many times. If you know your call is recorded, that sort of changes the dynamic.
+
+DEVON: For sure.
+
+DANIELLE: I think some people would also not be okay with it. Just the idea of recorded phone calls feels creepy and weird. I think calling them podcast mode phone calls makes more sense, and people could opt into it. I've wanted to build out stuff like that, but I also know the observed self can act differently. I mean, I'm not too different if I'm recorded or just talking to someone, but I think a lot of people get so nervous about it, and then wouldn't be on any sort of app that does something like that.
+
+Yeah. I think there's a way to balance it. I think in the new thing that I built, that could be an option. If someone wanted to build a social experience where people are being matched in one-on-ones, it's very explicit. These are all recorded. And then they're going to be woven into my already existing podcast.
+
+I'm going to have a podcast about grief, and then I'm going to connect people who are experiencing grief. Your conversation will be recorded, and we're going to share snippets in my next podcast episode. It's going to be hosted on this app. That's fine, I think, as long as each section of it is very explicit.
+
+DEVON: Yeah. Setting the expectations upfront and making sure people. It's extremely consensual. And then you're definitely going to lose a lot of people. It does seem like there's a way to do it, but I agree that you have to be very careful.
+
+DANIELLE: Yeah, totally. I have a lot of written stories, and I've tried to document that, and two people that met each other wrote a novel together. These two people met and became sister. They basically adopted each other as sisters. They're not actually blood related. It's someone in Spain and someone in the Netherlands, and they talk every day. And they thought it was so magical that they met that they wrote a book about how this changed their life.
+
+That's a cool moment of documentation. Then I realized I'm probably missing a lot of stories, because people wouldn't think to reach out to the app creator. People might not want to translate their special experience into a work of art. And I do know, people are having really long phone calls, and that's significant. If you're talking to someone for three hours, that must impact your life in some way. People will talk for three hours. And then after every call, you can leave a note of how your call went, and people will just write, "Great."
+
+DEVON: It's so helpful.
+
+DANIELLE: So, I know nothing.
+
+DEVON: For the people who were talking for 11 hours, I hope they got married or something.
+
+DANIELLE: Some of it is romantic, but a lot of it isn't. And a lot of it is ephemeral too. You can talk to someone for five hours, and you both maybe ... Maybe it was super therapeutic. Maybe you both made all these discoveries during the call. But then is there necessarily a reason to stay in touch? Some people do, some people don't. Some people have flown out to meet each other, but then sometimes it's more like, "This call was incredible, and that was the experience itself. We both got a lot out of it, but we are so different, we're in different parts of the world, we're probably not going to be friends." But we had this moment where the call hit us on a day where we had a shared mood, and maybe we are going through a similar issue, and we worked on that together. And that's it.
+
+DEVON: Yeah, that's so cool. We're on time right now. Do you mind if we go 10 minutes over?
+
+DANIELLE: That's fine.
+
+DEVON: Okay, great. I just wanted to be respectful. Two last questions for you. One is when you were talking about how everyone is interesting and if you just ask good questions, you're going to get to something really interesting. How do you get those stories out of people while also making them feel comfortable?
+
+DANIELLE: I think asking people to backtrack about how they got to where they are is always interesting, or to ask people how they feel about things. Asking people more emotional questions. Even though that's actually uncomfortable to do, I've been more interested in that.
+
+Sometimes people will tell a story, and then I'll ask like, "Well, how do you feel about this situation?" I guess it's sort of like a fair test. I think when asking more detailed questions of how this affects you and how did this happen, that leads to more interesting stories. And then also, I think I get exposed to …
+
+And there's people that live in interesting places and have crazy professions that I know nothing about. I think that that leads to so many questions. That's how it feels like a podcast. I think early on in the pandemic, it was maybe March of 2020 when people were panic shopping. I matched with a security guard at a Dollar Tree I think in Michigan. And he was telling me how people were ransacking the shop, and people were shoplifting and stuff. And this was before there were even many articles about panic shopping.
+
+I was kind of just interviewing him like, "What's going on in the world around you? How does that relate to the pandemic?" A lot of it feels like getting news firsthand. But then our conversation shifted to him telling me that he was about to turn 30 in a few days. And then we're talking about things like, "How do you feel about turning 30? What do you wish you had done differently in your 20s?" I don't know, conversations go all over the place, but it's a mix of personal emotions, and then also news about the world. It's always a story that you will not read an article about.
+
+DEVON: Yeah. And in a certain way, more representative of probably what's actually going on, because journalists only think to talk to the people who they think to talk to, and sort of tautological, but true. And so, there's probably people they would never think to interview a security guard about his experience with COVID.
+
+DANIELLE: Yeah, totally. Yeah. We also talked about how his hours had to be slashed as well, and that he was worried about rent and all these things, which these stories could have articles if they trend on Twitter. I mean, I think a lot of journalists just look for what's ... They definitely look for real stories from real people in the moment, but that's often discovered through social media. And not everyone has that impulse to tweet about how they feel or what's going on.
+
+DEVON: Yeah. And they tend to have the impulse when it's the most extreme things or weird things. So, you're more likely to get very unrepresentative information compared to just some random experience where it's like, "Yeah, it's going to be a little hard for me to pay rent this month. And I'm a little worried about it, but I think I'll be able to pull it together." That's not the same kind of thrilling story as someone who lost their life savings or something like that.
+
+So, we're coming up on our time, and I have just one last question. In Dialup, have you noticed any unique norms in how people greet each other or say goodbye, considering that they may not know each other well, or don't know ... At least don't expect that someone is going to initially pick up the phone at that moment?
+
+DANIELLE: Yeah. There's some people that have been on Dialup for two years, and so they've talked to 100 people, and they're very seasoned Dialup users. So, they're definitely more smooth on the phone. I think the Dialup small talk at the beginning of the call is always like, "Where do you live?" About the city that you're in, sometimes about the ... Basic small talk stuff. Often it's like, "Who else have you talked to? Who are other interesting people you've met?"
+
+But then, after the initial 10 minutes, it definitely gets deeper. And lots of stories and the conversations go in so many different directions. But it is weird at the end, because it's ephemeral. I also tell people not to share contact info, because I don't want anyone to feel it's a dating app. Some conversations are meant to be ephemeral. I also don't want to burden people with needing to stay in touch, because it's annoying.
+
+I tell people not to share contact info. Often they do. Of course, they have a strong connection, they want to stay in touch, and people have flown out to meet each other, people have moved in with each other, all these things happen. But there is that moment at the end of the call that you have to decide like, "Do you want to keep this ephemeral? Or do you want to stay in touch?"
+
+I sometimes feel sad. I don't know, it's a lesson on ephemerality, and just letting strange experiences into your life, but not holding on to them too much. Yeah, there's that moment that if you've had a really intense emotional conversation, you don't know. Should we do this again? Should I give you my number? What happens?
+
+A lot of the time, I guess I'll say this publicly, our app has bugs. So, sometimes the call just disconnects people, and they can never talk again. I mean, maybe we'll run into each other or if they email me, I can try to reconnect them. That's a whole process and I can't always do it.
+
+Sometimes, you didn't even prepare to say goodbye, but you got disconnected. And, of course, this is heartbreaking a lot of times, but some people actually love it, because you just got this glimpse and this fleeting moment, and then the person is gone, and there's all these mysteries left. It's sort of a good end to a movie where it ends on a cliffhanger. And you just kind of wonder, and you also don't worry about it. Then what do you do next?
+
+DEVON: I could see that being a feature in of itself where you say something like, "I want this call to randomly be ended somewhere between 60 and 90 minutes into this or something like that. I won't know when and so I'm going to make the most of every moment in a different kind of way."
+
+DANIELLE: Yeah. Some people think that that is the future. People will comment like, "Oh, the call ran out. We ran out of time." Because sometimes, it happens roughly at an hour in, but that's just random that it happened in an hour in. It has to do with spotty Wi-Fi, or there's many possible bugs, but people will be like, "Oh, yeah, that's just how the app is." And they won't know that it's a bug.
+
+It's kind of cool, because it sort of takes you out with the responsibility of meeting to decide whether or not you ever want to stay in touch with them. And it's more of like, "Oh, we were destined to talk to each other in this moment and experience this, and that's it."
+
+DEVON: I'm excited for people listening to this to be able to try it out. And if they want to share their experience, because it sounds like a really interesting set of social dynamics.
+
+DANIELLE: I think that it is scary to people at first to actually pick up the phone, but it's definitely worth it once you get over actually saying hi and picking up. The calls will totally transport you.
+
+DEVON: Well, thank you, Danielle. This was a really fun conversation. I feel like this one totally transported me, so I had a very fun meeting.
+
+DANIELLE: It was wonderful talking with you.
+
+DEVON: If people want to learn more about you or your countless projects, where can they find you?
+
+DANIELLE: I tweet a lot of stuff I'm working on. So, I'm on Twitter, @djbaskin. And then I have a website, daniellebaskin.com, which has links to many stunts and projects that we didn't even talk about.
+
+DEVON: Truly so many. I really recommend going to Danielle's website and going through her Twitter, because it just keeps going on and on. At some point, I was like, "Is this a group of people?"
+
+DANIELLE: Yeah. I've got whiteboards of a long list of things that I want to launch.
+
+DEVON: Well, thank you so much, Danielle. Have a great rest of your day.
+
+DANIELLE: Thank you so much.
+
+Brought to you by Devon Zuegel
+
+Devon is a software engineer and writer based out of San Francisco.
+
+Edited by Molly Mielke
+
+Audio by The Land Films
+
+Illustrations by Roman Muradov

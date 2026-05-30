@@ -1,0 +1,101 @@
+Title: How does a business continuity plan work?
+Published Date: 2023-09-15T00:00-03:00
+URL: https://www.notion.so/blog/business-continuity-plan
+
+When lightning struck its South Carolina office building, the IT company Cantey Technology lost its equipment. The fire following the strike melted cables and destroyed hardware for servers — which housed information for more than 200 clients.
+
+The event would have been enough to destroy the business, were it not for Cantey Technology’s business continuity plan. Instead of losing client trust and closing shop, the company kept providing glitch-free services: It had already created copies of client data at a remote center. Clients would never guess that a disaster totaled the business’s core equipment.
+
+This real-life example shows exactly why having a business continuity plan can make or break your crisis management process when things go wrong. Watertight plans protect your relationship with clients and let you keep providing excellent services, no matter what happens.
+
+What is a business continuity plan?
+
+A business continuity plan, sometimes known as a BCP, is a worst-case-scenario contingency plan that outlines the steps you should take to continue operations in an emergency. The goal is to deliver the same service to customers despite hiccups.
+
+All businesses can experience disaster, whether that’s a weather event or cyberattack. And in the same vein, they can (and should) critically assess risks and plan for potential events that could halt operations, creating a strategy that mitigates negative impact.
+
+It’s impossible to anticipate every possible scenario. But business continuity planning can be the difference between total failure and smooth sailing. If Cantey Technology hadn’t had that backup, the business might have lost all of its client data and equipment — a potentially irrevocable accident. A continuity plan prevented all of that.
+
+Types of business continuity measures
+
+Business continuity plans aren’t one-size-fits-all because both risk factors and business practices can differ so greatly. These docs should contain as many focus areas as possible to cover different types of risks. Procedures that mitigate operational delays won’t keep employees safe during a natural disaster, so you need instructions for both of these scenarios.
+
+A business continuity plan should take a multi-pronged approach, including the following:
+
+Safety — a safety continuity plan ensures that employees know how to react in a crisis and have the tools to stay safe. If daily operations imply risks (i.e., construction projects), employees should have the tools to protect themselves in everyday work. Operational — operational contingencies ensure that end users continue receiving the same level of service on the projected timeline, even in an emergency. Cantey Technology provides a perfect example because the company’s off-site storage allowed servers to warehouse client data as normal. Technological — customer relationship management (CRM) platforms and other tools are often part of essential business functions, but they leave companies at risk for hacking and data breaches. Companies should create technological continuity plans that outline how they’ll mitigate breaches in internal systems, protect sensitive information, and inform clients in an emergency.
+
+Safety — a safety continuity plan ensures that employees know how to react in a crisis and have the tools to stay safe. If daily operations imply risks (i.e., construction projects), employees should have the tools to protect themselves in everyday work.
+
+Operational — operational contingencies ensure that end users continue receiving the same level of service on the projected timeline, even in an emergency. Cantey Technology provides a perfect example because the company’s off-site storage allowed servers to warehouse client data as normal.
+
+Technological — customer relationship management (CRM) platforms and other tools are often part of essential business functions, but they leave companies at risk for hacking and data breaches. Companies should create technological continuity plans that outline how they’ll mitigate breaches in internal systems, protect sensitive information, and inform clients in an emergency.
+
+Why you should have a business continuity plan
+
+The number one reason you should have a business continuity plan is that you can’t afford not to. Mishaps and disasters are inevitable, and only companies with a reaction plan can continue offering quality services to clients during a proverbial (or real) storm.
+
+Here are more reasons why these plans are so essential:
+
+You save money — you might end up spending more money to fix a problem than you would have trying to prevent it. A business continuity plan protects your resources and avoids emergency spending. You protect your reputation — it’s one thing to keep customers waiting while you get systems up and running. It’s another to lose their trust and business because you unnecessarily exposed their data to third parties or put their operations at risk. Having a plan shows your clientele that you’re organized and prepared for anything.You can save lives — many risks and emergencies have intense physical consequences, which is a softer way of saying people could get hurt when disaster strikes. Having a business continuity plan saves lives. Employees should have a clear personal protection plan for when a fire, flood, or other natural disaster strikes your workplace.
+
+You save money — you might end up spending more money to fix a problem than you would have trying to prevent it. A business continuity plan protects your resources and avoids emergency spending.
+
+You protect your reputation — it’s one thing to keep customers waiting while you get systems up and running. It’s another to lose their trust and business because you unnecessarily exposed their data to third parties or put their operations at risk. Having a plan shows your clientele that you’re organized and prepared for anything.
+
+You can save lives — many risks and emergencies have intense physical consequences, which is a softer way of saying people could get hurt when disaster strikes. Having a business continuity plan saves lives. Employees should have a clear personal protection plan for when a fire, flood, or other natural disaster strikes your workplace.
+
+Disaster recovery plan versus business continuity plan
+
+Disaster recovery plans and business continuity plans have similar focuses, but they have different scopes.
+
+Business continuity plans are overarching strategies that keep employees safe, protect client relations, and ensure companies remain operational. They’re as comprehensive as possible to meet every scenario with the resources to prevent consequences.
+
+On the other hand, disaster recovery plans specifically narrow in on restoring data after a crisis. They’re IT-focused and are a small part of a business continuity plan. Companies with IT-heavy operations should include disaster recovery within their larger strategy.
+
+How to create a business continuity plan
+
+Even companies with the most fluid, risk-free daily operations could experience a crisis. A freelancer working from home could spill coffee on their keyboard, keeping them out of work and their clients out of deliverables until they fix their computer. And a small brick-and-mortar store could experience robbery or a fire that endangers both customers and employees.
+
+Start with the following business continuity plan checklist:
+
+1. Define objectives
+
+The first step in creating a plan is determining your goals. Consider current operations and how you envision them functioning in a crisis. You might want to prevent a lapse in service, avoid financial risk for the company, or maintain an excellent reputation in spite of a data breach. Keep these goals at the forefront of your planning process.
+
+2. Choose a team
+
+A business continuity manager, along with company executives, generally writes your continuity plan. They’ll know best about how to realistically prevent disaster.
+
+But it’s wise to establish a cross-functional emergency mitigation team. Executives don’t necessarily have the same insights as those who carry out day-to-day operations, and departmental leaders will understand exactly what tasks operations entail. These individuals should help craft the business continuity plan and implement it when necessary.
+
+3. Perform a risk assessment analysis
+
+You’ve already determined the essential functions that keep your company in business. Now you need to specify the risks that threaten them, like natural disasters, hacks and robberies, or larger economic issues.
+
+Once you pinpoint these debilities, play out potential worst-case scenarios, identifying their business impact. Would you be out of business for a few days, or a year? Could you provide some services, or would the company grind to a complete halt? Outline the most likely scenarios.
+
+4. Identify essential functions
+
+Determine the essential business processes you must perform, even in a crisis. These might include order fulfillment, technological continuity, and client services. Other important functions depend on the type of business you own. A storefront owner would have to consider in-person functions, while an ecommerce giant would think about data and inventory instead.
+
+5. Make a plan to keep essential functions running
+
+Make a continuity plan for each essential function, assigning responsible parties to each. What would you do in the case of fulfillment delays due to property damage at your warehouse? How will you mitigate a supply chain issue if a natural disaster impacts the delivery of raw materials? What’s the plan if your ecommerce site crashes on your busiest day of sales?
+
+Potential answers to these questions include having backups (suppliers, materials, tech) and a communication plan to alert customers of temporary service changes. Remember, it all depends on your team and your typical operations, so create a realistic continuity plan and personalize it.
+
+6. Implement, test, and review
+
+Don’t wait for disaster to strike to test your continuity plan. Instead, train employees on their role in these crises, and run trials. Doing so will surface issues in the plan under low-stakes circumstances instead of in an emergency. If there are any proactive steps to take, like backing up data in an off-site location, take action sooner rather than later.
+
+Business continuity plan example
+
+Once you determine a crisis action plan, you need to formally document and share it in a place your team can access. Continuity plan documents are in-depth and detailed and, as such, they’re a challenge to create. Support your work by studying examples and using them as templates to scaffold your work.
+
+Notion’s contingency plan template provides a solid guide. It goes step-by-step as you identify risks, calculate potential costs, and create a plan for implementation, organizing information every step of the way. And it’s an editable document that you can adjust at any time and share with the people who need it.
+
+Plan better with Notion
+
+It’s not enough to run a thriving business. You also need to protect it — which takes hard work and foresight.
+
+Notion, an all-in-one project tracking and collaboration tool, helps lessen the load with guides and templates for busy teams. In addition to the contingency plan template, teams can use Notion’s risk assessment guide to pinpoint weaknesses. Then, share your continuity document on your business hub.

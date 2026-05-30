@@ -1,0 +1,139 @@
+Title: A beginner’s guide to business process reengineering
+Published Date: 2023-05-18T00:00-06:00
+URL: https://www.notion.so/blog/business-process-reengineering
+
+Your team wants to level up. But like a video game, leveling up means putting in the work. That’s where business process reengineering (BPR) comes in.
+
+Maybe your team’s been late on deliverables, running out of product stock too quickly, or getting less than positive feedback from end users. Or maybe you’re already doing great — you just know you could do better.
+
+Just because a process used to work doesn’t mean it will now. Through BPR initiatives, you can identify areas of improvement and redesign company processes. When you say your business is the best it can be, you’ll mean it.
+
+What’s business process reengineering?
+
+BPR is the process of analyzing and adjusting your company’s operations, usually with a focus on improving productivity and customer satisfaction. You’ll take a look at your performance and redesign processes, systems, and organizational structures to give them a boost — literally reengineering the way you do business.
+
+But it’s not just about how you serve and reach customers. A deep dive into process reengineering can also help you find ways to revamp your company culture by asking employees what they need for a supportive, motivating workplace.
+
+Whether you want a total overhaul or a few tweaks to your processes, BPR can help you get there fast. It’s a key player in keeping your business healthy and everyone involved happy.
+
+Business process reengineering versus continuous improvement
+
+BPR revitalizes your processes with organizational change, but too much at once can overwhelm your team instead of giving you a competitive advantage. You want to grow and serve your people better, and that’s an ongoing journey.
+
+Continuous improvement instead focuses on gradual developments, sparking quality initiatives and evolutionary change incrementally.
+
+BPR can play into continuous improvement initiatives. But these full-fledged process redesigns are acts of radical change — shattering the status quo. They break down and reconstruct processes for dramatic improvements and incite one-time, top-down changes rather than gradual ones.
+
+Most businesses benefit from both BPR and continuous improvement, whether parallel or for different cases. It’s up to you to decide which process serves your team best at what moment.
+
+Business process reengineering use cases
+
+You can’t just push a button and expect your business to reach peak performance. BPR gives you a framework for change, and once you have that outline, you can take action and see results.
+
+Depending on what you need to adjust, reengineering helps you:
+
+Reduce costs — BPR lets you identify the inefficiencies in your workflow, potentially cutting labor costs and reducing the number of resources you pay for, like office supplies and virtual tool subscriptions.Improve employee retention — everyone prefers to work efficiently. When you use BPR to minimize repetitive tasks, people feel more productive and less like automatons. And they’ll have more time to innovate.Eliminate rework and error — going back into a task doesn’t just frustrate the people who have to do the work. Editing and fixing errors also costs time and money. Finish projects faster and with better results by identifying the factors that cause common mistakes. Deliver higher quality products — BPR pushes you to revisit your target audience to review its needs and ascertain whether you’re meeting them. You can frame process changes around creating better products.Streamline work — sometimes there are too many cooks in the proverbial kitchen. BPR helps you pinpoint tasks that one person could do instead of many. Giving one employee ownership avoids miscommunications and errors that could slow you down.Address end-user complaints — if clients and customers are unhappy with what they’re getting, it’s time to adjust. BPR is a chance to unpack where that dissatisfaction is coming from, be it late delivery, poor quality, bad customer service, or something else. Become more profitable — you guessed it: creating better products and improving the customer experience leads to soaring sales numbers.Solidify leadership — employees are four times more likely to quit when management doesn’t have the right skills. BPR is your opportunity to surface core leadership issues and instill more supportive, efficient methods. Refine supply chain and fulfillment processes — low stock, shipping delays, and production holdups affect your output and therefore your profits. Analyzing the current state of your supply chain and fulfillment processes lets you identify bottlenecks and establish superior operations.
+
+Reduce costs — BPR lets you identify the inefficiencies in your workflow, potentially cutting labor costs and reducing the number of resources you pay for, like office supplies and virtual tool subscriptions.
+
+Improve employee retention — everyone prefers to work efficiently. When you use BPR to minimize repetitive tasks, people feel more productive and less like automatons. And they’ll have more time to innovate.
+
+Eliminate rework and error — going back into a task doesn’t just frustrate the people who have to do the work. Editing and fixing errors also costs time and money. Finish projects faster and with better results by identifying the factors that cause common mistakes.
+
+Deliver higher quality products — BPR pushes you to revisit your target audience to review its needs and ascertain whether you’re meeting them. You can frame process changes around creating better products.
+
+Streamline work — sometimes there are too many cooks in the proverbial kitchen. BPR helps you pinpoint tasks that one person could do instead of many. Giving one employee ownership avoids miscommunications and errors that could slow you down.
+
+Address end-user complaints — if clients and customers are unhappy with what they’re getting, it’s time to adjust. BPR is a chance to unpack where that dissatisfaction is coming from, be it late delivery, poor quality, bad customer service, or something else.
+
+Become more profitable — you guessed it: creating better products and improving the customer experience leads to soaring sales numbers.
+
+Solidify leadership — employees are four times more likely to quit when management doesn’t have the right skills. BPR is your opportunity to surface core leadership issues and instill more supportive, efficient methods.
+
+Refine supply chain and fulfillment processes — low stock, shipping delays, and production holdups affect your output and therefore your profits. Analyzing the current state of your supply chain and fulfillment processes lets you identify bottlenecks and establish superior operations.
+
+The 7 principles of business process reengineering
+
+Michael Hammer and James Champy wrote “Reengineering the Corporation,” a book about revolutionizing business processes, back in 2006. But it’s still an exceptional guideline for BPR if you’re looking to learn more about it before diving in.
+
+They broke the methodology down into seven guiding principles:
+
+Focus on outcomes first. Then adapt and consolidate processes around those goals.Involve the key stakeholders and employees your outcomes will affect. They might know the process better than you do and offer insights you can’t.Let those people and departments who are already involved facilitate data collection.Capture data at the source, and only do it once to avoid error-inducing reentry processes. Use shared, centralized databases to document the process.Integrate new processes that run parallel to one another to collaborate and curb delays.Make decisions throughout reengineering to speed up the final stages.
+
+Focus on outcomes first. Then adapt and consolidate processes around those goals.
+
+Involve the key stakeholders and employees your outcomes will affect. They might know the process better than you do and offer insights you can’t.
+
+Let those people and departments who are already involved facilitate data collection.
+
+Capture data at the source, and only do it once to avoid error-inducing reentry processes.
+
+Use shared, centralized databases to document the process.
+
+Integrate new processes that run parallel to one another to collaborate and curb delays.
+
+Make decisions throughout reengineering to speed up the final stages.
+
+The pros and cons of reengineering core business processes
+
+BPR is all about impactful change. But sometimes that change isn’t necessary and can even throw a wrench into your workflow. If your process isn’t broken, don’t fix it.
+
+Here are some key pros and cons to keep in mind before you start rethinking your organization. But remember: on both sides, these are hypothetical outcomes.
+
+Pros of business process reengineering
+
+Eliminates unnecessary work Creates better products for end users Makes positive changes in company cultureImproves project workflows, productivity, and performance Reduces costsMitigates error Streamlines operational processes Leads to a sustainable long-term business strategy
+
+Eliminates unnecessary work
+
+Creates better products for end users
+
+Makes positive changes in company culture
+
+Improves project workflows, productivity, and performance
+
+Reduces costs
+
+Mitigates error
+
+Streamlines operational processes
+
+Leads to a sustainable long-term business strategy
+
+Cons of business process reengineering
+
+Consumes time and resources Interrupts existing processes Meets resistance from employees or leadershipCreates changes that require training or onboarding Causes growing pains Affects budgeting
+
+Consumes time and resources
+
+Interrupts existing processes
+
+Meets resistance from employees or leadership
+
+Creates changes that require training or onboarding
+
+Causes growing pains
+
+Affects budgeting
+
+Ground your thinking: A business process reengineering example
+
+Here’s a business process development study to show exactly how reengineering can make or break a company’s success.
+
+Imagine a sustainable fashion platform that dropships clothing from various designers. As it scales, the team discovers it has trouble quickly replacing stock.
+
+The current process is to ask designers to just ship out more of the low-stock items. At first glance, the team thinks the backlog is the designers’ fault. They’re just slow to fulfill orders.
+
+But upon deeper review, the team finds that not even the designers always have products on hand. They have to wait for small factories or artisans to deliver. And the intricate, well-made clothing items take time to produce — sometimes months.
+
+The company has to upend its processes to create a long-lasting solution. So the team reengineers the current ordering workflow.
+
+By reviewing past trends and tracking best-selling items, the team starts purchasing more of the stock that’s likely to sell out instead of doing so after the fact. If the company ends up with excess, out-of-season stock, it’ll discount it and add to its marketing efforts.
+
+It took some reengineering efforts, but this team is on its way to better processes and business outcomes in the long run.
+
+Improve end-to-end business operations with Notion
+
+Notion has a template for every meeting, document, or tracker your teams need to identify issues and chart change.
+
+Use Notion’s feedback tracker to analyze customer satisfaction, process doc template to centrally store notes, and roadmapping tool to draft new operational procedures. And you can stay organized with team wikis: personalized homepages that help employees and senior management alike visualize and access knowledge. Business transformation is an enormous job — don’t let your work get lost.

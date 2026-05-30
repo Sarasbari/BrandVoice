@@ -1,0 +1,59 @@
+Title: Leader of Notion AI engineering discusses how to promote flexibility, humility, clarity and speed in product development.
+Published Date: 2024-04-05T00:00-07:00
+URL: https://www.notion.so/blog/four-key-elements-to-building-an-ai-team
+
+It’s late and I appear to be stuck. I’m in the school library. I should go home and get some sleep, but I’m still working on my math problem set. I’ve tried solving it in so many different ways that anyone watching would think I’m hopelessly lost. But actually, I’m more engaged than ever.
+
+Today, I lead Notion’s AI engineering team. I still live for those same juicy problems where the path forward is super ambiguous and the whole endeavor is a bit unhinged. In fact, my most exciting moments are just like those nights in the library, when I’m in the twilight zone grappling with the distance between impossible and just maybe doable and find a creative path forward.
+
+That’s the environment I strive to create for our team. Over my career so far, I’ve learned that to make progress through that zone, you need four key elements: flexibility, humility, clarity and speed.
+
+1. Flexibility uncovers new ideas
+
+I wasn't planning on studying math at University of Chicago, mostly because it was really hard. I'd look at the first problem and my immediate instinct was, nope.
+
+But when I pushed through the nope and found the solution, it was usually because I took the time to consider all the different ways the proof could be written — recursion? contradiction? Maybe a lemma? Taking the time to explore usually led me to the solution.
+
+So did getting out of my own head. I was a dancer as an undergraduate, and I noticed that when I set aside the math for a few hours for dance practice, I’d return to the problem set feeling refreshed. Leaving time to reconsider old approaches and maintaining a mental space conducive to noticing better ones both helped me see more clearly.
+
+While one lesson I learned was “don’t procrastinate” (still working on that one), the more important one was flexibility — being willing to drop an approach if it’s not working creates space for a better solution.
+
+2. Humility grounds you in reality
+
+After college, I joined a team at Google that was building the stuff of the future: a fully voice-powered assistant.
+
+Working on the product was thrilling. Speech recognition was finally good enough to, well, recognize speech, and the mobile wave made it possible to do anything from anywhere. We quickly built a wide variety of features into the voice-activated product: setting alarms, making calls, sending texts, playing music. It felt like a true AI assistant was just around the corner.
+
+But there were some severe limitations. For anyone who knew exactly what to say, our assistant worked like magic, but most of our users didn’t. In fact, they were routinely met with a disappointing, “I’m sorry, I can’t help you with that” because they had asked for something that wasn’t yet supported.
+
+In hindsight, knowing what today’s LLM technology can do, our mistake is obvious. We, along with our competitors at Amazon and Apple, were using a hammer to build something that required power tools — which eventually my Google colleagues did build.
+
+I’m extremely proud of what we accomplished given the limitations we had, but from this endeavor I learned humility — acknowledging that you don’t have all the answers helps you see when you’re falling short.
+
+3. Clarity helps you align on a path forward
+
+I continued to chase problems that lived in that gap between impossible and just maybe, and Waymo, Google’s autonomous vehicle project, felt like just such a project. In 2019, I became the founding manager of a team dedicated to ensuring our motion planning software was fast, reliable, and easy for developers to improve.
+
+Our job was to ensure that as the software grew more advanced — able to handle more complicated driving scenarios — it remained fast. This was my first big challenge as a manager, and all of our attempts to keep the system fast had failed. In fact, the system was getting slower.
+
+I was stressed.
+
+Knowing we needed to remain flexible and consider multiple options, I took a deep breath and a step back. I realized we were guessing which parts of the system could be optimized instead of knowing which parts of the system needed to be optimized. We were taking shots in the dark when we needed a flashlight.
+
+So we stopped trying to blindly improve the system, and instead pivoted our strategy to building our flashlight — tools to measure our system speed more accurately. Within a few hours of going live, our first tool shed light on an opportunity, then another, and another. We didn’t just hold the line on the system’s performance, we made it even faster. With added clarity we could invest in only the problems worth solving.
+
+4. Speed enables quality
+
+I had already been at Notion for a year when Simon Last, our co-founder, started prototyping with the newest generation of LLMs. With more advanced technology, what I was trying to build at Google was finally just maybe possible. So I partnered with Simon to create the Notion AI team in January of 2023.
+
+Working with Simon, I learned the final ingredient for success — speed mobilizes flexibility, humility, and clarity into an accelerating force.
+
+To get speed, we needed to kill process. And so we did.
+
+Every day we reflect on whether or not what we’re doing is working. If it isn’t, we don’t wait — we pivot. Our team has just one recurring meeting where most everything happens: a daily standup. On Monday, we list the week’s goals in a synced block in Notion. When a question comes up, we discuss it, make a decision so the path forward is clear to everyone, and then we implement it — often within the hour.
+
+We were first to market with our initial AI product in early 2023, but we didn’t slow down afterward — in fact the ecosystem is evolving so rapidly we’ve had to move even faster. On the heels of that first launch, we built a new prototype that leveraged vector embeddings in a different way. We talked about it one day in standup, and within minutes agreed to go all-in and pause our other explorations. We released Q&A just a few months later.
+
+Since then, we’ve repeated this loop and are launching something new in a matter of weeks — it’s a paradigm shift in our AI product that we just started testing with external users this week. We can't wait for you to try it out.
+
+Want to join us in building the just maybe possible? We’re hiring 😉.

@@ -1,0 +1,65 @@
+Title: Everything we announced at Block by Block 2022
+Published Date: 2022-03-02T14:00-08:00
+URL: https://www.notion.so/blog/block-by-block-recap-2022
+
+Thousands of folks from around the world came together to learn, connect, and celebrate all the ways they use Notion at our second annual conference, Block by Block 2022! We were overwhelmed by the energy and support across the event — from all the questions we got in the chat to the love we saw on Twitter. Thank you for being part of the most inspiring community out there.
+
+The theme of the day was connection, and how our tools can help us feel more deeply connected to our work and the people we work with. Keynote speakers Martha Stewart and Ira Glass shared wisdom on creating remarkable experiences and scaling the creative process. Incredible business leaders like Bumble President Tariq Shaukat and Gong COO Kelly Wright shared how they think about building companies for a new generation of knowledge workers. And YouTube productivity experts Marina Mogilko and Thomas Frank demoed how they built their own viral businesses on Notion.
+
+Along with these stories and strategies, we announced quite a few new features and programs to help you create even more connection with Notion. For those of you who couldn’t make it, here’s everything we debuted today. Or watch the full keynote below!
+
+New sidebar helps companies scale into the thousands
+
+We’ve reimagined the way you can organize your sidebar so that companies with thousands of workspace members can scale seamlessly in Notion.
+
+Notion’s redesigned sidebar lets you create and organize all your docs under distinct teams like Marketing, Engineering, or Design — or cross-functional and project-based groups around things like a product launch (or a conference!). You can join only the teams you need and hide teams that aren’t relevant, curating your sidebar to focus on the work that matters most to you. This also gives you more granular control over viewing, sharing, and guest permissions on a team by team basis. The feature will roll out gradually starting this spring.
+
+Watch the demo →
+
+Better Databases unlock more customization and collaboration
+
+Databases are a core part of Notion — but we wanted to make them more flexible and useful. Which is why we’ve given them a major redesign so they’re easier to create, customize, and use with your team!
+
+Quick filters will let you explore different slices and views of your data without changing what everyone else sees, unless you want to. When creating new views, you can instantly re-apply filters, layout, and other options from existing views of your database. And we’ve consolidated menus and options for faster access and customization. You’ll see these changes roll out gradually in the coming weeks.
+
+Watch the demo →
+
+Connect other tools to Notion with Synced Databases
+
+We’ve heard how important it is for you to be able to connect Notion with other tools. Our new Synced Databases feature takes a big step toward that, allowing you to bring data from tools like Jira, GitHub, and Google Calendar into your Notion workspace and keep it structured as a database.
+
+We hope this helps you remove data silos and enable information to flow between Notion and every tool your team uses. Synced Databases will be available to use later this year.
+
+Watch the demo →
+
+The API is out of beta!
+
+The API has been one of our all-time most requested features. So we’re thrilled to announce that the API is out of beta with more support than ever before!
+
+We now support block types like synced blocks, columns, and simple tables, and have made it easier to install and approve apps with OAuth and admin controls. Plus, we improved and added to our documentation to help you get started even faster. Most importantly, integrations built with Notion’s API are more discoverable than ever in our brand new integration gallery, showcasing integrations our community has built to automate your workflows and easily sync information with Notion.
+
+Read more about what’s possible with the API →
+
+Explore the new integration gallery →
+
+New community programs to better support your work
+
+It’s no secret that our community is the best part about Notion. Every day, all of you around the world help us educate new users, advise thousands of teams, and support customers in over a dozen languages. We wouldn’t be here without you!
+
+We want to give back. To help you build your businesses and grow your careers with Notion, we’ve launched two new programs: Notion Certified and Notion Champions.
+
+Starting today, anyone can apply to become Notion certified and verify their Notion prowess! We’ve also built a directory of Notion Consultants so that our customers can find the support they need wherever they are, in many languages.
+
+For our Notion Champions program, we’re opening up a space for the many enthusiasts who set up their teams for success. Champions include folks who brought Notion to their teams to begin with, built their company’s first workspace, work to maintain it, or train their colleagues to get more out of it. As part of this community, these Champions will be able to connect with each other, swap tips, get early access to features, receive best practices and resources, and interact directly with us.
+
+We hope you’ll consider applying and joining us on this journey in new ways!
+
+Get Notion Certified →
+
+Join the Notion Champions community →
+
+Creating more connection across work and life
+
+All of these announcements — Teams, Better Databases, Synced Databases, the API, Notion Certified, and Notion Champions — build toward our long-term mission: to make it easier for you to craft Notion into the exact tool you need it to be. We hope they help you create more connections, so you can share information, stay aligned, and act faster.
+
+We’re thrilled to finally share what we’ve been working on with you, and hope it all helps you do more of what matters across your work and life. A big thank you to everyone who attended, contributed, and made Block by Block such a special experience. That’s a wrap!

@@ -1,0 +1,25 @@
+Title: Mastering the Art of the PRD
+Published Date: 2024-08-01T00:00-07:00
+URL: https://www.notion.so/blog/mastering-the-art-of-the-prd
+
+Starting product development without a Product Requirements Document (PRD) is like taking off without a flight plan—you’ll quickly find yourself in no-mans land. PRDs chart the course for future products and features, and help to make sure everyone moves in lock-step toward a clearly defined destination. They get you from Point A to Point B.
+
+But when you Google “how to write a PRD”, you’ll get millions of results that all say different things. Who to trust?
+
+We asked our Product team for some advice to help you nail your next PRD. Here’s what they said:
+
+Don’t remap the world. Product teams have been writing PRDs for years. Instead of building from scratch, get a running start with one of the many PRD templates in the Notion template gallery. Choose what works best, then tweak it to fit your needs.
+
+Make sure everything’s included. Whether you’re building a traditional PRD, a lean PRD, a 1-pager, or something more bespoke, include all necessary details to make sure everyone is navigating by the same compass. Things like a clearly define problem statement, a specific target audience, well-researched supporting evidence, and a rough timeline for launch are a good place to start.
+
+Tip: Add one-click buttons to your template to quickly add customized sections to your PRD.
+
+Leave space to grow. Project scope always changes. But if you use docs that can scale up or down as needed, it softens the impact of that scope creep. Create doc templates in Notion for PRDs of all shapes and sizes so you can choose what’s right for your project every time. Buttons are also a great way to quickly add in new sections, topics, and workflows into your already-in-flight PRD.
+
+Collaborate early and often. Tell me if you’ve been here before: you draft up a PRD and share it with your partner teams. Engineering and design nicely let you know that they can’t hit your timelines. Then marketing mentions they’ve already got a packed calendar of campaigns. Avoid this push back by getting everyone aligned early in the process. Tag task owners, mention stakeholders in comments, and create a meetings database to keep a historical record of every decision made.
+
+Connect work to what matters. PRDs are living documents. They require continuous upkeep so knowledge stays up-to-date. But that becomes especially challenging as projects grow and your team expands. In Notion, you can use database views and synced blocks to automatically sync as details change. That means fewer manual changes, more flow state.
+
+Tip: Use relations to connect separate databases for better clarity. For example, link your OKRs database to your Projects database to better connect goals with action.
+
+A well-crafted PRD can be a rudder for your team as they navigate the product development journey. When you use a tool that enables repeatable process and good collaboration, you’ll always know how to find your way forward with your team (and sanity) intact.

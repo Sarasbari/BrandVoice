@@ -1,0 +1,49 @@
+Title: Make with Notion Showcase EMEA: Highlights from our first European conference series
+Published Date: 2024-12-17T15:00+00:00
+URL: https://www.notion.so/blog/make-with-notion-showcase-emea-highlights
+
+Three cities. Hundreds of attendees. Countless moments of inspiration and connection.
+
+In November, we brought Make with Notion Showcase—our first in-person conference series—to Berlin, Paris, and London. These events united our diverse communities, from enterprise leaders to passionate builders. We were joined by many Notion executives, including our co-founder and CEO Ivan Zhao, who showcased the latest innovations revealed at our San Francisco flagship event. Berlin and Paris attendees received their own exciting news: Notion will establish data residency in Europe, with early access launching in spring 2025 (contact us to learn more).
+
+Beyond our announcements, what struck me most was seeing firsthand how vibrant our EMEA community has become, with Notion now integral to both established enterprises and emerging innovators. Each city revealed its unique character, but, together, they painted a compelling picture of how modern work is evolving.
+
+Access all the sessions in our digital hubs (Paris here) to catch up on Notion's latest product launches and future innovations, learn from industry leaders like Figma, TheFork, and Taxfix, and leverage new templates to enhance your Notion expertise.
+
+A showcase of customer innovation
+
+At the events, twenty-five remarkable customers took the stage to share their insights and accomplishments. Leaders from Accor, MOO, Pleo, and TheFork shared valuable perspectives as architects of change, discussing how they successfully implemented new technologies like Notion across their organizations.
+
+The afternoon of each event featured a series of lightning talks from companies like Figma, Leapsome, and Padoa that demonstrated challenges their organizations have solved using Notion. Taxfix shared how they optimized product delivery with with Jira-synced dashboards and charts. iProov explained how their change-management strategy has allowed them to maintain a ninety percent monthly active user rate in their Notion workspace. Eurécia showcased their approach to automating product-insight collection and improving stakeholder communication.
+
+These inspiring examples highlight how organizations are leveraging Notion to drive innovation and efficiency across their operations. From streamlining workflows to enhancing collaboration, each customer demonstrated unique approaches to solving complex business challenges, providing valuable insights for other organizations looking to optimize their digital workspaces.
+
+A celebration of customer success
+
+We celebrated outstanding customer achievements across three categories, recognizing their innovation and success while inspiring the broader community.
+
+For business impact, we honored organizations that demonstrated measurable improvements in efficiency and productivity. Recipients included Ashley Firth of Octopus Energy, Jean-Philippe Denis of Qonto, Dušan Stranatić of Taxfix, and Tanica Chow of Talon.One.
+
+The AI innovator category recognized individuals who are leveraging Notion AI to enhance productivity and drive innovation. Recipients included Karim Dasouki of Parloa, Amelia Kroner of Leapsome, Thomas Piault of Pennylane, and Will Jackson of Wayve.
+
+Our architects of change recognition celebrated individuals who successfully led company-wide Notion implementations. The recipients were Debora Donadello of KoRo and Guillaume Laurency of IDEX.
+
+The diversity of recognition recipients—from fast-growing startups to established enterprises—reflects the versatility of Notion and the innovative spirit of our community. Most importantly, these success stories serve as valuable blueprints for other organizations looking to transform their operations. They demonstrate that, with the right tools, strategy, and commitment to change, significant improvements in efficiency and collaboration are achievable.
+
+Software sprawl: A common challenge for knowledge workers
+
+Today’s businesses face a critical challenge: the average company uses more than eighty-eight tools just to get day-to-day work done. The challenge of “software sprawl” struck a chord with many of our customer speakers and attendees. At Dojo, scaling from hundreds to over one thousand employees across multiple locations triggered an explosion in the number of workplace apps. Adnan Khan, co-CEO and co-founder of Viva, shared a familiar frustration: productivity loss from constantly switching between different tools. Meri Williams, CTO of Pleo, observed that people are overwhelmed—not just by the number of tools, but by the variety of functions and knowledge required to use them.
+
+These aren’t isolated cases. Our recent partnership with Harvard Business Review (HBR) on a piece of joint research revealed how software sprawl hinders a company’s ability to manage organizational knowledge: while ninety-seven percent of organizations recognize the importance of managing organizational knowledge, only forty-four percent believe they’re doing it effectively. Even more telling, while eighty-six percent agree AI can improve knowledge management, only three percent of organizations currently use it.
+
+Several of our customers who are pioneering the use of AI for knowledge management shared valuable insights at the events. Their recommendations include maintaining accurate, reliable sources of truth, appointing knowledge champions at your organization, and embracing AI for smarter information retrieval (“stop searching, start asking AI”).
+
+Next-generation workers: The future is bright
+
+One of the most inspiring aspects of the Showcases was witnessing the remarkable growth of our Campus Leaders and the expanding young-professional segment of our regional user base. This year alone, we welcomed over one hundred new Campus Leaders across France, Germany, and the UK—many of whom joined us at the events.
+
+These young leaders are not only building thriving communities at their universities, but are also pioneering innovative ways of using Notion that are influencing how the next generation approaches work and collaboration. After all, by 2030, Gen Z and Millennials will make up nearly sixty percent of the workforce, so it’s exciting to see how they’re shaping the future how we work.
+
+A heartfelt thank you everyone who joined us and made each event truly special. They were a celebration of our community’s innovation, creativity, and collaborative spirit. We have a lot to reflect on based on your feedback, and we’re excited to continue to evolve our product and support our ever-growing community. 🫶
+
+Couldn’t join us? Experience the highlights through our Digital Hub (Paris here), where you’ll find keynotes, customer-success stories, and deep dives into AI’s impact on productivity and workflow management.

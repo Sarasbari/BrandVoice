@@ -1,0 +1,73 @@
+Title: An investor update template that (almost) writes itself
+Published Date: 2022-04-08T09:00-07:00
+URL: https://www.notion.so/blog/investor-update-template
+
+When preparing a pitch deck for potential investors, the team over at Argyle realized that a simple slide deck wouldn't do it. Argyle provides easier access to employment data, but their product is a bit technical. They needed something more dynamic to reflect the nuances of their product for potential investors. So they created their pitch deck in Notion and managed to raise $20 million.
+
+With their funding secured, the next step was to keep their investors up-to-date with their progress. Following the success of their pitch deck, they needed to deliver the same value through their investor updates.
+
+The investor update allows you to communicate everything you have done in the previous period with your company’s stakeholders. A good investor template allows you to present information and communicate it in a clear way — whether your information comes in the form of charts, tables of data, or links to PR stories. When information is organized and tailored to the reader (your investors), you’ll be able to develop a stronger relationship with them.
+
+Investor update essentials
+
+The information to include in your updates will vary from investor to investor. It’s important to agree on update-related expectations at the beginning of your relationship and stay consistent. This includes what information your investor would like to see and how often they expect to receive updates from you. Consistent investor updates help your investors analyze your progress and get a clear picture of your growth, as well as the areas that require improvement or intervention. By sharing metrics — like active users on a monthly basis — your investors can stay up-to-date with what’s happening at your company. If needed, they can use their expertise to help you navigate or solve problems.Still not sure what to include in your investor update? We’ve outlined some of the typical update information that your investors might be interested in seeing below.
+
+Metrics and data
+
+Presenting relevant key metrics and data can help paint a picture of your startup’s journey and growth. It promotes transparency and builds trust between you and your investors. Try to focus on data that is relevant to your key performance indicators (KPIs). Some metrics you might include are:
+
+Margins — have there been improvements in your profit margins in the previous period?Cash flow — how are you managing the capital that you’ve been given?Churn rate — this is a good way to help your investors understand any weaknesses you might have early on in your journey.Burn rate — by knowing the rate at which you’re spending your organization’s capital, your investors will have a better idea of when to expect that request for the next round of funding.Active users — this is the level of engagement your client base has with your product or service. It’s usually a good KPI for understanding growth.Monthly recurring revenue (MRR) — this is the amount of income that your company can expect to receive on a monthly basis. It’s essentially predictable revenue that is a result of subscriptions to your product or service. Customer acquisition costs — this refers to how much money you’re spending to acquire new customers, and how this compares to the income you receive from acquiring them. If you’re spending $20 to acquire a customer but only gaining $10, you might need to rethink your approach and pricing.
+
+Margins — have there been improvements in your profit margins in the previous period?
+
+Cash flow — how are you managing the capital that you’ve been given?
+
+Churn rate — this is a good way to help your investors understand any weaknesses you might have early on in your journey.
+
+Burn rate — by knowing the rate at which you’re spending your organization’s capital, your investors will have a better idea of when to expect that request for the next round of funding.
+
+Active users — this is the level of engagement your client base has with your product or service. It’s usually a good KPI for understanding growth.
+
+Monthly recurring revenue (MRR) — this is the amount of income that your company can expect to receive on a monthly basis. It’s essentially predictable revenue that is a result of subscriptions to your product or service.
+
+Customer acquisition costs — this refers to how much money you’re spending to acquire new customers, and how this compares to the income you receive from acquiring them. If you’re spending $20 to acquire a customer but only gaining $10, you might need to rethink your approach and pricing.
+
+Successes and stumbling blocks
+
+What were your wins during the previous reporting period? How did you reach these goals, and what is the significance of doing so? What better way to show investors the fruits of their backing than by sharing your recent successes. Examples of key wins you might want to share are new hires, product launches, internal processes refined, and positive customer feedback. You can then add insights into what you learned from the experience and how it was received by customers and team members. Losses and issues are inevitable. Sharing these with your investors might feel counterintuitive, but it’s important to do so if they are going to help you. Putting yourself out there like this also helps establish trust and gives investors an opportunity to step in and help you out.
+
+Runway
+
+This refers to how much capital or time you have left before you run out of cash. This is another great journey metric to share with an investor because it shows them how much further their investment will take you. This way, asking for follow-on funding is not likely to come as a surprise.
+
+Media highlights
+
+Sharing media mentions (positive or otherwise) will help your investors understand what your industry is saying about the work you’re doing. It also shows the position your company occupies within the market. You might also consider sharing significant news articles or opinion pieces from your industry, particularly if your investors are not familiar with it.
+
+Ask for help
+
+Use a section in your update to let your investors know what you might need help with. Being upfront about your needs can help you take full advantage of your partnership. Even if investors are not in a position to provide you with follow-on funding, they might know other potential investors. If your problems aren’t the type to be solved with further funding, your backers can use their extended networks to make intros, help you close deals, set meetings, raise funds, and even hire the right talent.
+
+Milestones
+
+Use the last section of your report to give an update on your company’s milestones. This helps build a sense of accountability through your updates. No matter what your milestones were, you’ll always want to showcase progress toward them. These could include reaching X active users by Q4 or launching an update or new feature by Q2. Did you achieve any in the last month? Which do you plan on achieving in the next month? What are your pending milestones?
+
+Tell a richer story with Notion
+
+Using the right medium to communicate your updates can make light work of the process and provide your investors with much richer information. Updates are normally sent via slide decks or even as email updates, both of which have limited functionality and might not be the best way to present the full picture. Using Notion to create and send your regular investor updates offers you much more. After all, your investor update is essentially a conversation between you and your investors. Notion allows you to communicate in a way that allows your voice to shine through and helps establish a stronger rapport with your investors.
+
+You have a living document. When all of your company’s information is housed in Notion, company updates are automatically updated directly in your document with little to no intervention. The document is also very easily shared. With an email or slide deck, you would need to manually pull data and information from other sources, making the process more time-consuming and error-prone.You can create a high-level summary with the option to easily access more in-depth, granular information through nested pages and gallery sections. “Notion is like a cross between an article and a website,” noted Shmulik Fishman, CEO of Argyle. With an email or slide deck, you need to find the right balance between giving enough information and not packing too much in. With Notion, investors choose how much depth they want to explore. This means you can send one document to multiple investors rather than sending a personalized update to each one. They’re in charge of their own journey through your update.Investors can tag, comment, and ask questions directly in the document. By communicating directly in the update, you avoid a lot of back and forth correspondence by email and keep the conversation on one platform. This helps minimize siloed information and access issues.
+
+You have a living document. When all of your company’s information is housed in Notion, company updates are automatically updated directly in your document with little to no intervention. The document is also very easily shared. With an email or slide deck, you would need to manually pull data and information from other sources, making the process more time-consuming and error-prone.
+
+You can create a high-level summary with the option to easily access more in-depth, granular information through nested pages and gallery sections. “Notion is like a cross between an article and a website,” noted Shmulik Fishman, CEO of Argyle. With an email or slide deck, you need to find the right balance between giving enough information and not packing too much in. With Notion, investors choose how much depth they want to explore. This means you can send one document to multiple investors rather than sending a personalized update to each one. They’re in charge of their own journey through your update.
+
+Investors can tag, comment, and ask questions directly in the document. By communicating directly in the update, you avoid a lot of back and forth correspondence by email and keep the conversation on one platform. This helps minimize siloed information and access issues.
+
+Argyle discovered the benefits of using Notion when they created their pitch deck and with it. They went on to use Notion to increase their team productivity, streamline the onboarding process for new hires, create their monthly investor update, and more.
+
+“A Powerpoint pitch deck doesn’t really paint a thoughtful, in-depth picture about a business. Notion has helped us tell a richer story about what we do and why it matters.” - Shmulik Fishman
+
+Get started with your very own investor update template
+
+Investor updates are complex documents and, with so many templates out there, starting your own document from scratch might not be worth the time and energy. At Notion, we’ve created the ultimate investor update template that you can duplicate, link to your company profile, customize as needed, and get started on right away. Create your own copy, add your information, select the parameters that matter to you, and Notion will take it from there.Check out the Notion investor update template right here.

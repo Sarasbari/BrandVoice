@@ -1,0 +1,49 @@
+Title: Notion’s Annual Craft & Values Week
+Published Date: 2024-11-19T14:00-08:00
+URL: https://www.notion.so/blog/craft-and-values-week
+
+What it is
+
+“Craft is about doing something to the best of your ability. Putting a lot of care into it,” Ivan, our CEO, shares in our Life @ Notion video. “We want our employees to come to Notion feeling like there’s a lot of love and care in this company.”
+
+One of the ways we show both care and attention to craft is how we invest in our employees. Every year, we host an annual Craft & Values Week—a five-day learning and development program packed with skill-building sessions on topics ranging from storytelling to design principles. This year, we offered sixty sessions, each led by an expert from either inside or outside of Notion.
+
+Craft & Values Week is designed around employee interests, our company priorities and values, and a through line of creativity—a complement to the flexibility of our ongoing learning and development programming (including a “Curiosity Card,” which is a choose-your-own-adventure learning stipend).
+
+Every year we learn more about what works and where we could improve. If you’re looking to build a learning organization that keeps people inspired, here are a few tips for how to build a program of your own.
+
+How we built it
+
+We set an ambitious goal of hosting sixty sessions, so we kicked off the planning process with plenty of runway—about eight months in advance. First, we used forms to crowdsource ideas for both external speakers and in-house L&D. The easy-to-sort properties in the database of responses—things like office location and topic themes—allowed us to design a week of programming with top-requested sessions (we knew the interest was there!). In addition to using forms to pool ideas, we held a listening tour with our leadership and the People team to understand desired areas for employee development. We also considered our current company-wide priorities, like Notion product training, to make sure the content was as relevant and timely as possible.
+
+After we zeroed in on the final makeup of programming (a balance of internal—budget friendly!—sessions and guest speakers), each session owner was given a template, which requested info on each session owner’s background—why they’re an expert in their field.
+
+Once the content was finalized, the presenters of each session created docs as guides and resources, so attendees could follow along and revisit the materials. We then launched a hub that housed information on all the sessions and ways to sign up, so employees could see everything in one place.
+
+Notion Calendar made scheduling each session seamless, allowing us to easily navigate the matrix of global time zones and work schedules, with the handy ability to embed Notion docs right inside the invitations.
+
+What we loved
+
+We invited a few special guests who share a deep love of craft. Here are a few standout quotes from their fireside chats:
+
+Hrishikesh Hirway, host of the podcast Song Exploder, shared advice on pursuing creative projects: “Music is, at its core, a feelings amplifier. It can take any emotion you have and magnify it tenfold—that’s what excites me most about it. For those unsure whether to pursue a creative idea, I advise auditing your level of excitement. If it’s something you can’t stop thinking about and feel thrilled by each time, it’s likely worth pursuing.”Pinterest co-founder Ben Silbermann offered a thought that resonated with our team: “Think of work as an adventure you embark on—a journey into the unknown together as a team. No one has done it before; you’ll figure it out as you go, with twists and turns along the way.”
+
+Hrishikesh Hirway, host of the podcast Song Exploder, shared advice on pursuing creative projects: “Music is, at its core, a feelings amplifier. It can take any emotion you have and magnify it tenfold—that’s what excites me most about it. For those unsure whether to pursue a creative idea, I advise auditing your level of excitement. If it’s something you can’t stop thinking about and feel thrilled by each time, it’s likely worth pursuing.”
+
+Pinterest co-founder Ben Silbermann offered a thought that resonated with our team: “Think of work as an adventure you embark on—a journey into the unknown together as a team. No one has done it before; you’ll figure it out as you go, with twists and turns along the way.”
+
+Hands-on workshops: There were also hands-on experiences, like the LEGO Serious Play workshop, that encouraged creative thinking and collaborative problem-solving in unexpected ways (like how to build a duck using a limited number of LEGOs). We even had two Buddhist monks from Thailand (who run their monastery on Notion!) lead us in a meditation.
+
+Points of view from inside Notion: Every member of Notion’s leadership team led their own workshops, too. Notion’s founder, Ivan, and Randy Hunt, Head of Design, hosted an intimate, living room–style conversation on design principles. Erica Anderson, Chief Revenue Officer, hosted a book club where she invited people to read Adam Grant’s latest book, Hidden Potential, and share their reflections.
+
+Three things we learned
+
+We learn new things every year! Here are three takeaways we‘ll incorporate in 2025:
+
+1. Leverage your in-house experts: The crowdsourcing form allowed us to easily identify internal experts on a variety of topics, including “the art of floral arranging,” “communicating with extreme clarity,” and “meditation” with our cofounder. After collecting feedback from the company about the week (also using forms), we learned that internal sessions were also the most popular: Folks loved learning from their colleagues.
+
+2. Call on your network: Your internal network is not only a great source of talent—it’s also a key resource to find external speakers. It’s always easier to bring someone in through a warm lead!
+
+3. Clear the meeting decks: It’s a big ask for folks to find time in their busy schedules to prioritize additional hours of learning. We found that people really wanted to participate, but the time they’d set aside often ended up being swallowed by work. Next time, we plan to free up time and space for people to participate rather than putting the onus on them to clear the decks.
+
+We can’t wait to do it again next year! Have more questions or want to share a creative L&D program your company is running? Send me a note at [email protected].

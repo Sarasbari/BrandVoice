@@ -1,0 +1,117 @@
+Title: How to write effective problem statements: A complete guide
+Published Date: 2023-10-04T00:00-03:00
+URL: https://www.notion.so/blog/problem-statements
+
+Albert Einstein once said, “If I had an hour to solve a problem, I’d spend 55 minutes thinking about the problem and five minutes thinking about solutions.”
+
+This idea may seem counterintuitive at first, but it makes sense. How can you determine an effective solution to an issue you don’t thoroughly understand?
+
+Before jumping to possible solutions, you need to examine the problem at hand, both at a granular level and within the bigger picture. And one of the best ways to do so is by writing a problem statement. Next time you want to channel Einstein at work, try this popular problem-solving method.
+
+What’s a problem statement?
+
+A problem statement is a description of a problem. But more than a platform to express grievances, it’s a crucial element of quality management, helping teams dig into two critical aspects of problem-solving:
+
+Where are we now — what’s the problem?Where are we going — what’s the desired outcome?
+
+Where are we now — what’s the problem?
+
+Where are we going — what’s the desired outcome?
+
+The main features of a problem statement
+
+A good problem statement encompasses several key elements, including:
+
+A definition — it begins with a clear issue description, stating the current situation and why this is a problem.Context — next, it provides the problem’s background, offering a broader understanding of the situation and its significance.Scope — the scope outlines the problem’s boundaries, indicating what it affects and its reach.Impact — the impact explains why the problem matters and its possible ripple effects. This step often requires a detailed risk assessment.Desired outcome — this element defines the ideal outcome of solving the problem, setting a clear target for the solution process.
+
+A definition — it begins with a clear issue description, stating the current situation and why this is a problem.
+
+Context — next, it provides the problem’s background, offering a broader understanding of the situation and its significance.
+
+Scope — the scope outlines the problem’s boundaries, indicating what it affects and its reach.
+
+Impact — the impact explains why the problem matters and its possible ripple effects. This step often requires a detailed risk assessment.
+
+Desired outcome — this element defines the ideal outcome of solving the problem, setting a clear target for the solution process.
+
+When to use a problem statement
+
+You can use problem statements in various scenarios to provide clarity and direction. Here are a few examples:
+
+Project planning — when initiating a new project, a problem statement can help provide a roadmap to define the project's objectives and highlight gaps or potential conflicts.Research — in academic or scientific research, a problem statement outlines the study’s purpose and guides the formulation of research questions and hypotheses.Business strategizing — businesses use problem statements to articulate potential challenges, identify inefficiencies or improvement areas, and develop approaches to decision-making.Product development — in product development, businesses often use a problem statement to define the user's needs or pain points that the product aims to solve. Process improvement — organizations that want to improve their processes use a problem statement to clarify the problem and determine the necessary improvements.
+
+Project planning — when initiating a new project, a problem statement can help provide a roadmap to define the project's objectives and highlight gaps or potential conflicts.
+
+Research — in academic or scientific research, a problem statement outlines the study’s purpose and guides the formulation of research questions and hypotheses.
+
+Business strategizing — businesses use problem statements to articulate potential challenges, identify inefficiencies or improvement areas, and develop approaches to decision-making.
+
+Product development — in product development, businesses often use a problem statement to define the user's needs or pain points that the product aims to solve.
+
+Process improvement — organizations that want to improve their processes use a problem statement to clarify the problem and determine the necessary improvements.
+
+By framing issues using a problem statement in these scenarios, teams can focus on resolving the most pressing and relevant problems, align their efforts, and communicate their objectives more effectively.
+
+How to write a problem statement: 6 steps
+
+Whether tackling a business challenge, conducting academic research, or initiating a new project, these six steps will help you create a clear and concise problem statement for your project.
+
+1. Identify the problem
+
+The problem could be a process gap, an unmet client need, or a conflict that requires resolution. Whatever it is, be clear and concise in this definition without delving into causes or possible solutions.
+
+For instance, a management issue could be low employee productivity. You might define the problem with language such as: "In the last quarter, our team's productivity has decreased by 20%, leading to missed deadlines and declining customer satisfaction. The exact cause of this decline is currently unknown. We must investigate and address this to improve team performance and customer service."
+
+2. Explain the impact
+
+Detail the consequences or impacts of the problem on the business, project, or research. This includes how the issue affects the team members and external stakeholders involved or the business’s overarching objective.
+
+These handy tools and methodologies can assist in measuring this impact, providing a quantifiable basis for understanding the issue’s severity and scope:
+
+Surveys and questionnaires — these tools gather first-hand feedback from employees, customers, or other relevant stakeholders. And this feedback reveals the problem’s effects on morale, productivity, and customer satisfaction.Performance metrics — examples of performance metrics include customer churn rates, revenue growth, and attrition rates.Process mapping — this technique outlines the steps in a process, allowing you to pinpoint where problems occur. By mapping out the process, you can visualize the problem's impact and identify improvement areas.Root cause analysis — teams use this type of analysis to identify the underlying cause of a problem. Tools like the "5 Whys" technique, fishbone diagrams, or a fault tree analysis can assist you with this approach.
+
+Surveys and questionnaires — these tools gather first-hand feedback from employees, customers, or other relevant stakeholders. And this feedback reveals the problem’s effects on morale, productivity, and customer satisfaction.
+
+Performance metrics — examples of performance metrics include customer churn rates, revenue growth, and attrition rates.
+
+Process mapping — this technique outlines the steps in a process, allowing you to pinpoint where problems occur. By mapping out the process, you can visualize the problem's impact and identify improvement areas.
+
+Root cause analysis — teams use this type of analysis to identify the underlying cause of a problem. Tools like the "5 Whys" technique, fishbone diagrams, or a fault tree analysis can assist you with this approach.
+
+3. Specify the location and time frame
+
+The specification should be as detailed as possible. It identifies the exact location (a specific department, team, or process) and time frame (a particular quarter, month, or week) during which the problem occurs.
+
+4. State the ideal condition
+
+Describe what the situation would look like if the problem didn’t exist. This provides your team with an ideal outcome and helps measure any solution's success.
+
+5. Highlight the gap
+
+Discuss the gap between the current situation (problem) and the desired situation (solution). This clarifies what needs to change and helps define solutions. Perhaps a data entry task and its associated issues currently takes two hours to complete, but the goal completion time is 30 minutes. Highlighting this gap will help you pinpoint areas for improvement.
+
+6. Propose possible solutions
+
+While the problem statement should focus on the issue itself, it can be beneficial to propose starting points to conduct a pre-mortem — a theoretical problem and a plan for how you’d address it. This should be a jumping-off point for brainstorming efforts. For instance, a marketing team struggling to attain new leads might propose solutions like revising the target audience, redesigning campaign messaging, or increasing the advertising budget.
+
+An example of a problem statement
+
+Consider a problem statement example involving a marketing team seeking to improve performance. The team recognizes several issues but must figure out the root causes and what would help solve them. Before trying to implement various solutions, they first take these steps to create a problem statement:
+
+1. Identify the problem — the marketing team examines its risk register. It determines that despite its robust product line, the company's market share has remained stagnant over the past two years.
+
+2. Explain the impact — this stagnation has led to a decrease in company profits by 15%, as competitors with aggressive marketing strategies continue to capture a larger market share. An Eisenhower matrix helps the team identify the highest impact areas at this stage.
+
+3. Specify the location and time frame — the problem has been particularly noticeable in the North American market from 2021–2023.
+
+4. State the ideal condition — ideally, the company should increase its market share by at least 5% annually, leading to consistent profit growth.
+
+5. Highlight the gap — the gap between the current and desired conditions is an annual increase of 5% in market share.
+
+6. Propose possible solutions — possible solutions include a revamped marketing strategy with a more substantial online presence, more targeted marketing campaigns, and strategic partnerships with influential industry figures.
+
+Identify and manage project risk with Notion
+
+To get the most out of your problem statements, you can rely on some handy tools for organization and tracking. Notion’s customizable templates, such as the risk register, allow you to create a visual, interactive risk management plan. And Notion's tracking and notification system ensures that all team members are aware of progress and changes.
+
+With the ability to integrate with other tools like Slack and Google Calendar, Notion helps keep your project timelines in check and mitigates the risk of missing deadlines. Try it today.

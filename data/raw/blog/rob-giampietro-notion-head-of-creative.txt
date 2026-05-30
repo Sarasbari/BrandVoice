@@ -1,0 +1,47 @@
+Title: Introducing Rob Giampietro as Notion’s new Head of Creative
+Published Date: 2023-06-16T09:00-07:00
+URL: https://www.notion.so/blog/rob-giampietro-notion-head-of-creative
+
+We’re excited to announce that Rob Giampietro has joined Notion as our new Head of Creative. Rob comes to us from Google, where he co-founded Insight+Innovation, a team that applied design to strategic questions across Google’s consumer product portfolio. His other projects at Google include the SPAN Conversations about Design & Technology global conferences, outreach efforts like design.google, Google-branded product components with Material Design, and AI-focused innovation work for Google’s AI UX team.
+
+Rob brings with him a wealth of experience at the intersection of design, culture, and technology. Before Google, he was Director of Design at MoMA. Prior to that, he spent ten years leading agencies including his own Giampietro+Smith and later Project Projects as Principal, where he worked on numerous brand and interactive projects for architects and institutions across arts, culture, education, and government.
+
+I spoke with Rob about his path to discovering Notion, why he decided to join us, how he sees the future of the product, and more.
+
+How did you first come to learn about Notion?
+
+A staff member at MoMA introduced me to Notion while I was looking for ways to better organize our creative team. I was immediately impressed with Notion, both the product and the brand. In fact, the brand inspired us to use black-and-white illustrations in our rebrand for MoMA Membership, which was the final project we delivered before lockdown in 2020.
+
+During the pandemic, I started using Notion personally to organize my life and found myself recreating information architecture patterns reminiscent of websites I’d built for clients earlier in my career. I also enjoyed learning from Notion’s vibrant creator community while having fun applying the product to new areas of my life.
+
+In what ways have you used Notion in your personal life?
+
+I’m a big book collector, so I started by creating a library catalogue. Then, as I prepared to make my first Thanksgiving, I created database views for groceries, recipes, mise en place, and even oven temperatures (GANTT-charted!) to make sure the whole project ran smoothly. Which it did!
+
+The more I played with the product — and it truly felt like playing, which was not a feeling I’d had with other productivity software — I started to make connections between the knowledge graphs I was thinking about at Google with Search & Assistant and the personal knowledge graphs that Notion empowered me to make for myself. As a designer and creative person, this felt like fertile ground to keep exploring.
+
+My Notion hobby soon touched on two of my three personal values: “Energize and expand opportunity for interdisciplinary creativity” and “Bring lifelong curiosity to systems of knowing.” The third, “Savor, understand, and protect the natural world” quickly found its way into Notion once my garden had a proper database of its own (thanks for the inspiration, Marie Poulin!).
+
+Fascinating! Anything unique or surprising about Notion that stood out to you?
+
+My VP at Google, Bobby Nath, likes to say that “Youth is the vanguard.” He meant that the culture and preferences of our world, especially in tech, are always shaped by the generation that's about to inherit it. On Insight+Innovation, we had a youth council, and their insights were always the best. They had incredible clarity on what they wanted, were quick to correct our ideas when they felt off, and were loyal towards companies and products that reflected their values and identity.
+
+At one point we analyzed the apps favored by Gen Z, and Notion nearly topped the list. Not only did this make me, a Gen Xer, feel cool for using Notion, but it's also when I really started to feel the urge to join the team and be a part of building that future with everyone here.
+
+I love that. What helped influence your decision to join Notion?
+
+Undoubtedly, the joy I took from must using the product was a huge factor. Additionally, as I got to know more Notinos, I became increasingly certain that we share many values and have an immediate, natural creative connection.
+
+On a more logical level, three factors likely contributed to my desire to join the team: the brand, the vision, and the opportunity.
+
+Brand is about how you make people feel and what they remember about you. Even as a smaller startup, Notion inspired its passionate community and even larger organizations like MoMA with its approach. Notion's brand has strong, authentic, and highly recognizable foundations. This is a credit to the team, and I'm excited to see where we take it from here.
+
+Notion's vision and mission statement — to make toolmaking ubiquitous — is truly inspiring.  It echoes McLuhan, mixed with Englebart, Nelson, Berners-Lee, and other foundational technologists and historians of technology. And this spirit truly motivates everyone here, across functions and offices. You might find yourself chatting with a customer support specialist about Hypercard during lunch. We're a team that loves building tools that are so essential, others love building with them.
+
+So true. And as for opportunity, what are you most excited to do at Notion?
+
+In joining Notion, I’m thrilled to be working with a great, interdisciplinary creative team—designers, illustrators, writers, filmmakers, strategists, producers, everyone—to tell stories that responsibly engage this transformative moment in our world. I was working at Google in Research & Machine Intelligence in 2017, the year that "transformers" (the deep machine learning models we now know as the "T" of GPT) were introduced. It was clear to me then that the next frontier in computing was arriving. I like to think about AI as a frontier of capability and understanding. As new capabilities arrive, it takes culture a bit of time to understand, evaluate, and normalize them. Generative AI and LLMs may have a slightly "magical" feeling about them now (including the mix of wonder and worry that magic can bring), but they may come to feel as commonly helpful as autocomplete or optical character recognition (OCR) feel now — two other predictive capabilities once known as "AI."
+
+Notion has already created a beautiful and highly customizable connected workspace that's beloved by individuals and teams. It's put complex data structures in the hands of non-engineers and empowered them to create anything they wish, to "program in plain English." Small building blocks we've introduced, including the latest AI Properties, can make a huge difference to what's possible for everyone using Notion. Our creative work is critical in building understanding, curiosity, and excitement for our products—it helps people imagine how Notion can help them to shine. What could be cooler than that?
+
+We're excited to have you join our team and can't wait to see the amazing things you’ll accomplish with Notion. Welcome, Rob!

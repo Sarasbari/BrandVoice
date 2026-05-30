@@ -1,0 +1,143 @@
+Title: A beginner’s guide to decision tree analysis
+Published Date: 2023-08-15T00:00-06:00
+URL: https://www.notion.so/blog/decision-tree-analysis
+
+Every decision has a consequence. Some are minimal, and some are more impactful than you’d anticipated — which can lead to roadblocks.
+
+You can’t prevent everything. But knowing the potential results of a given situation and having a solid solution for each of them can help you make solid choices while keeping risks in mind, thus lessening the impact when unanticipated results do happen.
+
+The path from decision to consequence is rarely straight. It can twist and turn and branch off in many directions — so much so that if you were to sketch a drawing of any important decision with its possible outcomes, it’d probably look like a tree.
+
+Here’s how to weigh decisions and get from the root to the fruit with a decision tree analysis.
+
+What’s a decision tree analysis?
+
+A decision tree is a flowchart that maps out the potential consequences of a decision. It begins with one central idea that branches out into each choice involved and its possible outcomes. Depending on how you draw it, it usually looks like a tree diagram — a strong idea at the base that progresses into smaller and more complex ones.
+
+Decision trees use four symbols:
+
+Decision nodes — these are squares, and they each represent a decision on your tree. Alternative branches — these are lines that branch out from each node, showing alternate decision routes.Chance nodes — these are circles demonstrating all possible outcomes of each choice.End nodes — end nodes show final outcomes and usually appear in the shape of a triangle.
+
+Decision nodes — these are squares, and they each represent a decision on your tree.
+
+Alternative branches — these are lines that branch out from each node, showing alternate decision routes.
+
+Chance nodes — these are circles demonstrating all possible outcomes of each choice.
+
+End nodes — end nodes show final outcomes and usually appear in the shape of a triangle.
+
+Here’s an example of those elements in action:
+
+Your decision node can be at the bottom or at the top of the chart. The goal is just to map out the paths your decision could take, visually placing outcomes next to each other so they’re easier to compare. This helps you determine an optimal course of action.
+
+The importance of decision trees
+
+In business, you can use decision trees to solve problems, manage costs, and reveal opportunities — whatever choices you need to make to keep things running. These trees are invaluable tools for all levels of management, but they’re also helpful for financial and marketing departments, or as a basis for investment opportunities.
+
+If you’re a project manager, decision trees can help you evaluate rewards and risks along with their likelihood and impacts. They help you create a visual distinction between important decisions where you’ll have control and chance occurrences where you might not. And for the latter, you can explore how best to approach the unknown.
+
+Advantages and disadvantages of decision tree analysis
+
+Like many business practices, creating a decision tree analysis has its downsides, especially depending on what you use it for and how — but the pros far outweigh the cons.
+
+The advantages to risk tree analysis are:
+
+Efficiency — as an often-digital flowchart, it requires minimum time and resources to create.Transparency — a decision tree provides a straightforward, no-nonsense decision-making process to prevent overcomplication.Flexibility — if needed, adding or subtracting decisions and new ideas to the tree is relatively easy.
+
+Efficiency — as an often-digital flowchart, it requires minimum time and resources to create.
+
+Transparency — a decision tree provides a straightforward, no-nonsense decision-making process to prevent overcomplication.
+
+Flexibility — if needed, adding or subtracting decisions and new ideas to the tree is relatively easy.
+
+However, possible disadvantages of risk tree analysis include:
+
+Complexity — without a clear goal, your risk trees could become too convoluted and congested. Risk — to make the right choice, you need to carefully analyze all possible outcomes. A decision tree is a tool, not an answer. You’re only estimating outcomes, which doesn’t eliminate all risk. Instability — modifying the data you add to the risk tree can cause a fracture in its cohesion and messaging. A small change could bring down the whole structure and require more changes than you want to make.
+
+Complexity — without a clear goal, your risk trees could become too convoluted and congested.
+
+Risk — to make the right choice, you need to carefully analyze all possible outcomes. A decision tree is a tool, not an answer. You’re only estimating outcomes, which doesn’t eliminate all risk.
+
+Instability — modifying the data you add to the risk tree can cause a fracture in its cohesion and messaging. A small change could bring down the whole structure and require more changes than you want to make.
+
+How to make a decision tree analysis
+
+Creating a personal or business decision tree gives you the tools you need to make outcome-centric, logical choices. Use these five steps to get started:
+
+1. Begin with a single idea
+
+Start your decision tree diagram with the main idea or singular decision. Use the decision node symbol (a square) here. Soon you’ll add branches connecting the main idea to varying consequences.
+
+If you’re having a tough time determining the main idea, consider using a decision journal template like this to nail it down:
+
+2. Attach chance and decision nodes
+
+After solidifying the main idea, add chance and decision nodes as you think of them. This is where a brainstorming session comes in handy. And with a chance node (the circle symbol), adding an alternate branch may be necessary if there’s more than one potential outcome to a decision.
+
+3. Keep expanding the tree to the endpoints
+
+Continue adding necessary chance and decision nodes until you’ve reached endpoints and can’t see any reason to expand the tree diagram further. Once it’s complete, you can begin analyzing each decision in more depth.
+
+4. Calculate your tree values
+
+This is where the real analysis begins. Your criteria for a final choice depends on how much risk you can handle and what your resources are, so it’s a good idea to meet with your team to outline those standards as you start this process.
+
+Often decision trees have a dollar value attached to each outcome. Maybe your company wants to upgrade a top-selling product and contemplates whether or not to rebrand or rename it. Each option costs a different amount, so knowing what resources you’d need for each one will help you make a decision with the expected value return in mind.
+
+If you want to get technical, you can calculate the expected value by applying this formula:
+
+Expected value (EV) = (First possible outcome x Likelihood of outcome) + (Second possible outcome x Likelihood of outcome) − Cost
+
+5. Analyze and evaluate the outcomes
+
+Now that you’ve calculated the numerical outcomes for each decision, it’s time to evaluate which is best for your business. This isn’t as easy as it sounds. Sometimes the more expensive, resource-heavy option yields more significant results down the road.
+
+The key here is to meet with everyone involved and gather as much information as you can so you don’t miss any vital points. Chances are you’ll forget something, but just as with any decision-making models, collecting as much data as possible is best practice.
+
+A decision tree analysis example
+
+Say your company has decided to expand its brand awareness by launching an aggressive marketing campaign. It’s your task to determine which course of action has the biggest potential reach. Using a decision tree analysis lets you explore alternatives and possible repercussions so you and your team can make an informed decision.
+
+In this scenario, your decision nodes might be:
+
+TV advertising — $250kEmail campaign — $75kYouTube ads — $125kGoogle paid ads — $50k
+
+TV advertising — $250k
+
+Email campaign — $75k
+
+YouTube ads — $125k
+
+Google paid ads — $50k
+
+The chance nodes may be:
+
+Low and high potential revenue for TV advertising — 30% and 45%Low and high potential revenue for email campaign — 45% and 50%Low and high potential revenue for YouTube ads — 45% and 65%Low and high potential revenue for Google paid ads — 25% and 60%
+
+Low and high potential revenue for TV advertising — 30% and 45%
+
+Low and high potential revenue for email campaign — 45% and 50%
+
+Low and high potential revenue for YouTube ads — 45% and 65%
+
+Low and high potential revenue for Google paid ads — 25% and 60%
+
+Calculating the expected values may yield end nodes that look like:
+
+Decision 1 potential profits — $600kDecision 2 potential profits — $300kDecision 3 potential profits — $500kDecision 4 potential profits — $150k
+
+Decision 1 potential profits — $600k
+
+Decision 2 potential profits — $300k
+
+Decision 3 potential profits — $500k
+
+Decision 4 potential profits — $150k
+
+While Decision 1 appears to have the highest profitability yield, the risk is greater because of the initial expenditure, and the profit-over-cost percentage is less promising than Decision 3. With your budget of $350k, you decide to maximize your options by going with both TV advertising and an email campaign.
+
+Make effective decisions with Notion
+
+Whether hand-drawn or made with computer tooling, a decision tree is a great method to consider for expanding your opportunities and evaluating profitability. But it can’t do everything.
+
+That’s why Notion offers a collaborative online environment to support you and your team through every decision. Access free templates like a roadmap priority matrix and a priority planner that help you efficiently manage your tasks and make the best possible decisions.

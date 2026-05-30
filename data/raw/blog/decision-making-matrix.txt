@@ -1,0 +1,111 @@
+Title: The decision-making matrix: How to make better choices
+Published Date: 2023-04-27T00:00-06:00
+URL: https://www.notion.so/blog/decision-making-matrix
+
+There’s no such thing as the perfect choice. But you can get close.
+
+Imagine you’re a hiring manager at a tech startup, and you have to decide whether to hire a candidate with great technical skills but lesser communication skills, or a candidate with slightly weaker technical skills but excellent communication. This complex choice requires careful consideration since hiring and onboarding new employees can greatly strain your HR team’s limited resources.
+
+Enter: the decision-making matrix.
+
+What’s the decision matrix?
+
+The decision matrix, also known as the options matrix or decision-making matrix, is a tool that enables you to evaluate your options based on a predetermined set of criteria following a quantitative method. The criteria you set define important factors for each option.
+
+To kick off the decision-making process, you give each criterion a "weight" by scoring it. Then you score each option against each criterion, iterating through all your options.
+
+To get an option's weighted score, you multiply each of its criterion scores by their weight, then sum up an option's weighted scores for its overall score. The option with the highest total score is the one that best meets the predetermined criteria.
+
+Using a decision matrix enables you to reach a more objective decision by weighing each criterion on its own before comparing it with others. This way you determine each criterion’s value regardless of how well an option implements that criterion, and minimize subjective opinions or biases. This is especially useful for business decisions where stakeholders may hold subconscious prejudices.
+
+When to use a decision matrix
+
+In the hiring dilemma scenario above, a decision matrix would help you decide which skills, like communication or technical expertise, are most important before evaluating each candidate’s skill level. You can thus use the decision matrix scoring system to arrive at a more objective hiring decision. And in this hiring decision matrix example, the matrix is especially useful because you must make a single objective decision and base it on multiple criteria. Here are the scenarios where a decision matrix shines best.
+
+1. Your decision depends on multiple criteria
+
+When you need to make an important decision that depends on different factors, a decision matrix can help you evaluate and prioritize the list of options based on how they score.
+
+This is helpful in situations when you’re:
+
+Comparing multiple products with different featuresSelecting a vendor based on their price, quality, and reputationChoosing who to promotePicking candidates to interviewSetting task deadlines
+
+Comparing multiple products with different features
+
+Selecting a vendor based on their price, quality, and reputation
+
+Choosing who to promote
+
+Picking candidates to interview
+
+Setting task deadlines
+
+2. You can only have one outcome
+
+Fall-backs and second choices are nice, but sometimes you need a single final answer. And once you’ve chosen the solution, you can’t go back and change it.
+
+In the hiring situation above, if you select Candidate A and reject Candidate B, it's tough to go back and “undo” your selection. Even if you don’t reject Candidate B outright before Candidate A accepts, they may find another opportunity in the meantime.
+
+When you need to make a decision where you can only choose one outcome, using a decision matrix helps you evaluate and prioritize your options based on how well they meet your criteria. This is helpful in situations like investment opportunities or project selection.
+
+3. You need to have an objective solution
+
+While it’s nearly impossible to be completely objective, decision matrices come close. By separating how you weigh each criterion from how each option scores against them, you create an almost double-blind situation that reduces bias and emotional influence. This enables you to be more objective and is helpful in cases like performing a risk assessment, evaluating employee performance, and tracking project progress.
+
+4. You’re comparing multiple similar options
+
+A decision matrix can help you identify the subtle differences between multiple similar options and evaluate them objectively. This is useful in situations like product selection, marketing campaign evaluations, or software purchasing when the options can be quite similar.
+
+How to make a decision matrix: 6 steps
+
+Whether you're choosing between job offers, deciding which project to prioritize, or making a major vendor choice, a decision matrix can help eliminate subjectivity in your thought process. Here’s a step-by-step guide for creating a decision matrix, with an example throughout.
+
+1. Order your options and criteria in a table
+
+Create a table in a productivity platform like Notion and list all your options as column headings and important criteria as row headings.
+
+If you're deciding between different job offers, the options could be “Company A,” “Company B,” and “Company C,” and the criteria could be “Salary,” “Commute time,” “Benefits,” “Work-life balance,” and “Career growth potential.”
+
+2. Weight your criteria
+
+For each criterion, identify what’s essential and what’s desirable and give each a weight on a rating scale, like 1–5, with the higher number indicating the more important features. If you value Salary more than Commute time, assign a higher weight to the Salary criterion.
+
+3. Score each decision’s consequences
+
+Evaluate every option against your criteria and assign a score based on your set scale, like 1–5. A higher number indicates that the option performed better for a specific criterion.
+
+Consider how Companies A, B, and C measure up in terms of their compensation package. If Company A offers the best compensation, give them a “5.” If Company B offers the worst compensation package, score them as “1.” And if Company C comes close to what you want but falls short, give them a “4.”
+
+4. Multiply the scores by each criterion’s weight
+
+For each option, multiply how it scored in each criterion against the weight of that criterion.
+
+If Company A scored a 5 for Salary, which you weighted as a 4, multiply 5 x 4 to get a weighted score of 20. Do the same for the rest of your options and criteria to derive weighted scores for each criterion for each option.
+
+5. Sum up the weighted scores
+
+Let’s say Company A has the following weighted scores:
+
+20 for Salary10 for Commute time25 for Benefits15 for Work-life balance
+
+20 for Salary
+
+10 for Commute time
+
+25 for Benefits
+
+15 for Work-life balance
+
+Its weighted sum would be 20 + 10 + 25 + 15 = 70.
+
+Repeat this process for each option.
+
+6. Make your final decision
+
+Now compare these weighted sums to determine the best decision. This is the option with the highest score.
+
+If Company A has a weighted sum of 70, Company B has 65, and Company C has 85, then Company C is the most suitable choice, based on all your criteria and their importance.
+
+Organize yourself to make better decisions
+
+Using a matrix lets you make complex decisions more efficiently while maintaining objectivity. Start making better choices right away with a decision matrix template that’s fully customizable and integrate into your project management workflow. You could also use our decision-making journal and simple journal templates to declutter your decision-making workflow.

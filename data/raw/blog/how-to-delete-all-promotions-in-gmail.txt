@@ -1,0 +1,227 @@
+Title: How to delete all promotions in Gmail at a go
+Published Date: 2024-11-22T08:00+02:00
+URL: https://www.notion.so/blog/how-to-delete-all-promotions-in-gmail
+
+Gmail has several useful email management features, including separate tabs for promotional emails and social updates. This categorization ensures that important mail reaches your main inbox while the rest goes to the corresponding tab.
+
+It also simplifies inbox organization as you can find unnecessary mail in one place and delete it in bulk to free up storage. This guide will show you how to delete all promotions in Gmail at once and teach you about the additional steps you can take to keep your inbox clean.
+
+How to delete promotions in Gmail
+
+To mass-delete all promotional emails, follow these steps:
+
+Go to the Promotions tab next to Primary above your inboxClick the checkmark underneath the search barDoing this will select all emails from the given page. To expand the selection to all emails, click Select all [XXX] conversations in PromotionsClick the bin icon above the inboxConfirm the action in the pop-up window
+
+Go to the Promotions tab next to Primary above your inbox
+
+Click the checkmark underneath the search bar
+
+Doing this will select all emails from the given page. To expand the selection to all emails, click Select all [XXX] conversations in Promotions
+
+Click the bin icon above the inbox
+
+Confirm the action in the pop-up window
+
+All emails will move from the Promotions tab to the Trash folder, which Gmail will empty on its own after 30 days. If you want to permanently delete emails from Trash without waiting, take these steps to do it manually:
+
+Click the down-facing arrow in the left-hand menu to expand the folder listGo to TrashClick Empty Trash now above the inboxConfirm the deletion
+
+Click the down-facing arrow in the left-hand menu to expand the folder list
+
+Go to Trash
+
+Click Empty Trash now above the inbox
+
+Confirm the deletion
+
+Note that deleting promotional emails won’t help you avoid Gmail’s ads, which are placed quite prominently in the Promotions tab. They can distract you and damage the overall user experience, but there is no way around them besides signing up for one of Gmail’s paid plans.
+
+Keep reading: Find out what happens to your old Gmail emails after some time.
+
+How to delete promotions in the Gmail app
+
+Deleting promotions in Gmail’s app is far more inconvenient than doing it through the web version because the app doesn’t have a bulk-select feature—you must select conversations one by one. If you don’t mind this and still wish to delete emails through the app (perhaps because you don’t have many promotional emails), you can take the following steps:
+
+Click the hamburger icon in the upper-left corner of the screenGo to PromotionsPress and hold the email you want to remove (skip the first email or two if they’re marked with Sponsored because these are ads)Tap on all the emails you want to deleteTap the bin icon above the inbox
+
+Click the hamburger icon in the upper-left corner of the screen
+
+Go to Promotions
+
+Press and hold the email you want to remove (skip the first email or two if they’re marked with Sponsored because these are ads)
+
+Tap on all the emails you want to delete
+
+Tap the bin icon above the inbox
+
+You can remove the emails from Trash the same way you would in the web version.
+
+How to delete the Promotions tab in Gmail
+
+Besides deleting promotional emails, you can remove the entire Promotions tab from your inbox if you don’t want the tabbed view. Here’s how to do it on the desktop/browser version:
+
+Click the gear icon in the upper-right corner of the screenGo to See all settingsOpen the Inbox tabDeselect Promotions under CategoriesScroll down and click Save changes
+
+Click the gear icon in the upper-right corner of the screen
+
+Go to See all settings
+
+Open the Inbox tab
+
+Deselect Promotions under Categories
+
+Scroll down and click Save changes
+
+You can remove the tab from the app by taking these steps:
+
+Tap the hamburger icon and scroll down to SettingsUnder Inbox, go to Inbox customizations > Inbox categoriesToggle Promotions off
+
+Tap the hamburger icon and scroll down to Settings
+
+Under Inbox, go to Inbox customizations > Inbox categories
+
+Toggle Promotions off
+
+Tips for maintaining a clean Gmail inbox
+
+Deleting promotional emails is only the first step to organizing your inbox. It doesn’t do much in the long run because you will keep receiving new messages from advertisers. Worse yet, you may be receiving spam that doesn’t get sorted to its dedicated folder automatically, so it ends up in your inbox.
+
+To prevent these issues, you should take two steps that go beyond deleting emails:
+
+Unsubscribe from newsletters you no longer followBlock and report spam emails
+
+Unsubscribe from newsletters you no longer follow
+
+Block and report spam emails
+
+Keep reading: If dealing with clutter manually seems like a chore, check out our guide to the best Gmail cleaner apps.
+
+How to unsubscribe from emails in Gmail
+
+To prevent unwanted ads and updates from the newsletters you’re not interested in, use Gmail’s convenient unsubscribe feature. Take the following steps to remove yourself from email lists:
+
+Open the email you want to unsubscribe fromClick Unsubscribe in the header next to the sender’s emailConfirm the unsubscription
+
+Open the email you want to unsubscribe from
+
+Click Unsubscribe in the header next to the sender’s email
+
+Confirm the unsubscription
+
+This button isn’t visible in the app, so you have two options for unsubscribing once you open the mail:
+
+Find the sender’s unsubscribe button (typically placed at the end of the email)Tap the three-dot icon in the upper-right corner and choose Unsubscribe
+
+Find the sender’s unsubscribe button (typically placed at the end of the email)
+
+Tap the three-dot icon in the upper-right corner and choose Unsubscribe
+
+How to report and block spam
+
+Spam emails might evade Gmail’s detection and reach your inbox, causing distractions and potentially exposing your data to significant risks. Deleting them isn’t enough because you will most likely receive more from the same sender, so you should block them and report the email. Take the following steps to do so:
+
+Open the spam emailClick the three-dot icon in the upper-right cornerYou’ll see the option to block the sender and report spam or phishing. Choose the corresponding option and confirm it
+
+Open the spam email
+
+Click the three-dot icon in the upper-right corner
+
+You’ll see the option to block the sender and report spam or phishing. Choose the corresponding option and confirm it
+
+As you report spam, Google’s detection algorithm should get better at identifying it. In case the email is a phishing attempt, refrain from taking any action that would reveal your sensitive information.
+
+A cluttered inbox can make it much harder to spot spam and phishing emails. When your inbox is overflowing with promotions and other non-essential messages, it’s easy for malicious emails to slip through and compromise your account.
+
+This is why it’s useful to have an email service that helps you maintain an organized inbox. In other words, choosing an email service that offers robust organizational tools and also prioritizes your important messages allows you to quickly identify anything suspicious.
+
+Why you need a productivity-first email service
+
+Email services like Gmail provide some basic communication and organizational tools. However, if you’re looking for specific features that really help you manage your email efficiently and productively, you might find them a bit lacking.
+
+You may encounter challenges that impede your workflow and productivity, as explained in the table below:
+
+ChallengeKey issueImpactCluttered inboxA constant influx of emails cluttering the inboxLeads to missed messages, increased stress, and time-consuming searchesTime-consuming tasksRoutine email tasks taking up too much of your timeReduces productivity and makes it difficult to stay focusedInefficient workflowA lack of integration and customization in your emailCauses app-switching fatigue and may also cause disorganization in your workflowLimited customizationRigid inbox layout and organizationDelivers a generic email experience, inflexible email management, and poor prioritization
+
+Challenge
+
+Key issue
+
+Impact
+
+Cluttered inbox
+
+A constant influx of emails cluttering the inbox
+
+Leads to missed messages, increased stress, and time-consuming searches
+
+Time-consuming tasks
+
+Routine email tasks taking up too much of your time
+
+Reduces productivity and makes it difficult to stay focused
+
+Inefficient workflow
+
+A lack of integration and customization in your email
+
+Causes app-switching fatigue and may also cause disorganization in your workflow
+
+Limited customization
+
+Rigid inbox layout and organization
+
+Delivers a generic email experience, inflexible email management, and poor prioritization
+
+To overcome these challenges, you need an email service that empowers you to:
+
+Organize your inbox effectivelyAutomate your routine tasksStreamline your workflowCustomize your email experience
+
+Organize your inbox effectively
+
+Automate your routine tasks
+
+Streamline your workflow
+
+Customize your email experience
+
+If achieving all the above sounds appealing, consider Notion Mail, a smart, personalized alternative to Gmail that helps you reclaim your time and keep your inbox focused.
+
+Switch to the productive side of email with Notion Mail
+
+If you’re ready to move beyond a basic inbox and enhance your email management experience, Notion Mail is an excellent solution. It’s an AI-first, builder-focused email client that transforms how you manage your communication, allowing you to turn your inbox into a command center that adapts to your unique workflows.
+
+With Notion Mail, you’re not spending hours on simple tasks—you can manage every aspect of your workflow quickly. Here’s how:
+
+Effortlessly schedule meetings by using the short command /schedule or inserting a scheduling button directly into your emails, so you can skip the email ping-pong of coordinating times.Automatically organize your inbox by using the AI autopilot to auto-sort, label, and filter your emails without your manual input. Create custom views by tailoring your inbox to focus on specific projects, clients, or tasks so you can see only what’s relevant at the time. Save time by creating snippets—reusable, pre-written templates that you can insert into your emails with a single click. Instantly reply to emails using auto-replies or rely on AI-powered summaries to grasp the essentials of lengthy emails.One-click unsubscribe feature to delete noisy senders from your inbox.
+
+Effortlessly schedule meetings by using the short command /schedule or inserting a scheduling button directly into your emails, so you can skip the email ping-pong of coordinating times.
+
+Automatically organize your inbox by using the AI autopilot to auto-sort, label, and filter your emails without your manual input.
+
+Create custom views by tailoring your inbox to focus on specific projects, clients, or tasks so you can see only what’s relevant at the time.
+
+Save time by creating snippets—reusable, pre-written templates that you can insert into your emails with a single click.
+
+Instantly reply to emails using auto-replies or rely on AI-powered summaries to grasp the essentials of lengthy emails.
+
+One-click unsubscribe feature to delete noisy senders from your inbox.
+
+By combining AI-powered automation with customizable workflows, Notion Mail enables you to take better control of your inbox and boost your productivity.
+
+Sign up for Notion Mail
+
+Notion Mail isn’t just a standalone tool; it seamlessly integrates with other powerful Notion tools to help you achieve full-on efficiency beyond email. This means all your favorite Notion tools are accessible to you without switching between apps. You can gain access to all of the above features in a single step—all you need to do is sign up using your Gmail or Google account!
+
+If you need more advanced AI-powered or automated features, you can get the Notion AI add-on feature.
+
+Bonus read: Get the most out of Gmail with our resourceful tutorials or find the perfect alternative with our comparison guides:
+
+Gmail account not receiving emails How to remove a Gmail account from an iPhoneHow to remove a Gmail account from a phoneGmail vs. Apple Mail
+
+Gmail account not receiving emails
+
+How to remove a Gmail account from an iPhone
+
+How to remove a Gmail account from a phone
+
+Gmail vs. Apple Mail

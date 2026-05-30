@@ -1,0 +1,71 @@
+Title: How Notion AI protects user privacy and user data and enhances user trust when people use generative AI
+Published Date: 2023-10-20T02:00-07:00
+URL: https://www.notion.so/blog/humans-in-the-loop-creating-intuitive-and-trustworthy-ai-experiences
+
+Do you trust AI? It’s a complex question, because trust can mean many things.
+
+Most people think about data security when they consider the question. But the rise of generative AI (GenAI) presents a new set of trust challenges, both for developers and anyone who uses the products they develop. When you prompt a GenAI model, you’re giving decision-making power to software that works differently than any that came before it. Given these generative models’ built-in randomness, can you trust it to do the right thing, and to do so reliably? What does the ‘right thing’ even mean?
+
+At Notion we aim to build AI tools that balance being easy to use and helpful with also being accurate and trustworthy. One way to achieve this balance is by making sure people have the right amount of input and visibility into AI’s analytical process. We call this keeping humans in the loop.
+
+GenAI generativity is a double-edged sword
+
+I’m a user researcher with a PhD in cognitive neuroscience; my doctoral research was on reinforcement learning, or the process by which our brain uses environmental feedback to learn and make decisions. These days I’m thinking about how that process applies to AI.
+
+Almost all computer software to date has behaved deterministically — done exactly what it was programmed to do, every time. Even most early consumer tech AI models were designed to predict things with very high accuracy, and deliver the results that users expected.
+
+GenAI is different. Today’s large language models (LLMs) are trained on datasets containing billions of web pages and generate text based on complex probability distributions — analyzing the co-occurrence of words across those vast datasets. But rather than merely selecting the most predictable next word as a simplistic autocomplete might, GenAI models occasionally opt for an alternative choice within the distribution, infusing an element of creative unpredictability to their responses — the “generativity” that creates something new.
+
+This variability is both a feature and a bug. It’s what produces GenAI’s uncanny language prowess. When you talk to one of these new models, it feels a lot like you’re talking to a person. But ask that model the same question over and over and you’ll often get back radically different answers.
+
+That variability makes things interesting.
+
+Context helps us make sense of information
+
+Let’s say you give a GenAI model this prompt: What were the main critiques of our new product launch? But no one document it can reference fully answers the question. You perhaps could feed it snippets of user feedback, App Store reviews, and support tickets, and have it synthesize insights from these sources into a high-quality answer.
+
+You might be thinking, ”A high-quality answer? Does that mean the right answer? Or just an answer that sounds coherent? And how can I tell the difference?”
+
+The truth is, absent context, you can’t.
+
+When you ask someone a question in real life, your brain considers many factors in assessing their response. What do you know about this person? What biases might they bring to this topic? The same analytical process occurs when you surf the web. Who wrote this page? How relevant is it today? We humans use these auxiliary signals — largely automatically, and arguably not as rigorously as we should — to gauge the trustworthiness of new information.
+
+With GenAI, this is difficult to do. Early LLMs read prompts and respond, but they’re black boxes. You have no idea how the model analyzed your question and, most of the time, no awareness of the extent to which the built-in randomness influenced the answer.
+
+I believe the way to produce genuine human–AI synergy is to create tools that support our natural process of contextual learning and decision-making. Keeping humans in the loop means ensuring that when we use AI, we can understand and give input into the actions our models are taking on our behalf.
+
+Being able to influence our tools helps us trust them
+
+With Notion AI, we’ve tried to balance pre-built features that work right out of the box with flexibility that empowers users to customize AI output to suit their needs. Generally speaking, Notion users — really, all knowledge workers no matter what tool they’re using — spend their time generating, modifying, or finding information. Keeping humans in the loop means something different across each of these interaction types.
+
+When you’re generating information, you can prompt AI to produce an entire draft for you. Or you can iterate with AI at each step of the writing process, from brainstorm to outline to draft. In this case, the output of each step is the input of the next step.
+
+When you’re modifying an existing document, AI can either work on the document as a whole or work within specific blocks of content you’ve selected. Here, there are nearly endless permutations of how AI can follow your preferences to modify your content.
+
+And if you’re finding information, you can have Notion AI pull out things like action items from meeting notes. But you can also ask it to study the text and extract new insights — a combination of finding and generating information.
+
+There are countless nuances of how AI interacts with content, and countless questions for AI technologists to answer about how to keep humans in the loop. When and how should we involve users in each type of AI interaction? How can build collaborative experiences by balancing user- and AI-driven actions in these interactions? And how can we adapt these approaches to cater to the unique needs and use cases of Notion users? A college student reviewing AI summaries of lecture notes might have very different AI trust needs than, say, a sales exec generating reports based on confidential customer data.
+
+Every scenario raises unique issues — and our product must be flexible enough to address them.
+
+Tomorrow's AI must balance trust and efficiency
+
+As we integrate AI more deeply into Notion, these solutions will be how we deliver a trustworthy user experience. Say you’re preparing a presentation based on transcripts of recent customer calls. With one click you can have Notion AI summarize each call — that’s a pre-built feature in today’s product.
+
+But what if the model could separate that process into a sequence of actions — first find customer pain points in the transcripts, then customer praise, then turn these notes into marketing insights and product recommendations?
+
+Maybe it could even pause at critical points along the way and give you a chance to approve, reject, or modify the current output before it became the next step’s input:
+
+Here’s how I interpret your instructions…I’ve extracted these key pieces of customer feedback…Here’s a summary of my insights…
+
+Here’s how I interpret your instructions…
+
+I’ve extracted these key pieces of customer feedback…
+
+Here’s a summary of my insights…
+
+The difference in the result would be massive: from a generic summary to contextually relevant content shaped to your precise needs. And since you were able to work with AI throughout the process, the experience seems better aligned with how our brains ingest and evaluate information.
+
+On the other hand, there’s probably such a thing as being too much in the loop. Any workflow built on human–AI interaction includes numerous points where AI has to locate sources, analyze data, reach conclusions, make decisions, and take actions. Expose too much of this and you wind up with a far less friendly user experience. If you have to check your model at every single stage of the process, it might be faster to just do the work yourself.
+
+We’re only beginning to understand and address this new variant of challenge introduced by GenAI. As technology evolves and we learn more about our users’ preferences, we’ll make sure Notion AI continues to emphasize user trust. And through every iteration of our product, every customer call, every survey response, we’ll inch closer to this vision of human–AI synergy.

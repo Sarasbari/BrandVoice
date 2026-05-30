@@ -1,0 +1,41 @@
+Title: Speed, Structure, and Smarts: The Notion AI Way
+Published Date: 2025-05-29T16:00-07:00
+URL: https://www.notion.so/blog/speed-structure-and-smarts-the-notion-ai-way
+
+Just as Notion helps teams capture any kind of work, our AI has that same foundation, adapting to any style of thinking. It’s not a one-size-fits-all layer added after the fact. It’s part of the core product architecture, designed to support the way you work, not force you to adapt to the way it works.
+
+The right model for the task
+
+Notion’s AI architecture is built around a simple but powerful idea: You should always use the best model for the job. Different tasks require different strengths. Some need deep reasoning, others speed and efficiency.
+
+We break down tasks by category and route them to models based on quality, latency, and cost. Take these use cases for example:
+
+Writing a product spec demands fluency and structure, so we route to high-reasoning models that excel at long-form generation and maintaining coherent voice.Answering questions about past decisions requires navigating workspace history and citing sources. Here, models with large context windows and exhaustive reasoning perform best.Auto-filling fields in a project tracker generates high-inference volume but needs less complex reasoning. We use specialized, cost-efficient, fine-tuned models that cut latency in half and improve output quality—a rare combination.
+
+Writing a product spec demands fluency and structure, so we route to high-reasoning models that excel at long-form generation and maintaining coherent voice.
+
+Answering questions about past decisions requires navigating workspace history and citing sources. Here, models with large context windows and exhaustive reasoning perform best.
+
+Auto-filling fields in a project tracker generates high-inference volume but needs less complex reasoning. We use specialized, cost-efficient, fine-tuned models that cut latency in half and improve output quality—a rare combination.
+
+Fast feedback for fast development
+
+Our modular stack enables rapid iteration and continuous evaluation, powered by a unique LLM-as-a-judge system. This is run by our AI Data Specialists, a hybrid role that combines QA expertise, prompt engineering, and product thinking.
+
+These specialists design custom evaluation criteria for each feature, teaching judge models exactly what to look for in different contexts. They also dig into real user behaviors to find patterns and improve prompts based on how people actually use Notion, not just on benchmark tests.
+
+When new models launch from OpenAI, Anthropic, Google, or open-source communities, we can evaluate and deploy them in-house. And because evaluations are ongoing rather than one-time gates, we catch regressions early, validate improvements, and keep quality high as our stack evolves.
+
+This setup gives us both speed and depth. It helps us scale quality across dozens of models and hundreds of prompts with confidence.
+
+The block advantage
+
+Notion’s block-based architecture gives us something most tools lack: deeply structured context. Every paragraph, task, or database entry is a block, rich with metadata and relationships. That structure isn’t just for organization. It’s a foundation for more intelligent AI.
+
+In a traditional document, “April 30” might just be a string of text. In Notion, it’s a due date property attached to a task block assigned to Jane Smith. So when you ask “Which tasks are late and assigned to marketing?” our AI doesn’t just search keywords. It understands your workspace’s structure and relationships.
+
+This enables more than better answers. It powers entirely new workflows. The AI can build fully-formed project trackers, summarize status across teams, or reason about your roadmap using real data. In other words, it’s operating on the structured graph of your work.
+
+This structured foundation is what makes everything else possible: smarter model routing, faster evaluations, and AI that’s truly integrated, not layered on top. When your product is modular, your AI doesn’t have to guess. It can reason. It can adapt. And it can help you move faster, with confidence.
+
+Try it for yourself—Notion AI is ready when you are.

@@ -1,0 +1,21 @@
+Title: Optimize Your Workspace with Notion's Sidebar Feature
+Published Date: 2022-03-02T08:00-08:00
+URL: https://www.notion.so/blog/new-sidebar-design
+
+Teams of hundreds and thousands are already organizing all their work in Notion, enabling a new level of connection and transparency. But there was still a lot to improve in the product to help folks access what they need and discover information easily across large organizations. So today, we’re excited to unveil our Teams feature — a new sidebar design that makes scaling with Notion effortless for even the largest of workspaces.
+
+With Teams, we’ve reimagined the way companies can organize their Notion workspaces:
+
+Create distinct teams in your Notion sidebar for individual departments like Design or Marketing, or temporary ones for singular, cross-functional projects. Organize all your documents in these new sections for easy navigation.Create public or private teams to control who can discover or browse sensitive information. Even within teams, you can decide which pages get shared with just your teammates, specific teams, or everyone at your company.Curate your sidebar by joining only the teams that are relevant to you, and hiding the ones that aren’t. We added a new button to the bottom of your sidebar to browse and add teams as needed, or remove them so you can focus.Give admins more granular control over who can do what. Security settings and permission levels can be applied across the workspace, or customized on a team-by-team basis.
+
+Create distinct teams in your Notion sidebar for individual departments like Design or Marketing, or temporary ones for singular, cross-functional projects. Organize all your documents in these new sections for easy navigation.
+
+Create public or private teams to control who can discover or browse sensitive information. Even within teams, you can decide which pages get shared with just your teammates, specific teams, or everyone at your company.
+
+Curate your sidebar by joining only the teams that are relevant to you, and hiding the ones that aren’t. We added a new button to the bottom of your sidebar to browse and add teams as needed, or remove them so you can focus.
+
+Give admins more granular control over who can do what. Security settings and permission levels can be applied across the workspace, or customized on a team-by-team basis.
+
+And if you’re wondering how this impacts Notion’s other collaboration features, it doesn’t. Page linking, search, sharing, and everything else will still work across teams. We hope, with these new abilities, you can stay on top of everything relevant to you as your organization grows.
+
+Teams will start rolling out in beta this spring, with a bigger launch coming later this year. In the meantime, watch the video demo above to see exactly how our new sidebar will work!

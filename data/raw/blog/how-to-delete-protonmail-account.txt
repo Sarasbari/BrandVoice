@@ -1,0 +1,189 @@
+Title: How to delete a Proton Mail account: A step-by-step guide
+Published Date: 2024-11-22T11:00+02:00
+URL: https://www.notion.so/blog/how-to-delete-protonmail-account
+
+Proton Mail has been one of the most well-known email service providers in the past decade. Launched in 2014, the platform made a name for itself by providing a secure and ad-free email experience. However, many users have found that it lacks the seamless and robust features they need for efficient email management and high-level workflow productivity.
+
+In this guide, we’ll explain how to delete a Proton Mail account in a few easy steps and whether the deletion is permanent.
+
+We’ll also introduce you to Notion Mail, a powerful alternative that combines intuitive functionality with a comprehensive productivity suite. We’ll highlight the benefits of choosing this provider for enhanced workflow and seamless workspace integration.
+
+What to know before deleting a Proton Mail account
+
+Proton Mail has a loyal user base because of its privacy-first features. Still, some users have complained about the Swiss-based service’s productivity and usability downsides, announcing that they may cancel their accounts or seek more efficient alternatives to Proton Mail.
+
+Even though Proton Mail offers basic productivity tools, it often falls short for users who require a more integrated and efficient email experience found in other modern clients. Users frequently report issues with:
+
+Limited workflow integration: Due to Proton Mail’s security focus, the platform runs a pretty tight ship, making it challenging to integrate deeply with popular third-party task management tools.Unintuitive user interface: Some users have tagged Proton Mail’s UI as antique and unintuitive, lacking contemporary email features that make inbox management seamless.Restrictive free tiers and expensive paid ones: Many users frequently highlight the limitations of Proton Mail’s free version, especially in terms of storage and features.
+
+Limited workflow integration: Due to Proton Mail’s security focus, the platform runs a pretty tight ship, making it challenging to integrate deeply with popular third-party task management tools.
+
+Unintuitive user interface: Some users have tagged Proton Mail’s UI as antique and unintuitive, lacking contemporary email features that make inbox management seamless.
+
+Restrictive free tiers and expensive paid ones: Many users frequently highlight the limitations of Proton Mail’s free version, especially in terms of storage and features.
+
+There have also been some privacy concerns since personal information is required for verifying certain accounts, making the service non-anonymous.
+
+2 ways to delete your Proton Mail account
+
+If you’re looking to close your existing Proton Mail account, the service provider offers two options:
+
+Deleting the account permanentlyIf you choose to delete your Proton Mail account, it will be permanently closed. Your existing username will be blacklisted by the service provider, ensuring nobody—be it you or another person—can use the address again.Merging the account with another Proton Mail accountIn case you’re deleting your account because you have switched to another Proton Mail address, you can merge your email addresses. That way, you don’t have to lose your existing Proton Mail username and can access your emails through a unified inbox.
+
+Deleting the account permanently
+
+If you choose to delete your Proton Mail account, it will be permanently closed. Your existing username will be blacklisted by the service provider, ensuring nobody—be it you or another person—can use the address again.
+
+Merging the account with another Proton Mail account
+
+In case you’re deleting your account because you have switched to another Proton Mail address, you can merge your email addresses. That way, you don’t have to lose your existing Proton Mail username and can access your emails through a unified inbox.
+
+How do you delete your Proton Mail account?
+
+Proton Mail offers a straightforward way to delete your account, as described in the following list:
+
+Step 1: Log in to your Proton Mail account
+
+Step 2: Click on the Settings tab—you’ll be taken to a page with various clusters of settings. Some users must click on the Settings icon at the top-left corner of the screen and choose Go to settings
+
+Step 3: Select Account and password from the options appearing on the left panel
+
+Step 4: Scroll down to find the Delete your account option—click on it
+
+Step 5: Fill out the online form that appears—you must provide:
+
+The primary reason for deleting your account (e.g., whether you are dissatisfied with the features or have found another service)Detailed feedback in a separate boxYour email address and password (a security check to verify the ownership of the account)
+
+The primary reason for deleting your account (e.g., whether you are dissatisfied with the features or have found another service)
+
+Detailed feedback in a separate box
+
+Your email address and password (a security check to verify the ownership of the account)
+
+Step 6: Provide additional verification with a two-factor authentication (2FA) code (only if you have 2FA enabled in your account)
+
+Step 7: Check the box that says—Yes, I want to permanently delete this account and all its data
+
+Step 8: Hit Delete to confirm and complete the process
+
+Once you press the delete option, you will lose access to Proton Mail and its accompanying services, namely Proton Calendar, Proton Drive, and Proton VPN.
+
+Keep reading: Tired of email app clutter? Learn how to delete a Yahoo or iCloud account and how to remove Outlook and Gmail accounts from your phone.
+
+Can you delete a Proton Mail account if you don’t have access to it?
+
+If you cannot access your Proton Mail account, it could be because:
+
+You forgot your password, or your email was hackedProton Mail deactivated/disabled your account
+
+You forgot your password, or your email was hacked
+
+Proton Mail deactivated/disabled your account
+
+In case you lost access to your account due to password or security issues, the only way to close your account is by contacting Proton Mail’s customer service. The process is not uniform and may require you to verify your identity by providing a government-issued ID or other documentation.
+
+Proton Mail users often get their accounts automatically deactivated due to inactivity. According to the platform’s inactive account policy, free-base Proton Mail users who do not log in to any Proton service for a year will have their account deactivated. The data associated with the account will be removed, and the username will be blocked to prevent further use.
+
+Alternatively, you may also have your account disabled by Proton Mail due to suspected abuse detected by its system, namely:
+
+Sending bulk messages and scammy textsImpersonating other servicesUsing the account for criminal activity
+
+Sending bulk messages and scammy texts
+
+Impersonating other services
+
+Using the account for criminal activity
+
+Disabled accounts are not deleted immediately, so you have to contact Proton Mail customer support if you want your data erased.
+
+Can you recover a deleted Proton Mail account?
+
+Deleting a Proton Mail account removes your data from the central servers, but the backup servers tend to retain it for another two weeks. Although Proton Mail does not mention this practice directly, some experts say you can contact customer service within the two-week window to request an account recovery.
+
+Keep in mind that there is no guarantee that contacting customer support can revive a deleted account because Proton Mail specifies that the deletion or deactivation of an account is permanent, ensuring there is no way to reclaim an already-used email username.
+
+If Proton Mail disabled your account due to suspected abuse, you could fill out an online Abuse appeals form to request account recovery.
+
+How to merge two or more Proton Mail addresses
+
+If you want to keep your email data or username, you can merge the address to your main Proton Mail account. The action will delete your old account after the data gets transferred to your main account. The merge feature is only available on paid Proton tiers.
+
+Here’s how to request one or more Proton Mail addresses to be merged:
+
+Ensure your main account is upgraded to a paid tierContact Proton Mail support from the old address you’d like to add to your main accountConfirm that you’re okay with the existing data being deleted after the transferUpon receiving confirmation, follow the directions provided to add the old addresses to your main account
+
+Ensure your main account is upgraded to a paid tier
+
+Contact Proton Mail support from the old address you’d like to add to your main account
+
+Confirm that you’re okay with the existing data being deleted after the transfer
+
+Upon receiving confirmation, follow the directions provided to add the old addresses to your main account
+
+Because of the complexity of the procedure, merge requests are completed over several days.
+
+What an ideal Proton Mail alternative should look like
+
+An ideal Proton Mail alternative should offer seamless integrations with productivity tools and intuitive functionalities for personal and business users. While many service providers exist, such as Gmail, Fastmail, and Tutanota, they often lack the solid, comprehensive features you need to make your workflow hitch-free.
+
+Unlike Proton Mail, which prioritizes security above all else, Notion Mail is designed to be a productivity-first email client. The key difference is that Notion Mail focuses on delivering powerful tools combined with deep integrations that streamline your workflow. Proton Mail’s hypersecurity focus, on the other hand, results in limitations to its productivity-enhancing features.
+
+For instance, while Proton Mail offers a few themes and layouts for customization, Notion Mail is a builder-focused solution that allows you to tailor your inbox display based on your projects, clients, or other relevant criteria. This feature effectively transforms your inbox into a fully personalized workspace that shows you what you need to see when you want to see it.
+
+Upgrade your email workflow with Notion Mail
+
+If you value productivity and streamlined workflows, Notion Mail is an excellent choice. Notion Mail is an AI-native provider that doesn’t compromise on features and fully automates email management, minimizing manual tasks.
+
+Notion Mail’s key productivity-focused features include:
+
+AI-powered summarization: Notion Mail offers AI-powered email summaries that help you instantly grasp the essence of lengthy email threads. AI autopilot: Make use of AI-powered prompts to sort your emails into specific sections and labels intelligently. Customizable views: Notion Mail offers fully customizable views that tailor your inbox to your specific projects and workflows.Snippets: Create pre-written templates that you can easily insert into emails with a single click. This allows you to respond quickly to frequently asked questions or insert elements like Zoom meeting invites. Powerful search: Notion Mail offers robust search functionality, enabling you to quickly find emails based on specific criteria. Seamless integration: Notion Mail is deeply integrated into the Notion workspace, allowing you to work efficiently on documents, wikis, and calendars directly within your email.Effortless scheduling: With the /schedule command, your email recipients can easily schedule meetings directly from your emails, eliminating the need for lengthy back-and-forth communication.
+
+AI-powered summarization: Notion Mail offers AI-powered email summaries that help you instantly grasp the essence of lengthy email threads.
+
+AI autopilot: Make use of AI-powered prompts to sort your emails into specific sections and labels intelligently.
+
+Customizable views: Notion Mail offers fully customizable views that tailor your inbox to your specific projects and workflows.
+
+Snippets: Create pre-written templates that you can easily insert into emails with a single click. This allows you to respond quickly to frequently asked questions or insert elements like Zoom meeting invites.
+
+Powerful search: Notion Mail offers robust search functionality, enabling you to quickly find emails based on specific criteria.
+
+Seamless integration: Notion Mail is deeply integrated into the Notion workspace, allowing you to work efficiently on documents, wikis, and calendars directly within your email.
+
+Effortless scheduling: With the /schedule command, your email recipients can easily schedule meetings directly from your emails, eliminating the need for lengthy back-and-forth communication.
+
+Notion Mail’s clean and intuitive user interface prioritizes simplicity and accessibility, making the platform easy to navigate.
+
+Manage your workflow with Notion Mail’s productivity suite
+
+Creating a Notion Mail account also gives you access to integrated productivity tools that simplify your workflow, such as Notion Calendar.
+
+The platform’s core AI features are also available for free, providing a seamless workspace without the need for an immediate upgrade. You can get started with Notion Mail quickly by signing up with your Gmail or Google account.
+
+If you need further AI enhancement after exploring the free options, get the Notion AI add-on!
+
+Bonus read: Explore our resources to find solutions to common email issues and discover alternatives to popular email providers:
+
+Gmail account not receiving emailsAlternative to Apple MailAlternative to Zoho MailApple Mail vs. OutlookAlternatives to YahooZoho Mail vs. GmailAndroid Outlook alternativeBest Gmail client optionsDoes Gmail delete old emails?Office 365 vs. OutlookGmail not syncing with the iPhone Mail app
+
+Gmail account not receiving emails
+
+Alternative to Apple Mail
+
+Alternative to Zoho Mail
+
+Apple Mail vs. Outlook
+
+Alternatives to Yahoo
+
+Zoho Mail vs. Gmail
+
+Android Outlook alternative
+
+Best Gmail client options
+
+Does Gmail delete old emails?
+
+Office 365 vs. Outlook
+
+Gmail not syncing with the iPhone Mail app

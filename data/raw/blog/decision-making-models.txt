@@ -1,0 +1,161 @@
+Title: 5 decision-making models for team collaboration and success
+Published Date: 2021-02-25T00:00-08:00
+URL: https://www.notion.so/blog/decision-making-models
+
+For managers, situational decision-making is a tactical advantage. Comprehending a decision’s impact and how much time and effort it will require helps maintain your team's momentum.
+
+To optimize group problem-solving, you can use decision-making models. These help you and your team decipher how to approach the issue at hand while progressing toward your objectives.
+
+It’s crucial to understand which decision models fit certain situations. Discover how to make choices with full context and to document those decisions for current and future teammates to learn from.
+
+What’s a decision-making model?
+
+A decision-making model is an organized framework that directs teams through the solution-brainstorming process so they can make better choices. These models dictate collaborative problem-solving techniques applicable to a wide range of challenges and objectives.
+
+Each decision-making model has its own distinct structure. To choose the best model for your situation, you’ll need to closely evaluate the issue you’re trying to solve — including factors like time constraints, risk levels, and precedent. Then you can study the various models and determine which would best support resolving your problem.
+
+5 main decision-making models
+
+The right decision model for you depends on the impact and risks at hand, time constraints, and team characteristics. Here are the five prominent models that meet most situations.
+
+1. Rational decision-making model
+
+This systematic decision-making approach lets you analyze various criteria and potential outcomes. Given the lengthiness of the process involved, it works best for critical decisions requiring careful consideration without time constraints.
+
+To use this model, follow these steps:
+
+Identify the problem — ensure it's complex enough to merit this involved process and explain the challenge.Establish the decision criteria — determine the necessary items for a successful solution.Weigh decision criteria — rank criteria from most to least important.Generate and evaluate possible alternatives — brainstorm options and analyze each, determining their potential results and consequences.Choose the best option — after considering all angles, make an informed decision on the best course of action and a backup plan.Implement the decision — now that you’ve selected the best plan, promptly enact it.Assess your decision — to achieve your desired outcome, monitor and evaluate whether you made an effective decision. If you haven’t solved your problem, reconsider alternative solutions.
+
+Identify the problem — ensure it's complex enough to merit this involved process and explain the challenge.
+
+Establish the decision criteria — determine the necessary items for a successful solution.
+
+Weigh decision criteria — rank criteria from most to least important.
+
+Generate and evaluate possible alternatives — brainstorm options and analyze each, determining their potential results and consequences.
+
+Choose the best option — after considering all angles, make an informed decision on the best course of action and a backup plan.
+
+Implement the decision — now that you’ve selected the best plan, promptly enact it.
+
+Assess your decision — to achieve your desired outcome, monitor and evaluate whether you made an effective decision. If you haven’t solved your problem, reconsider alternative solutions.
+
+To simplify this decision-making process and consolidate all relevant data, use a tool like Notion’s decision journal template to weigh the pros and cons and audit your choices.
+
+2. Bounded rationality decision-making model
+
+The bounded rationality model involves making reasonable decisions within the constraints of your knowledge, time pressure, and analytical abilities — a process known as satisficing. It works best for time-sensitive decisions or when you can’t access all relevant information.
+
+To use this model, follow these steps:
+
+Identify the problem — pinpoint the challenge you’re facing and its time-sensitivity.Define success — without spending too much time on multiple scenarios, define a successful outcome. Consider possible alternatives, but don't be exhaustive with your list. Finalize your decision — select the best course of action based on available information and your business needs. Implement the decision — act promptly to implement your decision.Assess your decision — revisit the issue if necessary. If your solution is unsuccessful, begin the decision-making process again.
+
+Identify the problem — pinpoint the challenge you’re facing and its time-sensitivity.
+
+Define success — without spending too much time on multiple scenarios, define a successful outcome. Consider possible alternatives, but don't be exhaustive with your list.
+
+Finalize your decision — select the best course of action based on available information and your business needs.
+
+Implement the decision — act promptly to implement your decision.
+
+Assess your decision — revisit the issue if necessary. If your solution is unsuccessful, begin the decision-making process again.
+
+3. Creative decision-making model
+
+This approach requires tapping into your creativity to find innovative solutions rather than revisiting previous ones. It’s a good fit if your team values progress and productivity over processes.
+
+The creative model’s team-centric and collaborative nature makes it a great choice for companies with matrix organizational structures focusing on teamwork and deliverables.
+
+To use this model, follow these steps:
+
+Identify the problem — like most decision-making models, you'll first need to establish the issue you're trying to solve.Analyze the problem — write down possible solutions to your problem. Flesh these out by defining necessary resources, studying relevant data, and formulating hypotheses about various outcomes.Step away from the problem — now put the problem aside. When you step away from the issue, the brain will unconsciously keep working through it. Clear your head by going for a walk, listening to music, or taking any kind of appealing break.Reach the solution — find that lightbulb moment by consciously and unconsciously working on the problem. Write it down the moment it clicks.Verify and apply — consciously think about the best solution and put it to the test. Write down the desired outcome, and implement the decision if it promises to meet those optimal results.
+
+Identify the problem — like most decision-making models, you'll first need to establish the issue you're trying to solve.
+
+Analyze the problem — write down possible solutions to your problem. Flesh these out by defining necessary resources, studying relevant data, and formulating hypotheses about various outcomes.
+
+Step away from the problem — now put the problem aside. When you step away from the issue, the brain will unconsciously keep working through it. Clear your head by going for a walk, listening to music, or taking any kind of appealing break.
+
+Reach the solution — find that lightbulb moment by consciously and unconsciously working on the problem. Write it down the moment it clicks.
+
+Verify and apply — consciously think about the best solution and put it to the test. Write down the desired outcome, and implement the decision if it promises to meet those optimal results.
+
+4. Intuitive decision-making model
+
+Managers often use the intuitive decision-making model to make choices in low-risk situations. It allows them to trust their gut instinct when making quick decisions is critical.
+
+This less structured approach may draw on knowledge from previous goals or challenges to guide the solution process.
+
+To use this model, follow these steps:
+
+Define your goal or obstacle — this is a crucial step, even if you make decisions independently, because it can later help you explain your decision and its outcomes to your team.Reflect on previous similar issues — include how you solved these problems in the past and use this data to create a plan for your current situation.Identify biases — recognize any possible biases you may have and consider the implications of potential decisions on yourself and others. Determine the best solution — using prior experience, company values, and goals, determine a solution that benefits the whole team. Take action — inform the team and put your plan into practice.
+
+Define your goal or obstacle — this is a crucial step, even if you make decisions independently, because it can later help you explain your decision and its outcomes to your team.
+
+Reflect on previous similar issues — include how you solved these problems in the past and use this data to create a plan for your current situation.
+
+Identify biases — recognize any possible biases you may have and consider the implications of potential decisions on yourself and others.
+
+Determine the best solution — using prior experience, company values, and goals, determine a solution that benefits the whole team.
+
+Take action — inform the team and put your plan into practice.
+
+5. Recognition-primed model
+
+Tap into your team’s expertise to collectively imagine a novel solution to an issue. By collaboratively thinking through an unfamiliar scenario, your team creates innovative solutions without referencing past experiences.
+
+This model works best when approaching unique or unprecedented problems. If you embark on a project and stumble upon a new production issue, for instance, you’ll need flexible thinking to create a successful solution.
+
+To use this model, follow these steps:
+
+Define the goal or obstacle — when facing a new problem, clearly outline the situation to help team members understand their part in handling it.Research solutions — learn as much as possible about the problem to inspire ideas and resolutions. Evaluate information — closely analyze the data. Consider brainstorming ideas and outcomes with the team, and compile a word-association list to inspire problem-solving.Determine a solution — based on you and your team’s expertise, choose a resolution using the results of your collective brainstorming and free associating.Implement your decision — after considering all solution consequences, finalize your decision and act to solve your challenge.
+
+Define the goal or obstacle — when facing a new problem, clearly outline the situation to help team members understand their part in handling it.
+
+Research solutions — learn as much as possible about the problem to inspire ideas and resolutions.
+
+Evaluate information — closely analyze the data. Consider brainstorming ideas and outcomes with the team, and compile a word-association list to inspire problem-solving.
+
+Determine a solution — based on you and your team’s expertise, choose a resolution using the results of your collective brainstorming and free associating.
+
+Implement your decision — after considering all solution consequences, finalize your decision and act to solve your challenge.
+
+Understanding common decision-diluting biases
+
+Removing cognitive bias is imperative to avoid clouding decisions and negatively impacting outcomes. Develop a strategy to eliminate preconceived notions or opinions from your decision-making as well as possible.
+
+Watch for these common biases:
+
+Confirmation bias — this leads to making a decision that aligns with something you believe to be true (but that may not be). It's difficult to challenge already established beliefs, so remember to question them.Anchoring — similarly, it’s normal to cling to pre-existing knowledge or the first information you see during decision-making. This can lead to tunnel vision and restrict your willingness to consider alternatives.Halo effect — positive or negative first impressions can influence your choices. Try to stay open-minded as you work through a problem.Availability heuristic or recency bias — your brain automatically makes associations. Sometimes during an assessment, you’ll operate based on what first comes to mind or what happened most recently. Be sure to consider outcomes beyond your first instinct or recent experiences.Survivorship bias — often, we make decisions based on a sliver of information. The positives stand out most, but they don’t represent the entire issue. Consider problems from all angles and question solutions that seem too good to be true.
+
+Confirmation bias — this leads to making a decision that aligns with something you believe to be true (but that may not be). It's difficult to challenge already established beliefs, so remember to question them.
+
+Anchoring — similarly, it’s normal to cling to pre-existing knowledge or the first information you see during decision-making. This can lead to tunnel vision and restrict your willingness to consider alternatives.
+
+Halo effect — positive or negative first impressions can influence your choices. Try to stay open-minded as you work through a problem.
+
+Availability heuristic or recency bias — your brain automatically makes associations. Sometimes during an assessment, you’ll operate based on what first comes to mind or what happened most recently. Be sure to consider outcomes beyond your first instinct or recent experiences.
+
+Survivorship bias — often, we make decisions based on a sliver of information. The positives stand out most, but they don’t represent the entire issue. Consider problems from all angles and question solutions that seem too good to be true.
+
+How to document the decision-making process
+
+The process of how you arrive at a decision outcome is almost as important as the result.
+
+It’s unhelpful when the research, expertise, and nitty-gritty details that guide decisions are scattered across segments of an organization. Disorganization hinders teams by withholding valuable context for what influenced choices in the past. Luckily, creating a well-documented database of critical past decisions can help:
+
+Compound learnings — every decision is nuanced. Providing the complete context around a decision helps your team learn together. When your social media assistant proposes posting a GIF on Twitter, for instance, you can show them why a similar idea didn't work previously instead of simply rejecting the suggestion.Streamline onboarding — you want new hires to reach a level of autonomy, which takes time. But if they understand how and why you’re making decisions, they’ll be in a better place to make those choices themselves. And they won't duplicate work or previous failed initiatives, resulting in a more seamless onboarding process.Accelerate decision-making — with an archive of past decisions, you can easily find examples relevant to a current issue. Referencing previous solutions for similar situations may help you formulate a plan more quickly.
+
+Compound learnings — every decision is nuanced. Providing the complete context around a decision helps your team learn together. When your social media assistant proposes posting a GIF on Twitter, for instance, you can show them why a similar idea didn't work previously instead of simply rejecting the suggestion.
+
+Streamline onboarding — you want new hires to reach a level of autonomy, which takes time. But if they understand how and why you’re making decisions, they’ll be in a better place to make those choices themselves. And they won't duplicate work or previous failed initiatives, resulting in a more seamless onboarding process.
+
+Accelerate decision-making — with an archive of past decisions, you can easily find examples relevant to a current issue. Referencing previous solutions for similar situations may help you formulate a plan more quickly.
+
+Whether you use meeting notes or a compilation of documents, a decision database needs structure and organization for your team to navigate it easily.
+
+Streamlined decision-making with Notion
+
+No matter which model you choose, you need the right tools to make effective decisions. Notion’s connected team workspace enables easy documentation and collaboration. Or try the decision matrix template if you prefer a more intensive approach.
+
+If you’re concerned about the long-term consequences of your actions, use the smarter decision-making (10-10-10 rule) template to ensure you're making the best decisions for the future. And Notion's template gallery offers countless other resources to help you streamline the decision-making process so your team can excel.

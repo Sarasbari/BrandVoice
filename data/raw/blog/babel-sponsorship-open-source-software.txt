@@ -1,0 +1,21 @@
+Title: Sponsoring Babel to continue building open-source software
+Published Date: 2021-09-01T09:00-07:00
+URL: https://www.notion.so/blog/babel-sponsorship-open-source-software
+
+At Notion, we're committed to building a better world for toolmakers, and enabling the tools they make. Unsurprisingly, many of the people and projects we respect the most come from the open-source community, allowing even more folks to build off of and learn from each other's work.
+
+One of the most impactful open-source tools for us (and the whole internet, really) is Babel, a compiler that translates different versions of JavaScript so you don't have to worry about browser compatibility. By making it easier to build in JavaScript, the Babel team is democratizing the creation of and access to software around the world. That's something we want to support.
+
+To help Babel continue this mission, and attract the talent they need, we decided to sponsor the team with $10,000 via GitHub's Sponsors Program.
+
+I talked to Babel's lead maintainer, Henry Zhu, to get a sense of what's going on with the tool today and how finding new sources of funding can help.
+
+"Babel is downloaded 30 million times a week, but we have a very small team," he says. "This sponsorship will not only help us write more code but also let our core team maintain Babel full-time. It gives us the time and resources to think about our future roadmap and have people on call."
+
+Having a dedicated team is critical for products like Babel that want to be ubiquitous behind the scenes. "If people don't know they're using Babel, then we've done our job," Henry told me. This requires a lot of focus and craftsmanship from a cohort of talented engineers.
+
+"A lot of people feel like they can't take the time in their careers to work on something open-source, even though they're passionate about it," he says (and I, too, have seen so many folks grapple with this). "Sponsorships help us make this possible. As an industry, having this strong ecosystem is so important."
+
+As just one example, our engineering team here at Notion relies on Babel to make our product more accessible to our whole global community. New JavaScript features expand what we can do with Notion the product, but not all browsers and devices support these features natively. Babel enables us to reach many more people — not just those with the most modern technology — by ensuring that Notion works well for them, regardless of their platform or browser.  More broadly, Babel allows us to test experimental JavaScript features, contributing to the language's continuous innovation.
+
+We're grateful to have the chance to sponsor Babel — with thanks to Github for making it so easy — so that many more folks can have the software they need in daily work and life, far beyond Notion. If you're interested in learning more about how you can support Babel, go here. And to check out Github's full Sponsors initiative for companies to fuel open-source efforts, go here.

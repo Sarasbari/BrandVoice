@@ -1,0 +1,45 @@
+Title: Make your Notion projects more powerful and connected with integrations
+Published Date: 2023-05-29T00:00-07:00
+URL: https://www.notion.so/blog/partner-apps-notion-projects
+
+We recently announced Notion Projects, a connected tool supporting the full project management workflow. Now teams can plan, manage, and execute every part of a project — roadmaps, meeting notes, tasks, and more — all in one place.
+
+Part of that connectivity is bringing information from other tools into Notion so teams can manage their projects and move work forward. So we want to highlight the partner ecosystem that supports a more connected and customizable workflow in Notion — from integrations with cross-team collaboration tools like Slack and Miro, to better file previews from Figma and Google Drive, and status sync from developer tools like GitHub and PagerDuty.
+
+Improved task and issue tracking for product and eng teams
+
+Product and engineering teams care about quality, speed, and collaboration. Now you can extend your everyday tech stack into Notion Projects by syncing issues from Jira, GitHub, and GitLab; previewing PagerDuty incidents and tasks from Shortcut; and summarizing these incidents in a post-mortem database with tools like Rootly and incident.io.
+
+Our improved GitHub integration goes a step deeper — by adding the GitHub PR (pull request) property inside your Notion database, you can keep cross-functional teams informed of PR status automatically alongside your tasks.
+
+Manage your files in one place to add critical context
+
+Using multiple apps can lead to project fragmentation. With Notion Projects, your team can bring a wide range of files — design assets from Figma and Canva, and files from Google Drive and Dropbox — right into your project management workflow, so everyone has full context.
+
+You can even add Google Drive and Figma files as properties in your project databases. Imagine you’re a social media manager and need to track upcoming assets as tasks. Our new database property allows you to bring Figma frames directly into tasks that are easily viewable by all your  stakeholders for quick feedback.
+
+Bring in data insights to promote informed decisions
+
+Projects often require strategy docs, proposals, roadmaps, postmortems — you name it. These docs contain data insights that are crucial to making informed decisions. That’s why Notion Projects integrates with business intelligence and product analytics tools like Mixpanel and Tableau to make dashboards and data insights available to your team.
+
+Doing a launch results review? Drop your Amplitude chart inside a Notion project so your cross-functional stakeholders know the results.
+
+You can also build data visualizations with Notion as your source databases using GRID or Rows. Say you’re an engineering manager and want to map the open tasks by engineer for a certain project — just use Notion Projects and add one of these apps for easy visualizations.
+
+Forms and automation apps help you keep tools connected
+
+We want to help you automate your project management workflows. Notion Projects integrates with key integration platforms like Make and Zapier, so you can easily sync information from any app you use to your Notion workspace. If it’s not in our Integration Gallery, these partners have you covered.
+
+Forms can help your research team collect user insights and send them into a Notion database. Sync up Typeform, Tally, Fillout, or NotionForms and watch these apps auto-populate information into your databases that helps advance your research or customer experience work.
+
+Tie it all together with key collaboration tools
+
+Our customers love to use Notion and Slack together, so we’ve delivered a deeper Slack integration to complement Notion Projects. Now you can send Slack messages to a Notion database (e.g. record user feedback), get notifications in Slack (e.g. updates on tasks), and share links that expand with useful context.
+
+Try sharing your favorite whiteboarding or diagramming tool board inside Notion in your brainstorming docs or meeting notes. We support Miro, Whimsical, Lucidchart, and more.
+
+Customize and connect Notion to suit your project management needs
+
+The future of project management is connected. Notion Projects allow you to connect tools, data, and information in a single place, enabling teams to build one source of project truth no matter what tools cross-functional partners use — creating a frictionless workflow experience.
+
+Check out our updated Integration Gallery for the full list of apps you can use inside your Notion workspace. Missing an integration you want to see? Remember you can always leverage our API and get started building here.

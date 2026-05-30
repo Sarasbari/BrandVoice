@@ -1,0 +1,45 @@
+Title: How KoRo streamlined its project management workflow
+Published Date: 2024-06-14T10:00+02:00
+URL: https://www.notion.so/blog/notion-koro
+
+KoRo wants to make high-quality, “better for you” food accessible to everyone. Founded in 2014, the Berlin-based company already offers hundreds of products across Europe, and was recently listed as one of the fastest growing e-commerce businesses in Europe by the Financial Times.
+
+What’s their secret weapon? According to Debora Donadello, Head of Technical Business Development, their “really good product management team” is what sets them apart. They work at an extremely fast pace, averaging two new product launches every week.
+
+But that quickness only came after years of iteration and improvement. Debora recently shared a taste of KoRo’s product management workflow at a Café Notion event in Berlin, which brought together local customers for a day of learning and exchanging ideas on how to take their use of Notion to the next level.
+
+From tool fragmentation and knowledge silos
+
+Taking two new products to market a week is a complex process.
+
+“We work with a wide network of hundreds of suppliers all over the world,” describes Debora. “Quality management and food safety approvals require heavy amounts of meticulous documentation.”
+
+On top of that, they also work with up to ten internal teams per launch, adding extra layers of project management, cross-functional collaboration, and the need for streamlined workflows.
+
+When Debora moved into her technical business development role at KoRo, she became more aware of how disconnected the company was. Much of that came down to the fact they were simply using too many tools. Each department had its own project management system, which was separate from KoRo’s knowledge base in Notion. This created a lack of cohesion between teams and caused confusion — and it ultimately resulted in the company moving slower than it should.
+
+Debora wanted to break down these fragmented working silos. She also saw an opportunity to bridge the gap between project management and knowledge. “We used to have Notion only as a knowledge base, but we wanted to use it to its full potential as a project management tool, too,” she explains.
+
+To streamlined workflows with templates and buttons
+
+Debora started by consolidating the information that was scattered across various project management tools (like Asana and Trello) and moved KoRo’s product management workflow into Notion. She created two key databases that every department would roll into:
+
+Projects: A central hub for all projects, offering a comprehensive overview of product launches and initiativesTasks: Individual tasks associated with each project, ensuring clear ownership and status
+
+Projects: A central hub for all projects, offering a comprehensive overview of product launches and initiatives
+
+Tasks: Individual tasks associated with each project, ensuring clear ownership and status
+
+But the real power of KoRo’s product management workflow comes from the templates and buttons Debora built to accelerate repetitive tasks. In just one click, anyone can create a new project that’s auto-populated with all of the necessary tasks, such as approvals, quality management regulations, and marketing materials. This eliminates manual setup and ensures a consistent process from start to finish.
+
+Debora found it particularly useful that each task has its own page where they can add relevant content and knowledge in a structured and interactive way. “That’s something we couldn’t find in Asana,” she admits.
+
+Catering to diverse needs with department-specific boards
+
+KoRo recognized that each team has its own preferences when it comes to how they want to work. From marketing to design to product, each team likes to visualize projects and track tasks differently.
+
+In order to accommodate these unique needs, Debora created a dedicated board for each department, with custom views of their project management workflows. And it’s all connected, too. The buttons Debora made have been added to multiple pages, making it easy for the team to kick off new projects. “Anyone at KoRo can start a project from anywhere they’re comfortable,” says Debora.
+
+A central place for projects and knowledge
+
+With Notion, KoRo transformed its product management workflow — consolidating projects scattered across multiple system into a single, cross-department project management tool. Everyone, from leadership to ICs, can scan the Projects and Tasks databases to see what’s being worked on and how it’s progressing. Plus, with their wikis fully connected to their workflows, KoRo’s teams are able to collaborate more effectively than ever.

@@ -1,0 +1,67 @@
+Title: First Block with Michael Truell, Co-founder and CEO of Cursor
+Published Date: 2025-06-17T09:00-07:00
+URL: https://www.notion.so/blog/first-block-with-michael-truell
+
+Listen to the First Block podcast on Spotify. To learn more about how Notion is supporting startups, please visit notion.com/startups.
+
+Sometimes, the best path forward means breaking conventional startup advice and starting with a solution in search of a problem.
+
+Question startup orthodoxy—context matters more than rules. Cursor broke several “rules”: Solution in search of a problem, four-person cofounding team, hiring extremely slowly. Michael emphasizes being skeptical of advice and thinking through what actually makes sense for your specific situation.Obsessive product focus beats everything else in early days.They avoided networking, speaking events, and even hiring for the first year to focus on product quality. This laser focus on making the product better was crucial before they started scaling.Hire slowly and deliberately, especially your first 10 people.They hired one person every two to three months and “obsessed over” each hire, looking for people who believed in the big vision but were never satisfied with current state. This careful foundation enabled rapid scaling later.
+
+Question startup orthodoxy—context matters more than rules.
+
+Cursor broke several “rules”: Solution in search of a problem, four-person cofounding team, hiring extremely slowly. Michael emphasizes being skeptical of advice and thinking through what actually makes sense for your specific situation.
+
+Obsessive product focus beats everything else in early days.
+
+They avoided networking, speaking events, and even hiring for the first year to focus on product quality. This laser focus on making the product better was crucial before they started scaling.
+
+Hire slowly and deliberately, especially your first 10 people.
+
+They hired one person every two to three months and “obsessed over” each hire, looking for people who believed in the big vision but were never satisfied with current state. This careful foundation enabled rapid scaling later.
+
+Welcome to First Block, a Notion series where founders from the world’s leading companies tell us about the many “firsts” of their startup journeys. We explore the ups and downs that founders face as they build, and what they’ve learned along the way.
+
+In this episode, we spoke with Michael Truell, Co-founder and CEO of Cursor. Cursor is an AI code editor that has gone from side project to one of the fastest-growing AI tools in the developer world in under a year.
+
+Michael shares his insights on pivoting from mechanical engineering AI to developer tools, the bold decision to fork VS Code, and why sometimes breaking startup orthodoxy is exactly what you need to do.
+
+What’s in this episode:
+
+00:00: Intro02:18: The original spark and false start in mechanical engineering05:53: The pivot moment to developer tools06:45: The decision to fork VS Code08:45: Building AI-native coding tools and the balance between speed and control12:24: Cursor’s explosive growth trajectory13:41: Early mistakes and lessons learned14:16: Hiring philosophy and building the first team17:08: Internal tools and operational philosophy19:01: Maintaining focus in a hyper-fast environment20:53: Advice for founders building in the AI era
+
+00:00: Intro
+
+02:18: The original spark and false start in mechanical engineering
+
+05:53: The pivot moment to developer tools
+
+06:45: The decision to fork VS Code
+
+08:45: Building AI-native coding tools and the balance between speed and control
+
+12:24: Cursor’s explosive growth trajectory
+
+13:41: Early mistakes and lessons learned
+
+14:16: Hiring philosophy and building the first team
+
+17:08: Internal tools and operational philosophy
+
+19:01: Maintaining focus in a hyper-fast environment
+
+20:53: Advice for founders building in the AI era
+
+Download Cursor’s Self-Serve Onboarding Template here and transform your new hire experience into one that gets new team members productive from day one.
+
+Thought starters for founders
+
+After listening to Michael’s insights, ask yourself:
+
+What startup orthodoxy might you need to question to be successful?How can you maintain product focus while scaling rapidly?What would change if you hired more deliberately?
+
+What startup orthodoxy might you need to question to be successful?
+
+How can you maintain product focus while scaling rapidly?
+
+What would change if you hired more deliberately?

@@ -1,0 +1,265 @@
+Title: A guide to multiple project management for product teams
+Published Date: 2023-09-27T00:00-03:00
+URL: https://www.notion.so/blog/managing-multiple-projects
+
+Managing multiple projects comes with its own set of challenges: open tabs everywhere, updates scattered across tools, and the real risk that owners will miss important changes or deadlines. One team tracks tasks in a spreadsheet, another uses a ticketing system, and documentation sits elsewhere entirely. Meanwhile, releases depend on work happening across multiple teams, and somehow you’re supposed to keep it all aligned.
+
+To successfully manage multiple projects without losing momentum, teams need clear visibility across roadmaps, timelines, documentation, and team updates. When this information lives in a connected workspace rather than scattered across tools, it becomes much easier to coordinate work across teams, track dependencies, and keep releases moving forward.
+
+Key takeaways
+
+Multiple project management requires clear visibility across roadmaps, timelines, and team updates to keep work aligned.Common failure points include resource allocation conflicts, misaligned priorities, hidden technical dependencies, and context switching between disconnected tools.Effective prioritization starts with a lightweight intake process, a consistent scoring framework (such as RICE or Impact vs. Effort), and explicit decision ownership.Mapping dependencies, setting capacity guardrails, and building an integrated roadmap prevent conflicts before they reach production.Standardizing processes, centralizing communication, and tracking time spent across projects significantly reduce coordination overhead.The right project management tool connects roadmaps, specs, sprint boards, and documentation in one place, making cross-team coordination faster and more reliable.
+
+Multiple project management requires clear visibility across roadmaps, timelines, and team updates to keep work aligned.
+
+Common failure points include resource allocation conflicts, misaligned priorities, hidden technical dependencies, and context switching between disconnected tools.
+
+Effective prioritization starts with a lightweight intake process, a consistent scoring framework (such as RICE or Impact vs. Effort), and explicit decision ownership.
+
+Mapping dependencies, setting capacity guardrails, and building an integrated roadmap prevent conflicts before they reach production.
+
+Standardizing processes, centralizing communication, and tracking time spent across projects significantly reduce coordination overhead.
+
+The right project management tool connects roadmaps, specs, sprint boards, and documentation in one place, making cross-team coordination faster and more reliable.
+
+What is multiple project management?
+
+Multiple project management is the practice of coordinating several related projects simultaneously, often across different teams, timelines, and dependencies, while keeping work aligned with shared goals and resources. For product teams, this means managing technical dependencies between features, shared release timelines, and evolving documentation.
+
+Multi-project management, program management, and project portfolio management: what's the difference?
+
+These three terms are often used interchangeably, but they describe distinct practices with different scopes and objectives.
+
+Multi-project management (MPM) is the tactical and operational coordination of several concurrent projects that typically share the same resource pool. The core focus is execution: ensuring that shared team members are allocated effectively, that dependencies between projects are tracked, and that work progresses without bottlenecks. MPM is about doing the projects right.
+
+Program management involves the coordinated management of a group of related projects to achieve strategic objectives that wouldn't be available from managing them individually. For example, launching a new product line might span a hardware project, a software project, and a marketing campaign — each a project in its own right, but managed together as a program to realize the combined benefit.
+
+Project portfolio management (PPM) operates at the highest level: the strategic selection and governance of a collection of projects (which may be unrelated) to align with business goals and optimize resource allocation across the organization. PPM is about doing the right projects — deciding which initiatives to fund, prioritize, and pursue given available capacity and strategic direction.
+
+For most teams, the day-to-day challenge falls squarely in the MPM category: coordinating concurrent initiatives with shared engineers, designers, and product managers, while keeping everything tied to broader company objectives.
+
+Why multiple project management breaks down (and how to fix it)
+
+Managing multiple projects across engineering, product, and design (EPD) may sound straightforward until you look at what's actually in flight:
+
+Feature launchesInfrastructure upgradesSecurity workQuarterly planningCustomer escalations
+
+Feature launches
+
+Infrastructure upgrades
+
+Security work
+
+Quarterly planning
+
+Customer escalations
+
+Multiple project management rarely fails because of effort. It often drags behind because of how the work is organized. Here are a few common issues and ways to avoid them.
+
+Resource allocation conflicts
+
+When you don't have a single view of who's doing what, you discover conflicts late. For example, the same staff engineer may be critical to a migration and a flagship feature, or your design team may be booked for three launches in the same week. Everything looks "green" in isolation, but delivery slows because key people are stretched across too many projects.
+
+The fix: Create centralized visibility into all active projects and their owners, then pair it with a realistic capacity model. Track actual bandwidth per team and set limits on concurrent major initiatives so you sequence work instead of stacking it.
+
+Misaligned priorities across stakeholders
+
+Your infrastructure team might prioritize a database upgrade while your product team pushes for a revenue-driving feature. Without a shared prioritization model, each team optimizes locally. Work starts that doesn't support your business goals or forces last-minute swaps that disrupt carefully planned sprints.
+
+The fix: Agree on a simple, explicit framework to prioritize projects and apply it across the portfolio. Make priorities visible so team members understand why one initiative moves ahead of another.
+
+Hidden technical dependencies
+
+A mobile release depends on a backend API, which depends on a data migration, which depends on a vendor change. If those links aren't mapped, you might find out about blockers or bottlenecks during production instead of planning.
+
+The fix: Treat dependency tracking as a first-class artifact. For each project, capture upstream and downstream dependencies in a shared project management solution and keep them visible so you can adjust sequencing before conflicts arise.
+
+Context switching between disconnected tools
+
+Roadmaps, product requirements documents (PRDs), sprint boards, and documentation often live in different tools. You jump between them to answer simple questions like "Who's blocked?" or "What moved this week?"
+
+The result is constant context switching, which can make you less efficient, productive, and accurate in your work, according to Microsoft. It can also lead to more manual coordination and reduced time for execution.
+
+The fix: Move to a connected workspace where those artifacts are stored in linked databases. Then, when you update a project's status, the roadmap, team view, and leadership dashboard all reflect the change, reducing the need for syncs and one-off reports.
+
+How can teams prioritize and manage multiple projects effectively?
+
+Good governance keeps multiple project management from turning into an Excel spreadsheet exercise. You want enough structure to make consistent tradeoffs, but an Agile project approach to avoid slowing teams down or forcing them into rigid templates.
+
+Imagine choosing between three options for the same quarter: a feature launch that drives revenue, an infrastructure upgrade that reduces incident risk, or a customer escalation from a strategic account. Without a clear decision model, those conversations drag on and often get revisited mid-sprint.
+
+Here are a few steps you can take to build the right prioritization workflows for your project teams.
+
+Use a lightweight intake process
+
+Start by routing all new initiatives through a single intake. In Notion, that can be a simple database where requesters capture problem statements, expected impact, effort estimate, timing, and affected teams.
+
+This isn't heavy governance—it's just enough structure to compare work side by side, rather than relying on hallway conversations or Slack threads.
+
+Apply a clear prioritization model
+
+Pick a scoring approach that matches how your organization thinks. The RICE model, impact vs. effort, or cost-of-delay, all work as long as you stick with one.
+
+The goal is to make tradeoffs explicit. Explain why a customer escalation outranks a feature, or why a security fix jumps ahead of roadmap work. Document the criteria in your workspace so anyone can see how decisions are made.
+
+Crowdcast's story is a good example. Its team uses Notion as a central place to plan roadmaps across product, engineering, and support so priority calls aren't one-off debates—they're grounded in shared context.
+
+Create a portfolio-level view of work
+
+Once intake and prioritization are in place, you need a portfolio view that shows all active projects, owners, statuses, and timelines. In Notion, you can create a  and then slice it into different views, such as by team, quarter, or risk level. That overview lets you see, in one place, how many major efforts a team has before you agree to new work.
+
+Make decision ownership explicit
+
+When priorities conflict, someone needs the authority and responsibility to decide. You might define an owner for the portfolio (like a product director) or use a small cross-functional group. Capture that ownership field in your project database so it's always clear who can greenlight scope changes or re-sequencing.
+
+Set capacity guardrails
+
+Without limits, every team eventually takes on too much. Define how many major projects each team can run concurrently and reflect that in your portfolio views. Work-in-progress limits act as a forcing function. For example, if you're at capacity and a critical initiative appears, something else must move. That makes tradeoffs intentional instead of reactive.
+
+How to implement multiple project management: A 5-step approach
+
+Once you have your framework in place, you can create a concrete way to run multi-project management day to day. Here's a five-step approach you can set up in Notion without building a full project management office (PMO).
+
+Before jumping into tool-specific steps, the underlying strategy applies regardless of which platform your team uses. The goal is to create a single source of truth for all active initiatives, connect that source to your planning and execution artifacts, standardize how work gets reviewed and reported, and reduce manual coordination through automation. Once those principles are in place, the specific tooling becomes an implementation detail.
+
+1. Create a single projects database
+
+Start with one database that represents every project or initiative across your EPD teams. Include properties like:
+
+Owner(s) Teams involvedProject statusProject schedulePriority scoreLinks to related docs
+
+Owner(s)
+
+Teams involved
+
+Project status
+
+Project schedule
+
+Priority score
+
+Links to related docs
+
+This becomes your portfolio’s single source of truth.
+
+To save time, consider starting with a multiple project management template in Notion. You can also take advantage of project and sub-project templates, product management dashboard templates, and a library of other project-related templates so you don’t have to start from scratch.
+
+Project manager Ola King takes this a step further by creating subpages within each of his initiatives to house key documents such as his mission, strategy, action items, and customer feedback. This enables him to create different workflows for projects with different needs.
+
+2. Connect roadmap, PRDs, and sprint boards
+
+Next, model the relationships between artifacts. Link:
+
+A roadmap database for high-level initiativesA PRD or spec database for detailed requirementsSprint or kanban boards for execution
+
+A roadmap database for high-level initiatives
+
+A PRD or spec database for detailed requirements
+
+Sprint or kanban boards for execution
+
+In Notion, you can relate these databases so one roadmap item connects to its PRDs, and each PRD links to the sprint tasks implementing it. When you update a project's status, that change is reflected wherever the project appears—in team views, leadership dashboards, or docs.
+
+3. Standardize intake and prioritization views
+
+Use forms or dedicated views on your project database for intake. Add prioritization properties (like impact, effort, or risk) and create a view that sorts by your chosen framework. That way, your quarterly or monthly planning sessions pull from real-time data, not a static slide deck.
+
+4. Build team-specific and cross-team views
+
+Multiple project management only works if every team can see their world and the broader context. Give engineering, product, and design their own filtered views of the same project database alongside portfolio views that cut across teams. This is where you'll run weekly reviews, identify new risks, and adjust sequencing.
+
+5. Automate updates with Notion AI
+
+Manual reporting doesn't scale as your project portfolio grows. Notion AI can help you summarize weekly updates across project pages, generate portfolio status reports for leadership, and highlight changes in risk or timelines. Instead of writing a report from scratch, you can ask AI to draft it based on your latest project notes, then refine it with your judgment.
+
+How to plan and coordinate multiple projects
+
+Planning across several initiatives is where long-term strategy meets team capacity and timelines. You need to balance ambition with workloads, line up technical dependencies, and build an integrated roadmap that you can actually execute.
+
+Plan capacity before you commit
+
+Instead of resource planning for each project, model capacity at the team level. In your project database, include estimated effort and the primary team. Use views that group projects by team and time period so you can see how much work you're stacking into a quarter. If a team's load is already high, adjust scope or timing before you make external commitments.
+
+Make dependency mapping part of project planning
+
+During planning cycles, ask every project owner to capture upstream and downstream dependencies, such as services, teams, or deliverables their work relies on. Represent those as relations in Notion (for example, a "Depends on" property that links to other projects) and surface them in portfolio views so you can adjust sequencing before conflicts land in production.
+
+Build an integrated roadmap
+
+An integrated roadmap shows how initiatives across teams line up over time. Use timeline views on your project database to visualize work by quarter. Call out milestones like big launches, migrations, or compliance deadlines so everyone can see where risks cluster.
+
+Research on  underscores this point: structured coordination functions are a key factor in executing strategic plans across multiple initiatives. You don't need a formal PMO to benefit from that insight—a connected roadmap plus clear ownership can provide much of the same value for EPD teams.
+
+Individual productivity practices for managing multiple projects
+
+Beyond team-level systems, individual contributors and managers juggling multiple projects benefit from consistent personal habits that protect focus and reduce the cognitive load of constant context-switching.
+
+Limit your active project load. Commit to a maximum number of projects at any one time. When a new initiative appears, something else must pause or close before you take it on.Batch similar work across projects. Group reviews, approvals, and status updates for multiple projects into dedicated time blocks. Shifting between unrelated tasks erodes concentration.Protect deep work time. Block focused hours on your calendar for execution work. Update your status in Notion or your communication tool during those blocks so teammates know when to expect a response.Start each day with a cross-project scan. Spend five minutes reviewing what's due, what's blocked, and what's changed across all active projects before diving into task work. This surfaces surprises early rather than late in the day.Document decisions as you make them. When priorities shift or a scope change is agreed, capture it in the project record immediately. Relying on memory across multiple concurrent projects leads to information drift and rework.
+
+Limit your active project load. Commit to a maximum number of projects at any one time. When a new initiative appears, something else must pause or close before you take it on.
+
+Batch similar work across projects. Group reviews, approvals, and status updates for multiple projects into dedicated time blocks. Shifting between unrelated tasks erodes concentration.
+
+Protect deep work time. Block focused hours on your calendar for execution work. Update your status in Notion or your communication tool during those blocks so teammates know when to expect a response.
+
+Start each day with a cross-project scan. Spend five minutes reviewing what's due, what's blocked, and what's changed across all active projects before diving into task work. This surfaces surprises early rather than late in the day.
+
+Document decisions as you make them. When priorities shift or a scope change is agreed, capture it in the project record immediately. Relying on memory across multiple concurrent projects leads to information drift and rework.
+
+How to measure success in multiple project management
+
+The only way to know whether your approach is truly working is to measure its outcomes. The right metrics can help you see where to adjust without turning every project into a reporting exercise.
+
+Below are a few categories and KPIs to help you keep tabs on project progress as you begin to make changes.
+
+Track delivery reliability and flow:
+
+Delivery reliability: The percentage of milestones or projects delivered within an agreed time windowThroughput: The number of projects or major increments completed per quarterLead time: The time from approval to first value shipped
+
+Delivery reliability: The percentage of milestones or projects delivered within an agreed time window
+
+Throughput: The number of projects or major increments completed per quarter
+
+Lead time: The time from approval to first value shipped
+
+You can capture these metrics in your Notion projects database by comparing planned vs. actual dates and roll them up into a portfolio dashboard.
+
+Watch capacity and workload health:
+
+Active project count per team: The number of significant initiatives a team is running at onceWork-in-progress per person: The number of individual projects each person is allocated to
+
+Active project count per team: The number of significant initiatives a team is running at once
+
+Work-in-progress per person: The number of individual projects each person is allocated to
+
+If these numbers trend up quarter over quarter while delivery reliability stagnates, you likely have a focus problem, not an effort problem.
+
+Monitor quality and risk signals:
+
+Incident and rollback trends: The number of incidents and rollbacks tied to specific projectsRework rate: The number of tasks that needed to be redone per project
+
+Incident and rollback trends: The number of incidents and rollbacks tied to specific projects
+
+Rework rate: The number of tasks that needed to be redone per project
+
+These indicators show whether you're trading quality for speed as you increase the number of concurrent initiatives.
+
+Include qualitative indicators:
+
+Team sentiment: Pulse survey results on clarity of priorities and sense of overloadStakeholder confidence: Quick feedback on perceived predictability and transparencyMeeting load: Time spent in status meetings vs. decision-making sessions
+
+Team sentiment: Pulse survey results on clarity of priorities and sense of overload
+
+Stakeholder confidence: Quick feedback on perceived predictability and transparency
+
+Meeting load: Time spent in status meetings vs. decision-making sessions
+
+In Notion, you can bring these signals into a simple health dashboard that pulls from your project database. Review it on a regular cadence—for example, during monthly portfolio reviews—and adjust your process or tooling when you see consistent patterns.
+
+Get started with multiple project management in Notion
+
+You don't need more project management tools to handle multiple projects—you need better connections between the ones you already use. Notion gives you that connected workspace: roadmaps, PRDs, sprint boards, and docs live together, linked through shared databases.
+
+Start with a single project database, connect it to your specs and tasks, then build focused views for each team and leadership. As your portfolio grows, Notion AI can handle routine reporting so you spend less time assembling updates and more time making decisions.
+
+Coordinate work across teams without adding meetings.  to surface blockers early, generate status reports automatically, and keep everyone aligned.

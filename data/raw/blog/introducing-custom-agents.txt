@@ -1,0 +1,91 @@
+Title: Introducing Custom Agents
+Published Date: 2026-02-24T08:00-08:00
+URL: https://www.notion.so/blog/introducing-custom-agents
+
+Custom Agents are available now. Autonomous AI teammates that handle recurring work 24/7 across Notion, Slack, Mail, Calendar, Figma, Linear, and your custom MCP servers.Automate your team’s most repetitive tasks. Agents answer repeat questions, route tasks, compile status updates, and automate workflows. Just describe what you need and set triggers.Shared and connected. Build once, share with your workspace, and let them run end-to-end workflows across Notion, Slack, Mail, and a dozen other tools.Enterprise-grade control. Confidently roll out agents with enterprise-grade permissions, version control, usage analytics, and built-in security.New usage-based pricing. Custom Agents consume Notion Credits based on work done. Your seat price stays the same, and other AI features remain included.Free for two months during public beta. Custom Agents are free for two months during public beta on Business and Enterprise plans.
+
+Custom Agents are available now. Autonomous AI teammates that handle recurring work 24/7 across Notion, Slack, Mail, Calendar, Figma, Linear, and your custom MCP servers.
+
+Automate your team’s most repetitive tasks. Agents answer repeat questions, route tasks, compile status updates, and automate workflows. Just describe what you need and set triggers.
+
+Shared and connected. Build once, share with your workspace, and let them run end-to-end workflows across Notion, Slack, Mail, and a dozen other tools.
+
+Enterprise-grade control. Confidently roll out agents with enterprise-grade permissions, version control, usage analytics, and built-in security.
+
+New usage-based pricing. Custom Agents consume Notion Credits based on work done. Your seat price stays the same, and other AI features remain included.
+
+Free for two months during public beta. Custom Agents are free for two months during public beta on Business and Enterprise plans.
+
+I’m excited to share that Custom Agents are finally available for you to try.
+
+Teams spend as much time aligning, updating, and routing work as they do actually doing it. With Custom Agents, tasks that used to take hours each week—or never happened because it wouldn't scale—can now happen automatically.
+
+Custom Agents mark a shift in how teams work with AI. Not just getting help when you ask, but having AI teammates that handle entire workflows autonomously. They monitor channels, route tasks, compile updates, and answer questions.
+
+We've spent the last few months using Custom Agents internally at Notion. We now have more agents than employees. And it’s not just us. Early testers have built over 21,000 agents.
+
+Here’s what companies like Braintrust, Ramp, and Clay are doing with Custom Agents.
+
+Q&A agents that answer questions using knowledge you already have.
+
+Instead of answering the same questions in Slack manually, over and over again, have agents answer questions automatically, or chat with them directly in Notion. Sales and Support get consistent answers without waiting, and IT and HR teams don't waste time answering repeat policy questions. Plus, when new information surfaces, agents can write back updates to the original source so knowledge stays current.
+
+Ramp's team has over 300 agents, many for Q&A. Their “Product Oracle”, for example, answers dozens of questions every day about the roadmap and how features work.
+
+→ See how Ramp uses Custom Agents
+
+Task routing agents who keep work flowing to the right people.
+
+As requests, feedback, or issues pop up, these agents capture them, track them in a database, enrich with all the information you need, and loop back to update your team. It's the beginning of real end-to-end workflow automation.
+
+Remote saved 20 hours per week and completely replaced their IT help desk with one. At Notion, our most-used agent is one our co-founder built to route product feedback.
+
+Status update agents that compile and share reports.
+
+Even though it’s essential for staying informed, it’s always pained me to see teams that spend most of this day writing updates. Now you can put your daily briefs, weekly sprint updates, monthly business reports on autopilot. They gather context from Notion, connected tools, and the web, then make sense of it all for you.
+
+Braintrust built a Deal Spotter agent that sends weekly reports on accounts primed for an upgrade, and Clay's Incident Reporter creates post-mortems with root causes and recommended corrective actions.
+
+→ See how Braintrust uses Custom Agents
+
+These are just a few examples. Setting up any Custom Agent is as simple as writing a short job description and chatting with it to make updates. Your agent will write its own instructions and wire up all its tools. And if you want more inspiration, we've put together Custom Agent templates, a Notion Academy course, and a video playlist.
+
+Pricing for Custom Agents
+
+Custom Agents take the repetitive work off your hands so you can focus on the work that needs you. They scale with your needs—the more workflows you automate, the more valuable they become.
+
+To support this, Custom Agents consume Notion credits based on how much work they're doing for you. Your current plan and seat price stay the same. Other Notion AI features like Notion Agent, AI Meeting Notes, and Enterprise Search remain included in Business and Enterprise plans.
+
+We do recognize that this is a change that may take some time to get used to. And this is why we’re going to offer Custom Agents for free through May 3, 2026, so you have time to explore and see what works for your team.
+
+Starting May 4, 2026, they’ll use Notion Credits, available as an add-on for Business and Enterprise plans. You can buy as many or as few as you need.
+
+→ Learn more about Notion credits here.
+
+Stay in control of AI usage
+
+With Custom Agents running continuously in the background, predictability and control are key: How much will this cost? Who can create them? What are they actually doing?
+
+Here’s what we’ve built with those questions in mind:
+
+AI usage dashboard shows exactly how Custom Agents are using credits and where they’re adding value across your workspaceProactive alerts and auto-pause let you know when you’re approaching your credit limit, and Agents stop automatically when you hit itLogged runs so you can see exactly what triggered each Custom Agent and what actions it tookReversible changes allow you to undo anything a Custom Agent doesDetailed permissions to control what each Custom Agent can access and edit, who can create them, plus on/off controls
+
+AI usage dashboard shows exactly how Custom Agents are using credits and where they’re adding value across your workspace
+
+Proactive alerts and auto-pause let you know when you’re approaching your credit limit, and Agents stop automatically when you hit it
+
+Logged runs so you can see exactly what triggered each Custom Agent and what actions it took
+
+Reversible changes allow you to undo anything a Custom Agent does
+
+Detailed permissions to control what each Custom Agent can access and edit, who can create them, plus on/off controls
+
+And your data stays yours. Notion AI doesn’t train on your content, and Enterprise plans have zero data retention.
+
+Agent security is something we take seriously and are actively investing in. Like all LLM-powered systems, Custom Agents can encounter "prompt injection" attempts—when someone tries to manipulate an agent through hidden instructions in content it reads. This risk exists across connected tools, uploaded documents, and even internal communications. We're implementing guardrails to automatically detect potential prompt injection, and we've built controls for admins and workspace owners to monitor connections and restrict what agents can access.
+
+Our advice: Review unfamiliar content before giving agents access to it, use detailed permissions to limit agent scope, and leverage the usage dashboard to monitor agent activity.
+
+Get started with Custom Agents
+
+Custom Agents are available to try for all Business and Enterprise plans today. We’ll be rapidly iterating on Custom Agents, so please share your feedback with us. We can’t wait to see what you build.

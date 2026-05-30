@@ -1,0 +1,37 @@
+Title: A playbook for twenty-first-century fatherhood, built on Notion
+Published Date: 2025-03-27T06:00-07:00
+URL: https://www.notion.so/blog/a-playbook-for-21st-century-fatherhood-built-on-notion
+
+Welcome to the Builders series, where we salute people who are making wonderful things in Notion. Stories drop every Thursday. Read last week’s post, How to build an art marketplace on Notion.
+
+In the days after Kevin Maguire’s son Bodhi was born, something felt off. He was excited about having a second kid—he loved being a dad—but in the weeks after Bodhi’s birth, Kevin would take the dog to a nearby park after the kids had gone to bed, sit on a bench, and cry.
+
+He wasn’t sure what was going on. At first he thought it might have to do with his lack of sleep, but after he sleep returned, the feeling persisted. Getting through each day felt like wading through mud with a fifty-kilo weight strapped to his back.
+
+Kevin would later find a name for the amorphous weight he carried: postpartum depression. Though the baby blues are often discussed with moms, Kevin didn’t know it was even possible for for dads to feel them too. According to research, somewhere between five and twenty-five percent of new fathers struggle with postpartum depression, but the numbers are so inexact because dads rarely talk about it.
+
+Kevin began writing about his experience of being on dad on a Substack called The New Fatherhood. What began as a newsletter focused on paternal mental health has ballooned into a community of nearly twenty thousand dads helping out other dads with the logistical and emotional sides of fatherhood.
+
+“Fatherhood has changed more for this generation of men than any generation before it,” he said. “Our parents’ generation had different expectations about what it meant to be a father. We’re creating a community of men who are trying to raise their children in a more conscious and intentional way.”
+
+Closing the gap between idea and execution
+
+The New Fatherhood has become Kevin’s full-time job. He now publishes the newsletter, offers group coaching, and recently started organizing Dadurdays, dad meetups in thirty-six cities across the world. From newsletter drafts to digital products like The Expectant Dad Operating System to the outline for Kevin’s forthcoming book, the entire New Fatherhood business runs on Notion.
+
+“There are things my brain sucks at—dates and times, information recall, consistently capturing research,” he says. “Notion lets me to do the work that I’m actually good at.”
+
+For Kevin, Notion’s real value is that it allows him to close the gap between having an idea and executing upon it. When he’s out with friends and has a whisper of an idea for a new essay, he jots it down in Notion. The result is that he rarely stares at blank page. Notion has become the control center of his life. And whenever he wants to create something new, he’s bolstered by the knowledge he’s accumulated over the years. “Everything I’ve learned is just one command-K search away,” he says.
+
+Tips for builders
+
+1. Find tools you love using
+
+Tools are only useful if they are used. Choose the one you feel makes it easiest to capture and organize ideas. When Kevin he comes across a new research study or parenting book, he immediately documents his takeaways in Notion. When he decided to launch a podcast, he found a Notion template to help him organize  interviews. Visual shortcut: envision a 2×2 matrix. On one axis lies work you love and work you don’t love. On the other axis lies tools you love and tools you don’t love. This heat map will make the choice obvious. “The wrong tool can take all the momentum out of your work—even if you’re excited about the task,” he says. “Finding a tool that you loving using is as important as finding work that you love doing.
+
+2. Get out of your comfort zone to engage an audience
+
+With so much noise and AI-generated slop on the internet these days, Kevin believes the best way to connect with an audience is through vulnerability. “David Bowie has this great idea that you should create from a place where your feet can no longer touch the ground,” Kevin says. “That level of vulnerability, where you’re right outside of your comfort zone, is where the magic happens.”
+
+3. Don’t get hung up on metrics
+
+As a creator building a community-based business, it’s easy for Kevin to get caught up in subscriber numbers and sales. But when he feels like he’s seeking external validation, he tries to remember a line from the Bhagavad Gita: “You are entitled to your work, but not the fruits of your work.” The New Fatherhood began because Kevin wanted to write about his own experience of being a dad so that others might feel less alone. That intrinsic motivation has proven to be a more sustainable fuel than any external milestone.

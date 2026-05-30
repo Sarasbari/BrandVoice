@@ -1,0 +1,99 @@
+Title: How to write great AI prompts
+Published Date: 2023-12-08T00:00-08:00
+URL: https://www.notion.so/blog/how-to-write-ai-prompts
+
+You can do amazing things with artificial intelligence — if you know how to write (and rewrite) great AI prompts.
+
+I didn’t. So I talked to my colleague Theo Bleier, an AI engineer who spends his days tinkering with the pre-built prompts that you see when you use Notion AI. Now I’m able to explain how you can wield generative AI’s staggering power to enhance your work and life, starting today.
+
+Note: all the prompts and responses in this post were done in Notion AI. But the principles we discuss should work similarly in any standard large language model (LLM).
+
+Let’s start by thinking about how LLMs actually work
+
+Large language models (LLMs) like Notion AI, ChatGPT and Llama use datasets comprising vast amounts of language — the equivalent of millions of books, web pages, and so on. They turn each word (or parts of a word) in these billions of sentences into a token, then rank every token according to how often it’s used next to every other token in that dataset.
+
+When you prompt an AI model, it uses these rankings to study your request and send back what it considers an ideal response. For simple prompts, this process seems fairly straightforward.
+
+But LLMs do occasionally diverge from their token rankings in order to generate a creative response — thus the name ‘generative AI.’  The result can be, well, kind of spooky.
+
+How does language models’ token-ranking strategy yield complex language and conversational ability? That question remains an active area of research. But we don't have to fully understand this process in order to learn ways to manipulate it.
+
+Talk to your model like it’s human
+
+Speak normally
+
+Generative AI models aren’t like Siri or Google Assistant, which only respond effectively to exact phrases. Having been trained on mountains of conversational dialogue, your language model knows all the nuances of how people converse with and text each other. Speak to it like you’d speak to a human and you’ll get a better (more human) response.
+
+Be concise
+
+Make your prompt as simple as you can while still explaining your request in all relevant detail (more on that later). The clearer your language, the less likely it is that the model will misinterpret your words (more on that later, too).
+
+Don’t use negative phrases like "Don't use negative phrases"
+
+When you say, “Do not...”,  an LLM might focus on “Do” while ignoring the “not,” and thus take the exact action you think you’ve instructed it to avoid. So:
+
+BAD: Do not include incomplete lists.
+
+GOOD: Only include complete lists.
+
+Tell your model everything it needs to know
+
+Now that we’ve discussed how to talk to our LLM, let’s get into what we’re going to talk about. I’ve chosen a research project a typical market analyst might want help with, but you can ask AI about anything you want, from schoolwork to how to put together a great menu for a dinner party on New Year’s Eve. The same principles apply.
+
+Let’s say you’re a market analyst for a sporting goods company and you need to write a report on the best U.S. cities in which to launch a new line of camping gear. How should you ask?
+
+Give your model an identity
+
+Want your model to do the work of a market analyst? Start by saying this:
+
+Yeah, it’s weird, but it works. LLMs train on human language. Tell your model to assume it’s a market analyst and it will emphasize token patterns that are linked to actual market analysts. When you think of it in those terms, giving your model an identity isn’t all that weird. Telling it to
+
+before it responds to your prompt really is weird, and apparently that works, too.
+
+Be specific
+
+Language models understand language one token at a time. Every one of those tokens counts — that’s why concision matters — but you also can’t assume your model will interpret a vague request correctly.
+
+This thoughtful response politely points out that we haven’t given our model nearly enough information for it to offer us a meaningful response. Let’s adjust accordingly:
+
+Oops — we wanted our report to specify locations:
+
+Notice how a minor adjustment to a prompt produces a significant change in our AI’s response? Kind of makes you wonder what a major adjustment would produce.
+
+Avoiding errors and producing great results
+
+The way the AI’s response keeps getting closer to what we want based on the improved clarity of our instructions leads to one of our most important tips:
+
+Be thorough
+
+So far our prompts have been quite brief. But LLMs are capable of processing vast amounts of data. Which means that once you get good at writing prompts, you can ask much more of them. In fact, one advantage Notion AI has over LLMs like ChatGPT is that instead of starting from a blank page, you can start on an existing page and tell the AI something like “Based on the guidelines above…” or “Check the table above for up-to-date statistics about these cities.”
+
+Add lines that steer it away from bad results
+
+You can also add clarifying sentences to your prompt which anticipate problems the model might have or decisions it might have to make.
+
+Here’s a result worth pausing over. Our AI chose four cities: Denver, Seattle, Austin and Minneapolis. When we added that we only want cities that get at least six inches of snow per year, the model swapped in Anchorage and Burlington for Seattle and Austin, while changing its rationale to emphasize each city’s total snowfall.
+
+But is this really an ideal list? New York City gets 23 inches of snow per year; do we really want to emphasize Anchorage over the Big Apple to sell our camping gear?
+
+There are a couple of prompt-writing lessons here.
+
+One lesson is that language models can be unpredictable, even make mistakes. Our AI reports to us that Anchorage is “the city with the highest snowfall in the U.S. (averaging 101 inches per year).” My searches tell me that Anchorage averages 77 inches of snow per year and the snowiest city in America is Buffalo, New York, with 110+ inches per year. And indeed, when I ask the model the same question a few days later, I get a more accurate result:
+
+Computer scientists call generative AI models’ tendency to periodically spit out false results “hallucination.” We can guard against our model’s tendency to slip us the occasional curve ball by steering it back toward what it’s best at.
+
+Add an input-output example (”few-shot example”)
+
+So far we’ve asked our AI to gather information from the Internet. But an LLM’s most potent skill is language — understanding it, working with it, changing it, improving it.
+
+AI helped us choose cities for our campaign to focus on. For the final report let’s ask it it to turn a distillation of information about each city into a polished conclusion. We’ll show it what to do by giving it a prompt that starts with a ‘few-shot example’ — an example of the input the model will receive and the output we want it to produce. Then we’ll add notes for a city we’d like it to report on:
+
+Pretty good, huh? It took us awhile, but we’ve figured out how to use our model to scour the internet and make suggestions, then to take the information we select and turn it into writing that we can work with. The AI even got its population figures right!
+
+Although I notice, while checking the AI’s basic Salt Lake City data, that it failed to note that the mountains surrounding the city get some 500 inches of snow per year. Shouldn’t that be including in the summary?
+
+Well, sure — but by now you’re pondering the second important prompt-writing lesson: that this is actually a lot of work! Humans have been communicating with each other for tens of thousands of years. We’ve only been studying how to communicate with language models for a few months. How do we know when we’re doing it right? Couldn’t we just keep adjusting our prompts indefinitely?
+
+Yes, we could, and that’s an important insight about working with artificial intelligence: the more effort you put in, the more benefit you’ll receive. AI doesn’t erase our work — it complements our abilities, supplements our efforts, and takes us places we never could have reached alone.
+
+And of course we’re all just getting started. What wonders will tomorrow’s AI be able to perform? The sky’s the limit. Let’s start learning to fly.

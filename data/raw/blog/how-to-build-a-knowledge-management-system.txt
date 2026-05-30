@@ -1,0 +1,247 @@
+Title: How to build a knowledge management system
+Published Date: 2021-02-25T00:03-08:00
+URL: https://www.notion.so/blog/how-to-build-a-knowledge-management-system
+
+No matter what business you're in, knowledge is your most important asset and competitive advantage.
+
+It's part of everything you do. It can be granular, like the step-by-step process engineers follow for a product launch. Or it can be strategic, like your marketing team's design language.
+
+But what happens when that knowledge isn't documented? Countless questions arise. When it's inaccessible? Execution suffers. Time wasted, unfollowed processes, incorrect information sharing — these problems stem from not having a system with which to manage the constantly growing (and evolving) knowledge base at your company.
+
+From a company wiki to team-specific knowledge bases, here are five wiki templates you can stand up with one click.
+
+Building a knowledge management system — or KMS — is about more than just making employee benefits information clear and easily-found. It's like building a shared brain for your org, one that collects learnings and helps everyone operate more efficiently.
+
+Here, we'll explain why a knowledge management system is important and how you can build one, so you can spend more time focusing on the task at hand instead of rooting around outdated files.
+
+What is knowledge management? Why do you need it?
+
+There are two kinds of knowledge management: internal and external.
+
+External knowledge is for people outside your company. Think about your help center or FAQs housed on your company website. You do this to help customers — providing a better customer experience by giving them the ability to access information whenever they need it.
+
+We'll be focusing on internal knowledge — which are all your company resources for employees. How you create, distribute, use, and maintain all that information
+
+The list of organizational knowledge is likely long. It can be the company mission, a team directory, or a process detailing how product managers should interview users. Your KMS makes this info easy to find for your team and remains updated with the latest information so nothing's our of date.
+
+Without a KMS, you...
+
+Risk operating off tribal knowledge — only veteran employees possess your most vital company info. This makes onboarding new employees difficult and getting them up to speed even harder.Slow your team down — time spent trying to find information is time wasted. From commuter benefits to team goals to your tech stack, it can hamper output if employees are sifting through beaches of sand for the grain of knowledge they need.Run incorrect processes or workflows — no documentation means no standard way of doing things, which is especially detrimental for new teammates looking to contribute from the start.Aren't learning together as a team — there's no place to document shared learnings, like a set of questions that proved helpful in an interview. This makes your knowledge stagnant, limiting the growth of your entire team.
+
+Risk operating off tribal knowledge — only veteran employees possess your most vital company info. This makes onboarding new employees difficult and getting them up to speed even harder.
+
+Slow your team down — time spent trying to find information is time wasted. From commuter benefits to team goals to your tech stack, it can hamper output if employees are sifting through beaches of sand for the grain of knowledge they need.
+
+Run incorrect processes or workflows — no documentation means no standard way of doing things, which is especially detrimental for new teammates looking to contribute from the start.
+
+Aren't learning together as a team — there's no place to document shared learnings, like a set of questions that proved helpful in an interview. This makes your knowledge stagnant, limiting the growth of your entire team.
+
+A well-tuned knowledge management system should fire like an engine, driving your team forward by getting everyone the most up-to-date information they need in as little time as possible.
+
+Your KMS can...
+
+Centralize your most important info and make it immediately accessible — instead of needing to ask a manager or a member of the human resources team, employees can simply grab what they need. Much like an external KMS, your internal knowledge management system fosters self-service among your team.Create efficient, comprehensive onboarding — think about what happens when someone joins your company. Is there one place they can go to access everything they need? Probably not. That won't cut it for a rapidly-growing company. With a knowledge management system, new teammates can access everything from benefits to their team's tools with a single click.Collect knowledge from everyone on your team — if learnings from team members only live inside their heads, this doesn't help the team grow. Your KMS is the space to either start documentation or update existing documentation, ensuring that learnings compound.Give every team their own space for tools, docs, and processes — even within your knowledge management system, you can create smaller systems for each team. Marketing can have a home for all its material, while engineering can have its dedicated space, too.
+
+Centralize your most important info and make it immediately accessible — instead of needing to ask a manager or a member of the human resources team, employees can simply grab what they need. Much like an external KMS, your internal knowledge management system fosters self-service among your team.
+
+Create efficient, comprehensive onboarding — think about what happens when someone joins your company. Is there one place they can go to access everything they need? Probably not. That won't cut it for a rapidly-growing company. With a knowledge management system, new teammates can access everything from benefits to their team's tools with a single click.
+
+Collect knowledge from everyone on your team — if learnings from team members only live inside their heads, this doesn't help the team grow. Your KMS is the space to either start documentation or update existing documentation, ensuring that learnings compound.
+
+Give every team their own space for tools, docs, and processes — even within your knowledge management system, you can create smaller systems for each team. Marketing can have a home for all its material, while engineering can have its dedicated space, too.
+
+Building a KMS is one of the highest-leverage projects you can tackle. Once built, it'll serve as the map for everything your team does.
+
+What to consider when implementing a KMS
+
+Everything about your company and its knowledge is unique. So before actually shopping for your knowledge management solution, it's important to think about the knowledge you're organizing and the technology you'll use to do it.
+
+Explicit vs. tacit knowledge
+
+You're probably familiar explicit knowledge — it's anything codified into a document and stored for later use. A company policy, a co-worker's cell phone number in a company directory, things like that.
+
+The second is tacit knowledge. It's knowledge gained with experience. Often, it's hard to define and turn into explicit knowledge.
+
+Knowledge management systems are usually good at organizing explicit knowledge, storing it, updating it and making it easy to find. Tacit knowledge is another story — not because it's less important but rather, because it's rooted in experience.
+
+But these two types of knowledge need to work together in your KMS to level up your company and pull learnings from all angles.
+
+Japanese organizational theorist Ikujiro Nonaka says, "The key for this synergetic expansion of knowledge is joint creation of knowledge by individuals and organizations." Your knowledge management strategy should bring together the knowledge from your organization (explicit knowledge) and your team (tacit knowledge).
+
+The goal should be to cement a culture of documentation at your company, where employees are making strides to turn tacit knowledge into explicit knowledge.
+
+Knowledge management software
+
+In order to choose the knowledge management tool, consider the pieces of knowledge you want to organize. Is it a collection of notes and documents? Is it resources and benefits for your employees? What about steps in a process a specific team should follow?
+
+There needs to be a system for collecting, maintaining and serving that knowledge to the right person at the right time.
+
+"The key to better productivity is applying technology more precisely," says Gartner analyst Thomas H. Davenport in Rethinking knowledge work: A strategic approach.
+
+After deciding what knowledge to organize, here are a few considerations for implementing technology to do it:
+
+Flexibility & customization — every organization has different knowledge and different ways of working. You need software that will mold to the way you work. Instead of shoehorning information into a brittle system, find something you can customize, and make it work for you and your team.Easy to find & share — even if everything is documented, it needs to be accessible. Look for knowledge management software that makes surfacing information quick for your employees, so they can spend less time sifting through the digital haystack and more time on high-impact work.Collaboration — especially for tacit knowledge, employees need the ability to add new knowledge to your KMS. Not only does this expand the scope of your learnings, it keeps your KMS updated with the latest information in real-time. Having a single gatekeeper or limiting employee contribution might make your KMS stale. Try finding software that's user-friendly, making it easy for the whole team to contribute to your knowledge base.
+
+Flexibility & customization — every organization has different knowledge and different ways of working. You need software that will mold to the way you work. Instead of shoehorning information into a brittle system, find something you can customize, and make it work for you and your team.
+
+Easy to find & share — even if everything is documented, it needs to be accessible. Look for knowledge management software that makes surfacing information quick for your employees, so they can spend less time sifting through the digital haystack and more time on high-impact work.
+
+Collaboration — especially for tacit knowledge, employees need the ability to add new knowledge to your KMS. Not only does this expand the scope of your learnings, it keeps your KMS updated with the latest information in real-time. Having a single gatekeeper or limiting employee contribution might make your KMS stale. Try finding software that's user-friendly, making it easy for the whole team to contribute to your knowledge base.
+
+Remember technology is only part of the equation when creating a KMS. Writer Antonie Botha reminds us that human interaction is part of a rich knowledge management system.
+
+The people at your company are responsible for creating and organizing knowledge, while technology gives you the ability to share, collaborate and access it. For example, using Notion for your KMS gives the humans at your company the ability to create and customize your system. Instead of being static and rigid, its collaborative features enrich the relationship between explicit and tacit knowledge.
+
+Examples of different knowledge management systems
+
+Your team's knowledge isn't one dimensional — it'll likely range from company resources to meeting notes and everything in between. With Notion, you can create one single KMS for all types of knowledge.
+
+Below is some inspiration, along with templates to get you started.
+
+A home for all company material
+
+Organize all your company's most vital information for employees. Here, each collection of knowledge has its own individual page — like "Office Manual" and "Employee Directory" — making it easy to find and access for your employees. Get the company home template.
+
+All meeting notes shared across teams for company-wide learnings
+
+Think of this like a document management system. When meeting notes are shared in your KMS, so are the learnings for your team. These are tagged by the type of meeting, date, and its participants, making the notes easily-accessible by all team members, so no one misses a beat (even those who weren't in the meeting). Get the meeting notes template.
+
+A content calendar to manage all your marketing team's work
+
+You can even use a KMS to organize different types of media — whether it's a gif for a Tweet, a case study interview, or video inspiration. This system allows you to see where projects stand, who's responsible, and when they're set to launch. Get the content calendar template.
+
+Teams within your company can create their own KMS setups
+
+Each team at your company likely needs a specific set of tools, processes and guides to do their work. Inside of your knowledge management system, they can create their own space to access, share and update information. Learn how to make an engineering wiki.
+
+A public job board
+
+Using Notion's sharing settings, you can make any of the pages in your company's KMS public. This can be used as an external knowledge management system, as opposed to the internal systems we've discussed. This way, people outside your company can get the necessary information they need — like job postings or FAQs. This saves your customer support team from getting inundated with requests about what roles you're hiring for. Get the job board template.
+
+How to Build Your Knowledge Management System
+
+Ready to take the action and build your own internal knowledge management system? Using Notion, we'll show you how to make a KMS at the company level. You can apply these same principles to other systems too, like team wikis. And if you need a little help building the perfect setup for your team, we have certified Notion Consultants who can help get you up and running.
+
+Plus — this system totally customizable. You can make Notion fit to your workflow. And all that info is centralized in one place, which makes organization and knowledge sharing super simple.
+
+1. Gather the information that'll live in your KMS
+
+When thinking about building a company-level knowledge base, you'll first need to gather the resources employees need.
+
+A repository of this information is a well your employees can continually go back to — so when policies change, or when new hires inevitably forget a few things in the onboarding process, it's all available whenever they need it.
+
+These might include:
+
+Benefits information — links to health, dental, vision, commuter, lunch orders or any other benefits your employees should sign up for when they start work.Company policies — from vacation to requesting time off to expenses, employees should know your company's stance on these items and know how to leverage them.Goals, mission, and values — in an effort to remain transparent, it's helpful to have this information available to all your employees right from the start.Technology — instructions for setting up a VPN or passwords to tools used by specific teams, having this information on hand will help new hires contribute from day one.Team directory — joining a new company (and remembering all those names!) can be intimidating, so having a directory of all employees with photos helps new teammates get acquainted.
+
+Benefits information — links to health, dental, vision, commuter, lunch orders or any other benefits your employees should sign up for when they start work.
+
+Company policies — from vacation to requesting time off to expenses, employees should know your company's stance on these items and know how to leverage them.
+
+Goals, mission, and values — in an effort to remain transparent, it's helpful to have this information available to all your employees right from the start.
+
+Technology — instructions for setting up a VPN or passwords to tools used by specific teams, having this information on hand will help new hires contribute from day one.
+
+Team directory — joining a new company (and remembering all those names!) can be intimidating, so having a directory of all employees with photos helps new teammates get acquainted.
+
+It's beneficial to gather these documents by topic, making them easier to package when it comes time to build your KMS.
+
+You can take this same approach when creating individual KMS systems for your teams. Assign a point person from each team to collect all that team's need-to-know information into one page, organizing it for easy use.
+
+It can include:
+
+Team members, their roles and their responsibilitiesTeam goals (which you can even break down by quarter)Notes from team meetingsYour team's roadmap or a list of projects you're currently working onPages for inspiration, tools, or processes
+
+Team members, their roles and their responsibilities
+
+Team goals (which you can even break down by quarter)
+
+Notes from team meetings
+
+Your team's roadmap or a list of projects you're currently working on
+
+Pages for inspiration, tools, or processes
+
+Updating these pages on (at least!) a quarterly basis helps keep everything fresh.
+
+2. Build & customize it
+
+In Notion, you'll add a page to the WORKSPACE section in your sidebar that's called "Company Home."
+
+This will be a one-stop-shop for anything you team needs. Ease of use is key, so employees can quickly parse through information instead of searching through a floor-length scroll of loose links.
+
+Create content-specific pages — to further parse out all the information in your Company Home, put them into buckets. Each one can have its own page, like "Benefits" or "Values." This further organizes all the materials you've gathered above.Put all material inside the page — everything related to the page's topic should go inside each page. In Notion, these can be links, PDFs or simply text. For example, in your "Benefits" page, you can link out to the portal that contains all the information about health insurance. This saves employees time, instead of needing to sift through their welcome packet.
+
+Create content-specific pages — to further parse out all the information in your Company Home, put them into buckets. Each one can have its own page, like "Benefits" or "Values." This further organizes all the materials you've gathered above.
+
+Put all material inside the page — everything related to the page's topic should go inside each page. In Notion, these can be links, PDFs or simply text. For example, in your "Benefits" page, you can link out to the portal that contains all the information about health insurance. This saves employees time, instead of needing to sift through their welcome packet.
+
+Do this for each one of your information collections. So at a glance, employees can quickly see which page they'll need to find the information they're looking for.
+
+In Notion, you can even customize how this looks.
+
+Use headings to make info easily digestible — create different headers based on all the information buckets we explored above. Then, you can drag all the relevant pages under those headers. For example, you can create an "About Us" header and pages for "Company Directory," "Mission," and "Restaurants Around the Office" can all live underneath it.Add color or emojis — visual queues make information even easier to find. Plus, you can upload your own emojis or images, which help you bring some brand or team identity to Notion pages.
+
+Use headings to make info easily digestible — create different headers based on all the information buckets we explored above. Then, you can drag all the relevant pages under those headers. For example, you can create an "About Us" header and pages for "Company Directory," "Mission," and "Restaurants Around the Office" can all live underneath it.
+
+Add color or emojis — visual queues make information even easier to find. Plus, you can upload your own emojis or images, which help you bring some brand or team identity to Notion pages.
+
+From an onboarding perspective, you can also create a custom set of materials for each new teammate. It'll have everything in your company wiki, along with relevant information about the team they're joining, their manager, and more.
+
+Bottom line — you want this information to be useable by your team. Think about how they consume and share information, and customize your KMS to those needs.
+
+3. Bring your team into the fold
+
+The point of a KMS is getting your team to use it — both for finding information, but also for maintaining its accuracy. None of this is worthwhile unless it's a tool used by your team.
+
+Here are a few steps to foster collaborative, effective knowledge management.
+
+Accessing information — show your team the ins-and-outs of your KMS. They should develop a quick understanding for how to find information. In Notion, there's a search function. You can also use the sidebar's toggle function, which will display any pages nested inside other pages.Sharing knowledge — this is where your KMS can almost act as another employee. If someone asks a question on Slack, another teammate can point them to the correct page with the answer. This create a symbiosis that feeds the general knowledge of your team. In Notion, you can use the Share menu to simply generate and send a link, or tag that person in the page using the @ symbol.Contributing to the KMS — once teammates know how to access and share information in your knowledge management system, they should feel comfortable contributing to it. This ensures that your KMS evolves with your team as they grow and learn. Maybe a link to your benefits provider is broken. Or a company policy is out of date. A system that welcomes employee contributions increases the quality of knowledge within that system.
+
+Accessing information — show your team the ins-and-outs of your KMS. They should develop a quick understanding for how to find information. In Notion, there's a search function. You can also use the sidebar's toggle function, which will display any pages nested inside other pages.
+
+Sharing knowledge — this is where your KMS can almost act as another employee. If someone asks a question on Slack, another teammate can point them to the correct page with the answer. This create a symbiosis that feeds the general knowledge of your team. In Notion, you can use the Share menu to simply generate and send a link, or tag that person in the page using the @ symbol.
+
+Contributing to the KMS — once teammates know how to access and share information in your knowledge management system, they should feel comfortable contributing to it. This ensures that your KMS evolves with your team as they grow and learn. Maybe a link to your benefits provider is broken. Or a company policy is out of date. A system that welcomes employee contributions increases the quality of knowledge within that system.
+
+Once employees start adding to the KMS, this fosters a collective brain. To further entrench this practice, create a page outlining how your company should be using Notion — setting guidelines to make these pages productive.
+
+But if there's a page someone isn't supposed to see, in Notion, you can set permissions for certain people or teams. For your primary wiki pages, you might want only a few people with editing access. But everyone should be able to read them. Learn more about permissions below.
+
+4. Regular updates
+
+Don't let you knowledge get stale. Set a cadence where you'll routinely check on your KMS to ensure everything's up to date.
+
+For smaller companies growing at a faster pace — policies and people are likely changing just a quick. You may need to review your KMS more frequently, like monthly or quarterly.For larger, enterprise-sized companies — there's probably a bit more stability, so check-in's might be less frequent. It's prudent to assign someone as an owner of maintaining a clean KMS who's responsible for updating info and archiving outdated material.
+
+For smaller companies growing at a faster pace — policies and people are likely changing just a quick. You may need to review your KMS more frequently, like monthly or quarterly.
+
+For larger, enterprise-sized companies — there's probably a bit more stability, so check-in's might be less frequent. It's prudent to assign someone as an owner of maintaining a clean KMS who's responsible for updating info and archiving outdated material.
+
+Keeping your KMS fresh is another key to it being used by your team. It's like a chef's knife. The sharper it is, the better it is to use (and safer, too).
+
+In Notion, maintaining and updating your knowledge management system for the entire company is easy because it's centralized. You can give yourself reminders about specific pages that might need frequent updating, like a team directory or work from home policy.
+
+On the page, simply type @ and the date you want to be reminded. On that date, you'll get a notification in the All Updates section of your sidebar.
+
+5. Optimize for better use
+
+As your company evolves, so too should your KMS.
+
+Take stock of how your team is using the knowledge management system. Do you notice a lot of its links being shared in Slack? Are less questions being asked because they're answered by the KMS? This isn't a science, but you can take a pulse check on the system's effectiveness.
+
+Notion helps do this by showing how recently someone has viewed a page. Simply hover over the icons on top right to see the last time each page has been visited. This helps you audit your KMS, surfacing which pages might be irrelevant to keep.
+
+Then, after you gather some learnings, optimize it.
+
+At Notion, one thing we've done is create "Archive" pages inside certain area of our KMS. Here, we'll bury old meeting notes, decision-making frameworks, or outdated info. We find this better than deleting the page, because having it around might be valuable if you need to resurrect something later. If you're wondering how the vacation policy has changed since you started at the company, you can find out what it was before and why that decision was made.
+
+We also have team-specific wikis in our KMS. So, each team has their own knowledge base, from marketing to engineering to customer support. This way, all their information is neatly organized, making it easy to find and use.
+
+Taking the overhead out of organization
+
+A solid knowledge management system becomes an extension of your team.
+
+Without a system, knowledge isn't tangible. It lives in employees' heads, slowing down new or existing teammates, plateauing learnings and potentially running incorrect processes — because nothing is written down and accessible.
+
+With frequent use, it gets even more powerful. Information is gathered, stored, organized, shared and maintained. That foundation sets your team up to save time, work more efficiently, and collaborate seamlessly. Try Notion for teams today!

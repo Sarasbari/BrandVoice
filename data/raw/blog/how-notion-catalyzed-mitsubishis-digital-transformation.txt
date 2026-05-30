@@ -1,0 +1,33 @@
+Title: How Notion catalyzed Mitsubishi’s digital transformation
+Published Date: 2023-10-12T00:00-07:00
+URL: https://www.notion.so/blog/how-notion-catalyzed-mitsubishis-digital-transformation
+
+Mitsubishi Heavy Industries (MHI) takes great pride in its diverse business sectors and global presence. For several years now, MHI has been driving the digital transformation of its operating businesses, with the DPI (Digital Platform Innovation) Department at the forefront of this initiative. To help reach this goal, DPI introduced Notion as the company’s in-house tool. Here’s how it went.
+
+Robust security makes Notion a platform DPI can trust
+
+Ensuring the protection and control of key information played a pivotal role in the adoption of the Notion platform. Notion's strong security features, such as single sign-on (SSO) and enhanced auditing functions, guarantee that only authorized individuals can access specific information. Furthermore, Teamspaces created for each team allowed team-level permissions and granular access rights to prevent any data leakage.
+
+Intuitive usability drives widespread adoption
+
+Regardless of their level of IT proficiency, individuals like Koji Nishimoto have found Notion remarkably easy to use. Koji, who previously worked in a clerical role, shares, "I didn't have much knowledge or relevant skills in IT, but Notion's visually intuitive interface made it easy for me to grasp and use effectively."
+
+Kiichi Hiromasa, Senior Manager of the DPI Platform Group, adds, "Notion is a tool anyone can use, so we expect an improved employee experience as a result. Another reason we adopted Notion was our belief that the functionality offered in the Enterprise Plan would continue to expand."
+
+Dedicated support fosters enthusiastic adoption
+
+DPI's organizational culture strongly encouraged active use of the Notion platform. Prior to its introduction, a Notion representative conducted a comprehensive hands-on seminar, addressing any questions and concerns that arose.
+
+Once Notion was implemented, early adopters took the initiative to establish forums and provide opportunities for their colleagues to learn from them. A dedicated Notion channel was created on a chat tool, and the team introduced Lightning Talks (LT) on Notion, allowing power users to present Notion pages for teammates to review at their own pace.
+
+Extensive usage cultivates a collaborative mindset
+
+DPI has discovered numerous use cases for Notion as a document management tool—from new employee onboarding to meeting minutes and knowledge management. Equipped with a versatile workspace, each team tailors pages in line with their specific objectives. As a result, an impressive 90% of DPI employees are now active users, and the number of pages has more than doubled, from 2,000 to approximately 4,700 pages.
+
+Koji Nishimoto, Dupty Manager of the Platform Group, highlights, "As we continue to use Notion, it has become the go-to platform for accessing the information we need. Clear organization and searchability ensure that desired information can be found promptly."
+
+The introduction of Notion has facilitated seamless collaboration in DPI's workflow, enabling smoother progression in creating requirement specifications, project foundations, and products. Yoshito Miyachi emphasizes that "providing a platform for effortless collaboration has been the biggest positive impact of Notion.”
+
+Notion has fostered a collaborative mindset among team members, as Kiichi Hiromasa explains, "During departmental meetings, both managers and individual contributors look at the same pages while discussing issues. Notion allows you to edit simultaneously in real time, creating a sense of shared collaboration, regardless of one's role or position."
+
+Notion's ease of collaboration transcends boundaries, building stronger relationships and fostering a virtuous cycle throughout the organization.

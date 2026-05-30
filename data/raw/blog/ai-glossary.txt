@@ -1,0 +1,91 @@
+Title: Key Terms to Learn About AI
+Published Date: 2023-05-26T03:00-04:00
+URL: https://www.notion.so/blog/ai-glossary
+
+AI Glossary
+
+AI is a rapidly changing field, so understanding its foundation is essential to using it effectively. Here are some of the key terms to know as you start learning about this new technology.
+
+Algorithm
+
+A step-by-step set of instructions for carrying out a task, often used in machine learning and other artificial intelligence applications. Algorithms are designed to enable machines to learn from data and make predictions or decisions based on that data. They’re a critical component of most AI systems and can be tailored to specific use cases to optimize performance and accuracy.
+
+Artificial intelligence (AI)
+
+Artificial Intelligence (AI) is a field of computer science that deals with the development of algorithms and systems that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision making, and language translation. AI is often categorized into two main types: narrow or weak AI, which is designed to perform a specific task, and general or strong AI, which has the ability to perform many repeatable task that a human can. With the help of machine learning, deep learning, and natural language processing, AI has become increasingly sophisticated and is rapidly becoming pervasive in modern technology, with applications in fields ranging from healthcare to transportation to finance and, yes, productivity.
+
+Big data
+
+Big data is a term used to describe extremely large, complex data sets. The sheer volume of data is a defining characteristic of big data, but it is also characterized by its velocity and variety. The velocity of big data refers to the speed at which data is generated and processed, while the variety of big data refers to the different types of data that are included, such as structured, unstructured, and semi-structured data. In the context of artificial intelligence, big data is often used to train machine learning models, which can then be used to make predictions or decisions based on new data. The use of big data in AI has become increasingly important in recent years as more and more data is generated and collected, providing opportunities for new insights and discoveries.
+
+Chatbots
+
+Chatbots are computer programs designed to engage in conversation with human users, typically through text messages. They use natural language processing and machine learning to understand and respond to user requests. Chatbots can be used for a variety of purposes, including customer service, marketing, and e-commerce.
+
+Computer science
+
+Computer science, the study of computational systems and their applications, provides the foundational knowledge necessary to create AI systems that can learn, reason, and make decisions. Areas of study within computer science that are particularly relevant to AI include algorithms, data structures, machine learning, natural language processing, and computer vision.
+
+Data analytics
+
+Data analytics is the process of studying data sets with the goal of discovering useful insights and supporting decision-making from the information they contain. Data analytics is a critical component of machine learning models, whose algorithms use advanced techniques like data mining, predictive analytics, and statistical analysis to identify patterns and make predictions.
+
+Data mining
+
+Data mining is the process of discovering patterns in large datasets using statistical, machine learning, and artificial intelligence techniques. These patterns can then turn into insights and knowledge from data to support decision-making and solve complex problems. Data mining can be used across a wide range of applications, from fraud detection and customer segmentation to drug discovery and predictive maintenance.
+
+Decision making
+
+Decision making is the process of choosing between different courses of action based on a set of criteria, often with the goal of maximizing a desired outcome or minimizing a negative one. AI programs can automate this process through the use of algorithms and machine learning models that analyze data and make predictions or recommendations based on that analysis. These models can trained for a wide range of applications, from personalized marketing to medical diagnosis. But it’s important to ensure that these systems are transparent, fair, and accountable in order to avoid unintended consequences or biases.
+
+Decision trees
+
+Decision trees are a type of machine learning algorithm used to model decisions and their possible consequences. They’re constructed by recursively partitioning the data set into smaller and smaller subsets, based on the values of input features, until the subsets are homogeneous with respect to the desired output. Decision trees are popular due to their simplicity and interpretability, as they can be visualized as a tree-like structure where each internal node represents a decision based on a feature, and each leaf node represents a predicted outcome.
+
+Deep learning
+
+Deep learning is a type of machine learning inspired by the structure and function of the human brain, using neural networks with multiple layers to learn and make decisions. Deep learning enables AI systems to perform complex tasks like image and speech recognition, natural language processing, and predictive analytics with a high degree of accuracy.
+
+Machine learning
+
+Machine learning (ML) is a subset of AI that involves training algorithms to make predictions or decisions based on data, without being explicitly programmed. This allows machines to learn and improve their performance over time, without the need for human intervention.
+
+Some common examples of ML include image recognition, natural language processing, and recommendation systems.
+
+ML has its roots in the 1940s and 1950s, but it wasn’t until the rise of big data and the development of more powerful computing systems that it became a more broadly available used in numerous applications, from self-driving cars to fraud detection to personalized ads.
+
+Natural language processing (NLP)
+
+Natural Language Processing (NLP) is a field of artificial intelligence that focuses on enabling computers to understand and interpret human language. NLP allows machines to analyze, interpret, and generate text-based data, making it an essential component of AI applications like chatbots, sentiment analysis, and language translation. By leveraging techniques such as statistical modeling, machine learning, and deep learning, NLP technology can make it easier for people to interact with AI-powered tools and systems.
+
+Neural networks
+
+Neural networks are a machine learning model inspired by the structure and function of the human brain. Their layers of interconnected nodes use a trial-and-error process to learn to recognize patterns in data. They’re used in a variety of applications, including image and speech recognition, natural language processing, and predictive analytics.
+
+Quantum computing
+
+Quantum computing is an emerging computer technology that leverages the principles of quantum mechanics to process information exponentially faster than classical computers. Quantum computers are particularly well-suited for solving complex problems that are too complex for classical computers, such as simulating chemical reactions and optimizing supply chain logistics. While still in its early stages, quantum computing has the potential to revolutionize fields from AI to medicine to finance.
+
+Reinforcement learning
+
+Reinforcement learning is a type of machine learning in which an agent learns to take actions in an environment in order to maximize a reward signal. The agent learns by taking actions and receiving feedback in the form of rewards or punishments, learning over time which actions lead to the highest rewards and adjusting its behavior accordingly. This approach is commonly used in tasks like game playing, robotics, and decision-making.
+
+Robotics
+
+Robotics is the interdisciplinary field of engineering and science focused on the design, construction, and operation of robots. Robotics combines the principles of mechanics, electronics, and computer science to create machines that can perform tasks autonomously or with remote control. In the context of AI, robotics often involves developing robots that can learn from their environment and adapt their behavior accordingly, using techniques like machine learning and computer vision.
+
+Virtual assistant
+
+A virtual assistant is an AI-powered program that can perform tasks or services for an individual based on verbal or written commands. Virtual assistants can take on a variety of roles, from scheduling appointments and sending reminders to providing weather updates and answering questions. They are designed to be user-friendly and convenient, making them an increasingly popular tool for managing daily tasks and improving productivity.
+
+Notion AI — what is it and how can it help you?
+
+Notion AI is your partner in thought. It’s embedded right into Notion to improve your existing workflows, from documentation to note-taking to project management. With Notion AI, you can:
+
+Work faster. Automate repetitive tasks.Write better. Communicate with confidence.Think bigger. Conquer writer’s block.
+
+Work faster. Automate repetitive tasks.
+
+Write better. Communicate with confidence.
+
+Think bigger. Conquer writer’s block.

@@ -1,0 +1,87 @@
+Title: 5 reasons to create internal and external knowledge bases
+Published Date: 2023-01-23T00:00-05:00
+URL: https://www.notion.so/blog/knowledge-base
+
+Employees often know their company so well, they forget that their customers don't. But if customers can’t find company or product information easily online, support tickets accumulate. And new hires and employees transitioning into new roles have more questions than answers, which could strain HR resources.
+
+Comprehensive internal and external knowledge bases can help. These libraries answer customer and staff questions, improving productivity, increasing collaboration, and positioning your company as an industry authority.
+
+What’s a knowledge base?
+
+A knowledge base is a library of information that’s relevant to an organization. There are two types — internal, or staff-facing, and external, or client-facing. Compiling these resources will save employees, clients, and customers time spent searching for answers to basic questions.
+
+Internal knowledge bases contain all the resources staff will need to onboard and collaborate across teams, including policy documents, client or production information, and tool logins. Teams can then create external knowledge bases to make information easier for customers and prospects to find.
+
+5 perks of knowledge bases
+
+Here are five advantages of creating and maintaining both internal and external knowledge bases:
+
+Saves everyone time — knowledge bases contain standardized answers to frequently asked questions (FAQs) from staff, customers, and curious readers. Instead of having an HR or support rep answer each question individually, you can direct people to the right resource.
+
+Centralizes crucial information — increase staff productivity by keeping important information in one place. Employees know precisely where to look to find resources they need in order to move forward with a project or upskill to meet a particular challenge.
+
+Encourages team cooperation — an internal knowledge base serves as a single source of truth for all teams, ensuring that everyone receives the same information. This means fewer discrepancies between task outcomes and employee expectations. Distributed teams in particular benefit from this single source information tactic, as both in-office and remote employees are on the same page about product information and company policies.
+
+Improves customer satisfaction — providing a self-service external resource for finding answers to common questions leads to better customer experiences and increased user satisfaction and loyalty.
+
+Streamlines the support process — you’ll receive fewer support tickets since potential customers and current clients can find answers to their questions online. This saves your company time and resources and improves the overall customer support experience.
+
+What should an internal knowledge base include?
+
+Deciding what to include in a staff-facing information resource means determining what employees need to know. Here are five information types worth including:
+
+Essential company knowledge — include important information like the company’s history, mission statement, policies, and values to help employees understand how they fit in with the company culture and how their actions contribute to overall goals. Onboarding information — make employee transitions easier by putting onboarding resources and documentation all in one place—HR employees will thank you for it.Product and service documents — every team benefits from having an easily accessible hub outlining product and service specifications. This makes it easier to answer client questions and understand how to perform individual tasks. Answers to FAQs tailored to staff — ask managers and HR staff to note commonly asked questions, then include answers to them in the knowledge base and add this resource to the onboarding process. Tool access information — reduce bottlenecks caused by unknown logins by putting all tool and software access information in one place. This doesn’t mean outlining unencrypted passwords, but does include information such as links to apps for employees or contact details for personnel who provide tool login details.
+
+Essential company knowledge — include important information like the company’s history, mission statement, policies, and values to help employees understand how they fit in with the company culture and how their actions contribute to overall goals.
+
+Onboarding information — make employee transitions easier by putting onboarding resources and documentation all in one place—HR employees will thank you for it.
+
+Product and service documents — every team benefits from having an easily accessible hub outlining product and service specifications. This makes it easier to answer client questions and understand how to perform individual tasks.
+
+Answers to FAQs tailored to staff — ask managers and HR staff to note commonly asked questions, then include answers to them in the knowledge base and add this resource to the onboarding process.
+
+Tool access information — reduce bottlenecks caused by unknown logins by putting all tool and software access information in one place. This doesn’t mean outlining unencrypted passwords, but does include information such as links to apps for employees or contact details for personnel who provide tool login details.
+
+What should an external knowledge base include?
+
+You can build as detailed a customer-facing knowledge base as you feel necessary. Regardless, here are five information types worth including:
+
+Answers to FAQs tailored for clients — customers will enjoy easily accessing answers to their queries without waiting for a support rep’s response, and support teams will enjoy time saved.
+
+Essential company knowledge — include core company details like who you are and what you stand for. Be selective in the information you include and how you present it, since potential customers can use this information to decide whether you’re the right fit for their needs.
+
+Product and service use tips — offer best practices for using your products and services. Both potential customers and current users will find this info valuable. It also increases the chances they’ll use the product/service correctly and love it.
+
+Industry insights and trends — establish your organization as an industry thought leader by including insights and trends. Customers could find this information useful and it will certainly showcase your expertise.
+
+How can I build a knowledge base?
+
+Follow this how-to on building a knowledge base to create top-notch libraries that meet team and client needs:
+
+Define goals, audiences, and requirements — before compiling information, clarify your goals and use target demographic data to define the knowledge base system requirements. For example, an internal knowledge base might contain employee vacation policy information, and an external library could include product case studies for prospective clients. Collect information and identify gaps — gather all existing documents about your company, products, and services, and identify any knowledge gaps. Use this data to decide which teams should create missing resources about essential topics and organize existing ones.Choose the best tool — many knowledge-base-creation tools exist, from specialized software to project management tools like Notion. The best one for your business depends on budget, scalability, how many document authors you require, and maintenance ease, among other things. Small startups might find bespoke software unwieldy and too expensive for their needs. And every business benefits from a cost-effective tool like Notion that scales to meet different needs.Share broadly — internal knowledge bases should be shared company-wide and included in onboarding packages. External knowledge bases should be shared with staff and clients once they’ve been published. Make the client-facing resource discoverable from your website and share the link on social media so prospects can find it.
+
+Define goals, audiences, and requirements — before compiling information, clarify your goals and use target demographic data to define the knowledge base system requirements. For example, an internal knowledge base might contain employee vacation policy information, and an external library could include product case studies for prospective clients.
+
+Collect information and identify gaps — gather all existing documents about your company, products, and services, and identify any knowledge gaps. Use this data to decide which teams should create missing resources about essential topics and organize existing ones.
+
+Choose the best tool — many knowledge-base-creation tools exist, from specialized software to project management tools like Notion. The best one for your business depends on budget, scalability, how many document authors you require, and maintenance ease, among other things. Small startups might find bespoke software unwieldy and too expensive for their needs. And every business benefits from a cost-effective tool like Notion that scales to meet different needs.
+
+Share broadly — internal knowledge bases should be shared company-wide and included in onboarding packages. External knowledge bases should be shared with staff and clients once they’ve been published. Make the client-facing resource discoverable from your website and share the link on social media so prospects can find it.
+
+Best practices for creating a knowledge base
+
+Compiling a knowledge base is time-intensive. Here are a few tips to help you nail it on your first try:
+
+Keep your knowledge base brand-consistent — in digital marketing, brand identity is everything. Assist your marketing team’s efforts by following the tone, formatting, and language outlined in your style guide throughout your knowledge bases in order to create a cohesive brand experience.Update it frequently — review library contents and make updates where necessary to keep information accurate and relevant. Perform routine audits, whether that’s quarterly or annually, to ensure that content stays up to date.Make it easy to navigate — organize information logically and intuitively so users can easily find the proper resources. Consider using categories, tags, and search functionality to reduce customer friction wherever possible.
+
+Keep your knowledge base brand-consistent — in digital marketing, brand identity is everything. Assist your marketing team’s efforts by following the tone, formatting, and language outlined in your style guide throughout your knowledge bases in order to create a cohesive brand experience.
+
+Update it frequently — review library contents and make updates where necessary to keep information accurate and relevant. Perform routine audits, whether that’s quarterly or annually, to ensure that content stays up to date.
+
+Make it easy to navigate — organize information logically and intuitively so users can easily find the proper resources. Consider using categories, tags, and search functionality to reduce customer friction wherever possible.
+
+Stay organized with Notion
+
+Information gathering is one of those tasks that always seems to get side-stepped. But once you’ve done the heavy lifting of compiling all the relevant information, you’ll enjoy increased customer and employee satisfaction, improved productivity levels, and time saved for everyone involved.
+
+Consider starting with a Notion template to speed up your creation process. Our knowledge management system, personal knowledge organization, and team wiki documents will help you enjoy streamlined information sharing in no time.

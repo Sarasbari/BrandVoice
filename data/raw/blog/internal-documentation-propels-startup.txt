@@ -1,0 +1,75 @@
+Title: How internal documentation helps drive your startup’s growth
+Published Date: 2021-11-10T00:00-07:00
+URL: https://www.notion.so/blog/internal-documentation-propels-startup
+
+The brave teams getting startups off the ground know that their scarcest resource is time. But what if you could invest a little bit of time upfront to save a ton of time in the long run?
+
+There are few better ways to spend that precious time than on a strong strategy of internal documentation right away. Internal documentation might not sound like the most exciting project, but when done strategically, it will speed up your team’s collaboration, onboarding, training, and overall communication.
+
+We’re going to show you not only why internal documentation is worth the time it takes to set up, but also how other startups have enhanced their productivity and growth by doing so.
+
+Startups with a good product still fail without internal documentation
+
+What slows most startups? Professor Ranjay Gulati at Harvard Business School says startups that have a good product with a solid market fit most often fail because of a lack of structure and organization.Gulati’s startup research indicates that fast growth combined with insufficient infrastructure leads to disaster. These problems create a snowball effect that looks something like this:
+
+The team grows too quickly.Onboarding becomes sloppy.Institutional knowledge doesn’t transfer.Silos develop. Responsibilities are unclear. Tasks get missed (or performed redundantly).Products lag. Outreach and marketing proceed without a solid plan. Customers and clients are ignored.Mass hysteria.
+
+The team grows too quickly.
+
+Onboarding becomes sloppy.
+
+Institutional knowledge doesn’t transfer.
+
+Silos develop.
+
+Responsibilities are unclear.
+
+Tasks get missed (or performed redundantly).
+
+Products lag.
+
+Outreach and marketing proceed without a solid plan.
+
+Customers and clients are ignored.
+
+Mass hysteria.
+
+Startups, therefore, need to commit to internal documentation early to prevent these inevitable snags that hinder their growth.No team is too small to benefit from this level of organization, either: YouTuber and teacher Ahmed Abouzaid has managed to reach a million subscribers by structuring his online lessons, ideas, and related educational projects in Notion. He created a centralized, organized pipeline in Notion that took ideas from brainstorming through production. Everything was documented — not only the ideas and scripts, but also the processes for creating all of these videos. Now, Ahmed has 42 million views across all his videos.
+
+Well-documented collaboration breeds the innovation fast-moving teams crave
+
+Startups mean small teams, and small teams don’t have the resourcing firepower of larger organizations. The work your startup does has to be purposeful, efficient, and innovative if you want your startup to grow.
+
+Async collaborators need to be on the same page
+
+Startups don’t often have the space for regular in-person collaboration. In fact, many startups are remote operations to begin with, especially after the COVID pandemic. Asynchronous and remote collaboration is an absolute necessity for startups looking to get any work done.Pleo, a company that creates smart cards for company spending, has gone from two founders to a team of over 360 people spread across five offices in five different countries. How did they achieve that in just six years? Having an excellent and useful product and a lot of hard work, of course — but that kind of growth also requires a system for intense async collaboration on every level.
+
+They used Notion for internal documentation to create distinct homepages for every team. They also created taskboards, then role-specific views of those taskboards, so team members only see the projects they’re directly involved with. This perspective-based internal documentation streamlined async and remote collaboration, eliminating signal noise and allowing team members to work together faster and only on the most relevant tasks.
+
+Innovate with easily accessible internal forums for active discussion
+
+It’s easy to think of internal company documentation as “just a wiki,” but a design forum fits in that slot just as easily. And considering that innovation is basically the raison dêtre for startups in the first place, these forums can be a goldmine of new ideas and processes. Headspace, makers of the mindfulness and meditation app, used their internal documentation to create such a forum. Every idea, conversation, meeting, design discussion, and off-the-cuff comment are all now written down in a central database in Notion that all teams can access.
+
+The Headspace team found that this sparked innovation by giving everyone on the team a voice and the assurance that those voices would always be documented and easy to find. This central forum served as an endless springboard for ideas and concepts that might otherwise have been lost to bad memory or a line in a forgotten Google Doc. And now Headspace has grown from a tiny founding team with a small app to a powerhouse with millions of users and offices in two different hemispheres.
+
+Internal documentation reduces meeting frequency and burnout
+
+Startup success requires making a lot of decisions and ideating quickly, which means team members are gathering often to hash out the latest problem. Unfortunately, frequent meetings are also a huge time suck that have dubious efficacy at best.It’s a tricky dichotomy, but startups have already begun using internal documentation tools to reduce the duration and frequency of their meetings without signal loss.Kin + Carta, a design consulting and marketing startup, solved this problem by creating meeting templates. These meeting templates codified how notes were taken during their many meetings. Kin + Carta’s leverage of internal documentation made their meetings more efficient in three ways:
+
+The template guided each meeting to follow the same structure, preventing off-topic wandering. This structure includes action items, agendas, follow-ups from previous meetings, and the like. The template organized all meeting notes into one shared and highly visible area. This not just saved time but also increased productivity. Because the template was in Notion, they could easily embed videos,  images, databases, and taskboards into the notes of every meeting.
+
+The template guided each meeting to follow the same structure, preventing off-topic wandering. This structure includes action items, agendas, follow-ups from previous meetings, and the like.
+
+The template organized all meeting notes into one shared and highly visible area. This not just saved time but also increased productivity.
+
+Because the template was in Notion, they could easily embed videos,  images, databases, and taskboards into the notes of every meeting.
+
+This standardization of meeting notes allowed Kin + Carta to create a living resource for each meeting in a central location.Edlyft, a tutoring startup, also reduced meeting fatigue by using Notion as a central database for meeting notes. They found the centralized note-taking saved them time trying to figure out what they’d talked about in the last meeting.
+
+Edlyft and Kin + Carta both abandoned their disorganized cluster of random Google Docs in favor of centralized, internal documentation for all meeting notes. And they both found that it made their meetings shorter, less frequent, and more useful in the long term.
+
+Internal documentation helps prepare external outreach strategies
+
+A startup’s main goal is to acquire users. But you need a way to reach them. Whether it’s leveraging email, media, or paid spend (it’s a combination of many things, to be sure) —techniques used to fuel that grow need to be effective. That’s especially true for nonprofits, which are operating with fewer resources than most companies. ImmigrationHelp.org, which is a small team devoted to easing the process of U.S. immigration, successfully organized their media outreach, interviews, and fundraising efforts through Notion’s databases.
+
+With just media interviews, for instance, the team created a custom database template to remind team members of interview requests, dates, subjects, and locations. This type of internal documentation helped them prepare and stay organized, which led to a more effective PR campaign.Organize this outreach with internal documentation to make that word-of-mouth as loud as possible as efficiently as possible.

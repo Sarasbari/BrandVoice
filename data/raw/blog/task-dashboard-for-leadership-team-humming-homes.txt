@@ -1,0 +1,67 @@
+Title: Optimizing Team Task Management with Notion's Dashboard
+Published Date: 2022-07-26T00:00-06:00
+URL: https://www.notion.so/blog/task-dashboard-for-leadership-team-humming-homes
+
+Humming Homes was growing fast — metrics looked good, the team was doubling — but their shared tasks database, where the team tracks all their projects, was starting to get unwieldy. The engineering team was using Clubhouse, the Operations team was using Monday.com, and some team members were using Slack. When the Chief of Staff Jack joined Humming Homes, the team transitioned to Notion.
+
+In this webinar, advanced Notion users joined Marie Poulin and CEO Adeel and Chief of Staff Jack to create a customized task dashboard that could serve individual needs and the leadership team as a whole.
+
+Each month we sit down with founders and build real tools for real teams. Whether you’re looking for a CRM or a project management system, chances are we’ve built it. You can check out our full list of Hot Seat webinars here.
+
+Watch the webinar recording below, or read a full recap on how we built the dashboard step by step.
+
+Why do startups need task dashboards?
+
+Task management dashboards help startups in many ways. Startups are typically comprised of a fast-paced team with loads of moving parts. Task dashboards are the perfect tool especially for CEOs to streamline operations while keeping a close eye on  overall progress.
+
+Here's how task dashboards help startups:
+
+Real-time tracking of metrics: Speed is always an advantage for startups, so looking at real-time metrics like operational costs or project statuses will help you make quicker decisions.Ability to map out workflows: Use your task dashboard as a template for your workflows. You can extract the tasks and create customized workflows. Clear visualization of team progress: Instead of relying on individual 1:1 meetings for each team member, see whether your team is reaching its goals and hitting its KPIs straight from your task dashboard. You can filter KPIs by task type. High functionality: Overall, task dashboards are easy to use (especially in Notion), and you can easily edit the dashboard and also receive notifications for each task status.
+
+Real-time tracking of metrics: Speed is always an advantage for startups, so looking at real-time metrics like operational costs or project statuses will help you make quicker decisions.
+
+Ability to map out workflows: Use your task dashboard as a template for your workflows. You can extract the tasks and create customized workflows.
+
+Clear visualization of team progress: Instead of relying on individual 1:1 meetings for each team member, see whether your team is reaching its goals and hitting its KPIs straight from your task dashboard. You can filter KPIs by task type.
+
+High functionality: Overall, task dashboards are easy to use (especially in Notion), and you can easily edit the dashboard and also receive notifications for each task status.
+
+What are the features of a task dashboard?
+
+The key feature of a task dashboard is a database, and during the webinar, it’s mentioned a lot. In Notion, a database is a collection of pages. Here are some resources to get you started with databases.
+
+Task database — a database of all the tasksLinked databases — used when you need to reference database content somewhere else in your workspaceDatabase views — different viewing options that help you visualize your data
+
+Task database — a database of all the tasks
+
+Linked databases — used when you need to reference database content somewhere else in your workspace
+
+Database views — different viewing options that help you visualize your data
+
+How do other startups use task dashboards with Notion?
+
+Let's take a look at a few use cases from other great startups that use Notion for their task dashboards.
+
+Crowdcast, a live event hosting platform, uses task dashboards for their remote team. Each dashboard is an intentionally designed workspace. Tasks that are presented on the dashboard also double up as their workflow. For example, if the sales team has a dashboard displaying their high touch deals by status. A workflow can be created that lays out tasks such as "message prospect X" or "send over documents for final review."
+
+Pleo, a European fintech company that simplifies company spending, also uses task dashboards for their diverse remote team. With role-specific views of the dashboard, employees only have visuals of tasks, projects, and information relevant to their role. Director of Brand & Comms Luke Richardson explains, "Notion allows us to achieve a level of nuance we couldn't have achieved before. What you see depends on your level of commitment and area of focus."
+
+Genially, an interactive content creation platform, uses dashboards for cross-functional teamwork. Team tasks live in a single database, and people can use custom views to view work however they want — be it a Kanban board, task list, or calendar. Genially takes advantage of Notion's all-in-one workspace by embedding everything into tasks. Creative Community Builder Ali Olichney describes Notion as "just incredible."
+
+How to create a task dashboard with Notion
+
+Decide the type of setup you want. In the webinar, Adeel and Jack had a two-level task dashboard that consisted of a task database and dashboard. However, Marie considers a dashboard as a singular page pulling data from different places.
+
+Decide the visibility/assign permissions. Do you want different departments accessing the task dashboard? For example, should the Ops team see the tasks from the Sales team? While it can be a good thing if the whole team can see company-wide operations, you may want to restrict access to certain confidential information.
+
+Create a shared task database, and assign tasks to specific team members. If you create a team database with all team members, you can link it to the shared task database so that it's easy to assign tasks. A shared task database makes it easy for your team to follow. Everyone knows who is doing which task.
+
+Add views. How do you want to view project plans? You can opt for a simple table view or a timeline view (similar to a Gantt chart) A table view might be helpful for upcoming tasks within a short timeframe. A timeline view might be helpful for looking at tasks within a longer time frame — per quarter, for example. Also, a timeline view can be used to look back and see your company’s evolution and growth over periods.
+
+Add a date range or due date.  When does the task need to be achieved? It’s important to keep your team in the loop with what they’re supposed to be doing. Date ranges will also help you with the visualization of your timeline and company goals.
+
+Assign a priority label. How urgent is each task? You can assign a priority label by using a number (1-5) or with Low, Medium, or High labels.
+
+Create task dashboards for your startup
+
+Feeling inspired? Watch the webinar recording above to follow Marie's instructions as she builds out Humming Home's task dashboard from scratch. Or jump right in and create a custom version for your startup! For more tutorials on building workflows for your team, check out our full playlist of Hot Seat webinars here.

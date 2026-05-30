@@ -1,0 +1,111 @@
+Title: Andy Hertzfeld on building the Macintosh
+Published Date: 2018-06-18T00:00-08:00
+URL: https://www.notion.so/blog/andy-hertzfeld
+
+Welcome to the first episode of Tools & Craft! My name is Devon, and I spoke with Andy Hertzfeld, a member of the team that built the original Macintosh.
+
+I've always been fascinated by the process of creating new tools and interfaces, especially those that amplify our thought and communication. We’ve all seen the legendary Apple keynotes and how personal computing has transformed the way we live and work, but what I was really interested to learn from Andy was what it was like to shape that vision from scratch, what it was like to work as an engineer when most people didn’t even really understand what a computer was, when the frontier of what it could become was wide open.
+
+ANDY: You're not really doing something very revolutionary if you're not running into some dead ends. Yeah, things could work out differently. If I started the same thing again, it might turn out different from the paths I've gone down.
+
+DEVON: My name is Devon, and I'm a software engineer. Today, we’re going to talk to Andy Hertzfeld, a member of the team that built the original Macintosh.
+
+The Mac transformed the way we interact with computers. It was the first successful PC with a mouse and graphical interface, and its 1984 unveiling set the standard for personal computing ever since.
+
+ANDY: You don't have a clear idea of what it's going to be when you start, you have an inkling and then, each step tells you what the next step is but you don't know what the next step is until you've gotten to a certain point.
+
+DEVON: We’ve all seen the legendary Apple keynotes and how computers have transformed the way we live and work, but what I was really interested to learn from Andy was what it was like to shape that vision from scratch.
+
+ANDY: There were a few other people like that, who would just hang in the store all day Saturday to gape at the Apple II. Those people became the people who started the first user's group. I knew them because I, too, was one of the people transfixed by it at the store. One of the times I was at the store, someone handed me a little notice, "Hey, we're starting a user's group."
+
+It was even more important actually once you had one to go meet with other people to exchange programs and hear the latest rumors.
+
+I was up like almost all night the day before, just polishing up whatever programs I had written that month, all to give away to the club. There was no commercial market at all. It wasn't even well understood that anyone would pay for personal computer software. It was all just totally driven by enthusiasm and then, just giving it away.
+
+DEVON: The Apple II enchanted a generation of hackers. In 1977, Byte Magazine wrote that it was "the first product to fully qualify as the 'appliance computer', a completed system which is purchased off the retail shelf, taken home, plugged in and used".
+
+A year later, Apple began work on the Lisa. The team introduced a new paradigm based on ideas from XEROX Parc: the mouse-driven graphical interface.
+
+ANDY: The problem with the Lisa was, it was going to be very expensive compared to the Apple II. It ended up costing $10,000 originally and that's in $1983 so that would be more like $40-50,000. Today, that's not a computer for the masses. Whereas, we were really inspired by the Apple II, which was affordable to an individual.
+
+DEVON: The Lisa was lauded for its innovative design, but it was a commercial failure. Steve Jobs was kicked off of the Lisa and onto a smaller project: the Macintosh.
+
+ANDY: The Macintosh was a marriage between the Apple II on one hand and the Lisa on the other hand.
+
+There was already a much more well-funded and had a lot more management attention project called the Lisa that had dozens of people working on it.
+
+My job was really to take the brilliant work that Bill Atkinson did for the $10,000 computer and try to get that to fly in a $2,000 computer
+
+The Macintosh was taking the accessibility and user interface of the Lisa and the price and the hacker spirit of the Apple II and mushing them together
+
+Well, we had the Lisa which started two years before us. That was really a lot of the invention was worked out there and you could say the Macintosh was the people's Lisa. Just this very, very clear goal of take the Lisa, $10,000 computer, and make it into a $1,500 computer. That was the central core. But then, of course, there's lots of different ways to do that. So, which features are must-haves? Which features are nice-to-haves? And just a consensus develops as we grind away at it day after day, week after week.
+
+ANDY:The Lisa software was written mostly in a high-level language, Pascal, at the time. We got rid of the Pascal because you could make things three times more efficient if you hand code them in assembly language. The other thing is the hardware design of the Macintosh was orders of magnitude more clever than the Lisa. The Lisa used, more or less, industry-standard techniques, whereas, Burrell Smith, the designer of the Macintosh was inspired by Woz and used crazy tricks all over the place.
+
+Lisa didn't have that Apple II magic feeling about it. It was done by a large team with a more formal process. It wasn't really a hacker's machine.
+
+The central thing though, is Lisa wasn't really viewed to be a platform for third parties. The concept with Lisa was Apple would write all the applications itself. Maybe eventually have third parties write software, but at least for the initial launch of Lisa, seven applications, all developed by the Lisa team.
+
+Because of our experience with the Apple II where third parties people who didn't work at Apple did some of the coolest stuff for it, we wanted that for the Mac. So, from the very beginning, we conceived the Macintosh as an open software platform and we invested a fair bit of effort in recruiting third parties and supporting them. That was a fundamental difference between Mac and Lisa.
+
+DEVON: Former Wired editor Leander Kahney said, “The Lisa was doomed because it was basically a prototype — an overpriced, underpowered cobbled-together ramshackle Mac. Lisa taught the Mac team they’d need to articulate a clear purpose for the Mac."
+
+ANDY: The Lisa was more like a product from most companies, the Macintosh just had all this love poured into it. And that was a pretty big difference.
+
+DEVON: The story that is usually told about influential creators is that they had a predestined vision. But from talking to Andy, it's clear that it felt very different from the inside. The team didn't know what the Macintosh would become. Rather, obsession and excitement to see where they'd end up drove them to expand the boundaries of what was possible.
+
+ANDY: It was really development through prototyping. We didn't really trust ideas on paper.
+
+That was our philosophy was really incremental development. As I was saying before, each step tells you the next step to do. You would call that an agile programming style in today's parlance, although, that was decades before that terminology was created.
+
+What we didn't know with the Macintosh and what I wish we did, we could have done a better job, is we didn't have enough sense of it as a durable platform. We thought we were making an exquisite product, the best possible thing at the time but then, we figured, in a few years we'd make something a lot better, completely different. We didn't realize the architecture we were putting in place could last five years, let alone 10, 20, 30 years.
+
+We thought that just as if we love the Apple II but we were replacing the Apple II with the Macintosh, it came out seven years later. We were trying to do it at about five years later. We thought something would come along again in five years and just totally obsolete the Macintosh but that was a misunderstanding. That's not the way it worked out. What we would have done differently was instead of maybe optimizing like we were to the particular hardware, we would have made it a stronger foundationally, more industrial strength underpinnings.
+
+We were creating a platform but we weren't really aware of it at the time.
+
+DEVON: The most important ideas for making the Macintosh a delight came from close attention to detail rather than some overarching vision.
+
+ANDY: I don't know about insights but lots of little discoveries we made to improve the software.
+
+One example is what's called mouse scaling. Typically, the naive way to implement the mouse is every little notch that you move, would move one pixel. If you really do things that way, it's very sluggish to move the cursor to get from the top to the bottom so we eventually stumbled upon the idea of putting in an acceleration factor.
+
+The more quickly you move it between the pixels, the more pixels it goes, that's called mouse scaling and you can even try that today on your Mac— All graphic based systems use that these days and it's really what makes it work, but we didn't have that for the first year. We eventually stumbled on it and we did it— There's controls in the Mac today in the mouse control panel. You can turn off the mouse scaling or adjust it so you could see how frustrating it used to be before we came up with that.
+
+I think the essential way to do anything great, you have to have some incremental development philosophy because you're just going to be wrong with your grand design that you don't iterate on.
+
+DEVON: By the 1990s, Andy was asking the question, "Where do we go after the personal computer?" He and several colleagues from Apple cofounded a company called General Magic, where they developed a new kind of handheld device.
+
+ANDY: Well, where we were right on was just the concept of a pocket communicator. It's obvious looking around the world today, that's what people want and need. Just this idea that communications was as important, or more important, than computation. In 1990, that was not a mainstream idea. We were like laser-focused on making a communicator. The idea was little postcards, little graphical postcards would fall out of the sky into your pocket. That was the founding vision of General Magic. That's really right on today. Sometimes I say we were working on the iPhone of the '90s.
+
+DEVON: Cofounder Bill Atkinson described their goal as "defining what is a personal communicator, so as to set a sort of minimum expectation in the industry, just like the Macintosh upped the expectation of what a personal computer could be." He said, "What happens if I ask you ten years from now to stop using your personal communicator? The idea is that you will say, 'This is core to how I live. It's like my glasses and my watch and my wallet.' Not using it would seem as disempowering as not using the telephone does today."
+
+While General Magic had the right idea and a brilliant team, they didn't have the right timing or execution.
+
+ANDY: So, the parts that were a little bit off, some of them were just General Magic blunders like not really choosing the best processor architecture. I mean, again, clearly, the ARM chip was the way to go for the portable things, but we weren't using the ARM chip.
+
+The personal computer industry was mainly focused on performance and doubling the performance every 18 months, but that doesn't hold for things in your pocket. It's just as important for it to last a long time without a charge.
+
+DEVON: The team wasn't always right about conceptual, strategic decisions either, but they were always ambitious.
+
+ANDY: We hired a guy named Jim White who was a very accomplished communication architect who in the early '70s was considered the inventor of RPC, Remote Procedure Call architecture for distribute systems. He had this idea of the network being programmable and intelligent. The idea was you can make a programming language that all the servers in the network ran so you can program the servers in order to do arbitrary things.
+
+That was really a breakthrough idea. At least potentially a breakthrough idea, because communication services, especially at the time, were all-- this was way pre-web, but they were hard to change and sluggish and maintained by the largest companies. It was like pulling teeth to get a new feature in. If you wanted to add a simple feature, it might take a year to develop it because of the conservative nature of the telecommunications companies. Where we had the insight if you just made the basic architecture of the server able to accept our arbitrary programs, you can unleash innovation like crazy.
+
+So, we invented this new programming language called Telescript where programs can travel in the network between servers, gathering up what they needed and then coming back to the device. Thought that was a pretty compelling vision, but history proved us wrong. You didn't really need to do that, just the remote procedure call type paradigm was good enough, which is really what the web is based on. You don't inject code into the web to do your work for you and come back to you, you just ask a server with an HTTP request.
+
+That was an example where we invested a huge amount of our development resources in creating this new kind of communication infrastructure for intelligent networks, and the world has— that we didn't get it established and here at 25 years later, it's not around. So, we must have been wrong.
+
+ANDY: It's kind of a sculptor way of working or craftsman where if you tried to spec out the final thing, it will end up not right.
+
+Well, that's the way everything is developed. That's the way we developed the original Macintosh, but every program I've ever worked on, you don't have a clear idea of what it's going to be when you start, you have an inkling and then, each step tells you what the next step is but you don't know what the next step is until you've gotten to a certain point.
+
+You got to just try different things and you see what works, what doesn't work and almost always, each step I take tells me what the next step should be.
+
+I think the essential way to do anything great, you have to have some incremental development philosophy because you're just going to be wrong with your grand design that you don't iterate on.
+
+To learn more about Andy and the early days of Macintosh, you can visit his website folklore.org, or read his book Revolution in The Valley.
+
+Brought to you by Devon ZuegelDevon is a software engineer and writer based out of San Francisco.
+
+Video by Slow Clap and The Land FilmsIllustrations by Roman MuradovPhotos by Ulysses

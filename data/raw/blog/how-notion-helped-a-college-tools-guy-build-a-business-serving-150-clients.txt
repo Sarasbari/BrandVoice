@@ -1,0 +1,49 @@
+Title: How Notion helped a college “tools guy” build a business serving 150+ clients
+Published Date: 2025-06-12T18:05-07:00
+URL: https://www.notion.so/blog/how-notion-helped-a-college-tools-guy-build-a-business-serving-150-clients
+
+Welcome to the Builders series, where we salute people who are making wonderful things in Notion. Stories drop on Thursdays. Read our last post, How Notion helped a nonprofit streamline its operations and save lives.
+
+Tem Nugmanov had his first taste of entrepreneurship before his twenty-first birthday. As a student at NYU, he built a fitness app, was president of the entrepreneurship club, and became a fixture at Manhattan tech meetups.
+
+As a leader on campus, he became obsessed with building efficient processes. “I’m the type of person that won’t do something unless I find the most efficient way to do it,” he says. Within his various clubs and organizations, Tem became known as “the tools guy,” one who could turn any task into an an automated process.
+
+“Independence, autonomy, and self-sufficiency are core values for me, and tools effectively unlock those abilities,” he says. “In the past, you would have to depend on someone or something to make progress, but now the right tool eliminates blockers to actually getting work done.”
+
+Tem became a Notion ambassador, helping organize events for Notion enthusiasts around New York City. It was at one such event that Ian White, an entrepreneur twenty years Tem’s senior, approached Tem with a proposition.
+
+“We’re using a different tool, but we’d like to switch to Notion,” Ian said, “and I’d like to pay you to help us.” Just like that, Tem’s consultancy was born.
+
+Five years later, Optemization, has worked with over one hundred and fifty clients like Discord, CashApp, and Metalab to help them improve their productivity and efficiency. Tem’s little side project has become a million-dollar agency, all with Notion at the center.
+
+Helping a local coffee shop scale up
+
+Blank Street is a coffee chain that sprouted up seemingly overnight in major cities like New York, Boston, and London. Part of the secret to its rapid growth has been the way it leveraged technology to boost its operational efficiency.
+
+In the early days of the business, Blank Street’s CEO Issam Freiha bought a Notion Template for ninety-nine dollars and made it the company’s digital HQ. But two years after launch, the company had already scaled to dozens of locations across the US and UK and needed to ensure its tech stack could keep up with its growth.
+
+In 2022, Blank Street approached Optemization to overhaul its Notion Workspace, with the goal of tripling business in six months. Specifically, Blank Street wanted to use Notion to help onboard new employees and streamline its efficiency as it opened new stores.
+
+Tem and his team got to work creating individual team pages, cross-functional databases, and automated processes for Blank Street. They redesigned the Blank Street digital office to ensure all employees could find the information they needed to do their jobs well.
+
+The revamped workspace has become the center of Blank Street’s culture. It’s the home of the company’s internal newsletter, digital-resource hub, and individual location information. With fifty cafes and counting, Blank Street’s Notion scales along with the business.
+
+Tips for builders
+
+Just start
+
+Just start
+
+It’s easy to get bogged down in the work about the work—all the researching, planning, and thinking that proceeds creation. But Tem’s decade as an entrepreneur has taught him that nothing replaces actually building. When Ian asked Tem if he could automate the workflows at his startup, Tem was not necessarily prepared to launch a consultancy. But Tem said yes, and now Optemization is making over eighty thousand dollars a month. “Just start and you will figure it out along the way,” he says.
+
+Cultivate faith in yourself
+
+Cultivate faith in yourself
+
+The spring semester of Tem’s sophomore year of college, he failed multiple classes and had a GPA hovering around zero. Tem had decided to prioritize his startup and his entrepreneurship club over classes. Although others thought he was crazy, his faith in himself never wavered. Perhaps there is no greater emblem of Tem’s faith than the Notion logo tattoo on his inner arm. “We’ve put our faith into this tool,” he says. “I think it’s important to have that conviction.”
+
+Never stop building
+
+Never stop building
+
+Tem has observed a trend in some of his founder peers in which they launch a company because they love building, but then, a few years in, their job becomes more about management than creation. “I see a lot of leaders delegate things away, but to be an effective entrepreneur you have to be willing to roll up your sleeves.” After a few years of growing Optemization, Tem realized that he was drifting away from the work itself. Choosing to dive back into building customer databases allowed Tem to set a standard of excellence for his team and reconnect with the passion that inspired him to start the business in the first place.

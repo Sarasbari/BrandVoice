@@ -1,0 +1,61 @@
+Title: Teams at Remote operate more efficiently by using Q&A to get instant answers to their questions
+Published Date: 2023-11-14T00:00-07:00
+URL: https://www.notion.so/blog/remote-notion
+
+Up to 10minutes saved per search by using Q&A$80k saved by using Q&A instead of building their own helpdesk software250 - 300questions answered per weekday, company-wide$485ksaved by switching from Asana to Notion
+
+Finding information quickly in their knowledge base
+
+Adopting Q&A across their entire company so employees can immediately get answers to their questions in Notion
+
+Company size: 1,400 employeesIndustry: Human resources information system softwareTeams using Notion: The entire companyWhy they chose Notion: Its extensibility and enterprise feature set
+
+Company size: 1,400 employees
+
+Industry: Human resources information system software
+
+Teams using Notion: The entire company
+
+Why they chose Notion: Its extensibility and enterprise feature set
+
+Remote is a global HR platform that helps companies hire and manage teams all over the world. The company has over 1,400 distributed employees itself, and maintains a robust knowledge base in Notion. It’s not just policies or processes. It’s also a huge amount of hyper-localized, country-specific information.
+
+This information is central to every team, project, and workflow at Remote — whether it’s sales teams knowing benefits policies in different countries, or engineering teams pulling launch details from the product roadmap. But getting the information was so time consuming that Remote started building its own chatbot to make knowledge retrieval easier. They stopped when Notion introduced Q&A.
+
+This new AI-powered feature helps Remote’s global employees get answers to their questions instantly — they’re saving time and operating more efficiently, instead of searching for the info they need to do their work.
+
+One place where all teams go to answer their questions
+
+When someone needs an answer to a question, where do they go? Often, there isn’t one person or one place people can go to unblock themselves. As a result, progress — no matter what you’re working on — stalls.
+
+Remote previously used Google Docs and Asana. When they switched from Asana to Notion, Remote saved $485,000 per year. Notion is their single source of truth for everyone and everything. Static docs like company holidays. Dynamic, always-changing project updates and meeting notes. Other tools connect to Notion so it always holds the most up-to-date information. “We have a couple other software programs all feeding into Notion, so Notion is our one-stop shop,” says Sean Stanley, who leads Internal Documentation.
+
+That means the answers to many questions can only be found in Notion. And if it lives in Notion, Q&A finds it. Instead of searching through different software, there’s one place that everyone at Remote turns to access critical knowledge. “Q&A is saving new employees days, if not weeks, of their onboarding to be able to find information quickly and learn from it,” says Scott Entwistle, Senior Recruiter.
+
+Regardless of team or tenure, Notion holds answers to their questions. Q&A brings it to their fingertips.
+
+Immediate access to the right knowledge — easier, faster, and more natural with Q&A
+
+Employees at Remote were seeking information multiple times a day, and getting answers to each of those questions took up to 10 minutes — whether it was searching their wiki or asking another employee and waiting for their response. With Q&A, they get answers in seconds.
+
+“Q&A can change the landscape completely for any size company,” says Scott. “It’s been central to actually making sense of all the data we already have.” And Remote has a lot of data. Locating the correct Notion page was just the first step to answering a question — people still needed to read the page and sift out the relevant information.
+
+Teach everyone how to get the most out of Notion AI with this template.
+
+Q&A can search across thousands of pages in seconds. It has the latest information. It knows the context. You can ask it a question in natural human language and get a response in human language, too. All of this makes getting knowledge easier, like you’re asking a coworker who has all the answers.
+
+“The benefits of using Q&A for me are speed and efficiency,” says Andrew Pett, Staff Backend Engineer. “If I come across a keyword or some context I’m not familiar with, Q&A is my first port of call. It’ll search the relevant documents and present information back to me in a nice little summary.”
+
+Q&A can provide clarity instantly, enabling teams at Remote to operate quicker because the vital knowledge that impacts their work is only a question (and a few seconds) away.
+
+Getting answers to questions in the flow of work, instead of wasting time context-switching
+
+Q&A is embedded right in Notion, so teams at Remote can ask questions and get answers as part of their existing workflows. Instead of searching for docs, pinging teammates, or scheduling meetings, they ask Q&A and get a response in seconds, enhancing focus and staying in the flow.
+
+“I don’t have to hold as much information in my head. I don’t have to context switch. It reduces multitasking,” says Andrew. “And that’s a more productive world for me to live in as an engineer.”
+
+Remote’s culture is built on documentation and async communication. It fosters more autonomous teams who know information exists, but searching through their knowledge base to find it is what’s disruptive. Q&A is changing that.
+
+“Q&A makes documentation more usable,” says Scott. “We can just build up our knowledge, and Q&A can find the information we need.”
+
+Information inside Remote’s documentation more easily accessible and usable with Q&A, creating a streamlined workflow for teams who previously wasted time searching for that info.

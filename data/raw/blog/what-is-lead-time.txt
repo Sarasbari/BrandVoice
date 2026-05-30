@@ -1,0 +1,97 @@
+Title: Understanding lead time in project management & how to reduce it
+Published Date: 2023-04-27T00:00-06:00
+URL: https://www.notion.so/blog/what-is-lead-time
+
+If you create a product or service, your goal is customer satisfaction. Everything else you could want to achieve follows from this. And the more quickly your customers get your product or service, the happier they’ll be.
+
+But so much goes into delivering a product or service to customers. From conception to receipt, you need to know how much time your team spends on each phase of a product’s life cycle to manage everyone’s time and speed up the process. And lead times are what you should calculate in order to determine a product or service’s complete timeline so you can make improvements and avoid bottlenecks.
+
+What’s lead time?
+
+Lead time is the amount of time it takes to complete a process, be it a task, project, or personal obligation. You can use the term “lead time” to define whatever process time you’d like at your company or on your team, from internal workflows to scheduling deliverables. But the following business operations use it most often.
+
+Supply chain management
+
+Here, lead time is the time it takes for a supplier to present a finished product for shipping. This covers everything from when the supplier receives an order to when they send it out for shipping, but doesn’t include the time it takes the product to arrive.
+
+Let’s say you order a custom product from an online store — a mug with the cheeky slogan, “World’s okayest coworker.” Once you place this order, the supply chain lead time covers the time it takes for the maker to process your order, create the item, and send it off.
+
+Manufacturing
+
+This covers the mug’s production lead time, or the time it takes to create a product from start to finish. Knowing your company’s manufacturing lead time is crucial to giving the appropriate supply chain and purchasing and receiving lead times.
+
+Purchasing and receiving
+
+This lead time covers everything from when you click “Add to cart” to when the mug arrives on your doorstep. Suppliers must understand how long this process takes in order to give you an accurate shipping time estimate upon purchase.
+
+Project management
+
+For project management, lead time refers to how long it takes to complete a task or overall project. Project managers often provide lead time forecasts for these items so employees, clients, and stakeholders understand expectations.
+
+7 cross-industry lead time types
+
+No matter the industry you’re in, understanding different operational lead times will help you assess how you’re spending your time and monitor your team’s time management goals. Here are seven examples of cross-industry lead times:
+
+Management decisions refer to the time it takes for management to rubber stamp a decision, like choosing a vendor or inventory management system.Project approval is the time management a client takes to approve a project. Material lead time covers the time businesses take to source materials, such as the ceramic for that mug. Companies typically use logistics software or templates to reduce material lead time and avoid shortages and replenishment issues.Sales ordering is how long a vendor takes to fulfill a customer’s order.Product development considers the entire lead time of creating a product, from the brainstorming phase to when the item is ready to use or purchase.Recruitment lead times cover the time it takes to find and hire a new employee. If this lead time is long, you might deal with overworked employees and prospects that find other positions before they receive your offer. Some roles or industries might have longer lead times, too. Time to market covers the conception and market release of a product or service.
+
+Management decisions refer to the time it takes for management to rubber stamp a decision, like choosing a vendor or inventory management system.
+
+Project approval is the time management a client takes to approve a project.
+
+Material lead time covers the time businesses take to source materials, such as the ceramic for that mug. Companies typically use logistics software or templates to reduce material lead time and avoid shortages and replenishment issues.
+
+Sales ordering is how long a vendor takes to fulfill a customer’s order.
+
+Product development considers the entire lead time of creating a product, from the brainstorming phase to when the item is ready to use or purchase.
+
+Recruitment lead times cover the time it takes to find and hire a new employee. If this lead time is long, you might deal with overworked employees and prospects that find other positions before they receive your offer. Some roles or industries might have longer lead times, too.
+
+Time to market covers the conception and market release of a product or service.
+
+Lead time components
+
+When calculating lead times, you’ll typically consider some combination of the following components:
+
+Inspection — clients, managers, or product developers might need to inspect the product to see if it meets certain requirements.
+
+Transportation — this can include acquiring materials, transporting a product between manufacturing facilities, and shipping the item to a customer.
+
+Storage — sometimes you have to store a finished product before sending it out, or hold an incomplete item while it waits for another team’s finishing touches.
+
+Waiting — different departments might need more time before starting on a product another team has transferred to them, or your manufacturing team might have to wait for more supplies.
+
+Processing — this might include processing client or investor payments, or even the time it takes for a tool you use to process a certain task relevant to the product you’re working on.
+
+Planning — many lead times include time spent planning a product or service, like meeting with clients to discuss their needs or brainstorming with your team to make a flowchart that outlines a product’s creation process.
+
+Customer demand — this affects your lead time because if demand increases, you might have a longer lead time between order receipt and delivery.
+
+Potential bottlenecks — you might include potential roadblocks or financial hiccups in your lead time calculation to ensure you have some buffer room for worst case scenarios.
+
+How to calculate lead time
+
+There’s no one-size-fits-all lead time formula, because the calculation depends on what you’re creating a lead time for. But because people most often use lead times in supply chain and manufacturing management, the two most common formulas are:
+
+Lead time = order delivery date – order request dateLead time = supply delay + reordering delay
+
+Lead time = order delivery date – order request date
+
+Lead time = supply delay + reordering delay
+
+Customize these simple formulas to suit your needs.
+
+If you’re calculating the lead time for bringing a new app to market, you might use the first formula as follows:
+
+Lead time = project end date – project start date
+
+If you’re calculating the lead time for a project where you expect several client and funding delays, you might customize the second formula as follows:
+
+Lead time = project timeline + client review delay + funding waiting period delay
+
+You could also have your team use a time tracker like Clockify for an extended period (like a month or year) and assess these metrics to outline average lead times for certain projects and processes.
+
+Improve lead time with Notion
+
+Understanding how long a process takes from start to finish is a great way to effectively manage your time and target weaknesses. If you want to reduce your lead time in a certain area, you can use this information to implement changes, like partnering with speedier suppliers or delegating tasks more effectively.
+
+To improve your time management even more, track your lead times in Notion’s connected workspace, so everyone understands how long certain processes should take. Begin today with a template like the priority planner, task prioritization document, and daily to-do list. Or search our template gallery to find something perfectly suited to your needs.

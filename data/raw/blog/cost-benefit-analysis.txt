@@ -1,0 +1,121 @@
+Title: What a cost-benefit analysis is and how to create one
+Published Date: 2023-06-08T00:00-06:00
+URL: https://www.notion.so/blog/cost-benefit-analysis
+
+Financial decisions are always hard — in both business and life. And while you don’t always have to break out the spreadsheets when deciding between a new or used car, you're still performing some form of cost-benefit analysis (CBA) to make the best choice.
+
+The core of a CBA is to decide whether the cost of building, buying, or changing something is worth the benefits of doing so. This could be anything from expanding your business to purchasing productivity software at an executive level.
+
+Decision-making is all about choosing the right path to take. And sometimes the right path is the one with the best dollar value. That's where a CBA comes in.
+
+What’s a cost-benefit analysis?
+
+A CBA is a data-driven decision-making process that focuses on financial impact. From startups deciding where to use their seed money to established corporations doubling the size of their sales team, a CBA lets you decide whether spending that money is really worth the outcome.
+
+This process involves a cost breakdown, which considers every possible cost of a decision — which can be as small as a single project or as complex as buying property — and subtracts those costs from the projected benefits. If the benefits outweigh the initial price, you’ll move forward with that decision.
+
+Here’s a cost-benefit analysis example. Say you want to invest in new computers for your team. The current ones are slow and can’t run up-to-date software, but the upgrades are expensive. You’ll conduct a CBA, analyzing the impacts of faster runtime and the productivity boost new software will bring. Maybe your team will work at twice the speed, giving everyone more time to work on bigger and better projects and bring in more profit. Your CBA might find that benefit is worth the initial investment.
+
+When to use cost-benefit analysis
+
+The real question is: When don’t you need to use a CBA? Even on a small scale, analyzing your financial standing and the outcomes of a decision is a great way to make more informed choices, whether you formally calculate or quickly estimate the numbers.
+
+But some situations call for more than just quick math. Here’s when to conduct a comprehensive CBA:
+
+Creating a new business strategy — strategy alters the course of your company's overall mission and goals, which comes with risks and costs. A CBA will balance the benefits of factors like retraining your sales team or developing a brand-new marketing strategy against their costs.Considering investment opportunities — investment is a tangible cost with an intangible benefit. You know how much you’re willing to spend, but the outcome is hard to predict. As part of your CBA, you’ll analyze market economics and projected long-term returns to determine if there’s enough payback to justify the decision.   Hiring new staff — your team might have a ballpark figure for how much it costs to hire someone, and your CBA may reveal savings over time rather than direct monetary benefits. Maybe another payroll employee will help reduce other employees’ hours and serve clients faster, or a new hire could take excessive time to train, costing you money. Running a CBA would help balance the pros and cons.Starting a new project — any new undertaking, especially if it’s long-term, requires a CBA. This is less to justify starting the project itself and more to find possible cost savings and analyze outcomes. Suppose your company wants to develop its own project management software. In that case, decision-makers will want to know why this route will benefit them more than buying third-party software. Your CBA will outline development, server, and implementation costs while examining whether the long-term benefits outweigh those costs.
+
+Creating a new business strategy — strategy alters the course of your company's overall mission and goals, which comes with risks and costs. A CBA will balance the benefits of factors like retraining your sales team or developing a brand-new marketing strategy against their costs.
+
+Considering investment opportunities — investment is a tangible cost with an intangible benefit. You know how much you’re willing to spend, but the outcome is hard to predict. As part of your CBA, you’ll analyze market economics and projected long-term returns to determine if there’s enough payback to justify the decision.
+
+Hiring new staff — your team might have a ballpark figure for how much it costs to hire someone, and your CBA may reveal savings over time rather than direct monetary benefits. Maybe another payroll employee will help reduce other employees’ hours and serve clients faster, or a new hire could take excessive time to train, costing you money. Running a CBA would help balance the pros and cons.
+
+Starting a new project — any new undertaking, especially if it’s long-term, requires a CBA. This is less to justify starting the project itself and more to find possible cost savings and analyze outcomes. Suppose your company wants to develop its own project management software. In that case, decision-makers will want to know why this route will benefit them more than buying third-party software. Your CBA will outline development, server, and implementation costs while examining whether the long-term benefits outweigh those costs.
+
+Advantages of a cost-benefit analysis
+
+A CBA is a great resource when it comes to making informed, data-driven business decisions. Here are more ways a CBA could benefit you:
+
+Creates straightforward decisions
+
+Clearly seeing costs and projected benefits laid out before you helps your business make faster decisions and share knowledge with everyone involved.
+
+Consider the in-house project management software you’re planning on developing. A CBA will quickly reveal whether the initial costs alone outweigh the benefits of not paying for someone else’s software. You might find that the third-party program comes with a hefty discount and excellent customer service — which might be worth it compared to the costs of developing your own. If you didn’t conduct a CBA, you’d miss out on those insights.
+
+Reveals hidden costs
+
+A business decision’s financial pros and cons aren’t always obvious. Because a CBA considers as many variables as possible, your team will dig into the nitty gritty and find potential costs you might not have noticed otherwise. Maybe you need to consider that, alongside the in-house software, you have to build an API to connect your current system. Your CBA will reveal and highlight this potentially critical consequence.
+
+Spotlight on the data
+
+Data drives decision-making at all levels of business. And it also eliminates — or attempts to eliminate — biases. Looking at the cold hard facts can help you make the decision that works best for the team, not one person’s opinion.
+
+Imagine your manager really wants to bring the software in-house because they have personal frustrations with the third-party sales rep. But data, not personal feelings, will inform the CBA and show whether or not this is a good decision for the business.
+
+Disadvantages of a cost-benefit analysis
+
+Like any analysis, a CBA won’t always be perfect. While almost every business decision can benefit from taking a look at every cost and breaking it down, it's not always a feasible process. Here are some roadblocks you might run into:
+
+The variability of variables
+
+The future is unknown. It’s nearly impossible to consider every single variable. No matter the decision, your outcomes won’t perfectly match your projections.
+
+Bringing your software in-house could save money, but your team might prefer the previous process, leading to a turnover. These unpredictable variables can muddle calculations and lead to tougher decisions.
+
+Long-term risks
+
+Similar to considering all possible variables, a CBA is tougher to construct for long-term projects or decisions. Time changes all things — especially financial projections based on current costs. Quantifying and accounting for potential risks can cause a few headaches. But with enough market knowledge and research, a CBA for a long-term decision can at least inform your process, even if it isn’t totally accurate.
+
+Tons of time and data
+
+The cost of a CBA itself requires a CBA. You'll be collecting a lot of data and that takes time — and if time is money, your budget might be higher than expected. And often, the data you’re looking for might not exist, and the whole analysis process could be a waste.
+
+If your business is creating a new sales team to sell a product that has never been sold before, it's going to be rough finding historical data that supports the decision. This could lead to bias in forecasting data.
+
+How to write a cost-benefit analysis: 4 steps
+
+The process varies slightly depending on your project scope, your team, and the data you’re able to collect. But in general, there are four steps to creating a CBA:
+
+1. Build the framework
+
+Start with a framework for your analysis. This will vary from company to company, but the gist is that it should outline your goals and objectives with this business decision. This leads you to the costs and benefits you'll want to consider. Also, determine which metrics to use, whether that’s hours of labor, literal currency, or a combination.
+
+2. Identify costs and benefits
+
+Now it's time to make some lists. First write down your costs, which can you can group into four types:
+
+Direct costs — these would be actual expenses, like manufacturing, materials, and labor costs.
+
+Indirect costs — extended service plans, electricity, and other fixed expenses would fall into this category.
+
+Intangible costs — concepts like productivity are intangible costs. You can’t measure it exactly, but you can project its impact.
+
+Opportunity costs — this will be a negative number and represent any opportunity you’re passing up if your CBA supports a different or competing business decision.
+
+Then you'll want to list out your benefits, which could fall into these categories:
+
+Direct benefits — direct benefits are clear, like fewer hours of labor or higher profits.Indirect benefits — indirect benefits are the other effects of your decision, like customer satisfaction.Intangible benefits — like intangible costs, these benefits, like employee satisfaction and productivity, can’t be measured precisely.Competitive benefits — making smart decisions sets you ahead of the competition.
+
+Direct benefits — direct benefits are clear, like fewer hours of labor or higher profits.
+
+Indirect benefits — indirect benefits are the other effects of your decision, like customer satisfaction.
+
+Intangible benefits — like intangible costs, these benefits, like employee satisfaction and productivity, can’t be measured precisely.
+
+Competitive benefits — making smart decisions sets you ahead of the competition.
+
+3. Assign a value to every cost and benefit
+
+Every single cost and benefit needs a value, which is usually a dollar amount. Direct costs and benefits will be the easiest, while assigning numbers to intangibles and indirect values can get tricky. But with the right analytical team and methodologies, you can usually come up with a relatively accurate forecast for your project baseline. Maybe you ask your team how many hours the decision might save them and calculate from there. Your CBA doesn't have to predict the future — it just makes realistic assumptions about it.
+
+4. Compare and calculate
+
+Add up the costs of your decision, then subtract it from the total benefits. Compare the result to your overall goals. This is where you’ll choose whether or not to take action, or you’ll find places where you need to dig deeper.
+
+If the costs outweigh the benefits, but you still have goals to meet, maybe there are variables you accidentally left out of the benefit side of the calculation. If your benefits are more significant than your costs, then you have a business case to proceed. This is also known as the cost-benefit principle.
+
+Keep track of all your costs with Notion
+
+A CBA won’t do you any good if you don't have a handle on your current financial standing. Notion has the tools you need to organize and track your budget, income, and spending numbers, whatever they might be.
+
+A monthly expenses template can monitor repetitive costs, while a budget tracker helps project upcoming expenditures. And an investment portfolio template keeps your financial concerns in check. Try Notion for free, and see its benefits right away.

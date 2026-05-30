@@ -1,0 +1,35 @@
+Title: Notion AI: Your Family Recipe Digitizer
+Published Date: 2024-11-25T16:00-08:00
+URL: https://www.notion.so/blog/notion-ai-your-family-recipe-digitizer
+
+Hi, I’m Zoe—I lead user education here at Notion. I’m also a pretty prolific personal user of Notion. 🙂
+
+Last week at work, I saw someone use Notion AI to turn handwritten notes on a whiteboard into an action plan in a Notion doc. A holiday-season thought dawned on me: What if we used AI to solve the age-old problem of preserving handwritten recipes?
+
+To test this idea out, my teammate Daniela shared a photo of her grandma’s cherished torta helada recipe, which is written in Spanish (and in cursive, to boot!). A few clicks later, the handwritten recipe text was translated into English, plunked into a doc, formatted to match my existing recipes, and organized in a database. It even spun out a shopping list.
+
+Here are five simple steps to preserving your handwritten recipes in Notion:
+
+Hover over the recipe image and click on the little face (Notion AI) to paste the picture into the chat.If a translation is needed, ask in the chat to translate it into the language of your choosing.After Notion AI extracts the text from the image, click “insert” to bring your recipe to the page. Then, either: Ask Notion AI to reformat the recipe to match an existing collection ORCreate a database to store the recipe (and add future ones). If you’re ready to start cooking, you can even ask Notion AI to spin up a grocery list.
+
+Hover over the recipe image and click on the little face (Notion AI) to paste the picture into the chat.
+
+If a translation is needed, ask in the chat to translate it into the language of your choosing.
+
+After Notion AI extracts the text from the image, click “insert” to bring your recipe to the page.
+
+Then, either:
+
+Ask Notion AI to reformat the recipe to match an existing collection ORCreate a database to store the recipe (and add future ones).
+
+Ask Notion AI to reformat the recipe to match an existing collection OR
+
+Create a database to store the recipe (and add future ones).
+
+If you’re ready to start cooking, you can even ask Notion AI to spin up a grocery list.
+
+We hope these simple steps reach you just in time for your holiday meal—and a tidy, shareable collection of your family’s favorite foods makes a great gift.
+
+Looking for more recipe inspiration? These templates are an excellent place to start. And if you’re interested in learning about other magical things Notion AI can do for you, check out these use cases.
+
+Happy Holidays!

@@ -1,0 +1,147 @@
+Title: Best student and teacher templates to prep for day one of school
+Published Date: 2022-08-23T09:00-07:00
+URL: https://www.notion.so/blog/back-to-school-templates
+
+Prepping for the new semester is more than just laying out your first-day outfit. There are assignments, lesson plans, club projects to juggle — not to mention your roommate situation where everyone’s got to make sure rent is paid on time.
+
+One of the biggest headaches is keeping all this in one place: who wants to be switching between Canvas, Google Docs, and your inbox all night long?
+
+So we gathered the best Notion templates for students and teachers to organize all this in one place — that way you can focus on getting the most out of school.
+
+Don't forget, Notion's Personal Pro plan is free for students and teachers with a school email. If you work in school administration, we have discounts for our Enterprise plan too!
+
+Best templates for students
+
+The college student hub that bridges life and work
+
+If you're a busy college student looking for a one-and-done dashboard, this is it. All parts of your life live side-by-side — but each has its own designated section you can customize. Assignments live in a database so you’ll never miss a deadline. Track your personal budget and expenses. Keep your roommates accountable with the shared roommate space. No excuses!
+
+Pro tip: You can do your actual homework in the class assignment database — each assignment is its own page where you can take notes, write drafts, and collect research.
+
+Duplicate the template→
+
+Watch the video walkthrough→
+
+Ali Abdaal's note-taking setup that helps you remember what you learn
+
+Taking effective notes is more than just copying down what you see on the whiteboard. Youtuber and doctor Ali Abdaal uses Notion to truly internalize what he's learning and organize complicated topics.
+
+In his template, toggles are the star of the show — you can put information inside them, then open or close them as needed. They're particularly helpful when you need to organize the many sub-sections of a lecture. For example, if you're studying anatomy, you can create toggles for each part of the body, then put toggles inside toggles to break it down even further. You can stay focused without getting bogged down in the details, but it's easy to click into a certain topic for more information if you need it.
+
+Ali also talks about how to use Notion to implement active recall and spaced repetition techniques, so we highly recommend watching his entire video walkthrough.
+
+Pro tip: Write questions for yourself while taking notes, then hide the answers in a toggle. When you're reviewing your notes later, you'll already have a built-in way to test yourself.
+
+Watch the video walkthrough→
+
+Humphrey Yang's student financials tracker for peace of mind
+
+Though it may not be the most fun activity, it's never too early to start managing your own finances, especially if you're juggling a part-time job between classes or tracking student loans. To make sure you're saving and spending responsibly, use this template to track expenses and income. It's customizable, too — just edit the properties in the table to make a budget that works for you. You can track recurring and one-time expenses, or create tags for food, activities, and subscriptions so you can filter the table.
+
+Pro tip: The template already includes a formula that calculates your net overall income, but if you want to change the formulas, check out this guide.
+
+Duplicate the template→
+
+The ultimate pre-med guide to ace every application
+
+The last thing you want to do while applying to med school is to forget a crucial piece of the application! Save yourself some stress by keeping all your recommendation letters, essay drafts, and pre-reqs in this Notion template. That way, you can see at a glance what you still need to work on and make sure you hit those deadlines on time.
+
+Pro tip: The databases for recommendation letters and pre-requisites aren't just for tracking purposes. Open each entry in the database and take notes on classes or draft emails to the professors you're asking to be your recommenders.
+
+Duplicate the template→
+
+Janice Studies' system for managing online classes
+
+Instead of running through hallways searching for the right classroom, a lot of you might be searching for the right Zoom link. Though this template has a whole other section for work and life, we love the way it lays out your weekly class schedule and makes Zoom links easy to access.
+
+Underneath the schedule, there's a homepage for each course, with links to the syllabus, a grade calculator, and a database for weekly lecture notes.
+
+Pro tip: Embed your favorite widgets in the dashboard, including your favorite Spotify playlist and a weather app.
+
+Duplicate the template →
+
+Watch the video walkthrough →
+
+Christine Tay's planner for the most aesthetic start to your day
+
+Add some zen to your busy days with this Studio Ghibli-themed template. It's not just pretty though — this setup centralizes not only your academics but also your side hustles and personal tasks. Depending on how you like to work, you can view your priorities by day or week.
+
+Pro tip: Use the callout block to create colored backgrounds for important memos or notes. And drop in your own images and GIFs to customize the dashboard so it matches your vibe.
+
+Duplicate the template →
+
+Nisufilm's art practice home for endless inspiration
+
+Whether you're an art student or teaching yourself how to draw, keeping the creative juices flowing is a must. Use Nisufilm's template to organize all your resources, from video tutorials, to notes on fundamentals. You can even embed a color picker widget!
+
+Pro tip: If you paste a YouTube URL in Notion, choose the option to "embed" it, and you can play the video right in your Notion page.
+
+Duplicate the template →
+
+Best templates for teachers
+
+A comprehensive teacher's home for lesson planning, syllabus sharing, and more
+
+There’s no one-size-fits-all way to teach, just like there’s no one-size-fits-all way to manage the work that goes into teaching. This template, built by our very own Education Lead (and ex-teacher) is designed to help you prepare for the school year while staying flexible when things inevitably change in the classroom. You can put together detailed lesson plans, track student info and progress, and create a public classroom home that your students and parents can access, all within one Notion workspace.
+
+Pro tip: Create dynamic associations between lessons, units and standards — linking databases to one another through relations gives you a big picture understanding of your yearly plan. With this setup, any adjustments you make to the “lessons” database will be reflected in your unit plans, and your standards map, so that everything is always in sync.
+
+Read the walkthrough→
+
+Duplicate the template→
+
+The home schooling tracker for parents pulling double duty
+
+For parents becoming first-time teachers, you might be feeling overwhelmed or unsure how to put together a curriculum for your child. This template helps you plan every single day of the school year, so you have activities and lessons ready to go.
+
+Categorize your lessons by theme or topic to make sure you're creating a cohesive teaching experience. There are also different options to view the database so you can see what activities are up next for the week, month, or quarter.
+
+Pro tip: When you've graduated from lesson planning 101, try the advanced version of this template.
+
+Duplicate the template→
+
+The research database for teachers to stay up to date
+
+Instead of tracking down URLs or searching for a particular quote, keep all your lesson plan research in this database template — so you can focus on teaching.
+
+With Notion's web clipper, you can save any webpage to this database and preserve all the article text too. If you're writing multiple lectures, you can even add tags to each source and filter the database by a certain lecture or topic.
+
+Pro tip: Click the search bar in the top right corner of the database to find a particular snippet fast.
+
+Duplicate the template→
+
+See more templates for educators in our Template Gallery→
+
+✨ Bonus: Best templates for schools and clubs
+
+The school website for no-fuss administration teams
+
+Updating a school website usually takes thousands of dollars, plus painful back and forth with your web developers. So take some inspiration from Elon Musk's Astra Nova school — they use a public Notion page to post information about their tuition, faculty, frequently asked questions, and the admissions application. It's built for extreme flexibility: if the school schedule or program details change, editing this page is as easy as writing in any document.
+
+Pro tip: Make your website easier to read by dividing it into columns. Just drag and drop any text or image to either edge of the page and follow the blue guidelines.
+
+See their homepage→
+
+The internal OS for club members to collaborate and hit deadlines
+
+School isn't just about school these days — if you're running a club or managing a group project, this template can help you capture all of your team's knowledge. You can keep your mission statement, tasks, and sponsorship apps neatly organized in this homepage. Share it with current and future team members so they can find everything they need to push projects forward.
+
+Pro tip: Drag and drop your club logo's files as a .png or .svg straight into Notion, and anyone who's looking to use them in public events or marketing assets can download them easily!
+
+Duplicate the template →
+
+The CS club website for very organized co-chairs
+
+For engineering or computer-science clubs, a lot of the work goes into pulling off huge events like hackathons and workshops. Do yourself a favor and host your website as a public Notion page so you can simplify how you run your programming. You can also keep public-facing resources like internship application guides or software deals on the same page.
+
+Pro tip: Use the table of contents block in Notion to create instant navigation at the top. It'll update anytime you add or edit any headers.
+
+Duplicate the template →
+
+The business club homepage to easily and professionally showcase clients
+
+For consulting, entrepreneurship, or marketing clubs, it's all about gaining credibility by showing off the case studies you've worked on previously. Keeping those updated and presenting them in an elegant way can make or break whether you get that next client. In Notion, you can use subpages and simple columns to format text and images cleanly. Then, when you need a refresh, just edit directly in the page.
+
+Pro tip: Keep your newsletter and event calendar in the same page as your client portfolio, letting anyone see at a glance all the amazing things you're up to as a club!
+
+Duplicate the template →

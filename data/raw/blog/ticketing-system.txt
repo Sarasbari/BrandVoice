@@ -1,0 +1,141 @@
+Title: What’s a ticketing system? A complete guide
+Published Date: 2023-06-08T00:00-06:00
+URL: https://www.notion.so/blog/ticketing-system
+
+There was a time when if you called a company with a problem, they'd write it down on a piece of scrap paper and toss it in a pile — at least, from a customer perspective, that’s what it felt like. It took forever to hear back about a query, if you did at all.
+
+But customer service software now has a better workflow for logging and resolving customer issues: ticketing systems. They save queries in individual tickets and send them directly to the right person to answer them. And AI chatbots and other integrations respond to common problems in real time, eliminating the need for a human touch in the first place.
+
+From your IT department's help desk to the corner deli plugging your order into the computer, ticketing systems help businesses stay organized and keep customers happy. Here’s a guide to different methods and which one to use for your business.
+
+What’s a ticketing system?
+
+When a customer or client contacts tech support, the help desk, or any service line, their question enters a ticketing system as a case. Then the system can route the case to the appropriate subject matter expert, update it with relevant information, and eventually offer a resolution. It saves customer issues and tracks them from start to finish.
+
+Most customer service ticketing systems offer additional tools such as automatic routing, live chat, and detailed analytics, which save time and give you insights for future business decisions.
+
+But no matter what features it has, a ticketing system is an crucial tool for businesses to prioritize and resolve customer service issues correctly. When customers get a confirmation message and case number, they know their problem isn’t just falling into the void; it’s in line for fast resolution.
+
+The main goal of these systems is to increase customer satisfaction. But the best ticket systems will also enhance your workflow and create a streamlined method of problem resolution, guiding an easier process both for your customers and for your team.
+
+3 types of ticketing systems
+
+There are three main types of ticketing systems that are common in business environments, and the goal between them is the same: log and resolve issues to enhance the customer experience. But they each cover a specialized category.
+
+1. Customer service
+
+When a customer contacts support — whether for an ecommerce return or a query about how certain software works — their message enters a customer service ticketing system. The system automatically opens a case, logs the request, and forwards it to the right team.
+
+Many companies have an entire customer service portal that lets customers narrow down their issues with prompts, either through a self-service platform or click-and-answer questions. That way, once an issue reaches actual customer service agents, there’s already plenty of information. So they can spend less time on conversation and more on problem resolution.
+
+Customer service ticketing systems are usually part of a more extensive customer relationship management (CRM) tool. Each time a customer opens a ticket, the system adds it to the customer record. This creates a knowledge base for every customer, leading to a higher, more informed level of customer support.
+
+2. IT help desk
+
+Even if all someone needs to do is turn their computer off and back on again, an IT ticketing system tracks the process. These systems are either internal to a company or external to clients. Either way, their purpose is to provide a path for IT-related issues.
+
+IT help desk systems need to meet global Information Technology Infrastructure Library (ILTL) standards. This detailed list of definitive procedures and tasks coincides with general IT service management (ITSM) rules, which help IT teams manage their customer service functions.
+
+3. Software development
+
+Software development ticketing systems are common, but they aren’t customer-facing. Rather, internal development teams use them to track software bugs and change requests, either from project managers or customer interactions. The system routes these requests into ticketing systems such as Jira, where the development team can address and solve the problem.
+
+6 main features of ticketing systems
+
+Regardless of type, the goal of each ticketing system remains the same: to serve customers and clients. That’s why you'll find similarities across software packages and businesses. Here’s what most systems include:
+
+1. Omnichannel support
+
+Customer service systems should be intuitive and meet customers where they are, which is why messages via email, social media, text, live chat, and phone calls should all route to the ticketing system. Offering more communication methods gives customers more access to answers, aiding their experience and making the support process as easy as possible.
+
+2. Ticket routing
+
+Once a ticket enters the system, it has to go somewhere. If you open a service ticket because your laptop is making a grinding noise, you'll want someone with hardware expertise — not a random customer service agent — to walk you through possible solutions. Routing brings you to that expert.
+
+Advanced routing systems also can distribute tickets based on a customer support team’s current caseload. Creating an even balance of tickets across several help desk employees prevents any one agent from being overwhelmed and leads to faster case resolution.
+
+3. Customer cases
+
+If you really want to improve service and build relationships with your audience, each ticket should become part of a customer record. Each individual client or customer will have their own file with every ticket they’ve ever submitted. This history informs new cases by providing a log of basic customer information, saving time and building relationships.
+
+4. Self-service knowledge base
+
+Sometimes the fastest way to reach a solution is to let customers do so themselves. With self-service knowledge base options, they can browse solutions based on keywords, engage with other customers and experts on forums, and navigate FAQs and supporting documents to find answers. When you offer this information directly to customers, you save time and money, especially when it comes to common issues.
+
+5. Automation
+
+Workflow automation within ticketing systems can follow routing rules for you. Automation will read an incoming support ticket and, based on keywords, assign it to the correct inbox. Automation can also help your customer service agents by adding searchable tags to tickets so they can quickly search for related solutions or resources.
+
+6. Analytics
+
+Every ticketing system should have a data analyst somewhere down the line, comparing this week's cases to last week's or calculating the average time to resolution. This informs your business decisions by providing the data you need to hire more agents, solve common problems, or adjust your system another way.
+
+Lifecycle stages of ticketing systems
+
+Like a beautiful customer support butterfly, each ticket has different stages in its lifecycle. Also known as ticket status, this cycle varies from business to business based on the complexity of their workflows. In general, these are the stages you can expect to see:
+
+New — a customer submits a new ticket, and it's waiting for an assignee Open (in progress) — the system assigns the ticket to the right team, and now they’re working on a solutionPending — you need more information to resolve the ticket, either from the customer or an internal teamOn hold — tickets go into a holding pattern while team members gather more information or plan to resolve the issue laterSolved — the ticket now has a solutionClosed (resolved) — with a resolution, customer support marks the ticket as closedClosed (canceled) — the customer, for whatever reason, cancels the ticketReopened — the customer has a related issue, or the original solution didn’t work
+
+New — a customer submits a new ticket, and it's waiting for an assignee
+
+Open (in progress) — the system assigns the ticket to the right team, and now they’re working on a solution
+
+Pending — you need more information to resolve the ticket, either from the customer or an internal team
+
+On hold — tickets go into a holding pattern while team members gather more information or plan to resolve the issue later
+
+Solved — the ticket now has a solution
+
+Closed (resolved) — with a resolution, customer support marks the ticket as closed
+
+Closed (canceled) — the customer, for whatever reason, cancels the ticket
+
+Reopened — the customer has a related issue, or the original solution didn’t work
+
+5 benefits of using a ticketing system
+
+The main benefit of implementing ticketing tools within your customer service or help desk systems is, of course, customer satisfaction. You want to help customers, and you want to do so as quickly and efficiently as possible. Here’s how ticketing systems achieve that, and more:
+
+Improves the customer experience — storing all customer interactions in one place makes it much easier for your team to serve your audience. You can provide time estimations and quickly train new staff on support processes, creating a smoother system and flow of communication for everyone involved.Automates repetitive tasks — automation within ticketing systems lets you log cases and quickly get them to the right person. Your customers can receive solutions faster when the software does those mundane tasks for you.Increases visibility and accountability — when you keep your support requests and tickets in one central location, your team can always see what’s happening with your products and services. And you have a complete history for every customer, which you can use to build stronger relationships.Aids team collaboration — when different teams have access to the same information, they can reach solutions faster and communicate more clearly throughout the process. This improves resolution times and provides plenty of research and data for future cases.Supports third-party integrations — most ticketing systems integrate with an existing CRM tool, social media, or ecommerce platforms to create a holistic customer record. You can also incorporate tools like Notion to inform your tickets with organized knowledge and build a more profound customer relationship platform.
+
+Improves the customer experience — storing all customer interactions in one place makes it much easier for your team to serve your audience. You can provide time estimations and quickly train new staff on support processes, creating a smoother system and flow of communication for everyone involved.
+
+Automates repetitive tasks — automation within ticketing systems lets you log cases and quickly get them to the right person. Your customers can receive solutions faster when the software does those mundane tasks for you.
+
+Increases visibility and accountability — when you keep your support requests and tickets in one central location, your team can always see what’s happening with your products and services. And you have a complete history for every customer, which you can use to build stronger relationships.
+
+Aids team collaboration — when different teams have access to the same information, they can reach solutions faster and communicate more clearly throughout the process. This improves resolution times and provides plenty of research and data for future cases.
+
+Supports third-party integrations — most ticketing systems integrate with an existing CRM tool, social media, or ecommerce platforms to create a holistic customer record. You can also incorporate tools like Notion to inform your tickets with organized knowledge and build a more profound customer relationship platform.
+
+5 best ticketing systems
+
+If you’re looking for a ticketing system for your business, these five are all great options.
+
+Zendesk
+
+Zendesk uses omnichannel communication, including bots and forums, to connect your team to customers. There’s a centralized hub for ultimate manager visibility, and dashboards and reports provide real-time customer behavior analytics. Zendesk's interface is clean and intuitive, and it offers mobile support for both Android and iOS.
+
+HappyFox
+
+HappyFox is a robust cloud-based CRM with ticketing solutions for a multitude of industries. It includes intelligent automation, a knowledge base, and basic reporting.
+
+The problem with HappyFox is that it puts so much work into making its product one of the most detailed ticketing systems out there that it doesn't integrate with most other tools. But if you want a comprehensive ticketing management system, HappyFox certainly has one.
+
+Zoho Desk
+
+The real draw of Zoho Desk is its integration with Zoho CRM. But Zoho Desk does stand alone as an entry-level help desk tool. It has limited automation but offers multichannel support and detailed documentation for quick customer support resolutions.
+
+AzureDesk
+
+AzureDesk is a flexible piece of software that offers Slack integration as one of its many benefits. It's a lightweight ticketing system, and it includes email-to-ticket conversion; when a customer emails support, that email automatically becomes a ticket. It's that sort of time-saving automation that really makes AzureDesk stand out.
+
+Vision Helpdesk
+
+Vision Helpdesk is a cloud-based help desk ticketing system that’s best for large financial and governmental organizations. But it has some great features that can apply to businesses of any size. Its automation creates customizable rule-based criteria to sort tickets across all communication channels. It also includes gamification options to encourage healthy competition between service agents.
+
+Improve customer support with Notion
+
+Your ticketing system is only as good as the information you feed into it, whether that's customer data or internal problem-solving. Notion has the tools and templates you need to organize your teams and pave a smoother path to customer satisfaction.
+
+Notion's feedback tracker can help capture and track customer feedback. The feature FAQs template is an excellent addition to your knowledge base. And customer satisfaction surveys let you close out successful interactions and give customers the chance to tell you just how excellent your support team is.

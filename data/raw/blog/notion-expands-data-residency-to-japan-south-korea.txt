@@ -1,0 +1,31 @@
+Title: Notion is expanding data residency to Japan and South Korea
+Published Date: 2026-03-23T14:00-07:00
+URL: https://www.notion.so/blog/notion-expands-data-residency-to-japan-south-korea
+
+Notion has always grown alongside our community. That growth has taken us around the world—some of our most passionate users and teams are in Japan and South Korea. We’ve seen tremendous growth in both markets, but one request has come up consistently from enterprise customers and prospects: Local data residency.
+
+Today, we’re excited to share that starting in May 2026, Enterprise plan customers in Japan and South Korea will be able to choose to keep their Notion data at rest in-region—right alongside our existing EU data residency, which launched last year in Frankfurt.
+
+What's included
+
+Both regions run on AWS infrastructure, built on Notion's existing security and privacy controls that align with regulatory frameworks—including SOC 2 Type II, ISO 27001, ISO 27701, and CSP Evaluation performed by the Korea Financial Security Institute.
+
+Japan: Tokyo (primary) + Osaka (backup)South Korea: Seoul (primary), with multiple Availability Zones for redundancy
+
+Japan: Tokyo (primary) + Osaka (backup)
+
+South Korea: Seoul (primary), with multiple Availability Zones for redundancy
+
+Data residency covers the content that matters most for your work—page content, uploaded files, your search index, and any third-party or content created via integrations and automations stored in Notion.
+
+Why it matters
+
+For enterprise teams navigating internal security policies, regulatory requirements, or in-country storage expectations, data residency is a prerequisite. Our research in Korea found that 30 percent of office workers have concerns about data security and privacy with the tools they use at work. We've heard similar themes in Japan.
+
+Data residency also is part of a longer commitment. As organizations adopt AI capabilities like Custom Agents, the foundations of trust, privacy, and security matter even more—data residency is one of the building blocks.
+
+Get early access
+
+Data residency for Japan and South Korea will be available to Enterprise plan customers starting in May 2026, rolling out first to new workspaces before expanding to existing ones.
+
+To get started, please reach out to your account team, or contact sales if you would like to sign up or have questions about your specific needs.

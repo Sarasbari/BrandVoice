@@ -1,0 +1,105 @@
+Title: How to create an effective communication plan
+Published Date: 2023-08-15T00:00-06:00
+URL: https://www.notion.so/blog/communication-plan
+
+Solid communication is at the core of all healthy relationships — including professional ones. And collaborative project work thrives when all stakeholders are aware of progress, setbacks, and shifts.
+
+But ensuring that a wide range of internal and external stakeholders have access to the information they need requires strategic planning. That’s where a communication plan comes in.
+
+Organizations with excellent communication plans encourage collaboration, centralize data for efficient access, and even mitigate crises.
+
+What’s a communication plan?
+
+A project management communication plan establishes the terms for sharing information with internal and external stakeholders, ensuring that everyone has the data they need when they need it. Communication plans outline when to dispense information and to whom, as well as what kinds of information different teammates should receive.
+
+Comprehensive communication plans include the following:
+
+The goal of the plan A list of key stakeholders The kinds of information stakeholders must receiveWhen different stakeholders should receive informationCommunication methods/channels
+
+The goal of the plan
+
+A list of key stakeholders
+
+The kinds of information stakeholders must receive
+
+When different stakeholders should receive information
+
+Communication methods/channels
+
+Key components of a communication plan
+
+Making a communication plan containing all the pertinent information is easier said than done. Here are a few strategies for fulfilling each essential category of the plan.
+
+Goals — start by setting an objective for the communication plan. One goal for a development team’s plan could be to alert external stakeholders whenever they roll out a new feature.Stakeholders — define the project team, the project manager, and all other internal stakeholders involved in the work, which may include marketing, sales, and administrative colleagues. Determine which external stakeholders, like representatives from the end client, need project updates as well. Type of information — this section likely takes the most thought, as you’ll have to determine who needs what information, where you’ll get this info, and how you’ll share it. A stakeholder may be interested in an update on a new feature, but they don’t necessarily need to know when your development team will hold a sprint planning meeting. Cadence — ask yourself how often stakeholders must receive information and establish a cadence where possible. You might give the client a bi-weekly progress update or check in with teammates daily. Channels — decide how you’ll communicate information, whether by email, in meetings, or using shared tools like centralized project planning charts and maps.
+
+Goals — start by setting an objective for the communication plan. One goal for a development team’s plan could be to alert external stakeholders whenever they roll out a new feature.
+
+Stakeholders — define the project team, the project manager, and all other internal stakeholders involved in the work, which may include marketing, sales, and administrative colleagues. Determine which external stakeholders, like representatives from the end client, need project updates as well.
+
+Type of information — this section likely takes the most thought, as you’ll have to determine who needs what information, where you’ll get this info, and how you’ll share it. A stakeholder may be interested in an update on a new feature, but they don’t necessarily need to know when your development team will hold a sprint planning meeting.
+
+Cadence — ask yourself how often stakeholders must receive information and establish a cadence where possible. You might give the client a bi-weekly progress update or check in with teammates daily.
+
+Channels — decide how you’ll communicate information, whether by email, in meetings, or using shared tools like centralized project planning charts and maps.
+
+Why is a communication plan essential?
+
+Excellent communication prevents employees and clients from making assumptions without important information. These plans foster a more transparent working environment to save everyone time and mitigate mistakes and misunderstandings.
+
+Thoughtful and visible communication plans also:
+
+Boost collaboration — teams can’t make sound decisions without comprehensive information, making clear communication essential to efficient projects. When team members can access project plans, documentation, and data, they can collaborate more efficiently. And they also gain visibility into teammate task progress, meaning they know when to lend a helping hand and can spot potential errors or risks. All this leads to better interpersonal connections and the improved collaboration that results.Mitigate risks — when you clearly communicate project information to a range of stakeholders, you allow people to weigh in on potential threats. Everyone has different expertise and vantage points, meaning one can highlight issues another wouldn’t have caught. Creating a strategic communication plan at the start offers the opportunity to consider and plan for potential risks immediately. Streamline work — teams lose so much time app-switching, searching for documents, and seeking status updates. Centralizing information using a collaboration platform that supports messaging and doc hosting keeps everyone in the know and prevents employees from missing out on changes in tasks, calendars, and goals.
+
+Boost collaboration — teams can’t make sound decisions without comprehensive information, making clear communication essential to efficient projects. When team members can access project plans, documentation, and data, they can collaborate more efficiently. And they also gain visibility into teammate task progress, meaning they know when to lend a helping hand and can spot potential errors or risks. All this leads to better interpersonal connections and the improved collaboration that results.
+
+Mitigate risks — when you clearly communicate project information to a range of stakeholders, you allow people to weigh in on potential threats. Everyone has different expertise and vantage points, meaning one can highlight issues another wouldn’t have caught. Creating a strategic communication plan at the start offers the opportunity to consider and plan for potential risks immediately.
+
+Streamline work — teams lose so much time app-switching, searching for documents, and seeking status updates. Centralizing information using a collaboration platform that supports messaging and doc hosting keeps everyone in the know and prevents employees from missing out on changes in tasks, calendars, and goals.
+
+How to create a communication plan that works
+
+Communication plans have many moving parts, all of which are essential to the document’s proper functioning. Here’s a start-to-finish guide on creating a plan that works.
+
+1. Assess gaps in your current plan
+
+If you already have a communication plan, now’s the time to assess where there are drop-offs in contact or difficult-to-access information. If the end client is concerned about not receiving frequent enough progress updates, this is a point you’ll want to tackle in the new plan. And if employees tend to ask around for task-relevant information, consider addressing this inefficiency.
+
+2. Set goals
+
+Whether you’re revamping a communication plan or creating a new one, use SMART parameters (specific, measurable, attainable, relevant, and time-bound) to develop functional goals. You might aim to provide updates to the client at a certain cadence, like every two weeks, or centralize documents and asynchronous communication on one platform so your team never misses a beat.
+
+3. Identify stakeholders
+
+Make a comprehensive list of anyone who needs information on the project. As a rule of thumb, if the execution or outcomes of the work affects a given individual, they’re a stakeholder. You may discover new goals during this step as you identify the parties that require information.
+
+4. Decide on content
+
+Determine the “What”: the content you’ll send to each stakeholder. For clients, content may be progress updates; for development team members, it could be a daily stand-up meeting where everyone discusses their progress and obstacles directly related to a sprint.
+
+5. Determine channels
+
+Decide how you’ll disseminate information. You may schedule bi-weekly Zoom calls with external stakeholders to deliver project updates with a more personalized approach. Or you might use a chat tool to streamline team communication.
+
+A communication plan including cloud-based document-sharing tools, video conferencing, and an asynchronous messaging platform is crucial for remote teams. Consider trying out several, taking notes and encouraging team feedback while also setting a deadline for deciding on the best tool(s).
+
+6. Assign responsible team members
+
+Actioning a communication plan is complex work — no one person can take the reins. Divide the workload by assigning team members responsibility for certain communication types, like team email updates or external stakeholder meeting invites. The project manager might send out Zoom invites to the client for any upcoming update calls, and the principal software developer might organize stand-up invites.
+
+7. Set a cadence
+
+Determine how often you’ll send out communication and hold meetings. It’s essential to document the cadence, even for regular meetings or ones with a self-explanatory rhythm (like daily stand-ups), so that all internal stakeholders have a clear idea of communication frequencies.
+
+8. Reassess the plan
+
+Once you put your plan into action, assess it every few months to avoid long-standing gaps in communication and teammates battling inefficient tools or processes.
+
+A communication plan example
+
+The complexity of a communication plan ranges based on the size and nature of an organization, but here’s a quick example you can model yours on. You can also use Notion’s free communication plan template to guide your process.
+
+Notion is your all-in-one collaboration tool
+
+Minimize time lost to app-switching and disorganized document storage with a tool that allows teams to collaborate efficiently. Store docs, knowledge bases, and planning materials, like your project roadmap, in a central Notion team workspace.
+
+You can also tap into Notion’s library of project management and collaboration guides. And head to the blog to learn more about workplace productivity, how to plan a Lean communication strategy, or what communication preparation is.

@@ -1,0 +1,71 @@
+Title: Learn how to track your projects
+Published Date: 2023-05-01T00:00-06:00
+URL: https://www.notion.so/blog/project-tracking
+
+You’ve scheduled your website launch for six months from now. It seems far away, but you’re confident that your team can get it done. The designers will conceptualize the user interface, programmers will flesh out its background functions, and marketers will get the word out.
+
+Oh, and you need to research competitors. And find a way to check for bugs. And buy a domain. And work on security.
+
+With so many moving parts, minor due dates and smaller to-dos can slip through the cracks — and you might not realize until it’s too late.
+
+Project tracking brings every team member and task together to set your project up for success.
+
+What’s project tracking, and why should I do it?
+
+Project tracking is a project management strategy that monitors the progress of an entire project over time. It centralizes due dates and milestones so you can create a schedule, delegate tasks appropriately, and identify any problems or delays before they become major issues.
+
+Not tracking a project's progress — or not doing so correctly — is a main reason that many  projects fail. When you don’t check to see whether a project is following your plan, you can miss deadlines, go over budget, and miscommunicate with your team and stakeholders.
+
+Let’s say that you opt not to use a project tracking system for your website launch. You trust your team members to know what’s going on and finish tasks on time. But your design team delivers their concept to the programmers late, delaying the whole process. Without project tracking and proper communication, you might not know about the lag or be able to intervene.
+
+Having a clear project tracking system from the start gives you a framework to stay on schedule. Within it, you can create a project calendar, assign to-dos, and check in on your team so everyone feels supported.
+
+How can I track my projects?
+
+Use project tracking software to keep tabs on every step of your project. You can input and track your progress for specific tasks, communicate with team members, and access important documents in one central location.
+
+Here are four tips for tracking the right way:
+
+Prepare ahead of the kick-off — before starting the actual project work, you need a clear understanding of your goals, timeline, and resources. Prepare a project charter or project scope statement that includes this information and outlines your plan’s key details.Find and squash potential roadblocks — no project runs completely smoothly, and anticipating problems can lessen the blow when they do arise. Before you start tracking, identify dependencies, conduct risk assessments, and lay out contingency plans.Break down your goals — project goals can seem daunting, especially if you’re planning months (or years) in advance. It's easier to track your progress when you clearly understand the individual tasks and deliverables your team needs to complete. Break down big milestones into smaller, more manageable pieces.Use project management tools — use a comprehensive tool like Notion to host Gantt charts, team-specific documents, and your project baseline in one place. Tracking everything together gives you a holistic overview that you can share with your team and stakeholders. You can visualize your project planning and identify any areas that may be falling behind.
+
+Prepare ahead of the kick-off — before starting the actual project work, you need a clear understanding of your goals, timeline, and resources. Prepare a project charter or project scope statement that includes this information and outlines your plan’s key details.
+
+Find and squash potential roadblocks — no project runs completely smoothly, and anticipating problems can lessen the blow when they do arise. Before you start tracking, identify dependencies, conduct risk assessments, and lay out contingency plans.
+
+Break down your goals — project goals can seem daunting, especially if you’re planning months (or years) in advance. It's easier to track your progress when you clearly understand the individual tasks and deliverables your team needs to complete. Break down big milestones into smaller, more manageable pieces.
+
+Use project management tools — use a comprehensive tool like Notion to host Gantt charts, team-specific documents, and your project baseline in one place. Tracking everything together gives you a holistic overview that you can share with your team and stakeholders. You can visualize your project planning and identify any areas that may be falling behind.
+
+How an effective project tracking system helps you succeed
+
+Project management software keeps you on the right path to creating a project that achieves everything you want it to — and doing it on time. Here are some more advantages to using an exhaustive project tracking tool:
+
+Keep knowledge in one place — with a project hub, you can store all of your project's information — project documents, metrics, to-do lists, and more — in one central location. This means that you don't have to waste time searching through emails and various file folders to find what you need. Instead, allocate your time and resources to other initiatives.
+
+Assign tasks to individual team members — delegate tasks to teams and individuals and oversee who’s working on what aspects of the project, when they’re due, and whether they’re on track to completion. As people finish tasks, they can mark them as complete in the tool, and you can see the overall progress of the campaign in real time. This helps you manage everyone’s workloads and check whether you’re meeting milestones on time.
+
+Set project timelines — visualizations of your project timeline, like Kanban boards and calendars, offer an overview of your entire schedule. As time passes, you can more easily identify potential delays or bottlenecks in your project timeline, since pushing back one task blocks another one down the road.
+
+Collaborate more effectively — project management tools often include features like document suggestions, real-time chats, and video conferencing, which can streamline your teamwork process. You can give everyone access to the same files and documentation. This is especially important for teams working on online projects or from different locations.
+
+What should you look for in a tracking tool?
+
+Every project has different specifics and a different scope, and a good tool will offer features that meet those individual needs. Here are a few things to think about if you’re choosing a project-tracking tool:
+
+Workflow automation — some tools let you automate mundane tasks and free up your team to focus on more hands-on work. Integrations like Notion AI can send emails, generate meeting summaries, and improve first drafts for you to save time.Support on mobile devices — if you or your team like to work on the go, choose a tool that’s accessible on various devices and has apps for smartphones and tablets. This way, you can stay connected and track your progress whenever you need to.Comprehensive features — having different parts of your project on different platforms can stunt your workflow. Find a tool that lets you keep everything in one place and link between status reports, to-do lists, and calendars so nothing gets lost.Flexibility — choose a tool that’s flexible enough to adapt to your changing needs. It should be able to handle different types of projects and teams that might grow along the way.Collaboration and feedback — look for a work management system that encourages collaboration and feedback for everyone involved. This might include features like interactive comments or live editing, as well as options for scheduling meetings and connecting chat apps.
+
+Workflow automation — some tools let you automate mundane tasks and free up your team to focus on more hands-on work. Integrations like Notion AI can send emails, generate meeting summaries, and improve first drafts for you to save time.
+
+Support on mobile devices — if you or your team like to work on the go, choose a tool that’s accessible on various devices and has apps for smartphones and tablets. This way, you can stay connected and track your progress whenever you need to.
+
+Comprehensive features — having different parts of your project on different platforms can stunt your workflow. Find a tool that lets you keep everything in one place and link between status reports, to-do lists, and calendars so nothing gets lost.
+
+Flexibility — choose a tool that’s flexible enough to adapt to your changing needs. It should be able to handle different types of projects and teams that might grow along the way.
+
+Collaboration and feedback — look for a work management system that encourages collaboration and feedback for everyone involved. This might include features like interactive comments or live editing, as well as options for scheduling meetings and connecting chat apps.
+
+Find a template that works for your project
+
+If you're looking for a project management tool that includes everything from project time tracking to live collaboration, Notion can help. Our connected workspace brings all of your work to one place, and our library of templates has hundreds of clonable project tracking docs — all of which you can tailor to fit your specific goals.
+
+Whether you’re looking for a project tracker, product roadmap, or project scope template, we’ve got what you need. Use these templates to get a head start on project tracking and stay organized throughout the process.

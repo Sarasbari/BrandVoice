@@ -1,0 +1,93 @@
+Title: Understanding the iterative process method for project management
+Published Date: 2023-09-19T00:00-05:00
+URL: https://www.notion.so/blog/iterative-process
+
+To deliver a high-quality product on schedule, your team must be ready to pivot at any moment.
+
+A prerequisite of project work is hiccups — nothing will ever go according to the first project plan. But if your team is agile and improvement-focused, roadblocks won’t slow you down.
+
+That’s why Agile teams often employ an iterative process to project work. Rather than completing an entire project and then reviewing during project closure, these teams continuously review deliverables throughout the project’s lifecycle, implementing updates and improvements along the way.
+
+What’s an iterative process?
+
+The iterative process is a method product development teams typically use to complete project work. This process consists of developing, testing, and improving small segments of work (iterations) rather than an entire product deliverable. Each increment includes a chance to review and improve the design before proceeding.
+
+The starkest contrast between this method and non-iterative ones — like the Waterfall project management methodology — is that project teams frequently review and make changes to deliverables, not waiting until the final product is complete to test and then adjusting it according to feedback. It’s no wonder this approach stems from Agile, a methodology that prioritizes constant improvement.
+
+How does the iterative process work?
+
+These are the five main stages of the iterative methodology. While they cover an entire project’s life cycle, you’ll also do some planning, designing, implementing, testing, and reviewal within each iteration:
+
+Plan — you’ll start by planning the entire project lifecycle, including breaking this broad initiative into several small iterations that include an initial planning session and iteration closure review. Design — now your team works toward creating an iteration’s deliverables. In product development, this typically includes drafting and crafting mock-ups and prototypes for manager and client approval before moving on to developing a version that’s ready to test. Implement — during the implementation stage, you’ll soft-launch your deliverables to gain and implement initial feedback. For a blog-creation project, this might mean adding a couple articles to the site in an unpublished mode for everyone — including the client — to review. Test — now you can extensively test your deliverables for errors and weaknesses. You might use focus groups or beta testers to gather feedback or simply soft-launch a product and send a user survey.Review — during project closure, you’ll review overall progress, learning from any mistakes and celebrating successes. This review is often easier with iterative project management since you’ve been assessing progress and correcting weak areas throughout as you reviewed each iteration’s work.
+
+Plan — you’ll start by planning the entire project lifecycle, including breaking this broad initiative into several small iterations that include an initial planning session and iteration closure review.
+
+Design — now your team works toward creating an iteration’s deliverables. In product development, this typically includes drafting and crafting mock-ups and prototypes for manager and client approval before moving on to developing a version that’s ready to test.
+
+Implement — during the implementation stage, you’ll soft-launch your deliverables to gain and implement initial feedback. For a blog-creation project, this might mean adding a couple articles to the site in an unpublished mode for everyone — including the client — to review.
+
+Test — now you can extensively test your deliverables for errors and weaknesses. You might use focus groups or beta testers to gather feedback or simply soft-launch a product and send a user survey.
+
+Review — during project closure, you’ll review overall progress, learning from any mistakes and celebrating successes. This review is often easier with iterative project management since you’ve been assessing progress and correcting weak areas throughout as you reviewed each iteration’s work.
+
+Iterative versus incremental development
+
+The iterative project management approach uses one overall project timeline that moves toward a set of deliverables offered during project closure. You’ll divide a project into several iterations, using each as a feedback loop that offers you a chance to thoroughly review progress thus far and make changes.
+
+Incremental development also breaks projects into segments (increments), but each section focuses on specific product/deliverable functionalities that teams test and release at each increment’s end. This increases the frequency at which customers gain new products and features but doesn’t necessarily build in a review process that ensures teams frequently assess progress and adjust a current increment’s deliverables.
+
+Why use an iterative approach to project management?
+
+The iterative approach isn’t ideal for all projects. For example, if an agile team is working on a product development project where they’ll design and release several features, they might want to use an incremental approach to offer end-users more frequent value.
+
+But for projects with fewer end-deliverable components, the iterative process offers the following benefits:
+
+Adaptability — when your team continuously assesses a smaller time frame’s output, you can quickly pivot when delays and roadblocks hit. You’re not so deep into a project’s timeline having never looked back that one small hiccup ruins months of progress.Early feedback — checking in more frequently ensures all stakeholders have a chance to highlight potential issues you can adjust your project plan to mitigate.Steady improvement — implementing an iterative project management process encourages your team to always look for improvement areas. In the end, this means you can offer end users higher-quality deliverables.
+
+Adaptability — when your team continuously assesses a smaller time frame’s output, you can quickly pivot when delays and roadblocks hit. You’re not so deep into a project’s timeline having never looked back that one small hiccup ruins months of progress.
+
+Early feedback — checking in more frequently ensures all stakeholders have a chance to highlight potential issues you can adjust your project plan to mitigate.
+
+Steady improvement — implementing an iterative project management process encourages your team to always look for improvement areas. In the end, this means you can offer end users higher-quality deliverables.
+
+Iterative process examples
+
+Most companies use an iterative process without realizing it because continuous testing and review are common in many project management methodologies. Here are some common industry-specific examples of the iterative process in action:
+
+Sales — after delivering a sales pitch to potential clients, team members analyze the pitch to determine what resonated and what didn't. They return to the drawing board to improve the speech for future presentations, gradually enhancing its efficacy. Software development — teams create a basic software application and release it to stakeholders and users for feedback. They continually cycle through designing, implementing, and testing to incorporate new features and gradually improve the software until it meets user needs. UX design — designers use the iterative process to narrow down an interface that provides the best user experience. They do this by creating wireframes and collecting user feedback with usability testing. Each design iteration incorporates this feedback.Content creation — the writer, editors, and clients go back and forth revising and improving an article until it’s ready to be published online. Post-publishing, editors frequently audit the article to see how they can improve it further, taking target audience changes and SEO trends into account.
+
+Sales — after delivering a sales pitch to potential clients, team members analyze the pitch to determine what resonated and what didn't. They return to the drawing board to improve the speech for future presentations, gradually enhancing its efficacy.
+
+Software development — teams create a basic software application and release it to stakeholders and users for feedback. They continually cycle through designing, implementing, and testing to incorporate new features and gradually improve the software until it meets user needs.
+
+UX design — designers use the iterative process to narrow down an interface that provides the best user experience. They do this by creating wireframes and collecting user feedback with usability testing. Each design iteration incorporates this feedback.
+
+Content creation — the writer, editors, and clients go back and forth revising and improving an article until it’s ready to be published online. Post-publishing, editors frequently audit the article to see how they can improve it further, taking target audience changes and SEO trends into account.
+
+Best practices for implementing an iterative process
+
+Ready to encourage a culture of continuous improvement with your team? Here are a few best practices to ensure you successfully implement this method:
+
+Have a clear vision — because the goals frequently change throughout the iterative process, you need a clear vision from start to end. Understanding what you want to create or improve with each iteration keeps your team working toward the same goal. Ask for feedback early on — getting feedback early is essential to project success, as you can identify potential issues right away. This reduces the chance you’ll have to make significant changes later on that might cause scope creep. Encourage this approach company-wide — whatever your position, be it product or project manager or a higher-level executive, share what you’ve learned about the iterative process and how to implement it with all your teammates. You might even host a meeting with upper management to express this project management method’s value and several ways to implement it organization-wide.
+
+Have a clear vision — because the goals frequently change throughout the iterative process, you need a clear vision from start to end. Understanding what you want to create or improve with each iteration keeps your team working toward the same goal.
+
+Ask for feedback early on — getting feedback early is essential to project success, as you can identify potential issues right away. This reduces the chance you’ll have to make significant changes later on that might cause scope creep.
+
+Encourage this approach company-wide — whatever your position, be it product or project manager or a higher-level executive, share what you’ve learned about the iterative process and how to implement it with all your teammates. You might even host a meeting with upper management to express this project management method’s value and several ways to implement it organization-wide.
+
+Take the next step with Notion's templates
+
+Embracing a new project management process is work enough. Let Notion’s templates assist this implementation process. Here are some helpful documents you can customize and house in a central team workspace:
+
+Planning for product development documentDevelopment project reportGrowth marketing testing roadmapAgile project management template
+
+Planning for product development document
+
+Development project report
+
+Growth marketing testing roadmap
+
+Agile project management template
+
+Or simply search the template gallery to find something that perfectly suits your needs.

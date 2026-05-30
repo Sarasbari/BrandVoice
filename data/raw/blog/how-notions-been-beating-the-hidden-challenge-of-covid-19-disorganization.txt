@@ -1,0 +1,65 @@
+Title: How Notion's been beating the hidden challenge of COVID-19
+Published Date: 2021-05-19T09:00-07:00
+URL: https://www.notion.so/blog/how-notions-been-beating-the-hidden-challenge-of-covid-19-disorganization
+
+Like everyone else these days, Maia Majumder constantly has her Twitter feed open — but not for the reasons you'd think. As a researcher who harnesses social media data to inform COVID-19 policies, every tweet is a gold mine of insights.
+
+She's been doing this for a while — her team responded to Ebola in West Africa, Zika in Central and South America, and the Disneyland measles outbreak in 2015, the latter of which helped pass the mandatory vaccination bill in California.
+
+So when COVID-19 hit, Maia knew this would be the culmination of her work from the last decade. Her team began analyzing social media, the news, and search query data to understand how fast the virus was spreading.
+
+"It was a firehose of information," she says, and organizing all of it was going to be a beast. With Notion's help, it paid off. "We were one of the first groups to assess COVID-19's transmission potential in early January. It helped sound the alarm and inform a lot of policies."
+
+Who keeps the crisis responder sane during a crisis?
+
+Even though Maia's made a significant impact on the pandemic response, it's come at a cost. In the last year, she's had to make difficult decisions every day. "At what point should my team pivot from mask compliance to vaccine fears?" Maia says as an example. "What skills do we need on each project to make progress fast enough?" The limited time, resources and pressure to deliver were starting to wear on her.
+
+"I was having serious trouble with project and task management using Google tasks. I would have a zillion tasks a day, and I wouldn't know which ones to work on first because they weren't categorized by the various projects my team is responsible for. It was hurting our progress." She needed a better way to track her work, fast.
+
+"I asked my husband, why wasn't there a tool that could let you easily connect tasks and projects so you can prioritize? That's when he told me about Notion."
+
+One calendar to rein in the chaos
+
+Maia moved all her tasks and projects into Notion and linked them together. Then, she created a calendar view of all her tasks. Suddenly, she had clarity on what she needed to do on any given day.
+
+"I feel a lot more on top of things with Notion," says Maia. "It's really reassuring because the last thing I want to do is drop the ball on something that's really important. And right now, everything is important."
+
+A projects pipeline to keep the insights coming
+
+When she needs to zoom out and take stock of her team's work, Maia switches to her projects database. She can see where everything is in the pipeline at a glance — it's much easier to understand how long a project's been in data and analysis, or when they're expecting to move to writing and editing.
+
+"Now, I know that my tasks are actually indicative of the things that I need to get done, that my projects board is indicative of our progress," she says. "That's been a huge relief."
+
+It's this info that helps Maia make a dozen decisions under pressure. She can regroup with her team and figure out what's blocking them from moving forward, or decide to table it in favor of other priorities.
+
+Building custom pages to mobilize public resources
+
+Maia isn't the only one using Notion on the front-lines of recovery from this pandemic. For many other researchers and doctors, their job isn't to discover a groundbreaking cure. They face another equally difficult problem: how to organize information and disperse resources efficiently so that others can make important strides?
+
+At the start of the pandemic, hospitals around the world were bracing themselves for a surge of incoming patients. There was so much that needed to be organized, and it wasn't clear who should be doing what.
+
+The Stanford School of Medicine knew they had crucial knowledge that could help hospitals prepare. "When you have such a cross-functional and multi-disciplinary effort like this, every group doesn't always understand what the other group is doing, or each other's limitations," says Bryant Lin, Clinical Associate Professor of Medicine at Stanford.
+
+They wanted to share a handbook, but they needed a tool that could handle the complexity and allow a large team of people to easily edit over time.
+
+"We looked at a similar handbook on Google docs but it was essentially a bunch of links," says Dr. Lin. "Too overwhelming." Then a colleague recommended Notion.
+
+The team built the entire handbook in only a couple days. "We were able to implement our vision without a bunch of overhead or training," says Dr. Lin. "It was amazing." Using Notion's subpages, they built out personalized experiences for different hospital roles.
+
+"Hospital admin needs logistics and supply chain info. Management need to know how to operate a hospital during crisis. Clinicians need to know what therapies are working. We were able to build one central resource for all these people in Notion and structure the data in a logical way," says Donald Olgado, a design consultant who helped bring the handbook to life.
+
+Other healthcare teams have adopted Notion as an easy way to share resources. Public health organizations including Tulane University and the California Department of Public Health compiled a searchable database of 1,500+ research articles on COVID-19. Using Notion's customizable properties, they tagged each paper by topic, provided a URL to the full study, and included summaries.
+
+There's even a how-to guide with instructions for anyone using the database for the first time. The curated library has given many more researchers access to data they might not otherwise have known about.
+
+Volunteer groups are joining in too — To aid the COVID-19 relief efforts in India, Notion Ambassador Vensy Krishna created an app to collect info about blood banks, quarantine centers, and more in Hyderabad. She organized her team of thirty "in five days with no Zoom meetings" by hosting the project's mission control in Notion (download her free template).
+
+One less thing to worry about
+
+With Notion, these doctors and researchers were able to mobilize themselves and their resources when the world needed them most. But it's not just about being organized — Maia and her colleagues have been under a cloud of anxiety since the start of the pandemic.
+
+"A lot of my colleagues are struggling to keep up," she says. "Nobody feels like they're doing enough. There's always a little voice in my head asking, 'How many more lives are we going to lose because you didn't stretch yourself today?'"
+
+But that cloud seems to be lifting. "There's always more to do, always more unanswered questions. But being able to visualize all my work in Notion made me realize I have a lot on my plate right now, and I'm doing the best I can. It's so important for everybody's mental health to remember that."
+
+Illustration: Julianna Brion is an illustrator and painter based in Baltimore, Maryland.

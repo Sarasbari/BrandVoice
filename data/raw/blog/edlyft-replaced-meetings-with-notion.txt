@@ -1,0 +1,69 @@
+Title: How this early-stage startup Edlyft got rid of long meetings
+Published Date: 2021-06-28T12:00-07:00
+URL: https://www.notion.so/blog/edlyft-replaced-meetings-with-notion
+
+Time is of the essence for Erika and Arnelle, two co-founders who are racing toward the holy grail of startup success: product-market fit. Startups have limited runway, and they need to know — are they moving in the right direction? It's a question they need to answer not only for the sake of their users, but also to show their investors tangible progress.
+
+What they're trying to solve is a highly-visible but low-progress problem: the gender and diversity gap in STEM. Edlyft, their startup, is a personalized tutoring platform to help STEM students make it through their classes. The startup's already helped 300+ students across UCLA, UCB, and Howard, and they plan to expand to more schools in the fall.
+
+"The path to product-market fit is the number one thing that keeps us up at night," says Erika. "We make it a priority to document all our hypotheses, learn from the things that didn't work, and implement the things that did."
+
+"We're running a bunch of low-fidelity tests so that we only put our engineering time towards what we know will most benefit our users," says Erika.
+
+But coordinating so many tests in a short amount of time was generating an unwieldy amount of information and documentation. Erika and Arnelle found themselves stuck in meetings that would literally take up the whole day — and Google docs wasn't helping things.
+
+"We had so many different floating Google Docs links. I couldn't even remember what we had talked about in meetings or what important decisions we'd made." So Arnelle searched for a solution. "Arnelle is an operational genius," says Erika. "If she can make something more efficient, she will find a way to do that." She found Notion.
+
+They weren't sold on it right away. "I've used Google Docs for more than ten years," says Erika. "I didn't know what else there was beyond it!" But both of them came around to trying Notion after a friend from Y Combinator recommended it.
+
+"It became immediately clear that Notion could help us organize all our thoughts, all our decision processes, and allow us to iterate faster," says Erika.
+
+Now, their entire feature development process — from idea to launch — happens in Notion. With over 40 new features shipped and a team set to double in the next year, the company's running like a well-oiled machine.
+
+Daylong meetings turned into quick, decisive syncs
+
+Erika and Arnelle knew that a tight feedback loop between them was key — but having more in-person meetings wasn't working. "We'd rehash the same conversations," says Erika. "Our meetings would turn into all-day marathons because we were constantly looking through our email and Slack DMs for context on whether we'd done something already."
+
+Once they started documenting everything on Notion, meetings became much more efficient. "We're able to search for and reference a conversation in under five seconds," says Erika.
+
+She and Arnelle have adopted a tag-team approach to their work, switching between asynchronous and synchronous communication. "I'll write out a spec, then Arnelle will add comments later," says Erika. "By the time we get to our weekly meeting, we've both read the Notion doc and have the context already. We're capturing our learnings more productively instead of repeating things to each other."
+
+The meeting template helps Erika and Arnelle get more done in less time. "Our template drives our meetings because it tells us what our agenda should be," says Erika. If she and Arnelle want to review learnings from their latest test, they can embed their test database so they don't have to search for it.
+
+Having their meeting notes linked to their documentation means that they never have to wonder why they made a decision ever again. "Before, we'd send each other Google docs and write a long explanation about the decisions in the email. Now we barely send any internal email anymore. We just have a discussion in the Notion page, right next to the rest of the project information."
+
+Optimizing Edlyft's product-market fit process
+
+Every idea starts out promising. But Erika and Arnelle know that the fastest way to product-market fit is to put as many of them as possible through the wringer — that way only the best ones make it into their live product. First, though, they needed a way to keep track of all their ideas.
+
+"Before Notion, we'd throw an idea in a Google Doc or a Slack message, and we'd never find it again." Now they log them in a Notion database. Every idea has a status tag so that Erika and Arnelle know whether they've discussed it already.
+
+Once they've decided to move forward with an idea, they test it. To keep their process rigorous, Erika and Arnelle built a customized template to answer the fundamental questions: What's the core problem? What's the goal? Why will this test bring us closer to product-market fit? "Templates replaced our meetings," says Erika. "We could just write out the test proposal, tag each other, and review it on our time."
+
+When a test is finished, the owner updates the status. If a test is "closed lost," it's archived. If it's "closed won," it moves into production. But both are equally important. "The most vital part of these tests is capturing our learnings," says Erika. "It doesn't matter if something doesn't make it into the product. To me, these failures are important because it shows we're making progress."
+
+The final leg of the race also has the most moving pieces. Erika and Arnelle centralize their production pipeline in a Notion kanban board. Every feature has its own page, with all relevant info collected there. Engineering requirements live alongside meeting notes, and Figma mockups alongside tables of data. "It's like having a web that connects all our project info and processes," says Erika.
+
+Private spaces help these co-founders recalibrate
+
+Erika and Arnelle built an operating system to keep the company running. But that means nothing if they can't keep their heads above water.
+
+"Most days, we're buried in execution tasks," says Erika. "But it's our job as the leaders to make sure that we're in a good place, big picture-wise. And if I'm not feeling good, then my company's not going to either."
+
+The two of them needed a way to check in with each other to make sure they're focusing their time on the right priorities. So each of them built a private page in their Notion workspace for their eyes only.
+
+These pages suit their personalities — Erika keeps her personal goals at the top of the page and her weekly to-do list. Arnelle uses her space to draft long documents out and write notes. But both use this space to realign on how they're moving the company forward.
+
+"Whenever Arnelle and I had a low moment, we realized it was because one of three things wasn't happening: We weren't talking to our users enough, we felt our work wasn't valuable, or we weren't sure what we needed to be working on," says Erika.
+
+So she created an OKRs (Objective & Key Result) table to list all the high-level priorities for Edlyft. She and Arnelle use this list to gut check each other every Monday and make sure all their work is contributing to at least one of these bigger goals.
+
+Demystifying what it actually means to start a startup
+
+Everyone knows startup life is stressful — but it doesn't hit home until you're in it. "Arnelle and I are both wearing multiple hats," says Erika. "Besides the product development, we're managing marketing, sales, operations, and people ops. "And we're trying to do all of this as fast as possible."
+
+And there's no instruction manual. "We had no idea what we were doing at the beginning. But once we started operationalizing our processes in Notion, everything felt so much more manageable."
+
+Breaking down startup processes into feasible pieces isn't just for Erika and Arnelle's sake. "One of the core reasons we started Edlyft was to get more people in the door," says Erika. "Everything we do, we do it to encourage more underrepresented people to go into STEM, start startups, be leaders. We just want to make them feel a little less daunted by the challenges."
+
+Illustration: Josh Cochran is an illustrator and muralist based in Brooklyn.

@@ -1,0 +1,63 @@
+Title: What’s a corporate wiki, and why do you need one?
+Published Date: 2023-04-10T00:00-06:00
+URL: https://www.notion.so/blog/corporate-wiki
+
+If you’ve ever spent too much time searching for a document or had employees quote competing best practices for the same process, you know how frustrating poor information management can be. Scrambling for a doc or waiting to start a project because you need a question answered wastes everyone’s time, complicates communication cadences, and reduces productivity. A corporate wiki which centralizes information can ease these frustrations.
+
+What’s a corporate wiki?
+
+A corporate wiki is a centralized database for all your documents, including training materials, project roadmaps, and calendars, built in a virtual workspace like Notion. Each page inside the wiki is a living document that constantly evolves over time as different people contribute.
+
+Companies create this information hub so employees can find everything they need and quickly answer colleague or client questions. This style of file management also makes it easier to document policy changes and implement onboarding, among other benefits.
+
+Corporate wikis versus knowledge bases
+
+Corporate wikis and knowledge bases are similar in that they both involve storing documents in a central hub.
+
+But corporate wikis are open, collaborative platforms where team members can contribute and edit content. They often include a wide range of enterprise information, from procedures and policies to project plans and meeting notes. A company wiki’s main goal is to break down information silos and reduce the need to track down answers to process or workflow questions.
+
+Conversely, knowledge bases tend to be more structured and devoted to specific topics. By definition, knowledge bases provide a single source of truth outlined and curated by a designated subject matter expert. This person offers detailed answers to frequently asked questions relevant to a topic. So a company might have several knowledge bases, each for different products, services, or teams. Wikis are ideal for broad information sharing across an organization, while knowledge bases are best suited for providing quick access to specific information.
+
+Why you need a corporate wiki
+
+If you're looking to streamline your company's information management, here are six benefits of a corporate wiki for teams:
+
+Increases productivity — team members can easily find the information they need to complete their work without wasting time searching through multiple sources.Centralizes information — since you’re storing all this information in one place, everyone has access to the same documents, reducing misunderstandings and the mistakes that can result. Makes onboarding easier — new employees can access policy docs, company goals, and other important onboarding information from day one. This saves onboarding time and ensures new hires have the knowledge they need to start contributing as quickly as possible.Encourages collaboration — everyone can contribute to a company wiki, making it easier to share knowledge and collaborate on projects.Improves decision-making — teams can make informed decisions more quickly when everyone can access crucial information.Promotes accountability — employees are responsible for maintaining and updating the information that matters most to their own roles. This encourages ownership and responsibility among teams and individuals.
+
+Increases productivity — team members can easily find the information they need to complete their work without wasting time searching through multiple sources.
+
+Centralizes information — since you’re storing all this information in one place, everyone has access to the same documents, reducing misunderstandings and the mistakes that can result.
+
+Makes onboarding easier — new employees can access policy docs, company goals, and other important onboarding information from day one. This saves onboarding time and ensures new hires have the knowledge they need to start contributing as quickly as possible.
+
+Encourages collaboration — everyone can contribute to a company wiki, making it easier to share knowledge and collaborate on projects.
+
+Improves decision-making — teams can make informed decisions more quickly when everyone can access crucial information.
+
+Promotes accountability — employees are responsible for maintaining and updating the information that matters most to their own roles. This encourages ownership and responsibility among teams and individuals.
+
+What to look for in a corporate wiki platform
+
+You can use online tools to make a corporate wiki, but not all platforms are created equal. Here are some key features to look for:
+
+Easy navigation — your corporate wiki should be easy to navigate, with a clear hierarchy of categories and subcategories. That way, users can quickly find information and won’t need to loop in other team members to help in the search.Editing simplicity — corporate wikis with intuitive editing interfaces streamline the content creation and maintenance process, making it easy for even less technically proficient team members to update content and maintain the wiki.Effective search functionality — a robust search feature makes information easy to find, and smart search features like predictive text and the ability to offer related results based on an employee’s search terms make your wiki more usable.Great organization — the point of a corporate wiki is to create an organized central hub to house your documents. You should select corporate wiki software that enables you to create content that’s easy to read, structured, and consistent. Allows integrations — chances are, employees won’t create all the documents inside your wiki. Select a platform that allows you to integrate with other content creation software like Microsoft Word, communication tools like Slack, and customer relationship management (CRM) tools like Hubspot. You want to be able to easily bring business-critical applications into your wiki workflow.Customizable — every situation is different, and you need a corporate wiki that’s suited to your particular needs. You may want to include custom branding, for example, or unique permission levels. Try to work with a platform that lets you customize as many elements as possible. Offers analytics and reporting — keep tabs on how employees use your wiki to assess its performance. Focus on metrics like page views, user engagement, and search queries to identify improvement areas. This way, you can continually tweak your wiki so it fits your team and business.
+
+Easy navigation — your corporate wiki should be easy to navigate, with a clear hierarchy of categories and subcategories. That way, users can quickly find information and won’t need to loop in other team members to help in the search.
+
+Editing simplicity — corporate wikis with intuitive editing interfaces streamline the content creation and maintenance process, making it easy for even less technically proficient team members to update content and maintain the wiki.
+
+Effective search functionality — a robust search feature makes information easy to find, and smart search features like predictive text and the ability to offer related results based on an employee’s search terms make your wiki more usable.
+
+Great organization — the point of a corporate wiki is to create an organized central hub to house your documents. You should select corporate wiki software that enables you to create content that’s easy to read, structured, and consistent.
+
+Allows integrations — chances are, employees won’t create all the documents inside your wiki. Select a platform that allows you to integrate with other content creation software like Microsoft Word, communication tools like Slack, and customer relationship management (CRM) tools like Hubspot. You want to be able to easily bring business-critical applications into your wiki workflow.
+
+Customizable — every situation is different, and you need a corporate wiki that’s suited to your particular needs. You may want to include custom branding, for example, or unique permission levels. Try to work with a platform that lets you customize as many elements as possible.
+
+Offers analytics and reporting — keep tabs on how employees use your wiki to assess its performance. Focus on metrics like page views, user engagement, and search queries to identify improvement areas. This way, you can continually tweak your wiki so it fits your team and business.
+
+Kickstart your corporate wiki creation with Notion
+
+Corporate wikis help you create and maintain team and organizational docs in the same space. This allows you and your team to quickly surface information to effectively perform daily tasks.
+
+Ready to take your information management to the next level? Try Notion, the software that redefines “wiki.” Our powerful collaboration features and easy-to-use templates help you centralize all your company's knowledge in one connected workspace.

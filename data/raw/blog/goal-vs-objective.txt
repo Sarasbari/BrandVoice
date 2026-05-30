@@ -1,0 +1,103 @@
+Title: Goal versus objective: How do they work together?
+Published Date: 2023-08-15T00:00-06:00
+URL: https://www.notion.so/blog/goal-vs-objective
+
+Every goal has a finish line.
+
+Maybe you want to score a promotion at work or win an office step challenge to improve your health. When planning a project, you may aim to help the company earn more or boost its image. And when you set your sights on one of these goals — no matter its nature — you may think of it as an objective.
+
+While a thesaurus will tell you that goals and objectives are the same, a project planning guide would disagree. Understanding the nuances between goals versus objectives will help you plot work better by drawing a clear line between action items and your finish line.
+
+What’s a goal?
+
+A goal summarizes a benchmark a person, team, or organization wishes to achieve. Goals may be short term or long term, but they’re always clear and concise enough to provide purpose and direction. A short sentence or two should be enough to summarize.
+
+Here are some examples of professional goals:
+
+Boost sales by 5% in a year Increase Instagram engagement from 7% to 10% in six monthsCreate a new brand kit Migrate to a more efficient customer relationship management (CRM) tool Increase employee satisfaction rates by 15%
+
+Boost sales by 5% in a year
+
+Increase Instagram engagement from 7% to 10% in six months
+
+Create a new brand kit
+
+Migrate to a more efficient customer relationship management (CRM) tool
+
+Increase employee satisfaction rates by 15%
+
+What are objectives?
+
+Objectives are the steps you need to take in order to reach goals. They should contain measurable actions that act as checkpoints between your starting status and your finish line.
+
+Let’s say a company wants to increase its Instagram engagement in six months. That’s a goal. And creating 20 resonant new posts, running a monthly giveaway, or launching weekly Reels are that goal’s objectives. They’re like smaller to-dos that contribute to a larger idea.
+
+The difference between goals and objectives
+
+One of the most straightforward routes to understanding the difference between goals and objectives is to learn by example.
+
+Imagine a software team’s final goal is to launch a new app that helps local businesses find eco-friendly vendors in their area. The objectives within that goal could be to gather up-to-date market information, design a prototype, and conduct an A/B test. Those are all steps that contribute to the whole.
+
+If you’re not sure you’re correctly creating objectives, ask yourself if the statements describe actions you can perform, like testing for quality assurance or meeting with stakeholders. If the statements don’t feature actions, chances are they won’t work as objectives. They need to be specific and achievable.
+
+How do goals and objectives work together?
+
+Hit the drawing board with a plan to connect your goals to specific objectives. Here’s how to create a roadmap without unnecessary steps that bog you down:
+
+1. Set SMART goals
+
+Start from the top down by setting goals, and make them SMART — an acronym that stands for specific, measurable, achievable, relevant, and time-bound. That way you know they’re within reach. Make sure those goals align with the company’s mission, vision, and current priorities, so they stay relevant even if things change along the way.
+
+Only set a goal to boost your Instagram engagement if your company is focusing on growing its reach on social media. If you have other priorities, like increasing sales, set a goal specific to that endpoint instead, like selling out of a specific product before the end of the season.
+
+2. Set SMART objectives
+
+Breaking down your goals into individual steps will help you find your objectives. These should also be SMART. But unlike goals, objectives should describe individual actions, not their results.
+
+A measurable, time-bound objective could be to complete the design of 20 new Instagram posts in two weeks. Your team can easily track its progress by creating at least 10 posts within the first week. If you’re running behind, the objective likely isn’t achievable within the current time frame, and you’ll want to shift course to a new one.
+
+3. Make a plan
+
+After setting goals and listing the objectives that will fulfill them, break your action items into tasks and plot them with project planners and calendars. This will demonstrate whether you can complete tasks in the time frame you have in mind, or need to shift the scope of work.
+
+At this planning stage, you also need to consider the resources at your disposal. If staff members are busy on other projects and can’t lend much time to a new initiative, you may fall short on labor. And if your goal requires funding, you’ll seek it from the company or outside sources first.
+
+Once you know what you need and are on track to get it, use this time to document your planning process. Create a Gantt chart, Agile project management visuals like burnup and burndown charts, or a goal tracker to monitor progress — whatever works for your team.
+
+4. Monitor advances
+
+Now put your plan into action. Use goal-tracking tools to monitor advances and setbacks. If your team hits an obstacle, decide whether you’ll have the time and resources to circumvent the roadblock and still hit the goal, or if it’s best to shift the scope of work.
+
+3 goals and objectives examples in action
+
+Familiarizing yourself with example goals and objectives is a solid way to learn how to create your own. Use these three models as a guide:
+
+A development team wants to roll out a new app in six months — a software team with this goal could create objectives like deciding on aesthetic choices for the app, creating buttons, and testing the final product with potential users. The team could then break these objectives into smaller and smaller tasks and add them to the project backlog. A sales team wishes to boost leads using its CRM — a team trying to increase leads might assess demographic data and learn about its target market as some of its objectives. If the company finds that primarily young tech freelancers sign up for its newsletter, it can use this information to create more resonant content for those blasts, getting closer to the goal. A project manager wants a raise within the next year — someone aiming for a salary boost in the next 12 months could slate better quarterly performance reports as an objective, along with offering to take on more significant responsibilities. Since this goal spans a longer period of time, there’s lots of space for more objectives.
+
+A development team wants to roll out a new app in six months — a software team with this goal could create objectives like deciding on aesthetic choices for the app, creating buttons, and testing the final product with potential users. The team could then break these objectives into smaller and smaller tasks and add them to the project backlog.
+
+A sales team wishes to boost leads using its CRM — a team trying to increase leads might assess demographic data and learn about its target market as some of its objectives. If the company finds that primarily young tech freelancers sign up for its newsletter, it can use this information to create more resonant content for those blasts, getting closer to the goal.
+
+A project manager wants a raise within the next year — someone aiming for a salary boost in the next 12 months could slate better quarterly performance reports as an objective, along with offering to take on more significant responsibilities. Since this goal spans a longer period of time, there’s lots of space for more objectives.
+
+Measuring goals and objectives: OKRs and KPIs
+
+A critical factor in setting goals that work is monitoring success metrics. Objectives and key results (OKRs) and key performance indicators (KPIs) are essential tools that teams use to measure advances.
+
+OKRs
+
+OKRs focus on the outcomes a team must successfully achieve in order to complete an action item. Despite the name, an OKR can help with planning and execution processes for anything, not just end goals. Companies even use them to track work toward long-term, wide-spanning ambitions.
+
+However a team employs them, OKRs connect measurable results to desired outcomes. If the objective is to gain followers on your LinkedIn page, key results could be creating a new post every day and earning at least 100 likes on each one.
+
+KPIs
+
+KPIs represent the tangible metrics that help teams visualize progress toward project milestones. The difference between KPIs and OKRs is that the former aim to track how you’re doing rather than remind you of the finish line.
+
+A KPI for a marketing team working to boost engagement could be the number of new followers, likes, or shares their content gains per week. This KPI isn’t about setting an objective, but making sure the numbers hit the objectives you’ve already set. These indicators show the team whether their efforts are tracking upward. If the company’s follower count is booming, this indicates a positive change in the direction of the goal.
+
+Set goals and plan objectives with Notion
+
+No project is successful without thoughtful goal-setting and planning. Guide your process with Notion’s wealth of guides and templates.
+
+Learn how to set goals, use Notion’s SMART goals tracker to stay on course, and read up on goal-setting theory to understand the power of achieving what you set out to. Your team can track every step in Notion’s connected workspace.

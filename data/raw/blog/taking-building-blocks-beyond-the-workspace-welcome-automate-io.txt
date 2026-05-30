@@ -1,0 +1,15 @@
+Title: Notion Acquires Automate.io for Enhanced Automation & Integration
+Published Date: 2021-09-08T06:00-08:00
+URL: https://www.notion.so/blog/taking-building-blocks-beyond-the-workspace-welcome-automate-io
+
+Notion continues to grow around the world, with millions of individuals and teams building their own workflows. As always, our vision is to give you the building blocks to have everything you need in one place. A big part of this is connecting Notion with every other tool and system you use, so you can streamline, automate, and centralize your everyday work.
+
+Today, we're taking a big leap towards that reality: we're acquiring Automate.io, a company that has spent the last 5 years building connectivity and integrations for 200+ other software tools.
+
+With Automate, we're accelerating our strategy to build high-quality, native integrations for teams and businesses, while also shipping features for all the developers building on top of Notion. The timing couldn't be more apt. The average company today uses 88 different apps to do their work — we want to bring as much of that as we can into one spot, so you and your team can stop context switching, running into silos, and duplicating work in this challenging, hybrid world of ours.
+
+Since launching our API earlier this year, we've been in awe watching our community build ambitious and powerful workflows with it. We've also worked with incredible platform partners like Zapier and IFTTT, and seen them build far beyond our imagination — expanding access to thousands of integrations for every kind of Notion user. We plan to continue these efforts and work more closely with our partners to keep up with customers' changing needs.
+
+There's some organizational news to share, too. Joining forces with Automate makes Hyderabad, India the location of our fifth Notion office — along with Dublin, Tokyo, New York, and San Francisco. It'll also be our first engineering center outside the U.S., where we plan to grow a talented technical team over the next several years.
+
+By bringing Automate into the Notion fold, we're excited to support everyone, from tinkerers to Fortune 500s, with the integrations you need to stay in flow, while enabling what makes Notion different — the unstoppable creativity of our global community.

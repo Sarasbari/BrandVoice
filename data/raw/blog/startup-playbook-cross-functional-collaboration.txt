@@ -1,0 +1,121 @@
+Title: The startup playbook for cross functional collaboration
+Published Date: 2021-05-18T14:00-06:00
+URL: https://www.notion.so/blog/startup-playbook-cross-functional-collaboration
+
+Until their companies reach a certain stage of growth, startup teams often don’t have project managers (PMs) — so cross functional collaboration is essential. But it takes some work to build up these muscles for your team. A study cited in Harvard Business Review found that 75% of cross functional teams are dysfunctional. You need a system and process to set your cross functional teams up for success, like a gym routine to build those cross functional muscles. Without this approach, teams don’t have clarity into their work, leading to balls dropped on their projects.Here, we’ll explain what cross functional collaboration is, why it’s important, and how you can execute it — whether your startup is a team of 10 or a team of 100.
+
+What is cross functional collaboration?
+
+Cross functional collaboration enables team members from different teams to work together on a shared project or a common goal.
+
+Why cross functional collaboration is important for startups
+
+A startup’s biggest advantage is its ability to move quickly. Its biggest disadvantage? Limited resources. Cross functional collaboration permits startup teams to efficiently collaborate and ship projects without much overhead.Teams that don’t implement effective cross functional collaboration can run into multiple challenges like:
+
+Unclear goals and deadlines — when these aren’t established at a project’s outset, cross functional teams can lose sight of where they’re headed and when they need to get there.Lack of communication between teams — if teams aren’t effectively communicating with each other about what’s going on internally, including higher priority initiatives or a team reshuffle, then silos crop up and create ambiguity among teams working on a cross functional project.A constant, vicious cycle — teams that have had poor experiences with past cross functional projects are less likely to come in with the right knowledge and experience required for the next one.
+
+Unclear goals and deadlines — when these aren’t established at a project’s outset, cross functional teams can lose sight of where they’re headed and when they need to get there.
+
+Lack of communication between teams — if teams aren’t effectively communicating with each other about what’s going on internally, including higher priority initiatives or a team reshuffle, then silos crop up and create ambiguity among teams working on a cross functional project.
+
+A constant, vicious cycle — teams that have had poor experiences with past cross functional projects are less likely to come in with the right knowledge and experience required for the next one.
+
+On the other hand, cross functional collaboration helps startups to:
+
+Break down silos — broken down silos lead to higher synergy for teams, enabling them to progress faster.Share knowledge across teams — best practices in each team are shared when they collaborate. Every team levels up as a result.Foster unity around a shared mission — shared projects rally team members and increase their engagement toward meeting their startup’s goals.Create a repeatable virtuous cycle — successful cross functional projects compound and enable startup teams to be more ambitious in the future as they scale.
+
+Break down silos — broken down silos lead to higher synergy for teams, enabling them to progress faster.
+
+Share knowledge across teams — best practices in each team are shared when they collaborate. Every team levels up as a result.
+
+Foster unity around a shared mission — shared projects rally team members and increase their engagement toward meeting their startup’s goals.
+
+Create a repeatable virtuous cycle — successful cross functional projects compound and enable startup teams to be more ambitious in the future as they scale.
+
+Examples of cross functional collaboration in action
+
+As a startup team member, you frequently engage in cross functional collaboration with multiple teams. If you’re working on building a new feature for your startup’s software, think about the teams that collaborate to make it happen. UX conducts research with customers. Design then takes that research and uses it to create mocks of the feature. Then you need engineering to build it, marketing to promote it, and product to run a retro on the entire process. This type of project requires teams to work together to hit deadlines, run a process correctly, and deliver value to users. And without a PM? All the project management work is handled by the individual teams — on top of the work to actually build and ship the feature. It usually takes a few cycles to get the communication and management right.Engineering collaboration platform CoScreen is a company that has figured out the right blend of communication and management in its cross functional projects. Their weekly UX checkpoint is an example of how its product, design, and engineering teams collaborate on new features and specs in their platform. “The product team presents the latest requirements and features specs on Notion and Clubhouse, and in parallel using CoScreen, the designers show their work to make sure everyone is on the same page,” says CoScreen CEO Till Pieper. “Last but not least, the front-end developer shares the latest prototype and adjusts it on the fly based on the input and tweaks by the cross functional team members.
+
+“What would have taken us hours to sort out asynchronously across three different functions gets done in what’s probably the most productive hour every week just through cross functional collaboration.”
+
+With the recently launched Notion API, developers can connect Notion with the other tools that their teams use. “From the start of the project, launching Notion’s API was an effort in cross functional collaboration,” says Cristina Cordova, Head of Platform & Partnerships. “Obviously, the product team worked together to build the API. But we also had to arm the customer experience team to answer questions about it and the marketing team to communicate its benefits. At the core of the project were the people working together to make it happen.”
+
+How early-stage startups enable cross functional collaboration
+
+When your startup is small, fewer people are working on projects, making it easier to facilitate cross functional collaboration. However, it’s important to build the right systems early on to ensure that these projects stay on track.
+
+Set clear goals and deadlines for cross functional projects
+
+When team members know what needs to get done and by when, they’ll be empowered to design a plan of action to get there. “Be clear about results and objectives, and ownership around projects,” says Robin Nichols, Managing Editor at 360Learning. “Don’t leave anyone guessing as to who is accountable for what, or who might be a bottleneck for a project to move forward.”Notion’s Timeline view enables you to visually map each phase of your project so that each team has a clear sense of the work required of them and the time they have to get it done.
+
+Establish roles and responsibilities for team members early
+
+Startup employees wear multiple hats and are often dragged in different directions depending on the need of the hour. Setting clear roles and responsibilities early on prevents any one team member from taking on too much and keeps everyone accountable from the get-go.One framework you can use to assign roles and responsibilities is the RACI (Responsible, Accountable, Consulted, Informed) framework. It gives transparency to cross functional projects when they begin so that everyone has a clear understanding of who’s working on what every step of the way. Here's an article that has a step-by-step process to build your own RACI matrix in Notion.
+
+Encourage team members to build strong relationships
+
+Strong relationships are the foundation of strong collaboration, and they help team members to understand what their colleagues need to do their jobs efficiently. Tina Chen, Product Design Manager at Slack, has a list of questions she asks engineers she’s working with on a project to establish a strong cross functional relationship early on:
+
+When and how will we share design work?What design decisions should be made first?What decisions are difficult to change later on?How can we give craft and polish feedback?When will early builds be available?How can we file and track design bugs?
+
+When and how will we share design work?
+
+What design decisions should be made first?
+
+What decisions are difficult to change later on?
+
+How can we give craft and polish feedback?
+
+When will early builds be available?
+
+How can we file and track design bugs?
+
+By asking these workflow and process questions, Tina can optimize how she works on a cross functional project to accommodate engineering requirements. The questions are designed to bring everyone’s needs to the forefront and establish transparency in the team that’ll tackle these projects. When everything’s on the table, teams work better together.When you’re in the thick of project planning, scheduling meetings, and prioritizing your other work to make space for your cross functional projects, it’s easy to forget to spend time asking meta-questions about workflow and focus only on the work at hand. One way you can avoid making this mistake is by creating a reusable project kickoff meeting template that covers the essential tasks you need to kick off a project successfully.
+
+Record notes and updates to keep everyone on the same page
+
+With multiple teams sharing updates on their progress in cross functional project meetings, robust meeting notes are essential to ensure that nothing falls through the cracks and the project is completed on time. This is especially important in situations when teams are distributed. Notes can bring team members up to speed asynchronously, saving time for everyone in remote and in-person work settings. One way to never miss anything across all the projects you’re working on is to connect a homepage for your project with all the meeting notes about that project. This brings clarity in discussions, decisions, and everything else that happens in a meeting, which might impact a project.In Notion, you can do this by connecting your roadmap with your meeting notes using relations. You can add a Relation property to your meeting notes document, connect it to your projects database, and link the relevant project. This way, every time you open your project pages, all your relevant meeting notes are instantly available to you. Here’s a short five-minute video that shows how you can do that:
+
+When you build the right systems for your cross functional projects, they can scale with you as you grow in size.
+
+How growing startups enable cross functional collaboration
+
+As your startup grows, cross functional collaboration is as much about people management as it is about information and project management. Here’s how you can set your people up for success with their cross functional projects.
+
+Get executive buy-in to emphasize the project's importance
+
+Executive buy-in at the start of a cross functional project can help team members see its importance early on. Past research shows that cross functional projects with a single high-level executive champion had a 76% success rate. Projects with only moderate governance support had a 19% success rate.Some ways that organizations can signal executive buy-in are:
+
+Attending the kickoff call — an executive can attend a project’s kickoff call to speak directly to the team members about the bigger picture of how the project ties into the company goals and what its key objectives are. Approving adequate resources — every project needs an ideal budget and resources to be executed successfully. When an executive approves these resources, it signals their buy-in for a project. Check-ins at project milestones — it’s important for executives to signal their buy-in during the project so that team members know that they are still invested in the project’s success, and their priorities haven’t changed. Executives can signal that by attending project milestone meetings.
+
+Attending the kickoff call — an executive can attend a project’s kickoff call to speak directly to the team members about the bigger picture of how the project ties into the company goals and what its key objectives are.
+
+Approving adequate resources — every project needs an ideal budget and resources to be executed successfully. When an executive approves these resources, it signals their buy-in for a project.
+
+Check-ins at project milestones — it’s important for executives to signal their buy-in during the project so that team members know that they are still invested in the project’s success, and their priorities haven’t changed. Executives can signal that by attending project milestone meetings.
+
+Establish a leader who sees the project through from start to finish
+
+A project leader, sometimes referred to as the Directly Responsible Individual (DRI), manages the project, makes adjustments to the project plan based on inputs from each team, and ensures that team members are on track to complete their respective tasks. Without a DRI, it’s hard for multiple teams to stay organized and in sync with the project’s needs.If you’re using Notion to run projects, you can tag the DRI in the project page. That way, there’s clarity for the DRI and the rest of the team — they know who to ask questions. You can also use the @ symbol to tag them for more specific feedback, like messaging for a product announcement.
+
+Align incentives to ensure the project's success
+
+When you link incentives — like compensation and performance reviews for team members working on cross functional projects — to the success of the project, you increase the likelihood that the project will get completed on time. With everything going on at a startup, teams are often juggling many projects at once, so incentives help align and prioritize what’s important to do now — and why.There are two paths you can take when you design incentives for cross functional teams:
+
+Function-based incentives — where incentives are linked to a team member’s function within a project and the level of effort required on a particular project. Team-based incentives — where incentives are linked to the cross functional team as a whole.
+
+Function-based incentives — where incentives are linked to a team member’s function within a project and the level of effort required on a particular project.
+
+Team-based incentives — where incentives are linked to the cross functional team as a whole.
+
+The path you choose changes depending on your cross functional project. Scholar Jeremy Hutchison-Krupat explains which paths work better for which cross functional projects in his study “Incentive design for cross-functional teams: Putting the pieces together”:
+
+Team-based incentives are better suited for higher-risk projects because teams reduce their levels of effort to accommodate the higher risk. This approach also empowers startups to make smaller bets on riskier projects.Function-based incentives are better suited for projects with greater functional disparity, i.e., in projects where one function has much more work to do than another. For example, an app flow redesign that uses existing components might require more work from the design team and less work from the engineering team.
+
+Team-based incentives are better suited for higher-risk projects because teams reduce their levels of effort to accommodate the higher risk. This approach also empowers startups to make smaller bets on riskier projects.
+
+Function-based incentives are better suited for projects with greater functional disparity, i.e., in projects where one function has much more work to do than another. For example, an app flow redesign that uses existing components might require more work from the design team and less work from the engineering team.
+
+Embed cross functional collaboration systems across your startup
+
+Every cross functional project is different — different requirements, goals, teammates, execution strategies, workflows, and more. So no matter your company’s size (even if you’ve done many cross functional projects in the past!), it can be hard to nail down the best process for the project at hand.Strategy experts Paul Leinwand, Cesare Mainardi, and Art Kleiner advocate for companies to set up permanent cross functional teams to increase their chances of success. While that approach might not make sense for everyone, systems that facilitate continuous cross functional collaboration provide a more approachable path that’s easier for startups to implement.Codecademy does exactly that. It uses Notion to embed system-based cross functional collaboration across its organization. One example of this is its Metrics Dictionary wiki page, where team members from every department define their KPIs and metrics so that their co-workers in different departments can understand them.  Kip Price, Codecademy’s Director of Engineering, says, “We use Notion as a way to rally around what we want to get out of a particular project and to drive teamwork.”Looking to build cross functional collaboration systems in your startup? Get started with our roadmap template right here.

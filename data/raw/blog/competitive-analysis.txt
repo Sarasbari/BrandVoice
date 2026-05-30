@@ -1,0 +1,85 @@
+Title: Competitive analysis: Everything you need to know
+Published Date: 2023-09-28T00:00-03:00
+URL: https://www.notion.so/blog/competitive-analysis
+
+Making the hands-down best product in the market is an admirable goal, but it's often unrealistic.
+
+No matter how much research you put into polishing your projects, competitors are always waiting, watching, and ready to pounce when they see an opportunity to one-up other companies — including yours. Leaders who ignore what their rivals are up to may wake up one morning to find their once-dominant market position on a steady decline.
+
+Project managers should frequently run competitive analysis reports to prevent competitors from gaining ground and gobbling up more market share. Let’s explore the benefits of competitive market analysis and the basics of constructing an effective competitor analysis framework.
+
+What’s competitive analysis?
+
+Competitive analysis is a business tactic used to identify competing companies and evaluate their marketing techniques to generate ideas and strengthen your brand's position.
+
+Teams often use spreadsheet templates to organize key data points on their competitors — including consumer personas, revenue, and location — and contrast this information with internal reports and industry-wide metrics. Companies typically leverage competitive analysis to gain a high-level view of multiple competitors, but they may also concentrate on a few significant rivals in more detailed reports.
+
+A competitive analysis often arranges companies in one of three categories depending on their threat level:
+
+Direct — direct competitors are the easiest to identify since these businesses offer similar products or services and target your consumer base. For example, direct competitors to a café chain like Starbucks also offer handcrafted beverages — with a heavy emphasis on coffee — as well as light snacks and sweets (think Tim Hortons or Dunkin' Donuts). Indirect — indirect competitors sell or specialize in different products, but they operate in your company's business category and focus on the same audience. For instance, fast-food burger chains like McDonald's or Wendy's aren't associated with Starbucks' café niche, but they also offer ways for customers to quickly and conveniently pick up food and beverages. Replacement — also called "substitute" or "phantom" competitors, a replacement competitor is any business in a different product category that still offers a solution to a customer's primary problem. For example, if a gas station offers grab-and-go coffee and pastries, it gives Starbucks customers a competing option to satisfy their cravings for a caffeinated beverage and snack. Packaged coffee products in the grocery store could also be a substitute competitor to Starbucks' business model. Because the category is rather broad, companies often have the most challenging time identifying and quantifying the impact of replacement competitors.
+
+Direct — direct competitors are the easiest to identify since these businesses offer similar products or services and target your consumer base. For example, direct competitors to a café chain like Starbucks also offer handcrafted beverages — with a heavy emphasis on coffee — as well as light snacks and sweets (think Tim Hortons or Dunkin' Donuts).
+
+Indirect — indirect competitors sell or specialize in different products, but they operate in your company's business category and focus on the same audience. For instance, fast-food burger chains like McDonald's or Wendy's aren't associated with Starbucks' café niche, but they also offer ways for customers to quickly and conveniently pick up food and beverages.
+
+Replacement — also called "substitute" or "phantom" competitors, a replacement competitor is any business in a different product category that still offers a solution to a customer's primary problem. For example, if a gas station offers grab-and-go coffee and pastries, it gives Starbucks customers a competing option to satisfy their cravings for a caffeinated beverage and snack. Packaged coffee products in the grocery store could also be a substitute competitor to Starbucks' business model. Because the category is rather broad, companies often have the most challenging time identifying and quantifying the impact of replacement competitors.
+
+Why conduct market competition analysis?
+
+Conducting competitive analysis is far more than just “spying” on rival companies to figure out their secret recipe for success. The data from these analyses can help your business better understand its current market position and inform your strategies to achieve dominance in the upcoming quarters.
+
+Here are a few more reasons you should consider running a competitive analysis:
+
+Identify strengths and weaknesses — some of the most influential findings from a competitor analysis appear after identifying and contrasting strengths and weaknesses between your company and its competitors. Knowing what's going right and wrong for others can help the team spot their most significant threats, advantages, and vulnerabilities.   Generate ideas for new business tactics — the information you gather from a competitive analysis reveals business challenges and opportunities, which empower your team members to brainstorm effective marketing strategies that play to your strengths. A competitive analysis report also encourages you to see problems from a different perspective and determine the most pressing priorities.  Establish measurable benchmarks — because competitive analysis is a comparison tool, it highlights your team's position relative to peers in terms of brand recognition, size, and market penetration. Knowing where other companies stand provides a benchmark to measure future growth and track the success of new initiatives. Visualize industry trends — after scanning multiple competitors, you may notice broad trends in your industry that reveal actionable information about consumer behavior or shifts in the marketing landscape. Whether your company opts to join a new trend or take a counter-approach is up to you, but recognizing these patterns is key to making informed operational and marketing decisions.
+
+Identify strengths and weaknesses — some of the most influential findings from a competitor analysis appear after identifying and contrasting strengths and weaknesses between your company and its competitors. Knowing what's going right and wrong for others can help the team spot their most significant threats, advantages, and vulnerabilities.
+
+Generate ideas for new business tactics — the information you gather from a competitive analysis reveals business challenges and opportunities, which empower your team members to brainstorm effective marketing strategies that play to your strengths. A competitive analysis report also encourages you to see problems from a different perspective and determine the most pressing priorities.
+
+Establish measurable benchmarks — because competitive analysis is a comparison tool, it highlights your team's position relative to peers in terms of brand recognition, size, and market penetration. Knowing where other companies stand provides a benchmark to measure future growth and track the success of new initiatives.
+
+Visualize industry trends — after scanning multiple competitors, you may notice broad trends in your industry that reveal actionable information about consumer behavior or shifts in the marketing landscape. Whether your company opts to join a new trend or take a counter-approach is up to you, but recognizing these patterns is key to making informed operational and marketing decisions.
+
+How to do a competitive analysis: A 5-step strategy
+
+Without a coherent framework for recognizing worthwhile information, it's easy to feel overwhelmed during the data collection process.
+
+Before scoping out competitors for details, ensure you have a clear system in place to make sense of all this information. We suggest this five-step strategy for competitive analysis:
+
+1. Identify and classify competing companies
+
+The first step in any competitive analysis is to determine key competitors and choose which ones to include in your study.
+
+Although you may already have a shortlist of rivals you want to explore, see if any unexpected names pop up after a quick Google search for alternative brands. It's also helpful to review survey data from existing customers about companies they view as competitors and their opinions on these businesses.
+
+Online forums, social media pages, and review sites may also contain noteworthy information about competitors worth adding to your analysis. For optimal diversity, try to include companies of various sizes and stages of development in the direct, indirect, and replacement categories.
+
+2. Organize data in a competitor analysis template
+
+After selecting the companies to include in your competitor analysis, it's time to arrange them in a grid alongside the major metrics you intend to review (such as average revenue, company size, and brand awareness).
+
+Sometimes called a “competitor matrix,” these templates typically use spreadsheets or tables for clean organization and easy scannability. This format also encourages teams to keep their comments as concise and direct as possible, usually in bullet point format.
+
+3. Gather information on competing companies
+
+To avoid information overload, encourage team members to focus on the four Ps of marketing — product, price, promotion, and place — and make the most of their search time. These four elements give an overview of a competitor's core offerings, as well as the amount people pay for a product or service, standard marketing practices, and geographical penetration.
+
+Start by reviewing a company's website, social media feeds, and press releases to find official data on the brand's identity and size. It can also be helpful to review sites like LinkedIn or Glassdoor to get a sense of the organization’s revenue and employee pool. And don’t forget to check out third-party review sites like TrustPilot to see unbiased opinions about the competitor's offerings.
+
+4. Develop target customer personas
+
+Once you have a clear picture of each competitor's history, market position, and primary offerings, develop customer personas and see whether there are any significant differences between them and your target audience.
+
+Pay careful attention to the company's official mission statement, social media campaigns, and customer spotlights when imagining the consumers a competitor likely has in mind. These consumer insights can add clarity to customer campaigns and spark fresh ideas for distinguishing your product strategies from similar brands.
+
+5. Perform a SWOT analysis
+
+A SWOT analysis — short for strengths, weaknesses, opportunities, and threats — can help your team make actionable use of the competitor data.
+
+In this final stage, discuss all of the data points listed in the competitive analysis grid and determine whether they have a positive, neutral, or negative impact on your company. Throughout this process, you may notice the significant vulnerabilities in your current model and the advantages you have over the competition. This insight can empower you to explore business tactics that maintain and strengthen your position.
+
+Organize competitor insights with Notion's templates
+
+Thanks to Notion's library of templates, there's no need to squander time organizing spreadsheets when building your competitor analysis.
+
+Our pre-built competitor analysis template comes complete with fields for managing and assessing the strengths and weaknesses of your products versus multiple competing firms. After filling out and sharing this document, your team can easily understand the brand's position and opportunities for future growth.

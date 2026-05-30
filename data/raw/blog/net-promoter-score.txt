@@ -1,0 +1,95 @@
+Title: Keep a close eye on customer loyalty using a net promoter score
+Published Date: 2023-10-18T00:00-03:00
+URL: https://www.notion.so/blog/net-promoter-score
+
+Positive word-of-mouth is a powerful advertisement. The more customers actively promoting your company, the higher your traffic soars and the less effort you need to spend on marketing.
+
+Although customer referrals benefit your company's growth, they can be tricky to analyze and factor into a business strategy. Even if consumers say they're loyal fans, they're not all actively promoting your products online — so you have to dig deeper for customer satisfaction data.
+
+One tool for quantifying word-of-mouth marketing is the net promoter score (NPS). Incorporating a net promoter score into your strategy provides a better sense of consumer sentiment and warning signs of customer churn (the number or percentage of lost clients in a certain timeframe).
+
+Learn how to determine your NPS and use it in your surveys for insights into market trends, consumer satisfaction, and brand perception.
+
+What’s a net promoter score in business?
+
+NPS is a number between -110–100 representing how many customers will likely recommend your company's products or services. Similar to metrics like the customer satisfaction score calculation (CSAT), an NPS gives a read on positive feedback for your brand.
+
+To determine an NPS value, companies send a questionnaire asking customers to rate their chances of recommending a product or service to others on a scale of 0–10. After collecting enough replies, businesses organize rankings into three categories:
+
+Promoters — anyone who gives a score between 9–10 is most likely to be an enthusiastic supporter of a company. Passives — passive replies give scores of 7–8 and aren't considered significant cheerleaders or critics. Detractors — ratings between 0–6 put respondents in the detractor camp, which serves as a warning sign of negative feedback.
+
+Promoters — anyone who gives a score between 9–10 is most likely to be an enthusiastic supporter of a company.
+
+Passives — passive replies give scores of 7–8 and aren't considered significant cheerleaders or critics.
+
+Detractors — ratings between 0–6 put respondents in the detractor camp, which serves as a warning sign of negative feedback.
+
+With this information, you can determine the percentage of promoters versus detractors and subtract these values to find your NPS.
+
+As companies build a record of average NPS values, it's easier to monitor customer satisfaction trends and ensure these numbers remain steady or consistently rise. If NPS reports start trending down, companies must reevaluate operations like quality control standards, productivity rates, and customer relations to prevent churn and reputational damage.
+
+How to calculate your net promoter score
+
+To figure out your current NPS, send surveys asking customers how likely they are to recommend your company to others on a scale of 0–10. The target sample size for your NPS survey depends on your available budget, total addressable market, and the specific product or service you're assessing. While larger survey pools have lower margins of error, results from a smaller, targeted group may more realistically reflect your typical customer’s opinion.
+
+When you’ve gathered enough responses for your needs, you’ll determine the percentages of promoters, passives, and detractors. Start by dividing the numbers of each group by the total number of participants. Then subtract the percentage of promoters from the detractors to arrive at the NPS.
+
+Suppose you're calculating the NPS for a survey of 2,500 people with the following scores:
+
+1,250 promoters750 passives500 detractors
+
+1,250 promoters
+
+750 passives
+
+500 detractors
+
+In this case, 50% of responders are promoters, and 20% are detractors. When you subtract the detractor value (20) from the promoters (50), you land on an NPS value of 30.
+
+Benefits of using the net promoter score formula
+
+An NPS is one of the simplest standardized customer-centric metrics to calculate, and it provides a wealth of information on market sentiment. The more regularly you collect NPS from your target audience, the better equipped you are to develop data-driven strategies to keep customers satisfied, leading to optimal customer retention, growth, and engagement. Using NPSs also benefits your team by:
+
+Offering ease-of-use — running a comprehensive NPS analysis doesn't take advanced data analytics departments or expensive software programs. As long as you have enough survey data, it only takes a few minutes to calculate these metrics that highlight actionable consumer insights. Providing a benchmark for customer service — as you continue to collect NPS survey results, you gain a baseline of comparison for current business operations. These valuable trends show whether customers react positively or negatively to new initiatives and inform how to best adjust your strategy. Detecting warning signs of customer churn — declining NPS results is a major indication that something is wrong with your customer experience or product deliveries. If these numbers fall, analyze the results with your team and develop ways to regain customer trust. Inviting customer feedback — often, NPS surveys allow customers to explain the reasons behind their 0–10 rating. These details provide more insight into a company’s strengths and weaknesses, especially if the same responses constantly appear.
+
+Offering ease-of-use — running a comprehensive NPS analysis doesn't take advanced data analytics departments or expensive software programs. As long as you have enough survey data, it only takes a few minutes to calculate these metrics that highlight actionable consumer insights.
+
+Providing a benchmark for customer service — as you continue to collect NPS survey results, you gain a baseline of comparison for current business operations. These valuable trends show whether customers react positively or negatively to new initiatives and inform how to best adjust your strategy.
+
+Detecting warning signs of customer churn — declining NPS results is a major indication that something is wrong with your customer experience or product deliveries. If these numbers fall, analyze the results with your team and develop ways to regain customer trust.
+
+Inviting customer feedback — often, NPS surveys allow customers to explain the reasons behind their 0–10 rating. These details provide more insight into a company’s strengths and weaknesses, especially if the same responses constantly appear.
+
+When you’ve determined what to target with your surveys and begin to create them, look to tools like Notion’s NPS template to simplify the process.
+
+What's a good net promoter score?
+
+Determining a strong NPS report depends on dozens of factors, including your company's historical performance, competitors' estimated NPS, and industry's NPS benchmark.
+
+But generally, companies strive to keep their NPS out of negative territory. Scores below zero suggest considerable detractors are spreading bad word-of-mouth. And NPS values above 50 are typically considered strong results, but that doesn't mean scores between 0–49 are bad. As long as businesses climb out of the negative territory and work to improve their positive NPS ranking, they're in a solid position for growth.
+
+Relationship versus transactional net promoter scores
+
+NPS typically falls into two categories — relationship and transactional — depending on the type of customer you're targeting.
+
+In a relationship NPS campaign, companies periodically send surveys to established customers to monitor brand loyalty and sentiment over a long duration. Relationship NPS surveys give companies an indication of their overall market share and provide warning signs of customer churn.
+
+Transactional NPS measures sentiment after a significant event in the customer experience, like when a customer makes a first purchase or calls a customer care representative. While transactional NPS surveys use the same scale calculation, they're more focused on evaluating the efficacy of business touchpoints and analyzing customer conversion rates. These rates provide information about specific interactions in the customer journey and reveal potential areas of friction or missed sales opportunities.
+
+Tips for increasing your score
+
+Rising NPS numbers suggest you're building stronger ties with your target audience, which is excellent news for your brand's visibility, reputation, and market dominance. Companies have developed many techniques to ensure their scores rise over time, like these common strategies:
+
+Include an open-ended question — providing a written feedback section isn't necessary in NPS surveys, but it's an easy way to collect details of good and not-so-good brand perceptions. Notice if any responses in these sections continue to crop up, and factor them into your customer relationship strategy. Reach out to detractors — learn why unhappy customers turn into critics with an apology email and follow-up survey. Pay attention to the themes in these messages, convey empathy with the customer’s situation, and offer targeted solutions to resolve conflicts, prompting respondents to reconsider their stance. Encourage promoters — build stronger ties with people who already promote your brand using tactics like special sales, insider access to new products, and referral rewards. Also, consider creating a pre-written ad and asking promoters to copy and paste this endorsement to their social media feeds for free advertising. Consider competitive analysis — when researching rivals in a competitive analysis, consider the unique features you offer and additional opportunities to solidify your value proposition. You can also comb through relevant social media for any customer reviews to see how people perceive your company versus others. Use this data to create targeted messaging and marketing campaigns that differentiate your brand and raise your NPS.
+
+Include an open-ended question — providing a written feedback section isn't necessary in NPS surveys, but it's an easy way to collect details of good and not-so-good brand perceptions. Notice if any responses in these sections continue to crop up, and factor them into your customer relationship strategy.
+
+Reach out to detractors — learn why unhappy customers turn into critics with an apology email and follow-up survey. Pay attention to the themes in these messages, convey empathy with the customer’s situation, and offer targeted solutions to resolve conflicts, prompting respondents to reconsider their stance.
+
+Encourage promoters — build stronger ties with people who already promote your brand using tactics like special sales, insider access to new products, and referral rewards. Also, consider creating a pre-written ad and asking promoters to copy and paste this endorsement to their social media feeds for free advertising.
+
+Consider competitive analysis — when researching rivals in a competitive analysis, consider the unique features you offer and additional opportunities to solidify your value proposition. You can also comb through relevant social media for any customer reviews to see how people perceive your company versus others. Use this data to create targeted messaging and marketing campaigns that differentiate your brand and raise your NPS.
+
+Calculate net promoter scores with Notion templates
+
+NPS is a straightforward but highly valuable metric to incorporate into your customer service research. For help analyzing trends and creating NPS surveys, consider using Notion templates to share, calculate, and organize this information. With Notion on your side, you'll have an easier time monitoring consumer data and brainstorming the best ways to bolster the customer experience.

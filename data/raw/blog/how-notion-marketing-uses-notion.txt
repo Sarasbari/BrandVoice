@@ -1,0 +1,119 @@
+Title: How Notion Marketing Uses Notion
+Published Date: 2023-10-03T00:00-07:00
+URL: https://www.notion.so/blog/how-notion-marketing-uses-notion
+
+Notion’s Marketing team intersects with just about every other team at the company. Product Marketing works with Engineering to launch features. Communications writes internal announcements with our People team. Growth collaborates with Data Science to run experiments.
+
+Our projects are diverse and happen at a high velocity, so we need systems that help us (and our cross-functional partners) organize work, provide visibility, and collaborate effectively.
+
+We built our internal workspaces to do exactly that — sub-team wikis hold everything from project info to canonical docs, and it all rolls into a shared Marketing wiki that makes it easy for anyone to find what, or who, they need.
+
+This is how our Marketing team uses Notion, with templates you can bring to your own Marketing team.
+
+A shared OS that connects department work to company initiatives
+
+Everyone at Notion has access to the Company OS — a Teamspace containing databases that track projects, tasks, meetings, and docs. These databases are where all of our cross-functional work happens, so sharing them at a company level fosters a culture of knowledge sharing and transparency.
+
+All of our team-specific work rolls up into these shared company-wide databases using relations, making it easier to connect our initiatives to larger goals and track how everything is progressing at a company level. It also helps ensure projects have context — you can see exactly how teams across the org are supporting our top-level goals.
+
+→ Get started with the Projects & tasks template in Notion here.
+
+Creating space for every Marketing team to work
+
+Aside from the shared company Teamspaces, each department also has its own. Open the Marketing Teamspace toggle and find all of the sub-teams that make up the department. Every functional team, from Product Marketing to Social Media, has its own dedicated wiki — making it easier to organize work and collaborate. Each Teamspace is customized to fit that individual team’s workflows, so no space is the same.
+
+These wikis house vital information about each team — who they are, what they’re working on, and how they’re making an impact. They include key resources and docs that help new employees quickly onboard and get context into the work going on around them.
+
+Each team has its own workflows and uses cases, so let’s dive into how they all work in Notion.
+
+Product Marketing
+
+Product Marketing at Notion acts as the hub for all positioning, market segmentation, and product launches. And the hub of all that work is the Product Launch Roadmap. They partner closely with the Engineering, Product, and Design teams to identify what new products and features are launching, when, and why they’re important.
+
+Each launch is added into their roadmap database and starts with a template. While no launch is exactly the same, using a template helps operationalize a consistent go-to-market strategy. And with AI Autofill keeping the database up-to-date as changes are made, anyone can get a quick glimpse of a particular launch’s strategy and goals.
+
+“Our template helps us think through all the critical elements of the launch and gives our cross-functional partners a consistent structure to work within. But it also gives each PMM the flexibility to scale up or down depending on the launch needs,” says John Hurley, Head of Product Marketing.
+
+This template helps centralize the most important launch details — key milestones are marked, cross-functional partners are tagged, and launch day deliverables are tracked. It brings all teams together in one place, keeping everyone involved and consolidating work that’s often spread across the company.
+
+→ Duplicate our Product Marketing launch template here.
+
+Whether it's working on launch messaging, sales enablement assets, or creating internal messaging guides, Product Marketing relies heavily on Notion AI. They’ve created saved prompts that help AI understand some Notion fundamentals, he team then uses it to generate new messaging ideas.
+
+One central workstream for every launch is educational content. Our User Education team creates the guides, articles, videos, and more that help our users better understand how to use Notion.
+
+There’s a lot of education content, and we need to keep it updated when the product changes. To ensure all our content is reflective of the current state of the product, each piece of content is assigned “feature tags” — product features used in the content. This makes it easy to quickly identify where outdated features are shown and make changes as needed.
+
+Social Media
+
+Almost every person and every team at Notion works with Social Media, so it’s important that their wiki clearly identifies that collaboration process, the purpose behind each social channel, and how we post online.
+
+One of Social Media’s challenges is keeping a cohesive brand voice across all social channels. So their wiki has guidelines and sharing tips for employees, as well as the creative assets (like product visuals, colors, logos, etc.) everyone can use when posting on their own socials.
+
+The main workflow, though, is the Social Media Calendar. It’s a single database that gives the rest of Marketing a way to track what’s going live on what channel (and when). This database has several views — a calendar for planning upcoming posts and a board to see post distribution across channels.
+
+→ See our Social Media Calendar template here.
+
+“I get tons of requests from other teams asking to post on Notion’s social accounts,” says Alex Hao, Notion’s Social Media Lead. “Instead of trying to coordinate our social calendar between Slack, email, and in-person requests, everyone can submit their asks here. It’s so much easier to manage and plan our social calendar.”
+
+They also built a request system into this database that makes it easy for other teams across the company to request social support for their initiatives.
+
+New requests are made via a Notion template that asks for key details: when they’d like the post live, a short brief of what’s launching, and why it matters. It’s all connected to the campaign calendar, editorial calendar, and product launch calendar via relations so there’s a through line between internal work and its external distribution.
+
+This makes Social Media’s workflow — from idea to post — much smoother. The process gathers all necessary info, so they can focus on the creative side of managing our channels.
+
+Communications & Content
+
+The Communications and Content teams often serve as the voice of Notion, telling our story and sharing it with the world. Doing that well requires teams tell a consistent story, no matter the medium.
+
+Communications isn’t just stories in the press — they also manage opportunities across podcasts, on-stage speaking requests, “best of” lists, and more. They created a database to easily track the different engagements, triaging to the right internal partner. Within each of these pages are also talking points and messaging, keeping everyone up-to-date and aligned.
+
+“Communications is a juggling act. You have to know who you’re working with externally, but you have to know your internal team better,” says Becky Sosnov, Notion’s Global Head of Communications. “It’s way easier to manage the specifics of every opportunity when everything is in a single place. Seeing details at a glance gives us the chance to line up the right opportunities for the team.”
+
+Our Content team does much of its work in the Editorial Calendar. It’s a database that serves as a home for the team to work and a repository for cross-functional partners to locate the resources they need.
+
+→ Use our editorial calendar template by clicking here.
+
+There’s a board view that shows all content in progress, with properties highlighting the author, publish date, and channel. There’s a calendar view that visualizes the publishing schedule, and there are even views that show what we’ve published, filtered by type of content, use case, and audience, that help other teams find exactly what they need.
+
+To keep things organized, all work is written in the Editorial Calendar, too. Interviews, notes, and drafts are in one place — that way, the Editorial Calendar doesn’t just point to the work that lives in a Google Doc elsewhere.
+
+Demand Generation & Growth
+
+Demand Generation is all about creating awareness and driving conversions at scale, and they’re behind many of our external marketing campaigns. Their work is very cross-functional — they’re often working with three or four teams at a time, so their work has to be systematized.
+
+Every campaign, whether it’s an event, webinar, or email send, is tracked in Notion. The Demand Gen calendar highlights the campaigns going live this month, their primary region, and who’s involved. And it’s not just where they manage dates — it’s where they do the work.
+
+Each campaign has its own page that includes a strategy, goals, metrics, and all associated tasks. They also built a set of templates for each type of campaign that keeps all work consistent across all initiatives. For example, every new email task opens with a table so they can easily drop in the email subject lines, headers, send-from email address, and copy.
+
+Once the work is done and the campaigns are live, the team relies on custom dashboards that include links and embeds from tools like Mixpanel to show live reports on metrics and pipeline numbers.
+
+Our Growth team uses Notion to track and report on similar numbers, such as awareness and activation.
+
+These metrics are vital for the rest of Marketing, so the Growth team uses an automated template to send out weekly and monthly internal updates. It pulls in their current projects, metrics, and custom dashboard embeds from numerous data tools. That way, when updates are sent, everyone from leadership down to cross-functional partners can get the right granularity of information.
+
+Community
+
+We’re lucky to have such a passionate global community at Notion. There have always been tons of ways for community members to get involved, but those resources have been spread out far across the internet.
+
+So our Community team built an external Notion Community page — it shares every resource, event, and update relevant for the community so everyone can stay on the same page. They use a Luma embed that pulls in the upcoming community events calendar, and organize all links to various online communities.
+
+→ Duplicate our external community home template here.
+
+“Community is one of the most valuable pillars of Notion, so it’s really important that we provide groups with everything they need,” says Francisco Mendoza, Global Community Lead at Notion. “When they flourish, we do too.”
+
+As more members get involved, Community sends out a survey to see what’s working, what could be improved, and what members want next. Once the survey data is added into Notion, the team uses Notion AI to extract key learnings from those responses. Since Notion AI can quickly identify themes across all responses, it helps the team plan and prioritize what to focus on next.
+
+Creative Studio
+
+Our Creative Studio team is behind all things visual here at Notion. Design, Brand, Web Engineering — they own everything from videos and case studies to the the custom illustrations you see across the site. This work is often done in multiple specialized tools, so sharing updates with other stakeholders can be especially cumbersome.
+
+Even though they’re working on a number of projects across several teams, each project still has a home. Creative Studio embeds Figma files or Miro boards right into project pages so that cross-functional partners can actively see progress and design updates on the fly, without needing access to a bunch of different tools.
+
+This keeps projects moving along, all while centralizing work in one place. As updates are made and designs are finalized, it’s all dropped into Notion.
+
+Systems that connect information across the company
+
+Behind all the docs, databases, and meeting notes, our Marketing Teamspace was built to connect people with information. These avenues go both ways — while our teams distribute knowledge out to the rest of the company, our Teamspace was built to be accessible so other teams can easily self serve what they need.
+
+We’ve customized our spaces to fit our needs. You can too. We hope this gives you some inspiration for how to do it.

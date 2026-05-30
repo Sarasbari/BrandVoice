@@ -1,0 +1,69 @@
+Title: Lessons we learned from launching Notion AI
+Published Date: 2024-02-08T00:00-08:00
+URL: https://www.notion.so/blog/lessons-we-learned-from-launching-notion-ai
+
+We introduced Notion AI two weeks before ChatGPT 3 exploded on the scene and upended, well, everything.
+
+In the months that followed, while other companies put out press releases with screenshots of products that might exist someday, Notion had a real product that people could use right away.
+
+But the sprint to get to market first required some tradeoffs, and we learned a lot along the way.  Here’s a look at our evolving go-to-market strategies for Notion AI — what we got right, what we got wrong, and some hard-won wisdom we earned in the process.
+
+1. Choose speed over certainty
+
+When a foundational technology bursts onto the scene, speed matters. In 2022 everybody involved with AI was making it up as they went along. We decided our optimal strategy was to go to market ASAP, get Notion AI into the hands of our most eager early adopters, and fuel our engineers with feedback from a much larger user pool than traditional research would allow.
+
+But optimizing for speed meant making significant tradeoffs. We left important features un- or under-developed. We took our best guesses at design and UX. We launched in English only, leaving other languages for later. And we asked people to join a waitlist to try an admittedly imperfect alpha release, trusting that much of our community would understand that we were new to AI, and learning in real time.
+
+And beyond limited features, our accelerated timeline meant adopting a go-to-market strategy with a lot of outstanding questions: How would Notion customers actually use AI? How should we describe it and how it worked? How should we charge them for it?
+
+Did all that ambiguity make us nervous? Yes. But would slowing down have produced a better product? Likely not. When you learn in real time, by listening, you hear a lot.
+
+2. Listen to your customers
+
+When we opened the Notion AI waitlist in November 2022, we hoped it would reach 200,000 people. Five weeks later it hit 1,000,000. Getting to that volume helped us learn much more about how to describe it.
+
+Our first guess — one widely shared throughout the young industry — was that people would use GenAI to write everything from blog posts to customer emails to poetry. Our initial messaging reflected that:
+
+But it turned out that alpha users preferred to write a first draft and use AI to revise it — the most popular early Notion AI command was “Improve Writing.” So we pivoted from AI as content generator to AI as collaborative partner. Rather than replacing your efforts, AI could be a smart guide, helping you get more stuff done, faster and better:
+
+Another surprise was the audience that first embraced Notion AI. We’d envisioned it being a huge productivity win for companies, but in fact most of our community was finding cool ways to use it at home, with their friends, at school. This video for the General Availability (GA) launch showcased Notion AI streamlining a fast assignment for a stressed-out office worker who has to do three tasks very quickly, and feels much calmer just 45 seconds later. It was a popular clip, but we still had a ways to go to find this audience for our product.
+
+3. Keep pricing simple
+
+Our initial pricing strategy was to offer the AI add-on to Notion customers for a small flat fee plus a usage-based model. We’d devised a 3-tier system where AI was cheap to add but came with only a small amount of usage. The customer would pay per AI response up to a monthly cap, and for overages beyond that.
+
+Super-customizable and user-centric, no? No one should ever pay even a penny for AI they weren’t using. It was just like a cell phone plan!
+
+But like many cell phone plans, our pricing strategy introduced more complexity than we’d expected. Don't make it so every time I'm pulling up AI, I have to check how many credits I have left for the month, customers asked.
+
+In hindsight the problem seems perfectly clear: paying per query discouraged exploration, and how else could an interested novice learn how to use this mysterious new tool?
+
+So, just weeks before the GA launch last February, we overhauled Notion AI’s pricing to its current flat monthly fee.
+
+4. Never stop learning
+
+Just as Notion AI users gave us clear feedback on pricing, it quickly became clear that we had a lot to learn about how we talked about the tool, and even what would turn out to be its most useful features.
+
+Notion AI isn’t one homogeneous product; it’s a variety of features, some of which are pretty speculative. User feedback is crucial as we decide which ones to prioritize.
+
+In his tweet announcing the alpha release, Ivan called Notion AI “genuinely useful.” But useful for whom, and for what? Early business users told us Notion AI seemed most valuable for those who did a lot of writing at work, and we kept getting that same note. So we held a series of in-depth discussions with active AI customers, seeking to understand a deceptively simple question:
+
+What makes work hard?
+
+Their feedback made clear that the biggest pain point within Notion — really, across all SaaS tools — is information retrieval: being able to find the information you need, when you need it. This realization changed how we saw Notion AI’s users. But it also impacted the evolution of the product itself, from its early editorial focus to team-based database knowledge (AI Autofill) and now Q&A, which searches entire workspaces to answer questions.
+
+Community feedback changed the way we talk about Notion AI as well. After reading the aspirational phrases we first used to describe Notion AI — “Write faster, think bigger, be more creative” —  Notion users said things like, “I still don’t know what to do with this thing."
+
+There’s been lots of ink spilled claiming that AI delivers value. It’s more important to show that value. So today’s Notion AI landing page offers specific examples of Q&A prompts:
+
+How do I file a bug report with engineering?When are we launching the website redesign?What’s the AI team working on this week?
+
+How do I file a bug report with engineering?
+
+When are we launching the website redesign?
+
+What’s the AI team working on this week?
+
+What's our AI team working on this week? We'll have to keep you posted. We’ve barely taken off our AI training wheels — no one has. But we’ll keep pedaling fast, listening carefully, and sharing learnings as we go.
+
+See you at the next launch.

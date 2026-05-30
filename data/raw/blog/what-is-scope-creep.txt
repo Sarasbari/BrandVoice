@@ -1,0 +1,95 @@
+Title: What’s scope creep, and how can you prevent it?
+Published Date: 2023-06-15T00:00-06:00
+URL: https://www.notion.so/blog/what-is-scope-creep
+
+When you first kick off a project, keeping that final due date in view can be motivating. You and your team feel ready to follow your project timeline, completing every task and deliverable that leads to the finish line.
+
+That’s why it’s so frustrating when project requirements shift your deadline. Suddenly you’re working on a project with no end in sight — and scope creep is what you’re officially suffering from.
+
+But project management, while not an exact science, has project planning, roadmaps, and timelines for a reason. Sprinkle on some Lean management methodologies, and there's no reason your projects should ever suffer from scope creep.
+
+What’s a project’s scope?
+
+A project’s scope includes every task, dependency, and resource needed to complete the project. You can use several project management documents to define this scope, like a PERT chart, a roadmap, or a work breakdown structure (WBS).
+
+Project managers typically define this scope statement during the project planning stage. You can use this time to ensure your team has the bandwidth and resources necessary to succeed and present your scope estimation to stakeholders for approval. If the scope of work doesn’t seem reasonable to complete in the proposed time frame, you might consider splitting the project into two or more.
+
+What’s the meaning of “scope creep”?
+
+Scope creep in project management is when requirements constantly increase and defer the project’s completion date, so you feel like you’re working on a never-ending objective. The scope becomes a bubble that never seems to pop. And this experience can make employees feel burned out and unmotivated because they’re never progressing or checking items off their to-do list.
+
+A project’s scope tends to increase because of miscommunications or external interferences. A coworker might not understand their responsibilities, so they waste time on the wrong tasks, or a client might constantly ask for new features that expand the project’s ambitions.
+
+Often, these new tasks or additions appear after the project has progressed past the optimal point to add them in, so your project becomes delayed and over budget.
+
+6 causes of scope creep
+
+The first step to managing scope creep is identifying its cause. Here are six ways your project’s timeline might get out of hand.
+
+1. No project scope
+
+If you haven’t outlined your project’s scope, it’ll likely creep on longer than intended. Without proper planning, you open your team up to misunderstandings, wasted time on ill-defined deliverables, and a lack of time-management knowledge for each task. Instead, you can easily avoid these sorts of delays by defining your project’s scope at the outset.
+
+When defining this scope, consider using a lean management methodology such as Lean Six Sigma. Audit processes closely connected with your project to ensure everyone’s workflows are efficient, and create a critical path in your project scope document that outlines the features you must complete. This helps your team understand what they can’t adjust and improves everyone’s efficiency to keep your project on schedule even if (or when) requirements change.
+
+2. Lack of communication
+
+Along with your project plan and supporting documentation, you must share your project scope with your team, relevant management, and clients, so that everyone understands workload and timeline expectations. That way, stakeholders can also provide feedback to help you avoid costly delays or misunderstandings.
+
+Without this level of communication, deliverables are a mystery, so clients might waste time asking for items already on the list or try to push your scope since you didn’t firmly establish and share one. And teammates might work on additional items they didn’t realize weren’t within the project’s range.
+
+3. Messy project objectives
+
+You might create a project scope and share it with your team, but if objectives aren’t clearly defined, along with assigned responsibilities and specific deadlines, your team won’t know how to effectively prioritize tasks. Vague descriptions leave too much to interpretation, and your team ends up working just because they’re expected to, without a goal in sight. If your objective is "Add new pages to the website," your team doesn’t know how many and might waste time creating useless pages.
+
+Instead, define clear objectives, like building a new landing page for a specific product or making a submission form page for new customers. This gives your team direction and keeps them engaged with tasks pertinent to the project.
+
+4. Stakeholder free-for-all
+
+Pick your allegory for “Too many cooks in the kitchen.” Your project needs a central point of management, usually the project manager. This person ensures everyone understands who’s responsible for what and who to escalate issues to. Without a head cook (or project manager), the chain of command isn’t clear, creating confusion and obscuring boundaries.
+
+You can keep all your stakeholders organized with a RACI chart, which breaks down stakeholder roles. Provide this breakdown to everyone involved.
+
+Teammates and clients aren't your only scope creep concerns. Gold plating is a type of scope creep that springs up if project managers keep adding features to a project, extending its timeline. Usually, these are features that a client has yet to ask for but the manager thinks might be helpful. Avoid this by setting clear project requirements at the outset, having the client approve them, and sticking to that plan.
+
+5. No change control process
+
+Change management involves a procedure regarding when and how you can adjust your project scope. This set of rules applies to everyone involved, including clients and project managers, and outlines a system of reviewing and judging whether those changes are necessary or irrelevant.
+
+Regardless of whether you implement new requests, you can rest assured knowing that your change control process allowed those changes without derailing the project.
+
+6. Missing customer feedback
+
+When possible, share your project scope with customers so they can suggest potentially necessary changes. If you’re creating a new app, you might run the initial idea by your target audience to gain their perspective instead of testing the product further down the road and having their comments force you to lengthen the project’s timeline.
+
+Scope creep examples
+
+The Denver International Airport's automated baggage handling system is the most famous scope creep example known to project managers worldwide. It was subject to over 2,000 design changes after the project began because managers failed to involve affected clients in the planning stages. The project finished 16 months late, 250% over budget, and at an operational fraction of its intended purpose, with only one airline using the automation — and only briefly, due to high costs.
+
+While this is a high-profile example of massive miscommunication leading to scope creep, here’s a more relatable hypothetical to showcase the issue.
+
+A company is designing a simple item: a flashlight. The project team conceives of a flashlight with a battery compartment, wiring, and light. They begin sourcing materials and lining up a production schedule. There’s a limited budget, but the profit margin is wide enough that the product should be a successful addition to their offering.
+
+But several weeks into the project, management decides they want the flashlight to have a built-in screwdriver. The project team starts over with a new design and informs suppliers they need a new case. Then management decides that a screwdriver isn’t enough. It must have a built-in compass, fire starter, and perhaps a knife. The project team has to start over again and again, wasting time and money. The project launches late, is over budget, and misses projected sales because it’s become a multi-tool.
+
+How to manage scope creep: 5 tips
+
+The best way to manage scope creep is to avoid it altogether. Here are five methods to help you maintain control over your project:
+
+Document project requirements — write down everything, including stakeholder notes, user requirements, and management feedback. When creating your project scope, use this documentation to ensure you’ve included all necessary items and to defend the project’s timeline.Create change control processes — change is inevitable, so define and test a change control process that involves auditing and approving project adjustments. This should also include revising your original project scope document and a communication plan regarding requesting changes. Outline a clear project schedule — a WBS within a Gantt chart is a great way to clarify a project schedule and responsibilities. When someone demands a new and necessary feature two months into a project, the project manager can quickly reallocate resources to account for the added work.Verify all stakeholder responsibilities — use your RACI chart to ensure that all stakeholders understand their roles and have the capacity to fulfill them.Engage your team — share your change control process, Gantt, and RACI charts with your team, and clearly communicate when the project’s scope has changed, so they feel informed regarding new timelines.
+
+Document project requirements — write down everything, including stakeholder notes, user requirements, and management feedback. When creating your project scope, use this documentation to ensure you’ve included all necessary items and to defend the project’s timeline.
+
+Create change control processes — change is inevitable, so define and test a change control process that involves auditing and approving project adjustments. This should also include revising your original project scope document and a communication plan regarding requesting changes.
+
+Outline a clear project schedule — a WBS within a Gantt chart is a great way to clarify a project schedule and responsibilities. When someone demands a new and necessary feature two months into a project, the project manager can quickly reallocate resources to account for the added work.
+
+Verify all stakeholder responsibilities — use your RACI chart to ensure that all stakeholders understand their roles and have the capacity to fulfill them.
+
+Engage your team — share your change control process, Gantt, and RACI charts with your team, and clearly communicate when the project’s scope has changed, so they feel informed regarding new timelines.
+
+Stay on track with Notion
+
+Scope creep can make a project feel endless. But sharing clearly defined goals and deadlines means that, even when you adjust these factors, your team feels prepared for a strategically shifted due date.
+
+Notion's task tracker and project goals templates are a great starting point for managing your team's tasks. And the task tracker for multiple projects and ultimate task template can help you manage every project-relevant item, so you catch any miscellaneous additions.

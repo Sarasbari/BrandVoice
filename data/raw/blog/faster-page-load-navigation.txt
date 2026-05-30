@@ -1,0 +1,33 @@
+Title: Notion's page load and navigation times just got faster
+Published Date: 2021-04-21T00:00-07:00
+URL: https://www.notion.so/blog/faster-page-load-navigation
+
+One of Notion’s core values is that feedback is a gift. Lately, the #1 piece of feedback we've heard from users has been unambiguous: Notion feels slow.
+
+We now have a dedicated group of engineers delivering meaningful changes to this user experience. This team’s first task was to make Notion pages load faster and reduce the time it takes to navigate between pages.
+
+Our first step was to add SQLite support to our applications, which resulted in initial page loads that are 50% faster for most users. On top of that, navigating between pages is also 50% faster.
+
+Loading pages and navigating between them is only part of the the equation that will make Notion feel more performant. So the team's next focus includes search and database performance. Search in particular will impact many facets of Notion even beyond Quick Find, reducing the time it takes to look up relations and rollups, @ mentions, and linking between pages.
+
+Until then, here’s how we approached the challenge of reducing Notion’s page load times.
+
+Technical changes
+
+It’s been a holistic effort to increase page load and navigation speeds by 50%.
+
+To start, we considered the top-to-bottom latency of our system, optimizing every part of our stack. For example, we split large bundles of code in our JavaScript application, allowing core pieces of the application to load first, then deferring non-critical pieces for later (this is called code splitting). We also improved our general caching infrastructure on both the client and server, which means that we can retrieve page content much more efficiently. Together, these and other technical changes contribute to faster load times.
+
+This should all be felt in the product as you navigate between pages, especially in Notion's Mac and Windows applications. We decided to migrate our desktop apps to SQLite because it's a hardened storage solution that's shown marked performance improvements on our mobile applications for the past year.
+
+Before SQLite, we relied on IndexedDB for client-side storage. But we encountered storage quotas, a number of bugs, and performance concerns on Windows machines in particular, which meant IndexedDB wouldn’t scale with Notion’s growing user base.
+
+Now, using SQLite as our storage layer enables us to circumvent the browser’s storage altogether — avoiding storage limits, nuanced differences between operating systems, etc. — setting a solid foundation for future growth.
+
+What's this mean going forward?
+
+We now have a well-controlled storage layer across all our dedicated applications. This gives us the opportunity to do much more on the client side than was previously possible. When more data is stored and efficiently retrieved from the client, Notion can operate much faster.
+
+This performance gain is one of many we hope to make in the near future as we continue improving your experience with Notion.
+
+Interested in joining us? Check out our careers page to see open roles.

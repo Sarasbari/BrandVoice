@@ -1,0 +1,71 @@
+Title: Procedural knowledge: How to share your team’s practical skills
+Published Date: 2023-10-05T00:00-03:00
+URL: https://www.notion.so/blog/procedural-knowledge
+
+Internal company knowledge is powerful, but it’s useless if there’s no way to share it.
+
+Although knowledge databases help codify some aspects of your company’s best practices, distilling the procedural know-how employees pick up through years of experience is tricky. Your most skilled team members have learned and interalized job-specific smarts, but transferring these nuanced details to other employees isn’t as simple as writing a conceptual knowledge management guidebook.
+
+There are, however, a few techniques project managers use to encourage procedural learning with high success rates. You don’t need to be a cognitive psychologist to make procedural reasoning a part of your team’s metacognition. The more you learn about procedural knowledge, why it’s essential, and how to capture it, the more easily you’ll be able to translate this knowledge from one person or team to another.
+
+What’s procedural knowledge?
+
+Procedural knowledge refers to the habits, skills, and techniques people pick up through practical application rather than formal textbook learning. Unlike conceptual knowledge — which focuses on grasping abstract theories and frameworks — procedural learning happens through on-site training, mentoring, and conscious practice.
+
+In cognitive psychology, procedural knowledge is considered a form of tacit knowledge. This means these skills transfer through conscious experiences rather than explicit instructional methods like classroom lectures or manuals.
+
+For example, a new team of engineers won’t know how to navigate a company’s operating system until they start using it. While a conceptual understanding of the system helps, theory can’t replace the hands-on experience of dabbling with the technology. And repetition helps procedural knowledge transition to implicit knowledge when skills become second nature.
+
+Declarative knowledge versus procedural knowledge
+
+Procedural knowledge involves the “how” of performing a task, while declarative knowledge (or propositional knowledge) addresses the “what” and “why.” Instead of learning through hands-on experience or trial and error, declarative learning typically takes place through classroom lectures, meetings, and manuals. It involves memorizing factual data and explanations related to your business operations.
+
+A thorough understanding of declarative knowledge gives team members a framework for understanding hard facts and the theory behind a topic, but it can’t fully teach people how to apply these cognitive skills in the workplace. But since declarative knowledge is explicit and universal, it’s easier to translate to new employees than experiential and context-dependent procedural knowledge.
+
+Common workplace uses for procedural knowledge
+
+Procedural knowledge encompasses more than the routine techniques teams use to complete tasks on time. Often, the information stored in a team’s procedural knowledge is so invaluable to brand identity that it qualifies as patentable intellectual property. And there are some specific use cases that benefit from teams applying this invaluable knowledge base:
+
+Task execution — procedural knowledge is the default problem-solving method teams use to tackle tasks and achieve consistent results. With first-hand practice using a company’s preferred processes, employees are more likely to complete their assignments correctly and efficiently, which boosts productivity and ensures exceptional quality control standards. Training and onboarding procedures — it takes time and plenty of hands-on training to transfer procedural knowledge, but you can speed up the onboarding process with a rich repository of information and effective mentoring. New employees quickly adapt to how an organization functions with a well-defined procedural knowledge crash course. Management protocol updates — whenever businesses go through transitions, they cling to their procedural knowledge playbook to swiftly adapt. The intuitive skills acquired through procedural knowledge give teams an advantage when facing new circumstances, helping establish a new normal during periods of stress. Risk management — procedural knowledge is a strong defensive tool, as it helps organizations reduce costly risks. The more quickly teams internalize compliance protocols, the lower the incidence of mistakes in areas like financial reporting and data entry. And employees can share their procedural knowledge to ensure other staff follow the proper safety protocols for their department, reducing the risk of preventable injuries. Customer service — after ample practice with calls, messages, and emails from clients, experienced customer care reps determine the best strategies for resolving problems. A clear list of procedures for various customer service conflicts is a practical resource for service teams to ensure each client receives consistent, high-quality care.
+
+Task execution — procedural knowledge is the default problem-solving method teams use to tackle tasks and achieve consistent results. With first-hand practice using a company’s preferred processes, employees are more likely to complete their assignments correctly and efficiently, which boosts productivity and ensures exceptional quality control standards.
+
+Training and onboarding procedures — it takes time and plenty of hands-on training to transfer procedural knowledge, but you can speed up the onboarding process with a rich repository of information and effective mentoring. New employees quickly adapt to how an organization functions with a well-defined procedural knowledge crash course.
+
+Management protocol updates — whenever businesses go through transitions, they cling to their procedural knowledge playbook to swiftly adapt. The intuitive skills acquired through procedural knowledge give teams an advantage when facing new circumstances, helping establish a new normal during periods of stress.
+
+Risk management — procedural knowledge is a strong defensive tool, as it helps organizations reduce costly risks. The more quickly teams internalize compliance protocols, the lower the incidence of mistakes in areas like financial reporting and data entry. And employees can share their procedural knowledge to ensure other staff follow the proper safety protocols for their department, reducing the risk of preventable injuries.
+
+Customer service — after ample practice with calls, messages, and emails from clients, experienced customer care reps determine the best strategies for resolving problems. A clear list of procedures for various customer service conflicts is a practical resource for service teams to ensure each client receives consistent, high-quality care.
+
+4 tips for encouraging tacit learning
+
+It’s difficult to replicate on-site training experience through a written manual or conference room meeting, but you can strategically drive the flow of procedural knowledge throughout your team. Analyze your current data repository and tacit knowledge-sharing techniques, identifying the best ways for your most skilled team members to share words of procedural wisdom, like having a new hire shadow a veteran employee for one-on-one observation.
+
+Here are four tips for optimizing procedural knowledge across your team.
+
+1. Determine pain points in knowledge-sharing processes
+
+First, identify potential barriers in your current knowledge sharing practices. Two ways to spot pain points are to send out surveys or hold one-on-one meetings with seasoned employees, focusing on their onboarding experience. Ask what skills took the most time to develop and whether any specific knowledge gaps slowed them down, such as specialized knowledge silos or a lack of tangible training tools in key specialties. You can then consult this feedback to adjust and streamline your training practices.
+
+2. Encourage a knowledge-sharing culture
+
+In competitive workplace environments, experienced employees have an incentive to hoard their specialized skills, making it difficult for new employees to find and develop the procedural knowledge they need for optimal productivity.
+
+To avoid creating an overly competitive culture, proactively encourage collaboration and knowledge sharing through teamwide events and inter-departmental documents. Setting an expectation that your employees will share knowledge freely improves communication between departments, boosts employee satisfaction, and promotes consistency throughout project development.
+
+3. Create a collaborative wiki
+
+One concrete way to improve knowledge sharing is to create a collaborative wiki as a centralized company-wide knowledge base. Organize documents, video tutorials, and reference materials in wiki categories, and include a search function to make it easy for team members to find the info they need. You can also store the latest details on the most effective onboarding procedures in your wiki to make knowledge transfer a breeze from day one.
+
+4. Establish mentoring and training programs
+
+Implementing formal mentorship protocols is another simple way to encourage knowledge transfer and record the most effective onboarding strategies across departments. Since training and mentorship sessions occur in a controlled environment, it’s easy to gather employee feedback to evaluate which teaching strategies have the highest success rate.
+
+A mentor-mentee relationship also provides new employees with a helpful guide to answer questions, connect with teammates, and introduce core company culture features.
+
+Streamline procedural knowledge sharing with Notion
+
+Achieving procedural knowledge perfection is all about documenting, distilling, and distributing the skills your team builds through years of experience. Notion’s templates and wiki builders offer a streamlined method for sharing and recording knowledge, continuously updating best practices, and collaborating to improve your business processes.
+
+Discover how Notion’s templates can help you translate procedural and declarative knowledge to boost your team’s productivity.

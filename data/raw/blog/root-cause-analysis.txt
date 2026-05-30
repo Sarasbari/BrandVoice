@@ -1,0 +1,117 @@
+Title: Why root cause analysis is important in project management
+Published Date: 2023-08-08T00:00-06:00
+URL: https://www.notion.so/blog/root-cause-analysis
+
+Everyone’s been there: You try to fix a problem with a temporary solution, but the issue rears its head soon after — and often, it’s even worse.
+
+The best course of action when facing a daunting challenge is to correct it completely. But you can only do this if you thoroughly understand the cause. Cue: a root cause analysis (RCA).
+
+What’s a root cause analysis?
+
+An RCA is the process by which teams determine a problem’s source. Instead of applying quick fixes, conducting this analysis helps you correct an issue at its core.
+
+Say a marketing team keeps losing valuable leads due to an outdated customer contact management process. Discovering that this system is the root cause of these missed opportunities encourages the team to invest in professional customer relationship management (CRM) tools. If they hadn’t conducted a source analysis, they might have invested time, energy, and money into unsuccessful solutions, like launching an expensive email marketing campaign.
+
+The main goals of root cause analysis
+
+Teams perform RCAs when they realize they have a problem that’s impacting product quality or a workplace’s health. Groups taking this step are motivated to make positive changes, sharing the following common goals when performing their analyses:
+
+Identify the problem — when teams begin an RCA, they’ve likely identified symptoms of a problem, like missing consumer leads. In this step, they push deeper to understand the “Why?”Devise a solution — once a team identifies the root problem, they can create a solution. A team suffering from lost leads would conduct research and choose the best CRM tool. Implement the solution — in this stage, teams take action. In part, this means implementing the solution they devised. But it could also mean developing a mitigation plan for similar problems in the future. The team with missed leads would train employees to use the new CRM software and discuss obstacles that could be preventing them from connecting with customers, even with a better system in place.
+
+Identify the problem — when teams begin an RCA, they’ve likely identified symptoms of a problem, like missing consumer leads. In this step, they push deeper to understand the “Why?”
+
+Devise a solution — once a team identifies the root problem, they can create a solution. A team suffering from lost leads would conduct research and choose the best CRM tool.
+
+Implement the solution — in this stage, teams take action. In part, this means implementing the solution they devised. But it could also mean developing a mitigation plan for similar problems in the future. The team with missed leads would train employees to use the new CRM software and discuss obstacles that could be preventing them from connecting with customers, even with a better system in place.
+
+The fundamental principles of root cause analyses
+
+Let principles guide your root cause investigation for better results. The following pointers can help you do the hard work of tackling issues instead of seeking temporary relief:
+
+Look past the surface of the problem and dig as deep as possible to identify causesUse the problem as an opportunity for improvement, not a reason to cast blameAccept that there may be several problems beneath the surfaceConsider whether similar problems could arise and plan to mitigate them as wellFocus on solutions, creating an action plan to correct the root problem
+
+Look past the surface of the problem and dig as deep as possible to identify causes
+
+Use the problem as an opportunity for improvement, not a reason to cast blame
+
+Accept that there may be several problems beneath the surface
+
+Consider whether similar problems could arise and plan to mitigate them as well
+
+Focus on solutions, creating an action plan to correct the root problem
+
+The pros and cons of root cause analyses
+
+Theoretically, an RCA helps teams understand an underlying issue, making it a wholly beneficial process. But not all RCA processes are successful. Here are some of the pros and cons of performing this analysis.
+
+Pros
+
+Saving resources — if the issue the company is experiencing costs time, money, and other resources, performing this process might offer savings. Improving quality — rectifying an underlying issue that affects a company’s deliverables can ensure that future outputs are consistently high quality. Streamlining workflows — a core issue can generate multiple obstacles for teams. Identifying the central problem clears those roadblocks and allows employees to work more efficiently.
+
+Saving resources — if the issue the company is experiencing costs time, money, and other resources, performing this process might offer savings.
+
+Improving quality — rectifying an underlying issue that affects a company’s deliverables can ensure that future outputs are consistently high quality.
+
+Streamlining workflows — a core issue can generate multiple obstacles for teams. Identifying the central problem clears those roadblocks and allows employees to work more efficiently.
+
+Cons
+
+Changing operations — you might need to adjust processes and workflows to implement a solution, which takes time and effort, sometimes more so than riding out the problem.Finding unclear answers — you might not have enough data to determine the root cause of every problem. Without adequate information, you can’t properly analyze the situation and risk making faulty assumptions. Choosing solutions that cause more issues — if teams incorrectly identify a problem, chances are they’ll also implement a problematic solution. This leaves the initial issue unsolved and creates new ones.
+
+Changing operations — you might need to adjust processes and workflows to implement a solution, which takes time and effort, sometimes more so than riding out the problem.
+
+Finding unclear answers — you might not have enough data to determine the root cause of every problem. Without adequate information, you can’t properly analyze the situation and risk making faulty assumptions.
+
+Choosing solutions that cause more issues — if teams incorrectly identify a problem, chances are they’ll also implement a problematic solution. This leaves the initial issue unsolved and creates new ones.
+
+How to do a root cause analysis: 5 steps
+
+There’s no simple way to jump into an RCA. It’s a deep dive. But if you diligently follow these five root cause analysis steps, you’ll surface excellent information that allows you to implement a solid solution. Here’s how to do an RCA.
+
+1. Understand the symptoms
+
+You may have an inkling something is off, but before performing an RCA, you must clearly define the symptoms. Say your marketing team notes a drop-off in new leads. You can assume that part of your customer engagement process is broken, but you need to thoroughly understand this assumption before it becomes the hypothesis you set out to prove or deny.
+
+2. Collect data
+
+Data is what separates an inkling from a well-founded concern. Collect as much information as possible on the issue, asking questions like how long the problem has affected the company and what the consequences are as you excavate evidence.
+
+A marketing team missing out on leads might check data from its existing CRM tools to locate the missing link. The answer could be as simple as customer inquiries going to an old email inbox or a no-reply address.
+
+3. Identify potential causes
+
+Use one of the following methods to identify potential causes, keeping an open mind and not imposing a response without running a complete analysis:
+
+The five whys — in this model, teams question why symptoms exist five times to push deeper on the subject. A team might ask why it’s missing leads and postulate that customer relationship tools are inefficient. Then the team would ask why the tools are inadequate and continue questioning from there. Cause-and-effect flow chart — this method allows teams to identify symptoms and potential and actual causes. Teams can create either a fishbone diagram, starting with the problem’s effects and working backward, or a tree diagram, beginning with root causes and working forward to map symptoms. Issue tracking — in this straightforward tactic, teams track issues as they arise, describe problems, and pose potential reasons. Issue trackers work well for simple flaws that don’t require much analysis since trackers don’t typically offer room for thorough details.
+
+The five whys — in this model, teams question why symptoms exist five times to push deeper on the subject. A team might ask why it’s missing leads and postulate that customer relationship tools are inefficient. Then the team would ask why the tools are inadequate and continue questioning from there.
+
+Cause-and-effect flow chart — this method allows teams to identify symptoms and potential and actual causes. Teams can create either a fishbone diagram, starting with the problem’s effects and working backward, or a tree diagram, beginning with root causes and working forward to map symptoms.
+
+Issue tracking — in this straightforward tactic, teams track issues as they arise, describe problems, and pose potential reasons. Issue trackers work well for simple flaws that don’t require much analysis since trackers don’t typically offer room for thorough details.
+
+4. Determine the cause
+
+You’re now ready to point fingers. Gather all your hypotheses on why the problem exists and move forward with the one that’s backed by the most substantial evidence. You may easily eliminate some options, like if it’s clear that your marketing team isn’t missing out on leads due to an offline email account. Others might be trickier, like trying different CRMs to see whether yours was the issue.
+
+5. Solve the issue
+
+Generate an action plan to solve the root issue. Remember that new ways of working have the potential to create positive and negative change, so analyze the potential outcomes of posed solutions before implementing them. You can use a SWOT analysis (strengths, weaknesses, opportunities, and threats) to define risks and benefits. Then you’ll assign the work of solving the issue to teammates and set a timeline.
+
+Best practices for root cause analyses
+
+The closer you get to correctly identifying the problem, the greater the benefits of implementing a solution. Run a better RCA process by adhering to these best practices:
+
+Collaborate — data says a lot, but your colleagues also have important insights to share. Listen to your teammates' theories of why problems are happening and their experience dealing with those issues. You can later back up these takeaways with hard facts.Ask as many questions as possible — part of what makes the five whys method successful is that it pushes teams to ask questions. Even once you land on a potential root cause, continue digging, asking yourself whether a cause is unequivocally the reason for the issue. Don’t just focus on failures — if your team is experiencing excellent results, perform an RCA for successes. Learn what processes support your best work and use those insights to quickly choose solutions when problems crop up.
+
+Collaborate — data says a lot, but your colleagues also have important insights to share. Listen to your teammates' theories of why problems are happening and their experience dealing with those issues. You can later back up these takeaways with hard facts.
+
+Ask as many questions as possible — part of what makes the five whys method successful is that it pushes teams to ask questions. Even once you land on a potential root cause, continue digging, asking yourself whether a cause is unequivocally the reason for the issue.
+
+Don’t just focus on failures — if your team is experiencing excellent results, perform an RCA for successes. Learn what processes support your best work and use those insights to quickly choose solutions when problems crop up.
+
+Get to the root of the problem with Notion
+
+Notion helps teams solve problems more efficiently and collaboratively. Start issue tracking, mitigating risks, and generating excellent solutions today with our guides and templates.
+
+Use the tasks and issues template to monitor problems as they arise, or learn to make your own risk assessment template. And find out how to create a risk register to prevent issues before they develop.

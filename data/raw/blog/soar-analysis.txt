@@ -1,0 +1,177 @@
+Title: Using a SOAR analysis to enhance your strategic planning
+Published Date: 2023-10-13T00:00-03:00
+URL: https://www.notion.so/blog/soar-analysis
+
+Everyone in your organization needs a clear vision to work toward.
+
+The good news is that your stakeholders can provide valuable insights to help you define that vision. The bad news is that getting everyone aligned might be a challenge, especially when you’ve got multiple teams and individuals with their own ideas of organizational success.
+
+A SOAR analysis can help. Use this framework to collect necessary data about your company’s current outcomes. You can then evaluate this data and merge it with your team’s aspirations to create an insightful and effective strategic plan.
+
+What’s a SOAR analysis?
+
+A SOAR analysis is a collaborative strategic planning technique you can use to create a clear vision for your team to work toward. It integrates data about your organization's current strengths and opportunities with your team’s ideas and aspirations to help you pinpoint the best strategic goals.
+
+The SOAR acronym stands for strengths, opportunities, aspirations, and results. As the acronym suggests, this analysis focuses on what your company's doing well, what you can improve, and the most important goals for your team.
+
+People generally organize SOAR analysis data in a four-quadrant matrix to make it easier to visualize. Each quadrant of the SOAR matrix represents one of the key components.
+
+How does a SOAR analysis work?
+
+A SOAR analysis involves reviewing your organization's current performance, identifying opportunities for growth, and having your team weigh-in with their desires for the company, then using all this information to develop a strategic plan for the future.
+
+The SOAR framework consists of four key components: two current (strengths and opportunities) and two future-focused (aspirations and results).
+
+Strengths
+
+Strengths include your company’s material assets, employee expertise, technological and innovational assets, and achievements — anything that sets your company apart and contributes to its success. You can get a well-rounded idea of your company’s strengths and what’s working right now by consulting all stakeholders, including your team and customers.
+
+After outlining your strengths, you can capitalize on them for future opportunities.
+
+Here are some questions you could ask for inspiration:
+
+In what areas does our company excel?What stands out as the company’s most significant accomplishment?What sets our organization apart in terms of what we offer?Where does our organization currently outperform our main competitors?
+
+In what areas does our company excel?
+
+What stands out as the company’s most significant accomplishment?
+
+What sets our organization apart in terms of what we offer?
+
+Where does our organization currently outperform our main competitors?
+
+Opportunities
+
+Opportunities are external advantages and prospects you can use to your advantage. Brainstorm external opportunities, considering the strengths and capabilities you've already identified and your company's unique value proposition.
+
+These opportunities may include expanding into untapped markets, broadening your service offering, or improving your customer service ratings — anything contributing to the growth and success of the business.
+
+Ask team members pertinent questions when brainstorming opportunities, such as:
+
+Given that we excel at this aspect of our business, what corresponding trends could we capitalize on?Are there any collaborations we could pursue to help us expand our customer base?Are there any new markets we could tap into?
+
+Given that we excel at this aspect of our business, what corresponding trends could we capitalize on?
+
+Are there any collaborations we could pursue to help us expand our customer base?
+
+Are there any new markets we could tap into?
+
+Aspirations
+
+You can’t be everywhere at once. You need your team to ensure all the different parts of your business function together like a well-oiled machine. That’s also why your team members are so well positioned to make observations about the strengths and opportunities of the company and envision what they think the company could do from their standpoint.
+
+This element of your SOAR analysis can give you a competitive advantage if you use it to innovate and take advantage of your team’s ideas for the company.
+
+Here are questions to pose to your team:
+
+What differences do you hope our company makes in our customers’ lives?What are your aspirations for the company within the next five years?Which projects, programs, or processes do you think will best support these aspirations?
+
+What differences do you hope our company makes in our customers’ lives?
+
+What are your aspirations for the company within the next five years?
+
+Which projects, programs, or processes do you think will best support these aspirations?
+
+Results
+
+The final step in the SOAR analysis involves defining the specific, measurable outcomes you want to achieve based on your organization's strengths, opportunities, and aspirations.
+
+Everyone on the team can brainstorm the practical changes they'd like to see implemented throughout the organization and the results these changes will likely achieve.
+
+Possible questions you could ask team members include:
+
+How should we track goals, performance, and outcomes?How will we convert our aspirations into measurable data?What tools should we adopt to achieve the desired results?
+
+How should we track goals, performance, and outcomes?
+
+How will we convert our aspirations into measurable data?
+
+What tools should we adopt to achieve the desired results?
+
+Why use a SOAR analysis?
+
+At its core, a SOAR analysis draws connections between current business conditions and desired results to help you develop a future-focused, strength-based strategy for your company.
+
+Here are a few more reasons to complete this analysis:
+
+Simplicity and ease of use — SOAR simplifies the strategic management process by concentrating on four core elements. This simplicity makes it more accessible and less overwhelming than other complex strategic analysis frameworks. And dividing the SOAR analysis into four distinct quadrants makes it understandable at a glance. Positive and forward-thinking strategies — this positive and future-oriented approach is typically more motivating and engaging for participants than dwelling on every weakness and threat, making it easier to get buy-in from stakeholders.Vision alignment and clarity — the SOAR method aligns with the organizational vision and long-term goals, making this analysis’s data easier to integrate into the overall strategic planning process. However, it’s about more than a vision statement. It encourages organizations to set clear and specific objectives related to their aspirations and desires, making it easier to create actionable strategies.
+
+Simplicity and ease of use — SOAR simplifies the strategic management process by concentrating on four core elements. This simplicity makes it more accessible and less overwhelming than other complex strategic analysis frameworks. And dividing the SOAR analysis into four distinct quadrants makes it understandable at a glance.
+
+Positive and forward-thinking strategies — this positive and future-oriented approach is typically more motivating and engaging for participants than dwelling on every weakness and threat, making it easier to get buy-in from stakeholders.
+
+Vision alignment and clarity — the SOAR method aligns with the organizational vision and long-term goals, making this analysis’s data easier to integrate into the overall strategic planning process. However, it’s about more than a vision statement. It encourages organizations to set clear and specific objectives related to their aspirations and desires, making it easier to create actionable strategies.
+
+When to use a SOAR analysis
+
+Most people are familiar with the SWOT (strengths, weaknesses, opportunities, and threats) analysis, which focuses on a company’s immediate performance, competition, and opportunities to help mitigate the bad and capitalize on the good.
+
+But the SOAR method takes a different approach. It’s more of an appreciative inquiry, focusing on what the company’s doing well and how to leverage what’s working to improve performance. It identifies the positive aspects of a company's results while incorporating the aspirations of employees to develop a future-oriented strategy that emphasizes the organization's vision and desired outcomes.
+
+Since it encourages a positive, forward-thinking approach, it benefits organizations that have successfully achieved previous targets and are looking to set ambitious new goals and drive innovation.
+
+SWOT versus SOAR
+
+When deciding between these two analysis types, consider whether your focus is on immediate company outcomes or the company's future direction.
+
+If you're looking to develop a plan for the future that primarily focuses on the company's positive aspects, a SOAR analysis is a better option. For example, if your company is introducing a new product and you still need to learn its weaknesses or threats because the product is new to the market, opt for a SOAR analysis and build upon the positives it reveals.
+
+Alternatively, if you're concerned with implementing immediate changes, a SWOT analysis helps you assess the effectiveness of your current operations by identifying internal strengths and weaknesses and external opportunities and threats. After analyzing this information, you can make informed decisions about critical changes you should implement to improve operations right away.
+
+How to do a SOAR analysis: A step-by-step guide
+
+Most often, you’d use a visual matrix divided into four quadrants to depict a SOAR analysis, then fill it in with collected data and insights.
+
+Here’s a basic five-step guide for conducting this analysis type.
+
+1. Collaboratively assess current performance
+
+Begin your SOAR analysis by conducting a brainstorming session with relevant stakeholders, ensuring you include cross-departmental employee groups and customers if necessary. This internal and external stakeholder collaboration is critical to ensuring a realistic and well-rounded review of your organization.
+
+Together, conduct a detailed review of the business to uncover your current strengths and opportunities. Then identify the future outcomes your team would like to achieve: your aspirations and results. Poll team members for this information and add it to the matrix.
+
+2. Define key focus areas
+
+Take the informal, creative ideas from brainstorming sessions and turn them into clearly defined, actionable points so that your team has practical steps to follow when implementing the plan. Defining your focus areas also enables you to channel company resources toward specific goals rather than scatter them across numerous ideas, maximizing efficiency and limiting waste.
+
+During this phase, detail your main priorities and prepare a strategy to merge your current performance with the desired future state of your business. Select the goals that are the most relevant, easily attainable, and effective.
+
+3. Implement your strategy
+
+Once you have a plan, it's time to execute it. You’ll need to distribute the project plan to your team and ensure everyone's on the same page and working toward common goals.
+
+While there’s no standard approach here, there are things you could do to increase the chance of successfully executing your strategy, like:
+
+Establishing key performance indicators (KPIs) and delegating performance-tracking responsibilitiesScheduling training sessions and review meetingsInvesting in the right tools to enable effective communication and measure results
+
+Establishing key performance indicators (KPIs) and delegating performance-tracking responsibilities
+
+Scheduling training sessions and review meetings
+
+Investing in the right tools to enable effective communication and measure results
+
+The entire team can track individual goals and higher-level objectives using Notion’s objectives & key results template:
+
+4. Review outcomes
+
+After implementing the strategies from your SOAR analysis, consistently review your company’s performance to ensure you’re achieving the desired results. If the outcomes don’t go as planned, tweak your strategy as needed.
+
+Avoid treating a SOAR analysis as a once-off undertaking. Instead, use it to direct your company’s efforts over time.
+
+Use the KPIs and set targets outlined in the "results" section of your SOAR analysis to measure progress and examine what's working and what isn't.
+
+5. Fine-tune your approach
+
+Your SOAR analysis will probably never be complete — you’ll need to continuously adapt and adjust your approach as internal factors and external marketplace conditions change.
+
+For instance, opportunities you can leverage to increase your market share may disintegrate down the line due to shifting industry trends, requiring you to change certain aspects of your SOAR analysis.
+
+And as your business scales, your perspective will also change — you’ll need to adjust your strategy and review your SOAR analysis to match that growth.
+
+Project research made easier with Notion
+
+A SOAR analysis may seem straightforward, but it requires company-wide participation and continuous evaluation.
+
+Streamline your data gathering and keep your projects on track using Notion’s templates. From the goal-project task template to the objectives and key results project tracker template, we've got resources to help you stay on top of your SOAR aspirations and measure progress along the way. You can also see how you compare to competitors with the feature market analysis template.
+
+And if you'd prefer to conduct a SWOT analysis, kick-start the process with one of our SWOT analysis templates.

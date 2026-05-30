@@ -1,0 +1,135 @@
+Title: How the leading AI companies are using AI tools
+Published Date: 2025-01-23T10:00-08:00
+URL: https://www.notion.so/blog/how-leading-ai-companies-are-using-ai
+
+People are using AI to do some wild things: take calls using your voice, diagnose your pets’ ailments, relive a long-lost love. We’re hoping it will soon attend meetings while we take a nap.
+
+Beyond the flash, AI is quietly reshaping how teams get work done. From generating first drafts to automating data analysis, organizations are finding smart ways to boost productivity and create new knowledge.
+
+But when it comes to using AI to manage all of that knowledge, there’s still little in the way of playbooks.
+
+In research recently conducted with Harvard Business Review, we found that only three percent of organizations are using AI for knowledge management—even though they know it could help them find things quickly and extract more value.
+
+To learn more from that three percent, we turned to a few companies that made the Forbes AI 50 list—ninety-four percent happen to be Notion customers—to find out how they’re doing it. Here’s what we learned.
+
+Go for small wins
+
+The path to AI adoption starts with small, high-impact wins.
+
+Take Synthesia’s approach: the company transformed its employee onboarding by having new hires create AI-generated intro videos.
+
+“When new hires start at the company, we encourage them to make a short video using Synthesia to introduce themselves,” explains Alexandru Voica, Head of Corporate Affairs & Policy. This simple exercise is a twofer, giving new recruits a taste of the product while solving the business need of introducing them to the company at large.
+
+At Wiremind, cofounder and CTO Charles Pierre’s team has found small but important wins by focusing AI on data-heavy, time-consuming tasks, like:
+
+Generating data visualizations for strategic planningAutomating comparisons of staging and production dataValidating complex datasets needed for deeper research
+
+Generating data visualizations for strategic planning
+
+Automating comparisons of staging and production data
+
+Validating complex datasets needed for deeper research
+
+For both Voica and Pierre, successful AI adoption isn’t always about finding the most transformational use cases right off the bat. Starting small and focusing on practical applications can help people see AI’s value, which will make them want to adopt it.
+
+Encourage experimentation
+
+Leading AI companies have found the key to meaningful adoption isn’t forcing new tools onto teams, but rather creating space so they can discover AI’s usefulness themselves.
+
+In other words, putting AI to use relies on people’s willingness to experiment.
+
+“Think about utility over novelty, and create an environment optimized for organic adoption among employees,” advises Voica. “If you let people experiment and try new things, they’ll ultimately be more open to adopting new technologies because they’ve figured out how to use them to solve real problems.”
+
+Here are two ways to create a more experimental environment:
+
+1. Establish AI champions
+
+Designate knowledgeable team members in each department who can:
+
+Create a shared space for employees to document and share successful AI implementations specific to their team’s workflowProvide hands-on guidance for new AI toolsShare both fails and success stories across departments
+
+Create a shared space for employees to document and share successful AI implementations specific to their team’s workflow
+
+Provide hands-on guidance for new AI tools
+
+Share both fails and success stories across departments
+
+2. Structure experimentation hours
+
+Set aside dedicated time for teams to play with AI tools through:
+
+Weekly “AI sandbox hours” for testing new featuresMonthly show-and-tell sessions where teams share cool use cases, like writing a personalized poem
+
+Weekly “AI sandbox hours” for testing new features
+
+Monthly show-and-tell sessions where teams share cool use cases, like writing a personalized poem
+
+No shortcuts—it’s a long game
+
+Even if you do all of these things, widespread adoption will take time, says Pinecone’s CEO, Edo Liberty. Be patient.
+
+“Be committed to success. AI isn’t magic, and getting it right is difficult,” Liberty says. “Companies that push through the implementation stumbling blocks and learn from mistakes will benefit the most from AI.”
+
+To help their teams push through challenges, all of the companies we spoke to had:
+
+Clear usage guidelines and best practices (documented in their Notion workspace)Regular training and enablement resources crafted by their colleaguesA feedback system to understand what’s working and what isn’t
+
+Clear usage guidelines and best practices (documented in their Notion workspace)
+
+Regular training and enablement resources crafted by their colleagues
+
+A feedback system to understand what’s working and what isn’t
+
+Putting those things in place will set you up for success in the long-term, says David Tibbitts, Notion’s Product Marketing lead. “When used well, AI can help teams focus on what truly matters—creative and strategic thinking.”
+
+Increased capability now, cost savings later
+
+While you may not see an instant increase in efficiency, using AI to scale your teams’ capabilities now will add up in the long run, says Michael Gerstenhaber, VP of Product at Anthropic.
+
+“Leaders need to evaluate what routine work their teams are doing that could be scaled or delegated through AI, especially in data analysis, coding, content creation, and customer interactions,” Gerstenhaber says. “AI isn’t replacing workers, it’s elevating their capabilities.”
+
+Measuring impact
+
+Beyond adoption, to truly understand AI’s value, companies need to track several things. Here’s how leading organizations are measuring success:
+
+1. Employee Adoption
+
+Measure how teams are embracing AI tools:
+
+Track usage rates across departmentsMonitor the number of new AI use cases identifiedSurvey employee satisfaction with AI tools
+
+Track usage rates across departments
+
+Monitor the number of new AI use cases identified
+
+Survey employee satisfaction with AI tools
+
+2. Time savings
+
+Track specific time improvements in routine tasks. Pinecone documented an 8× increase in sales activity after implementing AI tools in their workflow.
+
+Track specific time improvements in routine tasks. Pinecone documented an 8× increase in sales activity after implementing AI tools in their workflow.
+
+3. Output quality
+
+Monitor improvements in output quality through:
+
+Error reduction rates in data analysisConsistency in content creationCustomer satisfaction scores for AI-assisted interactions
+
+Error reduction rates in data analysis
+
+Consistency in content creation
+
+Customer satisfaction scores for AI-assisted interactions
+
+The future is a rough draft
+
+We’re still in the early innings of AI. Breakthroughs that will make today’s capabilities look quaint are happening as I write.
+
+But the companies that are treating new use cases as hypotheses worth testing will have the advantage. Every novel use case will build new habits that will come to define how we get work done.
+
+“We see AI not just as a tool for efficiency, but as a catalyst for innovation,” says Pierre of Wiremind. “It empowers us to streamline processes and foster a culture of creativity and curiosity.”
+
+AI isn’t slowing down any time soon. Neither should you.
+
+If you're ready to use AI in your workflows, visit the Notion Marketplace to find the top Notion AI templates and transform how your team works.

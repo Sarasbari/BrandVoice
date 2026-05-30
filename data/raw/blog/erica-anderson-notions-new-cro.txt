@@ -1,0 +1,27 @@
+Title: Welcome Erica Anderson, Notion’s new CRO
+Published Date: 2023-03-28T00:00-07:00
+URL: https://www.notion.so/blog/erica-anderson-notions-new-cro
+
+Hi everyone. It’s an exciting time at Notion. Last month we released our redesigned Notion AI to all users. AI is central to our company’s future, and our entire industry, and I’m excited to welcome to Notion a go-to-market leader who knows this world well — our new Chief Revenue Officer, Erica Anderson.
+
+Erica comes to us from GitHub, where she drove go-to-market efforts for AI products like GitHub Copilot and was instrumental in scaling GitHub to $1 billion+ in ARR. I spoke with Erica about where she sees Notion headed, and how she hopes to use her product- and team-led mindset to help us get there.
+
+What made you decide to join Notion?
+
+Well, of course, the product. I love the way Notion thinks about product design — that all new features are truly “opinionated” about how they provide utility to our community and serve a distinct purpose. But that’s just another way of saying I’ve always been drawn to Notion’s core vision — that anyone in the world should be able to customize, even create, the software they use every day. That’s such an amazing goal to be striving for!
+
+What’s the biggest challenge you see to our realizing that vision?
+
+I’m excited about helping all our customers realize this platform’s potential, and that means supporting small teams and also helping teams scale all the way up to the enterprise. Part of that is improving our ability to get customers to that “aha” moment as fast as possible, which could include things like better onboarding and more personalization when someone gets started with Notion.
+
+What did you learn from your time at GitHub that you're excited to bring to Notion?
+
+I’m so impressed with the Notion community — how passionate they are about the platform, and how they’ve become such a huge resource in driving product adoption and even direction. GitHub is very user-powered as well, and I hope to use my experience there to make sure we stay community-focused as we start our next phase of growth.
+
+How do you approach thinking about that “next phase of growth” as you begin this new role as Notion CRO?
+
+Well, my first priority will be to get to know the global teams — customers and community alike — and to align on our direction and growth priorities. I want to study our AI trajectory, which really will be the backbone of those plans. And I’m thinking about what it’s going to mean to scale Notion so that we’re an ideal fit all company sizes, segments, and locations.
+
+How’s that for my first month?
+
+It’s a start! We’re so glad to have you joining the team.

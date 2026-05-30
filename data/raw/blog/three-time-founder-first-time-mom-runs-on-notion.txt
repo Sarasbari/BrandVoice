@@ -1,0 +1,41 @@
+Title: Three-time YC founder and first-time mom finds flow in Notion
+Published Date: 2022-07-21T09:00-07:00
+URL: https://www.notion.so/blog/three-time-founder-first-time-mom-runs-on-notion
+
+Start a startup or start a family? Yin hadn’t had to ask herself this question until recently. Not when she was working on high school science projects, discovering her desire to build. Not when she dropped out of Stanford to join Y Combinator. Not when she sold her startup to Microsoft. For the first ten years of her career, the answer was always the same: start a company.
+
+But now, she wasn’t so certain. “I had to ask a question that most women with a career ask at this point,” Yin says. “Do I want to become a mom too?”
+
+The trouble was, she was in Y Combinator again incubating her new startup, Pulley. She’d quit Microsoft, excited to build something close to heart. “When I started out, I had to figure out the black box of cap tables and equity the painful way,” she says. “I wanted to make it easier for other startup founders to get off the ground.” But long days working on pitch decks and MVPs didn’t leave much time for family planning. It felt like she had to make a choice between one and the other.
+
+It wasn’t until she found a way to unite these two identities in her mind that she learned she didn’t have to make a choice at all. “There’s no perfect time,” she says. “My experience as a founder and CEO taught me that my job is not to predict the future, but to operate well given the current environment. So if I wanted to do both, I would figure out how to do both.”
+
+And she did. These days, Yin has a two-year old at home and a two-year old startup that just raised their Series B. Both are growing fast, but she’s figured out a way to make time and space for both. Here’s how she does it, with the help of Notion.
+
+A system to communicate every decision, from strategy shifts to baby names
+
+It turns out that starting a startup and starting a family aren’t all that different from each other. Meeting with investors to discuss funding? Hashing out family budgets with her husband? They both require the same ingredients: good communication to make speedy decisions, and a collaborative space to stay aligned. “It’s the product manager in me,” Yin says. “I make workflows for everything.”
+
+At work, Yin instilled a habit of documentation with her team, inspired by Amazon’s memo-heavy culture. “The faster you move as a startup, the more important written communication becomes to log every decision you make,” she says. She uses a template in Notion to send out team-wide updates, including reminders of their mission and values, plans for the quarter, and an embedded dashboard with key business metrics. That way, everyone can keep up with fast-paced shifts in priorities.
+
+Communication was even more important at home. Yin created docs for everything from her baby registry to a list of child-friendly parks around the neighborhood for her nanny. Especially when she went back to work after her maternity leave, this Notion hub gave Yin and her husband peace of mind that their childcare team has all the information they need.
+
+Try Yin's baby home template →
+
+A place to work together on startup docs & family plans
+
+In order to juggle all her responsibilities as both a mom and CEO, a system to collaborate easily with her team was also a must. “When Pulley grew past three people, it became clear that Google Docs was a single player tool,” she says. Transitioning to Notion allowed the team to create a structured workspace with a hierarchy of information. “Anyone can find the projects and docs they need, as well as make changes to this source of truth as we evolve.”
+
+At home, Yin co-parents with her husband and nanny in much the same way, keeping a shared home for all things family-related. All those random to-do’s that pile up in life are gathered here. Scheduling playdates and planning Costco runs goes into a shared tasks database, while key appointments to the doctor or to grandpa’s house get added to a calendar view. “I used to use Notion personally just for myself. It became so much more valuable when I brought my husband and nanny in to divide all these tasks amongst ourselves,” says Yin.
+
+Public pages to celebrate personal and professional milestones
+
+When it comes to spreading the word about big news, Yin uses Notion for work and family life too. In Pulley’s early days, the team needed to hire urgently. Instead of building a custom careers page, they created a Notion public page to post job descriptions. “Notion’s drag and drop functionality made it super easy to design these pages, and you felt great sharing them because they look beautiful,” she says.
+
+Yin also used a public Notion page for her Zoom baby shower during the pandemic, sending out invites to family and friends and even including pictures and the agenda inside. Being able to spin up these pages quickly and easily is just one more way Yin streamlines all the logistical work that goes into running a company and raising a family. That way, she can spend more time on what matters — like her startup strategy or hanging out with her kid.
+
+One setup for her life’s work
+
+Having one tool that powers both her work and life, one that lets her problem solve the way she wants, helped Yin realize what a fulfilling life means to her. “I don’t think work-life balance is the right goal anymore,” she says. “It's more like, how do your work and your life integrate? Tools like Notion give you that flexibility — to do more of what matters to you.”
+
+Even with the best tools, balancing both is still an ongoing challenge. “I joke that sometimes it feels like I’m managing two startups, and I genuinely don’t know which one is harder,” says Yin. But it’s something that every working parent has to take in stride, and figure out what works for them. Life isn’t defined solely by Yin’s startup or her family — there’s room for both, and the flexibility to navigate between them is what’s important.

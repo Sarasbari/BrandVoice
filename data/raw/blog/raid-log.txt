@@ -1,0 +1,145 @@
+Title: RAID log: what is it and why is it useful?
+Published Date: 2023-06-23T00:00-06:00
+URL: https://www.notion.so/blog/raid-log
+
+Successful project management is successful risk management. You want to avoid as many setbacks, delays, and bottlenecks as possible in order to stick to your schedule and keep everyone motivated.
+
+But during the project planning phase, risks don’t exist yet — you merely forecast what might be a problem and track potential causes. That’s where a RAID log shines. It helps you take risk management one step further with comprehensive documentation before challenges arise.
+
+What’s a RAID log?
+
+RAID stands for risks, actions (or assumptions), issues, and decisions (or dependencies). Within project management, a RAID log is a reference document that outlines these four critical points. Managers generally create this log before beginning a project and update it throughout. They can offer it as a resource for all stakeholders involved, so everyone can monitor potential issues.
+
+How does a RAID log work?
+
+Project managers create RAID logs to store and track important information regarding the following six categories. You might decide to document 2–3 of these — they’re not all required.
+
+1. Risks
+
+Risks are incidents that haven’t happened yet that could affect a project’s scope or timeline, like losing investor funding or having several teammates out sick. Project managers can fill out a risk assessment template to determine which threats they face and work with their team to develop a thoughtful plan for avoiding or handling them.
+
+2. Actions
+
+Use this log to list all action items relevant to your project. This practice can help you identify risks and assumptions and tie issues and decisions to specific action items. It also creates transparency regarding responsibilities and expectations for your teammates.
+
+3. Assumptions
+
+At the start of a project, listing some assumptions is a great way to mitigate scope creep, or avoid it altogether. You can work with your team to determine the problems that’ll probably arise and draft a plan for handling them. This differs from risks because assumptions are things that are nearly inevitable but that you might not have a game plan for yet, like late client approvals or going over budget. Risks are threats you hope never occur but want to prepare for, just in case.
+
+4. Issues
+
+Project managers can use this log to track potential issues and the actions employees should take if those issues arise. Let’s say there are more users than expected during a software beta testing process. An employee might initialize a new server instance to handle this load, and the manager can document this issue and resolution so employees know what to do if this crops up in the future.
+
+When evaluating whether something falls under risk versus issue, remember that risks haven’t happened yet, while issues have. Only fill out incidences that have actually occurred in this section.
+
+5. Decisions
+
+Here’s where you’ll note any decisions you or your teammates make outside the original project plan. If you intended to initialize three servers but, to handle an increased load, you decide to initialize four, you’ll describe the situation, your decision, and your reasoning. This helps inform future projects and provides transparency to supervisors and external stakeholders.
+
+6. Dependencies
+
+You can also include dependencies in your RAID log, like action items one teammate must complete before another can start their work. This practice might illuminate risks you hadn’t considered and offers further visibility regarding responsibilities and expectations.
+
+Pros and cons of using a RAID log
+
+Project management tools are never one-size-fits-all solutions. Here are some pros and cons of using a RAID log so you can determine whether it’s the right document for your team.
+
+Pros
+
+RAID logs promote proactive problem-solving. Creating one encourages everyone to think ahead, strategize, and prepare — all of which contribute to the project’s success. The best way to avoid risks altogether is to prepare for them instead of handling threats on the fly, so creating a RAID log increases the chance your team avoids delays to stay on track.
+
+These logs also offer invaluable visibility for managers, vendors, clients — really anyone involved in the project. You might put an investor’s mind at ease if you can show you’ve thoroughly considered both high and low-level risks and planned for mitigating them.
+
+Cons
+
+Gaining the information necessary to fill out and maintain a RAID log takes time. And if you want to use it as a reference for future projects, part of your post-mortem includes finalizing the log. You must also be strategic about the information you use to make the document effective. Filling it with too many confusing details or using a single document for a large and complex project might diminish its value.
+
+That said, if you use a RAID log properly — or multiple logs for a big project — the time saved by mitigating and effectively handling issues will likely balance out the time lost during documentation.
+
+How to use a RAID log: 4 steps
+
+Effectively using a RAID log is all about collecting information and sharing it in a clear and easily understandable way. Follow these four steps to create a useful record:
+
+Fill out the log with your team — work with your teammates to discover risks, action items, and dependencies. You might do this while creating a thorough project plan and conducting a risk assessment, adding this information to your RAID log afterward. Consider breaking up brainstorming sessions into three meetings — one for each category — to avoid overwhelming your team. This also gives them the time necessary to reflect and bring new information to the table.Update the log — if not yourself, designate a point person to update this log as the project progresses. This keeps it relevant so every stakeholder has accurate information to go off of when making decisions or working on action items. It also provides a concise summary to management and investors, who may not want to read your entire project plan. Share your document — house your RAID log someplace central, like a Notion team workspace, to increase visibility and give everyone access. You might also connect it with other important project documents, like your roadmap or employee task to-do lists. Reflect to inform future projects — during project closure, meet with your team to discuss log information, such as issues, resolutions, and decisions made. Use this information to inform your next project. Lessons learned could help you mitigate risks even better in the future.
+
+Fill out the log with your team — work with your teammates to discover risks, action items, and dependencies. You might do this while creating a thorough project plan and conducting a risk assessment, adding this information to your RAID log afterward. Consider breaking up brainstorming sessions into three meetings — one for each category — to avoid overwhelming your team. This also gives them the time necessary to reflect and bring new information to the table.
+
+Update the log — if not yourself, designate a point person to update this log as the project progresses. This keeps it relevant so every stakeholder has accurate information to go off of when making decisions or working on action items. It also provides a concise summary to management and investors, who may not want to read your entire project plan.
+
+Share your document — house your RAID log someplace central, like a Notion team workspace, to increase visibility and give everyone access. You might also connect it with other important project documents, like your roadmap or employee task to-do lists.
+
+Reflect to inform future projects — during project closure, meet with your team to discuss log information, such as issues, resolutions, and decisions made. Use this information to inform your next project. Lessons learned could help you mitigate risks even better in the future.
+
+RAID log best practices
+
+Project management is all about thinking ahead and communicating with your team, whether through a vision board, project timelines, or other tools. A RAID log extends that communication by forcing project managers to think and act proactively. Here are some tips for creating a proactive RAID log:
+
+Use concrete data — any data you can gather from previous projects or subject matter experts will help you make more accurate assumptions and risk evaluations.Ask questions — keep constant communication flowing throughout the project by asking your teammates questions about task progress and their decisions. Employees might not know what’s worth mentioning, so asking for feedback increases the amount of information you’ll have for your log.Note successes during your debrief — during your post-project debrief, don’t simply note issues and areas for improvement for the next project. Also highlight successes, like action items teammates finished ahead of schedule and issues you resolved successfully using your predetermined plan. This affirmation and positivity will motivate your team to continue contributing meaningfully.
+
+Use concrete data — any data you can gather from previous projects or subject matter experts will help you make more accurate assumptions and risk evaluations.
+
+Ask questions — keep constant communication flowing throughout the project by asking your teammates questions about task progress and their decisions. Employees might not know what’s worth mentioning, so asking for feedback increases the amount of information you’ll have for your log.
+
+Note successes during your debrief — during your post-project debrief, don’t simply note issues and areas for improvement for the next project. Also highlight successes, like action items teammates finished ahead of schedule and issues you resolved successfully using your predetermined plan. This affirmation and positivity will motivate your team to continue contributing meaningfully.
+
+RAID log example
+
+This basic example outlines a quick project for constructing a simple company-internal messaging app.
+
+Project name: Create a simple internal messaging app
+
+1. Risks:
+
+There might be too many usersSolutions:Spin up a few more serversUse a different platform for the buildStart by only releasing it to one department and slowly scaling upEmployees might not use itSolutions:Have leadership promote the app often and from the start Have managers move most communication into the app
+
+There might be too many users
+
+Solutions:
+
+Spin up a few more serversUse a different platform for the buildStart by only releasing it to one department and slowly scaling up
+
+Spin up a few more servers
+
+Use a different platform for the build
+
+Start by only releasing it to one department and slowly scaling up
+
+Employees might not use it
+
+Solutions:Have leadership promote the app often and from the start Have managers move most communication into the app
+
+Solutions:
+
+Have leadership promote the app often and from the start Have managers move most communication into the app
+
+Have leadership promote the app often and from the start
+
+Have managers move most communication into the app
+
+2. Assumptions:
+
+It’ll take a while to move communication over into the appWhile we can’t please everyone, we should gather employee feedback to slowly improve the app for most users
+
+It’ll take a while to move communication over into the app
+
+While we can’t please everyone, we should gather employee feedback to slowly improve the app for most users
+
+3. Issues:
+
+Android users couldn’t see the app’s entire homepage on their screens, so Matt improved the platform’s responsiveness
+
+Android users couldn’t see the app’s entire homepage on their screens, so Matt improved the platform’s responsiveness
+
+4. Dependencies:
+
+Must design the mockup before we can build itMust gain C-suite approval regarding promoting this app from the top down before we share it with everyone
+
+Must design the mockup before we can build it
+
+Must gain C-suite approval regarding promoting this app from the top down before we share it with everyone
+
+Project management made easier with Notion
+
+Creating a RAID log is the ideal time to better understand your project. This document also promotes visibility for all external stakeholders, so everyone feels well-informed and hopeful about the project’s deliverables.
+
+Quickly make a RAID log template with Notion and save it as a shareable, editable document. And connect this with other important project management documents, like your project roadmap and risk register.

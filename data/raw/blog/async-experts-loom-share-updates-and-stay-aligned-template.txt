@@ -1,0 +1,57 @@
+Title: Learn how async experts Loom have mastered how they share updates and stay aligned
+Published Date: 2023-06-21T08:45-07:00
+URL: https://www.notion.so/blog/async-experts-loom-share-updates-and-stay-aligned-template
+
+Meetings bog down schedules. And when teams are working remotely more than ever, communicating across channels can feel impossible.
+
+Joe Thomas, CEO of Loom, knows the challenge. There’s tons of information to share with both internal teams and external stakeholders, he’s constantly battling how he can provide the right level of detail to enable everyone to work effectively.
+
+Whether it’s sharing weekly leadership updates with the rest of the company or providing important information with board members, Joe and the team at Loom use these templates that make working and collaborating asynchronously easier than ever.
+
+More alignment with fewer meetings
+
+Meetings with packed attendee lists often lose purpose and direction. While updates are important, they can take time away from more important strategic discussions.
+
+Loom used to have its leadership meeting weekly, but built out a template to cut it to once a month. Now, the other weeks run off a recurring template that includes sections for goals, team updates and priorities, and important discussion topics. Owners of key initiatives, like sales, marketing, and product, all update this agenda ahead of time with key metrics and OKR updates.
+
+"As a startup, velocity is the name of the game," says Joe. "Our weekly leadership template is a simple yet powerful way to help our cross-functional group understand how we're pacing against  goals and cultivate discussions about needed adjustments."
+
+Check out Loom’s Weekly Leadership Meeting template here →
+
+Adding context to meetings without creating a bulky calendar
+
+Meetings are often high priority, but there’s often not enough time to prepare for each one in real-time. To address this, Joe uses a template that his team can fill out prior to meetings, giving him a chance to catch up while skipping the additional prep meeting.
+
+So they built a template in Notion that includes all of the important to-dos, key conversation points, and any supporting docs Joe might need for upcoming meetings. It even includes an embedded Loom video of someone from the team voicing through additional context.
+
+"Having a standard template my team can fill out in advance allows me to fully prepare for a call without that added live prep," says Joe. "It also gives them clarity on what to include so these conversations are setup for success."
+
+These briefing docs have become Joe’s trusted sources for every conversation, a place he knows he find what he needs before, during, and after any calls.
+
+Check out Loom’s Executive Briefing template here →
+
+A single source of truth for board updates
+
+During a board meeting, founders share a lot of vital information with board members. It’s easy for things to get glossed over, misheard, or lost altogether.
+
+Joe’s template delivers board members async updates ahead of quarterly meetings, keeping everything organized and easy to digest.
+
+It includes everything needed — from an overview Loom recorded by the founders to bookmarked finance decks and pre/post-board meeting surveys — all in one place. And since it’s all stored in the same wiki, it’s a living repository of information that’s easy to reference at any point. The Loom founders and board members can track what’s happened in past board updates to better plan for what’s next.
+
+Check out Joe’s Board of Directors Packet template here →
+
+Adding a personal twist to company updates with a Founder Letter
+
+As companies grow, it’s difficult to keep everyone on the same page. Employees want updates, but it’s hard to know how often, what to share, and what channels are most effective.
+
+That's where Joe’s Founder Letter comes in.
+
+His letters are shared async with the company and include updates on everything important happening at Loom, from how they’re tracking against OKRs to recent pieces of feedback from the company and community.
+
+"People crave context, so it’s important that I find space to share regular updates with the rest of the company in a way that helps everyone feel informed and on the same page. And since we build and manage all of our projects in Notion, it’s easy to pull in the most up-to-date information from every team too," says Joe.
+
+Plus, it gives him a chance to create and share something personal, like the things he’s most excited about and a section on what he’s reading, watching, and listening to.
+
+Check out Joe’s Founder Letter template here →
+
+Loom has built a system of templates that encourage async work while keeping all teams aligned and doing their best work. See all of Loom’s templates on their creator profile here, and see Joe’s templates on his profile here.

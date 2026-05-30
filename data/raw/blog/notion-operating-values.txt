@@ -1,0 +1,65 @@
+Title: Notion's operating values
+Published Date: 2021-12-16T09:00-08:00
+URL: https://www.notion.so/blog/notion-operating-values
+
+Every culture has its customs. Every country has its constitutions. The same applies to organizations. Looking back at two years of growth, we wanted to take some time to consider how we can build a lasting company, one where everyone can do their best work and go after Notion's mission together. The result is a new set of operating values — authentic to where we've been, and instrumental to how we'll build going forward.
+
+We live by these tenets every day at Notion — whether we're making tough decisions, raising the bar on quality and craft, or interviewing future teammates. We want to share them with you here today because we think of them as a public contract between our whole team and our community.
+
+As Notion scales to do even more, we'll continue to revise these values and update our thinking here. Part of evolving this fast is staying flexible in how we work while staying true to what we've learned. We hope this piece gives you a window into what we stand for as a team, and how we think about serving you better every day.
+
+1. We are drivers of our mission
+
+Our mission is to make toolmaking ubiquitous. We want everyone everywhere to feel empowered to customize the software they use every day to their exact needs. To do this, we want to build a team that's inspired by this goal — folks who subscribe to the Greek concept of "eudaemonia," seeking fulfillment from hard work and constant learning. With all of this in mind, we:
+
+Put our mission first. We are a tool company. We pay close attention to the problems people want to solve with better tools and services, and follow their lead. If we don't do a good job of that, we shouldn’t exist. Tend to the garden. In a growing company, there are always many things to fix and improve. If Notion is a garden, we’re all gardeners. We all pull weeds and clear pebbles as we notice them.Optimize globally. Teams are not territories. When we face tradeoffs, we choose what's best for Notion's mission as a whole — not what's good for one person or one team.Trust each other to own and pull through. When delegating or collaborating, we give each other freedom, because we know we can rely on one another.
+
+Put our mission first. We are a tool company. We pay close attention to the problems people want to solve with better tools and services, and follow their lead. If we don't do a good job of that, we shouldn’t exist.
+
+Tend to the garden. In a growing company, there are always many things to fix and improve. If Notion is a garden, we’re all gardeners. We all pull weeds and clear pebbles as we notice them.
+
+Optimize globally. Teams are not territories. When we face tradeoffs, we choose what's best for Notion's mission as a whole — not what's good for one person or one team.
+
+Trust each other to own and pull through. When delegating or collaborating, we give each other freedom, because we know we can rely on one another.
+
+2. We are pace setters
+
+We know we're rookies in many respects, even though we aspire to the big leagues. As a startup, our best advantage is enthusiasm, agility, and speed of execution. We want to set the pace in our market by shipping good things constantly. This is why we:
+
+Bias toward action, especially when the decision is reversible. Most decisions can be revisited and improved over time. Optimizing for speed allows us to learn quickly about the market and our users, and arrive at better solutions. We don't let perfect be the enemy of done.Build a habit of urgency. In a world of unpredictable outcomes, what we can control is executing with speed in mind. As a company, we always ask ourselves: how can we move faster?Inspire our teammates. When everyone is a pace setter, the combined energy changes the cadence of work and creates positive momentum.
+
+Bias toward action, especially when the decision is reversible. Most decisions can be revisited and improved over time. Optimizing for speed allows us to learn quickly about the market and our users, and arrive at better solutions. We don't let perfect be the enemy of done.
+
+Build a habit of urgency. In a world of unpredictable outcomes, what we can control is executing with speed in mind. As a company, we always ask ourselves: how can we move faster?
+
+Inspire our teammates. When everyone is a pace setter, the combined energy changes the cadence of work and creates positive momentum.
+
+3. We are truth seekers
+
+Ideally, the best ideas should always win. But as we get bigger, a lot of things can get in the way of that, like organizational complexity, inertia, and short-termism. Our "truth" is our mission and our users' needs. Rigor, focus, and open-mindedness are our guides. Seeking truth means we:
+
+Always start with our users. We constantly ask ourselves: “Is this actually useful for people? Is this what our customers say they want, or what they actually want?" Behind the metrics, it's humans who use our tools.Think rigorously from first principles. The quality of our decisions reflects the amount of homework we've done. By exploring many options from first principles, we'll arrive at stronger choices. We don't underestimate the power of a good pro-con list.Have the courage to make hard tradeoffs. Most results come from focusing on very few initiatives. We're pragmatic about how we should deploy our resources and are ok saying no.Debate to make progress, not to win. Good ideas can come from anywhere. We check our egos at the door and stay open-minded about everyone's opinions so we can get to the truth together (This Apple video made a big impact on us).
+
+Always start with our users. We constantly ask ourselves: “Is this actually useful for people? Is this what our customers say they want, or what they actually want?" Behind the metrics, it's humans who use our tools.
+
+Think rigorously from first principles. The quality of our decisions reflects the amount of homework we've done. By exploring many options from first principles, we'll arrive at stronger choices. We don't underestimate the power of a good pro-con list.
+
+Have the courage to make hard tradeoffs. Most results come from focusing on very few initiatives. We're pragmatic about how we should deploy our resources and are ok saying no.
+
+Debate to make progress, not to win. Good ideas can come from anywhere. We check our egos at the door and stay open-minded about everyone's opinions so we can get to the truth together (This Apple video made a big impact on us).
+
+4. We are kind and direct
+
+Kindness isn't holding back criticism. It's helping our colleagues get better at their craft. When people are afraid to give direct feedback, ideas aren't explored, trust isn't built, respect isn't earned, and we don't learn as fast. On the other hand, we want to co-create a culture where people feel safe and supported to share their ideas, and we maintain that rare human touch in all we do.
+
+At Notion, it's important we strike this balance, with these in mind:
+
+Being kind is not the same as being nice. Superficial praise or diluting opinions is not helpful. Being kind is about taking responsibility for our impact on the people around us, and being mindful about how our interactions and presence can affect others and their growth.Assume positive intent in others. In a world of quick Slack messages and Notion doc comments, words can easily be taken the wrong way. We love to work with people who default to assuming positive intent. We also try to give constructive feedback in-person or through video calls so it's easier for the recipient to understand why we're offering it and how it can help.Be direct and give thoughtful feedback. Everyone comes from different backgrounds, which shapes how we give and receive feedback. So, it's up to us to be sensitive in our delivery, listen with self-awareness, actively seek feedback for ourselves, and be quick and candid about small things before they become big things.
+
+Being kind is not the same as being nice. Superficial praise or diluting opinions is not helpful. Being kind is about taking responsibility for our impact on the people around us, and being mindful about how our interactions and presence can affect others and their growth.
+
+Assume positive intent in others. In a world of quick Slack messages and Notion doc comments, words can easily be taken the wrong way. We love to work with people who default to assuming positive intent. We also try to give constructive feedback in-person or through video calls so it's easier for the recipient to understand why we're offering it and how it can help.
+
+Be direct and give thoughtful feedback. Everyone comes from different backgrounds, which shapes how we give and receive feedback. So, it's up to us to be sensitive in our delivery, listen with self-awareness, actively seek feedback for ourselves, and be quick and candid about small things before they become big things.
+
+As we move into a new year, we want these values to set a foundation for the future. So that decades from now, when folks look back on their careers, they can confidently say that Notion is the place where they did their best and most meaningful work — that’s the vision and company we strive to create.

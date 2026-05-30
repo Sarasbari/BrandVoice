@@ -1,0 +1,59 @@
+Title: The design thinking behind Notion AI
+Published Date: 2023-09-21T12:00-07:00
+URL: https://www.notion.so/blog/the-design-thinking-behind-notion-ai
+
+When people use Notion, we want it to “just work” — everything should happen the way you want it to. In its ideal state, Notion is one AI-connected workspace that evolves to suit your content and habits by putting the right tools in front of you, right when you need them.
+
+Artificial intelligence is vastly expanding the possibilities of what you can do with Notion, but integrating this new technology isn’t easy. Many of today’s AI tools are little more than a thin-wrapped API call on a blank text input. Notion AI, by contrast, has to seamlessly fit with Notion’s building blocks and workflows in a way that’s easy to use and valuable for everyone, no matter what they’re doing, and when and where they’re doing it.
+
+Here’s how we’re designing Notion AI, while making sure Notion keeps becoming simpler, more delightful, and more useful.
+
+Fitting AI in Notion’s building blocks
+
+Notion is built mostly from “blocks,” the base concept we use to store information. Every piece of content in Notion is a block, from simple text and media to pages and databases — and those pages and databases are blocks themselves, which contain other blocks and give them structure.
+
+You can mix and transform these blocks to capture and create whatever you want, whether it’s a fleeting thought or a multi-database workflow. Some people will want to build everything from scratch, but most won’t — they just want simple tools that are easy to use. For those folks we package the blocks into pre-built tools, starting with the most common workflows people do in Notion: Wikis, Docs, and Projects.
+
+Software designers often face this tension between building one flexible, generalized system or sleek, single-purpose tools. We believe in the magic of having both, and it’s how we’re designing Notion AI. We see AI not as a standalone vertical feature, but as a horizontal layer that works with every block and surface and comes packaged for the most common workflows, so the right AI tools are easily accessible when you need them, right out of the box.
+
+Our first step was applying AI to the most common block types — text and pages. Writing is one of the easiest things you can do in Notion, and a key flow in every use case for every user. So we packaged up the most useful writing and editing AI skills, from one-click “Improve writing” to tonal adjustments and complete first drafts. (This approach is actually how Notion started. 1.0 had pages, 2.0 had databases. We started from the most common things people do, and built on those.)
+
+Next we had to make sure that, whether you’re a student taking notes, a product manager writing a PRD and triaging tasks, or anyone else, Notion AI offered you the tools that could help you the most right now.
+
+Putting AI in your flow
+
+We believe making software delightful isn’t about attention-grabbing visuals. It’s about the software anticipating what you need and delivering it when and where you need it, in the simplest, smoothest way possible. In designing Notion AI, we use context to make sure you get the most valuable tools at your fingertips, wherever in the product you’re creating and editing content.
+
+In every state of Notion there’s a page open. That page could be empty or filled with content, holding a task or a note, shared in your Teamspace or owned by someone else. You might be starting a new block or selecting existing text that needs some kind of revision. We use all this context to get you closer to the AI tools you need:
+
+When you start a new page and hit Space for AI, we prioritize drafting tools to help you brainstorm ideas, populate a meeting agenda, or tell AI what you want it to write.
+
+When you add a new block to a page with existing content and hit Space for AI, we prioritize tools like “Continue writing,” “Summarize,” and “Find action items,” which let AI work with this content to generate more ideas or extract useful information.
+
+When you select a block of text and hit Ask AI in the selection toolbar or ⋮⋮ six-dot menu, we prioritize editing tools like “Improve writing,” “Change tone,” and “Fix spelling & grammar,” so you can one-click edit with AI. In this editing mode we show you AI’s responses in a separate window, so you can compare the two drafts and decide whether you want to replace the selected text.
+
+Even within a database — like when you’re using Notion Projects — AI Autofill extracts key information from database pages to summarize task progress automatically, and continues to do this even as new tasks get added and change the project’s lifecycle.
+
+Like the pre-built packages we mentioned above (Wikis, Docs, Projects), AI skills like “Brainstorm ideas,” “Continue writing,” and “Summarize” are also pre-built. They take in your page or context and just work. But if you aren’t happy with the result, you can give AI more details in a follow-up, just as you can customize AI autofills on a pre-built project workflow. Under the hood they’re all just AI skills sharing the same technology, concept and interface, but optimized for the current context.
+
+Over time, as Notion AI is able to take in more context — moving beyond one page into your broader workspace, understanding individual and team preferences, drawing on connected content — we’ll be able to apply AI to even more useful and personalized tasks. But we'll be careful to maintain Notion’s core flexibility, so anyone can customize and create tools that perfectly fit their needs.
+
+AI as customizable as the rest of Notion
+
+Just as we designed other Notion blocks, AI’s flexibility maximizes what users can do in Notion. Most people will use the pre-packaged tools we offer out of the box. But the toolmakers among us will learn to prompt the model to tailor AI to their own workflows. We see this ethos in our community daily. It’s so unique, and we want to make all our tools as customizable as possible to encourage it.
+
+So along with those pre-built options, you can prompt AI for anything in plain language (English or otherwise), and it will try to respond with something useful. You can even adjust the format in the prompt, like asking AI to give you a bulleted list or a simple table. During our alpha testing, users discovered cool ways to use Notion AI that we’d never even dreamt of, like generating diagrams with Mermaid, or formatting a doc into a simple table.
+
+AI is also a block you can customize. You can insert pre-packaged AI blocks into a template  (“Summary” or “Action items”) that take in a specific page’s context, or create a Custom AI block with your own prompt to get exactly what you want.
+
+To make these custom prompts easier to access, we recently released AI favorites. When you find an AI prompt that’s useful, you can save it, name it, and run it with one click, like our pre-built prompts. And we’re exploring ways to let our users better share their favorite prompts with teams and back to our community.
+
+Building AI into Notion’s future
+
+One of our most exciting challenges as designers is fitting AI into Notion in a way that amplifies the product’s power, and makes it more accessible for more people.
+
+Yes, that means blocks. But it also means all the non-block concepts and surfaces that are part of Notion: people, teams, comments, updates, connections, setting up templates and databases, and so much more.
+
+In truth, we’re just getting started. It’s exciting to imagine what AI will be able to do when it can understand more Notion building blocks and actions, come packaged in more specific workflows, and help you tailor your tools and find more connections between them. We think AI is a force multiplier that will transform the Notion experience, and give people more power than ever to shape the tools they need to do their best work and bring to life their best ideas.
+
+We can’t wait to see what you come up with.

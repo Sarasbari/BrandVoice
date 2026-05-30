@@ -1,0 +1,127 @@
+Title: Mastering SoWs: A Comprehensive Guide to Effective Statements of Work
+Published Date: 2023-07-12T00:00-06:00
+URL: https://www.notion.so/blog/statement-of-work
+
+We’ve all been at the center of a misunderstanding.
+
+Perhaps you got your wires crossed and showed up to an office party with a dish someone else already brought, or arrived an hour early to a meeting because you read the time wrong.
+
+These minor errors are worth shaking — or laughing — off. But when a misalignment with a client causes your business to deliver the wrong output or miss a deadline, the consequences are no joke. You could lose a loyal customer, diminish trust in your business, and damage the company’s image.
+
+Successful projects begin with clear expectations. What exactly will you deliver, and when? To ensure all parties are on the same page before you hurtle off the starting block, you need a strong statement of work.
+
+What’s a statement of work (SoW)?
+
+A statement of work is a legal document that outlines the all essential aspects of a project, including its timeline, deliverables, and activities. This contract sets terms and conditions at the outset of the initiative, and both you and your client must sign off on it before work can begin.
+
+As one of the earliest documents in the project management life cycle, the SoW plays a significant role in shaping the work ahead. It covers more than the start and end points of the project — it defines every step along the way. A great SoW provides as much detail on these operations as possible to mitigate any future misunderstandings and eliminate all work outside of what’s stipulated in the agreement (a common phenomenon known as “scope creep”).
+
+Why is a statement of work important?
+
+A serious mix-up with a client is expensive — it costs time, resources, and trust.
+
+An SoW is designed to save you and your client these unnecessary headaches. But what makes this particular agreement so powerful?
+
+Here are a few reasons why you should prepare an SoW for every client-facing project:
+
+Sets clear expectations — a detailed SoW delineates exactly what work your company will perform for the client. Some even go so far as to make expectations and deliverables crystal clear by stating what work your team will not take on. And when questions about project scope crop up, this document serves as a bulletproof reference.Guides those working on the project — an SoW is a clear guide for all project contributors, including employees, suppliers, and contractors. This information is relevant even during the planning phase: vendors bidding to work on a project, for example, should review the scope of work to understand what they can offer and how to meet quality standards.Encourages project managers to think critically — creating an SoW requires serious focus and thoroughness because you must delve into project minutiae. The drafting process is an unparalleled opportunity for you to gain a clear view of the work ahead and adequately structure the project down to the smallest details.
+
+Sets clear expectations — a detailed SoW delineates exactly what work your company will perform for the client. Some even go so far as to make expectations and deliverables crystal clear by stating what work your team will not take on. And when questions about project scope crop up, this document serves as a bulletproof reference.
+
+Guides those working on the project — an SoW is a clear guide for all project contributors, including employees, suppliers, and contractors. This information is relevant even during the planning phase: vendors bidding to work on a project, for example, should review the scope of work to understand what they can offer and how to meet quality standards.
+
+Encourages project managers to think critically — creating an SoW requires serious focus and thoroughness because you must delve into project minutiae. The drafting process is an unparalleled opportunity for you to gain a clear view of the work ahead and adequately structure the project down to the smallest details.
+
+Statement of work versus scope of work
+
+“Statement of work” and “scope of work” are often confused. Yes, the statement of work solidifies the scope of your project, but a “scope of work” statement isn’t equivalent to the SoW — it’s much more brief.
+
+Your SoW is a lengthy, legally binding document that establishes all the project’s essential aspects. Your scope of work, on the other hand, only describes how your team will work to meet project goals. You can think of it this way: the scope of work forms part of your SoW, which is far more extensive.
+
+The 3 types of statements of work
+
+There are three broad types of SoWs, each catering to a specific aspect of project management. When you sit down to prepare your own document, consider which kind of SoW makes the most sense for your initiative.
+
+Here’s more on the role of each:
+
+Design or detail — this type of SoW defines terms for suppliers. It outlines the requirements of the work and any regulations that will guide it. A design/detail SoW spans topics including payment terms, quality acceptance metrics, and product characteristics. Effort, time, and materials — most project managers, no matter their field, stand to benefit from this kind of SoW. This document describes the effort and time a project will require and the unit cost of materials, resources, tools, contractors, and employees. Performance-based — a performance-based SoW focuses on deliverables, describing their quality level and purpose. Drawing attention to outputs instead of processes, this document empowers project managers to chart the course they see fit to create quality  deliverables.
+
+Design or detail — this type of SoW defines terms for suppliers. It outlines the requirements of the work and any regulations that will guide it. A design/detail SoW spans topics including payment terms, quality acceptance metrics, and product characteristics.
+
+Effort, time, and materials — most project managers, no matter their field, stand to benefit from this kind of SoW. This document describes the effort and time a project will require and the unit cost of materials, resources, tools, contractors, and employees.
+
+Performance-based — a performance-based SoW focuses on deliverables, describing their quality level and purpose. Drawing attention to outputs instead of processes, this document empowers project managers to chart the course they see fit to create quality  deliverables.
+
+Project management: How to write a statement of work
+
+Writing an SoW is a massive undertaking. Because the agreement must delve into nitty-gritty details, the resulting document is usually quite extensive.
+
+You don’t want to navigate the writing process without a roadmap — that’s a recipe for wasted time and frustration. Fortunately, with a little patience and the right directions, you can create an effective SoW without pain points.
+
+Here’s a high-level guide to the process:
+
+Determine the purpose and scope of the project — define the purpose of the end product and outline how the team will achieve that goal. Establish key deliverables and corresponding dates on the project timeline.  Define project tasks — determine the specific work your team will undertake. Break the efforts into phases or more digestible fragments to get a firm grasp on all activities the project demands. Structure the project — create a timeline for tasks, map milestones, and schedule output deliveries. Ensure the project structure adheres to the scope of work and doesn’t ask for too much in too little time. Set acceptance criteria and requirements  — suppliers, vendors, and contractors working on your project require a guide for the quality and parameters of their work. Set rigid standards for third-party outputs and be prepared to enforce them. Not all projects require help from third-party vendors — if yours doesn’t, use this space to describe internal approval processes and requirements to ensure quality.  Establish pricing and payment terms — clarify the project cost to the client and detail when payments are due. If you’re employing third parties, determine the terms and conditions of their payments as well.
+
+Determine the purpose and scope of the project — define the purpose of the end product and outline how the team will achieve that goal. Establish key deliverables and corresponding dates on the project timeline.
+
+Define project tasks — determine the specific work your team will undertake. Break the efforts into phases or more digestible fragments to get a firm grasp on all activities the project demands.
+
+Structure the project — create a timeline for tasks, map milestones, and schedule output deliveries. Ensure the project structure adheres to the scope of work and doesn’t ask for too much in too little time.
+
+Set acceptance criteria and requirements  — suppliers, vendors, and contractors working on your project require a guide for the quality and parameters of their work. Set rigid standards for third-party outputs and be prepared to enforce them. Not all projects require help from third-party vendors — if yours doesn’t, use this space to describe internal approval processes and requirements to ensure quality.
+
+Establish pricing and payment terms — clarify the project cost to the client and detail when payments are due. If you’re employing third parties, determine the terms and conditions of their payments as well.
+
+The key components of a statement of work
+
+No matter the undertaking, SoWs generally include the following components. We’ve included simple statement of work examples for each element to help you visualize them at work.
+
+1. An introduction
+
+The introduction should name the parties involved in the project and describe the work ahead. Leave this section broad — you’ll establish finite terms elsewhere in the document.
+
+The introduction for an app development project would outline the tech provider, the client, and the nature of the software. For example: “We will design and launch a smartphone application on behalf of the client that tracks device usage and reminds users to get up and move at regular intervals.”
+
+2. The project purpose
+
+Describe the “why” of the project — the reason you and the client are taking on this work. Clearly identify all overarching goals and key deliverables that align with this objective.
+
+Following the development example above, this section would include how the software meets the end user’s want or need (to reduce screen time and promote exercise) and what your company will deliver to the client (a finished app).
+
+3. The scope of work
+
+Spell out all the work your team will perform — in detail. Also, outline all necessary tools, supports, and contributors and describe the framework for the project.
+
+The scope of work might explain how your team will develop the app, the general phases of work, and a high-level timeline. It should also detail every person who will contribute to the design and development of the application and the tools they will use.
+
+4. Tasks
+
+Break the project descriptions from the scope of work statement into tasks. Now’s the time to get specific: some project managers use a work breakdown structure (WBS), a tree-like diagram that breaks projects into smaller and smaller action items, to facilitate this process.
+
+The tech development team could take the overall goal of developing an app and divide it into bite-sized items, such as choosing cohesive branding elements, engineering UX and UI, and testing the product.
+
+5. Milestones
+
+Plan the project timeline and schedule critical milestones to track timeliness, progress, and spending. With milestones in place, you can monitor data such as the actual versus projected percentage of tasks completed by a specific date and see if the project is on schedule or requires an adjustment.
+
+Let’s say the hypothetical app development team should have ticked off 50 story points by the end of week one and has only completed 40. You know the project is falling behind, so you can redistribute resources and ramp up workflows to get back on track.
+
+6. Deliverables
+
+Provide a detailed description of project deliverables and their respective due dates. For example, you might state that you’ll deliver a fully functional and error-tested application to your client on June 1. Along the way, you’ll submit the user journey map for approval by December 1 and a prototype of the finished application on April 1.
+
+7. Standards and requirements
+
+Project standards and requirements vary and depend on the size of the project. Is it entirely in-house, or does it involve vendors or contractors?
+
+Use this section to detail the acceptance standards for work your team or third parties perform and any relevant testing requirements. The tech development team, for example, might specify what it means for functionality to be client-ready. In order for a deliverable to be submitted to the client for approval, it must be fully complete, tested by the team lead, and reviewed by the project manager.
+
+8. Payment terms
+
+Determine how and when the end client will pay you. For instance, payment terms might stipulate that the end client pays for a certain percentage of work before you start developing the app and completes their payment when you hit a particular delivery milestone or complete the project.
+
+Streamline project management with Notion
+
+No two projects are identical, but most rely on similar structures, documentation, and requirements to run smoothly. Save valuable time and precious brainpower by employing templates, guides, and planning tools to streamline these organizational aspects of project management.
+
+Notion’s platform contains a library of resources and powerful collaboration tools, including customizable knowledge databases for teams. Use our project goals hub to outline project objectives, our product development planning template to establish and share processes, and our handy task tracker to monitor progress. Plus, you can build a project roadmap or write a project brief using Notion’s guides.

@@ -1,0 +1,31 @@
+Title: Notion AI is adding Slack to its workplace search, with Google Drive, Jira, Salesforce and more on the way.
+Published Date: 2024-06-18T00:00-07:00
+URL: https://www.notion.so/blog/our-attention-is-broken-maybe-ai-can-fix-it
+
+The meditation app Serene recently conducted an experiment to quantify Slack’s impact on focus. Their app designer, Ben, wore an electroencephalogram cap while experiencing various levels of Slack interruption, from a persistent icon in his dock to a red dot that blinked and made noise. The results were clear: the more intrusive the interruption, the more Ben’s focus suffered. “In all instances,” the report summarized, “Ben’s focus declined immediately after receiving a Slack notification and continued to decline afterwards.”
+
+I don’t mean to dis Slack. I love Slack! When I click its colorful cross-thatched logo I’m swept into my company slipstream with a fluidity I couldn’t have imagined back when my work life was all about email and Hangouts.
+
+But instant connectivity comes at a cost. Slack notifications—along with all the other pings about meetings, tasks, and project updates—take a machete to our focus and diminish our productivity.
+
+So as we announce this week that Notion AI now connects to Slack messages—with Google Drive, Jira, GitHub, Salesforce, and other work apps coming soon—I’ve found myself thinking of that Serene experiment, and the larger problem of our broken relationship with the attention economy.
+
+The fuel of the information era is human beings’ limited—and therefore valuable—capacity to attend to modern life’s maelstrom. Our awareness is currency, and we’re constantly being pressured to part with it. Pay attention. Show interest. Spend a moment. Our time really is money.
+
+In a recent Ezra Klein podcast, the historian D. Graham Burnett bemoans this commodification of our very consciousness. It was just 40 years ago that people began to see personal fitness as key to their physical health, Burnett says. Today we’re increasingly seeing attention management as key to our mental health. The average knowledge worker juggles 11 apps a day in order to do their job, and almost half can’t find the info they need to do it well.
+
+There’s a war on for our attention, and we’re losing.
+
+At Notion we think a lot about these issues. Notion has always been a place where knowledge lives and work happens—you synthesize insights in shared workspaces, brainstorm ideas, create docs, plan projects. But storing content in Notion tends to lead to storing more content in Notion, and over time, finding information becomes challenging.
+
+Last year we launched our AI search tool, Q&A, to make it easier.
+
+If Slack is the ultimate short-attention-span tool, AI is the opposite. Today’s large language models are trained on more or less the entire Internet. Ask GPT-4 what happened during the Dark Ages and it will handily summarize everything from Charlemagne’s coronation to the Viking invasions. But ask what action items your boss gave you yesterday and watch AI flail.
+
+Q&A searches not just GPT-4’s infinite information pool but also your company’s relatively small but—to you—extremely important knowledge base. This more contextually relevant workspace search means colleagues can answer their own questions instead of virtually tapping you on the shoulder with Slack pings.
+
+But this still doesn’t fully solve the distributed-information problem for companies whose data extends beyond Notion to customer relationship management, messaging, docs, and more. So in the months to come, Notion AI will start integrating content not just from Slack but from other apps—Google Drive, Jira, GitHub, Salesforce—on its way to integrating all your company’s knowledge.
+
+Throw in an AI tool that’s adept at knowing what information you need to see, and when and why, and a lot of this content can move from being short-term attention to long-term knowledge that surfaces only when you need it.
+
+Can you imagine? No more endless blinking updates forcing us to calculate which intrusion to accept at any moment. Maybe in the not-too-distant future when we need to focus on deep work, we can turn off Slack (and other) notifications altogether, and trust AI to tap our shoulder if it's absolutely necessary. Then we can sit back and—ahhh, serenity—do what we actually want.

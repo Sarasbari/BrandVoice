@@ -1,0 +1,61 @@
+Title: How Ramp built an AI operating system for scalable work
+Published Date: 2025-12-02T09:00-08:00
+URL: https://www.notion.so/blog/how-ramp-built-an-ai-operating-system
+
+Ben Levik has learned the worst strategy for using AI at work: Waiting for it to get easier.
+
+He currently leads operations and AI product teams at Ramp, where they’ve spent the last year building what he calls an “AI operating system” for the entire company. The mission is audacious but simple—build the most productive company in the world.
+
+His learning came from watching how different teams respond to AI adoption. As he shared in his Make with Notion session, most fall into predictable patterns—waiting, hoping tools will solve everything, or worrying about being replaced.
+
+Ramp chose a different path.
+
+The Builder mindset
+
+There are four archetypes of how people think about AI right now.
+
+Doomers believe AI will take their jobs, so why bother trying? Zoomers, on the other hand, are hopeful that in a few months, one button will do everything for them. Boomers are cautiously optimistic and plan to wait a year or two until someone figures out the “right” way to AI.
+
+And then there are Builders—people who understand that work is fundamentally changing now, and see an opportunity to design the new version of their job.
+
+It’s the Builders who really drive impact. They put themselves in the driver’s seat and don’t wait for the perfect AI tool—they’re learning, practicing, and iterating now to build what works best for them.
+
+Three steps to becoming a Builder
+
+Ramp’s approach to becoming a Builder breaks down into three stages: Prompt, Knowledge, and Workflow. Each stage builds on the last, moving from “what do I want AI to do?” to “how do I make this happen automatically?”
+
+1. Prompt: Getting precise
+
+For years, we’ve learned that typing a few words into Google gets you results. You scroll, click, and eventually find what you need. Ben calls this the “epidemic of vagueness,” where you throw a few nonspecific words into search and get answers. But AI demands the opposite—you need precision, context, and detail to really get the best out of it.
+
+Ramp gave its employees ubiquitous access to AI tools and made prompting a daily practice. Now, about 90% of their 1,200 employees use Notion AI monthly. Access alone isn’t enough though—the real unlock comes when you use AI to get better at AI.
+
+Here’s how it works: Start with a vague prompt, but don’t hit enter yet. Ask AI to ask you questions that will help it do better work. Answer those questions, then have AI rewrite your prompt based on what you shared. Loop until you get what you need.
+
+It’s a simple pattern that Ben says has completely changed how people interact with AI. Instead of getting frustrated with mediocre results, you’re teaching AI—and yourself—to be more precise with every interaction.
+
+2. Knowledge: Centralizing information
+
+It seems like most teams these days face a similar challenge: Their knowledge is scattered across too many tools. Slack conversations here, Google Drive docs there, GitHub discussions somewhere else entirely. Everything is maintained by a half dozen different teams, and is constantly out of sync. Pour AI on top, and watch it confidently deliver outdated information.
+
+Ben tackled this by consolidating knowledge into a single source of truth in Notion, then connecting it to the rest of their tool stack. But what made this work at scale was building feedback loops to keep knowledge accurate and current.
+
+Now, as teams at Ramp use their knowledge base, they flag what’s missing or wrong. AI proposes fixes, and humans approve. Say someone asks Notion AI about a policy but realizes the answer is old. They flag it in a feedback database, where a Custom Agent drafts a correction. A knowledge manager then reviews and publishes the change. The whole process takes minutes instead of sitting in a ticket queue for two weeks.
+
+3. Workflow: Scaling without engineers
+
+Writing a good prompt is one thing. Getting the right inputs—conversations from Slack, data from Salesforce, connecting dots across systems—has historically required significant technical help. Now with AI agents and connectors, it’s possible to scale up workflows with little to no engineering support.
+
+Ramp’s approach is straightforward. Information goes in, AI does work, and the output lands somewhere useful. Product teams get weekly project updates automatically summarized from five different sources that’s then published to Slack. Sales uses workflows to do deep research on prospects, then drafts emails that wait in their outbox ready to review and send.
+
+It’s changed how teams at Ramp work at scale because so many pieces of their workflows can now happen in parallel with other work. They were able to ship 270 features in the first half of 2025—more than all of 2024 combined. Now, the bottleneck isn’t execution. It’s deciding what to automate next.
+
+Don’t wait for the future—build it
+
+The takeaway isn’t complicated: Get precise with your prompts, fix your knowledge systems, then build workflows that make everything scale.
+
+But the real learning here is about timing. You can’t wait for AI to get easier. The tools won’t magically become simpler, and waiting means falling behind. The teams building the muscle now—practicing, failing, iterating—are the ones who will have the advantage as AI keeps getting better.
+
+The tools are ready. How will you decide to build your future?
+
+Ready to start building? Watch our webinar to see how you can centralize knowledge and scale with AI.

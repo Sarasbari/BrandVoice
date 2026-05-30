@@ -1,0 +1,69 @@
+Title: How to set up systems for organizational learning for your startup
+Published Date: 2021-10-26T09:00-07:00
+URL: https://www.notion.so/blog/how-to-set-up-systems-for-organizational-learning
+
+Organizational learning helps spur your startup's growth by moving everyone forward in lockstep — from new employees to old hats alike. Think about it like this. If your product team found a new, better way to organize a launch, wouldn’t you want the rest of your team to learn from it? Or if one of your engineers discovered a new QA method, wouldn’t you want the rest of the team to know? Learning is crucial for individuals’ growth, but it is also critical for organizations’ growth. Organizational learning takes one person’s or one team’s learnings and codifies them for the rest of the team to benefit from. Whether it’s updating an existing process or proposing a new way of doing things — when this centralized knowledge is accessible by everyone, it helps the whole team level up. We’ve talked about why you shouldn’t leave organizational knowledge undocumented and living in one person’s head. Retaining this knowledge within your startup requires systems that function independently of the people feeding information into it. Whatever learning systems you create should influence not only existing employees but also future ones. And it’s just as important for organizations to understand when to unlearn information. Here are some key elements that startups need to have in place to foster organizational learning.
+
+Make knowledge sharing a part of your startup’s DNA
+
+Rather than waiting until your company’s behind the curve (like Nokia), embed organizational learning in your startup’s culture from the start. From knowledge creation to knowledge transfer, learning needs to happen at every level and on every team — and it’s something that doesn’t stop, it continues to grow with your startup. Employees should know right from the onboarding process what the company’s values are around knowledge sharing and get initiated in that culture from day 1.An encouraging environment, concrete processes, and active leadership are necessary elements for building the right culture. Some other ways to make organizational learning a part of your startup’s culture include:
+
+Communicating expectations around knowledge sharing, and transfer early and frequentlyCreating space for employees to share their knowledge with databases that anyone can accessEncouraging team members to share learning moments in publicRecognizing and rewarding active participants in knowledge sharing
+
+Communicating expectations around knowledge sharing, and transfer early and frequently
+
+Creating space for employees to share their knowledge with databases that anyone can access
+
+Encouraging team members to share learning moments in public
+
+Recognizing and rewarding active participants in knowledge sharing
+
+Additionally, scheduling knowledge-sharing sessions where employees give insight into a new process they’ve created or how they mastered a new skill can help make it part of the company culture. The data team at SOCAR, South Korea’s largest car-sharing platform does this by having a study group where everyone reads articles and shares interesting findings in a central Notion page. They can revisit their findings to apply to internal projects and improve the quality of their work.
+
+Have leadership underscore the importance of organizational learning
+
+Learning inevitably flows from the top down — if employees think that the leaders don’t care, they’re not going to care either. It’s the leaders’ job to clarify the connection between organizational learning and its impact on the company’s overall mission. In an interview with Howspace, Chris Evans, an Executive VP, says, “... you need to always be very clear on why you [the leader] are doing what you are doing and communicate it in a way that resonates with the people in the front line.” Essentially, executive buy-in and behavior modeling begin at the top. However, leadership shouldn’t be expected to manage the day-to-day organizational learning — they’re too far from it. The whole point of organizational learning is to gather the knowledge that employees have gained while working and use it to improve the company. While leaders can set the strategy and highlight its importance, those actually accruing the knowledge, changing the processes, and learning specifics every day need to be the ones who keep up organizational learning. By democratizing decision making and access to the knowledge used to make decisions, employees feel more engaged and are more likely to participate in learning activities.
+
+Implement a sharing culture so all team members are heard
+
+It’s important to encourage teammates to share their knowledge broadly, but they also need some sort of forum to do it in. Here are some ideas for ways teammates can — at the very least — discuss new ideas before implementing them.
+
+Set up a Slack channel dedicated to ideas about ways to change processes or share learningsHold monthly brainstorming meetings like retrospectives where teams figure out what’s working, and look at what isn’t
+
+Set up a Slack channel dedicated to ideas about ways to change processes or share learnings
+
+Hold monthly brainstorming meetings like retrospectives where teams figure out what’s working, and look at what isn’t
+
+At the end of onboarding cohorts, you can ask new employees what they thought could be improved or what organizational knowledge was missing from the process (and fill in the holes after the fact)
+
+At the end of onboarding cohorts, you can ask new employees what they thought could be improved or what organizational knowledge was missing from the process (and fill in the holes after the fact)
+
+When employees know that new perspectives and different points of view are encouraged, they’ll feel more confident about suggesting and sharing new ideas.
+
+Set up a knowledge management system
+
+Now that everyone is eager to participate in organizational learning, where will the information live? How can people new to your company find it? And how can you build it into your company culture to last?Knowledge-management systems serve as a base of operations and communication. They also serve as a collaboration tool for transferring and retaining knowledge. Embedding knowledge in technology can prevent people at the organization from forgetting and allow knowledge to transfer across barriers such as distance, organizational unit, and specialization.This Deloitte report found that although 75% of organizations recognize the importance of creating and preserving knowledge as important for their success, only 9% of them are ready to address this trend. Two of the most common readiness issues were organizational silos and tech infrastructure — a knowledge management system can help solve both.
+
+(Source: Deloitte)
+
+For example, the design team may gain insights from the process of revamping your app’s homepage that other teams can benefit from. By capturing knowledge in easily accessible documents, it becomes easy to integrate them into the workflow of any team that might want access.With an internal knowledge management system, all relevant company information lives a centralized location for easy access. Then, employees can go in and add, modify, and share the knowledge. Your knowledge base should facilitate every part of organizational learning: creation, retention, and transfer. Here’s how you can build a knowledge management system (with a template to get you started in one click).
+
+Review organizational learning systems often
+
+Without collecting feedback and reviewing existing systems, it’s easy to get caught in a repetitive cycle with your organizational learning. Rather than just operating an automatic system, feedback makes it easy to see when things are going well and when they aren’t.Reviewing feedback can be as simple as weekly or monthly check-ins with team members or as complex as financial modeling based on performance data. As the business grows, these feedback loops will allow the system to become more and more focused.
+
+Insights from reviewing your systems can also help with recognizing where employees might be a better fit. For example, an employee might show a lot of the expertise required to work on a new project through their active knowledge sharing. Knowing this can help you move them into a role that better fits their strengths and career trajectory.
+
+Organizational learning should always be collaborative
+
+Organizational learning takes place at all times, with every team member gaining and sharing knowledge across the team. If even one employee isn’t participating in or doesn’t understand the purpose of knowledge sharing, then your approach to organizational learning isn’t properly implemented. With Notion, knowledge sharing happens asynchronously, and team members can easily get a bigger picture of the role that organizational learning has on the company’s goals. Headspace’s product team has found Notion useful for keeping the team mission focused. Ken Seeno, a Product Design Manager at Headspace, says, “Notion encourages an open and collaborative environment for multiple people to contribute in one space or document.” By consolidating all their work in Notion, the Headspace team is able to update shared documents and avoid repeating existing work — and extend their team’s organizational learning.Here are some templates that can help you get started with building your internal systems for organizational learning.
+
+Company wiki templateProduct team wiki templateDocs database templateEngineering roadmap template
+
+Company wiki template
+
+Product team wiki template
+
+Docs database template
+
+Engineering roadmap template

@@ -1,0 +1,57 @@
+Title: AI is the new plastic
+Published Date: 2024-10-02T10:00-07:00
+URL: https://www.notion.so/blog/ai-is-the-new-plastic
+
+In a recent conversation about design history, I learned about the surprising triumph of plastics in the 1950s. Plastic’s novel aesthetics, flexibility, and popularity led me to wonder whether it could be a useful metaphor for understanding the progress of AI, and how we should view AI as a new building material.
+
+The Roaring Twenties are remembered for the rise of Art Deco’s intricately shaped steel and glass. The Jet Age brought us sweeping futuristic curves inspired by new materials like aluminum. The Information Age, so far, seems visually defined by the black glass and bluish glow of computer screens, as our most important building blocks become software and information, rather than physical materials.
+
+But no building block conquered the world as quickly and as thoroughly as plastic. Less than a century after its invention, plastic proliferated in our offices, our vehicles, our clothing, our kitchens. It’s virtually impossible to go more than a few minutes without interacting with something that is composed in part of synthetic polymers.
+
+Plastic’s arrival was a transformational moment in human history. This new material differed from its predecessors in several crucial ways which: a) made it widespread very quickly, and b) once I started thinking about it, reminded me a lot of AI.
+
+I decided to probe this idea further to see what I might learn about where AI is headed.
+
+Plastic is efficient
+
+Until plastic came on the scene, we built everything from kitchenware to automotive interiors out of naturally occurring materials like wood, metal, glass, cotton, and leather—which, are of limited supply. You can’t just manufacture more leather or wood; you have to wait for it to grow.
+
+AI, like plastic, is an entirely new and fully synthetic intelligence that’s more affordable, versatile, and durable than naturally occurring intelligence—the work that living things do with our hands and minds. This new synthetic intelligence can, like plastic, be mass manufactured, stamped out in identical forms of all shapes and sizes, injection-molded for every possible use case. And unlike human intelligence, its supply isn’t limited by natural sources.
+
+Today’s AI models enable the mass manufacturing of specific “molds” of rote work—like organizing and answering questions about documents—freeing humans from routine tasks so our more valuable labor can attend to collaborating with each other or making higher-stakes decisions.
+
+Plastic is adaptable
+
+Organic materials like leather and glass aren’t particularly versatile. When carpenters invented ways to bend and sculpt wood, those innovations constituted breakthroughs in industrial design, introducing new vocabulary to the design language of furniture designers.
+
+Plastic, by contrast, is infinitely flexible. It can be adapted to almost any form, from thin films for packaging to robust, load-bearing structures for furniture. Plastic doesn’t just change the way existing products are built—it enables us to build entirely new kinds of products, in entirely new ways.
+
+Today’s AI models like GPT can help solve many different kinds of problems out of the box. Before, if you wanted to build something custom—whether it was a content generator, a chatbot, or an analysis tool—you’d need a team of engineers grinding away for weeks or months. Now, with a few prompts, you can adapt these AI models to handle all kinds of tasks. Like plastic, it’s a shape-shifter.
+
+Think about how plastic revolutionized everyday products. It made things like lightweight, shatterproof water bottles and ergonomic keyboards possible. Packaging got smaller and more efficient, and devices became easier to handle. In the same way, I believe AI is going to reshape how we work with computers. We can look forward to conversational interfaces that feel as natural as talking to a coworker, or search tools so smart it’s like they can read your mind. These new AI models will unlock new ways to boost creativity and productivity, just like plastic opened up a whole world of design possibilities.
+
+Plastic enables novelty
+
+Plastics enabled entirely new kinds of products (LEGO bricks, Tupperware) and manufacturing processes (3D printing, extrusion) that weren’t just improvements on existing techniques, but “plastic-native” products and techniques. Similarly, the future will see completely new ways of getting work done and interacting with information. To me, this search for “AI-native” tools and workflows is one of the most compelling areas of exploration in machine learning today.
+
+We’re seeing early signals of what that future may hold. For example, though they aren’t perfect yet, today’s LLMs can read and instantly answer questions relating to millions of words or hours of video content. They can be always-on. They can be trained once on an expert subject, like coding or cooking, and distributed to every human on the planet at little extra cost.
+
+How could the future of research or law change with tools that can read thousands of pages in a second?
+
+What happens to creativity when every human can get an expert to teach them how to learn new tools and instruments?
+
+What could possibly go wrong?
+
+AI’s promise of progress is undeniable, but we learned with plastic that progress has its price.
+
+Plastic’s proliferation, after all, was not without downsides. Plastic doesn’t naturally decompose, exacerbating waste problems. It also breaks down into small particles that infiltrate our ecosystems and bloodstreams, causing long-term harm that we’re only beginning to fully understand.
+
+That doesn’t mean we’d be better off if plastic had never have been invented.
+
+Without synthetic polymers we would still be using natural materials for even the most mundane, disposable objects and wouldn’t enjoy such abundance of everything from clean disposable syringes in hospitals to bike helmets.
+
+But the unintended consequences of remaking our physical world with synthetic polymers does remind us to be mindful of the many risks this emerging technology poses, from job displacement to the load on global energy consumption, to the more dystopian scenarios we’ve all heard about in which AI makes catastrophic decisions that can’t be undone.
+
+It helps to remember that while plastic is ubiquitous, it didn’t take over the world completely. When I walk through the Notion office every day, I see plenty of plastic here and there in chair armrests and computer monitors. But some of my favorite spaces are couches plush with soft fabric, wooden benches that add warmth to our cafeteria, ergonomic sculptures made of everything from paper origami to steel wires. Despite how far industrial design has come, our technology has yet to obviate the unique magic of natural materials.
+
+As we ponder our AI future, we should remember that like plastic, AI isn’t a replacement for all that came before; it’s a new color in our palette, a new material in our workshop. Our job is to learn how to wield it skillfully, to create a world that’s not just more efficient and productive, but also more vibrant, more creative, and fundamentally more human.

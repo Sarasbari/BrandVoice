@@ -1,0 +1,27 @@
+Title: Notion for Startups -- not new but much improved
+Published Date: 2023-04-11T00:00-07:00
+URL: https://www.notion.so/blog/notion-for-startups-relaunch
+
+Sitting down to write this post about our upgraded Notion for Startups program got me thinking about our company’s history in this space. Supporting startups has actually been central to Notion’s vision ever since our early days.
+
+Back in 2019 we were fewer than 30 employees operating out of a co-working space in the Mission district of San Francisco. Around that time, a friend got into Y Combinator and told me that during their sessions, tons of people were taking notes on Notion. After some research, I learned that nearly half of Y Combinator’s recent class was using Notion. So we launched Notion for Startups, to offer these small companies a discount and formalize our support for the entrepreneurs who are crucial to our mission of making software toolmaking ubiquitous.
+
+In 2021 we expanded our program so that any startup — not just those aligned with our VC and incubator/accelerator partners — could work with Notion for free. Two years later, more than eighty thousand startups use Notion and our partner network has grown 30x and gone global, including industry giants like AWS, Stripe, and Slack.
+
+And today we’re delighted to announce Notion’s extended support for the startup ecosystem, with even wider access and customized resources.
+
+Up to 6 months for free, including unlimited AI
+
+Until today, Notion offered a maximum $1,000 credit to eligible startups. Now you can get a free 3 to 6 months on Notion Plus, including unlimited Notion AI (that’s a maximum of $6,000, 6x more than before). Apply here today →
+
+You also extend your runway by consolidating the tools you’d otherwise use for docs, wikis, and project management into running much of your company on Notion — a crucial benefit these days, when fundraising is hard and every dollar counts.
+
+Tailored resources for your startup journey
+
+The #1 request we receive from startups is customized resources to help you get up and running with Notion. So we’ve created our version of Startup in a Box — a workspace with an assortment of templates spanning each part of a startup’s journey, from ideation to scale. You can access these templates here and copy them directly over to your workspace.
+
+While you’re at it, you might also check out our video-based Notion Academy. Start with Notion 101 and continue on to explore our other key setups for startup teams.
+
+Finally: joining Notion for Startups also offers prioritized access to Startup Champions, a community for Notion users who evangelize and implement Notion within their companies. Whether you’re a founder or an early operator, as a Champion you can learn more about Notion, network with our broader community, and get early access to new features, office hours, AMAs with the Notion team, and much more. Apply here today →
+
+Personally, as the Notion for Startups lead within our marketing team, I’m floored to see a program that was nothing more than a side project when I joined Notion grow to impact so many startups around the world. I’m inspired every day by your resilience and innovation. Please keep the feedback coming, and let us know how we can support you better!

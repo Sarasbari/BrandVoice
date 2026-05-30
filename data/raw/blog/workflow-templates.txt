@@ -1,0 +1,101 @@
+Title: 8 great workflow templates for working smarter, not harder
+Published Date: 2023-10-11T00:00-03:00
+URL: https://www.notion.so/blog/workflow-templates
+
+Working as a team isn’t always easy.
+
+If you’re in a role that relies on collaboration to finish projects or deliverables, you know how important it is that each team member executes their stage quickly and correctly.
+
+But with so many people involved, there are many opportunities to stall. Having 4–5 people review a deliverable before it’s sent to the client wastes precious time and energy.
+
+If you’re nodding along, you might need to revamp your team’s workflow — and we have several workflow templates on deck to offer the most efficient way to achieve this optimization.
+
+What’s a workflow template?
+
+A workflow template outlines how teams ought to complete tasks and processes during a project. It provides the most efficient method for reaching project goals without reinventing the wheel — or the execution workflow.
+
+Using a workflow template, teams can avoid second-guessing how they approach their work, instead relying on the experiences of other industry leaders and teams to figure out the best method for process mapping and task organization.
+
+Most templates provide a visual guide that teams can edit in the planning process phase. Great templates also include space for managers to clearly define roles, responsibilities, and sequences to minimize guesswork and allow the team more time to focus on producing deliverables after kickoff.
+
+Why use a project workflow template
+
+Workflow templates make management more straightforward by clearly outlining how work should proceed. Teams that implement workflow templates benefit in three project management areas:
+
+Enhancing collaboration — when the team collaborates with the same template, they’re all on the same page. Even across global teams, templates add uniformity when providing updates and problem-solving.Keeping the team up to speed — having a single point for project updates breaks down silos and aligns the team with one vision. And visualizing team progress in a centralized place keeps everyone motivated and moving toward the finish line. Finding improvement areas — a common concern among project managers is that teams might become complacent and passive to shortcomings in organizational processes. However, many templates provide a structured way to examine processes and identify improvement areas.
+
+Enhancing collaboration — when the team collaborates with the same template, they’re all on the same page. Even across global teams, templates add uniformity when providing updates and problem-solving.
+
+Keeping the team up to speed — having a single point for project updates breaks down silos and aligns the team with one vision. And visualizing team progress in a centralized place keeps everyone motivated and moving toward the finish line.
+
+Finding improvement areas — a common concern among project managers is that teams might become complacent and passive to shortcomings in organizational processes. However, many templates provide a structured way to examine processes and identify improvement areas.
+
+8 excellent and free workflow templates
+
+The best workflow management templates merge simplicity with versatility, making it easy for any team to implement them. These eight free templates can aid groups of any size across industries, improving collaboration and communication at any stage of the project.
+
+1. Roadmap
+
+This roadmap template helps you track all your projects in a single place. It provides structure to organize your epics, sprints, tasks, and bugs. Looking at the dashboard, you can quickly get a visual overview of how everything is progressing and find status updates based on team members' descriptions.
+
+You can also assign the people responsible for each task, provide updates, and connect tasks to other relevant jobs.
+
+2. PRCSS* product design workflow template
+
+This template visually breaks information into seven stages:
+
+DiscoverDefineIdeateDesignTestDeliverMeasure
+
+Discover
+
+Define
+
+Ideate
+
+Design
+
+Test
+
+Deliver
+
+Measure
+
+Customize each section with tasks assigned to team members and descriptions of the expected work and outcomes. After filling in each space, you can view a diagram that depicts the current status for each task to quickly visualize the project workflow.
+
+3. Content design workflow
+
+Breaking down the creative process into actionable steps can make large projects seem more manageable. This content design workflow borrows from UX content design principles to outline the steps required to complete a creative project.
+
+From preparation to composition to editing, you can track progress in this template and take notes of any relevant ideas or outcomes. For further specificity, you can create checklists to mark every step and quickly transition from brainstorming to measurable productivity along the way.
+
+4. Product roadmap
+
+To get a bird’s eye view of your project timeline, use this template and track progress across a Gantt chart. Every large-scale task can be broken down into manageable chunks, assigned to team members, and given a due date. And the timeline view lets you highlight dependencies to predict workflow slowdowns and complications.
+
+Team members can access assigned tasks and provide updates, including blockers and status reports. And when required, they can add sub-tasks to further divide the effort among the team.
+
+5. Maven’s roadmap template
+
+Use this template to see each job's start and end dates for a visual of the task flow across your team. A color-coded tagging system helps you get a quick overview of how each team is progressing. And you can filter by status, assigned team members, and product areas to find the information you need to keep teams on track or adjust the project schedule as needed.
+
+6. Notion’s projects
+
+This template tracks product and engineering work across a large company, providing a space for critical information that can help other teams, like legal or marketing, understand what’s following in the pipeline. They can identify which stage of the workflow a project is at or that their input is required.
+
+Teams using this template can track status, project descriptions, and launch dates, all from a single view. By clicking on a task, these details and more arise in a task description with all the information needed for any team to discover its details across product stages.
+
+7. YouTube video production workflow
+
+When making YouTube videos, having a template to guide the process from concept to post-production prevents you from skipping steps. This template maintains the visual focus of YouTube by providing thumbnail ideas, diagrams, and checklists, all in a colorful and engaging format.
+
+Using this template, you can track any shots needed for a video, as well as camera details, scene descriptions, and notes about how everything fits into the larger narrative. You can store your A-roll, B-roll, photos, and messages in this accessible location for easy reference during future project work or final checks.
+
+8. One-page work planner
+
+Even if you have an extensive task to-do list, you can quickly use this template to make bulk edits for sorting and documenting your workflow.
+
+Since it’s all built on one page, you can use a single tab to access all your tasks, notes, and links. It simplifies processes and delivers a streamlined task list, organized to help even the busiest employees wisely manage their personal workload.
+
+Improve your workflow process with templates from Notion
+
+The best workflow processes are structured and easy to understand. Notion elevates project management processes with organized boards, structured templates, and intuitive designs to meet any team’s needs. Sign up for Notion to streamline both you and your team’s processes.

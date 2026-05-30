@@ -1,0 +1,41 @@
+Title: Meet the new Notion AI. Get to know what it can do for you.
+Published Date: 2024-09-24T05:55-07:00
+URL: https://www.notion.so/blog/meet-the-new-notion-ai
+
+Being a writer at a startup is... busy. We ship at breakneck speeds, and our content team works around the clock to support the company with all its copy needs—from blog posts to email revisions.
+
+My weeks are often a pileup of meetings and deadlines, all competing for attention. So my manager got me some help: Notion AI.
+
+I’ll admit, I was a bit skeptical at first. I didn’t think AI would meaningfully bump my productivity. But as I’ve started to use it more, it’s become an invaluable part of my day-to-day work—the assistant I didn’t know I needed. Here are a few ways I use it every day, in case you could use some help, too.
+
+My knowledge whisperer
+
+The information I need to do my work is spread out across hundreds of Slack messages, Notion docs, and tasks. Sometimes, it feels almost impossible to wrangle it all. Luckily, the new Notion AI can search across my Notion workspace, Slack, and Google Drive and give me updates on projects in a matter of seconds.
+
+When writing this post, for example, I needed to know our latest timelines for launch. So I pinged Notion AI: “Catch me up on the launch plans for Notion AI, and share any potential blockers.”
+
+It delivered an up-to-date release schedule—no blockers!—with a list of sources to click and read more, from our go-to-market Slack channel to our canonical launch doc in Notion. From a single prompt, I knew when I needed to finish my outline, share a draft with the team, and publish the post—all without leaving the page on which I was working.
+
+My on-demand teammate
+
+Tapping on a teammate’s shoulder to ask a question may be great excuse to chat, but it’s also a productivity killer. Now I bother Notion AI instead. Bonus: it’s never out of the office.
+
+Last month, we launched charts (check it out if you haven’t already). I needed a refresher on the exact functionality for an email I was drafting. Instead of breaking someone’s flow state or waiting for a response on Slack, I asked Notion AI: “What’s the full list of features in the charts launch, and what’s the latest messaging?”
+
+There it was: A comprehensive list of what charts do, use cases, and why the community would benefit from using them. It even uncovered docs I had access to but hadn’t read yet, like the post my teammate, Cory, wrote about how he uses charts to manage his diabetes. Thirty minutes of digging instantly vaporized by Notion AI.
+
+My personal editor-in-chief
+
+Notion’s brand voice has a certain tone. I’ll be the first to admit it’s hard to get it right. That’s why we do a lot of peer reviews. But given how busy everyone is, it can be hard to chase people down for edits. Now, I just ask Notion AI.
+
+Here’s what I asked in preparation for this launch: “Can you share how I might improve this draft based on the Notion style guide?”
+
+It tightened up my first draft before sending it to my manager for final approvals. And the feedback was spot on: Use Oxford commas (yes, we love them), capitalize letters after colons, and make sure the tone is approachable. It even shared a few tips on how I could make the intro go faster.
+
+Made for you
+
+Honestly, the best thing about the new Notion AI is that it learns from you how to write the best copy and supply relevant answers. Aside from being able to search Slack, Google Drive, and Notion docs, generate and edit content, analyze PDFs and images, and chat using real-world knowledge, it augments your creativity and works alongside you, rather than operating in a vacuum outside your workspace. But don’t just take my word for it—teams at dbt Labs, Pinecone, and Liberis have all found bespoke ways to be more productive using the tool.
+
+You may be wondering, why does it look like a doodle Picasso might have drawn while bored in art class? With its wavy eyebrows and squiggly handwriting, we wanted our chatbot to add a dash of wit to your workday. Beyond the fun we had designing it, we spent the better part of this year building and testing the new Notion AI to make sure it would make work faster, easier, and better—I hope you find it to be as useful as I do.
+
+Learn more about what Notion AI can do for you at notion.ai.

@@ -1,0 +1,135 @@
+Title: RICE prioritization method: A complete guide with templates
+Published Date: 2023-09-21T00:00-03:00
+URL: https://www.notion.so/blog/rice-prioritization
+
+Picture this: You're the company's senior product manager with a desk full of project proposals awaiting your review. Each one promises positive results — innovation, revenue, and customer satisfaction.
+
+As the head honcho, the pressure is on to decide which project you want your team to take on first. Your gut tells you one thing, but you can practically hear stakeholders and colleagues voicing their dissenting opinions.
+
+When you're looking for a way to rank tasks objectively, give the RICE prioritization method a try. It might be just what you need to silence your inner critic and feel confident in your project management decisions.
+
+What’s the RICE prioritization method?
+
+RICE is an acronym that stands for Reach, Impact, Confidence, and Effort.
+
+The RICE prioritization method is a framework that lends structure and objectivity to product managers, who often have to wrack their brains when making subjective decisions. There’s no answer key to reference when choosing which products, features, and initiatives to include in project roadmaps — that’s up to you to decide.
+
+But you don’t want to waste precious time humming and hawing. A reliable prioritization framework helps you objectively evaluate all aspects of a potential project, choose which are most important, and integrate them consistently and methodically. That’s where the RICE model comes in: It allows you to assign numerical values to these four factors and give each item a score, turning abstract concepts and intangibles into quantifiable data points.
+
+How does the RICE scoring model work?
+
+Before exploring the RICE scoring model, let’s break down each criterion to understand its importance in your project’s workflow. Observe the following chart:
+
+The RICE model quantifies intangible values, which means you need a mathematical formula to calculate a numerical score that you can use to create a hierarchical prioritization. Here's the formula:
+
+After using this score, you'll have a quantitative representation of a project's potential impact relative to the effort needed to achieve it. Aim to prioritize projects with higher RICE scores, as they're more likely to have greater returns with lower investment.
+
+How to use the RICE framework
+
+Now that you’re familiar with the RICE formula, you’ll need numbers to turn each letter into a number and complete the scoring model. Let’s explore how to use the framework for your next project.
+
+1. Reach
+
+To calculate Reach, you need to estimate the number of users and customers your project will affect in a given time period, such as a month, quarter, or year. For example, if you plan to reach 50,000 people with the project but only expect to convert 50%, your reach will be:
+
+50,000 people x 0.5 = 25,000
+
+2. Impact
+
+This figure quantifies how much you expect a project will affect the audience it reaches. To calculate Impact, use the following scale:
+
+3 is massive impact2 is high impact1 is medium impact0.5 is low impact0.25 is minimal impact
+
+3 is massive impact
+
+2 is high impact
+
+1 is medium impact
+
+0.5 is low impact
+
+0.25 is minimal impact
+
+Estimating impact won’t give you an exact figure, but it’s a good point of reference — and better than guessing.
+
+3. Confidence
+
+To calculate Confidence, you need to assign a Confidence score on a percentage scale. This will depend on your assessment of the accuracy of the other three RICE criteria.
+
+100% is high confidence, which means you have metrics and research backing your Reach, Impact, and Effort80% is medium confidence, which means you're optimistic about two of the three criteria50% represents low confidence, showing you're not confident about two of the three criteriaAnything below 50% describes a project that’s unlikely to succeed due to many potential hurdles
+
+100% is high confidence, which means you have metrics and research backing your Reach, Impact, and Effort
+
+80% is medium confidence, which means you're optimistic about two of the three criteria
+
+50% represents low confidence, showing you're not confident about two of the three criteria
+
+Anything below 50% describes a project that’s unlikely to succeed due to many potential hurdles
+
+A project with a solid strategy and risk mitigation should receive a higher score, whereas an initiative with more questions than answers will likely have a low score. Notion’s RICE prioritization worksheet gives you a bird’s-eye view of your evaluations with a priority score to streamline your workflow.
+
+4. Effort
+
+To calculate Effort, you must predict how much time and energy you'll need to execute the project successfully. Think about your team's workload and the specific tasks involved.
+
+Measure Effort in person-months (or a similar unit). For example, if you need two designers working full-time for three months, your Effort will be:
+
+2 x 3 = 6 person-months
+
+Unlike the other criteria in the RICE model, lower is better here.
+
+What are the benefits of the RICE method?
+
+Here’s why the RICE model is a staple for product managers:
+
+It allows you to make data-driven decisions — the RICE model takes subjective concepts and turns them into objective, data-backed facts and figures you can use to make more informed decisions.It facilitates smoother communication — it's much simpler to align expectations and set targets when you can justify your priorities through metrics and data, making communication with team members, clients, and stakeholders easier. You can better optimize resources — the RICE framework can help you allocate resources and maximize their efficiency by considering variables like effort, impact, and potential return, allowing you to focus on high-yield initiatives without overwhelming team members.It promotes accountability — with measurable criteria, it's easier to monitor progress and track a project's success, encouraging individual and group responsibility across your project management teams.
+
+It allows you to make data-driven decisions — the RICE model takes subjective concepts and turns them into objective, data-backed facts and figures you can use to make more informed decisions.
+
+It facilitates smoother communication — it's much simpler to align expectations and set targets when you can justify your priorities through metrics and data, making communication with team members, clients, and stakeholders easier.
+
+You can better optimize resources — the RICE framework can help you allocate resources and maximize their efficiency by considering variables like effort, impact, and potential return, allowing you to focus on high-yield initiatives without overwhelming team members.
+
+It promotes accountability — with measurable criteria, it's easier to monitor progress and track a project's success, encouraging individual and group responsibility across your project management teams.
+
+RICE prioritization method best practices
+
+When you decide to implement the RICE method, you can take simple steps to promote the most effective and accurate scoring outcomes. Here’s how:
+
+Narrow it down to a single goal
+
+To use the RICE model effectively, you should align your prioritization with an overarching goal or strategy, such as increasing revenue or broadening market reach. Maintaining a laser-like focus can help you choose realistically achievable initiatives based on your resources at any given time.
+
+Plus, it simplifies decision-making and helps your team members stay on the same page without overburdening them with multiple tasks and projects.
+
+Divide your team into groups
+
+When working toward a larger goal, it's often productive to break it down into smaller chunks or "mini projects" that contribute to the overarching objective. If you have many team members, consider dividing them into separate groups, each working on a mini-project.
+
+Assign team leaders and use the RICE model to prioritize projects and workflows within each subgroup. This approach offers a more granular perspective on project progress and ensures all teams remain engaged in activities with a specific outcome in mind.
+
+Allow team members to take charge
+
+Give your teams the freedom to decide how to carry out their tasks — as long as they stay within the project's objectives. Encourage them to use the RICE model to prioritize their work, or score them yourself and let them choose how they want to divide the load.
+
+While you should always provide guidance and oversight, allowing your team to make decisions fosters a sense of ownership and responsibility, making them more invested in the project. Plus, you can use a RACI chart to ensure everyone’s on the same page and track progress without meddling in other people’s leadership opportunities.
+
+Mistakes to avoid when using the RICE method
+
+While the RICE prioritization framework is a handy tool for product management, it's important to apply it with a balanced perspective. Here are a few common mistakes to avoid:
+
+Being overly dependent — the RICE model is a guide, not the law. It can complement your decision-making, but don't hesitate to improvise and use your best judgment when the situation demands it. For example, you may want to use the 80/20 rule to change your priorities and delegate your best assets to a specific project instead of distributing them equally across multiple initiatives.Having a rigid mindset — the scores you get from the RICE model aren't set in stone. They're guesstimates that help you predict outcomes, but with changing market conditions, customer demands, and resources, it's essential to reevaluate to ensure you're adapting to evolving circumstances.Don’t overcomplicate it — avoid diving into too many details and creating an overly complex and time-consuming scoring process. Keep the evaluations straightforward, manage your time, and make it easy for you and your teams to follow workflows.
+
+Being overly dependent — the RICE model is a guide, not the law. It can complement your decision-making, but don't hesitate to improvise and use your best judgment when the situation demands it. For example, you may want to use the 80/20 rule to change your priorities and delegate your best assets to a specific project instead of distributing them equally across multiple initiatives.
+
+Having a rigid mindset — the scores you get from the RICE model aren't set in stone. They're guesstimates that help you predict outcomes, but with changing market conditions, customer demands, and resources, it's essential to reevaluate to ensure you're adapting to evolving circumstances.
+
+Don’t overcomplicate it — avoid diving into too many details and creating an overly complex and time-consuming scoring process. Keep the evaluations straightforward, manage your time, and make it easy for you and your teams to follow workflows.
+
+Become a project prioritization pro with Notion
+
+The RICE model can be a powerful ally for product managers looking to make educated estimates about efficacy, impact, and priorities. You can strategically align team efforts and confidently deliver high-quality results by quantifying and prioritizing key contributing factors.
+
+However, the RICE framework isn’t the only tool at your disposal. Notion offers many prioritization templates, including a to-do list, priority planner, and roadmap matrix to break tasks into manageable and achievable chunks. Plus, you can use the ever-efficient Eisenhower matrix to organize your workflow and focus on what’s important.
+
+At Notion, we encourage efficiency and prioritize productivity. Your path to success begins here.

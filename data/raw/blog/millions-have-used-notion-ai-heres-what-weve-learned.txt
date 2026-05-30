@@ -1,0 +1,49 @@
+Title: Unlocking the Full Potential of Notion AI: Worth Exploring for Users
+Published Date: 2023-04-19T09:00-07:00
+URL: https://www.notion.so/blog/millions-have-used-notion-ai-heres-what-weve-learned
+
+When we released the Notion AI alpha last fall we had theories about how it would be used.
+
+Write a blog post. Compose an email. Spin up a tweet.
+
+People did all those things. But we’ve learned that you’re doing a lot more with AI, too.
+
+Over the past few weeks our user research team studied how people are using Notion AI today. Because this new technology’s applications are so vast, one of the toughest questions is “What should I use it for?” We’ll offer some answers here. Open a new page now, so you can try out these AI prompts as we go.
+
+Write a first draft of pretty much anything
+
+You know that moment when you have to write something and you’re staring at the screen, feeling stressed because you're wasting time not committing? Well, AI really can just write stuff for you. When starting with a blank page, the most popular Notion AI prompts so far have been Brainstorm ideas, To-do list, and Outline. Other options include first drafts of emails, press releases, poems — or anything else you can dream up yourself.
+
+Go for it — banish Blank Page Syndrome. Hit SPACE and tell Notion AI what to write.
+
+Improve your writing in all kinds of ways
+
+You don’t have to be starting from scratch. Say you’ve had this idea for awhile but haven’t been able to pull it together. Ask AI to convert your bullet points into a solid proposal:
+
+Now that you have a draft, are you done? Probably not. More than 50% of Notion AI users edit further from that first draft, and very few accept the response exactly as is. But that instant material can help a lot, sparking ideas that give you creative momentum.
+
+There are also a lot more ways that AI can help. Hit SPACE on a page that already has content and you’ll see options for using AI to work on the copy or get info from it. By far the most helpful usages among Notion AI users are Fix spelling & grammar, Summarize, and Improve writing. And if you highlight one passage and click Ask AI, you’ll see a menu for just that passage.
+
+Just remember that Notion AI is iterative; its output improves with interaction.
+
+This idea is really important. Just like starting with a blank page, you can ask AI for any first draft you want. And if you’re working with existing content, you can ask AI for any revisions you want. Either way, you can do this over and over. The more you invest in learning to write detailed prompts and specific follow-ups, the better the finished AI work you'll wind up with.
+
+Watch our Notion Academy course to learn how to best use Notion AI: Getting started with Notion AI
+
+Get the TL;DR in 30 seconds, not 30 minutes
+
+So far we’ve seen Notion AI as a writing aid. But for most of us, work is more about collaboration and the blizzard of information that comes with it: meetings and updates, action items and sales notes, product documentation and user research.
+
+Notion AI can help clarify and organize it all. Say this week’s project check-in just ended and you’re staring at a long jumble of meeting notes. Hit SPACE, select Summarize, then Action Items, and watch what happens live:
+
+From now on this page will include an AI-powered section that reads the day’s rough notes and pulls out follow-up steps in a matter of seconds.
+
+Building a future AI that’s just there
+
+You probably don’t say the phrase “electric lightbulb” very often. The electricity is implied. Maybe we’ll eventually look at AI the same way — as an essential part of our workflows that lives in the background. AI that’s “just there.”
+
+In fact, we’re already seeing this happen. Today you can add dozens of AI templates to your Notion workspace with a click. AI blocks are integral parts of these templates. They can be brainstorm prompts, action items for meetings, copy generators for scripts, emails that leverage your existing ideas.
+
+And this is all just the beginning. We’re excited to keep creating new features that make AI part of your connected workspace in Notion, helping you run projects more efficiently, access information in your wiki easier, and write documentation faster.
+
+For now, if you haven’t done so already, see what Notion AI can do today. Go to a page. Hit SPACE. See what’s possible.

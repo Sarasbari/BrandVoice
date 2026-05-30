@@ -1,0 +1,93 @@
+Title: How to use a Kanban board in your next project
+Published Date: 2023-07-12T00:00-06:00
+URL: https://www.notion.so/blog/how-to-use-kanban-board
+
+The best-laid plans are easy to follow, and project management is no exception. That’s why businesses opt for organizational methodologies like the Kanban board, that distill intricate initiatives into simple, effective, and tangible to-do lists.
+
+Japanese car company Toyota created Kanban boards in the 1940s to improve manufacturing processes. In the years since its invention, this tool has crossed borders and permeated numerous industries. Today companies around the world employ Kanban boards to streamline project planning and management.
+
+Learning how to use a Kanban board simplifies even the most complex projects. Create one for your next initiative to provide a high-level, easy-to-read visual of project progress that any team member can use to monitor the overall workload and the completion of individual tasks.
+
+Kanban board definition
+
+Kanban is a Japanese term meaning “signboard.” The Kanban project planning methodology relies on task cards that team members move along a progress trajectory to signify the status of the work.
+
+The Kanban method assigns tasks one of three designations: “To do,” “Doing,” or “Done.” Some teams tweak these category headings to make them their own — like swapping “In progress” for “Doing” — but the meaning doesn’t change. Kanbans usually stick to these three basic statuses to support straightforward project management.
+
+Backlogged tasks go into the “To do'' column, current work resides in the “Doing” column, and completed tasks wind up in the “Done” column. It’s as simple as that.
+
+The Agile methodology meshes well with Kanban Boards. Agile project management aims to minimize inefficiencies by clearly outlining the required tasks and ensuring the team doesn’t take on too much in a sprint. Using a Kanban chart, your team can make split-second observations and prevent workflow issues. The tool allows you to gauge whether there are too many in-progress tasks and flag concurrent tasks that depend on the completion of another to-do first.
+
+Scrum versus Kanban
+
+If you’re familiar with the Scrum project planning method, you may think Kanban sounds similar. And there’s some overlap: Scrum and Kanban boards both rely on task cards that team members then move into columns that represent the status of those tasks. And these three essential columns? They’re identical.
+
+Scrum boards, however, focus on sprints: short, weeks-long iterations of work. Teams can use a Kanban board to track sprints, but these charts aren’t time-bound. Kanbans have greater flexibility — you can use one to show the progress of an entire project or several to map out smaller deliverables.
+
+Because Scrum boards focus on sprints, you must invest significant time into the planning phase before charting tasks. Scrum teams align sprints to project deliverables called “stories” — so using a Scrum board means you must first define essential product features and outputs and create sprints around them. Kanbans, on the other hand, can be drafted and adjusted at any point in the project’s lifecycle, as they’re neither rigid nor time-bound.
+
+The benefits of Kanban boards
+
+Kanban boards are one of many useful project-planning tools, so why choose this method over another? Here are a few key benefits of Kanbans:
+
+They’re malleable — it’s a simple structure, so your team can mold Kanban boards to virtually any project. You can even use a Kanban board to plan events in your personal life. They provide an excellent high-level view — many planning tools consider project details, but Kanban boards focus on broad strokes. The chart allows you to visualize progress at a glance (and you can dive into more detailed project documents for particulars).They give a no-frills estimate of workload — Kanban boards stick to a simple workflow visualization that shows exactly how many tasks a team has yet to complete. This tool doesn’t factor in how difficult those action items are — if you need more details, your Agile project team can turn to others, such as burn-up charts, to track the required effort and time for tasks in the queue.
+
+They’re malleable — it’s a simple structure, so your team can mold Kanban boards to virtually any project. You can even use a Kanban board to plan events in your personal life.
+
+They provide an excellent high-level view — many planning tools consider project details, but Kanban boards focus on broad strokes. The chart allows you to visualize progress at a glance (and you can dive into more detailed project documents for particulars).
+
+They give a no-frills estimate of workload — Kanban boards stick to a simple workflow visualization that shows exactly how many tasks a team has yet to complete. This tool doesn’t factor in how difficult those action items are — if you need more details, your Agile project team can turn to others, such as burn-up charts, to track the required effort and time for tasks in the queue.
+
+Essential elements of a Kanban board
+
+A Kanban’s basic elements define this project planning tool, but your team can expand upon these features to create more robust boards. Let’s explore basic and additional Kanban elements:
+
+Cards — essential to all Kanban boards, cards represent tasks and contain any relevant information, like the teammate responsible for the work and the deadline. Virtual Kanban board cards may even include notes or document attachments.Columns — columns are also a core element of Kanban boards and represent the phases of the workflow. As we mentioned, your team can rename these columns (i.e., changing the “To do” column to the “Backlog”) — but you can also add additional columns, like one for product testing or final reviews.Work-in-progress (WIP) limits — Work-in-progress limits prevent your team from taking on too much. These limits define how many tasks each workflow stage can contain (typically as a range or maximum). Setting a WIP limit for your project to-do list ensures the team can realistically complete the work without becoming stalled out or overwhelmed at a particular status. Swimlanes — swimlanes are optional horizontal lines that divide the board into categories representing the type of work or urgency. A team might insert a swimlane to delineate high-priority tasks. All tasks in this “lane” are higher priority than others in the column.
+
+Cards — essential to all Kanban boards, cards represent tasks and contain any relevant information, like the teammate responsible for the work and the deadline. Virtual Kanban board cards may even include notes or document attachments.
+
+Columns — columns are also a core element of Kanban boards and represent the phases of the workflow. As we mentioned, your team can rename these columns (i.e., changing the “To do” column to the “Backlog”) — but you can also add additional columns, like one for product testing or final reviews.
+
+Work-in-progress (WIP) limits — Work-in-progress limits prevent your team from taking on too much. These limits define how many tasks each workflow stage can contain (typically as a range or maximum). Setting a WIP limit for your project to-do list ensures the team can realistically complete the work without becoming stalled out or overwhelmed at a particular status.
+
+Swimlanes — swimlanes are optional horizontal lines that divide the board into categories representing the type of work or urgency. A team might insert a swimlane to delineate high-priority tasks. All tasks in this “lane” are higher priority than others in the column.
+
+How to use a Kanban board
+
+You’re on the verge of creating a flexible, easy-to-use project management tool. Here’s how to make the most of this chart:
+
+1. Gather tasks
+
+Define all of the tasks for your project and create cards for each — either by hand or on a virtual project management platform. Add assignees and due dates, then leave the tasks in the “To do” column until the project begins.
+
+2. Move tasks along the board
+
+Once the project is up and running, move tasks along the workflow by bumping them into “Doing” when a teammate starts work and “Done” once they’ve completed the task. You may choose to delegate this work to individual team members — that is, require them to move the cards themselves.
+
+3. Assess progress
+
+Periodically check on the Kanban board to ensure tasks aren’t stagnating in the first two columns. A heavy backlog of “To do” tasks could indicate that the team can’t currently take on more work or is falling behind. Similarly, if tasks aren’t frequently moving out of the “Doing” column, this may mean work is progressing too slowly.
+
+These observations are a starting point for further investigation into the project's rhythm and potential bottlenecks or roadblocks. You may have to step in and help an employee overcome a barrier, reassign tasks when someone is overwhelmed, or narrow the project scope to ensure the completion of key deliverables.
+
+4. Evaluate metrics
+
+Upon finishing a project, review Kanban board metrics to compare proposed work with completed work. Don’t neglect other key factors, like the time it took the team to finish tasks.
+
+We recommend using a virtual board, as most platforms automatically compile this data for you to review (such as providing timestamps and dates for each card's movement along the board). Use this information to inform future WIP limits and deadlines for similar projects.
+
+Ready to get started? Check out our template
+
+As a highly-visual project management tool, one of the best ways to learn about these boards is by viewing Kanban examples and using a boilerplate framework to create your own. Notion’s Kanban Board template is an excellent place to start.
+
+With this template, you can customize cards and add detailed content to each task (such as task owner, description, and department). Next, you drop and drag cards onto the board and have team members move them along the traditional three-column status trajectory.
+
+You can also use Notion’s Kanban template to create more complex boards, such as adding additional columns for stages such as “Testing” or “Review.”
+
+If you require a different perspective, you can shift the board from the traditional Kanban columns into a table view. Here, you’ll see a task list with status tags, assignments, due dates, assignees, and any other parameters you’ve chosen to add.
+
+Power up your projects with Kanban boards
+
+Kanban boards derive power from their simplicity. At a glance, your team can understand how much work is left on a project and the intensity of in-progress tasks, knowledge that prevents bottlenecks and keeps projects on schedule.
+
+Don’t waste time developing templates from scratch. Notion can help your team implement Kanban Boards from start to finish. We offer a comprehensive Kanban Board template and provide teams with a shared space to host communal documents and knowledge bases.

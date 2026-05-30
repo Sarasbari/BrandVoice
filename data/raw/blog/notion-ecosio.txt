@@ -1,0 +1,55 @@
+Title: How ecosio replaced 20 different tools with Notion in just 8 weeks
+Published Date: 2025-01-23T10:00+01:00
+URL: https://www.notion.so/blog/notion-ecosio
+
+Challenge
+
+ecosio’s company knowledge was scattered across multiple tools and direct messages, hindering collaboration and efficiency.
+
+Solution
+
+ecosio consolidated their knowledge and projects into a Notion workspace, leveraging Notion AI to streamline operations and boost efficiency.
+
+Results
+
+By identifying super users and gamifying learning, ecosio adopted Notion company-wide in two months, gaining an extra day of productivity each week with Notion AI.
+
+Have you ever found yourself jumping between multiple tools just to check a project’s status?
+
+This was the exact challenge ecosio faced when the Vienna-based company transitioned to a fully-remote work environment. The effortless coordination and communication that once flowed naturally in a shared office became difficult to replicate digitally—and their company knowledge rapidly dispersed across direct messages and a disjointed array of tools.
+
+When ecosio discovered Notion, they recognized its potential to provide a connected workspace that could centralize all their scattered work by aligning their teams on a single platform. Transitioning 120 remote employees to a new tool seemed daunting, but ecosio achieved the seemingly impossible in just two months: they migrated all company knowledge into a Notion workspace and successfully trained the entire organization to use the platform effectively. What’s more, with the help of Notion AI, they now estimate that each employee gets at least a full day back each week through more efficient content creation and knowledge retrieval.
+
+Hotfixing ecosio’s “heart & soul” with a connected workspace
+
+Moving to remote-first asked big changes of ecosio. The vital structures and workflows that kept daily operations running required rethinking, while the company’s identity and culture needed tending to. As ecosio’s Executive Business Partner Marie-Luise Kuchenmeister puts it: they needed to hotfix the company’s heart and soul.
+
+“We needed a tool that could mend ecosio’s heart and soul. Something that could handle all our business operations and bring our company culture to the desks of our remote workers,” she said. “That’s what drew us to Notion.”
+
+Marie-Luise and Matthias began by mapping out the company home page, which would serve as the soul and “second brain” of ecosio. This central hub allows everyone to access the same organizational knowledge, including the company’s mission and values, announcements, and other essentials.
+
+Next, ecosio set up their company-wide teamspace to serve as the heart of the organization. This is where projects, tasks, and OKRs reside. ecosio uses a single database for all company projects, with customized views for each team. This makes cross-functional collaboration simpler and keeps all collaborative work in one streamlined place.
+
+Implementing Notion company-wide in two months with a strategic rollout
+
+To ensure successful adoption, ecosio took a strategic approach to rolling out Notion. They began by identifying “super users” across departments to champion the platform. These were employees who already used Notion personally, had heard of it, or showed interest in learning more. These super users were added to a dedicated Slack channel, trained through workshops, and given time to familiarize themselves with the product. Ultimately, ecosio had about 15 super users representing different departments across the company.
+
+Later, when Notion was rolled out company-wide, these super users became advocates for the platform, as well as helped Marie-Luise and Matthias design the company’s home page. “This early bird adoption was really, really crucial,” Marie-Luise emphasizes. “You need people across the company who can help educate others and reinforce what an amazing tool Notion is.”
+
+Matthias and Marie-Luise’s next step was to create a self-guided practice page which included various training videos. These videos ranged from basic tutorials on using Notion for company operations, to more advanced lessons on leveraging Notion’s different block types. They designed the training to be both informative and entertaining, aiming to help teams elevate their work through Notion in an enjoyable way. They even gamified the experience with badges and launched a competition during the Notion rollout— creating an ecosio Hall of Fame to enshrine the top badge winners. The competition was so successful that even after it was over, Matthias continued receiving messages from colleagues asking how they could earn more badges.
+
+The timing of ecosio’s Notion rollout was also fortuitous: they had an upcoming company offsite in Valencia. By loading the event program into Notion, they naturally encouraged employees to start using the platform. To incentivize participation even more, ecosio offered a reward for the team that collected the most badges: an all-expenses paid group dinner. This not only motivated employees to complete their trainings, but also reinforced the company’s heart and soul.
+
+Implement a buddy system or dedicated Slack channel for team members to help each other and share best practices.Encourage employees to experiment! ecosio’s Chief Information Security Officer single-handedly implemented their Stage 2 ISO certification in Notion by having the “freedom to fail.”Demonstrate Notion’s potential by helping colleagues develop Notion-based solutions for everyday challenges. As Matthias emphasizes, “Show what Notion can do rather than explaining.”
+
+Implement a buddy system or dedicated Slack channel for team members to help each other and share best practices.
+
+Encourage employees to experiment! ecosio’s Chief Information Security Officer single-handedly implemented their Stage 2 ISO certification in Notion by having the “freedom to fail.”
+
+Demonstrate Notion’s potential by helping colleagues develop Notion-based solutions for everyday challenges. As Matthias emphasizes, “Show what Notion can do rather than explaining.”
+
+Getting a day back each week by leveraging Notion AI
+
+ecosio has embraced Notion AI to further increase employee productivity and maximize the use of their knowledge captured in Notion. The sales team can now quickly get answers about highly-technical product features by asking Notion AI rather than interrupting product owners like Matthias. The marketing team leverages Notion AI to deepen their understanding of the company’s products, empowering them to more effectively promote ecosio’s solutions.
+
+New hires also use Notion AI to quickly get up to speed, which is crucial as ecosio continues to expand. It reduces the number of inquiries the HR team receives about the basics, like how to request time off, since all policies are documented in Notion. Additionally, ecosio uses a database to collect questions submitted during company-wide town hall meetings. By encouraging employees to use Notion AI to check if their question has been previously addressed, these meetings run more efficiently.

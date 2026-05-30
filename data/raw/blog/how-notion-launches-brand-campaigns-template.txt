@@ -1,0 +1,89 @@
+Title: How Notion launches brand campaigns (and a template you can use)
+Published Date: 2023-03-10T00:00-08:00
+URL: https://www.notion.so/blog/how-notion-launches-brand-campaigns-template
+
+Successful global brand campaigns connect audiences, messages, channels, and deliverables. It can be tough to keep integrated campaigns organized and on track, particularly when you have multiple products and languages (as Notion does!).
+
+So Kira Klaas, Notion’s Global Head of Campaigns, built a template that unifies campaign workstreams to keep everything organized and on track.
+
+You can use this template for any brand campaign, and below, we’ll explain how you can get the most out of it.
+
+Add context and clarity with an overview
+
+Duplicate Kira’s campaign brief here →
+
+This section is designed to provide context by centralizing key meeting notes and docs, and create clarity by having a DACI (Driver, Approver, Contributor, Informed) framework to streamline decision-making and execution. It’s useful for campaign owners, contributors, and anyone at the company who wants to understand what’s happening.
+
+But it shouldn’t just be a summary of the “what.” The “why” and the “why now” are just as important.
+
+“Many companies just focus on what they’re launching, assuming everyone, including customers, will care. That’s not always the case,” says Kira. “Why should people care? What makes this a special moment in time? If you can answer that, you’ll find a good way to frame your campaign and focus on launching something that will inspire.”
+
+Articulate your strategy
+
+Once you’ve shared the high-level overview of what your campaign is about, who is involved, and any additional context, this is an opportunity to dive deeper into campaign strategy.
+
+Goals & objectives
+
+Kira splits the Goals & Objectives section into three main parts: Campaign objectives, Company goals, and Product goals.
+
+This helps her better understand the “what” and “why” of the campaign as it relates to team-level and top-line company objectives. Connecting with product-specific goals eliminates the silos that can quickly appear when creating and launching a brand campaign.
+
+Target audience
+
+Identifying your target audience seems simple — who is your campaign for? — but that’s not enough to create something impactful for them.
+
+Kira uses a few questions to better understand audiences:
+
+What does your audience think and how do they behave?What problem or challenge are we trying to solve for them?What makes their experience with Notion unique?Why are they not doing what we want them to?What channels does this audience or community interact with most?
+
+What does your audience think and how do they behave?
+
+What problem or challenge are we trying to solve for them?
+
+What makes their experience with Notion unique?
+
+Why are they not doing what we want them to?
+
+What channels does this audience or community interact with most?
+
+The more defined your audience is, the more targeted your campaign will be. This helps when thinking about messaging, and how you’ll tailor that messaging when activating different channels.
+
+Communication framework
+
+Kira has a section for campaign messaging to keep it consistent and top of mind for contributors, which can be especially important as a campaign grows in scope.
+
+She frames the messaging in an action-driven way. What actions do you want your audience to take once they engage with the campaign?
+
+To achieve that, Kira uses the Get → To → By framework.
+
+Get (your target audience)To (take a certain action)By (doing a campaign action)
+
+Get (your target audience)
+
+To (take a certain action)
+
+By (doing a campaign action)
+
+Having an action-driven communication framework helps the campaign achieve its goals.
+
+Strategy connected to deliverables in one place
+
+Duplicate Kira’s campaign brief here →
+
+Telling a consistent story makes a campaign more impactful. But fragmentation often creeps in when different channel owners start planning work.
+
+Initially, Kira relied on a mix of ad hoc notes and 1:1 meetings to figure out what channels were involved, who was responsible, and how to keep the messaging consistent. As the team grew and campaigns scaled in size, it became clear that she needed a better system in place.
+
+To avoid inconsistencies, Kira put all channel briefs into a single database. Each has its own template, so channel owners have a place to plan their specific strategies. And since they’re all in the master campaign template, these are visible to everyone involved.
+
+She also notes that this is a good way to share information with external agencies and avoid the need to create additional workspaces — everything they need is in their channel brief.
+
+Action items from these briefs flow right into the Deliverables tracker. It’s a way to track every moving piece within your campaign while providing both clarity and context. Each channel brief can have its own view of the database to see their deliverables, while the owner of the campaign can keep track of the work happening in parallel across channels.
+
+Teams, knowledge, and work together
+
+Connecting all the moving parts of a campaign requires a huge amount of project management overhead. Things are likely to slip when there’s gaps between the context of why you’re doing something, who’s doing it, and the actual work.
+
+For Kira and her team (and their cross-functional partners!), this template brings everything together. It’s the starting point for every campaign, and customizable enough to fit campaigns spanning continents, countries, or just a couple channels.
+
+Start using Kira’s campaign brief in Notion by downloading the template here.

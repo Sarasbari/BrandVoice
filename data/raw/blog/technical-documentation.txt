@@ -1,0 +1,99 @@
+Title: How to write and manage your technical documentation
+Published Date: 2023-06-06T00:00-06:00
+URL: https://www.notion.so/blog/technical-documentation
+
+If you've ever followed written instructions on a process, tool, or technical repair, then you’re familiar with technical documentation.
+
+But actually creating technical documents might be unfamiliar. The good news is you don't have to be a technical writer to create a technical doc — you just need the information, some guidance, and a good template.
+
+What’s technical documentation?
+
+Technical documentation explains the functionality of a product or piece of software. This can be anything from heat vent installation instructions to a complete breakdown of how an API works within a software development project.
+
+Often employees closest to the product, service, or process create the technical documentation for it. But you can also hire a proficient technical writer to create clear and consistent documentation for your team or the entire organization.
+
+You can use technical documentation to outline any piece of technology or process. But no matter the topic, your document likely addresses one of three purposes:
+
+To help end-users — most technical documentation exists in order to support product users. This covers things like user guides, help desk FAQs, and feature update info.
+
+To support development — documenting code is tedious but necessary for software and product development teams. They’ll want to outline code changes and best practices for new hires, for example, so that everyone on the team keeps the code clean and consistent.
+
+To assist your organization — your documentation can also streamline processes for the whole company and keep everyone informed. You might have an entire Sharepoint dedicated to technical documentation related to your company, like policies, project workflows, and onboarding tutorials.
+
+3 benefits of technical documentation
+
+Your employees and clients benefit from well-thought-out technical documentation. It gives them the knowledge needed to understand and use your product or service.
+
+Here are a few more benefits of creating clear and concise technical documentation:
+
+Provides context for users — technical documentation allows users to read about your product before they purchase it. In that sense it's an ad, as the savviest customers will scan user guides before making major purchasing decisions.Speeds up development — especially in software development, technical documentation speeds up processes because it provides a historical record of development procedures. It gives developers a reference point, so they don't have to reinvent the work or waste time figuring out an efficient workflow.Helps with tech support — if you have technical documentation on your website, like comprehensive help and product guides or FAQs, you can lighten the load for your customer service and tech support teams by letting customers access documentation without making a phone call or sending an email. And many customers enjoy the challenge of troubleshooting their own problems, only calling when they run into significant roadblocks.
+
+Provides context for users — technical documentation allows users to read about your product before they purchase it. In that sense it's an ad, as the savviest customers will scan user guides before making major purchasing decisions.
+
+Speeds up development — especially in software development, technical documentation speeds up processes because it provides a historical record of development procedures. It gives developers a reference point, so they don't have to reinvent the work or waste time figuring out an efficient workflow.
+
+Helps with tech support — if you have technical documentation on your website, like comprehensive help and product guides or FAQs, you can lighten the load for your customer service and tech support teams by letting customers access documentation without making a phone call or sending an email. And many customers enjoy the challenge of troubleshooting their own problems, only calling when they run into significant roadblocks.
+
+3 types of technical documentation
+
+There are three types of technical documentation, each with its own list of sub-types. The end goal of all types of technical documentation remains the same, though: to guide readers through the intricacies and details of your product or service.
+
+1. Product Documentation
+
+Product documentation explains how to use a product or how it generally works. Here are some examples:
+
+User guides contain easy-to-understand language describing how a product works and outlining basic troubleshooting steps.
+
+Product manuals dive deeper than user guides. They often contain diagrams, part lists, and illustrations describing a product.
+
+Repair manuals offer concise instructions on how to troubleshoot or fix something. These manuals try to address every common failure, outlining a solution for each.
+
+2. Process documentation
+
+Process documents are for specific task completion. Here are some workflow documents a project manager or product owner might create:
+
+Product roadmaps are technical documents that outline a product's lifecycle from conception to completion. These include stakeholder input, the product's intent and assumed completion date, and every design and development step along the way. Project plans set out every expectation and task for a project. These documents also note responsibilities, resource plans, and deliverables. Test schedules display the consistent steps, tasks, and dates pertaining to software or product testing.
+
+Product roadmaps are technical documents that outline a product's lifecycle from conception to completion. These include stakeholder input, the product's intent and assumed completion date, and every design and development step along the way.
+
+Project plans set out every expectation and task for a project. These documents also note responsibilities, resource plans, and deliverables.
+
+Test schedules display the consistent steps, tasks, and dates pertaining to software or product testing.
+
+3. Sales and marketing documentation
+
+Sales and marketing documents are typically internal-facing and focus on customer metrics and processes that happen between sales and marketing teams. A good technical documentation example here would be a case study describing a successful marketing campaign. This category might also include training videos for onboarding employees or a Gantt chart outlining how and when to move a lead through a customer relationship management (CRM) platform.
+
+How to write technical documentation: 5 steps
+
+Your team already knows everything there is to know about the process, product, or software you want documented — it's just a matter of writing and publishing that knowledge. Here are five steps you can follow to create clear and effective documentation.
+
+1. Define your audience
+
+Whether your audience is internal or external, their needs should be at the forefront of your document. Consider what information they need in order to get value out of your technical documentation, whether that’s a diagram that describes the internal workings of a watch or a basic website map.
+
+2. Determine the document type
+
+Sometimes all you need is a product manual, and sometimes that product requires a repair manual with it. It may also require a user guide. Determine your document scope — what document types you need and how thorough or basic they should be. You don't want to overwhelm the reader, but you do want to provide all the information they’ll need.
+
+3. Collaborate with your team
+
+No matter your expertise level regarding this document’s subject, your teammates likely have useful information to contribute. Meet with your subject matter experts to gather data to pass on to your technical writer or internal team. If you need software documentation and aren't a developer, for example, involve one in the documentation process to verify accuracy.
+
+4. Outline the document
+
+You could begin with a blank page and slowly structure your document yourself or start with a template suited to your needs — be that a user guide, repair manual, or process diagram. Starting with a template helps you create more consistent documentation across your organization since you can use the same format to create any doc. Template prompts also mean you’ll remember all the necessary information you need to include.
+
+You can create further consistency by following a company-wide documentation style guide — but you’d need to document it first.
+
+5. Review and update it
+
+Gather feedback from your team and run your technical document by some end-users, using everyone’s feedback to refine the document. Because technical documentation aims to help end-users, employees, and the organization as a whole understand how something works, you must fact-check and test these documents.
+
+A great best practice for technical documentation, especially repair manuals, is to follow the steps before releasing the document. Examine the flow to check whether it translates to real-world application.
+
+All your documents in one connected workspace
+
+Technical documents vary significantly, from complex product design manuals to straightforward project plans. But no matter your documentation needs, Notion has templates to get you started.
+
+Try the engineering docs template to organize your engineering team’s information or the coding guidelines template to create consistent coding standards across the organization. And house these templates in a shared team workspace so everyone has access to this single source of truth.

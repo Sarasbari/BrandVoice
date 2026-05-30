@@ -1,0 +1,99 @@
+Title: A complete guide to effective marketing emails
+Published Date: 2023-07-27T00:00-06:00
+URL: https://www.notion.so/blog/effective-marketing-emails
+
+If emails aren’t part of your marketing plan, you’re missing out on leads. According to HubSpot’s 2023 State of Marketing report, 77% of email marketers have seen a boost in campaign engagement over the last year.
+
+To tap into increasing email engagement rates and turn that interest into sales, you must create compelling content that encourages the reader to open the message, spend time with the text, and click on internal links to learn more about your company’s offering.
+
+If you’re not a natural wordsmith or have little sales experience, creating effective marketing emails might seem daunting. But with technology like AI text generators and campaign data on what resonates with your audience, you have all the tools you need to succeed.
+
+Email marketing: a definition
+
+Email marketing is an outreach strategy that involves companies contacting target audience members via email. These messages generally include promotions, product updates, and calls to action (CTAs) that invite readers to engage with the sender’s brand.
+
+Email marketing strategies typically involve campaigns and automations. Campaigns target large recipient groups with information, like news on back-in-stock items or upcoming sales, that interests a broad audience. And automations trigger off consumer actions. If a website visitor leaves an item in their virtual shopping cart, this might trigger an automatic email reminding them about the purchase they didn’t complete.
+
+Why is email marketing important?
+
+Chances are your inbox fills daily with marketing messages — emails from brands you like and organizations you care about. Even if you don’t have time to read each email, the sender stays top of mind.
+
+The take-home point: If you want your brand to remain top of mind with target audience members, get into their inboxes. Here’s why doing so benefits your organization:
+
+Website traction increases — if you include links to explore your e-commerce store or read further on your website, you drive traffic to these pages. And traffic is a powerful asset. High traffic rates increase internet search rankings, meaning your site appears at the top of results when people browse for products or services like those you offer. Since most people click on the first few search engine results, the higher you rank, the better. Customers get what they want — making consumers happy is a good enough reason to consider doing anything, right? Through email marketing campaigns, you offer your target audience quality content they want to read and promotions they actually use. You gain excellent marketing data — email marketing platforms like HubSpot and MailChimp provide metrics like open rates (how many people open a message) and click-through rates (how many readers visit a link in the text.) These data points help you understand which subject lines convince viewers to open and what content encourages them to click. You can also use email marketing to drive other data collection initiatives, like sending a customer satisfaction survey.
+
+Website traction increases — if you include links to explore your e-commerce store or read further on your website, you drive traffic to these pages. And traffic is a powerful asset. High traffic rates increase internet search rankings, meaning your site appears at the top of results when people browse for products or services like those you offer. Since most people click on the first few search engine results, the higher you rank, the better.
+
+Customers get what they want — making consumers happy is a good enough reason to consider doing anything, right? Through email marketing campaigns, you offer your target audience quality content they want to read and promotions they actually use.
+
+You gain excellent marketing data — email marketing platforms like HubSpot and MailChimp provide metrics like open rates (how many people open a message) and click-through rates (how many readers visit a link in the text.) These data points help you understand which subject lines convince viewers to open and what content encourages them to click. You can also use email marketing to drive other data collection initiatives, like sending a customer satisfaction survey.
+
+4 types of email marketing campaigns (with examples)
+
+A brand offering 20% off your next purchase and a reminder to review a hotel stay fall into different email marketing categories. Here’s more on the four main types, with email marketing examples to demonstrate how each works:
+
+Welcome emails start the relationship with a new mailing list subscriber on the right foot. These marketing emails often thank the recipient for signing up, offer a welcome promotion, and provide valuable information about the brand’s offering. An online clothing retailer might offer a percentage off the customer’s first purchase and highlight central brand values, like sustainability and quality.Promotional emails aim to drive sales. These messages alert subscribers of upcoming or current sales, encouraging them to take advantage of a good deal. Brands also use these emails to reiterate what makes their products or services shine. The clothing company might announce an end-of-season sweater sale and remind readers that they only use the highest quality cashmere. Updates contain information on new products and services, industry trends, and relevant “life hacks.” Recurring newsletters often feature this type of content. Our example clothing brand might use its monthly blast to highlight best-selling jeans, providing tips on pairing them with wardrobe basics and showing images of trendsetters wearing them. Invitations to connect encourage readers to share their opinions. Asking for consumers’ thoughts forges strong connections with your brand because customers feel your company cares about adapting to their needs. The clothing company could send a post-purchase survey asking buyers to rate their experience and offer improvement suggestions.
+
+Welcome emails start the relationship with a new mailing list subscriber on the right foot. These marketing emails often thank the recipient for signing up, offer a welcome promotion, and provide valuable information about the brand’s offering. An online clothing retailer might offer a percentage off the customer’s first purchase and highlight central brand values, like sustainability and quality.
+
+Promotional emails aim to drive sales. These messages alert subscribers of upcoming or current sales, encouraging them to take advantage of a good deal. Brands also use these emails to reiterate what makes their products or services shine. The clothing company might announce an end-of-season sweater sale and remind readers that they only use the highest quality cashmere.
+
+Updates contain information on new products and services, industry trends, and relevant “life hacks.” Recurring newsletters often feature this type of content. Our example clothing brand might use its monthly blast to highlight best-selling jeans, providing tips on pairing them with wardrobe basics and showing images of trendsetters wearing them.
+
+Invitations to connect encourage readers to share their opinions. Asking for consumers’ thoughts forges strong connections with your brand because customers feel your company cares about adapting to their needs. The clothing company could send a post-purchase survey asking buyers to rate their experience and offer improvement suggestions.
+
+How to create an email campaign that drives engagement
+
+You’ve acquired marketing software, plugged in your email list, and started dreaming about increased engagement numbers. You’re ready to create an impactful email marketing campaign. Take your message across the finish line with the following four steps.
+
+1. Choose the target audience
+
+Determine which part of your mailing list you’ll send the campaign to. Some marketing emails should reach the entire list, while others resonate best with a segment. If sending a product update, go big and include everyone. Information about new offerings is widely relevant. And if you’re extending a discount code to customers who haven’t purchased recently, apply a segmentation filter that includes these recipients.
+
+2. Create excellent content
+
+An engaging marketing email should be visually and textually appealing, and the following tips can help you achieve these goals:
+
+Use white space — leaving blank space in the composition prevents an email from looking cluttered. A reader’s eye can readily travel through the space, focusing on essential pieces of text. And images will stand out against the blank background. Keep it brief — resist the temptation to include lengthy text in an email, as the viewer may not take the time to read it. If you wish to direct the viewer to longer texts, include links to read further. Great marketing emails use catchy language and rely on short phrasing and paragraphs, like “We’re launching an app that revolutionizes scheduling. Tap the link below to explore further.”Optimize for mobile — many people read emails on their phone, so email marketing platforms contain tools that allow users to visualize designs for mobile and desktop to ensure the final message looks great on both. Send a test email to your phone and check that graphics render correctly and fonts aren’t too small. Stay on brand — always head up an email with your company logo so viewers know it's an official communication. And maintain a coherent brand image by using the same colors, fonts, and voice in every message.
+
+Use white space — leaving blank space in the composition prevents an email from looking cluttered. A reader’s eye can readily travel through the space, focusing on essential pieces of text. And images will stand out against the blank background.
+
+Keep it brief — resist the temptation to include lengthy text in an email, as the viewer may not take the time to read it. If you wish to direct the viewer to longer texts, include links to read further. Great marketing emails use catchy language and rely on short phrasing and paragraphs, like “We’re launching an app that revolutionizes scheduling. Tap the link below to explore further.”
+
+Optimize for mobile — many people read emails on their phone, so email marketing platforms contain tools that allow users to visualize designs for mobile and desktop to ensure the final message looks great on both. Send a test email to your phone and check that graphics render correctly and fonts aren’t too small.
+
+Stay on brand — always head up an email with your company logo so viewers know it's an official communication. And maintain a coherent brand image by using the same colors, fonts, and voice in every message.
+
+3. Personalize where possible
+
+Many email platforms allow marketers to personalize subject lines and greetings with the recipient’s name, even on mass campaigns. This move can grab reader attention and make them feel seen and valued.
+
+Couple this personalization with targeted offerings, like leveraging marketing tool data to determine each customer’s preferred products and offering coupons for these items.
+
+4. Learn from data
+
+After you hit “Send,” keep an eye on campaign metrics. If a low percentage of subscribers open a message, your subject line may not be catchy enough. And if an email significantly boosts sales, the promotion was spot-on and worth repeating.
+
+AI and email marketing: a powerful duo
+
+A key step in creating an engaging campaign is writing excellent content, and that’s no easy charge, since your content must cut through a lot of noise. But now email marketers can leverage artificial intelligence (AI) tools to get the creative juices flowing.
+
+AI writing assistants like Notion’s give content creators a baseline they can edit to perfection. AI email marketing generators can:
+
+Write snappy subject lines Respond to prompts (i.e., “Help me write a marketing email”)Recreate natural human prose Generate email signatures Catch grammar and style errors Suggest clearer sentences
+
+Write snappy subject lines
+
+Respond to prompts (i.e., “Help me write a marketing email”)
+
+Recreate natural human prose
+
+Generate email signatures
+
+Catch grammar and style errors
+
+Suggest clearer sentences
+
+Level up your email campaigns with Notion
+
+Whether you’re a recruiter looking to reach ideal candidates or a marketing professional hoping to boost current campaigns, Notion can help. Use our AI-powered sales outreach tool to brainstorm subject lines and our email generator to draft copy for a specific target audience. And track all your campaigns with the email request tracker template.

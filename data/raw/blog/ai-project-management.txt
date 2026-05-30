@@ -1,0 +1,247 @@
+Title: Notion AI project management: One workspace for everything
+Published Date: 2023-09-12T00:00-03:00
+URL: https://www.notion.so/blog/ai-project-management
+
+When your roadmap lives in one tool, customer feedback in another, and final decisions in a third, project management becomes guesswork. That’s why project professionals struggle—information lives in too many places to count.
+
+But Notion AI brings everything together in one place. By connecting your docs, decisions, tasks, and meeting notes, it understands the context behind your work and turns it into momentum. That way, instead of chasing updates, you’ll get summaries that reflect the full picture, agents that route work to the right people, and insights that are strong enough to guide real decisions.
+
+Using AI project management in a connected workspace like this brings execution, documentation, and alignment into one place.
+
+What is AI project management?
+
+AI project management isn’t about handing your workflows over to an algorithm. Instead, it means giving your team a system that understands the full context behind every decision, document, and dependency, then helps you orchestrate the work that follows.
+
+In practice, that means using AI to connect your tasks, research, meeting notes, and feedback loops so you don’t lose anything in translation. AI does so by surfacing patterns, anticipating needs, and turning scattered inputs into clear next steps.
+
+Notion’s approach centers on that foundation. As Notion solution engineer Peter Escartin explains, “It’s a single source of truth for all aspects of a project. [...] Users can manage all aspects of their project in a single place, from execution of work to creation of documentation and meeting notes. AI on top of that foundation becomes a robust assistant—creating tasks, assigning the right people, and mapping everything to the project timeline.”
+
+In other words, AI tools become truly helpful when users have the background to act intelligently.
+
+How is AI changing the project manager’s role?
+
+Project managers (PMs) have always carried the weight of keeping their teams aligned and work moving. What’s changing now, though, is how much of that load AI can share. Instead of spending hours collecting updates or stitching context together, PMs can rely on AI to handle tracking, summarizing, and pattern spotting. That frees them up to instead focus on guiding priorities, supporting teams, and shaping product outcomes.
+
+According to McKinsey’s 2025 State of AI report, the organizations that are seeing the most value today are redesigning their workflows so their teams can spend more time on strategic work and innovation, not just using AI for efficiency. In Notion, AI embeds in your workflow as a teammate, which means you can keep everything organized and actionable.
+
+Here are some more specific benefits that using it can net you:
+
+Less manual tracking, more strategic focus
+
+In a typical week, you might spend hours turning meetings into action items and updating project statuses. But with Notion AI, that work can happen in the background. For instance, after a stand-up or stakeholder review, AI can summarize the meeting, capture key decisions, and draft tasks directly on your project page.
+
+In addition to summarizing meetings, Notion AI allows you to do these things more quickly:
+
+Tag tasks by priority, owner, or squad so your board stays current.Draft quick updates for leaders by pulling from docs, tasks, and comments.
+
+Tag tasks by priority, owner, or squad so your board stays current.
+
+Draft quick updates for leaders by pulling from docs, tasks, and comments.
+
+Together, these automations give you back the time and clarity you need to guide what comes next, especially in the rituals that shape every sprint.
+
+AI copilots for sprint planning and retrospectives
+
+Sprint rituals are where you shape what you build and why it matters. Notion AI can lighten the load here by helping you prep context, surface risks, and turn raw notes into usable inputs. For example, you can ask it to complete these tasks for you:
+
+Draft first-pass user stories from problem statements, discovery notes, or research pages.Pull risks, blockers, and key results from a project page before planning.Cluster incoming feedback into themes to guide priorities.Generate a sprint brief that brings together product docs, roadmap goals, and recent discussion threads.
+
+Draft first-pass user stories from problem statements, discovery notes, or research pages.
+
+Pull risks, blockers, and key results from a project page before planning.
+
+Cluster incoming feedback into themes to guide priorities.
+
+Generate a sprint brief that brings together product docs, roadmap goals, and recent discussion threads.
+
+For retrospectives, AI can also highlight recurring themes, propose follow-ups, and turn feedback into a concrete improvement plan.
+
+Data-driven visibility into team health
+
+The hardest part of managing projects across engineering, product, and design is seeing the full picture early enough to act. To help with this, Notion AI can continuously scan project pages, tasks, and meeting notes for signals of risk—such as slipping timelines, repeated blockers, or overloaded teams—and surface them in dashboards or summaries.
+
+Here’s what that might look like:
+
+A weekly AI-generated “project health” digest for each initiativeAlerts for repeated patterns, like dependency issues or decision gapsA leadership view that links statuses to relevant docs and discussions
+
+A weekly AI-generated “project health” digest for each initiative
+
+Alerts for repeated patterns, like dependency issues or decision gaps
+
+A leadership view that links statuses to relevant docs and discussions
+
+AI can do all the busywork of aggregating information, which frees PMs to set the direction and keep teams moving together.
+
+What can product teams do in AI-connected workspaces?
+
+Nearly every team uses a project management tool—but most haven’t found a system that truly fits how they work. In fact, Notion’s Productivity Study found that 74 percent of companies use project management software, but 62 percent are considering switching in the next year.*
+
+This is where AI-connected workspaces create a path forward. By centralizing documents, tasks, feedback, and product decisions and giving AI access to that context, you can make everyday workflows faster, clearer, and easier to orchestrate. And when you work inside a shared system that updates itself, it’s easy to surface what matters and keep everyone focused on preserving momentum.
+
+Below are some practical use cases that show what’s possible when you layer AI for project management onto a connected workspace:
+
+Shared context that builds itself
+
+Most product teams spend time recreating context by rewriting requirements, re-explaining decisions, and stitching together updates. But in an AI-connected workspace, that context assembles itself.
+
+With a machine learning-enabled Notion project—a central page where your tasks, scope, decisions, and notes all connect—AI continuously pulls in new signals like customer feedback or meeting decisions and keeps everyone’s understanding up-to-date. For example, an AI Summary property can generate a living overview with risks, timeline shifts, and next steps, which keeps teams aligned without extra documentation.
+
+AI agents can also answer questions across your workspace—such as, “Show me everything we decided for the onboarding revamp”—and instantly return meeting notes, tasks, related specs, and dependencies.
+
+Instant understanding at every layer
+
+Teams move faster when integrations give everyone a real-time view of work and collapse the gaps between product conversations and engineering work.
+
+For example, Notion’s integration with GitHub keeps engineering and product aligned in these ways:
+
+Showing requests and issues as real-time previewsSyncing repositories as databases that you can filter, sort, and roll upAutomatically updating tasks within the “GitHub PR” property
+
+Showing requests and issues as real-time previews
+
+Syncing repositories as databases that you can filter, sort, and roll up
+
+Automatically updating tasks within the “GitHub PR” property
+
+That’s why fintech leader Qonto uses Notion as its single workspace across nearly 1,600 employees. As the company expanded into eight markets, it consolidated its entire product development process into one connected system, which resulted in these benefits:
+
+A unified roadmap linked to team-specific KanbansAutomated status tracking so teams never wait for updatesA company-wide wiki and teamspaces that keep knowledge fresh
+
+A unified roadmap linked to team-specific Kanbans
+
+Automated status tracking so teams never wait for updates
+
+A company-wide wiki and teamspaces that keep knowledge fresh
+
+As Qonto's tech operations principal put it, “With Notion, we identify potential issues instantly […] and resolve problems before they escalate.”
+
+By consolidating data in this way, AI-connected workspaces turn alignment into a natural byproduct of the way teams work.
+
+Pattern recognition for better performance
+
+AI for project management becomes most valuable when it can see across everything—decisions, tasks, feedback, specs, and risks—and notice patterns that you might miss.
+
+For instance, imagine a chatbot-style interaction in which you ask these questions:
+
+“What risks are emerging across the Q3 roadmap?”“Show me any tasks that have been slipping for more than five days.”“Summarize customer feedback trends for the onboarding project.”
+
+“What risks are emerging across the Q3 roadmap?”
+
+“Show me any tasks that have been slipping for more than five days.”
+
+“Summarize customer feedback trends for the onboarding project.”
+
+Because the AI has the full context of your workspace, its answers will be specific and actionable—not just generic summaries. For PMs and engineering leads, this pattern detection shifts reactive triage into proactive planning.
+
+Adaptive prioritization and focus
+
+In fast-moving product teams, priorities change quickly. That’s why AI-connected workspaces automatically re-prioritize tasks without the overhead of manual tracking.
+
+Through integrations like Zapier, for instance, teams can connect Notion to thousands of apps—such as Asana, Airtable, Google Docs, and Slack—so updates flow in both directions. If you pair that with AI in project management, you get adaptive prioritization that reflects today’s reality, not yesterday’s plans.
+
+For example, you can ask AI to adjust a project timeline based on new blockers, shifting dependencies, or updated engineering estimates. It can then reorder dates, highlight the downstream impact, and notify the right people. AI agents can also act like lightweight chatbots that help you stay organized when you give them commands like these:
+
+“Shift all tasks that UX has blocked to next week.”“Create follow-ups for any overdue issues.”“Show me everything assigned to my team that’s due in the next 48 hours.”
+
+“Shift all tasks that UX has blocked to next week.”
+
+“Create follow-ups for any overdue issues.”
+
+“Show me everything assigned to my team that’s due in the next 48 hours.”
+
+PMs often describe this feature as having a “focus assistant” that keeps them grounded in what’s current and drives high-quality execution.
+
+How to use Notion to get started with AI project management
+
+Shifting toward AI-driven project management doesn’t require a full reinvention. Instead, the teams that see the most value usually follow a simple, repeatable pattern while keeping projects flexible enough for AI to help them move faster.
+
+As an AI project management workspace that embeds directly into your docs, tasks, and planning workflows, Notion makes it easier to build momentum from day one.
+
+Below is a five-step model that you can use immediately, along with example prompts and templates, to help AI do more of the heavy lifting for you:
+
+1. Set up your project workspace
+
+Before AI can help you, it needs a clear home for your work. Centralizing docs, decisions, meeting notes, Slack threads, research, and tasks is what gives AI a true single source of truth and provides your team with a clearer picture of what’s happening and why.
+
+Our Projects & Tasks template is a great starting point for this effort. With it, you can track your projects as a timeline, Kanban board, or calendar, then layer in planning docs, embedded designs, check-ins, and meeting notes in the same space.
+
+2. Activate AI autofill and smart summaries
+
+Once you’ve set up your project workspace, it's time to turn on the AI features that let generative AI interpret your work. Rather than switching to a tool like ChatGPT, though, you can get those capabilities directly inside Notion, where AI can read your project data to maintain the shared understanding that your team needs.
+
+To get started, check out these features:
+
+AI Summary: Produce live, auto-updating snapshots of your project.AI autofill properties: Extract tasks, risks, decisions, or next steps from any page.Custom prompts:“Summarize this sprint planning doc with key tradeoffs.”“Turn this meeting note into three user stories.”“Identify blockers across these linked pages.”
+
+AI Summary: Produce live, auto-updating snapshots of your project.
+
+AI autofill properties: Extract tasks, risks, decisions, or next steps from any page.
+
+Custom prompts:
+
+“Summarize this sprint planning doc with key tradeoffs.”“Turn this meeting note into three user stories.”“Identify blockers across these linked pages.”
+
+“Summarize this sprint planning doc with key tradeoffs.”
+
+“Turn this meeting note into three user stories.”
+
+“Identify blockers across these linked pages.”
+
+3. Automate workflows and notifications
+
+Now that your foundation is in place, you’ll want to identify repetitive or error-prone moments in your process and streamline them with AI-powered automations.
+
+Here are some examples of how you can do so:
+
+Automatically tag tasks with priority or squad owners.Notify stakeholders when a blocker appears.Update project pages after you log a decision in meeting notes.Convert routine check-ins into weekly digests.
+
+Automatically tag tasks with priority or squad owners.
+
+Notify stakeholders when a blocker appears.
+
+Update project pages after you log a decision in meeting notes.
+
+Convert routine check-ins into weekly digests.
+
+If you’re not sure where to begin, explore our library of workflow templates. These can help you build simple automations without over-engineering your system. Then, you can layer in more advanced agents as your needs grow.
+
+4. Monitor and iterate continuously
+
+AI project management isn't a “set it and forget it” system. Effective teams instead regularly refine their prompts, templates, automations, and agents so AI remains a true partner in execution.
+
+Here are a few best practices to help you do this more effectively:
+
+Review your AI summaries weekly to make sure they reflect the right context.Adjust your autofill prompts for every sprint as the project evolves.Evaluate your automations quarterly so they reduce overhead, not add noise.Add new data sources or connectors as teams adopt new tools.
+
+Review your AI summaries weekly to make sure they reflect the right context.
+
+Adjust your autofill prompts for every sprint as the project evolves.
+
+Evaluate your automations quarterly so they reduce overhead, not add noise.
+
+Add new data sources or connectors as teams adopt new tools.
+
+5. Connect knowledge across systems
+
+Once your core workflow is running smoothly, you should connect your workspace to the rest of your tools so AI can understand dependencies and create clear weekly plans. This kind of AI task management reduces manual coordination and helps your team focus on progress instead of just the process.
+
+To help with this, Notion Agent can perform these tasks:
+
+Analyze projects across teams.Create weekly action plans per person.Prevent missed deadlines with data-driven timelines.Surface risks that appear across multiple systems.
+
+Analyze projects across teams.
+
+Create weekly action plans per person.
+
+Prevent missed deadlines with data-driven timelines.
+
+Surface risks that appear across multiple systems.
+
+Looking ahead: What’s next for AI project management?
+
+AI is already easing the weight of day-to-day coordination, and the next wave—verified, explainable agents—will help teams optimize decisions, not just document them. These ready-to-use agents will also help teams proactively shape their work by spotting risks earlier, refining priorities faster, and keeping everyone aligned without extra effort.
+
+The foundation for that vision is a connected workspace. When all docs, tasks, conversations, and decisions live in one place, AI can support the full arc of project success, from planning through delivery and iteration. Notion is building toward that future—where teams will spend less time managing work and more time moving it forward.
+
+If you’re ready to explore what AI can unlock for your team, check out Notion AI today.
+
+References:*Numerous Productivity Study commissioned by Notion (n=1,000). US only. Questions: Which of the following tools or software does your organization use, if any? Select all that apply.

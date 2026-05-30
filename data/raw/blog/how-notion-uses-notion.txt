@@ -1,0 +1,305 @@
+Title: How Notion uses Notion
+Published Date: 2021-02-25T00:10-08:00
+URL: https://www.notion.so/blog/how-notion-uses-notion
+
+We get asked this question a lot. "How does the Notion team use Notion?"
+
+We're in a unique position to show you how to use this tool because we made the thing. We know its nooks and crannies and generally try to stretch its limits.
+
+Our goal here is to pop the hood on our internal Notion setup so you can see what we've built, how it helps us get more done, and how you can create something similar yourself.
+
+Read on to learn:
+
+How we structure our internal wiki for organizational clarityHow we manage projects across teams using databasesHow we share notes, so everyone is always in the loopHow every team at the company uses a unique setup to organize their workBest practices for getting the most out of your workspace
+
+How we structure our internal wiki for organizational clarity
+
+How we manage projects across teams using databases
+
+How we share notes, so everyone is always in the loop
+
+How every team at the company uses a unique setup to organize their work
+
+Best practices for getting the most out of your workspace
+
+Here is the bird's eye view of our setup. Below, we'll explore each section in a bit more detail.
+
+Clear sidebar setup for easily-accessible information
+
+Information should be easy to find — if it's not, it's useless. Problem is, it's so easy for information to become scattered. Whether it's located in different apps or software, employees waste time searching through it all to find what they need to get work done.
+
+Our sidebar is designed to be the opposite. Everything is a click or two away, so you spend less time digging around and more time doing what's important.
+
+Workspaces for the entire team
+
+The whole company can access pages in the Workspace section of our sidebar. Each team has its own individual page (more on this later), but our shared communication happens here.
+
+For example, OS contains our mission, strategy, and other vital docs that guide the organization. This page, along with Meeting Notes, Tasks and Docs, collects and organizes information that every team uses at a company-wide level.
+
+Many pages are nested inside each of these pages. By hitting the correct toggle, you can easily jump into a section directly from the sidebar.
+
+Shared with select team members
+
+Pages in the Shared section of the sidebar are shared between chosen individuals, instead of the entire team. Everyone's Shared section looks different based on which pages people have invited them to see. Here's a peek at mine.
+
+Most often at Notion, shared pages function as homes for notes from one-on-one meetings between managers and their teammates.
+
+Ideas take shape in shared pages. Think, edit and sharpen with a select few folks, then share with the broader team (if you'd like). For instance, our head of marketing shared our marketing strategy for 2020 before sharing with the whole organization, so it's viewable here. You can invite individuals to a page and keep it that way until the end of time, or drag the shared page into the Workspace section, so everyone has access to it.
+
+Private, just for you
+
+Got something you need to keep to yourself? Lots of Notion employees keep personal to-do's and notes in the Private section. This is your cabin in the woods: a place to think and work in solitude.
+
+Favorite what you need most
+
+If you're visiting a specific page frequently and need it to be accessed faster than the speed of light, you can make it a Favorite page. This places it at the very top of your sidebar to dive into with a single click.
+
+Just like the Shared section, everyone's Favorites look different.
+
+That's because it's helpful to favorite pages when they're relevant to a project you're working on currently. You can always unfavorite them when the project is complete.
+
+An operating system that fosters clarity
+
+Every employee at a company should be able to read the company's most important documents. In our OS page, team members get insight into what leadership is thinking and where the company is headed. This helps us all work toward the same goals and operate on the same principles as a unit.
+
+But we can't move forward unless we know where we came from. OS stores previous iterations of Mission & Strategy pages so that every decision is made with full context from the past.
+
+Our culture of transparency also comes to life in our dialogue, especially in the Company Q&A page.
+
+It's surfaced every week in our all-hands meeting.Ahead of the meeting, employees submit questions that get up-voted by other employees.The ones with the most votes get answered first.This type of open forum ensures all voices get heard.
+
+It's surfaced every week in our all-hands meeting.
+
+Ahead of the meeting, employees submit questions that get up-voted by other employees.
+
+The ones with the most votes get answered first.
+
+This type of open forum ensures all voices get heard.
+
+Shared tasks keep everyone aligned
+
+It's (almost) impossible to know exactly what other people are working on, both for your team and company-wide. To help break down the silos that normally exist between departments, we created a cross-functional task system that connects all teams.
+
+This one database is all tasks from all employees from all teams — 20,000 of them. And at a glance, our database can get as granular or high-level as we need it to. This isn't just relevant for engineering — it covers tasks for marketing and sales too.
+
+Here's how we organize it.
+
+Columns organize tasks by status
+
+Each column is the task's status. On the road to completion, you can see where each task is located — whether it's this week, next, or in progress. No more questions about the status of a task because you can view it from the Tasks board.
+
+Properties for important context
+
+Every task has a set of properties associated with it, making it easy to understand. Properties include who the task is assigned to, what team they're on, what project it's associated with, when it's due and more.
+
+Cards house all relevant info
+
+Each task is a card. Put any information you need to complete the task inside of the card itself. Notes, images, research, writing, planning, documents, and more — they're all in one place, easy for anyone to find and access.
+
+View this data however is most helpful
+
+Because there are so many tasks, it's helpful to have different views to filter them by team or person or project. Views are based on the properties associated with the task. Want to see just marketing-related tasks? There's a view for that. You can even make a new view that applies a certain filter, seeing information organized however is most helpful for you.
+
+Templates so everyone's on the same page
+
+We've also created templates in this database that correspond to specific tasks. For example, if you're submitting a bug report, you can create a template to use. This helps everyone assess the problem in the same way — speeding up our work and keeping it consistent. This process helps the person responsible for fixing that bug get the information they need to do it effectively.
+
+A culture built on documentation
+
+Many companies face two problems when it comes to documentation:
+
+There isn't any, which can lead to lost context when handing off projects, miscommunication about decisions, and remote teams feeling untethered from what goes on at HQ.There's no central place for documentation, so it ends up everywhere — thus, no one is working off the same information, and it's not actionable.
+
+There isn't any, which can lead to lost context when handing off projects, miscommunication about decisions, and remote teams feeling untethered from what goes on at HQ.
+
+There's no central place for documentation, so it ends up everywhere — thus, no one is working off the same information, and it's not actionable.
+
+Notion is a company that relies heavily on writing (and organization) to avoid problems like this.
+
+Why is it important to write stuff down?
+
+Documents help us make decisions, share ideas, and think together on the page (from wherever we are). We solve problems collectively. If we're counting, more brains are better than one.
+
+But this culture of documentation is also vital to team building. Everyone's voice is heard — even if they're not in the meeting, the office, or the country. Because we base so much thought in writing, we can work better together.
+
+How we categorize every document
+
+"Request for comment" (RFC) is a type of document you'll frequently see across our Slack messages. These are created to gathering feedback from the team, whether it's a product spec, a proposal for a new company program, an email campaign, etc.
+
+At Notion, we store all RFCs in the same place and share them on Slack so everyone can weigh in. Functionally, this happens in our Docs database. It's the place where all shared writing is stored. If you've created a document, there's no question where it goes.
+
+The Docs page includes projects, RFCs, memos, goals and more. It's organized by date created (most recent first), but can also be organized based on the series of tags and properties we've associated with each document — including the type of document, its status, the project it's related to, and more.
+
+Sorting documents for ease of use
+
+Each of the properties mentioned above can be used to filter or sort the Documents database.
+
+Maybe you tag a document as an RFC. When filtering the entire list of documents, you can choose to see only those tagged RFC.
+
+If you don't want to sort them, you can easily see the list of docs, who created it, and when. We've found this to be the best default sorting, bringing the most recent stuff to the top. But it's not only the recent stuff we have access to — this database allows us to have a repository of decisions made.
+
+That way, we can learn from ourselves.
+
+All the context for why we made a decision is in the document, able to be puled from the archive with ease.
+
+For us, transparency isn't one of those ephemeral values. It's a part of how we work and a part of who we are. That's made possible by cross-team documentation and collaboration.
+
+Meetings happen with an open door
+
+Have you ever thought: "Do we really need to have this meeting?" Us too.
+
+Of course, sometimes meetings are necessary. A decision gets made. They build interpersonal team communication. There's no chance for context to be lost when communicating ideas.
+
+Other times, meetings definitely aren't necessary. They can be time-wasters. There's fruitless debate.
+
+But the biggest problem is that anyone who wasn't in the meeting doesn't know what happened in the meeting.
+
+To combat this, we created a robust notes system that keeps everyone in the loop and establishes an org-wide culture of transparency.
+
+Organized notes from every single meeting
+
+So much documentation is held in Notion that answers can often be gleaned without needing an in-person meeting. But when a meeting is necessary, we take notes.
+
+Similar to our Docs page, we have a Meeting Notes page, which is home to all notes from all meetings across all teams. This helps us bridge the communication gap between different departments at the company.
+
+This a view for all team meetings, sorted by the most recent meeting at the top. You can filter these meetings based on the tags.
+
+For example, the marketing team meets every week and shares its meeting notes here. You can filter the entire list of meeting notes to just see what the marketing team has been discussing.
+
+When creating a new set of meeting notes, there are also some templates to choose from. This includes tags to make sure the meeting is categorized effectively. Whether it's that marketing team weekly meeting, or a call with a community member to get feedback on the product, everything is stored and categorized here. And anyone can view it.
+
+We set it up this way so people don't have to be in a meeting to understand what was discussed. For example, the marketing team always reads notes from engineering team meetings. This helps the marketing team get foresight into the product pipeline and plan accordingly.
+
+Everyone operates from the same vantage point when information is shared across the entire team — even if only a few people are in the actual room.
+
+Team-specific wikis
+
+While there are dedicated spaces for cross-functional work, each team still has their own page.
+
+These dedicated spaces enable teams to work however makes them most productive. Organize plans, house documents, keep track of projects — this is your space to mold. Notion's marketing team includes its editorial calendar. Sales has its CRM. What might your team's wiki hold?
+
+These pages are still accessible by all teams, making it easy to hop into another team's page to grab something you need or understand what they're working on.
+
+You can easily see all the pages nested inside of any page right from the sidebarYou can also use Notion-wide search [ctrl/cmd + p] that'll pull up anything you need
+
+You can easily see all the pages nested inside of any page right from the sidebar
+
+You can also use Notion-wide search [ctrl/cmd + p] that'll pull up anything you need
+
+Without this type of information-sharing, you run the risk of work slowing down and teams becoming disconnected from one another in their own tools and meetings. When Brittany on our sales team needed the most up-to-date Notion logo, she was able to find it immediately like it was packaged just for her.
+
+To get something specific from another team, you'd have to ask. Then on the flip side, the person getting you that thing would need to dig through information, which is often scattered a few different places. It's a lose-lose situation, causing a break in focus and a blocker for accomplishing work.
+
+Here's how some of the teams at Notion organize their individual pages.
+
+Engineering's project roadmap makes sure no balls get dropped
+
+Product & Engineering maintains a robust set of documents. You can see it below — everything from an onboarding system for new employees to guides to infrastructure and platforms.
+
+And if other people on the team need to access this information, it's neatly organized and findable using different headers and columns.
+
+The team's Projects board loops the entire company into the larger projects coming down the road that will impact the product.
+
+Columns are organized by status:Next upPlanningImplementationCompletedEach project is assigned an ownerThere's a series of tags all projects receive, including:Its impactAn estimate of its scopeAny feedback associated with the project
+
+Columns are organized by status:
+
+Next upPlanningImplementationCompleted
+
+Next up
+
+Planning
+
+Implementation
+
+Completed
+
+Each project is assigned an owner
+
+There's a series of tags all projects receive, including:
+
+Its impactAn estimate of its scopeAny feedback associated with the project
+
+Its impact
+
+An estimate of its scope
+
+Any feedback associated with the project
+
+These cards also hold all the context and commentary for specific projects. And because this is linked to our Tasks board, you can connect all the tasks related to a specific project in one place. No one is left wondering about workflow because it's traceable from inception to implementation.
+
+Marketing focuses on its most important tasks
+
+Launch plans, brand assets, ideas and inspiration all live in the marketing team's homepage. Similar to other teams, all docs are bundled and organized for quick access.
+
+The marketing team is often pulled in many directions, pitching in on several projects at once. So focusing on the most important tasks — that have the biggest impact — is super important.
+
+Each project comes with its own set of tasks. And when you're working on a few projects simultaneously, it’s easy for wires to get crossed, or for to-do's to slip through the cracks. To make sure everything for specific projects are accounted for, marketing has special filters for the company-wide Tasks board.
+
+The Landing Pages board is one view.
+
+And the Illustrations board is another view.
+
+These pages exist separately in the marketing workspace but are both filtered views of the same company-wide Task board (using tags to filter). That way, the marketing team can focus on the tasks that matter to them — like completing the landing pages with perfectly-paired illustrations.
+
+And whenever a task in either one of these pages gets updated, that update is reflected in the company-wide Task board everyone else sees.
+
+Having filtered views tightens focus on the most important tasks.
+
+Sales shares notes from calls to learn together
+
+The sales and customer success teams work hand in hand. They're learning from each other constantly. What are a user's pain points? How can we solve them? How can we create a better experience for our customers?
+
+To do this, both teams maintain databases to catalog learnings from customer callsThis speeds up the learning processIt also empowers anyone to contribute to the shared knowledge base
+
+To do this, both teams maintain databases to catalog learnings from customer calls
+
+This speeds up the learning process
+
+It also empowers anyone to contribute to the shared knowledge base
+
+When Vivek joined Notion's sales team, he had everything at his fingertips: sales guides, onboarding, forecasts and more. With these resources, he ramped up quickly — and began contributing to the shared knowledge between sales and customer success teams.
+
+In our company-wide Meeting Notes database is a filtered view for sales. Every time Vivek has a call, he puts the notes here.
+
+Context for previous calls impacts future conversations. Once someone on the sales team learns something, it's shared with the entire team.
+
+That's where Lillie, who's on our customer success team, can learn about people who are advocates of Notion.
+
+Reading Vivek's notes, she can add that customer to the Advocacy Tracking database, which is also housed in the Sales & Success workspace.
+
+And it goes both ways — if Vivek needs a testimonial to share with a prospective customer, he knows exactly how to find someone who matches his needs. This information sharing helps both teams provide a better experience for existing and potential customers. Both lists are living collections of people's experience with the product.
+
+Without lists that can be updated and shared between team members, you run the risk of not knowing what's happening on the front lines of how people use and experience your product.
+
+Community collects all customer feedback to make it actionable
+
+Our community support team acts as the bridge between customers and the company. They're responding to thousands of messages per week, providing answers to complex questions asked by Notion users.
+
+If, for some reason you don't believe us, here's a list of every single piece of feedback we've received, cataloged and tagged based on the nature of that feedback.
+
+That's a list of tens of thousands of individual notes. We see all your comments — good and bad — and make sure they're stored for us to learn from. Without this type of database, feedback might vanish into thin air.
+
+How does feedback become actionable?
+
+We have a system of tags that categorizes user feedbackBased on the tags, this feedback gets fed into our engineering projects roadmap using a relational databaseWhenever a customer makes a feature request, we add that as a vote for that feature on our roadmap
+
+We have a system of tags that categorizes user feedback
+
+Based on the tags, this feedback gets fed into our engineering projects roadmap using a relational database
+
+Whenever a customer makes a feature request, we add that as a vote for that feature on our roadmap
+
+All Notion people (and policies!) in one place
+
+Getting to know your co-workers can happen while collaborating on projects or getting lunch. We take it a step further in Notion's people directory, which contains all the information about the people behind the product.
+
+Much like the people at Notion, this directory is a combination of work and fun. It has our office culture guidelines, a guide for requesting PTO, and the wifi password.
+
+But it also has some fun stuff: our weekly bubble tea order, team events and a reading list. By welcoming our outside passions into office life, we're able to forge deeper connections that go past, "when will my project be ready?"
+
+One way we do that is with life stories.
+
+This is the Notion directory. It has all employees, which team they're on, how long they've been at the company, and even things like their zodiac sign.
+
+Everyone gives a presentation called a "life story." They share what has made them who they are, up to this point. This helps us connect with each other and learn more about who we are outside of the office — and there's always an amazing Q&A afterward.

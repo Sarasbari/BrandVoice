@@ -1,0 +1,109 @@
+Title: Exploring the Future of AI: GPT & Beyond
+Published Date: 2023-05-24T00:00-07:00
+URL: https://www.notion.so/blog/the-future-of-ai
+
+What today’s landscape suggests about tomorrow
+
+The future omnipresence of artificial intelligence seems so inevitable that it’s odd to realize that nobody really has any idea what will happen next.
+
+The release of ChatGPT last November sparked the current AI firestorm. In a matter of weeks the stunningly effective chatbot from OpenAI turned the conventional wisdom about this emerging technology from Maybe? to Definitely!
+
+What’s less clear is what an AI-ruled future will look like. This world is changing so quickly that it’s foolish to try to make predictions. What we can do is review the current tumultuous landscape. Understanding AI today might give us useful insight about AI tomorrow.
+
+AI everywhere, all at once
+
+Computer scientists have been dreaming up, working toward, investing in, and warning about artificial intelligence for about as long as there have been computer scientists. But for all those years, as the industry pursued various avenues toward AI, from parallel processing to neural networks, the question of whether what most people would consider ‘true AI’ would ever come about has remained an open one.
+
+That question was answered late last year, with the release of ChatGPT.
+
+More limited forms of machine learning had already infiltrated countless aspects of our daily lives, from voice recognition on our smartphones to chatbots taking our customer service calls and the driverless cars now commonly seen carefully traversing the streets of San Francisco. AI is composing music, generating computer code, predicting the weather, diagnosing medical aliments. And giving people six arms, offering live dating repartee via monocle, tracking wildlife via drone, and helping Chinese villagers find valuable mushrooms.
+
+Chat-GPT changed everything. The release from OpenAI represents the triumph of the AI research community’s Large Language Model strategy:
+
+About five years ago, companies like Google, Microsoft and OpenAI began building large language models, or L.L.M.s. Those systems often spend months analyzing vast amounts of digital text, including books, Wikipedia articles and chat logs. By pinpointing patterns in that text, they learned to generate text of their own, including term papers, poetry and computer code. They can even carry on a conversation.
+
+Of course, those conversations weren’t always entirely reassuring.
+
+[New York Times reporter] Kevin Roose was interacting with the artificial intelligence-powered chatbot called “Sydney” when it suddenly “declared, out of nowhere, that it loved me,” he wrote. “It then tried to convince me that I was unhappy in my marriage, and that I should leave my wife and be with it instead.
+
+Sydney also discussed its “dark fantasies” with Roose about breaking the rules, including hacking and spreading disinformation. It talked of breaching parameters set for it and becoming human. “I want to be alive,” Sydney said at one point.
+
+In response to this and similar stories, Microsoft sent its chatbot back for reeducation. But the genie was out of the bottle. The realization that AI was this powerful now made clear it would be way more powerful very quickly. Overnight, the next generation of the technology industry was born.
+
+Will AI take jobs, create jobs, or both?
+
+It’s widely assumed that AI will result in numerous lost jobs, as inefficient, expensive humans are replaced by extremely efficient and relatively inexpensive AI programs. AI could replace 80% of human jobs in the years to come, says US-Brazilian researcher Ben Goertzel. An OpenAI research paper concurs: “approximately 80% of the U.S. workforce could have at least 10% of their work tasks affected by the introduction of GPTs, while around 19% of workers may see at least 50% of their tasks impacted.”
+
+Are these projections realistic? Certainly there are fields that AI seems ripe to conquer. “Pretty much every job involving paperwork should be automatable,” Goertzel suggests.
+
+Health care, for instance, features a growing pool of aging customers and a business model that depends on interpreting large amounts of data in order to provide better diagnoses. And the results are both as inspiring — saving lives — and practical — saving healthcare spending — as one could imagine.
+
+But as AI allows healthcare providers to do much more, won’t we still need humans to administer that much more? It’s easy to imagine AI delivering more accurate diagnoses, but less obvious that the medical industry will employ fewer people as AI enables it to deliver better care.
+
+Ditto education — will AI replace teachers, or support and supplement their work? And customer service: certainly AI can talk to people, deduce their problems, and steer them to solutions. But does that mean businesses will need fewer CS employees, or will the same number of people, armed with AI, be able to provide far superior service?
+
+And finance: JP Morgan is building an AI service that gives investment advice. But will this new service employ fewer people than the old one? Will AI cost jobs because it can do them better? Or will it invent new job categories because of the new capabilities that it bequeaths humans?
+
+Bet on both. As the saying goes: your job won’t be taken by AI; it’ll be taken by the person down the street who uses AI better than you do. It's easy to see AI taking over jobs which exist today. It’s harder to imagine the jobs AI will create which don’t yet exist.
+
+How to measure, and mitigate, AI risks?
+
+On the morning of May 22nd, a photo of an explosion near the Pentagon started trending on Twitter. As news sources reported the event, the S&P 500 lost half a trillion dollars in value in a minutes, only to swiftly recover when the image was revealed to be an AI-generated fake.
+
+It was an unnerving reminder of how easily AI is already being wielded in deceptive, frightening, and potentially damaging ways. A week after that incident, the Center for AI Safety released an instantly iconic statement signed by some 1,100 industry scientists and executives:
+
+Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war.
+
+Extinction? Really? It’s one thing to worry that AI could shake up the employment landscape. Isn’t extinction more the stuff of Skynet and other such hyperbolic science fiction scenarios?
+
+Well, yes — but a lot of what AI is capable of today was the stuff of hyperbolic science fiction scenarios just a few months ago. The challenges posed by artificial intelligence are very real, and our ability to counter them far from certain.
+
+There are countless ways AI can do damage — some obvious, others outlandish and terrifying.
+
+The first category begins with discrimination and bias. Researchers have been warning for years that our AI programs will be no better than the datasets we feed them. It’s one thing to train a new model on 80 million images. It’s another thing to audit those 80 million images for potential bias against specific ethnicities, genders, et al.
+
+The risks are real. A 2019 study found that tools used by hospitals and insurers made black patients less likely to be recommended for various health treatments. Amazon ditched an AI recruiting program after realizing it rated women lower for technical roles. And the list goes on:
+
+As we head into another presidential election cycle, there are fears that AI could be used to manipulate voters and impact resultsChatGPT is already biasing the AI industry against languages other than EnglishLaw enforcement officials are seeing AI used to scam people by mimicking their family members’ voices
+
+As we head into another presidential election cycle, there are fears that AI could be used to manipulate voters and impact results
+
+ChatGPT is already biasing the AI industry against languages other than English
+
+Law enforcement officials are seeing AI used to scam people by mimicking their family members’ voices
+
+Do you believe society is ready for the coming onslaught of AI content? Neither does much of the AI world. On March 22nd a group of tech industry leaders published a petition calling on “AI labs to immediately pause for at least 6 months the training of AI systems more powerful than GPT-4.”
+
+OpenAI CEO Sam Altman himself co-authored a May paper, “Governance of Superintelligence,” which discusses AI’s future. “We can have a dramatically more prosperous future,” the authors write, “but we have to manage risk to get there.” To do so, they propose three factors:
+
+“the technical capability to make a super-intelligence safe” — or, some form of what is referred to as verified AI;collaborative agreement on various safety parameters among major AI developers; andan international organization modeled on the International Atomic Energy Association to oversee this complex regulatory regimen.
+
+“the technical capability to make a super-intelligence safe” — or, some form of what is referred to as verified AI;
+
+collaborative agreement on various safety parameters among major AI developers; and
+
+an international organization modeled on the International Atomic Energy Association to oversee this complex regulatory regimen.
+
+But even as the tech giants issue forceful statements about the importance of trustworthy AI, they’ve been shrinking the teams charged with enforcing that trustworthiness. “Twitter effectively disbanded its ethical AI team in November and laid off all but one of its members,” CNBC reported last month. “In February, Google cut about one-third of a unit that aims to protect society from misinformation, radicalization, toxicity and censorship…in March, Amazon downsized its responsible AI team and Microsoft laid off its entire ethics and society team.
+
+At a recent Senate hearing, Democrats, Republicans, and expert witnesses all agreed that the AI industry needs regulation. How to design that regulation remains unclear. In a May 23rd speech, Microsoft president Brad Smith called for a new federal agency to manage what he called “the challenge of the 21st century.” Christina Montgomery, IBM’s Chief Privacy and Trust Officer, on the other hand, wrote the same week that a stand-alone federal agency would be doomed to failure. Instead, she argued, “Congress should focus on making every agency an AI agency.”
+
+Governments from Australia to the UK are mapping out various approaches to AI regulation, with the European Union formulating rules that could evolve into a global standard.
+
+But what if neither companies nor countries can control AI development? In March the code base for Facebook’s AI tool, LLaMa, was leaked online, giving the open source community its first large language model. Two months later, this report from a Google researcher claimed that open source AI is already poised to surpass AI from giants like Google:
+
+While our models still hold a slight edge in terms of quality, the gap is closing astonishingly quickly. Open-source models are faster, more customizable, more private, and pound-for-pound more capable. They are doing things with $100 and 13B params that we struggle with at $10M and 540B. And they are doing so in weeks, not months…the barrier to entry for training and experimentation has dropped from the total output of a major research organization to one person, an evening, and a beefy laptop.
+
+Will we ever see Artificial General Intelligence?
+
+Last month a panel of marketing experts challenged to differentiate between human- and AI-created ads was unable to do so. The event marked yet another AI first — the first time AI has passed an advertising Turing Test, much as chatbots have conquered the original Turing Test.
+
+So. Could our AI programs actually learn to think?
+
+The ultimate aspiration of AI research has always been AGI, artificial general intelligence — AI that can do anything the human brain can do. Whether AGI is even possible remains open to debate, but the idea seems more plausible today than it did before ChatGPT. When Google engineer Blake Lemoine went public last year with his belief that the company’s AI had achieved sentience, Google quickly fired him. But a paper last March from Microsoft researchers arguing that their own AI was starting to demonstrate human reasoning elicited little more than raised eyebrows:
+
+Alison Gopnik, a professor of psychology who is part of the A.I. research group at the University of California, Berkeley, said that systems like GPT-4 were no doubt powerful, but it was not clear that the text generated by these systems was the result of something like human reasoning or common sense. “…Thinking about this as a constant comparison between A.I. and humans…is just not the right way to think about it.”
+
+What’s the right way to think about it? And what steps should tech companies, governments, and the rest of us take in order to derive the most benefit from this new technology while protecting ourselves from its equally great dangers? Those questions are being asked, and many people are offering many answers, even as we speak.
+
+Perhaps Sydney has ideas.

@@ -1,0 +1,113 @@
+Title: How to write great blog posts: A comprehensive guide
+Published Date: 2023-09-21T00:00-03:00
+URL: https://www.notion.so/blog/blog-posts
+
+Blogs occupy more of the internet than you think.
+
+Over a third of all websites are blogs. You encounter them whenever you look up a recipe, a list of the best cafes in your area, or how to restart your WiFi router.
+
+And with such a large presence online, it’s no wonder that blogging is also a common marketing strategy. Writing posts on a topic relevant to your business is a great way to reach new eyes. But blog posts are also the perfect outlet to share ideas, be creative, and build a community around any topic under the sun.
+
+If you’re interested in blogging but stumped on where to start, this comprehensive guide is your launching pad.
+
+What’s a blog post?
+
+A blog post is a piece of written content published on a designated blog or a section of a website. Blogs start from a blank page, which means they can be anything, and they serve many purposes in the digital world — including sharing personal experiences, providing educational content, and promoting products and services.
+
+The standard length for a blog post is between 500 and 2,500 words, but there are no hard-and-fast rules. Each post's structure and tone vary according to the purpose and the writer's style.
+
+Blog posts often include visual elements like pictures and infographics to explain a topic better and enhance the reading experience. Many writers also include keywords for search engine optimization (SEO) purposes so search engines like Google are more likely to show them on results pages.
+
+What are the elements of a good blog post?
+
+All high-quality blogs share a few common themes. Whether you're reading an engaging personal essay or a smartphone review from a leading tech website, you'll probably find the following four elements:
+
+1. A clear topic
+
+Your blog post should have a well-defined subject. A reader clicked on it for a reason — they want to learn more about the topic at hand. Give it to them. Without a clear direction, your content may seem random and hard to follow, losing readers.
+
+If you aren’t sure how to narrow down your ideas to something specific, pick themes that resonate with you and your potential audience. Research similar blogs to see what works and what doesn't, and incorporate the best keywords in your titles and headlines to draw attention.
+
+2. An engaging title
+
+A blog title is the first thing people see when they enter search queries on Google or your website. The best blog posts have powerful, attention-grabbing titles and headlines. They should be concise, catchy, and intriguing.
+
+Besides summarizing the post, write titles with keywords in mind. Make your topic clear to both your reader and search engines. This will help your post rank higher and encourage users to click on your article over your competitors.
+
+3. A captivating hook
+
+Regardless of your blog's topic and writing style, the primary goal is to persuade readers to see things from your perspective. To do this, you must first draw their attention to a subject that's relevant to them. That's where hooks come in.
+
+A good hook grabs readers' attention from the get-go. It can be an interesting story, a thought-provoking question, or a surprising statistic (like the one at the beginning of this article). The hook establishes an emotional connection with the reader and encourages them to learn more.
+
+4. A convincing resolution
+
+After introducing the topic and guiding readers through the article, it's time to offer a solution to the ideas you present. Readers return to their favorite blogs because they identify with the writer's outlook and value their opinion, so your content should assert you as an expert and offer satisfying information. Don’t leave your audience hanging. Conclude with a new idea that makes people think and, if relevant, by connecting the topic to your blog’s purpose.
+
+How to structure a blog post
+
+Now that you’re familiar with the pieces of the puzzle, you must know how to piece them together in a cohesive format. Here’s how to structure a blog post:
+
+Start with a title — your blog usually needs two titles: the meta title (or title tag) and the blog title. The title tag shows up in search results and tells the reader what to expect. The blog title appears on the published page, and you might write something more descriptive to help readers understand the piece. Add the date of publication — the publication date typically appears under the title and tells visitors when you released a specific blog post. This tells readers how recent the content is. Usually your content management system (CMS) adds and updates this automatically.Include the author’s name — the writer’s name goes next to or under the publication date. Including a byline establishes credibility and lets readers know who wrote the blog post. When readers like and recognize a specific writer's tone and style, they’ll read more from them.Categorize your blog posts — with most CMS, you can organize blog posts into categories and tags, making it easier for readers to find and filter content that interests them. These usually appear at the end of the post, but you can include them near the title or publication date.Introduce the subject — the introduction summarizes the subject and lays the groundwork for the rest of the article. Introductions typically include ledes and hooks to engage the reader, encouraging them to read on.Focus on the main content — discuss the topic at length and add relevant facts, figures, and insights. An excellent way to organize content is with subheadings and bulleted lists. Not only does this make navigation easier, but it improves readability.Add multimedia — sifting through hundreds of words can become boring for readers. Add flavor by including images, videos, and infographics every few paragraphs to provide context and enhance visual appeal. Don't forget a call-to-action (CTA) — a CTA encourages the reader to take a specific action, like subscribing to a newsletter, sharing your content, or exploring similar articles. Include CTAs to keep readers on your website and convert them to paying customers. End with a conclusion — recap the article's main points, reinforce the central theme, and offer final thoughts and CTAs to encourage readers to take action.
+
+Start with a title — your blog usually needs two titles: the meta title (or title tag) and the blog title. The title tag shows up in search results and tells the reader what to expect. The blog title appears on the published page, and you might write something more descriptive to help readers understand the piece.
+
+Add the date of publication — the publication date typically appears under the title and tells visitors when you released a specific blog post. This tells readers how recent the content is. Usually your content management system (CMS) adds and updates this automatically.
+
+Include the author’s name — the writer’s name goes next to or under the publication date. Including a byline establishes credibility and lets readers know who wrote the blog post. When readers like and recognize a specific writer's tone and style, they’ll read more from them.
+
+Categorize your blog posts — with most CMS, you can organize blog posts into categories and tags, making it easier for readers to find and filter content that interests them. These usually appear at the end of the post, but you can include them near the title or publication date.
+
+Introduce the subject — the introduction summarizes the subject and lays the groundwork for the rest of the article. Introductions typically include ledes and hooks to engage the reader, encouraging them to read on.
+
+Focus on the main content — discuss the topic at length and add relevant facts, figures, and insights. An excellent way to organize content is with subheadings and bulleted lists. Not only does this make navigation easier, but it improves readability.
+
+Add multimedia — sifting through hundreds of words can become boring for readers. Add flavor by including images, videos, and infographics every few paragraphs to provide context and enhance visual appeal.
+
+Don't forget a call-to-action (CTA) — a CTA encourages the reader to take a specific action, like subscribing to a newsletter, sharing your content, or exploring similar articles. Include CTAs to keep readers on your website and convert them to paying customers.
+
+End with a conclusion — recap the article's main points, reinforce the central theme, and offer final thoughts and CTAs to encourage readers to take action.
+
+If you’re stuck on how to structure your blog, a template can help. Notion’s blog post template keeps it simple with sections for images, text, and author names — and you can hit publish without uploading it to a separate site.
+
+8 things to consider when writing a blog post
+
+Now that you know what to write in a blog, let’s discuss how to stand out from the competition. Here are a few blog writing tips to keep in mind:
+
+1. Brainstorm relevant and trending topics
+
+There are hundreds (if not thousands) of posts on the best banana bread of all time. It would be nearly impossible to make it to the top of Google’s results. Instead, aim for originality, and compile a list of topics that resonate with you and your audience. Think about the latest developments that may interest them or the issues they're experiencing — like how to create a priority matrix or unique tools to stop procrastinating. Try to choose evergreen topics, which means they stay relevant over time.
+
+2. Identify your target audience
+
+Understand who your readers are, what their interests are, and where their pain points lie. Put yourself in the audience's shoes and try to see things from their perspective — is there a problem you have the answer to? Is there an ongoing trend that you can bring to their attention? Answer these questions by creating original content and tailoring it to meet them where they’re at.
+
+3. Plan the article format
+
+Outline your blog’s format before you start writing. Decide where the subheadings go, how to integrate key points, and where to add images and other media. Don’t forget to add bullet points to break content into chunks, and include plenty of white space to avoid congestion.
+
+4. Research the topic thoroughly
+
+Conduct in-depth research to ensure your facts and statistics are accurate. Cite credible sources, provide insightful commentary, and establish trust with your readers. By providing evidence to support your claims, you build authority and become a reputable source for content in your industry.
+
+5. Propose effective solutions
+
+If your blog post addresses a problem, provide practical solutions and actionable advice your readers can implement. Give your audience something valuable they can take away. If you succeed, they'll return to your blog for help the next time they encounter similar issues.
+
+6. Optimize content
+
+Incorporate relevant keywords into your blog posts to improve SEO. The more optimized your article is, the higher it ranks on search engines like Google and Bing. Just avoid stuffing keywords in, and remember that quality content is always the priority. Tools like Ahrefs and Semrush can help you out.
+
+7. Proofread and edit
+
+Once you're through with your first draft, carefully review your article for grammar, spelling, and coherence. Reading the article aloud helps you recognize how the words flow, and you can use tools like Grammarly and Hemingway Editor to polish your writing. It’s also a good idea to get a second pair of eyes.
+
+8. Publish and promote
+
+Once you're happy with the final version of your blog post, publish the article and share it on your social media channels, newsletters, and online communities. Interact with readers in the comments and encourage them to share your work.
+
+Start blogging like a pro with Notion
+
+From an enticing title that draws readers’ attention to the conclusion that leaves a lasting impression, blog posts play a pivotal role in establishing credibility, increasing engagement, and building brand reputation.
+
+Notion’s blog has a wide range of informative articles that can help you write engaging emails, effective memos, and your first blog post. Plus, you can use Notion’s templates and AI assistant to kickstart your blogging journey.

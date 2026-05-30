@@ -1,0 +1,87 @@
+Title: 7 steps of the decision-making process
+Published Date: 2023-09-18T00:00-03:00
+URL: https://www.notion.so/blog/decision-making-process
+
+Trusting your gut is often a sufficient decision-making method when deciding what to order for dinner or which shoes to buy. But complex business decisions require research and analysis. These choices involve many moving parts, all with data points you should assess before making a call.
+
+It’s not that intuition can’t inform decisions. A user experience (UX) designer might have an inkling that personalized experiences will be a top summer trend because they have their finger on the pulse of the industry. But without data, an instinct is only an inkling, not a fact a business owner can confidently rely on when deciding whether to launch a product.
+
+Instead, pair your intuition with a formal decision-making process to make better choices and effectively guide your team toward success.
+
+What’s a decision-making process?
+
+Part of what makes decisions complex is that they’re hardly ever linked to a single event. Even a simple decision like choosing a dish from a menu is connected to other events, like tomorrow’s workout or dietary restrictions. Yes, you could make this decision on instinct. But having all the facts helps you make a well-informed choice that respects future consequences.
+
+A decision-making process breaks down complex ideas into piecewise steps. Most processes involve identifying the decision, gathering and analyzing data, and reviewing options before selecting one.
+
+3 types of decision-making
+
+The decision type you must make determines how you’ll execute your process. Here are three common decision-making types:
+
+Creative decision-making uses intuition and brainstorming to determine a solution.Recognition-primed decision-making is when leaders refer to prior similar situations to determine how to solve the task at hand.Rational decision-making prioritizes research and critical thinking, putting intuition and personal preferences aside.
+
+Creative decision-making uses intuition and brainstorming to determine a solution.
+
+Recognition-primed decision-making is when leaders refer to prior similar situations to determine how to solve the task at hand.
+
+Rational decision-making prioritizes research and critical thinking, putting intuition and personal preferences aside.
+
+The 7 steps of decision-making
+
+Moving through decisions in an organized and intentional way instills confidence — not just in the decision-maker but in anyone the decision affects. Teams making choices that impact a project’s course or influence organizational goals should use a consistent process.
+
+Here’s a great seven-step decision-making process to create clarity and consistency. This process is excellent for rational decision-makers but also involves some creativity and reflection.
+
+1. Define the decision
+
+Pinpoint the choice you must make. To avoid decision fatigue, narrow in on something specific and finite, like choosing the number of programmers you need for a software development project by 5 p.m. Vague and timeless choices are more overwhelming, so this specificity helps you feel prepared to make a good decision.
+
+2. Gather data
+
+Pull external and internal data that supports your decision-making process. You might gather market data and trend projections (external information) to better understand whether an instinct about UX preferences is correct. And valuable internal data could be how different trends performed last summer. Avoid irrelevant information, whether internal or external, as it only muddies the waters and leads to analysis paralysis.
+
+3. Chart options
+
+Lay out your options for moving forward. Even seemingly yes/no decisions, like whether to create personalized experiences on your website, can sprout additional options. A third decision might be whether to run a product sprint, releasing this update on one social platform and not others to see if reception is positive.
+
+4. Analyze
+
+Weigh the pros and cons of each option, asking for team feedback to ensure you’ve considered everything thoroughly. If you decide not to launch personalized experiences, and this trend is indeed popular throughout the summer, your competitors may gain more visibility than you. And if you create this update and it flops, you may lose resources invested in designing and launching this change.
+
+5. Make a choice
+
+Every decision has future implications. And since no one can predict the future, making a choice always implies some risk. But if you work with your team to thoroughly research, define, and analyze your options, you’ll feel good about whatever you decide. You’ll also have all the information you need to prepare for worst-case scenarios and determine a plan B.
+
+6. Take action
+
+You’ve decided to create personalized experiences on your website — now to generate a roadmap for executing your decision. This could include action items like mockup design, burn-up and burndown chart creation, and social media promotion. Assign tasks to team members and start ticking off items on your project timeline.
+
+7. Review your decision
+
+Post-project, reflect on your decision’s performance to inform future choices. Gather your team for a post-mortem meeting and review whether the decision solved a problem and produced the desired results. If website traffic is up, you’ll feel confident pushing the update to more platforms. And if the process taught you that your target audience doesn’t dig a personalized website experience, you may decide to revert this change.
+
+Use templates and tools to make better decisions
+
+Decision-making can be stressful, especially if information overwhelms you or you like several options. Pairing a clearly defined decision-making process with useful templates and tools relieves some of this stress.
+
+Here are two valuable documents and two techniques to get you started.
+
+1. Brainstorming and planning template
+
+This brainstorming template helps you research and outline decision-relevant information. Use this template to bolster your decision-making model by customizing categories to reflect meeting notes, brainstorming whiteboards, or data-driven insights — whatever you find most helpful.
+
+2. Decision journal
+
+This pros and cons template supports the analysis stage of decision-making. Once you’ve outlined the issue you hope to resolve and pulled data, you can use this tool to brainstorm what could go right or wrong.
+
+3. Decision-making matrix
+
+Use a decision matrix to prioritize choices. This decision-making model uses weighted data points users plot their options against. Notion’s guide to decision-making matrices walks you through creating one.
+
+4. Decision tree
+
+A decision tree maps out potential outcomes. This easy-to-read visual charts causal relationships, showing what could happen if you take one path or another. The map branches out, much like a tree, into increasingly smaller limbs as the potential path of the decision reaches the projected end result. Flowcharts also follow the same creation process and provide a nice visual representation for your team.
+
+Action your next decision with Notion
+
+Step six of the decision-making process — execution — is much easier with the right tools. Notion’s connected team workspace makes it easy to collaborate on decision-relevant documents and form a single source of truth for all stakeholders. Search our template gallery to find documents that will help you make the best choice possible.

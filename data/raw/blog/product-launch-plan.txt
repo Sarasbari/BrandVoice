@@ -1,0 +1,89 @@
+Title: Write a product launch plan for the most impactful launch event
+Published Date: 2023-10-17T00:00-03:00
+URL: https://www.notion.so/blog/product-launch-plan
+
+From releasing promos and answering questions to hosting live events and tracking logistics, launching a new product is high-stress work.
+
+To stay on top of these moving parts, managers rely on a product launch plan for clear guidance as their products hit the market. With a precise and systematic approach, you and your team can coordinate efforts and stay in control at every stage of your product's rollout.
+
+What’s a product launch plan?
+
+A product launch plan is a comprehensive blueprint for introducing your latest offering to the market. While every company has distinct launch techniques depending on their industry and stage of development, most of these plans aim to generate positive word-of-mouth, raise brand awareness, and drive sales. Marketing, logistics, and sales departments coordinate to design a product roadmap, implement their plan, and ensure their launch event has the highest odds of success.
+
+Product launches go through three critical stages:
+
+Pre-launch — the pre-launch stage focuses on prototyping to create a high-quality product and incorporates market research into an effective marketing plan. Teams define their product's core value proposition and determine their target audience using data from prior consumer surveys, market forecasts, and user personas. With this information, marketing departments develop targeted promotional materials to generate customer buzz. Launch — this phase begins when a team releases the product to consumers. You’ll want a well-trained customer care team ready to handle higher-than-average demand, and monitoring initial feedback and user engagement informs any necessary product adjustments.Post-launch — after the excitement of a launch event fades, hold retrospective meetings to analyze key performance indicators (KPIs) relative to the latest product-relevant data. Use this information to determine how you can maintain and grow the user base for your new offering and consider plans for future project iterations.
+
+Pre-launch — the pre-launch stage focuses on prototyping to create a high-quality product and incorporates market research into an effective marketing plan. Teams define their product's core value proposition and determine their target audience using data from prior consumer surveys, market forecasts, and user personas. With this information, marketing departments develop targeted promotional materials to generate customer buzz.
+
+Launch — this phase begins when a team releases the product to consumers. You’ll want a well-trained customer care team ready to handle higher-than-average demand, and monitoring initial feedback and user engagement informs any necessary product adjustments.
+
+Post-launch — after the excitement of a launch event fades, hold retrospective meetings to analyze key performance indicators (KPIs) relative to the latest product-relevant data. Use this information to determine how you can maintain and grow the user base for your new offering and consider plans for future project iterations.
+
+3 types of product launch events
+
+Not every product launching strategy focuses on generating widespread market attention. Sometimes, companies focus on a low-key launch to gather user feedback, implement improvements, and decide whether their product is ready. Your budget and business objectives often determine what kind of launch event suits your situation, with most companies choosing one of three types.
+
+1. Minimal viable product (MVP)
+
+An MVP launch only sends select internal stakeholders or target audience members the essential components of an early-stage product. This launch type is typical for software-specific services or applications. Since MVPs are in early development, they may present glaring issues like a poor user interface, unappealing layouts, or glitches.
+
+Using an MVP offers only a broad sense of a company's overall objective and strategy for a product rather than providing a fully fleshed-out user experience. The primary purpose of launching an MVP is to ensure you're on the right track before spending considerable resources on development.
+
+2. Soft launch
+
+Soft launches send a new product or service into a well-defined and limited market, such as a group of beta testers or consumers in a specific country. This smaller customer base makes it easier for product managers to conduct and analyze feedback reports to gauge the market's reaction.
+
+Managers might choose soft launches when looking to cut costs on marketing and advertising. Being able to budget efficiently can inform decisions about whether to invest in further research or move directly to a full-fledged release.
+
+3. Full-scale launch
+
+Sometimes called a "hard launch," this type concentrates heavily on coordinating high-profile marketing efforts to generate as much excitement as possible before a public release. Team leaders use advertisements, press releases, and social media campaigns to catch customer attention and capture a significant market share.
+
+For a successful full-scale release, the product offering should have gone through multiple trials and prototyping sessions to ensure it's well-polished and ready for the public.
+
+How to develop a product launch plan
+
+To immediately drive sales when introducing a product, you need to build a data-driven strategy for your launch, considering everything from marketing tactics and pricing strategies to competitive analysis and consumer trends. Most teams creating product launch plans include the following actions in their process.
+
+Identify consumer needs
+
+It’s only possible to create a product that meets your audience’s expectations if you fully grasp their needs, preferences, and pain points. During the pre-launch stage, review relevant information about your target audience, including current consumer sentiment and user personas, and ensure product developers have these factors in mind throughout the development stage.
+
+Perform a competitive analysis
+
+When conducting consumer and market research, evaluate competitor offerings and whether they threaten your new product launch. Details about similar products and services help define your product's unique selling points (USPs), identify exploitable gaps, and position your product to stand out.
+
+Regularly update your competitive analysis to see how rivals respond to your product launch, and develop a new market strategy if they try to steal this market share.
+
+Test and reconfigure prototypes
+
+Prototyping is a preliminary phase in which developers create a rough working model of a product and test its core functionality. During this development stage, feedback from beta testers is crucial to pinpoint issues and make improvements before the official launch date.
+
+Consider releasing an MVP to a target audience to gather initial impressions, as early feedback illuminates how to refine your product for the best user experience.
+
+Establish product pricing
+
+The ideal price depends on many factors, including expected return, perceived value, and pricing for similar products. Gather estimates on the total addressable market for your product offering and factor in current production costs and competitor prices to estimate what you need for profitability. And consider your target consumers’ spending patterns and whether they'd view this price as reasonable.
+
+Create a detailed product marketing strategy
+
+Have your marketing department craft compelling promotional copy with consistent brand messaging that resonates with your target consumers. More generally, you’ll want a strategic marketing plan that aims to engage customers and communicate a clear value proposition across various media.
+
+To drive awareness, use consumer trends and market research to determine the most effective marketing channels — such as social media influencers, online ads, or email campaigns. And ensure sales and customer care departments thoroughly understand your new product and are ready to handle extra traffic on launch day.
+
+Set achievable launch goals
+
+Define your successful product launch vision with quantifiable goals, such as expected sales, market share percentage, and an initial user base. Establishing KPIs makes it easier to assess successes and address shortcomings once your product enters the marketplace.
+
+When setting launch goals, make them SMART: specific, measurable, achievable, relevant, and time-bound. This ensures that they’re straightforward, easily quantifiable, and actionable.
+
+Stick to the launch plan
+
+During launch, try to stick to your product launch checklist. Remain adaptable to changing circumstances, but deviating significantly from a product launch plan might disrupt team alignment and introduce confusion. Using a product launch checklist template can help you stay focused and prevent stepping off the path.
+
+Schedule regular team meetings during and after a product launch to reassess techniques and strategic goals, and only implement changes with widespread approval. Also, establish reliable communication pathways so everyone stays up to speed if plans change.
+
+Perfect your product launch plan with Notion templates
+
+Power up your product launch planning with Notion’s templates. Easily organize and share details about your marketing plan, product roadmap, and user stories in a central workspace. Notion also has templates to monitor your competitors' strengths and weaknesses, making it easier to position your launch for maximum efficacy. Search the template gallery to find something that perfectly suits your needs.

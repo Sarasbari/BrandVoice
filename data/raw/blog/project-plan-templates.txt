@@ -1,0 +1,103 @@
+Title: Project plan templates: 9 ideas to kickstart your initiative
+Published Date: 2023-09-05T00:00-03:00
+URL: https://www.notion.so/blog/project-plan-templates
+
+Project work often goes one of two ways: Your team collaborates well and meets deliverables on time, or they suffer communication breakdowns that result in resource crises and scope creep.
+
+And the make-or-break element that moves your team in one direction versus another is typically project planning visibility.
+
+Teams that want to earn an excellent reputation with clients must run clear, collaborative projects with a plan for responding to inevitable obstacles. Those who work this way prevent disorganized, out-of-scope, poorly communicative projects by planning well.
+
+A project plan template helps teams define and optimize scope, goals, and schedules, ensuring efficient work and timely, quality outputs. And organizations that offer top-notch deliverables and excellent communication build trusting relationships with end users.
+
+What’s a project plan?
+
+A project plan is a document that organizes work and provides scheduling, scope, and delivery information for internal and external stakeholders. This document gives project managers a chance to prioritize tasks and plan out resources while also offering expectation visibility for teammates.
+
+All project plans look different, especially for teams that favor management methodologies like Agile. But most plans include:
+
+Information on stakeholders Project goals An executive summaryA scope of work statementA project schedule Roles and responsibilities Risks and mitigation strategiesA budgetInformation on deliverables A communication plan
+
+Information on stakeholders
+
+Project goals
+
+An executive summary
+
+A scope of work statement
+
+A project schedule
+
+Roles and responsibilities
+
+Risks and mitigation strategies
+
+A budget
+
+Information on deliverables
+
+A communication plan
+
+The benefits of using a project plan
+
+Project work is often heavy enough, so creating a plan may seem like one more task on an already long to-do list. But project plans offer invaluable benefits, like:
+
+Encouraging excellent communication — transparent communication pushes teams to relay progress and issues instead of siloing information that could delay work. Let’s say a team member hits a roadblock and can’t deliver their task on time, but says nothing about the obstacle. This omission could put an entire project in jeopardy. With an effective project plan in place, a manager could spot the delay and check in with the person responsible before the hold-up becomes a significant issue. Keeping work on budget — resources fuel projects, and if that fuel runs out, the work comes to a grinding halt. Project managers can keep work on budget by estimating resources from the start in the project plan. If you don’t have the finances to take on the work, then you’ll need to scale back or fundraise, and knowing this at the beginning of the project could prevent delays or non-delivery. Minimizing risks — a project plan encourages users to institute a “rainy day” strategy, where project managers identify potential risks and issues and create mitigation and reaction plans. Problems are inevitable, and intelligent teams plan to avoid and fix them.
+
+Encouraging excellent communication — transparent communication pushes teams to relay progress and issues instead of siloing information that could delay work. Let’s say a team member hits a roadblock and can’t deliver their task on time, but says nothing about the obstacle. This omission could put an entire project in jeopardy. With an effective project plan in place, a manager could spot the delay and check in with the person responsible before the hold-up becomes a significant issue.
+
+Keeping work on budget — resources fuel projects, and if that fuel runs out, the work comes to a grinding halt. Project managers can keep work on budget by estimating resources from the start in the project plan. If you don’t have the finances to take on the work, then you’ll need to scale back or fundraise, and knowing this at the beginning of the project could prevent delays or non-delivery.
+
+Minimizing risks — a project plan encourages users to institute a “rainy day” strategy, where project managers identify potential risks and issues and create mitigation and reaction plans. Problems are inevitable, and intelligent teams plan to avoid and fix them.
+
+Why you should use a project plan template
+
+Planning a project correctly is no easy task. You have to plot deliverables against deadlines, ensure an adequate flow of resources, and keep stakeholders in the know. You could try documenting all these processes from scratch, but why make extra work for yourself?
+
+Use templates for planning a project and start with tried-and-tested structures for plotting work. You’ll spend time scheduling tasks instead of building a calendar and enjoy template features like the ability to track dependencies — template assets you may not know how to create or that would take a long time to build. Leave no stone unturned on your project launch checklist by using a template other experienced managers have built and tweaked.
+
+9 free project planning templates to streamline work
+
+As a project management and collaboration platform, Notion deeply understands what it takes to perform successful cross-functional work. And our community has built a library of templates to help teams and project managers organize tasks, stay on schedule, and communicate clearly. Here are nine that can guide your project planning process.
+
+1. Project management
+
+This comprehensive project management template walks users through planning, timeline charting, and communicating updates. Managers can also take notes, centralize research, and document end-of-project insights. Add budgeting and risk management sections to make this template a one-stop project planning resource for your team.
+
+2. Project schedule
+
+Use the project schedule template to finesse the timeline creation stage of your planning process. List deliverables, set due dates, and plot the duration of work. Then toggle between the timeline, list, and calendar views to check progress from different angles.
+
+3. Project launch plan
+
+A launch is a delicate stage of any project, with many moving parts. Leverage this project planning worksheet to synthesize product information, gather deliverables, and create a checklist for launch day. Share the document with your team so everyone is on the same page at this essential moment.
+
+4. GTM launch checklist
+
+This template for go-to-market (GTM) launches is ideal for cross-functional teams that encompass everyone from developers to sales professionals. Collaboratively plan a product release with a launch task checklist that ensures teams communicate the announcement to a wide audience.
+
+5. Roadmap planning
+
+Create a high-level view of your project with a roadmap template. This document helps everyone on your cross-functional team understand how work is progressing while visualizing their role. Break the template down into projects and tasks, and toggle between timeline and board views to perceive task statuses in different ways.
+
+6. Notion’s projects
+
+Notion’s projects tool tracks work across multiple departments, with separate tables for each. This excellent high-level scheduling tool allows members of different teams to visualize updates, delivery dates, and the assigned individual.
+
+7. One-page project manager
+
+Notion’s one-page project manager tool is a straightforward task manager. When using lightweight, high-level timeline templates like this one, document the processes that precede and follow scheduling, like writing an executive summary and devising a communication plan.
+
+8. Loom's simple project plan template
+
+Make your project plan easier to understand with a template that supports Loom videos. In these clips, team members can break down concepts, answer questions, and prepare updates for stakeholders. Loom’s tool is excellent for complementing scheduling tools like calendars in a more robust project plan format, as this tool includes space for an executive summary and solutions (i.e., goals). All you’ll need to do is add sections for budgeting and risk evaluation.
+
+9. Projects & goals hub
+
+Organize initiatives, company goals, and team goals in this hub template. This template is an excellent centralized tool that you can support with an executive summary, budget, and communication plan.
+
+Up your project management skills with Notion
+
+Notion doesn’t just create time-saving templates. It’s a project management platform that allows teams to collaborate better by centralizing docs and wikis and gaining access to a wealth of guides on streamlining work.
+
+Learn how to write a project brief, statement of work, and work plan. And find out how to leverage a product management system to align your team.

@@ -1,0 +1,35 @@
+Title: Observability for Notion’s Redis Queue
+Published Date: 2024-09-23T06:00-07:00
+URL: https://www.notion.so/blog/observability-for-notions-redis-queue
+
+When a user performs an import or export action in Notion, our application servers add tasks to a task queue to be processed asynchronously. This is one of many examples of how we use a task queue to handle heavy-lift operations. During my 12-week internship, I had the opportunity to build a solution to a pressing Notion infrastructure concern: Our task queue had become difficult to scale and we didn’t know where all the tasks were coming from. To fix these problems, I implemented and deployed to production a queue proxy service, decoupling the queue internals from queue users and achieving full traffic observability.
+
+Task queue architecture and challenges
+
+Notion uses a queue system implemented on top of Redis to manage and execute async and background tasks. At any given time, our queue includes about 100 million tasks with an enqueuing rate of up to 10,000 tasks per second. The majority of enqueued tasks execute business logic for our product or serve as our cronjob processor. Tasks triggered by user actions make up only a quarter of the workload.
+
+The task queue is a crucial building block for how our users experience the product and some of its heavier operations, but many other systems and services interacted directly with the queue through Redis clients, creating tight coupling and observability blind spots.
+
+Prior to this project, our enqueueing logic was embedded as a client library inside the application code: tasks are enqueued to one of 12 Redis servers using a hash of the tasks’ IDs. This required all of our app’s business logic to have knowledge of all Redis servers and configurations. To enqueue, our app servers directly interacted with the Redis servers to place a task onto the sorted set. There were two major downsides to this:
+
+The code for our product and the Redis clients were tightly coupled, which prevented us from achieving contained blast radius, security control, and deployment flexibility. For example, changes to Redis servers, like swapping hosts or adding capacity, required a redeployment across all services to maintain the connection to those Redis servers.There were blind spots in our observability capabilities which prevented us from understanding where tasks are coming from and how resources in the task queue are shared. For example, Notion engineers can spin up temporary virtual machines through which they can enqueue large tasks directly. In the past, we’ve encountered memory spike alerts which we believe were caused by these tasks. Without traffic logs from these temporary virtual machines to confirm, our on-call engineers had to ask engineers who had recently used the machines to investigate. This led to less accurate diagnoses and longer recovery times.
+
+The code for our product and the Redis clients were tightly coupled, which prevented us from achieving contained blast radius, security control, and deployment flexibility. For example, changes to Redis servers, like swapping hosts or adding capacity, required a redeployment across all services to maintain the connection to those Redis servers.
+
+There were blind spots in our observability capabilities which prevented us from understanding where tasks are coming from and how resources in the task queue are shared. For example, Notion engineers can spin up temporary virtual machines through which they can enqueue large tasks directly. In the past, we’ve encountered memory spike alerts which we believe were caused by these tasks. Without traffic logs from these temporary virtual machines to confirm, our on-call engineers had to ask engineers who had recently used the machines to investigate. This led to less accurate diagnoses and longer recovery times.
+
+Unveiling the Magic
+
+To address our pain points, we created an independent queue proxy as a dedicated gatekeeper. All traffic interacting with the queue now goes through this proxy first, ensuring 100% observability coverage for incoming and outgoing queue traffic. This isolated service reduces recovery time and improves developer velocity as Notion moves towards a more modular codebase.
+
+We encapsulated the enqueue routing logic as a queue proxy service on top of Amazon ECS, serving as an API with scoped entry points for each task action. We also implemented four endpoints, mostly handling enqueue operations. This design allows the proxy to function as an extendable CRUD application, adaptable to future queuing needs. We then established network connections between application servers, the queue proxy service, and Redis servers. Though only reachable from our internal network, the service needs to handle production workloads with dynamic routing, so we added a load balancer. Once all the above was ready, we moved queue internal APIs to the proxy with full traffic logging coverage, eliminating observability blind spots.
+
+Migrating to this new service with minimal disruption was crucial. We not only had to meet user expectations for Notion to function as expected, but also had to minimize our impact on a broader infrastructure overhaul. To make sure the process went smoothly, we used feature flags for each endpoint, enabling a gradual, percentage-based rollout and quick rollbacks when needed. Combined with fallback logic and detailed logging, we successfully migrated this core infrastructure component with minimal impact on our product teams.
+
+Measurable Impact
+
+This queue proxy is an important building block as we aim to create a seamless user experience. Achieving 100% observability coverage of task queue traffic helps us understand, provision, and debug queue-related resources. The service is also the first step toward creating a queue orchestrator which can unlock a more sophisticated queue infrastructure for more intelligent resource allocation, rate limiting, and better permission control for our Redis servers.
+
+Leading this end-to-end project and working across Notion’s stack taught me a lot. And I got to share the experience with a fun and supportive cohort of interns from all over the country (and Canada)! Beyond building with Notion’s engineering team, we got to tinker with the office 3D printer and explore beautiful San Francisco.
+
+We’re hiring now for our 2025 internship cohort! Apply here.

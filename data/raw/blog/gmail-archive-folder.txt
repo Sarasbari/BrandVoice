@@ -1,0 +1,305 @@
+Title: Gmail Archive folder: What is it and how to find emails
+Published Date: 2025-01-01T00:00-07:00
+URL: https://www.notion.so/blog/gmail-archive-folder
+
+Maintaining a clean, organized Gmail inbox is key to staying productive, and archiving is one of the most effective tools to help with this.
+
+Unlike other email platforms, Gmail does not have a clearly labeled “Archive” folder, which can be confusing. If you archive an email by mistake and want to retrieve it later, you may be left wondering: Where is the archived folder in Gmail?
+
+Gmail takes a unique but fairly simple approach to archiving emails. This guide will walk you through the process, show you how to find the Gmail archive folder, and explain how to use archiving effectively to maintain a tidy inbox.
+
+Archive folder in Gmail: How does it work, and why is it important?
+
+Archiving is a powerful Gmail feature that can help you keep your inbox tidy without deleting anything. Unlike deleting, which sends emails to Trash (and eventually removes them permanently), archiving simply removes the “Inbox” label from a message. This means the email disappears from your primary inbox view but remains safely stored in the “All Mail” section, where you can access it later if needed.
+
+In many email platforms, such as Outlook and Apple Mail, archived emails are placed in a clearly labeled “Archive” folder. Gmail takes a slightly different approach by grouping them in All Mail—a location containing all the emails in your inboxes, including promotions, unread emails, sent messages, social notifications, and archived emails.
+
+Leveraging the archive feature is essential for several reasons:
+
+It helps you maintain a manageable and clutter-free inbox, reducing the chaos and mental overwhelm.It allows you to keep emails for future reference without them cluttering your main inbox view.Moving less urgent or ended conversations out of your primary view lets you focus on other emails that require urgent attention.Archived emails are still searchable, so you can locate them as usual.
+
+It helps you maintain a manageable and clutter-free inbox, reducing the chaos and mental overwhelm.
+
+It allows you to keep emails for future reference without them cluttering your main inbox view.
+
+Moving less urgent or ended conversations out of your primary view lets you focus on other emails that require urgent attention.
+
+Archived emails are still searchable, so you can locate them as usual.
+
+How to find the Archive folder in Gmail
+
+Finding the archive folder is simple, whether on the desktop or mobile app—we’ll explain how to:
+
+Locate the archive folder on the desktopFind the archive folder on the mobile app
+
+Locate the archive folder on the desktop
+
+Find the archive folder on the mobile app
+
+1. Locating the Gmail Archive folder on the desktop
+
+To find the All Mail section on the desktop, take these steps:
+
+Navigate to the More option on the list of labels in the left sidebarClick on it to expand the listScroll down to the All Mail label, which is right above SpamClick to open it and locate all your archived messages on Gmail
+
+Navigate to the More option on the list of labels in the left sidebar
+
+Click on it to expand the list
+
+Scroll down to the All Mail label, which is right above Spam
+
+Click to open it and locate all your archived messages on Gmail
+
+2. Finding the archive folder in the Gmail app
+
+The archive folder is also called the All Mail label in the Gmail iOS and Android apps. Here’s how to access it:
+
+Open the Gmail app on your iOS or Android deviceTap the Menu icon (three horizontal lines) in the top-left cornerScroll down the sidebar that pops outTap All Mail to access the email you’re looking for
+
+Open the Gmail app on your iOS or Android device
+
+Tap the Menu icon (three horizontal lines) in the top-left corner
+
+Scroll down the sidebar that pops out
+
+Tap All Mail to access the email you’re looking for
+
+💡Pro Tip: If you don’t see All Mail immediately, scroll down further or tap More to expand the label options.
+
+How to archive an email in Gmail
+
+You can archive an email on any Gmail app—desktop, iOS, or Android—but the steps depend on your preferred device. The steps below outline how to:
+
+Archive an email on a computerArchive emails on iOS and Android devices
+
+Archive an email on a computer
+
+Archive emails on iOS and Android devices
+
+Archiving an email on a computer
+
+To archive emails on the desktop, follow these steps:
+
+Open Gmail on your web appOn the home screen, hover over the message you want to archiveClick the Archive icon, a box with a down arrow
+
+Open Gmail on your web app
+
+On the home screen, hover over the message you want to archive
+
+Click the Archive icon, a box with a down arrow
+
+This action will move the message out of the primary inbox and into the All Mail label, but other labels applied to the email will still be retained.
+
+Archiving an email on iOS and Android devices
+
+The steps to archive emails on Gmail’s iOS and Android apps are the same, but there are multiple methods you can use. The table below outlines the two most common ones:
+
+Method #1Method #2Open the Gmail app on your phoneOpen the message you wish to archiveTap the Archive icon at the topOpen the Gmail app on your phoneIdentify the email you want to archiveSwipe left or right on the emailYou’ll see a confirmation message that confirms the message is archived
+
+Method #1
+
+Method #2
+
+Open the Gmail app on your phone
+
+Open the message you wish to archive
+
+Tap the Archive icon at the top
+
+Open the Gmail app on your phone
+
+Identify the email you want to archive
+
+Swipe left or right on the email
+
+You’ll see a confirmation message that confirms the message is archived
+
+To archive multiple emails at once, complete the following steps:
+
+Navigate to your inbox home screenTap and hold on the sender’s profile picture or the small circle beside the email subjectClick on any other email you wish to archive to select itHit the Archive icon at the top of the screen to complete the action
+
+Navigate to your inbox home screen
+
+Tap and hold on the sender’s profile picture or the small circle beside the email subject
+
+Click on any other email you wish to archive to select it
+
+Hit the Archive icon at the top of the screen to complete the action
+
+How to unarchive emails in Gmail
+
+Unarchiving a message means moving it back to your inbox from All Mail. We’ll show you how to do it on your computer and mobile device (iOS and Android):
+
+On a computer:
+
+Open Gmail in your browserGo to All Mail in the left sidebar, and open the labelFind the archived email and click the checkbox to the left to select it—if you want to unarchive more than one, click as many checkboxes as neededAt the top of the email list, look for the Move to Inbox icon; it’s the box beside the envelope iconClick the Move to Inbox icon to send the archived emails back to your primary view
+
+Open Gmail in your browser
+
+Go to All Mail in the left sidebar, and open the label
+
+Find the archived email and click the checkbox to the left to select it—if you want to unarchive more than one, click as many checkboxes as needed
+
+At the top of the email list, look for the Move to Inbox icon; it’s the box beside the envelope icon
+
+Click the Move to Inbox icon to send the archived emails back to your primary view
+
+On a mobile device (iOS and Android):
+
+Open the Gmail appTap the Menu icon in the top left corner—scroll down and tap All MailLocate the email you want to unarchive by using the search bar or scrolling downSelect the emails and tap the Move to Inbox icon. Click the icon in the top right corner to locate the Move to Inbox icon
+
+Open the Gmail app
+
+Tap the Menu icon in the top left corner—scroll down and tap All Mail
+
+Locate the email you want to unarchive by using the search bar or scrolling down
+
+Select the emails and tap the Move to Inbox icon. Click the icon in the top right corner to locate the Move to Inbox icon
+
+All the emails you unarchived will be visible in your primary inbox again.
+
+Bonus guides: Find out how to delete labels and folders in Gmail.
+
+Where are archived emails in Gmail?
+
+One of the main benefits of archiving emails is their searchability. When you archive an email, Gmail doesn’t send it into a dedicated category—the All Mail label contains other kinds of emails, even unarchived ones. Gmail does not apply an “archive” label to the emails either, to distinguish them from other emails.
+
+So, searching through the All Mail folder for archived emails can sometimes be a chore. If you’re looking for a specific archived message, using the search bar may be the least tedious option.
+
+Here’s how to do it:
+
+Think of a keyword related to the email, such as the subject line or sender nameType the keyword in the search barPress enter to reveal a list of all the archived emails that match your criteria
+
+Think of a keyword related to the email, such as the subject line or sender name
+
+Type the keyword in the search bar
+
+Press enter to reveal a list of all the archived emails that match your criteria
+
+If you need more help, you can use the advanced search feature to narrow your scope by date, size, attachment, and more.
+
+How to auto-archive emails in Gmail
+
+Manually archiving emails helps with inbox decluttering, but if you have recurring messages you don’t need to address immediately, an auto-archive setup can help you save a lot of time.
+
+Gmail offers a feature called “filters” to help with this. You can create a filter rule that allows emails to “Skip the inbox” and go straight into the All Mail folder to keep your primary inbox view tidy.
+
+Here’s how to set it up on your computer’s web browser:
+
+Step 1: Open Gmail on the desktop
+
+Step 2: In the search bar at the top, click the three-slider icon
+
+Step 3: Enter your criteria in the relevant fields to tell Gmail which emails to auto-archive. You can use:
+
+From: Sender’s email addressTo: Your email addressSubject: Keywords in the subject line Has the words: Keywords or phrases in the email bodySize: Emails of a certain sizeDate within: Emails received within a timeframe
+
+From: Sender’s email address
+
+To: Your email address
+
+Subject: Keywords in the subject line
+
+Has the words: Keywords or phrases in the email body
+
+Size: Emails of a certain size
+
+Date within: Emails received within a timeframe
+
+Step 4: Click Create filter at the bottom
+
+Step 5: On the next window, check the box beside Skip the inbox (Archive it)
+
+Step 6: Select Also apply filter to matching conversations if you want to archive existing emails or Mark as read to prevent the emails from appearing as unread in the archive
+
+Step 7: Click Create filter
+
+Using these steps, you can auto-archive existing emails that match the criteria and all new incoming emails.
+
+Is Gmail’s auto-archive enough to keep you organized?
+
+Automatically archiving emails in Gmail is a helpful way to move non-urgent messages out of sight. While this helps declutter your immediate view, it’s worth checking whether the function truly provides all the productivity benefits you need, especially if you’re managing a high volume of emails.
+
+That’s because, over time, some users have found Gmail’s filter function, which is responsible for auto-archiving messages, challenging. Common issues include:
+
+Learning curve: Basic functionalities are user-friendly, but in cases where users are unfamiliar with Gmail, setting up features like automated filters can present some issues.Limited default customization: The default filtering options are a bit too basic for users who need more control over their filters.Reactive decluttering: Auto-archiving essentially “hides” clutter by moving it to All Mail. It doesn’t proactively deal with the root cause, which means you’re still accumulating messages that you may need to review later.Lack of intelligent adaptation: Gmail’s filters operate strictly on the rigid rules you set. They don’t learn from your behavior or adapt to subtle changes in your communication patterns, often requiring constant manual adjustments to remain effective.
+
+Learning curve: Basic functionalities are user-friendly, but in cases where users are unfamiliar with Gmail, setting up features like automated filters can present some issues.
+
+Limited default customization: The default filtering options are a bit too basic for users who need more control over their filters.
+
+Reactive decluttering: Auto-archiving essentially “hides” clutter by moving it to All Mail. It doesn’t proactively deal with the root cause, which means you’re still accumulating messages that you may need to review later.
+
+Lack of intelligent adaptation: Gmail’s filters operate strictly on the rigid rules you set. They don’t learn from your behavior or adapt to subtle changes in your communication patterns, often requiring constant manual adjustments to remain effective.
+
+If you’re looking for an email platform that transcends passive “hiding” of emails, tackles clutter proactively, and offers more intelligent automation, try Notion Mail.
+
+Notion Mail: The smarter way to organize your inbox
+
+Notion Mail is an AI-powered email client designed to move you out of the limitations of traditional automation, where you’re constantly modifying rigid filter rules. Instead, it levels up your email management strategies with AI, eliminating the manual hassle of organizing your inbox.
+
+This proactive approach means fewer unnecessary emails accumulate because your inbox intelligently sorts and labels messages as they arrive.
+
+Notion Mail can achieve this level of efficiency with its core AI-driven features, outlined in the table below:
+
+AI featureHow it helpsAI autopilotNotion Mail uses AI to auto-sort, filter, and prioritize incoming emails using simple prompts based on your unique preferences—no more manual sorting.Quick replies with AIAI assists in drafting emails by suggesting phrases, completing sentences, and even generating entire contextual responses, saving you time.Email summariesSmart summaries help you quickly condense lengthy email threads into concise overviews.Automated schedulingNotion Mail’s AI helps you schedule meetings directly from your email, eliminating the usual back-and-forth.
+
+AI feature
+
+How it helps
+
+AI autopilot
+
+Notion Mail uses AI to auto-sort, filter, and prioritize incoming emails using simple prompts based on your unique preferences—no more manual sorting.
+
+Quick replies with AI
+
+AI assists in drafting emails by suggesting phrases, completing sentences, and even generating entire contextual responses, saving you time.
+
+Email summaries
+
+Smart summaries help you quickly condense lengthy email threads into concise overviews.
+
+Automated scheduling
+
+Notion Mail’s AI helps you schedule meetings directly from your email, eliminating the usual back-and-forth.
+
+The tool also offers a range of other helpful features to enhance your overall email experience, including:
+
+Customizable inbox views for tailored workflowsAutomated email follow-upsSeamless integration with the broader Notion workspaceKeyboard shortcuts for faster navigationProductivity-first tools like slash commands within the email editor
+
+Customizable inbox views for tailored workflows
+
+Automated email follow-ups
+
+Seamless integration with the broader Notion workspace
+
+Keyboard shortcuts for faster navigation
+
+Productivity-first tools like slash commands within the email editor
+
+Notion Mail is designed exclusively as a Gmail client. This means it offers a powerful upgrade without requiring you to switch email addresses.
+
+How to get started with Notion Mail
+
+To get started, visit the signup page and connect your Google or Gmail account—and you’re done!
+
+Notion Mail offers many of its advanced automation and productivity features upon signing up for free! If you want to explore automation functions further, get the Notion AI add-on.
+
+Keep reading: Explore these practical and easy-to-use email management guides:
+
+How to manage multiple Gmail accountsHow to recover a deleted email from GmailHow to delete an email account on your iPhoneHow to remove a Gmail account from a phoneTips for Gmail organizationHow to organize Gmail by senderHow to add contacts to a label
+
+How to manage multiple Gmail accounts
+
+How to recover a deleted email from Gmail
+
+How to delete an email account on your iPhone
+
+How to remove a Gmail account from a phone
+
+Tips for Gmail organization
+
+How to organize Gmail by sender
+
+How to add contacts to a label

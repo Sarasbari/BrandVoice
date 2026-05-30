@@ -1,0 +1,77 @@
+Title: Everyone wants AI. That isn't enough.
+Published Date: 2026-02-13T09:00-08:00
+URL: https://www.notion.so/blog/everyone-wants-ai-that-isnt-enough
+
+Over the past year, every conversation I’ve had about productivity has turned into a conversation about AI. As a researcher, the most consistent question I hear from buyers is: How do we actually make this work?
+
+We wanted to understand if all this excitement matched reality, so our team surveyed 3,000+ global knowledge workers and conducted 85+ interviews with the decision makers and teams actively testing AI in daily work. The results are eye-opening: 93 percent say AI is essential to modern productivity software, and 80 percent say they’re likely to switch to a platform that offers it.¹
+
+But the problem is only 20 percent knowledge workers say AI is deeply integrated into their company’s tools.²
+
+The gap—between what people want and what they have—tells us something important about where we actually are with AI at work. The problem is implementation.
+
+What teams actually want from AI
+
+Behind the intent to adopt AI is a clear expectation that it should make work feel lighter, faster, and more focused. We’re past the days of AI as novelty—teams aren’t looking for help with one-off tasks anymore. They want AI that automates recurring, cognitively demanding workflows that eat hours of the day.
+
+In our research, three use cases emerged as the biggest opportunities for AI impact: Project updates that write themselves (53 percent of respondents), knowledge hubs that stay current automatically (45%), and smart templates that set up projects and workflows based on team goals (45%).³
+
+“My hope is to get AI to the point where it’s able to take the administrative lift of running a business off the table,” one respondent put it. These recurring needs that often span people, projects, and time can be taken care of by AI. This change in function positions AI as a teammate rather than just an assistant.
+
+But most teams just aren’t there yet.
+
+Why implementation is so hard
+
+Despite the growing demand, most companies are still figuring out how to make AI work in practice. When we surveyed 1,000 tool decision-makers in the US, their number one challenge is integrating AI into existing processes.⁴ Not budget, or motivation, or time. Integration.
+
+The barriers to getting this done are specific and concrete. Four themes came up consistently:
+
+Data security and quality. As one respondent said: “Hallucinations are very real from AI, so we have to verify information frequently.” When we asked about AI agents specifically, many were worried about incorrect or irreversible changes, and unauthorized data exposure. Trust matters.Unclear AI strategy. “We’re not sure which programs will work best, how much to integrate, and what value will be achieved from using AI.” Without clarity on what success looks like, teams hesitate to adopt. And when they do experiment, 40 percent say they lack the right review and approval processes to truly use it.Resource constraints. “Integrating AI tools can be expensive,” one respondent said. “There are costs to purchase, customize them to fit existing processes, train staff, and maintain them.” For many teams, the overhead of implementing AI feels prohibitive—especially when the return seems uncertain.Compatibility issues. When AI lives outside existing workflows, it often creates more work to bounce back and forth between tools instead of reducing friction. “Much of our data needs to be manually imported before we can integrate AI tools into our existing processes,” another respondent said.
+
+Data security and quality. As one respondent said: “Hallucinations are very real from AI, so we have to verify information frequently.” When we asked about AI agents specifically, many were worried about incorrect or irreversible changes, and unauthorized data exposure. Trust matters.
+
+Unclear AI strategy. “We’re not sure which programs will work best, how much to integrate, and what value will be achieved from using AI.” Without clarity on what success looks like, teams hesitate to adopt. And when they do experiment, 40 percent say they lack the right review and approval processes to truly use it.
+
+Resource constraints. “Integrating AI tools can be expensive,” one respondent said. “There are costs to purchase, customize them to fit existing processes, train staff, and maintain them.” For many teams, the overhead of implementing AI feels prohibitive—especially when the return seems uncertain.
+
+Compatibility issues. When AI lives outside existing workflows, it often creates more work to bounce back and forth between tools instead of reducing friction. “Much of our data needs to be manually imported before we can integrate AI tools into our existing processes,” another respondent said.
+
+Lots of teams are experimenting, but few have found something that checks all the boxes. So what separates those who’ve figure it out from those still struggling?
+
+What makes AI actually work
+
+Successful teams share something in common: Their AI lives where their work already happens.
+
+When AI operates alongside work, context stays intact, data is secure, and outcomes improve as AI learns from actual workflows. This is fundamentally different than the AI tools that sit separate from processes—they lack the shared context needed to understand real work.
+
+Take Faire, an online wholesale marketplace, for example. They spent years building connected knowledge and clean workflows in a single workspace in Notion.⁵ When they added Notion AI, impact was immediate:
+
+81 percent of their team said meetings run smoother because AI captures notes and action items with full context—letting people focus on discussions instead of documentationWorkflows run 30 percent faster with everything centralized in one connected hub where AI can apply reasoning across their entire knowledge base71 percent of employees surveyed say Notion AI is their most valuable AI tool
+
+81 percent of their team said meetings run smoother because AI captures notes and action items with full context—letting people focus on discussions instead of documentation
+
+Workflows run 30 percent faster with everything centralized in one connected hub where AI can apply reasoning across their entire knowledge base
+
+71 percent of employees surveyed say Notion AI is their most valuable AI tool
+
+The path forward
+
+More and more breakthroughs happen every month in the AI world. Most teams are still experimenting in small ways, testing what works (and what doesn’t), and building new habits at work. And that’s exactly right.
+
+The advantage now goes to the teams treating every workflow as one to experiment with. And since AI is starting to shift from a one-off tool to a powerful workflow automator, there’s even more opportunity than ever.
+
+Wiremind CTO Charles Pierre told us: “We see AI not just as a tool for efficiency, but as a catalyst for innovation. It empowers us to streamline processes and foster a culture of creativity and curiosity.”
+
+Learn more about the current AI landscape and how you can evaluate what tools work best for your team. Ready to experiment? Try our interactive Notion AI demo to see how it works with your team's knowledge.
+
+Sourcing
+
+[1] Source: Qualtrics Productivity Study. Commissioned by Notion. Fielded October 2025. N = 3,636. US, UK, France, Japan, South Korea, Australia, New Zealand, Singapore, Germany, Austria, Switzerland. Question: How important is it that productivity software includes AI functionality?
+
+[2] Source: Numerious B2C2B Study. Commissioned by Notion. Fielded October 2025. N = 400. US Only. Question: Where is your organization in terms of integrating AI into your productivity software tools?
+
+[3] Source: Notion Internal AI Survey. Fielded November 2025. N = 397. US, UK, France, Japan, South Korea, Brazil, Australia, India, Canada. Question: Which of the following custom AI agents are most useful for you?
+
+[4] Source: Notion x Numerious Productivity Software Survey. Fielded Feb 2025. N = 1,000. US Only. Question: Please indicate which one has been the MOST challenging and which one has been the LEAST challenging for your company / team over the past 12 months.
+
+[5] Source: https://www.notion.com/customers/faire

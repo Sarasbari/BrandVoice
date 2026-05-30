@@ -1,0 +1,23 @@
+Title: Our content and use policy
+Published Date: 2021-04-29T00:00-07:00
+URL: https://www.notion.so/blog/our-content-and-use-policy
+
+One of Notion's best features is the ability to quickly and easily publish pages to the web. Every day, this empowers individuals and teams around the world to build incredible sites.
+
+It's also our priority to ensure the trust and safety of this global community, so we thought it would be helpful to share our Content & Use Policy. It outlines the specific types of content that are not allowed to be hosted on Notion pages.
+
+Examples of prohibited material include graphic and harmful content, child exploitation, harassment, hateful speech, and pages that enable phishing or malware.
+
+To date, we've used a combination of automated and manual solutions to scan for, identify, and remove publicly shared pages that violate our terms of service. Today, to further strengthen these efforts, we're rolling out a few new product and process changes:
+
+Button to report inappropriate content — now, on Notion public pages viewed on the web, everyone will see a ••• icon at the top right. Clicking it will give you the option to report any page you believe contains prohibited content. These reports go to our customer experience team, who will investigate and remove pages as needed. This change will roll out to all users over the next week. Guide to reporting pages here →Higher recall automated malware detection — this will immediately flag and remove more Notion pages being used to host suspicious links publicly.Industry leading semi-automated malware detection — we've partnered with an industry leader in AI and crowd sourcing to increase our automated malware detection rates. This is much more effective than our team reviewing and removing all flagged pages manually.New customer experience workflows — we've engineered better tools and processes for our global customer experience team to act on content that violates our policies, protecting them while also speeding up response times.
+
+Button to report inappropriate content — now, on Notion public pages viewed on the web, everyone will see a ••• icon at the top right. Clicking it will give you the option to report any page you believe contains prohibited content. These reports go to our customer experience team, who will investigate and remove pages as needed. This change will roll out to all users over the next week. Guide to reporting pages here →
+
+Higher recall automated malware detection — this will immediately flag and remove more Notion pages being used to host suspicious links publicly.
+
+Industry leading semi-automated malware detection — we've partnered with an industry leader in AI and crowd sourcing to increase our automated malware detection rates. This is much more effective than our team reviewing and removing all flagged pages manually.
+
+New customer experience workflows — we've engineered better tools and processes for our global customer experience team to act on content that violates our policies, protecting them while also speeding up response times.
+
+Ensuring the safety and well-being of the Notion community (including anyone who's ever seen a Notion page out there on the web) is very important to us. We hope this post is a useful guide to what we're currently doing — and we'll keep investing in tech and processes to deliver even better on this promise.

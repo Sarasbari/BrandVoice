@@ -1,0 +1,81 @@
+Title: What’s resource management? A complete guide
+Published Date: 2023-08-15T00:00-06:00
+URL: https://www.notion.so/blog/resources-management
+
+If you can save money for a new computer, put enough gas in the tank to drive to work, and set yourself up with the right tools to complete a personal project, you’re already an expert at resource management.
+
+Chances are, you already use those skills in the workplace, too — especially if you’re in charge of resources. Just like you put gas in your car before a trip, you have to secure the right materials, time, and personnel to fuel a project. And once you secure those assets, you must manage them correctly to ensure the team uses and disperses them without waste.
+
+Excellent resource management maximizes a project’s potential for success and minimizes risk throughout the process. Here’s how to keep track of what your team’s using and make sure everyone has what they need.
+
+What’s resource management?
+
+Resource management is the process of planning, allotting, and scheduling resources for a project or team.
+
+In the context of project management, resources generally include time, personnel, and budget, along with the software or materials of the project itself. Of course, these vary by team and type of work. Physical space is more likely to be a concern for a manufacturing company than a remote development team. And solid tech is a must for work-from-home staff but less important for hands-on workers who don’t often use computers.
+
+Resource management should happen before a project starts so everyone has what they need to succeed. Proper forecasting makes sure you don’t forget any necessary tools or funding — and that you have a clear plan to deliver resources when emergencies happen.
+
+Why is resource management important?
+
+At its simplest, resource management ensures teams have what they need to reach goals. But the practice of correctly allocating resources also drives efficiency. You could put in just enough gas to get to the next station, but you should fill the tank up and monitor your fuel usage to save time on unnecessary pit stops. It’s about thinking ahead and using resources wisely from start to finish.
+
+Here’s how resource management for projects helps teams have the best journey possible:
+
+Saves time — by planning projects and providing the right tools to optimize tasks, teams save time on busy work, actions that could be automated, or waiting for instructions. And with a proper schedule, project managers and teammates can autonomously plan to meet deadlines.Prevents risks and obstacles — if you don’t perform resource planning, your team might lack the time, money, or tools they need in order to complete their work. Proper foresight helps you make sure you have the assets you need before you start. If you see you lack sufficient resources early on, you can shift the project's scope. Increases earning potential — a well-planned project will only use the financial resources it needs instead of going overboard. These savings maximize profits and help avoid scope creep. Imagine a development team that constantly has to rework features because they didn’t have enough time in their sprints to submit high-quality work; in the end, this team burns funds (and time).
+
+Saves time — by planning projects and providing the right tools to optimize tasks, teams save time on busy work, actions that could be automated, or waiting for instructions. And with a proper schedule, project managers and teammates can autonomously plan to meet deadlines.
+
+Prevents risks and obstacles — if you don’t perform resource planning, your team might lack the time, money, or tools they need in order to complete their work. Proper foresight helps you make sure you have the assets you need before you start. If you see you lack sufficient resources early on, you can shift the project's scope.
+
+Increases earning potential — a well-planned project will only use the financial resources it needs instead of going overboard. These savings maximize profits and help avoid scope creep. Imagine a development team that constantly has to rework features because they didn’t have enough time in their sprints to submit high-quality work; in the end, this team burns funds (and time).
+
+What are the risks of a poor resource management strategy?
+
+Resource management can go wrong in more ways than simply running out of the proverbial project fuel. Here are some of the consequences a team avoids by practicing excellent resource management in projects:
+
+Burnout and poor performance — overtasked employees can’t complete high-quality work. Their intense workload prevents them from producing the best results, and slipping performance could dampen morale. In this case, the problem isn’t a lack of effort. Inadequate planning is what holds employees back. Delays — disorganized resource allocation leads to haphazard work when teams just do what they can with the time and money they have. They won’t have what they need to complete the most efficient, impactful activities. This chaotic working style leads to delays and frustration all around, from employees to stakeholders. Client dissatisfaction — projects that don’t run on schedule or produce quality outputs disappoint end users, and the stakes are high when you work with clients. Clients pay for a service and expect you to allocate their money correctly on a well-planned project. Subpar deliverables could ruin your relationships.
+
+Burnout and poor performance — overtasked employees can’t complete high-quality work. Their intense workload prevents them from producing the best results, and slipping performance could dampen morale. In this case, the problem isn’t a lack of effort. Inadequate planning is what holds employees back.
+
+Delays — disorganized resource allocation leads to haphazard work when teams just do what they can with the time and money they have. They won’t have what they need to complete the most efficient, impactful activities. This chaotic working style leads to delays and frustration all around, from employees to stakeholders.
+
+Client dissatisfaction — projects that don’t run on schedule or produce quality outputs disappoint end users, and the stakes are high when you work with clients. Clients pay for a service and expect you to allocate their money correctly on a well-planned project. Subpar deliverables could ruin your relationships.
+
+Areas of resource management
+
+Take a comprehensive approach that considers all essential areas of the project — not just money. Project management software can track everything from staff allocation to scheduling details. Here are five common types of resources in business you should keep in your forecasts:
+
+Financial resources — all projects require funding, especially those that aim to create a new product or service and need specialized labor or overhead. Estimate the cost, considering any training you’ll need to perform, software, or equipment you must purchase, and how much you’ll pay employees and contractors. If you need external funding, like provisions from investors, secure it before starting work. Space — account for production, working, and warehousing space in your resource projections. Renting additional office space or hiring a third party to store your product or data could augment costs later, so include them too. You’ll also want to double-check that the spaces you currently use or will rent are as efficient as possible, mitigating any potential delays due to access or other problems. Technology — the right tech makes or breaks a project. It streamlines workflows, allows teams to safely store and work with data, and ensures that employees can communicate well (especially on remote teams). Setting yourself up with tech that maximizes productivity and collaboration while minimizing room for error could wind up saving you time and money. Tools — consider what tools you’ll need to create a high-quality product efficiently, whether that’s software or physical tools. If you need to purchase new ones to perform work better, include these costs in your resource projections.
+
+Financial resources — all projects require funding, especially those that aim to create a new product or service and need specialized labor or overhead. Estimate the cost, considering any training you’ll need to perform, software, or equipment you must purchase, and how much you’ll pay employees and contractors. If you need external funding, like provisions from investors, secure it before starting work.
+
+Space — account for production, working, and warehousing space in your resource projections. Renting additional office space or hiring a third party to store your product or data could augment costs later, so include them too. You’ll also want to double-check that the spaces you currently use or will rent are as efficient as possible, mitigating any potential delays due to access or other problems.
+
+Technology — the right tech makes or breaks a project. It streamlines workflows, allows teams to safely store and work with data, and ensures that employees can communicate well (especially on remote teams). Setting yourself up with tech that maximizes productivity and collaboration while minimizing room for error could wind up saving you time and money.
+
+Tools — consider what tools you’ll need to create a high-quality product efficiently, whether that’s software or physical tools. If you need to purchase new ones to perform work better, include these costs in your resource projections.
+
+Resource management techniques
+
+Every team member should feel confident they have the tools, time, and human resources they need to get the job done. If you’re ready to level up your processes, here are several techniques to try:
+
+Resource forecasting
+
+Resource forecasting is a forward-thinking approach in which you consider what you’ll need in the future and start planning for it now. It’s not just project-to-project planning; it’s an in-depth roadmap.
+
+For this approach, envision projects and opportunities you hope to tackle down the road versus the current status of your resources. Do you have the funding, space, and tech to take on those future projects today? If not, is it reasonable to think the business could take them on soon? The way you plan now will determine what you can achieve in the future.
+
+Resource leveling
+
+In this model, you’ll consider how much your team can achieve with their current resources and whether they can meet deadlines with them. If you don’t have enough to complete a project on time, you may have to shift deadlines or reallocate resources to ensure timely deliveries. Resources leveling aims to use on-hand assets as efficiently as possible.
+
+Resource smoothing
+
+Resource smoothing is a time-focused strategy for teams that have to complete work by a specific date. Using this approach, your team will forecast when they can finish a project with current resources,  they plan to expend those resources over time in a way that avoids peaks and valleys and instead ensures a constant flow so they never run out of what they need.
+
+Practice strong resource management with Notion
+
+Notion helps cross-functional teams and resource managers foster more efficient project management techniques. Use Notion’s library of guides and templates in your resource planning processes and make the most of the time, talent, and funding you have on hand.
+
+Leverage a team wiki to centralize project information and encourage organizational efficiency, a project roadmap to manage your workload, and a SWOT analysis to minimize risk. And map out the staff you’ll have available for an initiative by building a people directory. You can do it all with Notion.

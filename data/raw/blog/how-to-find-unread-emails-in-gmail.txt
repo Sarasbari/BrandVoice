@@ -1,0 +1,163 @@
+Title: How to find unread emails in Gmail: 3 easy ways
+Published Date: 2025-03-04T00:00+02:00
+URL: https://www.notion.so/blog/how-to-find-unread-emails-in-gmail
+
+With new messages constantly flooding your inbox, it's easy to miss important emails. Fortunately, Gmail offers several tools and features to help you quickly locate and manage your unread emails, ensuring you stay on top of your email communication.
+
+In this comprehensive guide, we'll explain how to find unread emails in Gmail in several ways to help you sift through the clutter and locate those crucial messages.
+
+You’ll learn how to efficiently mass-read or delete them, especially if your inbox is full and the messages in question are not that important. Lastly, we’ll introduce you to an excellent email solution for eliminating clutter if you’re considering leaving Gmail altogether.
+
+How to filter unread emails in Gmail using the search bar
+
+The Gmail search bar is a powerful tool for pinpointing specific emails or information within your account. To leverage this feature for finding unread emails, follow these steps:
+
+Open your Gmail accountLocate the search bar at the top of the Gmail menuType “is:unread” and press Enter to filter your emails to display only unread messagesBrowse the search results to view all your unread emails
+
+Open your Gmail account
+
+Locate the search bar at the top of the Gmail menu
+
+Type “is:unread” and press Enter to filter your emails to display only unread messages
+
+Browse the search results to view all your unread emails
+
+While this method is useful for quickly checking unread emails, it might not be sufficient if you have many unread messages. In that case, consider adding other search operators to your query to narrow down the results.
+
+For example, if you type “is:unread before:2022/02/01 after 2021/11/25,” Gmail will filter your messages and show only unread emails received between February 1, 2022, and November 25, 2021.
+
+Another example is the query “is:unread from:[email protected],” which searches for all unread emails from the specified sender that you haven't opened yet.
+
+With these search operators, you can fine-tune your search and pinpoint the unread emails you're after.
+
+But wouldn't it be even better if you could find all your unread emails organized within a single Gmail folder? Well, that's exactly what our second method is all about.
+
+How to add an unread folder in Gmail
+
+While Gmail doesn't have a built-in "Unread" folder, you can easily create a label that serves as an unread folder and use it to organize your emails. Here's how to do it:
+
+Type is:unread in the Gmail search barClick on Advanced searchChoose Create filter and press OKA new menu will appear. Mark the checkbox next to Apply the label and proceed to select "Create new label"Enter the desired label name and then click on Create. In this case, let’s use Unread EmailsTick the checkbox next to Also apply to matching conversationsClick Create Filter to apply your new filter
+
+Type is:unread in the Gmail search bar
+
+Click on Advanced search
+
+Choose Create filter and press OK
+
+A new menu will appear. Mark the checkbox next to Apply the label and proceed to select "Create new label"
+
+Enter the desired label name and then click on Create. In this case, let’s use Unread Emails
+
+Tick the checkbox next to Also apply to matching conversations
+
+Click Create Filter to apply your new filter
+
+Once you are done, you will notice a new folder named Unread Emails under Labels, containing all your unread messages.
+
+How to show unread emails first in Gmail
+
+To prioritize unread messages, you can customize your Gmail inbox settings to display them at the top. Here's how you can make this adjustment:
+
+Click on the Settings gear icon in the top right cornerSelect See all settings from the drop-down menuGo to the Inbox tab. In the Inbox Type section, you will see a drop-down menu. From there, choose Unread firstYou can now select the number of unread emails you want the platform to display at the top of your inbox. By default, Gmail will show you 25 messages, but you can set this number higher or lower by choosing between four available optionsOnce you're happy with your settings, scroll all the way down and click on Save Changes
+
+Click on the Settings gear icon in the top right corner
+
+Select See all settings from the drop-down menu
+
+Go to the Inbox tab. In the Inbox Type section, you will see a drop-down menu. From there, choose Unread first
+
+You can now select the number of unread emails you want the platform to display at the top of your inbox. By default, Gmail will show you 25 messages, but you can set this number higher or lower by choosing between four available options
+
+Once you're happy with your settings, scroll all the way down and click on Save Changes
+
+All set! Your inbox should now be neatly organized into two distinct sections. The first section, titled 'Unread,' will display all the messages you haven't opened yet. The second section, labeled “Everything Else,” will serve as a repository for all your remaining emails.
+
+While this approach is convenient for quickly accessing your most recent unread emails, it has a limitation—you can only view up to 50 unread messages. What’s more, Google prioritizes the most recently received unread emails. If you're looking for older unread messages, you might need to consider using the filtering method.
+
+How to delete all unread emails in Gmail at once
+
+On average, Americans receive 21 spam and junk emails per day, amounting to approximately 600 per month and 7,500 annually, according to a survey published in 2024. If you're like most people, you may not have the time or inclination to individually archive or delete these unwanted messages, resulting in them accumulating in your inbox and consuming valuable storage space.
+
+Fortunately, there's a quick and easy way to mass delete these unwanted emails and maintain a clutter-free inbox. To do so, follow these steps:
+
+In the search bar at the top of your inbox, type "is:unread" and press EnterClick the checkbox to the left of the search bar to select all unread messagesClick on the trash can icon located in the top toolbarA confirmation pop-up will appear. Click the "OK" button to confirm the deletion of all unread emails
+
+In the search bar at the top of your inbox, type "is:unread" and press Enter
+
+Click the checkbox to the left of the search bar to select all unread messages
+
+Click on the trash can icon located in the top toolbar
+
+A confirmation pop-up will appear. Click the "OK" button to confirm the deletion of all unread emails
+
+Keep reading: Need a tool to help speed up the mass-deleting process? Try any of these Gmail cleaner apps.
+
+Receiving too many unwanted emails? Consider leaving Gmail
+
+If Gmail’s basic organization tools aren’t keeping your inbox under control, it may be time to consider switching to a more productivity-focused alternative. These are a few reasons you should consider this option:
+
+Gmail’s AI-driven organization and productivity tools are limited
+
+Gmail offers practical organizational tools such as labels, tabs, and filters to help you manage your inbox. Although these features can be helpful for the casual email user, they’re insufficient for dealing with a high influx of emails or significantly reducing clutter.
+
+For example, you will still need to manually apply labels or create filters, which can become time-consuming and challenging to maintain as your workload or email volume increases. Free productivity tools like Smart Compose and Smart Reply are also valuable for day-to-day email correspondence. Still, this surface-level assistance cannot compete with higher-level email management for businesses or productivity enthusiasts.
+
+The only way to access more advanced features like contextualized responses and AI-powered email summarization is when you get the Gemini AI add-on in the Workspace plan. Again, without AI-powered features for seamless organization, emails can quickly get lost in the noise, leading to missed deadlines and disruptions in communication.
+
+Gmail’s AI-powered automation is basic
+
+Gmail offers some built-in automation capabilities for free, including Nudging, which auto-reminds you to follow up on your emails. It relies on basic automation methods like rules-based filtering, which requires manual setup and management, and limited AI-powered sorting that struggles with complex categorization and prioritization.
+
+More advanced email solutions use AI to automate repetitive tasks like email sorting or task creation. With AI-powered automation, you can enjoy:
+
+Intelligent email sorting, filtering, and labeling with simple prompts that organize your emails automatically Automated task creation, where the AI auto-extracts items from your emails to create tasks in integrated project management tools or schedule an appointment in your calendarPredictive email prioritization, where the tool learns your email management patterns to prioritize your most important emails consistently
+
+Intelligent email sorting, filtering, and labeling with simple prompts that organize your emails automatically
+
+Automated task creation, where the AI auto-extracts items from your emails to create tasks in integrated project management tools or schedule an appointment in your calendar
+
+Predictive email prioritization, where the tool learns your email management patterns to prioritize your most important emails consistently
+
+Gmail lacks deep customization features
+
+Gmail offers limited customization options that hinder you from tailoring your inbox to specific workflows or preferences.
+
+You can customize the density of your inbox view or choose a theme to personalize it and decide what priority you want your emails to appear in, but you cannot create highly customized views that adapt to your work needs.
+
+If you are seeking a robust email solution that offers advanced AI-powered automation and productivity features by default, Notion Mail stands out as a remarkable choice.
+
+Notion Mail: An AI-powered email for enhanced productivity
+
+Notion Mail is an AI-first email client designed to improve your work processes and increase productivity—whether you’re an individual who values productivity tools or a project manager scouting for your next emailing sidekick.
+
+This free, productivity-focused platform is built with workflow enhancement at its core, so it’s not surprising that it can deeply integrate with the Notion workspace ecosystem. It goes beyond traditional emailing tools, leveraging AI to automate your tasks, manage your inbox, and schedule meetings with simple, quick commands.
+
+Here’s how its core features work:
+
+Autopilot for AI-powered organization: Notion Mail auto-categorizes and labels your emails so you can quickly identify and prioritize what’s crucial. Instead of manually sorting through emails to assign them to folders or tabs, the tool relies on AI to auto-group emails by project, deadline, etc., so you never miss a critical detail.Customizable views for workflows: Notion Mail allows you to create personalized inbox views that align with and display whatever you want to work on at every moment. If you’re a sales manager, for instance, you can create custom views for new leads, closed deals, follow-ups, and more, so you can focus on achieving specific goals. AI-powered writing assistance: Notion Mail offers various opportunities to reduce email composition time. Quick replies can help you draft emails from scratch and generate responses using AI. The snippets feature lets you save pre-written responses to common inquiries to quickly respond to emails without repetitively typing the same information.
+
+Autopilot for AI-powered organization: Notion Mail auto-categorizes and labels your emails so you can quickly identify and prioritize what’s crucial. Instead of manually sorting through emails to assign them to folders or tabs, the tool relies on AI to auto-group emails by project, deadline, etc., so you never miss a critical detail.
+
+Customizable views for workflows: Notion Mail allows you to create personalized inbox views that align with and display whatever you want to work on at every moment. If you’re a sales manager, for instance, you can create custom views for new leads, closed deals, follow-ups, and more, so you can focus on achieving specific goals.
+
+AI-powered writing assistance: Notion Mail offers various opportunities to reduce email composition time. Quick replies can help you draft emails from scratch and generate responses using AI. The snippets feature lets you save pre-written responses to common inquiries to quickly respond to emails without repetitively typing the same information.
+
+Sign up for Notion Mail
+
+Signing up for Notion Mail is easy—it’s a standalone Gmail client, so all you need to do is connect your Gmail or Google account to begin. Upon signing up, you get access to many advanced automation features for free, simplifying your workflow process. However, if you need deeper AI assistance, you can get the Notion AI add-on.
+
+Bonus read: Need more help organizing your inbox to deal with clutter? You’ll find valuable tips in these email management guides:
+
+How to create folders in GmailHow to organize GmailGmail is not syncing with the iPhone Mail appGmail account not receiving emailsDoes Gmail delete old emails?How to remove a Gmail account from an iPhone
+
+How to create folders in Gmail
+
+How to organize Gmail
+
+Gmail is not syncing with the iPhone Mail app
+
+Gmail account not receiving emails
+
+Does Gmail delete old emails?
+
+How to remove a Gmail account from an iPhone

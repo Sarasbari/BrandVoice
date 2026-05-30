@@ -1,0 +1,39 @@
+Title: Liberis’ ‘bot-first’ approach with Notion AI removes legal bottlenecks, boosts company productivity
+Published Date: 2024-07-17T11:15+02:00
+URL: https://www.notion.so/blog/notion-liberis
+
+Liberis is a leading global embedded finance platform, working with over 25 strategic partners such as eBay, Barclaycard, Global Payments, and Worldpay to provide more than $1 billion in flexible funding to small- and medium-sized enterprises across the UK, EU, US and Canada.
+
+In a regulated industry that varies by market, the four-person Legal team at Liberis supports more than 200 colleagues across four offices in the UK, Europe and the United States. It’s a challenge, but one that Liberis Chief Legal and Compliance Officer Alexis Alexander had a clear vision for scaling. “When I joined Liberis as the company’s first lawyer, I knew that if I did anything right, it would be for the business to see me and the team I would build as enablers—as people that do business, not just legal textbooks.”
+
+It’s this vision that led to the creation of the team’s legal wiki, which is one of the most visited pages across Liberis’ Notion workspace—and they are helping colleagues find information faster by encouraging them to use Notion AI, significantly boosting company productivity.
+
+Guardrails, not gatekeepers: Enabling sustainable growth that scales
+
+The Liberis Legal, Information Security, and Compliance (LIC) team aims to set guardrails, rather than be gatekeepers, to enable sustainable and scalable growth. Their mission has two core tenets:
+
+Work with speed: Manage legal challenges, mitigate legal and regulatory risk, and ensure that Liberis can move fast without crashingEnable self-service: Enable business colleagues to help themselves, reducing dependence and bottlenecks in the legal team
+
+Work with speed: Manage legal challenges, mitigate legal and regulatory risk, and ensure that Liberis can move fast without crashing
+
+Enable self-service: Enable business colleagues to help themselves, reducing dependence and bottlenecks in the legal team
+
+Initially, the LIC team’s self-service effort was a SharePoint site where they stored resources such as regulatory and privacy information, policies, and training. Despite being well-organized, its basic filing system structure made it difficult and time-consuming for Liberis employees to find what they needed. “It wasn’t user-friendly or visually-engaging, which discouraged people from using it,” reflects Francesca Rothkell, head of legal at Liberis. “I was probably the only one who knew how to locate information in it.”
+
+From a static SharePoint site to engaging Notion pages
+
+Given Notion’s popularity with other teams, Liberis decided to consolidate tools by replacing SharePoint with Notion as their company wiki. While hesitant at first—as one can be when learning a new tool—Francesca found Notion surprisingly intuitive and user-friendly. Not only was it enjoyable to use, but it also allowed her to be more creative with how she presented information. “I saw some impressive pages my colleagues had set up in Notion, and thought I would need significant tech skills or a huge amount of time to design something similar—but that wasn’t the case at all,” she recalls.
+
+Francesca uses tables to structure complex information in an easy-to-understand format, such as the regulatory status of their product across different territories. Instead of preparing and uploading a static PDF, she incorporates different-colored callouts, and embeds screenshots and videos to break up and simplify dense information. Notion also allows Liberis to integrate other tech-forward tools they’ve adopted via the Notion API, such as their third-party contract triage tool.
+
+However, the most valuable product for the Liberis LIC team has been Notion AI, which has enabled them to implement a AI-first policy when working with their team.
+
+Notion AI supports Liberis Legal’s ‘bot-first’ approach, maximizing company-wide efficiency
+
+What does an AI- or bot-first policy entail? “Instead of coming directly to me and Alexis, our colleagues consult the digital versions of us first—which are powered by Notion AI,” explains Francesca. “As a lean legal team supporting businesses with high-growth ambitions, it’s crucial that we utilize technology like Notion AI to maximize our efficiency.”
+
+By storing all their documentation in Notion, whenever an employee has a legal question, they can simply ask Notion AI instead of manually searching for information. Questions like ‘What is the regulatory status of the product in the UK?’ are answered in seconds, along with links to relevant Notion pages with further information. Using the 'Find in' button, these queries can even be scoped to the specific page the team uses to maintain legal information. This ensures Notion AI's responses are accurate and approved by the LIC team, which is critical in a highly-regulated industry like finance.
+
+The LIC team’s AI-first policy seems to paying off: dozens of questions each month now get instant answers with Notion AI. According to user research by Notion, Notion AI users save about five minutes per query, resulting in major productivity gains at Liberis. But it’s not just the people asking the questions who benefit—the workloads of individuals like Alexis and Francesca also improve as they spend less time answering their colleagues’ questions. “We expect Notion AI to drastically reduce the number of Slack messages and Freshservice tickets I receive with ‘business as usual’ queries, freeing up my time to focus on more high-value work,” says Francesca.
+
+Do your employees or teammates struggle to find the information they need? Learn how to build, roll out, and maintain your own AI knowledge hub with our comprehensive guide.

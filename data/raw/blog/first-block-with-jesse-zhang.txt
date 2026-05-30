@@ -1,0 +1,55 @@
+Title: First Block with Jesse Zhang, Co-founder and CEO of Decagon
+Published Date: 2025-11-19T08:50-08:00
+URL: https://www.notion.so/blog/first-block-with-jesse-zhang
+
+Listen to the First Block podcast on Spotify. To learn more about how Notion is supporting startups, please visit notion.com/startups.
+
+Optimize for execution speed early, then shift to long-term thinking: Jesse focused Decagon purely on short-term execution and customer deployment for the first 18 months, avoiding distractions about long-term product vision. This speed-first approach helped them scale from stealth to unicorn status in a year.Don't over-index on advice—understand your own strengths and timing: Jesse learned from his first company that following others' playbooks is deeply distracting. The key is understanding what works specifically for you rather than applying generic "best practices."Early team composition determines everything that follows: The first hires set the trajectory for all future hiring. Jesse prioritized senior generalists from his network in the early days, which created a strong foundation that attracted subsequent talent as they grew from 12 to 200 in 18 months.
+
+Optimize for execution speed early, then shift to long-term thinking: Jesse focused Decagon purely on short-term execution and customer deployment for the first 18 months, avoiding distractions about long-term product vision. This speed-first approach helped them scale from stealth to unicorn status in a year.
+
+Don't over-index on advice—understand your own strengths and timing: Jesse learned from his first company that following others' playbooks is deeply distracting. The key is understanding what works specifically for you rather than applying generic "best practices."
+
+Early team composition determines everything that follows: The first hires set the trajectory for all future hiring. Jesse prioritized senior generalists from his network in the early days, which created a strong foundation that attracted subsequent talent as they grew from 12 to 200 in 18 months.
+
+Welcome to First Block, a Notion series where founders from the world's leading companies tell us about the many "firsts" of their startup journeys. We explore the ups and downs that founders face as they build, and what they've learned along the way.
+
+In this episode, we spoke with Jesse Zhang, Co-founder and CEO of Decagon. In just a year since coming out of stealth, Decagon has become a $1.5 billion AI unicorn, transforming customer service for companies with AI agents that achieve 70-80% deflection rates and 3x customer satisfaction improvements.
+
+Jesse shares his journey from a painful first startup experience to building Decagon with intentional customer discovery, the breakthrough innovation of Agent Operating Procedures (AOPs), and why commercial thinking matters as much as technical excellence.
+
+What's in this episode:
+
+00:00: Intro01:40: Rethinking Customer Experience02:45: Early Startup Lessons05:18: Agent Operating Procedures09:58: Building Enterprise Trust14:04: Scaling Fast15:53: Hiring Philosophy19:12: The Tool Stack20:12: Advice Block
+
+00:00: Intro
+
+01:40: Rethinking Customer Experience
+
+02:45: Early Startup Lessons
+
+05:18: Agent Operating Procedures
+
+09:58: Building Enterprise Trust
+
+14:04: Scaling Fast
+
+15:53: Hiring Philosophy
+
+19:12: The Tool Stack
+
+20:12: Advice Block
+
+Download Decagon’s Feedback Tracker Template so you can systematically organize customer feedback and AI performance data—including structured fields for tracking issues, patterns, and improvement opportunities.
+
+Thought starters for founders
+
+After listening to Jesse’s insights, ask yourself:
+
+Are you balancing technical excellence with commercial thinking?What would change if you optimized purely for execution speed for the next 6 months?Are you over-indexing on others' advice instead of understanding your own strengths and timing?
+
+Are you balancing technical excellence with commercial thinking?
+
+What would change if you optimized purely for execution speed for the next 6 months?
+
+Are you over-indexing on others' advice instead of understanding your own strengths and timing?

@@ -1,0 +1,53 @@
+Title: Software should bend: Welcome Notion’s newest builder, Max Schoening
+Published Date: 2025-04-28T13:30-07:00
+URL: https://www.notion.so/blog/software-should-bend-welcome-max-schoening
+
+It’s rare to meet someone who feels as strongly as we do about building tools for thought. We found that person in Max Schoening. Max joined us a couple weeks ago to work with a team of builders on making Notion’s workflows more beautiful and useful.
+
+I’m not really sure how to characterize Max. He’s a self-described tinkerer and hybrid—part designer, part engineer, part product manager. For those building AI-first products, you know the lines between those roles are getting fuzzier. We’re feeling that shift more and more at Notion, and it’s influencing how we shape our teams.
+
+Before coming here, Max was a builder at GitHub, developing Codespaces, Issues, Discussions, and Actions. He worked on Google Cloud Run, and built CloudApp—one of the first useful menu bar apps—just for fun. More recently, Max worked at the AI research lab Magic.
+
+I suppose the most Notion-y way to describe Max is as a LEGO maximalist—meaning he knows how to make the most out of primitive building blocks. I caught up with him to discuss his philosophies of software and design and why he believes we should all be able to reshape our tools just like we rearrange the furniture in our living rooms.
+
+I. The tinkerer’s mindset
+
+AK: How do you describe what you do?
+
+MS: I’ve struggled with the “am I a designer, PM, or engineer?” question. My background is product design, but I try to express myself in whatever medium is native to the experience users will have. In German we have a perfect word—Tüftler—someone who tinkers until something works. Not in the pejorative sense, but in the sense of persistent ideation and refinement.
+
+Where does that tinkering instinct come from?
+
+When you look at objects other people have made, there’s this natural curiosity: how does it work? Why does it work this way? There’s a Steve Jobs quote that’s my north star: “One day you wake up and realize the world is made by people no smarter than you, and you can change things.” It’s delightful if you get people to wake up to that idea. They can tinker with the world around them.
+
+II. Software that bends to you
+
+What drew you to Notion specifically?
+
+I know you describe me as a LEGO maximalist. That’s not because I like small plastic bricks that connect! It comes from the belief that software should be malleable. But most malleable software ends up as academic research or someone’s side project that struggles to gain large-scale commercial success.
+
+Notion exists at this rare intersection—malleable software with incredible commercial success. For most people, software is whatever the ivory tower in Cupertino decides it should be. But imagine if your home was arranged that way! You’d want to move the furniture around, personalize it, make the kitchen drawers work for how you cook.
+
+You mentioned not being a “big Notion user” before joining …
+
+I wasn’t the kid with five highlighter colors in high school. I was the one with the barely written report in my back pocket! I’m not an organizer. But if you asked if I’d like things organized for me? Absolutely. With AI integration, my life in Notion can be extremely well-organized exactly the way I want without me having to be that person. 🤓
+
+Tell us about “Potluck.”
+
+Potluck, like Notion, aspires to be “one system that solves many problems.” I wrote that paper with teammates at Ink & Switch, an industrial research lab that has pioneered a lot of the thinking in malleable software/local-first apps. AI is blurring the line between unstructured data and computation. You can now have a document that describes things in a fuzzy way.
+
+III. Build to think
+
+You surprised me when you said you don’t use tools made for designers.
+
+Drawing in traditional design tools is often like Drawing Dead Fish, as Bret Victor put it in 2013. I build to think and that includes the data model. Well-designed software has a data model that matches the user’s understanding—there’s a clarity that emerges from that alignment.
+
+How do you see design’s role in the AI explosion?
+
+We’re in this wild moment of technological growth. Companies are scaling from zero to $100M annual recurring revenue faster than ever before. Where design comes in is in long-term thinking: how does this technology race play out so that the human experience remains central? I never fully identified with Design Thinking™ as a branded methodology, but we might need more of the lowercase version of that—thoughtfully solving problems while recognizing the human factors at play.
+
+You’re stepping into a hybrid role, which is rather new for Notion. Do you feel like we’re living in a blurred universe where you have to be able to touch all parts of the engineering, product, and design Venn diagram?
+
+I’m the wrong person to ask this, because I’ve always found that if you have this Venn diagram of engineering, product, design, the more overlap in terms of shared vocabulary and materials that you know how to manipulate, the better the team is. And AI is just accelerating that. As long as you’re not scared of code, you can now fairly easily generate a prototype to get your idea across as a designer or PM. That sort of deletes the division of skill sets.
+
+We’re lucky to have you here, Max! Can’t wait to build together. 🚀

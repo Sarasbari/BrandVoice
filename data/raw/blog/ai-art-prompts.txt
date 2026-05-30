@@ -1,0 +1,165 @@
+Title: Artistic inspiration with AI: How to craft imaginative AI art prompts
+Published Date: 2023-10-12T00:00-03:00
+URL: https://www.notion.so/blog/ai-art-prompts
+
+It’s easy to forget that artificial intelligence (AI) has a creative side.
+
+Although you may hear more about AI code generators and chatbots, some AI-powered tools also generate unique and inspiring visual art. Text-to-art applications like Discord’s Midjourney and OpenAI’s DALL-E are changing how artists, graphic designers, and advertisers find inspiration. AI art generators produce original visual media at record speeds, helping artists push through creative blocks and increase productivity.
+
+Typing prompts on AI art engines isn’t as challenging as molding pottery or sculpting marble. But there’s a certain craft to making the most of prompt-generating technology. And anyone using complex AI technology needs to learn the basic skills for writing detailed AI art prompts.
+
+What are AI art prompts?
+
+An AI art prompt is a written description that cues a text-to-image generator to produce an original image. If you’re familiar with chatbots like ChatGPT, typing prompts for AI art bots will feel similar. The primary difference between AI art apps and chatbots is that the former generates images, not words.
+
+These tools can produce images mimicking art like abstract oil paintings, photorealistic portraits, and Japanese woodblock prints, depending on your prompt’s parameters. Prompts dictate the image’s primary subject and also include details like an artistic medium, style, and composition.
+
+How do AI art generators work?
+
+AI art generators use machine learning algorithms — or advanced programs that arrange large quantities of data — to transform your prompts into digital images. Developers feed vast datasets regarding visual art to equip their AI art generator with a wide range of styles, movements, and methods.
+
+Along with a comprehensive knowledge of art history, AI art programs rely on neural networks, a type of machine learning that mimics human thought generation. Art generators can synthesize information, recognize keywords, and use their data repositories to produce unique images in response to prompts.
+
+Since every AI art generator uses proprietary datasets and algorithms, the same prompt might create distinct images across different applications. If you’re struggling to make a satisfactory image on one AI art tool, consider testing other generators for alternative results.
+
+How to write AI art prompts: 4 steps
+
+Crafting AI prompts isn’t always a systematic step-by-step process. It takes plenty of practice — and a good dose of trial and error — to discover the right words for composing your digital art. There are, however, a few standard elements in AI art prompts. Here are four key factors to consider with examples to help you start.
+
+1. Start with the artistic medium
+
+Although your subject is the central focal point, art is more about how your images appear than what they are. Even in fields like photography, viewers focus most on the style, placement, and interplay of images, as well as how these elements combine to tell a captivating visual story.
+
+The first step to creating an AI art prompt is to select a medium that captures the mood you’re after. Consider the following artistic medium phrases when starting an AI art prompt:
+
+A watercolor printA child’s illustrationA photographA charcoal drawingA pencil sketch
+
+A watercolor print
+
+A child’s illustration
+
+A photograph
+
+A charcoal drawing
+
+A pencil sketch
+
+2. Explain the subject
+
+Next, briefly describe your image’s primary subject. Include specific details and keywords to generate your target image if you have a specific subject in mind. Alternatively, you could aim for abstract subjects, such as emotions, theories, or concepts, to test the limits of AI art.
+
+Here are a few examples of AI prompts with a medium and subject:
+
+A watercolor print of a samurai warriorA child’s illustration of a fairy landscapeA photograph of an Irish pubA charcoal drawing of fearA pencil sketch of Sainte-Chapelle
+
+A watercolor print of a samurai warrior
+
+A child’s illustration of a fairy landscape
+
+A photograph of an Irish pub
+
+A charcoal drawing of fear
+
+A pencil sketch of Sainte-Chapelle
+
+3. Experiment with descriptive details
+
+A prompt with only a medium and subject might be too vague to generate the images you’d like. After viewing a few initial options, refine your prompt with adjectives and details, such as color schemes, patterns, and textures.
+
+You can also test stylistic elements like riffs on famous artists, pop culture references, or artistic movements. Play around during this phase as you search for your ideal picture.
+
+Here are the same AI image prompts with added details:
+
+A watercolor print of a samurai warrior in the style of Caspar David Friedrich A child’s illustration of a charming fairy landscape at duskA nostalgic photograph of a dingy Irish pub in black and whiteA charcoal drawing of fear with bright laser beamsA pencil sketch of Sainte-Chapelle in a comic book style
+
+A watercolor print of a samurai warrior in the style of Caspar David Friedrich
+
+A child’s illustration of a charming fairy landscape at dusk
+
+A nostalgic photograph of a dingy Irish pub in black and white
+
+A charcoal drawing of fear with bright laser beams
+
+A pencil sketch of Sainte-Chapelle in a comic book style
+
+4. Consider perspective, lighting, and composition
+
+More advanced details — including the lighting source, framing, and resolution — will impact the quality and composition of your image. If the background of your picture is too busy, add some blur behind the subject. And try reformatting your image’s size and aspect ratio to change the impression of the artwork.
+
+Some examples of how to put these refinements into words include:
+
+A watercolor print of a samurai warrior in the style of Caspar David Friedrich with a rough canvas texture A child’s illustration of a charming fairy landscape at dusk with soft lighting A nostalgic photograph of a dingy Irish pub in black and white with blurred bordersA charcoal drawing of fear with bright laser beams at 1024 x 1024 pixelsA pencil sketch of Sainte-Chapelle in a comic book style, aspect ratio 3:1
+
+A watercolor print of a samurai warrior in the style of Caspar David Friedrich with a rough canvas texture
+
+A child’s illustration of a charming fairy landscape at dusk with soft lighting
+
+A nostalgic photograph of a dingy Irish pub in black and white with blurred borders
+
+A charcoal drawing of fear with bright laser beams at 1024 x 1024 pixels
+
+A pencil sketch of Sainte-Chapelle in a comic book style, aspect ratio 3:1
+
+AI art prompt ideas for inspiration
+
+There are endless creative possibilities for AI-generated art, but a few genres have become popular among artists. If you’re in a creative rut or feel overwhelmed by all AI offers, consider these popular categories to inspire your next digital creation.
+
+Imitate a famous artist’s style
+
+Add flair from history’s finest artists when prompting your AI art generator. Try recreating Matisse’s bright bursts of color, Rembrandt’s impeccable shading, or Van Gogh’s hypnotic vortices. Just be sure to stick to artists of a bygone era (whose images are free to the public domain) to avoid copyright issues.
+
+Here are a few examples of using an artist’s style in your AI prompts:
+
+An oil painting of King Tut in the style of Alphonse MuchaAn etching of a Volkswagen in the style of Albrecht DürerA woodblock print of London in the style of Hokusai
+
+An oil painting of King Tut in the style of Alphonse Mucha
+
+An etching of a Volkswagen in the style of Albrecht Dürer
+
+A woodblock print of London in the style of Hokusai
+
+Art movements and historical eras
+
+If you can’t choose a particular artist to mimic, consider adding a broad artistic movement to your prompt. You can try art-specific “-isms” — like Impressionism, Surrealism, and Primitivism — or experiment with the styles of historical eras, such as the Roaring 20s, the Middle Ages, or Ancient Egypt. And if you’re looking for a contemporary feel, include elements of pop culture in your prompts, like video games, iconic films, and internet memes.
+
+Here are a few examples of using art movements, history, and pop culture in prompts:
+
+A photograph of a seated Santa Claus in the style of film noir A painting of an abandoned Bates Motel in the style of FauvismA watercolor portrait of Pac-Man in the style of Ancient Chinese painting
+
+A photograph of a seated Santa Claus in the style of film noir
+
+A painting of an abandoned Bates Motel in the style of Fauvism
+
+A watercolor portrait of Pac-Man in the style of Ancient Chinese painting
+
+Futuristic or 3D renderings
+
+Go beyond the 21st century and develop images of a future filled with blazing neon lights, giant LED screens, or bioluminescent flying saucers. Since AI is at the cutting-edge of technology, it’s no wonder many artists feel inspired to depict futuristic societies and push the limits of AI’s 3D effects. Use terms like “futuristic,” write a specific year, or explore popular keywords like “hyperrealistic,” “ultrareal,” or “Unreal Engine” to inspire your images.
+
+A few future-focused AI art prompts include:
+
+A hyperrealistic portrait of a silver cyborg in the style of the “Mona Lisa”A pixelated 3D rendering of a skyscraper at midnight, dramatic lightingA picture of a robot wearing a clown suit, Unreal Engine
+
+A hyperrealistic portrait of a silver cyborg in the style of the “Mona Lisa”
+
+A pixelated 3D rendering of a skyscraper at midnight, dramatic lighting
+
+A picture of a robot wearing a clown suit, Unreal Engine
+
+Typography and text art
+
+AI can transform your written words into a chosen visual aesthetic or unique piece of art. Use it to build a word collage around a theme or create eye-catching calligraphy. Those involved in advertising, marketing, or graphic design might try generators with this feature to create a font on-point for their brand.
+
+A few examples of AI art prompts incorporating typography include:
+
+A portrait of a mother and child shaped like the word “love”A word collage forming the word “hope,” yellow and bright greenWrite “pillows and plush toys” in a fluffy blue font, moon-shaped logo
+
+A portrait of a mother and child shaped like the word “love”
+
+A word collage forming the word “hope,” yellow and bright green
+
+Write “pillows and plush toys” in a fluffy blue font, moon-shaped logo
+
+Generate unique art prompts with Notion AI
+
+Notion has all you need to kickstart your creativity and develop the best AI prompts. Templates like the AI Prompt Library, AI Image Generator, and 1,000 Landing Page Prompts can help you get started. Plus, Notion AI gives teams the tools to supercharge brainstorming sessions and defeat writer’s block. Find out how Notion AI can enhance your creative processes.

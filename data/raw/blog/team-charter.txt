@@ -1,0 +1,87 @@
+Title: How to write a great team charter
+Published Date: 2023-08-21T00:00-06:00
+URL: https://www.notion.so/blog/team-charter
+
+In the fast-paced and highly competitive business world, your team members play a pivotal role in driving organizational success. But assembling a group of talented people is just the beginning — to truly harness a team’s potential, you must promote a shared understanding of their purpose, goals, and values.
+
+This is where a team charter comes into play. A tangible and static reminder of the greater purpose of their work keeps teams aligned with the company's vision, empowering your staff to do their best work.
+
+What’s a team charter?
+
+Each team within your organization operates — or at least should — like a well-oiled machine. When they work together efficiently and effectively, they can overcome any challenges that come their way. The team charter is what holds everyone together and keeps them accountable to the company’s vision.
+
+This document outlines a working group’s shared goals, strategies, and objectives. Each team within an organization might have a unique charter, particularly if work varies drastically between departments.
+
+Ultimately, a team charter should help your staff understand their place within the organization and the role they serve in moving the needle on its objectives. You can think of it like a team manifesto, impacting and driving every big decision.
+
+Team charter versus project charter
+
+A project charter is functionally the same as a team charter, only for individual projects. Instead of being team-specific, it might contain requirements and resources spanning multiple groups across your organization. You create this article during the project planning process and use it as a continuous reference point throughout the execution.
+
+Why is having a team charter important?
+
+A team charter is an opportunity for collaboration. It’s not passed down from management — it’s written by the team members.
+
+The most significant benefit of writing a team charter is cohesion. The document contains not only the specifications for how your team operates within the greater scope of the business, but also your expectations for one another. Rather than an org chart telling your team how to work together, it’s a collaborative document defining responsibilities and role clarity.
+
+And when every person on a team knows what they should be doing and how they should go about it, the process of working together becomes more effective and efficient — and less likely to produce miscommunication and conflict.
+
+A charter also promotes loyalty and productivity. Tasking each team with drafting their own communicates to employees that the company trusts them to help define their value.
+
+What to include in a team charter
+
+Your team charter can be as brief or as detailed as you choose. However, there are some general elements you want to include, no matter the depth:
+
+Team mission — clearly state the purpose and collective mission of your team, defining the overarching goal that unifies your efforts.Roles and responsibilities — have each team member list their unique role and responsibilities to provide clarity and promote accountability.Budgets and resources — determine how your team will allocate funds to projects and establish financial rules for resource spending and management.Project workflows — outline how projects will flow from initiation to completion (and make sure everyone agrees).Metrics — identify how your team will measure project successes by establishing clear metrics and key performance indicators (KPIs) to evaluate progress and accomplishments.Communication — set a communication standard, such as email, regular meetings, or Slack.Conflict resolution — establish rules and strategies for addressing and resolving any inter-team conflicts in a healthy manner.
+
+Team mission — clearly state the purpose and collective mission of your team, defining the overarching goal that unifies your efforts.
+
+Roles and responsibilities — have each team member list their unique role and responsibilities to provide clarity and promote accountability.
+
+Budgets and resources — determine how your team will allocate funds to projects and establish financial rules for resource spending and management.
+
+Project workflows — outline how projects will flow from initiation to completion (and make sure everyone agrees).
+
+Metrics — identify how your team will measure project successes by establishing clear metrics and key performance indicators (KPIs) to evaluate progress and accomplishments.
+
+Communication — set a communication standard, such as email, regular meetings, or Slack.
+
+Conflict resolution — establish rules and strategies for addressing and resolving any inter-team conflicts in a healthy manner.
+
+How to write a team charter
+
+Writing your team charter doesn't have to be a management-led process. In fact, it should be a fun team-building exercise that relies on the contributions of every team member. Get everyone together in a conference room, pull out the whiteboard, and start brainstorming your team charter with these five steps:
+
+1. Framework
+
+Start your team charter by writing down team leaders, members, and overall expectations for both the group and each individual. Share the document and have each person write down their expectations for their respective roles and responsibilities. Where do they fit into the company and the team?
+
+2. Vision and objectives
+
+Think about how your team measures successes (and, by default, failures). Write down what accomplishments make a project a success, and connect it to both the team and the company's goals. Draft a concise mission statement that sets your team on a focused path.
+
+3. Goals and milestones
+
+Start with general team goals, then break them down into objectives related to specific roles and responsibilities. What do you aim to accomplish as a team? What about as individuals? What does this look like?
+
+4. Success and progress
+
+Define KPIs, discuss resource management, and establish how the group will track progress. Your charter should include details about how you plan to hold yourselves accountable — this could include meeting schedules, project planning rules, and communication standards.
+
+5. Stay flexible
+
+When a new team member joins the team, review the existing charter and involve them in amending it. Also keep in mind that projects and goals change, which affects your team's focus and responsibilities. While you don't need to create a new charter every time something shifts, using a flexible template means quick adjustments on the fly.
+
+6. Sign off
+
+Finally, have your team sign the newly created team charter to show their commitment. Each member should feel a sense of ownership over both the document and their role within the group.
+
+Team charter example
+
+Seeing a team charter at work is one of the best ways to learn how to create your own. Check out this example, made with Notion, which you can use as a basic starting point:
+
+Team management made easier with Notion
+
+Once your team is on the same page, it’s critical to keep them there. The best way to do this? Shared digital tools.
+
+Continue your pattern of strong communication and create a digital workspace that everyone on your team can access and contribute to. Head over to Notion to find guides and templates that will help you keep the group’s work on track. Supplement your team charter with Notion's project charter template, learn about Gantt charts, and layer a project roadmap on your next initiative.

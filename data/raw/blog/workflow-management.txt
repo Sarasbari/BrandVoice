@@ -1,0 +1,91 @@
+Title: Workflow management best-practices that boost team productivity
+Published Date: 2023-05-16T00:00-06:00
+URL: https://www.notion.so/blog/workflow-management
+
+Every task you complete, from preparing to leave your house to completing a software development project, has a workflow: the steps you must take to move from start to finish.
+
+But if you’re new to a task, you need to understand what the most efficient workflow actually is. Otherwise you might waste time trying different strategies and beginning over at the start line several times. This isn’t the worst thing for personal tasks — you can always run back if you forget your keys. In the workplace, though, you can streamline every process with proper workflow management.
+
+What’s workflow management?
+
+Workflow management involves assessing every business process, documenting each workflow, and testing these steps to ensure you outline the most efficient way to do each task.
+
+Workflows can be straightforward (putting on your shoes) to mind-bogglingly complex (business processes like computer chip manufacturing). But regardless of a project’s scope, workflow management involves creating best-practice process documents and monitoring them for every task.
+
+Many businesses use workflow management systems that organize and automate tasks. But workflow management software isn’t a requirement to create efficient process outlines. All you have to do is break down your workflows into these three categories:
+
+Triggers are the events that kick off a processActivities are the tasks within the workflow, leading to its successful conclusionResults are the successful conclusion of the workflow
+
+Triggers are the events that kick off a process
+
+Activities are the tasks within the workflow, leading to its successful conclusion
+
+Results are the successful conclusion of the workflow
+
+A standard business trigger might be that a new employee emails HR requesting their break room access badge. A designated HR employee performs pre-determined activities, such as logging into the building access control tool to modify permissions. The result is that the employee now has access to the free snack rack.
+
+This example demonstrates a sequential workflow. You can only complete a sequential workflow by following it in order, finishing each step to trigger the next. Processing payroll is a sequential workflow, as completing each step, from loading timesheets to calculating bonus amounts to transmitting data to the bank, results in successful payment to your employees.
+
+Another style is a parallel workflow, which you can complete in any order. When an HR professional onboards an employee, their new team can assign tasks, the benefits team can add benefit plans, and the payroll team can enter bank information, all at once.
+
+3 workflow components
+
+All workflow types include three components found consistently in everything from formal workflow management tools to simple PowerPoint flowcharts:
+
+Input refers to any information or resources that are needed to complete a step. If your IT department is updating remote laptops, the input needed is a cloud-based file-sharing system so they can drag and drop update files onto connected laptops.Transformation is the action that takes place to move through the workflow steps, whether sequential or parallel. The IT department moves the update files, connects to the VPN, and logs into employee laptops, transferring the files from the cloud to the hard drive. They then run these files.Output is the expected result of each step, either closing the current workflow loop or leading to the next step. Congrats — they’ve updated your laptop and completed the workflow.
+
+Input refers to any information or resources that are needed to complete a step. If your IT department is updating remote laptops, the input needed is a cloud-based file-sharing system so they can drag and drop update files onto connected laptops.
+
+Transformation is the action that takes place to move through the workflow steps, whether sequential or parallel. The IT department moves the update files, connects to the VPN, and logs into employee laptops, transferring the files from the cloud to the hard drive. They then run these files.
+
+Output is the expected result of each step, either closing the current workflow loop or leading to the next step. Congrats — they’ve updated your laptop and completed the workflow.
+
+4 benefits of workflow management
+
+No matter your industry, you have repetitive processes. These repeatable tasks, like employee onboarding, payroll, and ordering office supplies, benefit from streamlined workflow documentation.
+
+Whether you have procedures you haven’t documented yet or need to begin outlining a new procedure, the benefits of workflow management are universal.
+
+1. Consistent task delivery
+
+Well-defined workflows ensure that your team understands expectations and can stay on track. And if you use a workflow automation system, you can speed up the process for everyone involved. This software can automatically ping the next responsible person for a task, or even take over some of the steps, in order to speed your team up.
+
+Testing and defining workflows also helps project managers set out appropriate timelines for employees. Those IT professionals can correctly estimate how long it'll take to update your laptop because there’s a workflow that outlines the steps and time needed to complete it.
+
+2. Boosted productivity
+
+Because your workflow software can automate and update tasks and you’ve developed the most efficient way to complete a workflow, everyone enjoys increased productivity levels. You’ve already mapped out task dependencies to avoid delays and roadblocks and considered how external factors like client review and approval affect your timeline.
+
+3. Eliminated redundancy
+
+Many automated workflow systems involve pre-defined business rules that complete tasks based on triggers. You don't need a total business process management (BPM) software suite to eliminate workflow redundancy. Something as simple as setting up a global inbox for help desk tickets eliminates time and money wasted handling repetitive requests, or finding out someone else already has.
+
+Redundancies can be a project stopper. Think about the approval process for your last project. A tested and defined approval workflow ensures the right team members receive notifications to keep your project moving forward. Without a workflow built around who needs to approve what, approvals could hang in the void and stall your project.
+
+4. Improved work culture
+
+Look around your workplace, whether physical or virtual, and consider the organization level. A more streamlined and organized workplace instills employee confidence in their organization's ability to handle, escalate, and resolve work-related issues. That confidence drives employee productivity, overall job satisfaction, and contentment. Without well-defined workflows, employees might feel confused, frustrated, and impatient.
+
+4 tips to succeed at workflow management
+
+Applying workflow management doesn't have to be a long, expensive process. It's a matter of following some best practices and examining your preferred project workflow management process.
+
+1. Set your priorities
+
+Chances are you already have workflows for plenty of processes, but things may still feel bogged down with redundancies. Meet with your stakeholders and designate a project manager to create a spreadsheet of use cases. Document all current workflows and related frustrations, adding in any process that needs refinement. Rank them by priority: your payroll processes may require a higher level of attention than giving employees access to free snacks (maybe).
+
+2. Document all workflows
+
+Every task and process needs its own well-documented workflow. Have each stakeholder document any process they own, adding flowcharts and in-depth, step-by-step documentation. This helps you develop a workflow around their tasks and train new employees.
+
+3. Consider department and team differences
+
+You can use different workflow documentation styles to meet specific team needs. The finance team might prefer a Gantt chart that prioritizes tasks and dependencies, while the operations team might want a detailed and ever-evolving flowchart. Chat with each group about the processes they want to document in order to determine their preference.
+
+4. Choose a workflow management system
+
+Once you’ve set priorities and documented your workflows while considering different documentation styles for various teams, choose a workflow management system to help you optimize your documentation. You can invest in automation software that’s designed to handle repetitive tasks or integrate workflows within an existing program, and even use customizable workflow templates.
+
+Streamline your processes using Notion
+
+Workflow management takes many forms. You might start by gaining process information, such as asking employees to use a time tracker. Or you could start with a wider-ranging product management system template. The point is to create an environment of consistency around your processes. Notion’s templates can help you create this consistency as you customize each template, from project management to content design, to suit your needs.

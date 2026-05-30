@@ -1,0 +1,55 @@
+Title: 3 common mistakes startups make that can be avoided by building a knowledge base
+Published Date: 2021-12-21T00:00-07:00
+URL: https://www.notion.so/blog/build-a-knowledge-base-to-avoid-3-most-common-startup-mistakes
+
+According to the 2019 Startup Genome report, 9 out of 10 startups fail. Other data reveals that 30% of startups dissolve while another 30% are not profitable. On the journey to starting a company, there are many pitfalls that can get in the way of your success.
+
+But building a knowledge base can help you steer clear of these obstacles. Rather than seeing it as a time-consuming annoyance, developing a knowledge base is crucial to building your company and helping it grow — from institutional knowledge to meeting notes to processes, documentation is integral to your startup’s success.
+
+Here are three problems most startups face. And how a knowledge base helps combat them (with examples from some of the fastest-growing companies out there).
+
+Lacking a single source of truth
+
+To support startups as they grow, it’s crucial to have a cohesive system in place to handle content and information across various channels to ensure smooth workflows. Without a single source of truth (SSOT), a startup is vulnerable to the effects of data fragmentation, which can lead to the duplication of work, errors, inconsistencies in production, as well as bog down overall efficiency.
+
+Bring all disparate data together in one place to establish an SSOT in a knowledge base. A single source of truth offers a centralized view of integral data and information to ensure everyone is on the same page, driving faster and more informed decision-making.
+
+Figma’s internal wiki evolves with its teams as they grow
+
+Collaborative design tool  created a knowledge base in Notion that helps keep its teams aligned across product, operations, HR, and customer ops to make sure everyone is up to speed on important content.According to Figma’s Head of Support Ops, Jason Pearson, a knowledge base must “change with you” to adapt as your team is “growing and evolving.” With Notion, the company is able to ensure that its knowledge base is a flexible, living document that gets updated with necessary information as needed to keep everyone on the same page, enhance visibility, and encourage collaboration.
+
+Headspace’s knowledge base keeps its teams aligned and up to speed
+
+As startup design teams race to get products to market, teams can run into major costly problems, such as production errors or inconsistencies in design, without effective communication, internal documentation, or a system in place to manage workflows. This can be solved with a knowledge base that keeps information and content streamlined and accessible. Meditation app Headspace’s knowledge base in Notion offers a singular source in which employees can reference core design philosophies, typography guidelines, color palettes, templates, etc., helping its product design teams obtain the information they need to stay on task.
+
+Poorly managed and fractured onboarding
+
+Disorganized and ineffective onboarding not only hurts employees’ ability to assimilate into their position and company culture — it can also negatively impact the retention rate. According to Glassdoor, onboarding is so important to a company’s retention that a satisfactory onboarding process can boost its retention rate by 82%. And since it’s so expensive to replace employees, costing “6 to 9 months’ salary on average,”  it’s in your interest to prioritize your onboarding process.A knowledge base is integral to facilitating a smooth and streamlined onboarding process that sets new hires up for success and empowers them to stay in their roles long term. With a knowledge base, startups can create a system that helps align teams around shared knowledge and a unified mission to foster a stronger sense of culture.
+
+Karrot’s knowledge base empowers new hires to higher levels of performance
+
+For South Korean marketplace app Karrot, Notion was invaluable in helping create a knowledge base to support employees during periods of growth to keep them motivated, coordinated, and engaged while helping it retain its best talent.Chris Heo, who heads up growth at Karrot, explains how its knowledge base helped “[shrink] the learning curve.” With integral information, such as the company’s mission, policies, and team anatomy all living in one centralized place from day one, new employees can function in their roles, acting with the same core values and aligned to the same culture.
+
+Levels’ internal wiki keeps team members informed and engaged in a remote-first company
+
+Metabolic and fitness coach app Levels uses Notion to create an onboarding checklist in its knowledge base. This helps employees access information they need to know, with videos and content to train at their own pace. At a remote-first company, it can be harder to engage employees effectively — but the knowledge base is vital to help keep new employees in the loop, so nothing gets missed.
+
+Weak cross-functional collaboration
+
+Uncoordinated cross-functional teams lead to poor communication, misaligned objectives, less committed employees, and inefficient deliveries. A knowledge base that encourages collaboration is essential to help a new venture smoothly operate with limited resources. By helping cross-functional teams coordinate to foster synergy, a knowledge base helps enhance employees’ commitment to reach their goals while setting a standard that cultivates ownership and encourages higher-quality performance.
+
+According to the Harvard Business Review, effective cross-functional collaboration is crucial to a project’s success, reporting that projects with strong cross-functional collaboration “had a 76% success rate.”
+
+Codecademy’s knowledge base enhances visibility across team workflows
+
+Interactive coding platform Codecademyused Notion to develop a knowledge base that keeps its engineering, product, and data science teams synergized and mission-focused. Prior to using Notion, its engineering team relied on Google Docs in conjunction with several other disparate apps to maintain workflows. Zoe Bachman, Codecademy’s curriculum product manager, explains how, before the company had its knowledge base set up in Notion, teams would need to “send meeting recap emails all time” to keep each other up-to-date, slowing down operational efficiency. Its internal wiki in Notion helps prevent silos, offering transparency into workflows and enabling cross-functional teams to easily find out the status of engineering projects.
+
+Its knowledge base also includes a Metrics Dictionary that clearly outlines the company’s KPI metrics to cultivate accountability and keep employees on track to reach their goals.
+
+A knowledge base is integral to startup growth
+
+Primer, a payment automation platform that doubled its headcount in the past year, attributes its knowledge base in Notion with supporting its rapid growth. Each new employee at Primer is provided with their own personalized onboarding guide that walks them through Notion’s processes and introduces them to the team. “We can document everything and promote self exploration of Notion through our onboarding. That initial knowledge transfer is super important,” says Erin Potter, head of people and operations at Primer.
+
+Primer’s employees have to keep on top of the latest developments in the complex and constantly changing payments industry. They use Notion as an information hub that allows everyone to stay informed.
+
+Primer even saves rejected ideas in this flexible company wiki, so its designers and engineers can learn from past thinking — a vital process in its culture of continuous learning. Creating team homepages that are customizable with gifs and images helps its fast-growing, fully-remote teams feel united. “We have a brand new data team that didn’t exist before,” says Monika Ocieczek, Primer’s head of product design. “They have a home on Notion, which makes them feel more established.”

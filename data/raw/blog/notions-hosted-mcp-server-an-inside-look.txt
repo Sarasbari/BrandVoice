@@ -1,0 +1,97 @@
+Title: Notion’s hosted MCP server: an inside look
+Published Date: 2025-07-15T00:00-07:00
+URL: https://www.notion.so/blog/notions-hosted-mcp-server-an-inside-look
+
+When Anthropic announced Model Context Protocol (MCP) in November 2024, the vision was simple but powerful: Align tech companies and builders around a universal language to discover and interact with tools.
+
+MCP goes beyond conventions like REST, which has powered web APIs for decades. It provides context to large language models (LLMs) so they know when and how to use each of the tools a provider like Notion, Figma, or Stripe broadcasts. Skipping the usual process of piecing together technical docs to build a traditional API integration, customers interact with systems using natural language as part of a conversation or workflow.
+
+Cursor and Claude Code are MCP clients, or LLM “frontends,” that act as end user–facing agents. They convert natural-language requests into calls to actions (“tools”) offered by different service providers called MCP servers—think Notion, Stripe, or Figma.
+
+Earlier this year, Notion began to get requests for an MCP server. We heard from large enterprises embracing AI-first workflows into their knowledge-work and product-development processes. We also heard from individual toolmakers, developers, and Notion Ambassadors who wanted an easy solution to migrate data into Notion and interact with their workspaces from familiar LLM tools like Cursor and Claude Desktop.
+
+As an initial proof-of-concept, we wanted to provide Notion’s existing API capabilities as AI-invokable actions, proving how the “tools” model unlocks productivity in agentic workflows.
+
+You might see posts out there boasting MCP as the “winner” over REST API documentation and specification tools like OpenAPI. While we’re excited about MCP’s popularity, we see these technologies working together. Even with MCP, there’s a need for structured conventions. The TypeScript SDK for MCP supports the Zod library for defining each tool’s spec.
+
+Fast-forwarding to today: we’ve built a code-generation pipeline for Notion’s hosted MCP server, converting our generated OpenAPI schemas to Zod and plumbing those into the hosted MCP server’s tools.
+
+First release: open-source MCP server
+
+We started by releasing a downloadable notion-mcp-server in early April. It could be installed in Cursor or Claude Desktop (though it required technical knowledge). Setup involved creating a new Notion API integration and either copying the API key into MCP headers or building a Docker image. Once configured, it enabled flows like creating pages in Notion from AI agent chat.
+
+Behind the scenes, the library parsed Notion’s public OpenAPI spec, a formal description of available API endpoints and their interfaces. It processed this file, converting MCP tool calls into HTTP API calls to Notion’s public API using your configured API key. Each API endpoint mapped 1:1 to an MCP tool in the server. The MCP server received requests from the MCP client and translated them to API calls, personalized for your download.
+
+Though adoption was challenging and functionality was limited, we wanted to move quickly to get something in the hands of our users. Feedback from early adopters revealed two critical insights: the technical barrier was too high for widespread adoption and the 1:1 API mapping created suboptimal experiences for AI agents, like high-context token consumption from working with hierarchical block data in JSON.
+
+Today: all-in-one remote MCP solution
+
+These learnings shaped our next iteration—we’ve worked hard to expose a powerful combination of existing and new tools for anyone to use, deepening Notion’s value as a connected workspace. Imagine going from a requirements doc in Notion to a working prototype in Cursor, updating task statuses on the fly and updating project stakeholders, all without leaving your code editor.
+
+The key insight: It’s now easier for AI agent tools to plug into your Notion workspace, empowering a more intuitive agent experience by:
+
+Hosting our own MCP server with a rapid development loop using our existing codebase and internal tooling. Notion can quickly ship improvements without requiring users to download updated packages.Creating a single central integration that exposes a tailored suite of tools optimized for AI agents—not HTTP calls to the API. We can skip RESTful web API practices and ship “private” functionality slices with LLM-friendly descriptions, accessible only through the MCP server, for a delightful agent experience.
+
+Hosting our own MCP server with a rapid development loop using our existing codebase and internal tooling. Notion can quickly ship improvements without requiring users to download updated packages.
+
+Creating a single central integration that exposes a tailored suite of tools optimized for AI agents—not HTTP calls to the API. We can skip RESTful web API practices and ship “private” functionality slices with LLM-friendly descriptions, accessible only through the MCP server, for a delightful agent experience.
+
+Now, each user goes through a “one-click” OAuth authorization flow to securely connect to the same public integration. Users install MCP in their workspace, granting the permissions they have normally in the app to the MCP integration.
+
+After successful connection, the flow redirects back to the tool they were using (like Cursor). Our MCP server manages sessions and securely stores the API token from the OAuth exchange to authenticate with Notion’s public API when they make tool calls.
+
+We worked closely with Cursor’s engineering team to prioritize a delightful OAuth connection experience using streamable HTTP. We also support SSE (server-sent events) for compatibility with more clients, as it’s the other major transport protocol recommended for MCP.
+
+Beyond tech stack and hosting, we also needed to decide which AI tools to offer. Our approach: work with the team building the in-app Notion Agent to expose AI-first tools preferably over existing /v1/ API endpoints.
+
+To build the set of MCP tools, we combined two kinds of operations under the hood:
+
+Notion Agent–oriented tools. For example, create-pages and update-page are new, ground-up rewrites of existing Create & Update Page APIs, providing interfaces that make more sense for an AI agent conversation than a traditional, rigid web API. Built with Notion-flavored Markdown in mind, with tool descriptions and responses tailored for agentic workflows rather than deterministic, structured JSON for backend integrations.Markdown provides efficient content density per LLM token, requiring fewer tool interactions and less cost than the open-source MCP server for common use cases.The search tool fits here too. We exposed the existing v1 search API to cover simple use cases or accounts without Notion AI enabled, but the main search tool supports semantic search via questions, surfacing pages across your Notion workspace plus over ten third-party connected apps!Existing API tools. Borrowing from the open-source MCP server’s success, we closed functionality gaps by adding MCP tools that wrap existing v1 APIs. For example, the create-comment tool v1 API functionality, augmented with AI-friendly tool descriptions to avoid rough edges from the open-source package.These prompts give your MCP client context on when and how to use each tool.
+
+Notion Agent–oriented tools. For example, create-pages and update-page are new, ground-up rewrites of existing Create & Update Page APIs, providing interfaces that make more sense for an AI agent conversation than a traditional, rigid web API.
+
+Built with Notion-flavored Markdown in mind, with tool descriptions and responses tailored for agentic workflows rather than deterministic, structured JSON for backend integrations.Markdown provides efficient content density per LLM token, requiring fewer tool interactions and less cost than the open-source MCP server for common use cases.The search tool fits here too. We exposed the existing v1 search API to cover simple use cases or accounts without Notion AI enabled, but the main search tool supports semantic search via questions, surfacing pages across your Notion workspace plus over ten third-party connected apps!
+
+Built with Notion-flavored Markdown in mind, with tool descriptions and responses tailored for agentic workflows rather than deterministic, structured JSON for backend integrations.
+
+Markdown provides efficient content density per LLM token, requiring fewer tool interactions and less cost than the open-source MCP server for common use cases.
+
+The search tool fits here too. We exposed the existing v1 search API to cover simple use cases or accounts without Notion AI enabled, but the main search tool supports semantic search via questions, surfacing pages across your Notion workspace plus over ten third-party connected apps!
+
+Existing API tools. Borrowing from the open-source MCP server’s success, we closed functionality gaps by adding MCP tools that wrap existing v1 APIs.
+
+For example, the create-comment tool v1 API functionality, augmented with AI-friendly tool descriptions to avoid rough edges from the open-source package.These prompts give your MCP client context on when and how to use each tool.
+
+For example, the create-comment tool v1 API functionality, augmented with AI-friendly tool descriptions to avoid rough edges from the open-source package.
+
+These prompts give your MCP client context on when and how to use each tool.
+
+This combined strategy provides expansive functionality while ensuring details like Notion’s URLs and IDs work seamlessly across tool calls in your chat window.
+
+Highlight: Notion-flavored Markdown
+
+The Notion MCP beta gave us an opportunity to trial a new way of representing page content that’s much easier for AI agents to create, edit, and view. We pioneered an enhanced “Notion-flavored” Markdown spec, creating a powerful markup language tailored to Notion’s broad set of blocks.
+
+If you’ve followed us for a while, you might remember our 2022 blog post about building the Notion API. Back then, we rejected Markdown in favor of JSON to allow for expressiveness like rich-text colors, databases, and other Notion-specific editing that CommonMark Markdown can’t model.
+
+Three years later, we’ve heard about the challenges of making several API requests to work with block children in a hierarchical JSON format. We came back to Markdown to introduce feature parity with Notion blocks, trialing this approach exclusively in our remote MCP server.
+
+Here’s a sneak peek at the Notion-flavored Markdown spec:
+
+Callouts
+
+Columns
+
+Pages
+
+Databases
+
+More details are available in the tool descriptions exposed via the MCP server. In fact, you can ask your AI agent in chat to summarize the Notion-flavored Markdown spec for you! Otherwise, leave the implementation details to us and describe in natural language what you want to add or edit in a page—let the LLM do the magic.
+
+Looking forward
+
+This launch represents just the beginning of our journey to make Notion the ultimate hub for AI-powered knowledge work. As we continue expanding our MCP capabilities, we’ll keep focusing on what matters most: making powerful tools accessible to everyone, regardless of technical expertise.
+
+We’re also continuing to collaborate with Cursor and other teams to lead the way on new conventions that make MCP easier to discover, more secure, and more dependable, like marketplaces of trusted MCP servers and clients and server discovery protocols.
+
+We’re thrilled to see what you’ll build with Notion MCP! Let us know what you create on social at @NotionHQ.

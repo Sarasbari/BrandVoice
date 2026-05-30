@@ -1,0 +1,45 @@
+Title: How Redkite improves productivity and increases engagement with Notion
+Published Date: 2024-01-02T00:00-08:00
+URL: https://www.notion.so/blog/notion-redkite
+
+Founded in 2018, Redkite is a data change partner that helps other companies and organizations set up their data for effective use, discover hidden insights, and integrate those insights into better, faster, and more simple decision workflows. In its early days as a startup, Redkite didn't have any company-wide platforms to share information across the team. As a hybrid company, Redkite wanted to ensure employees had a single source of truth to get what they need to do their jobs, as well as feel connected to the broader business — which as a hybrid team is really important for them.
+
+Today, Notion serves as Redkite’s company wiki and information sharing platform — which all starts with the Redkite homepage. The goal of the homepage is to serve as a “one-stop shop” to keep Redkite employees informed and connected, as well as provide a central place to share information. Eloise Broadway, a senior business and operations consultant at Redkite, refers to it as the “front door” to the business.
+
+“We use Notion as one source of truth for the entire company, allowing teams to share business area specific information with the broader organization, as well as access the relevant resources for their roles. It truly is the front door to our business," she said.
+
+Eloise recently shared the approach she took to create the Redkite homepage at a Café Notion event in London, which brought together local customers for a day of learning and exchanging ideas on how to take their use of Notion to the next level.
+
+Here are a few of her insights that you can utilize if you’re looking to create something similar for your company.
+
+Include everything employees need to get work done
+
+Company policies, brand assets, communication tools, even how to use Notion — in order to truly serve as a one-stop shop for Redkite employees to get their jobs done, everything has a home on the Redkite homepage. One asset Eloise finds particularly valuable to include is the company operating model, which details Redkite’s organizational structure.
+
+“Our operating model gives each person at Redkite a home within the company," she said. "If they look at our organizational structure, they know exactly where they’re sitting and who they’re reporting to. We think it’s really important that everybody feels they’ve got that home – so pulling that into the homepage is really vital for the team to feel connected to the business.”
+
+Like most businesses, Redkite employees use a variety of tools to get work done, such as time tracking, HR management, developer tools, and reporting and analytics. All of these applications are listed on the Redkite homepage in a ‘Tools and Links’ section. As Eloise puts it, this section contains “everything that the team could need to be able to do their day-to-day role with a click of a finger.”
+
+Each team within Redkite also has its own section on the homepage, allowing them to share their vision, team members, and relevant resources. According to Eloise, sections like these are “a nice space for each business area to build out and feel a little more human — which as a hybrid company is really important for us.”
+
+Disseminate information to additional platforms
+
+The Redkite homepage houses weekly news updates and upcoming events, which are automatically broadcasted to Slack via Notion’s Slack integration. By connecting Notion to Slack, not only does it help ensure Redkite employees get the latest updates, but it also gives the company a single place to centralize information. “It just ties the whole business together,” states Eloise.
+
+Increase employee engagement by including company culture
+
+As a hybrid team, it’s particularly useful when you’ve got people working across all locations to know they can come to one source of truth — and that for Redkite is Notion. When an upcoming office move forced the entire company to work fully-remote, the Place and Events team saw an opportunity to rebuild the culture that a lot of the team were missing: they created a page in Notion in order to get employees excited about coming back to the office.
+
+The team utilized Notion’s gallery view to showcase all the amenities that will be available, such as dry cleaning and gym memberships, as well as social activities. There is also a section dedicated to ‘your first visit to the office’, which details how to access a desk, book a meeting room, connect to the Wi-Fi, and more. Shares Eloise, “This really helps us foster a connected workforce, which we know is important for engagement and building a culture across the course of the business.”
+
+Incorporate feedback for employees to feel seen and heard
+
+Redkite values input from the wider team and frequently conducts surveys to gather valuable feedback. One request they received was to provide more clarity into the current initiatives that are driving the business forward. In response, Redkite added a corporate initiatives tracker to its homepage in Notion, providing more details and empowering employees to know who is running which one, and how to get involved. They believe that a transparent approach to business initiatives fosters a more engaged and informed workforce.
+
+"There's no excuse then for the team not knowing what all of us are working on across the business," said Eloise.
+
+Organize information to improve usability
+
+It might sound basic, but a table of contents helps to greatly improve the usability of the Redkite homepage, enabling Redkiters to more easily find the information they’re looking for without having to “scroll and scroll and scroll.”
+
+“We have hundreds of pages sitting within Notion and we want the important ones to be pulled out at the very start,” explains Eloise.

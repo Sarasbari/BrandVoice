@@ -1,0 +1,99 @@
+Title: Work breakdown structure: An essential project management tool
+Published Date: 2023-08-15T00:00-06:00
+URL: https://www.notion.so/blog/work-breakdown-structure
+
+On cross-functional projects, no team has the same way of working.
+
+The marketing team might organize tasks in straightforward to-do lists. Developers might use sprint-planning tools like burndown charts. And the quality assurance team might choose Kanban boards to visualize the timeline holistically.
+
+This variation is a plus for teams — but presents a challenge for project managers who want to view all pending tasks at a glance.
+
+Enter the work breakdown structure (WBS). This high-level project planning document allows leaders to keep their fingers on the pulse of all tasks, no matter how individual teams work.
+
+What’s a work breakdown structure?
+
+A WBS in project management is what teams use to visualize all tasks within a certain project at once. This diagram breaks the overall scope into deliverables, phases, work packages, and tasks to organize every step.
+
+WBSs are hierarchical project deconstructions, meaning that the final output or principle deliverable lives at the top of the chart, and phases exist under it. Within each phase, you can create work packages, which are groups of related tasks. Breaking it up makes all the information easier to digest.
+
+The benefits of using a work breakdown structure
+
+A WBS is an essential planning document for projects with lots of moving parts. Here are a few other benefits of using one:
+
+Guides project schedules — when you create a WBS, you can clearly understand pending work and plot it on calendars. Considering the magnitude of tasks from this high-level viewpoint lets you schedule work with the future in mind, preventing late deliveries and stressful deadlines. Helps with resource allocation — a WBS gives you a comprehensive look at the work ahead so you know what resources to assign and where, like funds, time, and personnel. Excellent resource allocation prevents project delays due to staffing or financial lapses, encouraging timely, quality deliveries and on-budget work. Promotes risk management — a WBS helps you spot risk before it happens, offering a clear view of the route ahead and potential obstacles that could arise. Solid risk management lets you equip your teams with tools and resources for preventing and correcting issues.
+
+Guides project schedules — when you create a WBS, you can clearly understand pending work and plot it on calendars. Considering the magnitude of tasks from this high-level viewpoint lets you schedule work with the future in mind, preventing late deliveries and stressful deadlines.
+
+Helps with resource allocation — a WBS gives you a comprehensive look at the work ahead so you know what resources to assign and where, like funds, time, and personnel. Excellent resource allocation prevents project delays due to staffing or financial lapses, encouraging timely, quality deliveries and on-budget work.
+
+Promotes risk management — a WBS helps you spot risk before it happens, offering a clear view of the route ahead and potential obstacles that could arise. Solid risk management lets you equip your teams with tools and resources for preventing and correcting issues.
+
+The 3 levels of a work breakdown structure
+
+WBSs branch out from high-level outputs to the smallest tasks teams will perform to generate those deliverables, organizing each into levels. Here are the three central elements of a WBS:
+
+Level 1: The project objective
+
+This part of the diagram should reflect the critical, final project deliverable, sometimes known as a parent task. A tech company creating an application should consider the finished software as the general project objective. In the WBS, the parent task should be straightforward — no more than a few words. The rest of the chart will dive into the details.
+
+Level 2: Project phases
+
+The second level of the WBS diagram should show project phases or high-level tasks. Each team might use this section differently. Some may create phases, like “planning” or “execution,” while others provide more detail, like “develop a branding scheme” or “design the interface.”
+
+Level 3: Work packages
+
+Work packages are groups of tasks and subtasks within the project phases. A development team could break “design the interface” into tasks like “create buttons” and “generate a login screen.” This is usually the largest level, because it outlines all of your action items.
+
+The types of work breakdown structures
+
+WBSs are flexible, allowing your team to visualize diagrams in the way that works best for them. And if you’re creating a WBS in project management software like Notion, you can toggle between viewing styles. Here are a few common models:
+
+Spreadsheets — teams using this model can section off deliverables, phases, and tasks in columns or rows. One column could read “Level 1,” representing deliverables, and another “Level 2,” representing phases, and so on. Flowcharts — flowcharts are common for WBSs because they make it easy to visualize the breakdown of work. The deliverable heads up the document and then branches off into the phases of the project, which branch off into tasks. Teams can also split subtasks off from tasks. Gantt charts — Gantt charts plot tasks against time, with the list of activities in a column on the left and horizontal bars marking the duration of each task across the timeline. You can turn a WBS into a Gantt chart using swimlanes, which involves breaking the horizontal space into “lanes” for each project phase. You can also signal dependencies by placing arrows between interrelated tasks.
+
+Spreadsheets — teams using this model can section off deliverables, phases, and tasks in columns or rows. One column could read “Level 1,” representing deliverables, and another “Level 2,” representing phases, and so on.
+
+Flowcharts — flowcharts are common for WBSs because they make it easy to visualize the breakdown of work. The deliverable heads up the document and then branches off into the phases of the project, which branch off into tasks. Teams can also split subtasks off from tasks.
+
+Gantt charts — Gantt charts plot tasks against time, with the list of activities in a column on the left and horizontal bars marking the duration of each task across the timeline. You can turn a WBS into a Gantt chart using swimlanes, which involves breaking the horizontal space into “lanes” for each project phase. You can also signal dependencies by placing arrows between interrelated tasks.
+
+Key components of a work breakdown structure
+
+No matter what WBS model your team uses, try adding some extras to the doc and level up the project planning process. Aside from listing tasks, deliverables, and phases, consider the following components:
+
+Task descriptions — provide a few words to describe the activity so any team member or stakeholder who’s viewing it has a general idea of the work. Dates — the Gantt chart model inherently encourages putting task start and end dates, but this is a good practice no matter what document style your team uses.Task owner — assign tasks to team members so everyone’s clear on their to-do list and can view what tasks others are working on. Task status — include a status column if you’re using a spreadsheet, or tags if you’re using a chart or graph, to signal whether a task is pending, in progress, or complete.
+
+Task descriptions — provide a few words to describe the activity so any team member or stakeholder who’s viewing it has a general idea of the work.
+
+Dates — the Gantt chart model inherently encourages putting task start and end dates, but this is a good practice no matter what document style your team uses.
+
+Task owner — assign tasks to team members so everyone’s clear on their to-do list and can view what tasks others are working on.
+
+Task status — include a status column if you’re using a spreadsheet, or tags if you’re using a chart or graph, to signal whether a task is pending, in progress, or complete.
+
+How to create a work breakdown structure (+ example)
+
+Creating a WBS is easy once you know what tasks are on your team’s plate. Get started with this step-by-step guide:
+
+1. Determine the project scope
+
+Decide what work the team will perform during the project and what’s outside the scope. This prevents you from going overboard and potentially wasting time on tasks that don’t contribute to your bottom line.
+
+When creating an application, a software company would limit which features its first development round includes. This ensures delivering a complete and functional product to the client without performing work the end user doesn’t want or need.
+
+2. Identify deliverables
+
+In the context of a WBS, the deliverable is the project's final output. You can use other planning systems that break the main deliverable into smaller pieces, but with a WBS, it’s best to stick with a primary output or a few very high-level ones. You’ll split it up later. In the case of the development team, the key deliverable would be the application itself.
+
+3. Define project phases and tasks
+
+In this step — sometimes called decomposition — you’ll break deliverables into phases, then tasks, then subtasks, working from the most substantial pieces of work to the smallest. This outlines the action plan and helps shape your team’s to-do list. A development team would break the application deliverable into phases like “design” and tasks like “check for quality assurance.”
+
+4. Add in extras
+
+Now for the finishing touches. Map dependencies, assign tasks and due dates, and create status markers. Teams — especially those doing iterative development work — might want to consider moving WBS tasks into Agile or Scrum planning tools. That way you can chart tasks in sprints and maintain a laser level of focus on status and due dates.
+
+Stay on top of your tasks with Notion
+
+Notion gives you and your team the tools to run more streamlined, efficient projects. And it all starts with giving you the guides and templates to start planning.
+
+Use Notion’s to-do list to create exhaustive lists of the activities your team must complete on a project. Then use the roadmap boilerplate to create a high-level project schedule. Morph Notion’s task management board into a WBS by adding columns for deliverables, phases, and other information your team needs to manage the project workload.

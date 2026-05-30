@@ -1,0 +1,81 @@
+Title: What is project scope?
+Published Date: 2023-02-09T00:00-06:00
+URL: https://www.notion.so/blog/what-is-project-scope
+
+Defining a project scope sets boundaries for your project without fencing it in.
+
+Imagine you’re overseeing the development of a new mobile app. You have a deadline to meet and a budget to stick to. But you’ve got so many ideas, a team of excited developers, and stakeholders with high expectations.
+
+You need to set a project scope to avoid getting off track.
+
+Let’s unpack what project scope is, the differences between project and product scope, and what’s included in a project scope statement.
+
+There’s no project without project scope
+
+Project scope defines what a project will and won’t include. It gives an overview of crucial goals and the resources you need to achieve them.
+
+Approaching a project without planning ahead usually leads to more problems down the line. Clearly outlining a project's objectives, deliverables, and constraints set your team up for success and should be your first step when approaching a new project.
+
+Here’s a project scope example. You’ve gone through the whole process of developing protective phone cases — materials, manufacturing, design, and marketing — and it’s time to test their protectiveness. According to your project scope, you have two months and $20,000 for the testing process, which covers the cost of test phones and new prototypes based on your findings. Project scope helped you plan ahead and make sure you have the resources you need.
+
+Project scope versus product scope
+
+Developing a product is, in itself, a project — but scoping a product and a project focuses on different elements.
+
+Product scope refers to the features and functions of a final product. Project scope is the steps and boundaries of completing any project, including developing a new product. Think of product scope as a small part of project scope. It informs the time and money you need to make a product as great as it can be, defining one stage of the entire project.
+
+Consider this example: You’re developing a new fitness app. The project scope includes all the tasks and resources required to complete the project, such as designing the user interface (UI), coding the app, and testing it for bugs. But the product scope includes the features and functions of the final app, such as adding friends, making a workout calendar, and tracking fitness goals.
+
+Completing everything in the product scope is part of your project scope, but the project includes more than just the product scope. The project scope will cover the steps before and after development, like conducting market research and planning a product launch.
+
+How do I define the scope of a project?
+
+The scope of the project looks at the big picture, so consider every important step before getting into the nitty-gritty. Assessing the details isn’t an easy task, but it’s worth it to understand what needs to be done and the time, effort, and resources required to complete it.
+
+Here are four steps to help you get started:
+
+1. Define the specifics
+
+Every stage of the project will focus on specific details and metrics to make meaningful progress toward the end goal. For each step, identify potential objectives and constraints alongside desired outcomes and objectives.
+
+You need to know your goals before you can reach them. Defining the specifics will determine what you can and can’t do, which helps set realistic and impactful goals during the project life cycle.
+
+If you’re developing new software, start by considering what resources you have (or need), like a design and development team, a dedicated project manager, and a budget for design, development, and testing. Identifying these variables ahead of time will help you organize what needs to get done — like hiring a developer or crowdfunding more money — before diving into the actual project.
+
+2. Set deadlines for deliverables
+
+Deliverables are the items or outputs teams produce during a project. And deadlines help them deliver on track.
+
+For instance, if you’re launching a website, you’ll need to set deadlines for every stage in the development process, like designing the layout, creating a prototype, and creating a report after user testing. The final product of each of these steps, like a layout mockup and user report, are deliverables teams must complete on time to keep things running smoothly.
+
+3. Create a budget
+
+Budget is a big factor in determining your project’s scope. Figure out what you can afford or how much stakeholders will pay for the project, then estimate how much every step will cost. Having leeway is nice, should your projections be off or unexpected costs pop up.
+
+For example, when designing a fitness app, you might realize that your original UI didn’t include an FAQ that users reported wanting in the original tests. Adding this element to improve the design might require an extra round of revisions from the designer, driving up the cost of the project. But this is a necessary cost to make sure customers enjoy the product. Good thing your budget had some extra funds allocated for situations like this.
+
+4. Write a project scope statement
+
+What’s the point of a project scope if you can’t share it? Creating (and sharing) a project scope statement is crucial to getting team members on the same page and outlining the path to success. This piece of text should succinctly describe the objective, requirements, deliverables, constraints, and timeline to completion.
+
+What should a project scope statement include?
+
+Let’s unpack what a project scope statement actually is. It should be an organized, beginning-to-end description of a project’s goals and limitations, usually 1–2 pages. You can start from scratch or follow a project scope template to create proper documentation before starting. Adding these statements to shared workspaces, like a team Notion, ensures everyone has access to the project’s scope when they need it.
+
+No matter how you write your statement, here are some key elements to include:
+
+Objective — state the project's goal, or goals, clearly. Writing exactly what you want to achieve helps determine what you need to do to get there.
+
+Deliverables — lay out the specific items, deliverables, or outputs your team will produce as part of the project. This should include documents, prototypes, and final products.
+
+Scope of work — the scope of work in a project is the specific tasks and activities you’ll complete. This includes your deliverables and the work it’ll take to get them done.
+
+Exclusions — a project scope statement should also specify what your project won’t do, such as features or functions that aren’t feasible given the constraints. Defining this before you start prevents scope creep, or your team slowly including more and more elements in the final project outside of the scope.
+
+Constraints — itemize the limitations that could impact your project, like budget, project timeline, personnel, or resources.
+
+Find the best tools to help you with project management
+
+The right project management tools and processes make a big difference when it comes to workflow and project planning. Notion’s all-in-one project management software lets you plan, share, and execute with ease.
+
+We’ve got templates to help you develop and launch an app, create a content calendar, and plan a project.

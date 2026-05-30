@@ -1,0 +1,65 @@
+Title: As AngelList scales, Notion helps keep teams organized, aligned, and moving with speed
+Published Date: 2022-11-29T00:00-04:00
+URL: https://www.notion.so/blog/how-angellist-uses-notion
+
+When your company is in hyper-growth, documentation can feel like an afterthought. But as a remote, rapidly growing company, AngelList knew it needed to instill a culture of writing.
+
+Notion is how AngelList documents and shares information, from institutional knowledge as part of the onboarding process, to product specs, to meeting notes. The company started using Notion as a team of 10, and now with over 150 employees, Notion is the tool every department uses.
+
+When everyone can easily find and reference this information, teams can focus on the important work required to support a growing company — instead of searching through multiple apps to get what they need.
+
+Moving from knowledge siloed with individual people to codified documentation — so teams knew what was happening and where to get information
+
+Write and build organized documentation in Notion as wikis, product docs, and meeting notes, helping teams get information faster and stay aligned on projects
+
+Company size: 150Industry: TechnologyInsights from: Xinran Xiao, Head of Product & EngineeringTeam(s) using Notion: Product, Engineering, Sales, Customer Service, Legal, Data, Ops, People, and MarketingWhy did they choose Notion?: Customizability — Notion’s modular block structure allows any team to customize it to their needs
+
+Company size: 150
+
+Industry: Technology
+
+Insights from: Xinran Xiao, Head of Product & Engineering
+
+Team(s) using Notion: Product, Engineering, Sales, Customer Service, Legal, Data, Ops, People, and Marketing
+
+Why did they choose Notion?: Customizability — Notion’s modular block structure allows any team to customize it to their needs
+
+Structured product docs lead to focused thinking and better prioritization
+
+Moving quickly means building quickly — and often, building quickly means ruthless prioritization. AngelList’s old product specs were difficult to parse, which slowed the process down.
+
+Using Notion, the product team now creates rich, textured documents that readers can experience at different altitudes. These specs are made of Notion’s varying block types, which can be text, images, embeds, and more. An executive summary might be a few bullets at the top. That same spec can also have code snippets for the engineering team, screenshots from user research, and the design team’s mockups as Figma embeds. Each product spec can be customized. And AngelList found that the ability to put all information in one place actually promoted more structured thinking by their engineers.
+
+Within these product specs, the “how” of a project lives alongside the context for why the team is doing it. Instead of switching among apps to get information, readers are able to focus and make decisions with clarity because everything they need is in one place — resulting in speed that’s a must for a scaling company.
+
+Favorite Notion feature: Toggles — the ability to cleanly nest information helps keep documents structured and organized
+
+Custom wikis and onboarding get new teammates up to speed quickly
+
+Those product specs are important for collecting information at the micro level. But people also need to know where to get company-wide, institutional knowledge. For hyper-growth companies, this often comes to life in onboarding. The faster new hires can download knowledge, the faster they can start contributing to meaningful work.
+
+AngelList is remote first, and part of why it has been able to scale is because of its focus on documentation. Notion is where all this documentation lives — providing guardrails for structure, while also allowing teams to customize based on how they want to share team-specific info.
+
+In the sidebar, each team has its own teamspace (which are dedicated areas for every team), like legal, marketing, data, and more. These teamspaces are customized for the needs of individual teams, whether that’s a page for the engineering team’s QA process, or a database of tools used by the marketing team.
+
+Each team also has its own custom onboarding document template. These templates have team-specific info, like colleagues, relevant Slack channels, communication standards, and more. Then, hiring managers build on top of them to further customize the template for new teammates.
+
+Access to information helped fuel the growth of AngelList’s team, and the ability to customize how that information is served creates an even more streamlined process.
+
+Favorite Notion feature: Templates — not having to reinvent the wheel for different types of documents saves time and energy
+
+Meetings that effectively distribute information to anyone, anywhere
+
+Accessing information is one thing. Disseminating it is another. Meetings are where this knowledge-sharing happens most — but for hyper-growth companies, excessive or unwieldy meetings can actually be detrimental because they’re slowing teams down.
+
+AngelList’s product team uses Notion to streamline its weekly updates. What used to be many meetings is now consolidated into a single standup.
+
+Not only has this created an “all in the same room” feeling for AngelList’s remote team. The structure of these meetings also helped cement the company’s culture of documentation.
+
+Members of the product sub-teams submit short, written updates before each meeting. Participants read through updates relevant to them or their teams and make comments for the first few minutes of the meeting — then, the rest of the time is designated for conversation. This has been more effective for the product team at AngelList, focusing on solving big problems instead of meetings that drone into a litany of updates.
+
+Yes, this saves time. But it also codifies knowledge — both with the updates themselves, and in the comments about the updates. In effect, meetings become records of problems, questions, updates, solutions, and more that the product team (or any team at AngelList) can refer to whenever or wherever.
+
+Duplicate AngelList's standups template here →
+
+Favorite Notion feature: Comments — everything is retained, so even if you miss the meeting you’re not missing the collaborative and social aspects of meetings where the magic happens

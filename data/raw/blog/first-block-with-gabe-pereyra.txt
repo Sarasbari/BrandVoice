@@ -1,0 +1,59 @@
+Title: First Block with Gabe Pereyra, Co-founder and President of Harvey
+Published Date: 2026-02-18T09:00-08:00
+URL: https://www.notion.so/blog/first-block-with-gabe-pereyra
+
+Listen to the First Block podcast on Spotify. To learn more about how Notion is supporting startups, please visit notion.com/startups.
+
+Pair technical depth with domain expertise from day one. Gabe's background was in AI research, but it was Winston's experience with law firms that made Harvey possible. Gabe emphasizes that if you're technical and entering a new vertical, finding a true domain expert as a co-founder is the single biggest advantage you can have.Build a versatile platform, not a narrow workflow tool. Harvey's early instinct was to build a general-purpose legal AI rather than starting with one specific workflow like NDA review. This mirrors what happened in coding: The winning product wasn't a tool for one language or one task, it was a comprehensive AI associate capable of handling anything.Enterprise GTM is a muscle you have to build from scratch. Harvey landed massive seven-figure deals very early, even before having the enterprise sales infrastructure to support them. Gabe says building a repeatable sales machine was one of the steepest learning curves, and one where their investors played a critical role.
+
+Pair technical depth with domain expertise from day one. Gabe's background was in AI research, but it was Winston's experience with law firms that made Harvey possible. Gabe emphasizes that if you're technical and entering a new vertical, finding a true domain expert as a co-founder is the single biggest advantage you can have.
+
+Build a versatile platform, not a narrow workflow tool. Harvey's early instinct was to build a general-purpose legal AI rather than starting with one specific workflow like NDA review. This mirrors what happened in coding: The winning product wasn't a tool for one language or one task, it was a comprehensive AI associate capable of handling anything.
+
+Enterprise GTM is a muscle you have to build from scratch. Harvey landed massive seven-figure deals very early, even before having the enterprise sales infrastructure to support them. Gabe says building a repeatable sales machine was one of the steepest learning curves, and one where their investors played a critical role.
+
+Welcome to First Block, a Notion series where founders from the world's leading companies tell us about the many "firsts" of their startup journeys. We explore the ups and downs that founders face as they build, and what they've learned along the way.
+
+In this episode, we spoke with Gabe Pereyra, Co-founder and President of Harvey. Harvey is an AI platform built for large law firms and their clients, helping thousands of lawyers collaborate on complex matters with the power of generative AI. From a seed check from OpenAI to a valuation that has grown to $8 billion, Harvey's trajectory is one of the defining applied AI stories of the last few years.
+
+Gabe shares how two roommates—one a securities litigator, one an AI researcher—spotted a transformational opportunity in legal, why they built a general-purpose platform instead of a narrow tool, and what it really takes to go from founder-led selling to a scalable enterprise motion.
+
+What's in this episode:
+
+00:00: Intro01:42: Origins of Harvey03:41: Why Legal Made Sense06:02: Building a General Tool08:50: Accuracy in Enterprise10:03: Infrastructure Over Models12:49: Founder Lessons in AI16:04: Scaling the Company17:50: Building with Models21:48: The Tool Stack23:01: Advice Block
+
+00:00: Intro
+
+01:42: Origins of Harvey
+
+03:41: Why Legal Made Sense
+
+06:02: Building a General Tool
+
+08:50: Accuracy in Enterprise
+
+10:03: Infrastructure Over Models
+
+12:49: Founder Lessons in AI
+
+16:04: Scaling the Company
+
+17:50: Building with Models
+
+21:48: The Tool Stack
+
+23:01: Advice Block
+
+Download Harvey’s wiki template to build a clean, searchable company wiki that brings together team pages and key company docs—and use Notion AI to keep everything updated.
+
+Thought starters for founders
+
+After listening to Gabe's insights, ask yourself:
+
+Do you have the domain expert you need beside you?Are you building a narrow workflow tool when you should be building a platform?Where in your GTM motion are you still relying on founder magic instead of a repeatable system?
+
+Do you have the domain expert you need beside you?
+
+Are you building a narrow workflow tool when you should be building a platform?
+
+Where in your GTM motion are you still relying on founder magic instead of a repeatable system?

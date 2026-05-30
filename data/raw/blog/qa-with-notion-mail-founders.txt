@@ -1,0 +1,43 @@
+Title: Email wasn’t designed for modern work—so we started from scratch: A Q&A with Notion Mail founders
+Published Date: 2025-05-07T04:30-07:00
+URL: https://www.notion.so/blog/qa-with-notion-mail-founders
+
+Since Ray Tomlinson sent the first digital message over ARPANET—the early internet of the 1970s—email has been a vital communication layer. It has also become our biggest headache.
+
+And no wonder—anything that came before smartphones, the cloud, or collaborative workspaces would be in need of an overhaul. So it should not come as a surprise that building Notion Mail required stripping email down to the studs. We rebuilt it to be fluid, contextual, connected, and organized by AI. In other words, to fit how we actually work now.
+
+To understand why this matters, we sat down with Notion Mail’s Andrew Milich and Jason Ginsberg to hear more about how they rebooted one of our most essential (and anxiety-inducing) tools.
+
+What made you two want to rethink email? Andrew Milich: Email has stood the test of time as the internet’s most important communication layer. It’s a notification center for our lives, a history of our connections, and a way to reach out to anyone—from cold-emailing a dream employer to writing to your favorite aunt. Jason Ginsberg: But it also has a connotation of dread. We’re being crushed by the weight of our inboxes, because every inbound message takes up an equal amount of real estate—from spam all the way to critical emails about taxes and the response from your aunt! The thought of parsing, prioritizing, replying—it’s a chore. How has our relationship with email has changed over the years?
+
+JG: Email started as a simple messaging tool—a way to connect people. Over the years, it’s become a hub of our lives. And if you’re a founder or entrepreneur, it’s where you manage recruiting, sales, support—you name it. It’s become a central place where we do our work.
+
+Younger generations seem to use email less—does it just need to be revitalized? Or is it dying? JG: Jason: People have predicted the death of email for as long as it has been around—nearly half a century now. But it’s still here because it’s simple and universal. You might be surprised to learn that 94 percent of Gen Z uses email—including myself and Andrew—because it’s foundational to the internet. It’s not dying at all! The products built on top of email just need to evolve.
+
+People are creatures of familiarity. How do you push change in email without freaking people out?
+
+JG: Before we get into that, I want to say that traditional email forces your work into a one-size-fits-all mold: That freaks me out.AM: I agree! Many people are freaked out by their current inbox—so much so that they’ve stopped checking it. So many toggles, labels, and buttons have accumulated over the decades of email’s existence, and it’s overwhelming. JG: We’re approaching Notion Mail in a couple of ways: When people sign in, we want them to see an inbox that is familiar, but feels more like Notion. At the same time, we designed Notion to be slightly opinionated—preferring labels to folders and not having nested labels, for example—which we believe can help. Writing emails is another example: We’ve updated Notion Mail’s editor to feel more modern—shortcuts for bullet points, slash commands, mentions, and so on. AM: We’re balancing the familiar inbox experience with product opinions that we deeply believe will help people take back control of their inbox.
+
+Look ahead one year, five years, even ten. What does email look like? How do you think we’ll collaborate with one another, be it work or personal?
+
+JG: Today’s email primarily involves communicating actions and managing information. I believe the future of email will be completely inverted—it’ll focus on taking action and gathering information. This might lead to surprising changes, like people subscribing to more emails rather than fewer—because it will provide them with a richer information landscape.
+
+AM: With Notion Mail, I actually want more emails.
+
+You’ve seen others who have tried to reinvent email. Why didn’t they hit the mark, and does that have any influence over what you’re doing?
+
+JG: Many products haven’t truly reinvented email. Instead, they simply make you faster at the old way. Sure, you can manually triage an endless list in half the time. But if the list is never-ending, speed doesn’t really matter. What we truly need is a new way—one that moves us forward instead of merely accelerating our struggle to stay afloat. We hope that Notion Mail accomplishes that.
+
+What were the biggest surprises or learnings as you built out Notion Mail over the last year?
+
+AM: One of the biggest learnings for us in the journey was how we think about integrating AI in email. We were initially excited around how AI’s power, combined with your Notion context, could give you the most advanced drafting capabilities or even a full auto-response.
+
+However, both from past experience building email products and early user research, we found that these workflows were magical for power users but inaccessible for the majority, who need far more help with email organization than email drafting. On a given day, as many as 80-90 percent of email users may just want to read emails in a given account.
+
+So, we built and rebuilt Auto Labeling. It adapts to your inbox by providing personalized suggestions (for example, “doctors appointments,” “your trip to Las Vegas,” or “customer support requests about email signatures”).
+
+Auto Labeling inverts how labeling traditionally works in email. In the past, creating a label adds a tax—more time and effort spent to apply it and organized for all future emails. Instead, we’ll have AI apply the labels for you, based on a few emails you confirm are correct to label.
+
+Notion Mail is a big moment for the company. Tell us what you’re most excited about for this launch and what’s to come.
+
+JG: I’m most excited for people to experience it! Our users truly shape our products and the way we think. Ultimately they are the ones that will tell us what’s to come.Want to try Notion Mail out? Head to notion.com/mail

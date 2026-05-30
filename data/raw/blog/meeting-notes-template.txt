@@ -1,0 +1,77 @@
+Title: Boost Productivity with Meeting Notes Templates: A Guide to Consistent Documentation
+Published Date: 2021-02-25T00:00-08:00
+URL: https://www.notion.so/blog/meeting-notes-template
+
+Meetings are only effective if you gain valuable takeaways, like action items and solutions to stubborn problems. You can chat all you want, but if everyone leaves feeling confused about next steps or thinking someone else took notes, that meeting wasn’t productive.
+
+Even if you designate a meeting attendee as notetaker every time, it can be frustrating sifting through different employees’ more-or-less comprehensible notes in order to find the important takeaways. With a meeting notes template you can create more consistent documentation and remember to jot down the most essential parts, like key questions, follow-up actions, and great ideas.
+
+Why’s note-taking important in meetings?
+
+Taking notes in meetings ensures that you’re tracking necessary action items to delegate after the session in order to get ahead on important projects. It also fosters accountability because if someone says they’ll own a certain task, you’ve noted their responsibility and can hold them to it.
+
+Here are a few more benefits of note-taking in meetings:
+
+Provides a record of tasks and updates — meeting notes provide a constantly updated record of events, updates, and action items. You can store these notes in a central location, like Notion or Google Docs, so everyone has access and remains well-informed on their team’s ongoings and responsibilities. Enhances productivity — unproductive meetings waste everyone’s time, as do employees who don’t know their responsibilities. Leaving a session with a task to-do list means project managers can delegate items immediately to increase everyone’s productivity.Keeps everyone updated — accessible and well-organized meeting notes update everyone on projects and next steps, including those who couldn’t attend the session. This saves everyone time, since employees who didn’t participate don’t need to chase information and can update themselves to determine their next steps.
+
+Provides a record of tasks and updates — meeting notes provide a constantly updated record of events, updates, and action items. You can store these notes in a central location, like Notion or Google Docs, so everyone has access and remains well-informed on their team’s ongoings and responsibilities.
+
+Enhances productivity — unproductive meetings waste everyone’s time, as do employees who don’t know their responsibilities. Leaving a session with a task to-do list means project managers can delegate items immediately to increase everyone’s productivity.
+
+Keeps everyone updated — accessible and well-organized meeting notes update everyone on projects and next steps, including those who couldn’t attend the session. This saves everyone time, since employees who didn’t participate don’t need to chase information and can update themselves to determine their next steps.
+
+How to take excellent meeting notes
+
+The best way to take notes is before, during, and after the meeting. Here are some tips for what to include at each stage.
+
+Pre-meeting
+
+Holding a productive meeting starts before you queue up Microsoft Teams or Zoom or book a conference room. Prepare everyone by sending out a meeting agenda that notes the session’s main objective, talking points, and any roles, like a designated notetaker (you) and a presenter, if relevant. And include materials people might want to access during the meeting, like a link to the notes document or a presentation’s reference materials.
+
+During the meeting
+
+Throughout the meeting, fill out the following six sections:
+
+Basic details — open your meeting document with the date and every team member who’s present. Your meeting objective — state precisely what this meeting’s about and refer back to this objective throughout the session to keep everyone on track.Previous meeting recap — if this is a recurring meeting or you’ve recently held a session that’s relevant to your meeting objective, note anything you still need to discuss, issues that have arisen since your last chat, and task updates. Questions and answers — list any questions employees ask and answers offered, including ones that remain unanswered, so you can refer back later and resolve outstanding issues.Great ideas — jot down valuable thoughts and solutions shared by the group, even if you don’t discuss them thoroughly or decide to implement them immediately. You never know when these ideas will become useful. Next steps — close your meeting notes with action items and those responsible for each to ensure the project manager can get everyone started on their tasks right away.
+
+Basic details — open your meeting document with the date and every team member who’s present.
+
+Your meeting objective — state precisely what this meeting’s about and refer back to this objective throughout the session to keep everyone on track.
+
+Previous meeting recap — if this is a recurring meeting or you’ve recently held a session that’s relevant to your meeting objective, note anything you still need to discuss, issues that have arisen since your last chat, and task updates.
+
+Questions and answers — list any questions employees ask and answers offered, including ones that remain unanswered, so you can refer back later and resolve outstanding issues.
+
+Great ideas — jot down valuable thoughts and solutions shared by the group, even if you don’t discuss them thoroughly or decide to implement them immediately. You never know when these ideas will become useful.
+
+Next steps — close your meeting notes with action items and those responsible for each to ensure the project manager can get everyone started on their tasks right away.
+
+Post-meeting
+
+Taking meeting notes can be hectic and daunting, as everyone’s raising their hand and sharing their ideas, so take a moment post-session to tidy your notes and put everything in bullet form. You might also designate a style guide for meeting notes to make your document easily understandable, like bolded text for unanswered questions and a pink highlight for action items.
+
+You could also link out to additional relevant materials that were mentioned during the meeting, like a product roadmap or project timeline.
+
+Then share your meeting notes with everyone relevant to the project, including clients and stakeholders if necessary. And keep this document in a central space your team can access, like a virtual team workspace in Notion.
+
+3 Notion meeting notes templates
+
+You don’t have to organize your meeting notes on your own. Start with a Notion template and customize it to suit your team’s needs. Here are our favorite three.
+
+1. Basic meeting notes template
+
+Notion's meeting notes template is a great starting point for new notetakers. You can easily link out to notes from past meetings, search the document to find information, and view your meeting notes in several views, like a board or list.
+
+2. Projects and meetings template
+
+This template connects every project with your meeting schedule and notes, so you have everything relevant to a session in one place. This centralization makes it easy to update projects, track tasks, and assign responsibilities, all while on the call or in the boardroom.
+
+3. Meeting summaries with Notion AI
+
+Ensure you have neat and detailed meeting notes with the meeting summaries with AI template. You can ask Notion AI to summarize your original meeting notes and create action items for your team. This tool can even assign these items to your teammates to speed up the project management process.
+
+Keep your meeting notes in Notion
+
+A meeting’s success can often come down to how well you noted key items like takeaways and next steps. Now that you know how to take notes in a meeting, you can deliver a valuable summary every time.
+
+Find meeting notes templates for every department in Notion, like our design team and marketing team documents. And keep them in a centralized Notion workspace to inform and prepare your team to deliver meaningful work. Try it today.

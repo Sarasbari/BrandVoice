@@ -1,0 +1,113 @@
+Title: A guide to this project phase
+Published Date: 2023-05-09T00:00-06:00
+URL: https://www.notion.so/blog/project-closure
+
+You’re finally ready to close your project.
+
+After months of hard work, your deliverables are in, you’ve had the final team sync, and you can take a breath.
+
+But it’s not quite over. You’re starting the project closure phase, where you’ll check every last detail and assess your team’s success.
+
+Documenting and sharing the project closure process lets clients, managers, and stakeholders alike know what you’ve accomplished — and that you’re ready for the next challenge.
+
+What’s project closure?
+
+Project closure is the closing phase of project management. During this phase, you’ll make sure you’ve submitted all materials and documentation, communicated with stakeholders, and tied up any loose ends.
+
+Project closure is the last step in any project management model:
+
+Project initiation — defining your scope and securing necessary approvalsProject planning — creating project documents, goals, and workflowsProject execution — launching your process based on your project planProject performance — evaluating project success with predefined metricsProject closure — finalizing your deliverables and debriefing the experience
+
+Project initiation — defining your scope and securing necessary approvals
+
+Project planning — creating project documents, goals, and workflows
+
+Project execution — launching your process based on your project plan
+
+Project performance — evaluating project success with predefined metrics
+
+Project closure — finalizing your deliverables and debriefing the experience
+
+This final step isn’t about crossing off more to-dos; it’s about checking your work and communicating that the project is over. You’ll only make changes if you absolutely must.
+
+Why you shouldn’t forget about project closure
+
+You could just send off your deliverables without project closure. Taking extra steps might feel unnecessary — your team hit every milestone, and now they’re ready to move on.
+
+But concretely marking the end of a project lets everyone know you’re handing it off and won’t make unnecessary changes and tweaks. It also gives you the chance to learn from the experience and note takeaways for the future.
+
+Here’s why project closure is a vital step:
+
+Wraps everything up — tying up every loose end gives stakeholders a clear picture of what you’ve done and when. You can make sure you didn’t miss anything, like a lower-priority deliverable or a final step, and put the finishing touches where you need to. This is also an excellent opportunity to review the resources your team used for the project and assess what you’ll need for the future. Goes through lessons and mistakes — your closure process might include a post-mortem meeting, which gives your team the space to discuss successes and failures. No matter what type of project you’re working on, there’ll be lessons to learn from. Evaluate whether deliverables met your goals and audit the final budget numbers. Share results with your team and stakeholders. Anything you glean from these conversations can be put to use on future projects. Turns the page — when your project is over, it’s really over. No more last-minute to-dos or edits. This is the point when your team and stakeholders understand that you won’t make any more changes and you’re ready to move on to the next challenge.
+
+Wraps everything up — tying up every loose end gives stakeholders a clear picture of what you’ve done and when. You can make sure you didn’t miss anything, like a lower-priority deliverable or a final step, and put the finishing touches where you need to. This is also an excellent opportunity to review the resources your team used for the project and assess what you’ll need for the future.
+
+Goes through lessons and mistakes — your closure process might include a post-mortem meeting, which gives your team the space to discuss successes and failures. No matter what type of project you’re working on, there’ll be lessons to learn from. Evaluate whether deliverables met your goals and audit the final budget numbers. Share results with your team and stakeholders. Anything you glean from these conversations can be put to use on future projects.
+
+Turns the page — when your project is over, it’s really over. No more last-minute to-dos or edits. This is the point when your team and stakeholders understand that you won’t make any more changes and you’re ready to move on to the next challenge.
+
+What are the types of project closure?
+
+Like any stage in the project management process, there’s a right way and a wrong way to go about it. You could close a project prematurely, or your priorities could change and prevent you from a satisfying send-off.
+
+The five types of project closure define how successful this stage is:
+
+Normal — well done! Your project succeeded without a hitch. Most deliverables were on time and on budget. Your closure phase should be quick and painless, and you can learn from what went well. Premature — this sudden closure happens before you finish the project. Your client decides it doesn't need your services after all, or your business doesn’t think it’s the best use of your time. Your closing phase of this project will highlight what your team achieved before you shut it down. Perpetual — perpetual projects seem like they’ll last forever. The goalposts move further away and stakeholders keep peppering you with new requirements, so you can’t close it out. This can happen if you didn’t define a project scope or limit how much work you plan on doing. To close out this project, you’ll need to set a clear boundary or due date. Change in priorities — businesses have to make tough decisions all the time. You might have to close out your project early not because you’re canceling it, but because you need to focus your energy elsewhere. When you close out a project because of priority changes, you'll want to document the entire project just in case it restarts.Failed — this is a learning experience. Your project failed. It happens. Maybe you dropped the ball on deadlines or miscommunicated what deliverables will actually look like. Meet with your team to figure out what went wrong and avoid repeating those mistakes in the future.
+
+Normal — well done! Your project succeeded without a hitch. Most deliverables were on time and on budget. Your closure phase should be quick and painless, and you can learn from what went well.
+
+Premature — this sudden closure happens before you finish the project. Your client decides it doesn't need your services after all, or your business doesn’t think it’s the best use of your time. Your closing phase of this project will highlight what your team achieved before you shut it down.
+
+Perpetual — perpetual projects seem like they’ll last forever. The goalposts move further away and stakeholders keep peppering you with new requirements, so you can’t close it out. This can happen if you didn’t define a project scope or limit how much work you plan on doing. To close out this project, you’ll need to set a clear boundary or due date.
+
+Change in priorities — businesses have to make tough decisions all the time. You might have to close out your project early not because you’re canceling it, but because you need to focus your energy elsewhere. When you close out a project because of priority changes, you'll want to document the entire project just in case it restarts.
+
+Failed — this is a learning experience. Your project failed. It happens. Maybe you dropped the ball on deadlines or miscommunicated what deliverables will actually look like. Meet with your team to figure out what went wrong and avoid repeating those mistakes in the future.
+
+Project closure checklist: How to close out your project
+
+Project closure activities are specific to the task at hand. Launching high-stakes software will require a different checklist than creating graphics for a new ad campaign. The closure process also depends on the size of your business, the depth of the project, and your management team’s needs. But there are general guidelines that can keep you on track.
+
+Here are the steps you’ll need to take to finish your project:
+
+1. Double-check dates and deliverables
+
+This is your chance to read everything over and make sure you’re submitting the right content at the right time. Go over your project timeline and read through every milestone carefully — something might have slipped through the cracks. Do this to avoid doubling back later.
+
+You’ve finished your app for a client. But before you submit, make sure you’ve included all the necessary specs and have relevant plans for the future, like who’s going to tackle bugs and update the app when the time comes.
+
+2. Transfer ownership
+
+Whether you’re hitting publish on your project, handing it off to your client, or sending it to a different department, it’s out of your hands now. Let stakeholders know you’re finished and that they can reach out to you with clarifying questions.
+
+You’ve submitted the app, and now the codebase rests on the client servers. It’s time to give your client access to every relevant document, including your plan for future troubleshooting.
+
+3. Close contracts and related paperwork
+
+Confer with relevant teams — human resources, account holders, and management — to collect the correct signatures and file any final paperwork. The project is over, and now it’s formally recognized as such.
+
+Your client doesn’t need any changes to the app. And if you aren’t working on anything more together, now you can close your contract with them. Communicate and let the client know you’re finished. If they have extra questions, they can reach out, but you won’t make any more changes unless absolutely necessary.
+
+4. Receive feedback from everyone involved in the project
+
+Your team members or clients will have feedback, and now’s the time to collect it. What went wrong with the app design? What went right? How was your communication throughout the process? Have a post-mortem meeting and document all feedback to inform future projects and help your team reconcile their own successes and failures.
+
+Your project centered around your client’s app, so their satisfaction is what marks your success. Maybe your client has some kind words about how sharp the graphics are. Maybe they didn’t agree with your timelines and functionality suggestions. Take their feedback into account and let them know you’ll remember it for next time.
+
+5. Write a project closure report
+
+If you were working on a large-scope project, you might need a closure report that documents all of your final actions. That way you can show your work and prove that you didn’t miss anything — and if you did, you can figure out where things went wrong. Circulate your report to stakeholders, management, and the client to officially close things out.
+
+Once you’ve finished your app and confirmed any changes, send your client a closure report to cover all the bases. Ask them to sign off on it before you move on, just to confirm their receipt.
+
+6. Remove and archive the project
+
+Some companies archive past projects deep in their files, while others move everything to a shared drive. Whatever you choose to do, save your project to a central location for easy reference. Don’t let it clutter your current to-do list.
+
+If your client likes the app, chances are they’ll contact you for another project. With proper documentation, you can take inspiration from your old project baseline and create an even better app next time.
+
+Project management made easier with Notion
+
+Your team works tirelessly to get the job done. Spend your time supporting them instead of juggling documents and to-do lists.
+
+Notion’s connected workspace can streamline your project management process, from simple to-do list templates to more comprehensive project and goal trackers. And when you close your project, you can reuse your template and start fresh without losing your hard work.

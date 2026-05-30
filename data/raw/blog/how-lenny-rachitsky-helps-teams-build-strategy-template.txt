@@ -1,0 +1,101 @@
+Title: How Lenny Rachitsky helps teams build a strategy that aligns mission with action (and a template you can use)
+Published Date: 2023-04-20T00:00-07:00
+URL: https://www.notion.so/blog/how-lenny-rachitsky-helps-teams-build-strategy-template
+
+Having a lofty mission is good. But without clearly-defined team objectives and project goals to track toward, you’ll never achieve that mission.
+
+Lenny Rachitsky, founder of Lenny’s Newsletter and Podcast (and former Product Lead at Airbnb), has interviewed hundreds of leaders, using that knowledge to build a framework  that helps teams turn aspirational missions into strategic actions. It connects specific projects to the bigger picture of why this work is important.
+
+In this post, we’ll walk through Lenny’s template, every key strategic input, and show you how you can use this template to build an actionable, inspiring team strategy.
+
+Clearly articulate your mission and vision, because they will shape your work
+
+Start with the biggest and most important ideas: your team mission and vision. Both should be super clear since they’ll directly impact the projects your team executes.
+
+Your mission and vision have distinct purposes — your mission is what you’re trying to accomplish now, while your vision is what the world looks like once you’ve accomplished it.
+
+Done well, your mission and vision will create buy-in across the team, leading to more inspired, focused strategic work.
+
+But don’t stop after you’ve written your mission and vision here. They should be repeated often and included across all docs so they become more deeply ingrained in everyone’s work.
+
+Duplicate Lenny’s strategy doc template here →
+
+Refine your team mission into an actionable strategy by focusing on the “what” and “why”
+
+Once you’ve laid out the high-level mission and vision, this is an opportunity to dive deeper into the strategy.
+
+"Your strategy is your plan to achieve your vision — it’s the specifics of what you’re going to do to win," says Lenny.
+
+Set your team’s guiding goal
+
+With your strategy in mind, ask yourself — what success metric will allow me to track whether I’m making progress on my strategy (and thus, my mission)?
+
+It’s crucial to have a metric that acts as your guiding goal. Lenny poses one question to help identify your ideal north star metric:
+
+Which metric, if it were to increase today, would most accelerate my business’s flywheel?
+
+This metric should be set, but revisit it quarterly to make sure your work is aligned and on-track.
+
+Build a strategic framework
+
+Once you have a metric to focus on, it’s time to define your team’s strategy to help you hit that target goal. Lay out a one or two paragraph narrative and why it’s the right approach.
+
+Lenny breaks the strategy down into a simple framework: Situation, Complication, and Resolution.
+
+Situation: What is the state of affairs today? What are the facts that everyone will agree with?Complication: What’s the problem that needs to be fixed?Resolution: What do you recommend we do to resolve this complication?
+
+Situation: What is the state of affairs today? What are the facts that everyone will agree with?
+
+Complication: What’s the problem that needs to be fixed?
+
+Resolution: What do you recommend we do to resolve this complication?
+
+Using a framework that focuses on the what and why behind the action is a good way to set the stage for the work that you take on. Here are some examples of well-articulated strategies (using various frameworks) from Yahoo!, Tesla, and GitLab.
+
+For example, if you’ve set a team goal to increase customer retention by 15% over the next 6 months, your strategic framework might look something like this:
+
+Situation: High customer churn rate, leading to lower revenue and less repeat business.Complication: Customers are not finding the value they expect from our product, leading to a lack of engagement and ultimately churn.Resolution: By focusing on improving customer satisfaction and engagement, we believe we can increase customer retention and ultimately drive more revenue for the company.
+
+Situation: High customer churn rate, leading to lower revenue and less repeat business.
+
+Complication: Customers are not finding the value they expect from our product, leading to a lack of engagement and ultimately churn.
+
+Resolution: By focusing on improving customer satisfaction and engagement, we believe we can increase customer retention and ultimately drive more revenue for the company.
+
+Duplicate Lenny’s strategy doc template here →
+
+Provide deeper context to connect strategy and work
+
+Now it’s time to decide what projects you’ll execute to make that strategy a reality.
+
+Use your strategic framework to create strategic pillars. Think about these as the buckets of work needed to execute your strategy.
+
+Each pillar breaks down into four key sections:
+
+What are you going to do?Why is it important?What will success look like?What specific projects need to happen?
+
+What are you going to do?
+
+Why is it important?
+
+What will success look like?
+
+What specific projects need to happen?
+
+They each act as a mini project brief to help you define the details and provide deeper clarity into how the work helps the team achieve its goals. Identify the stakeholders that will own each pillar and bring in any cross-functional partners that you’ll need to work with too.
+
+“A common pitfall in strategic team planning is overestimating what you can do and what you need to do,” says Lenny. “Planning to do too many things can easily wind up creating more day-to-day work, but less impactful work.”
+
+While there’s no magic number, Lenny points out that more strategic pillars doesn’t always equate to more work getting done. He suggests 3-5 pillars to make sure you’re balancing effort and impact.
+
+Building on our customer churn example above, your strategic pillars might include understanding your customer needs and improving the onboarding process. These pillars would give you a few areas of work to maximize impact and help you hit your customer retention goal.
+
+If you use OKRs, this is a good place to connect your projects with objectives to better track what’s happening (and the outcomes).
+
+A strategy aligned from top to bottom
+
+The individual pieces of a team strategy often exist, but they usually live in disconnected docs. Connecting all the parts of your strategy — from mission to projects — helps the team stay on track and work in a more cohesive way.
+
+Lenny’s template does exactly that. It gives you a space to create a thread between the company, your team, and the work, all in one place.
+
+To try Lenny’s strategy template, get started by duplicating it here.

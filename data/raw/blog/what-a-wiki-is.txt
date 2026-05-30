@@ -1,0 +1,99 @@
+Title: Streamline your team’s collaboration by learning what a wiki is
+Published Date: 2023-02-10T00:00-06:00
+URL: https://www.notion.so/blog/what-a-wiki-is
+
+Picture this: You had a lightbulb moment in a team sync. You try to add notes to an internal knowledge base, but your manager forgot to give you access.
+
+Then a customer emails you about a product’s issues — you await an IT team member’s answer because you can’t find the item’s specs.
+
+Not having access to relevant, up-to-date information creates unnecessary slowdowns. Speed things up by creating a team or company wiki.
+
+Wikis are what teams of every size and industry — from startups to corporations, e-commerce to software-as-a-service — can use to centralize information and increase document accessibility. Avoid communication and collaboration mishaps by learning how to create a wiki in Notion.
+
+What’s a wiki?
+
+A wiki is a knowledge base housing a collection of documents online or on a company’s intranet. Think of Wikipedia — it’s an online information library users worldwide contribute to and adjust.
+
+Company-specific wikis aim to be just as helpful, serving as a collective brain for employees only. Businesses use them to centralize information, ease cross-team collaboration, and promote a single source of truth (SSOT) philosophy.
+
+American computer programmer Ward Cunningham developed the first wiki software, WikiWikiWeb, in 1995 as a tool for programmers to share information and collaborate inside documents. The name "wiki" comes from the Hawaiian word "wikiwiki," which translates to "quick" or "fast" — just like teams accessing information through these comprehensive databases.
+
+How do wikis work?
+
+Wikis store all company-relevant information in one place that any employee can access. Instead of books, wiki pages are what these libraries organize. Anyone with access can add, edit, or remove pages, as needed. Wikis centralize information and streamline collaboration thanks to the following features:
+
+Hyperlinking — wikis use hyperlinks to connect pages. Users can easily navigate libraries to access docs or add links to new or related information. This also means easier research and citation experiences since users learn more by clicking on hyperlinks and scrolling through pages.
+
+Collaboration — in most wikis, multiple authorized users can add pages, edit existing ones, and organize information by relevance to keep documents up to date across teams. Some wiki creation tools have more extensive collaboration features that allow users to comment on documents and assign coworkers in comments, like Notion.
+
+Wiki creation interface — most wiki-creation tools have intuitive user interfaces that allow members to add and edit pages, images, and other multimedia without the need for programming knowledge like HTML, CSS, or PHP. Notion lets you make a wiki on any workspace page, share with any team members who need access, and customize categories or add fun icons.
+
+4 advantages and disadvantages of wikis
+
+Wikis are a popular open-source forum for a reason — but without organizational etiquette in place, disorganization will strike. Here are a few advantages and disadvantages of wikis:
+
+Advantages
+
+Accessibility — a company can give access to a wiki to as many employees as they like, improving in-team and corporation-wide collaboration. This limits DM-ing back and forth and searching for documents across different drives or platforms to save everyone time. User ease — wiki interfaces should be intuitive, making how to search for information or add new content clear. This streamlined user experience encourages employees to use and contribute to wikis, leading to more comprehensive and up-to-date libraries. Versatility — users can add new pages and remove content, track changes, and, on some platforms, revert to previous document versions, making wikis up-to-date living libraries. Transparency — wikis are an SSOT everyone in an organization can agree is real and trusted if everyone contributes. These databases bring information from several sources to one spot, promoting transparency within the organization — necessary policy information, tool use, or client relationships are all clear for whoever accesses the information.
+
+Accessibility — a company can give access to a wiki to as many employees as they like, improving in-team and corporation-wide collaboration. This limits DM-ing back and forth and searching for documents across different drives or platforms to save everyone time.
+
+User ease — wiki interfaces should be intuitive, making how to search for information or add new content clear. This streamlined user experience encourages employees to use and contribute to wikis, leading to more comprehensive and up-to-date libraries.
+
+Versatility — users can add new pages and remove content, track changes, and, on some platforms, revert to previous document versions, making wikis up-to-date living libraries.
+
+Transparency — wikis are an SSOT everyone in an organization can agree is real and trusted if everyone contributes. These databases bring information from several sources to one spot, promoting transparency within the organization — necessary policy information, tool use, or client relationships are all clear for whoever accesses the information.
+
+Disadvantages
+
+Disorganization — without proper management, a wiki’s most significant strength becomes its greatest weakness. If wikis don’t have designated caretakers, they become information dumps that employees find difficult to navigate. Implement clear information architecture, a table of contents, and maintenance best practices to prevent this.Time-consuming maintenance — the best way to steer clear of a wiki’s disadvantages is to designate an individual or team to maintain it. This is time-consuming work and a company might not have the overhead for it.Plagiarism — wikis rely on user-generated content, which can lead to plagiarism if not properly managed. A research team might not source correctly and a sales rep could use their data in a presentation, for instance. Whoever maintains a wiki’s organization might also be in charge of vetting content for plagiarism. Style inconsistencies — since multiple users collaborate on a wiki, formatting, and styling might be inconsistent. Prevent this by creating or using a pre-existing style guide that defines company-wide preferences like font type and size, header formatting, and citation style.
+
+Disorganization — without proper management, a wiki’s most significant strength becomes its greatest weakness. If wikis don’t have designated caretakers, they become information dumps that employees find difficult to navigate. Implement clear information architecture, a table of contents, and maintenance best practices to prevent this.
+
+Time-consuming maintenance — the best way to steer clear of a wiki’s disadvantages is to designate an individual or team to maintain it. This is time-consuming work and a company might not have the overhead for it.
+
+Plagiarism — wikis rely on user-generated content, which can lead to plagiarism if not properly managed. A research team might not source correctly and a sales rep could use their data in a presentation, for instance. Whoever maintains a wiki’s organization might also be in charge of vetting content for plagiarism.
+
+Style inconsistencies — since multiple users collaborate on a wiki, formatting, and styling might be inconsistent. Prevent this by creating or using a pre-existing style guide that defines company-wide preferences like font type and size, header formatting, and citation style.
+
+How to create a wiki in Notion
+
+Wikis centralize information and encourage collaboration so everyone communicates effectively. Here’s how to create your own wiki site in Notion:
+
+Make a workspace page — to create a page, hit the + sign next to “Workspace” in your sidebar. If you’re already inside a page, type/page. You can customize this front page however you like, adding titles, categories, and images. This will be the wiki’s homepage.Nest sub-pages inside your wiki — to make a sub-page, type /page again and press enter. Give it a title and add content before using the back button to return to your wiki homepage. Structure your company wiki — columns are a great way to organize collections of pages. To make a column, grab the + ⋮⋮ icon next to the header and drag it over to the right until a vertical blue line appears. Use this icon to move any page, whether that’s to reorder or sort into columns. Set permissions — go to “Settings & Members” in the top left corner and change access statuses in “Workspace access” to add team members. If you don’t want people to access the entire wiki, click “Share” on the relevant pages to send invites for pages directly.
+
+Make a workspace page — to create a page, hit the + sign next to “Workspace” in your sidebar. If you’re already inside a page, type/page. You can customize this front page however you like, adding titles, categories, and images. This will be the wiki’s homepage.
+
+Nest sub-pages inside your wiki — to make a sub-page, type /page again and press enter. Give it a title and add content before using the back button to return to your wiki homepage.
+
+Structure your company wiki — columns are a great way to organize collections of pages. To make a column, grab the + ⋮⋮ icon next to the header and drag it over to the right until a vertical blue line appears. Use this icon to move any page, whether that’s to reorder or sort into columns.
+
+Set permissions — go to “Settings & Members” in the top left corner and change access statuses in “Workspace access” to add team members. If you don’t want people to access the entire wiki, click “Share” on the relevant pages to send invites for pages directly.
+
+After the basic set-up, assign the monitoring and updating of each page to employees or managers. Make sure adding new hires to the wiki is part of your employee onboarding process, and you’re set.
+
+Notion offers a variety of wiki page templates to get you started. Here are some of our specialized wikis:
+
+EngineeringTeamProductOnboardingStartupMarketingHiringLife
+
+Engineering
+
+Team
+
+Product
+
+Onboarding
+
+Startup
+
+Marketing
+
+Hiring
+
+Life
+
+Your very own library
+
+Digital libraries might not provide the same old-book smell or nostalgia, but they offer priceless benefits to collaborative teams. No more searching for scattered information or awaiting answers to questions a quick wiki search could have answered.
+
+Looking for more ways to organize team processes? Learn more about project timelines, project proposals, and knowledge bases.

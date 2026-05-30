@@ -1,0 +1,113 @@
+Title: How to succeed at stakeholder management
+Published Date: 2023-06-13T00:00-06:00
+URL: https://www.notion.so/blog/stakeholder-management
+
+Without stakeholders, projects wouldn’t exist. Stakeholders take a vested interest in the outcomes of projects and promote them from start to finish. After all, they have something to gain — and lose.
+
+Relationships between project managers and stakeholders remain healthy when communication is strong. Since stakeholders are invested in a project’s success, knowing what to expect and when inspires confidence and ensures that everyone adequately participates. To facilitate this transparency, you can create a stakeholder management plan for your team.
+
+Common types of stakeholders
+
+Anyone with a “stake” in a project is a stakeholder, including employees executing the work. And stakeholders might be internal or external, hands-on or off. The following lists can help you identify what a stakeholder is in project management.
+
+Internal stakeholders
+
+Project managersProject teamsEmployeesBusiness owners
+
+Project managers
+
+Project teams
+
+Employees
+
+Business owners
+
+External stakeholders
+
+Customers and clientsContractorsInvestorsSuppliersGovernmental organizations supporting the operationTrade unions Creditors
+
+Customers and clients
+
+Contractors
+
+Investors
+
+Suppliers
+
+Governmental organizations supporting the operation
+
+Trade unions
+
+Creditors
+
+Why you need an effective stakeholder management process
+
+Stakeholder management requires setting project expectations for everyone involved, from top to bottom. These plans identify each player’s interest in the project and ensure that all parties receive the right tools to complete work or status updates to help them track progress.
+
+Creating a plan for managing all stakeholders helps project managers keep invested parties' fingers on the pulse of a project at all times, minimizing the risk of misunderstandings or expectations outside of the project’s scope.
+
+How to make a stakeholder management plan
+
+Creating a stakeholder management plan may seem overwhelming. You must consider everyone, from an employee who’s writing code for an app in development to the investors who are financing its creation. Don’t go at it unprepared — follow these five steps to create a comprehensive plan that won’t overlook even the smallest detail. And once you’ve created it, consider using this plan to establish a stakeholder management plan template you can use in the future.
+
+1. Identify your key stakeholders (both internal and external)
+
+The first step of any stakeholder management plan is identifying anyone who’s involved in the execution of a project or its outcomes. These are your stakeholders. Categorize them into stakeholder groups and subgroups by separating internal and external parties and designating their relationship to the project, like employees versus suppliers.
+
+2. Prioritize stakeholders
+
+Not everyone has the same interest level in a project, so create a prioritization list. Determine the level of influence each stakeholder has and how that influence waxes and wanes throughout the project. A software developer might have a more significant impact in the coding stage, for example, and a client’s interests are always weighty.
+
+One way to organize this is with a power interest grid. You’ll title the x-axis “Interest” and the y-axis “Power,” placing each stakeholder in one of four boxes. Here’s how to manage each of the four categories:
+
+High power, high interest — manage closely
+
+High power, low interest — keep satisfied
+
+Low power, high interest — keep informed
+
+Low power, low interest — monitor (minimum effort)
+
+3. Interview stakeholders
+
+The only way to set realistic expectations is to understand stakeholders’ needs and interests. Determine what everyone hopes to gain from the project by interviewing stakeholders, asking questions like:
+
+What are your expectations?What are your concerns? How do you feel about this project? Which deliverables are most important to you? How do you envision the project timeline?
+
+What are your expectations?
+
+What are your concerns?
+
+How do you feel about this project?
+
+Which deliverables are most important to you?
+
+How do you envision the project timeline?
+
+4. Determine responsibilities and expectations
+
+Stakeholders often have more than just a stake in a project — they have an obligation to it. Responsibilities are likely clear for employees but are worth reinforcing. And ensure third-party stakeholders, like suppliers, understand the scope of work and deliveries.
+
+5. Monitor progress
+
+Create a plan for monitoring and reporting progress to stakeholders. This outline should be dynamic, as not everyone needs every bit of information at all times. An investor doesn’t necessarily need to know where the team is in a development sprint, but they're likely interested in learning when the team hits milestones or completes critical deliverables. Generate a timeline detailing when you’ll send essential information to stakeholders — especially external ones, who may feel less in the know.
+
+5 principles of stakeholder management
+
+Processes — including stakeholder management plans — run more smoothly when they’re guided by principles. Here are five that can help you improve stakeholder relationships:
+
+Maintain good communication — communicating timelines, deliverables, and expectations early on and updating stakeholders when things change is essential to avoid misunderstandings and frustration. Interviewing everyone with a stake in a project also helps define the importance and spirit of the work, encouraging all involved to rally around the effort.
+
+Expect the unexpected — from employees to business owners to investors, stakeholders are human. Even banks and governmental organizations have human representatives. Leave room for error and emotions. A stakeholder waiting on a deliverable may feel upset if it's late, and an employee requiring immediate time off might have delayed that deliverable. With a strong focus on expectation setting and communication planning, you can mitigate disappointments and reassure stakeholders when there’s an issue.
+
+Cover every detail — the best examples of stakeholder management plans are those that leave no stone unturned. Include everyone involved in a project, spend time synthesizing interviews, and pass along any information that internal departments or external stakeholders might need in order to create their own plans, like project timelines, Kanban boards, and repayment contracts.
+
+Consider risk — each stakeholder provides a resource to a project but also presents a risk. A development team may not deliver code on time because of an unexpected feature error, or an investor could pull their support. Have everyone involved plan for potential risks and use contractual agreements with third parties to mitigate them.
+
+Encourage compromise — all stakeholders benefit from a successful project, but no one will get everything they want. After conducting interviews and understanding stakeholder expectations, generate a plan that meets baseline needs but doesn’t overpromise. Your employer will likely want you to prioritize the stakeholder with the most significant investment, but nobody will want to work toward project closure if they feel you’re not considering their needs.
+
+Use Notion to improve stakeholder relationships
+
+A stakeholder management plan is a project highway that forks into countless roads. Once everyone understands expectations and timelines, internal and external entities must devise their own plans to meet deadlines and deliverables. Notion has resources to support this work.
+
+Use Notion’s templates to create a business model canvas to share with stakeholders or generate reports to streamline communication with invested parties. Notion’s educational blog posts can also help instruct your processes, like creating a product roadmap or writing a proposal.

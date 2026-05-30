@@ -1,0 +1,145 @@
+Title: What’s the rough order of magnitude? Understanding ROM
+Published Date: 2023-06-21T00:00-06:00
+URL: https://www.notion.so/blog/rough-order-of-magnitude
+
+Beginning a new project isn’t as simple as taking off from the starting line.
+
+Before you can even draft a course of action, you need approval from higher-ups and stakeholders. And you can’t walk into that meeting empty-handed — you must bring quantifiable data that justifies the resources you need to realize your vision.
+
+Your project plan, timeline, and scope all help guide your project into existence. But along the way — and even before you start — someone will ask about the project’s projected costs, in money and effort. To meet this demand, you need a rough order of magnitude (ROM) estimate ready to go at the outset. It’ll be your go-to document to answer all the tough questions about dollars and time.
+
+What’s a project’s rough order of magnitude?
+
+The ROM is an informal estimate of a project’s costs. It's more than a number scribbled on a scrap piece of paper, but less formal than a detailed budget. Think of the ROM as a starting point for the project budget — an approximation with room for change.
+
+The ROM is a helpful tool for determining whether a project is feasible for your business. It's one thing to estimate costs in your head and agree to a project, and another to apply calculations and see its true impact before giving it the final “yes” or “no.” Decision-makers can compare that impact to the costs and benefits of other projects on the starting block and determine the priority.
+
+Project managers also use the ROM to get a sense of a project's scope. Sure, there will be deviations from the original estimates. But the ROM is available for comparison, so you and the higher-ups can identify the most considerable variances. This helps with planning for the next project — it's just a matter of refining how you calculate the ROM estimate.
+
+How’s the rough order of magnitude determined?
+
+ROM calculations are more of an estimated range than an exact formula. The math is simple and straightforward for ease of use.
+
+Most project managers put the ROM estimate range at about -25% to +75% of the actual cost, while more conservative teams mark a range of +/-50%. These are pretty wide estimates — to put this in perspective, a formal budget typically has a range of deviance closer to -5% and +10%. That means an acceptable final result comes in 5% under or 10% over budget.
+
+Let’s walk through an example. Say your early ROM estimate is $1,000 and you’re using the -25% to +75% range. This puts the lesser boundary (-25%) at $750 and the greater boundary (+75%) at $1,750. Pretty simple, right? That’s because the difficulty of ROMs is less in this basic math and more in creating the original estimate.
+
+Coming up with an approximation of your costs is full of rough guesswork. However, the more informed you are about your projects and procedures, the better prepared you’ll be to generate a reasonable estimate.
+
+Rough order of magnitude estimate techniques
+
+There are four commonly used estimating techniques for determining a ROM “budget.” You can employ these individually or in tandem to create the most confident estimate possible.
+
+Analogous estimating
+
+Analogous estimating is one of the simplest techniques to apply to your ROM, as it uses data from similar past projects. You already know how close (or far) the ROMs of these other initiatives came to the final budget — use this info to inform the estimated duration and costs of your new project.
+
+You may choose analogous estimating when you don’t have much information about the specifics of the project yet. For this reason, this type of ROM is the least accurate — but it’s also the least expensive. In a few clicks, you can pull up data from past projects for a quick rough “guesstimate” based on cost and duration.
+
+Let’s say your company is marketing the launch of a new software product. The last launch took your team two months to prepare for and cost $30,000. Given that you’re promoting this latest product on a larger scale, you could estimate the current project will cost $45,000 and take three months to finish.
+
+Parametric estimating
+
+If your new project is similar enough in scope to past or current initiatives, you could also use parametric estimating. Unlike analogous estimates, this method focuses on specific unit rates rather than the entire cost.
+
+If your team must revamp the company website and you know what it costs to employ a UX and UI designer, you can extrapolate to create a ROM. On a previous web project, the company hired an external UI specialist for three days for a total of $1,200. And the cost to pay an internal UX designer is $300 per day. Your project manager expects this task to take two weeks (10 business days).
+
+You have two unit rates: $400 per day for the UI specialist and $300 per day for the internal UX team member. Using this information, you can estimate the cost over a 10-day period:
+
+($400 x 10) + ($300 x 10) = $7,000.
+
+While this method of estimating shakes out to be far more accurate than analogous estimates, it’s still susceptible to error. The accuracy of this ROM depends on the accuracy of the information you use to determine the unit rates, whether the data comes from industry publications or previous internal projects. If your information is wrong, the ROM will be grossly incorrect.
+
+Bottom-up estimating
+
+Bottom-up estimating can produce the most accurate estimate of your costs, assuming you have a precise work breakdown structure (WBS) prepared. This method studies everything related to your project, starting with the bottom components of your WBS. Working up ensures you don't miss any costs, because you consider every minute detail on the way up. It is, however, a much more time-consuming process than the other methods.
+
+For example, say your team is creating a 3D digital prototype for a new water bottle. To create the ROM, you need to spell out every last component that goes into the creation of a single prototype. For each item on the list, you need to create a time and cost estimate. The list might look like this:
+
+Product sketchSketching materials ($300)1 day to sourceInternal design team ($4,000)5 days to create final design 4 designers paid $200 per dayDesign approval ($2,000)2 days to revise design4 designers paid $200 per day3D renderingSoftware ($700)$350 per individual licenseExternal design team ($2,400)2 days to create final render2 specialists paid $600 per day
+
+Product sketch
+
+Sketching materials ($300)1 day to sourceInternal design team ($4,000)5 days to create final design 4 designers paid $200 per dayDesign approval ($2,000)2 days to revise design4 designers paid $200 per day
+
+Sketching materials ($300)
+
+1 day to source
+
+1 day to source
+
+Internal design team ($4,000)
+
+5 days to create final design 4 designers paid $200 per day
+
+5 days to create final design
+
+4 designers paid $200 per day
+
+Design approval ($2,000)
+
+2 days to revise design4 designers paid $200 per day
+
+2 days to revise design
+
+4 designers paid $200 per day
+
+3D rendering
+
+Software ($700)$350 per individual licenseExternal design team ($2,400)2 days to create final render2 specialists paid $600 per day
+
+Software ($700)
+
+$350 per individual license
+
+$350 per individual license
+
+External design team ($2,400)
+
+2 days to create final render2 specialists paid $600 per day
+
+2 days to create final render
+
+2 specialists paid $600 per day
+
+Rough order of magnitude versus definitive estimate
+
+While researching ROMs, you may encounter the term “definitive estimate.” A definitive estimate is a more precise cost projection than your ROM and takes place during the planning phase, rather than before your project begins.
+
+A definitive estimate carries a typical variance of -5% to +10% and requires bottom-up estimation to capture every single minute cost. Naturally, this takes a lot more time than the rough estimate because it needs to be as accurate as possible. After all, this is the cost estimate that ends up in your project plan.
+
+How to make a rough order of magnitude estimate
+
+Creating your ROM isn't just about doing the math — it's about discovering your project's assumed and realistic costs. Here’s how to make an educated and accurate estimate:
+
+1. Determine the size of your project
+
+Using previous projects as a guide, estimate how expansive the current project will be. This will help you determine the magnitude of your team's commitment so you can get buy-in from leadership. Calculating the size of your project is where most of the guesswork in the ROM process lies, but your project manager will have a good idea of the breadth of work.
+
+2. Figure out a timeline
+
+A timeline doesn't just inform cost estimates — it clarifies expectations for everyone involved. While external clients won't have visibility to your ROM, they’ll certainly show interest in the project timeline. Review past projects and your support system (such as available resources or existing supply chain) to construct the most logical timeline possible.
+
+3. Assume your costs
+
+This may seem daunting, but you know your costs. Your project management team has worked on similar endeavors before and can provide estimates on specific action items, whether you’re paying for server hosting or buying materials. Additionally, you know what your employees are worth. Labor costs factor heavily into a budget, and it’s the most static item you have to consider in your ROM. In all, facilities, labor, and equipment are the essential costs you need to include.
+
+4. Put it all together
+
+In the end, your ROM is a ballpark figure, an approximate value based on the size of your project, its timeline, and the assumed costs. A dollar value is associated with all three, and that's the range you want to focus on as you write your ROM. It doesn't have to be 100% accurate, just close enough to give stakeholders and management a number value association.
+
+Rough order of magnitude examples
+
+Creating a ROM might not be necessary for every single project, but there are some types of work where this type of estimate is non-negotiable. Here are a few examples:
+
+Large projects — these require a higher level of detail than standard, run-of-the-mill projects. Use a bottom-up methodology and finish with a definitive estimate to provide the most accurate information possible, as costs become more of a sticking point as they increase. International projects — when your project team exists across borders, it changes how you estimate labor costs. Different currencies and exchange rates add a slight level of complexity to your ROM. However, because of these complexities, performing a ROM to capture all the variables across border costs is necessary. Custom projects — some projects require a higher level of customization, whether because of innovation or a scope encompassing many different types of work. These need a ROM to determine costs across various departments and needs.
+
+Large projects — these require a higher level of detail than standard, run-of-the-mill projects. Use a bottom-up methodology and finish with a definitive estimate to provide the most accurate information possible, as costs become more of a sticking point as they increase.
+
+International projects — when your project team exists across borders, it changes how you estimate labor costs. Different currencies and exchange rates add a slight level of complexity to your ROM. However, because of these complexities, performing a ROM to capture all the variables across border costs is necessary.
+
+Custom projects — some projects require a higher level of customization, whether because of innovation or a scope encompassing many different types of work. These need a ROM to determine costs across various departments and needs.
+
+Project management made easier with Notion
+
+With Notion, you can quickly build a custom rough order of magnitude template and get into the cost details of your project. And if you need help figuring out a budget, Notion's budget tracker and project sourcing list templates have you covered. Then, when you’re ready, fill out your project goals template and kick off another successful initiative.

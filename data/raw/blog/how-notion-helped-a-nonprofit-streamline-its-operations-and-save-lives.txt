@@ -1,0 +1,33 @@
+Title: How Notion helped a nonprofit streamline its operations and save lives
+Published Date: 2025-04-09T20:30-07:00
+URL: https://www.notion.so/blog/how-notion-helped-a-nonprofit-streamline-its-operations-and-save-lives
+
+Welcome to the Builders series, where we salute people who are making wonderful things in Notion. Stories drop every Thursday. Read last week’s post, A playbook for twenty-first-century fatherhood, built on Notion
+
+Thirty-six years ago, Service Dogs, Inc. launched with an ambitious mission: to help train shelter dogs to become service dogs. Rather than rely on breeding dogs to help wounded veterans and the blind, SDI transforms unwanted dogs into lifelines for Texans living with disabilities.
+
+To pair mutts in need of a home with their humans, the organization set up a Customer Relationship Manager (CRM) in Notion. “You wouldn’t think a tech company and a bunch of dog people would all go together,” says SDI founder and CEO Sheri Soltes, “but we couldn’t live without [Notion] at this point.”
+
+Service Dogs, Inc. has multiple departments, each with unique needs. Trainers track dozens of dogs, admin staff handle hundreds of client applications, and leadership oversees fundraising and donor relations.
+
+Before onboarding Notion, SDI used multiple disconnected tools to manage its operations. This fragmented system was difficult to use and created bottlenecks. But by transitioning to a customized Notion workspace, SDI’s staff has been able to reduce administrative barriers, rescue more dogs, and ultimately help more people in need.
+
+SDI’s custom Notion workplace
+
+Notion became SDI’s single source of truth. Rather than each department using their own tools, switching to Notion allowed SDI streamline operations (and to stop paying for multiple software solutions that had low adoption rates).
+
+For trainers, Notion became SDI’s training-management system, where each dog has a dedicated Notion page to track their history, notes, and progress. This system eliminated dozens of hours in administrative overhead and allowed trainers to spend more time focusing on the dogs.
+
+For potential clients, Notion became SDI’s client-relationship-management system. New applications are now automatically imported from the website and sent to the appropriate team member. This replaces outdated spreadsheets and Salesforce records with an intuitive, accessible system that staff could quickly update.
+
+The marketing team created a centralized story gallery to house case studies that can easily be found and repurposed by staff across the organization. And the development team uses Notion to keep track of revenue streams coming from online platforms, grants, and donors.
+
+Results that speak for themselves
+
+By transitioning to Notion, Service Dogs, Inc. achieved one-hundred-percent platform adoption across the organization and
+
+✅ Eliminated thousands of dollars in annual software costs by replacing Salesforce and other paid tools✅ Improved efficiency across all departments, freeing up time for mission-critical work✅ Increased transparency and collaboration with a single connected workspace
+
+Today, Notion is SDI’s CRM, fundraising tracker, media repository, and digital HQ—all in one. With Notion at the core of its operations, SDI is a more agile and efficient organization, which allows them to spend more time fulfilling its mission of saving dogs and changing lives.
+
+“Now when we hear Notion, we all get excited,” Soltes says.

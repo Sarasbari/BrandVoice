@@ -1,0 +1,71 @@
+Title: The 3 types of knowledge to scale your startup
+Published Date: 2021-10-27T00:00-06:00
+URL: https://www.notion.so/blog/three-types-of-knowledge-for-startups
+
+Say your company’s basic processes are documented — thanks to experience and repetition, your employees have now found better ways of accomplishing those processes. If that information only lives in their heads, you’re missing out on valuable insights that could be helping others. Those documented processes are known as explicit knowledge, and the information that lives in your employees’ heads is known as implicit knowledge or tacit knowledge. Understanding these knowledge types and how to categorize them, apply them, and use them is called metaknowledge. When you can apply metaknowledge to how knowledge is stored and shared within your company, you can help your company improve productivity. You can also reduce the likelihood of knowledge getting lost when employees move in and out of roles.
+
+The different types of knowledge
+
+As people spend more time in their roles, they gain experience and know-how that could benefit others through knowledge sharing. Understanding the three kinds of knowledge is key to being able to categorize and share knowledge within your organization.
+
+Explicit knowledge
+
+Key attributes: Explicit knowledge is a knowledge type that is easily recorded, documented, codified, stored, accessed, and shared. It’s often obvious what is categorized as explicit knowledge because it simply makes sense to store information in a way that’s accessible for the whole team. You may also hear explicit knowledge referred to as factual knowledge, propositional knowledge, declarative knowledge, or descriptive knowledge.
+
+Benefits: Explicit knowledge is fact-based, easy to document, easy to access, and easy to share.  Examples: Instructional documents/videos, FAQs, reports, one-sheet flyers, diagrams, slide decks, textbooks, manuals, databases, guidelines, business rules, and intellectual property. Think of it as: Knowledge that comes directly from the documentation.
+
+Tacit knowledge
+
+Key attributes: Tacit knowledge is a knowledge type that is more difficult to explain and is sometimes tied to feelings or a company’s culture or practices. It’s not always obvious when this information should be documented or made explicit. It’s typically shared face-to-face or person-to-person within a company and gained through personal experience or personal knowledge. You may also hear tacit knowledge referred to as conceptual knowledge or situated knowledge.
+
+Benefits: Tacit knowledge provides context to help employees work more efficiently and record all aspects of a company that are hard to write down — how team members communicate, positioning with competitors, history of a customer relationship, and speed of execution, etc. Examples: Information about competitors and how your company maintains competitive advantage; information about working with clients, vendors, or other departments; knowledge of company culture; observations from personal interactions; and understanding when a prospective client is ready to commit to being a customer. Think of it as: Knowledge that comes from interacting with people.
+
+Implicit knowledge
+
+Key attributes: Implicit knowledge is a knowledge type that is gained through applying and experiencing explicit knowledge but hasn’t yet been documented. When using various types of explicit knowledge, there is often new knowledge gained through completing the process that’s considered implicit until it is documented. You may also hear implicit knowledge referred to as procedural knowledge or posteriori knowledge.
+
+Benefits: Implicit knowledge can provide additional insights to already-documented knowledge to increase efficiencies. Examples: Improvements to instructions that haven’t yet been made but were learned through doing the task, and updates to business rules that were learned over time haven’t yet been made. Think of it as: Knowledge that comes from experience while repeatedly using documented explicit knowledge.
+
+How to document your company’s types of knowledge
+
+When figuring out what to document, consider the following path.
+
+Start with the explicit
+
+If you’re just starting out creating a knowledge base or you feel that your existing knowledge base could be improved, focus on the easiest pieces first — the explicit knowledge. Make sure your company’s policies and procedures, onboarding documentation, HR information, training documents, and instructions for job functions are in place.
+
+Documenting explicit knowledge is obvious and straightforward because, generally, people have lots of experience using this type of information. Despite the fact that it’s easy, it may also be a heavy lift because of the amount of information that’s included in this category.
+
+Incorporate the tacit
+
+Next, figure out which types of tacit knowledge you might be able to document and turn into explicit knowledge. This might be things like implementing a system of updating customer notes documents, which are observations or notes from discussions with customers that can help make it easier for others working with them.
+
+For example, a coworker has been assigned to work on an account with you, and you begin sending them an email with a few tips on working with the client. You start listing out things like what days and times they prefer to hold meetings, how they feel about the language used to describe their product, the aesthetic they want to emanate with their brand. The email gets lengthy. This is a good time to make this knowledge explicit by documenting it and including it in that customer’s notes file. Keep in mind that not all tacit knowledge is able to be made explicit. Sometimes it’s information that’s intuitive and based on feelings, such as knowing when it’s a good time to propose a new project or ask for a budget allocation.
+
+Maintain and update with the implicit
+
+One way to think about your implicit knowledge is by considering it as the maintenance phase of your knowledge base. If you realize the method you use to complete a regular task differs from the existing instructions because you’ve found ways to be more efficient, it’s time to make that knowledge explicit by updating the instruction document. Similarly, if you have business rules for a request process within your organization and learn over time that they would benefit from some specific updates, it’s time to update those business rules. Make that implicit knowledge you gained from going through the process explicit by documenting it.
+
+8 best practices for documenting types of knowledge
+
+Use a knowledge management system — Put all of your company knowledge in a single place, so you have one hub of company information that makes it simple for your employees to access. Look for a tool that provides features and flexibility that will allow you to easily incorporate many types of knowledge and documents. Create categories or content buckets — Align the categories or content buckets within your knowledge base with your organizational structure and make sure information is placed within the correct area. This can help make things easier to find when employees go searching for the information they need.  Prioritize readability and ease of use — Use headings, bullets, white space, images, and formatting to make content easy to read. This will help employees find and digest the specific information they’re looking for, which also makes it more likely that they will consistently use the knowledge base. Peer review your documentation — Have other employees review the documentation in your knowledge base. They can provide feedback so you can ensure that everything is written and explained clearly, and information is thorough. This is most effective through successful cross-functional team collaboration. Assign responsibilities — Choose a small set of specific employees who are responsible for and have access to your knowledge management system. Having a regular set of individuals who are tasked with maintaining your knowledge base can help you make sure that the information is added and formatted in a consistent way. Make time for maintenance — Check the information and documents in your knowledge base and make regular updates. Information that’s out of date isn’t useful, and the less useful your knowledge base, the less your employees will use it. Consider ways to boost knowledge sharing — Think about ways you can incentivize employees to share their knowledge so it can be documented in your knowledge base. Make knowledge sharing an integral element of your company culture and give employees the time they need to document their knowledge. Make use of metrics — Check the metrics of your knowledge base regularly. If pages are used infrequently, determine if it’s because they need to be updated or if they’re out of date and can be deleted. This will help prevent your knowledge management system from getting bogged down in excessive amounts of information that are not useful.
+
+Use a knowledge management system — Put all of your company knowledge in a single place, so you have one hub of company information that makes it simple for your employees to access. Look for a tool that provides features and flexibility that will allow you to easily incorporate many types of knowledge and documents.
+
+Create categories or content buckets — Align the categories or content buckets within your knowledge base with your organizational structure and make sure information is placed within the correct area. This can help make things easier to find when employees go searching for the information they need.
+
+Prioritize readability and ease of use — Use headings, bullets, white space, images, and formatting to make content easy to read. This will help employees find and digest the specific information they’re looking for, which also makes it more likely that they will consistently use the knowledge base.
+
+Peer review your documentation — Have other employees review the documentation in your knowledge base. They can provide feedback so you can ensure that everything is written and explained clearly, and information is thorough. This is most effective through successful cross-functional team collaboration.
+
+Assign responsibilities — Choose a small set of specific employees who are responsible for and have access to your knowledge management system. Having a regular set of individuals who are tasked with maintaining your knowledge base can help you make sure that the information is added and formatted in a consistent way.
+
+Make time for maintenance — Check the information and documents in your knowledge base and make regular updates. Information that’s out of date isn’t useful, and the less useful your knowledge base, the less your employees will use it.
+
+Consider ways to boost knowledge sharing — Think about ways you can incentivize employees to share their knowledge so it can be documented in your knowledge base. Make knowledge sharing an integral element of your company culture and give employees the time they need to document their knowledge.
+
+Make use of metrics — Check the metrics of your knowledge base regularly. If pages are used infrequently, determine if it’s because they need to be updated or if they’re out of date and can be deleted. This will help prevent your knowledge management system from getting bogged down in excessive amounts of information that are not useful.
+
+Harness the power of knowledge to boost productivity
+
+It’s important to invest time and effort in understanding how knowledge can best be cataloged within your company and commit to following best practices to document that knowledge. By doing so, you can increase productivity, saving you money and helping you get an edge on your competition. When information is well documented with an easy-to-use knowledge management system, you can train new employees faster and help existing employees stay informed. Notion can help you get there. Not sure where to start? Take a look at our company wiki template to see an example and get going.

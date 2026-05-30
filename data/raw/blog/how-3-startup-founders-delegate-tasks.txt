@@ -1,0 +1,67 @@
+Title: How 3 startup founders delegate tasks
+Published Date: 2022-08-05T00:00-06:00
+URL: https://www.notion.so/blog/how-3-startup-founders-delegate-tasks
+
+You know you need to delegate certain tasks to your team, but you just can’t seem to do it. We understand. Delegating tasks is one of those things where it’s easier said than done.
+
+When you’re running your own startup, there tends to be this fear of giving up control. Delegation can be difficult, especially when you’re in the midst of scaling — where you realize you can’t do everything by yourself.
+
+To help you delegate more easily and effectively, we interviewed three startup founders and summarized the strategies they use. Here’s what they had to say.
+
+Use agile methodology
+
+Snipcart, a flexible shopping cart integration tool, delegates using agile methodology. Each developer is responsible for assigning themselves a task and asking questions to other team members if they hit any roadblocks.
+
+Snipcart keep their product roadmap in Notion, an all-in-one workspace, and split up tasks into smaller sections presented in sprint boards.
+
+Founder Charles Oulett says, "delegating tasks using Agile methodology and Notion makes the dev team more efficient and accountable, freeing me up to focus on macro strategies."
+
+Engineering teams can benefit from this task delegation method as developers gain an increased level of independence through agile working, which boosts confidence and helps with professional development. Plus, developers are able to learn new skills through continuous feedback and reviews — it’s easy for management to see task each developer is working on and assess performance easily for performance reviews. You can see the big picture of what’s going on in each department: the project drivers, due dates, and key contributors.
+
+Check out this video to learn how to plan sprints for your engineering team.
+
+Break down goals into individual tasks for each department
+
+Mosaic Tech, a strategic finance platform, delegates by setting weekly goals for each department. Mosaic Tech uses Notion as their workspace where the tasks are displayed. In weekly standup meetings, COO Joe Garafalo and co-founder and CEO Bijan Moallemi go over weekly goals, then delegate them to different departments.
+
+High-level goals are broken down into individual tasks for the team to carry out throughout the week. "Notion gives me a centralized place to see everything going on in our organization and keep tabs on who owns each of the many projects in flight,” says Joe.
+
+Startups can benefit from this task delegation method as time frames for specific tasks provide more granularity to enable better time management. Breaking down goals into individual tasks ensures that less time is spent on figuring out how to achieve each goal and focusing on making sure everyone is doing the right tasks. After all, efficient delegation means being very clear about what the person needs to execute, rather than also requiring them to do strategic thinking.
+
+Create individual agendas for team members
+
+Userlist, a SaaS email automation tool, creates individual weekly agendas in Notion for team members. Each team member at Userlist has their agenda document with their tasks in weekly blocks. If a task involves another team member, the team member is mentioned or Userlist takes advantage of the comments section.
+
+Userlist has top-level Kanban boards for Marketing, Product, Customer Success, etc. Each big project has its own "feature card," which contains the project roadmap and more detailed to-do items.
+
+Co-founder Jane Portman says, "What we value most about Notion is simplicity. We love being able to simply type to-dos instead of creating clunky cards or items."
+
+There are a few benefits of delegating like this: It's easy to check in with your employees — simply take a look at their agenda to see progress or follow-ups. It minimizes the need for micromanaging. Everyone's tasks are clearly laid out with higher-level notes — removing the need to constantly check in with team members.
+
+If you prefer a more visual layout, check out the perfect task list template.
+
+Tips for delegating tasks
+
+Good project management relies on habitually delegating tasks. If you're a first time founder or people manager, here are some tips.
+
+Determine the 3 Ws of task delegation: Who, What, and When
+
+Successful delegation is based on the 3 Ws of task delegation:
+
+Who: Choose who you should delegate tasks to. Do this by playing into the strengths and skill set of your team members. For example, if you have a time-efficient backend engineer who fixes minor bugs quickly, but struggles to stick to deadlines when it comes to server updates. You can delegate bug updates to this engineer and server updates that don’t have a hard launch date.
+
+What: Identify the desired outcome. You need to make sure your team knows exactly what they need in order to be successful. You can do this by giving clear instructions. Clear goal alignment will prevent you from having to go back and do the task yourself, which defeats the purpose of delegation
+
+When: Set a deadline — when do you want to see the desired results? It's important to make sure the task has a reasonable deadline. The last thing you need is overworked employees juggling multiple tasks under the burden of tight time constraints which could lead to employee burnout.
+
+Avoid micromanaging members of your team
+
+Let go of the desire to peek over everyone's shoulders while they're working. Good leaders trust their team members to do their jobs. If it helps, you can also delegate responsibility to senior members of your team. Employees can report back to senior members if there are any issues.
+
+Acknowledge successes and failures
+
+Be sure to give constructive criticism after each assigned task, and don't forget to praise good work. Frequent feedback will help you refine the workflows that will also help you find methodologies that work best for you and your team.
+
+Sharpen your delegation skills
+
+Delegation is a crucial management skill, and your delegation skills can only be as good as your tools. Every startup needs an effective delegation process, which enables you to keep track of important milestones and progress and oversee your team's work. Check out our templates to get started with your delegation today.

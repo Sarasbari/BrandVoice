@@ -1,0 +1,105 @@
+Title: A complete guide to writing a letter of interest
+Published Date: 2023-08-15T00:00-06:00
+URL: https://www.notion.so/blog/letter-of-interest
+
+You’ve just discovered your dream company.
+
+Its vision, culture, and products excite and connect with you. And you think you’d be an excellent fit to work there.
+
+But the company doesn’t have an open position that aligns with your skills or level of experience. It might be a disappointing realization, but it’s actually your opportunity to express your interest and explain exactly why you’re a great candidate for future positions — so when a role opens up, you’ll be at the top of the hiring manager’s mind.
+
+A letter of interest is the most effective way to contact a recruiter and show your enthusiasm for a company you love. And learning how to write one is your first step to getting your foot in the door.
+
+What’s a letter of interest?
+
+A letter of interest is a professional letter — often actually an email — that describes your desire to work for a company that doesn’t currently have a relevant job opening. This lets the hiring manager know what impresses you about the organization, why you feel you’d be a good fit, and what skills and qualities you bring to the table to support the company’s work.
+
+Why write a letter of interest?
+
+It’s nerve-wracking to apply for a job, and writing to express interest in an opportunity that doesn’t even exist yet may seem like an even riskier leap. But because you aren’t actually applying, you have nothing to lose. Here are more reasons why it’s worth it to dig deep and find the confidence to send a letter of interest:
+
+Stand out — once a job posting goes up, a recruiter’s inbox gets dozens (or even hundreds) of responses from viable candidates. But if there’s no current listing when you send a letter of interest, your email won’t be one in the crowd. Sending a note to demonstrate how you’d be a value-add shows initiative — a soft skill any hiring manager would like to see. Rule out bad fits — an organization may look like it suits you on paper, but as you learn more, you could find it’s not what you thought. Contacting a hiring manager starts a conversation about whether your dream company is the right environment for you. Maybe the organization’s roles require lots of travel, and you’re unable to live on the move. Or maybe it doesn’t have the benefits or compensation you’re looking for. Clarifying these details beforehand can save both you and the company time. Land an exclusive role — not all job postings are public, so sending a letter of interest could lead to discovering an unpublished role. A hiring manager may encourage you to apply for a job they’ve been recruiting for privately, or keep you in mind before they even post a new position.
+
+Stand out — once a job posting goes up, a recruiter’s inbox gets dozens (or even hundreds) of responses from viable candidates. But if there’s no current listing when you send a letter of interest, your email won’t be one in the crowd. Sending a note to demonstrate how you’d be a value-add shows initiative — a soft skill any hiring manager would like to see.
+
+Rule out bad fits — an organization may look like it suits you on paper, but as you learn more, you could find it’s not what you thought. Contacting a hiring manager starts a conversation about whether your dream company is the right environment for you. Maybe the organization’s roles require lots of travel, and you’re unable to live on the move. Or maybe it doesn’t have the benefits or compensation you’re looking for. Clarifying these details beforehand can save both you and the company time.
+
+Land an exclusive role — not all job postings are public, so sending a letter of interest could lead to discovering an unpublished role. A hiring manager may encourage you to apply for a job they’ve been recruiting for privately, or keep you in mind before they even post a new position.
+
+Letter of interest versus cover letter
+
+Job hunters send letters of interest when they’re intrigued by a company and want to put their hat in the ring for future opportunities. A cover letter accompanies a resume in a job application and provides an opportunity to list skills and express interest in a particular role.
+
+The two messages have similar goals, but a cover letter specifically targets a specific open position and is part of the formal application process. A job application will probably never ask you to send a letter of interest. It’s up to you to do so.
+
+The essential components of a letter of interest
+
+Any professional communication should be clear and concise, and following a strict outline will help keep your thoughts on course. Here are the components you should include to give the letter shape:
+
+1. Contact information
+
+Include contact information, like an email address, phone number, and professional website URL, in the heading of your document or after your email signature. That way the company knows exactly how to contact you to learn more.
+
+2. Greeting
+
+Address the hiring manager by name in a cordial greeting like, “Dear Monica Ruiz.” If you’re unsure who to address the letter to, use “To whom it may concern” or “To the hiring team at [company name].”
+
+3. Opener
+
+Open with a brief paragraph expressing your interest in the company. Don’t just say you love it — be specific. Include details on what you admire, such as a product that intrigues you or an aspect of the culture you find noble.
+
+4. Experience
+
+Use the body of the letter to connect yourself with  the company. Demonstrate why you’d add value by aligning your unique career highlights, skills, and personal qualities with company needs. If you know the company will be generating new AI features and you have experience coding them, add this point. If it runs on specific project management methodologies or technical tools that you’re expert at using, let the hiring manager know.
+
+5. Closing
+
+Close the letter by thanking the reader for their time and letting them know you’d like to learn about future opportunities. Mention that you’d be happy to provide further information if they want it. Then add a respectful sign-off, like “Best” or “Regards,” and your name. If you didn’t include contact information at the top of the page, do so after your signature.
+
+How to write a letter of interest
+
+Including all the essential components in your letter of interest is just the start. You also have to ensure that each section reinforces why you’d be an excellent match for the organization. Use the following steps to write a letter that’s not just functional, but attention-grabbing:
+
+1. Do your research
+
+Demonstrating your knowledge of the company is a major point of the letter, so do your research. Start by learning about the vision and mission statement to explore the organization’s core values and goals. Read through the entire website, and sign up for newsletters and subscriber lists to stay up to date. A solid grasp of the company’s culture, offering, and goals for the future will help you make a case for why you’d add value.
+
+2. Align your skills with the company’s vision
+
+List the company’s goals, values, and core offerings and trace them to your hard and soft skills. Then pull up examples from your career to support each of these links. To highlight your AI development skills, describe a relevant project in detail and how it solved a pain point for the end user.
+
+3. Freewrite
+
+Once you’ve finished brainstorming, flesh out the letter in a freewriting session. Just put pen to paper (or fingers to keyboard) and let the ideas flow. Keep the tone professional and confident, but don’t worry about overwriting in this draft. You can edit for key points later.
+
+4. Edit and proofread
+
+Edit the letter down to less than a page. Sharpen the focus of the body paragraph to only include the most powerful or aligned skills you offer. Then proofread, checking details, like the spelling of the company and hiring manager’s name and references to values or products. Run the letter through a spell checker or grammar editing tool to catch last-minute errors before hitting send.
+
+Letter of interest sample
+
+If you need some inspiration to start typing, model your text from the following sample letter for a job opportunity. Then, save the ones you generate so you can use your own writing as a template in the future.
+
+Dear [hiring manager’s name],
+
+My name is [your name], and I’ve long admired [company name]’s inclusive company culture and focus on creating dynamic collaboration tools that encourage communication and transparency. I read on your website that you’ll soon be launching AI tools on your platform, and as a developer who specializes in creating these types of features, my interest piqued even further.
+
+While I don’t see any open developer roles, I would like to offer my skills for future positions. I recently worked on a team that generated an AI assistant for a client’s wellness application. The feature we developed provided end users with tailored dietary and exercise suggestions based on fitness data collected by the app. The product won an award for one of the best pieces of software of its kind. I also learned that your company encourages hackathons, and I recently took first place at one of these events with my idea for an AI-driven healthcare app.
+
+Thank you for your time. I’d be thrilled to learn more about future opportunities at [company name] and apply for roles where I could add value.
+
+Best,
+
+[your name]
+
+[email]
+
+[phone number]
+
+[LinkedIn or portfolio links]
+
+Level up your career with Notion
+
+Drafting a letter of interest for a job that could open up in the future helps you plan for the best. Continue working toward your dream role with Notion’s organized and connected workspace.
+
+Delve into Notion’s guides on everything from creating a career action plan, setting SMART goals, and determining the objectives that will take you across the finish line.

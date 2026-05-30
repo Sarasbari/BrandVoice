@@ -1,0 +1,91 @@
+Title: Cross-functional teams: How to build a collaborative workplace
+Published Date: 2023-07-27T00:00-06:00
+URL: https://www.notion.so/blog/cross-functional-team
+
+When employers create silos within top-down hierarchical organizational structures, they risk losing knowledge. Each team is only responsible for its set tasks and doesn’t interact with other groups, making it difficult for businesses to adequately support deficient departments.
+
+Your marketing team needs input from sales to complete campaigns, and project managers often have to work with departments like engineering and design to complete a project.
+
+That’s why promoting cross-functional collaboration is so important. You avoid siloing information and expertise to one department, instead encouraging everyone to leverage coworker assets. Building a cross-functional team also promotes more innovative thinking and helps you create a single source of truth across departments.
+
+What’s a cross-functional team?
+
+A cross-functional team combines employees from various departments to complete a project or achieve a company goal. Cross-functionality is the ultimate level of teamwork, taking employees out of their silos and into a truly collaborative environment.
+
+Cross-functionality goes hand-in-hand with cross-training, allowing employees to learn about other departments. This enables them to help on projects or provide further insight. Working with cross-functional teams creates an agile problem-solving workforce that’s ready to tackle any project.
+
+How cross-functional a company’s departments are depends on its size. Smaller companies and startups are usually cross-functional by nature, as there aren't enough employees to justify stand-alone departments. As a company grows, C-suite executives need to build cross-functionality, encouraging different departments and teams to communicate and collaborate with one another.
+
+The benefits of creating a cross-functional team
+
+Encouraging collaboration and knowledge-sharing is rarely a bad idea. Here are some of the benefits of working cross-functionally:
+
+More focus on shared company goals — when a company silos departments, they also silo goals, so teams might lose sight of company-wide objectives. This departmentalism also means decision-making processes are often incohesive, which might mean it takes a team longer to effectively achieve these shared goals. But encouraging cross-team collaboration helps employees keep overarching and shared objectives in sight. And it’s also easier to streamline and mirror processes across departments to achieve company goals more quickly. Increased efficiency — strategic teams are efficient, speedy, and inherently cross-functional. Nearly every project involves task dependencies that cross departments, like work a designer must complete before a web developer can start. Encouraging cross-functionality from the start means employees build important relationships with their coworkers right away, making it easier to go to them when a task is done or if they need help. More innovative thinking — every employee offers a unique perspective and invaluable expertise. Bringing their minds together increases the number of novel ideas shared as diverse individuals bounce off each other or lend their knowledge to a new subject.
+
+More focus on shared company goals — when a company silos departments, they also silo goals, so teams might lose sight of company-wide objectives. This departmentalism also means decision-making processes are often incohesive, which might mean it takes a team longer to effectively achieve these shared goals. But encouraging cross-team collaboration helps employees keep overarching and shared objectives in sight. And it’s also easier to streamline and mirror processes across departments to achieve company goals more quickly.
+
+Increased efficiency — strategic teams are efficient, speedy, and inherently cross-functional. Nearly every project involves task dependencies that cross departments, like work a designer must complete before a web developer can start. Encouraging cross-functionality from the start means employees build important relationships with their coworkers right away, making it easier to go to them when a task is done or if they need help.
+
+More innovative thinking — every employee offers a unique perspective and invaluable expertise. Bringing their minds together increases the number of novel ideas shared as diverse individuals bounce off each other or lend their knowledge to a new subject.
+
+The limitations of cross-functionality
+
+Teamwork makes the dream work — but it also has its limitations. Here are some issues that might occur when creating a cross-functional team:
+
+Confused employees — if project managers aren’t clear about shared goals and communication cadences, employees might feel confused trying to juggle several cross-team objectives and communication rules. Dissatisfied employees — some employees enjoy the focus that more siloed workplaces provide, which can push cross-functional projects off the rails. A teammate might not work toward understanding cross-team task handover policies, so someone from another team always has to ask for updates or for them to hand over the task. Confusing power dynamics — if leadership professionals don’t clearly outline managerial roles, employees might not know who they report to. And as most cross-functional teams contain several leaders, this can cause conflict and misaligned demands. More work — if a company’s teams aren’t already organized cross-functionally, implementing this structure will take some work. The leadership team must decide how to organize all teams, where cross-functionality makes sense and where it doesn’t, and how to implement shared and cohesive policies across all groups, among other things.
+
+Confused employees — if project managers aren’t clear about shared goals and communication cadences, employees might feel confused trying to juggle several cross-team objectives and communication rules.
+
+Dissatisfied employees — some employees enjoy the focus that more siloed workplaces provide, which can push cross-functional projects off the rails. A teammate might not work toward understanding cross-team task handover policies, so someone from another team always has to ask for updates or for them to hand over the task.
+
+Confusing power dynamics — if leadership professionals don’t clearly outline managerial roles, employees might not know who they report to. And as most cross-functional teams contain several leaders, this can cause conflict and misaligned demands.
+
+More work — if a company’s teams aren’t already organized cross-functionally, implementing this structure will take some work. The leadership team must decide how to organize all teams, where cross-functionality makes sense and where it doesn’t, and how to implement shared and cohesive policies across all groups, among other things.
+
+How to build an effective cross-functional team: 6 tips
+
+Cross-functional projects require effective collaboration. Encourage company-wide teamwork by following these six tips.
+
+1. Promote diversity
+
+Leadership and hiring professionals must prioritize diversity and inclusivity to ensure your organization welcomes all voices and perspectives. Having this as a core company value means it’ll be easier to establish cross-functionality where all teammates work comfortably and collaboratively together.
+
+Not only does promoting diversity make all feel welcome, but it also makes problem-solving more innovative and effective. Two heads — or several uniquely-positioned individuals — are better than one.
+
+2. Set clear goals
+
+Effective cross-functionality’s biggest weakness is unclear objectives. Once departments join, managers must be specific about action items and goals so everyone understands why they’re working together and what they’re meant to do. Try creating SMART goals (specific, measurable, attainable, relevant, and time-bound) to help your team meet objectives through structured expectations.
+
+3. Embrace flexibility
+
+Team members will come and go based on project needs, and deadlines will change. Keep your project documentation up to date to ensure new team members keep the project on track. And when deadlines or project requirements do shift, communicate these adjustments right away, stressing how these changes affect each person’s work.
+
+4. Identify leadership roles
+
+With cross-functional team management, leadership typically falls to project managers, as they’re responsible for the project. While the titles of different team members might contradict that, it’s important to decide on a leader at the outset of the project in order to avoid confusion and time-wasting conversations about who’s in charge. You can use a project-specific communication cadence flowchart to showcase leadership roles and hierarchies.
+
+5. Keep meetings to a minimum
+
+While thoughtful and strategic meetings are an effective way to unite distributed teams, employees might fear time-consuming and redundant chats when shifting to a cross-functional team. Audit meeting invites to ensure the right team members attend and make sure all employees know why they’re attending different meetings.
+
+6. Set communication rules
+
+One of the messier aspects of cross-functional workplaces is communication. Employees might feel confused regarding who they should ask different questions, and they’re chatting with coworkers across departments, which can get complicated. To ease this confusion, ensure you or your employer implement a useful communication platform like Slack or Microsoft Teams. Try to move all chat into streamlined channels within these platforms, so employees know precisely where to contact the right people.
+
+Examples of cross-functional teams
+
+While cross-functional teams are often unique and customized by leadership professionals, here are some common examples:
+
+Marketing teams might include designers, sales professionals, and client-facing customer service representatives.Data analysis teams often include subject matter experts that inform analyses so the team can create more accurate forecasts and predictive models.Process audit teams require a team of cross-department leaders to audit company processes and procedures. Each manager provides insights into their team’s workflows to improve overall quality management changes. Implementation teams require members from nearly every department — from project management to design to sales — to fulfill a product or service’s implementation plan. Team members from across the company will help brainstorm, create, and launch this new offering.
+
+Marketing teams might include designers, sales professionals, and client-facing customer service representatives.
+
+Data analysis teams often include subject matter experts that inform analyses so the team can create more accurate forecasts and predictive models.
+
+Process audit teams require a team of cross-department leaders to audit company processes and procedures. Each manager provides insights into their team’s workflows to improve overall quality management changes.
+
+Implementation teams require members from nearly every department — from project management to design to sales — to fulfill a product or service’s implementation plan. Team members from across the company will help brainstorm, create, and launch this new offering.
+
+Collaborate better with Notion
+
+Now that you’ve learned all about creating a cross-functional team, one thing remains — you need a connected hub everyone can collaborate in. Move your team into Notion and enjoy centralized documents, like team wikis, project roadmaps, and brainstorming templates. Or search our template gallery for something perfectly suited to your team’s needs.

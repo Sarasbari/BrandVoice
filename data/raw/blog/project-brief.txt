@@ -1,0 +1,81 @@
+Title: How to create a clear project brief
+Published Date: 2023-06-21T00:00-06:00
+URL: https://www.notion.so/blog/project-brief
+
+Your project doesn't launch out of thin air. Planning and implementation require foresight.
+
+There’s always a moment before starting when stakeholders and management want to see a project summary and sign off on every step. They want something they can quickly reference to answer questions about project requirements and goals and make any last-minute changes.
+
+An organized document with a focus on functionality, a project brief conveys critical information about your project to your team, stakeholders, and management. Here’s how to write and implement one that sets everyone up for success.
+
+What’s a project brief?
+
+A project brief is a summary of your project's goals and methodology. Based on the complexity of your project, it could be as short as a few paragraphs or as long as a few pages. This will usually live in a document that all stakeholders and team members have access to.
+
+You'll create a brief at the beginning of your project — before implementing a plan, but after company buy-in. It doesn’t need to be as detailed as a formal plan, but should at least include the project’s overall elements and requirements.
+
+The goal is to provide a summary to key stakeholders and management, so this doc should be brief (hence the name) and to the point. It should also contain enough details to satisfy the question of why this project is being undertaken, but not too many to confuse or overwhelm stakeholders.
+
+What’s included in a project brief?
+
+A project brief should include basic details about the project’s goals, who’s involved, and other key resources you need in order to get the ball rolling. It could quickly swell depending on your team's needs, but most project briefs will contain at least these five elements:
+
+Project description — since this is a brief document and not a detailed project plan, your description can be just a few sentences that answer the fundamental questions about why the project is necessary, what problem it seeks to solve, and how much it'll cost. Organizational outline — provide further information about the related client and their needs and how your project meets those needs. If it's a marketing campaign, there's no need to dive into every brand guideline and social media post; all you need is a concise descriptor of the campaign and its goals.Project goals — define and summarize your goals and explain what the end product will ideally look like. You should also describe the basics of your project scope, though without including all the task details. Project team — when management reviews a brief, they'll want to know who’s working on the project. The project manager should be at the top of the list, followed by the team and any stakeholders. This helps management know who to ask when they have questions. Timeline of milestones and deliverables — you might not have your exact schedule or Gantt chart complete at this stage, but a general project timeline is sufficient here. Tack on the deliverables you already know you need and any overall project deadlines or due dates.
+
+Project description — since this is a brief document and not a detailed project plan, your description can be just a few sentences that answer the fundamental questions about why the project is necessary, what problem it seeks to solve, and how much it'll cost.
+
+Organizational outline — provide further information about the related client and their needs and how your project meets those needs. If it's a marketing campaign, there's no need to dive into every brand guideline and social media post; all you need is a concise descriptor of the campaign and its goals.
+
+Project goals — define and summarize your goals and explain what the end product will ideally look like. You should also describe the basics of your project scope, though without including all the task details.
+
+Project team — when management reviews a brief, they'll want to know who’s working on the project. The project manager should be at the top of the list, followed by the team and any stakeholders. This helps management know who to ask when they have questions.
+
+Timeline of milestones and deliverables — you might not have your exact schedule or Gantt chart complete at this stage, but a general project timeline is sufficient here. Tack on the deliverables you already know you need and any overall project deadlines or due dates.
+
+Project brief versus creative brief
+
+For design or marketing projects, you'll want to create a creative brief. It contains similar items to a project brief, such as audience and timeline, but also includes style specifics like messaging, tone, and brand guidelines. It goes into slightly more depth so all team members align on the vision before starting work.
+
+If you’re delivering your brief to a client, the creative brief will perform double duty as a statement of work. You’ll describe what you plan on delivering and why, with project scope and a more detailed list of deliverables than a normal project brief would. Then you can give your client the chance to make changes before diving in.
+
+Project brief versus executive summary
+
+An executive summary contains most of the same elements as a project brief, but is more concisely written for the C-suite executive audience. You'll know whether you need to create an executive summary based on how many executive-level stakeholders interact with your project. If it’s quite a few, you should write one along with your brief.
+
+Developers and project managers want more detail, but execs likely don’t. They only need the basics of the scope and timeline. Keep executive summaries short and skimmable.
+
+How to create a project brief
+
+There’s a delicate balance when it comes to writing a project brief. You don't want to recreate your project plan, but you want to include enough elements to keep the document relevant. The trick for how to write a brief is to focus on helpful information that answers fundamental questions without repeating itself. Don’t overload your doc with too many details.
+
+1. Write a quick project summary
+
+Include your project description and stakeholder information within your project summary. This will consist of an overview of why this project is in progress and what problem or request it serves to answer. If the project is for a client, it'll also include basic information such as name, contact details, and general budget.
+
+2. Outline your objectives
+
+List your top-level goals and how they tie into the larger plan. You don't need to include every deliverable, but you want to provide enough information for your audience to quickly determine important milestones. Even noting your final deliverable is enough here.
+
+3. Provide a project timeline
+
+Write down your expected completion date, with some cushion for any problems that may arise along the way. This isn't a hard and fast date, but it should represent your project's anticipated delivery time. Stakeholders will have enough information to temper expectations between the start and end dates.
+
+4. Define the target audience
+
+Who is this project for? You want to think about who you’re delivering the end product to, whether that’s an external client or another department — but you also need to consider the consumer. Defining your audience should help define the project’s goals and specifics.
+
+5. Connect your project to the team
+
+From your project manager to stakeholders, create relevance with your brief by tying details like resources and roles to individuals or teams responsible for those items. This isn't where you assign every task, but it is where you alert your team members of their responsibilities on this project.
+
+Project brief example
+
+For most projects, a two-column table will usually suffice. But more complex ones might require more space for more information, like full timelines and assignments.
+
+This marketing project brief template offers a more in-depth example. You’ll find an overview, a section to manage stakeholders, robust features like KPIs, and a detailed timeline. While not necessary for a general project brief, having the option to add these additional elements can only help your team succeed.
+
+Stay on track with Notion
+
+The work doesn’t end after creating your project brief and holding a kickoff meeting. Notion has the tools and templates to help you manage and keep your project on track throughout the entire process.
+
+If you still need to create your project brief, Notion's creative brief templates can get you started, while the task tracker and project goals templates will fully flesh out your project. And all of these documents can live in your team’s workspace so nobody gets left behind.

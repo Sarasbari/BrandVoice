@@ -1,0 +1,495 @@
+Title: How to get a Gmail desktop app for Windows and Mac
+Published Date: 2025-02-28T11:00+02:00
+URL: https://www.notion.so/blog/gmail-desktop-app
+
+When you want to create a streamlined workflow, every click matters—and using Gmail through a browser takes quite a few of them. This is especially true if you need to juggle several inboxes, which gets tiring pretty quickly.
+
+A Gmail desktop app can resolve this issue and give you instant access to your inbox(es). In this guide, we’ll explain how to get the app on your desktop and explore different Gmail clients that enable an effortless emailing experience. You’ll then learn how to choose the best option for your workflow and needs.
+
+Does Gmail have a desktop app?
+
+Gmail doesn’t offer a dedicated desktop app for any operating system. It’s an exclusively web-based service, so it’s typically accessed from different browsers. Unless you use Gmail on your smartphone or tablet, you won’t see an official Gmail app.
+
+While the web app is well-optimized and easy to use, many users prefer having a dedicated desktop app for several reasons, most notably:
+
+Real-time notificationsAdvanced productivity and customization featuresIntegrations with other toolsDesktop-level integrations, like opening mailto links
+
+Real-time notifications
+
+Advanced productivity and customization features
+
+Integrations with other tools
+
+Desktop-level integrations, like opening mailto links
+
+Plus, many email apps nowadays are packed with useful AI features that streamline your workflow, which are typically available in desktop apps. While Gmail does have some smart features like autofill and reply suggestions, they might not be enough to remove manual work from your email experience.
+
+That said, there are a few ways to work around the limitations caused by Gmail’s lack of a desktop app.
+
+How to get Gmail on your desktop—4 methods
+
+Depending on what you need a Gmail desktop app for, you can find several solutions for the web app’s shortcomings. Below, we’ll cover the most useful ones alongside their pros and cons.
+
+Method #1—Adding Gmail shortcuts to your desktop
+
+The easiest way to get Gmail on the desktop is to create a shortcut from your browser. Doing so works the same way as it does for any web page, with the specific steps varying between browsers. We’ll go over the most popular options to give you an idea of the general steps:
+
+ChromeEdgeFirefoxSafari
+
+Chrome
+
+Edge
+
+Firefox
+
+Safari
+
+1. Chrome
+
+To create a Gmail shortcut in Google Chrome, follow these steps:
+
+Open your inboxClick the three-dot icon in the upper-right cornerGo to Cast, Save, and Share > Create Shortcut…
+
+Open your inbox
+
+Click the three-dot icon in the upper-right corner
+
+Go to Cast, Save, and Share > Create Shortcut…
+
+The shortcut will appear on your desktop like so:
+
+When you click on it, your inbox will open in Google Chrome. If your main goal is to access the inbox faster without any additional features of a dedicated app, this method should work well enough.
+
+Still, the shortcut doesn’t offer notifications or offline access to your inbox. These features require a more elaborate solution, which we’ll cover a bit later in this guide.
+
+2. Edge
+
+Microsoft Edge offers a feature that gets you as close to a Gmail app for Windows as you can be—installing specific websites as apps. Here’s how to do it:
+
+Open Gmail in EdgeClick the three-dot icon in the upper-right cornerGo to Apps > Install This Site as an App
+
+Open Gmail in Edge
+
+Click the three-dot icon in the upper-right corner
+
+Go to Apps > Install This Site as an App
+
+After you name the app, it will be placed in the Edge Apps folder, from which you can move it to your desktop.
+
+The reason we included Edge’s solution in the shortcuts section is that the “app” is exactly that. While it opens in a dedicated window that doesn’t resemble a browser, it’s technically a web app instead of a dedicated desktop app, so it’s not that different from any shortcut that takes you to Gmail’s official web app.
+
+If you don’t think this is enough and wish to remove the app/shortcut, take these steps:
+
+In the Edge browser, go to Apps > View AppsClick the three-dot button in the new window and go to “Manage Apps”Find Gmail, click the three-dot button in the upper-right corner, and choose “Uninstall”
+
+In the Edge browser, go to Apps > View Apps
+
+Click the three-dot button in the new window and go to “Manage Apps”
+
+Find Gmail, click the three-dot button in the upper-right corner, and choose “Uninstall”
+
+3. Firefox
+
+Creating a Firefox shortcut for Gmail is pretty straightforward—here’s how to do it:
+
+Open your inboxClick and hold the shield icon on the left side of the address barDrag the mouse to your desktop
+
+Open your inbox
+
+Click and hold the shield icon on the left side of the address bar
+
+Drag the mouse to your desktop
+
+The shortcut will be saved as a .webloc file and open Gmail in your default browser. As such, it shares the same limitations of other shortcuts, so you don’t get any benefits besides faster access to your inbox.
+
+4. Safari
+
+If you need an alternative to the Gmail app on Mac devices, you can use Safari to add a shortcut directly to your dock by following these two steps:
+
+Open your inboxGo to File > Add to Dock…
+
+Open your inbox
+
+Go to File > Add to Dock…
+
+You’ll see the Gmail icon on the right side of your dock, and you can choose to keep it there or drag it to the desktop.
+
+Method #2—Using a Chrome extension
+
+This option is mainly useful if you want to receive notifications of new emails and don’t need any other features of a full-fledged app. Chrome offers several extensions that either provide notifications or go beyond this by providing a new window dedicated to Gmail.
+
+As useful as this might be in some niche cases, this method suffers from several issues, most notably:
+
+You don’t get an actual desktop app but a browser extensionCapable extensions with features beyond notifications require paid subscriptionsExtensions don’t offer offline use
+
+You don’t get an actual desktop app but a browser extension
+
+Capable extensions with features beyond notifications require paid subscriptions
+
+Extensions don’t offer offline use
+
+If you don’t mind these drawbacks and only want to enhance your browsing experience by getting notifications and having a dedicated button for accessing your inbox, you can browse the Chrome Web Store for different Gmail app extensions.
+
+Method #3—Adding Gmail to your native client
+
+If you want the full functionality of a dedicated desktop email client, you can add a Gmail account to your device’s default client. By doing so, you can leverage the email client’s features like:
+
+Offline modeNotificationsInbox organization features
+
+Offline mode
+
+Notifications
+
+Inbox organization features
+
+That being said, you will lose the Gmail web app’s interface and features, so you might need to rebuild some of your email workflows.
+
+If you don’t mind the process overhaul, you can add your Gmail account to the desktop client in a few quick steps. Here’s how to set it up on two widely used desktop clients:
+
+Outlook (for Windows devices)Apple Mail (for macOS devices)
+
+Outlook (for Windows devices)
+
+Apple Mail (for macOS devices)
+
+1. Adding a Gmail account to Outlook
+
+If you need a Gmail client for Windows, Outlook makes perfect sense if you don’t mind its outdated user interface.
+
+To add a Gmail account to Outlook, follow these steps:
+
+Go to File > Add account (or click the + button and select Add Email Account if you’re on a Mac)Enter your Gmail address (or create a new one)Log into your Google account and complete two-factor verification if needed
+
+Go to File > Add account (or click the + button and select Add Email Account if you’re on a Mac)
+
+Enter your Gmail address (or create a new one)
+
+Log into your Google account and complete two-factor verification if needed
+
+Your Gmail account will appear in the left-hand menu next to your other accounts (if any), so you can switch between them pretty easily. You can create specific folders for each email account, which helps organize your inbox more neatly.
+
+Outlook’s default email sorting into Focused and Other inboxes should also help you manage incoming mail more efficiently, though the feature isn’t foolproof and might cause important emails to end up in Other.
+
+2. Adding a Gmail account to Apple Mail
+
+Apple Mail is often a no-brainer client for Mac users—it’s well-integrated into macOS, and you can use various useful features like custom domains if you sign up for iCloud+. If you don’t mind a few drawbacks like a lack of notifications unless the app is open, you can add your Gmail account to Apple Mail in no time—here’s how:
+
+Open the Mail appClick Mail > Add Account…Choose Google when prompted about the providerSign into your Google account
+
+Open the Mail app
+
+Click Mail > Add Account…
+
+Choose Google when prompted about the provider
+
+Sign into your Google account
+
+Much like Outlook, Apple Mail will separate your accounts to avoid mix-ups and help you manage them more easily. All devices connected to your iCloud account should sync to include the Gmail account, so you’ll have it across the ecosystem.
+
+Keep reading: Check out our Apple Mail vs. Outlook breakdown to see how the two options measure up and discover how Gmail compares to Apple Mail.
+
+Method #4—Using a third-party Gmail desktop client
+
+If the outdated interface and limited features of your device’s default email client hinder your productivity, you may want to switch to a third-party Gmail client. Several email clients surfaced with various useful features, not only to fix Gmail’s lack of a desktop app but to help users build streamlined workflows and boost overall efficiency.
+
+We’ll go over the best desktop apps for Gmail that integrate with Gmail and enrich it through different value-adds besides dedicated desktop apps:
+
+Notion MailMailbirdCanary MailSpark Mail
+
+Notion Mail
+
+Mailbird
+
+Canary Mail
+
+Spark Mail
+
+Below, you’ll see concise reviews of each option alongside their benefits, drawbacks, and pricing options.
+
+1. Notion Mail
+
+Notion Mail is a personalized, AI-powered Gmail client that makes the desktop email experience every bit as smooth as mobile emailing. It does so by combining a minimalistic user interface with features that help you (and your team) adapt the layout to specific workflows.
+
+The app lets you create custom views and layouts for different purposes (support, sales, etc.). This way, emails are organized not only by priority but also by specific departments to ensure everyone can focus on what matters.
+
+Notion Mail saves time through various efficiency-driven features, such as:
+
+Snippets: Compose emails quickly with reusable one-click templatesSlash commands: Skip manual work when performing tasks (like scheduling with the built-in Notion Calendar)Keyboard shortcuts: Instantly perform common tasks (reply, trash, etc.)
+
+Snippets: Compose emails quickly with reusable one-click templates
+
+Slash commands: Skip manual work when performing tasks (like scheduling with the built-in Notion Calendar)
+
+Keyboard shortcuts: Instantly perform common tasks (reply, trash, etc.)
+
+Notion Mail’s AI takes the monotony out of inbox management—set simple prompt-based rules to sort, filter, label, and prioritize emails instantly, with zero manual work.
+
+You also get auto-replies powered by AI and intelligent response suggestions, which ensure you don’t need to come up with responses from scratch.
+
+Additionally, when you hover over an email in your inbox or open a thread, you’ll see AI-generated summaries that extract the key points to help you power through your inbox much more efficiently.
+
+Notion Mail integrates seamlessly with other products from the Notion ecosystem. If you already have a Notion account, all you need to do is sign up with it. Keep in mind that the app only works with Gmail, so you need a Gmail or Google account to get started.
+
+Pricing
+
+Notion Mail is completely free to use. You get all the customization and email organization features at no cost, as well as the key AI features (quick replies, summaries, etc.). To leverage the platform’s advanced AI capabilities, you can sign up for the optional Notion AI add-on.
+
+Pros and cons
+
+Here are Notion Mail’s pros and cons at a glance:
+
+ProsConsCustom views and layoutsVarious productivity featuresRobust AI supportFree to useOnly supports Gmail/Google accounts
+
+Pros
+
+Cons
+
+Custom views and layouts
+
+Various productivity features
+
+Robust AI support
+
+Free to use
+
+Only supports Gmail/Google accounts
+
+2. Mailbird
+
+With over 4.3 million users, Mailbird is among the most popular third-party email clients on the market. It supports other popular providers besides Gmail, such as:
+
+OutlookYahooGoDaddy
+
+Outlook
+
+Yahoo
+
+GoDaddy
+
+At first glance, Mailbird’s interface resembles Outlook’s, though it’s more modern and minimalistic. All your accounts are housed in the left-most panel, from which you can access and manage different inboxes.
+
+You get desktop apps for Windows and macOS, as well as mobile apps for Android and iOS. This ensures consistency across devices and helps you avoid using different clients across devices.
+
+The app offers standard features you’d expect from an email client, such as:
+
+Advanced searchEmail foldersSignatures
+
+Advanced search
+
+Email folders
+
+Signatures
+
+Besides the basics, Mailbird provides some advanced features, such as the email tracking option. It lets you oversee sender behavior by telling you who opened your email and when.
+
+Another noteworthy feature is Speed Reading, which plays the email back at your chosen rate to help you get through emails faster.
+
+Mailbird integrates with various apps, from social media platforms like Facebook and Instagram to productivity solutions like Slack and Asana. This diverse coverage makes it easy to fit into your workflow and streamline the emailing experience.
+
+Despite its many benefits, Mailbird is far from perfect. Users have reported major connection losses to Microsoft accounts, as well as faulty integrations with Slack and Chrome.
+
+Pricing
+
+Mailbird offers a free plan, though you can only add one account. Seeing as most people at least have a personal and business email, this makes the app a poor fit for those looking for a free option.
+
+As for the paid tiers, Mailbird Premium offers two options:
+
+Annual: $5.72/user per monthOne-time payment: $99.75/user
+
+Annual: $5.72/user per month
+
+One-time payment: $99.75/user
+
+If you opt for the second option, you’ll need to pay an additional $96 for lifetime updates unless you want to use the version you get at the time of signing up.
+
+Pros and cons
+
+The following table summarizes the pros and cons of Mailbird:
+
+ProsConsAvailable for Windows and macOSSupports most major email providersOffers email trackingThe free plan only includes one accountPotential connectivity issues with Microsoft accountsIntegrations might not work well all the time
+
+Pros
+
+Cons
+
+Available for Windows and macOS
+
+Supports most major email providers
+
+Offers email tracking
+
+The free plan only includes one account
+
+Potential connectivity issues with Microsoft accounts
+
+Integrations might not work well all the time
+
+3. Canary Mail
+
+Canary Mail is an AI-enabled email client that advertises itself as an excellent option for power users. Like Mailbird, it supports all major email providers and is available on Windows, macOS, iOS, and Android.
+
+The platform’s first notable feature is automated email categorization similar to Gmail’s native feature. Your emails are split into pre-defined categories (social, promotions, etc.), and you can create custom folders manually.
+
+Other email organization features include:
+
+Bulk email deletionConversation pinningEmail snoozing
+
+Bulk email deletion
+
+Conversation pinning
+
+Email snoozing
+
+To help you write emails faster, Canary Mail offers an AI writer that can take care of first drafts. You can also create email templates to create repeatable workflows for outgoing mail.
+
+Canary Mail also uses AI to summarize incoming emails, which can save you quite a bit of time in the long run. When you reply, you’ll get read receipts in real time for additional insight into your conversations.
+
+As for the downsides, the main one seems to be the user interface. Some users reported notable UX issues that made Canary Mail difficult to navigate. Others have complained about the usability of the email writer, which seems to deliver lackluster performance.
+
+Pricing
+
+Canary Mail offers a free plan, which is pretty generous. You get unlimited accounts and storage, as well as useful organization features. If you wish to upgrade, you have two options:
+
+Growth: $3/user per monthPro+: $10/user per month
+
+Growth: $3/user per month
+
+Pro+: $10/user per month
+
+Pros and cons
+
+Here’s a quick summary of Canary Mail's benefits and drawbacks:
+
+ProsConsRich free planRobust email organizationAI-powered featuresPotential issues with AI email writingOccasional UX problems
+
+Pros
+
+Cons
+
+Rich free plan
+
+Robust email organization
+
+AI-powered features
+
+Potential issues with AI email writing
+
+Occasional UX problems
+
+4. Spark Mail
+
+Spark Mail is another multiplatform client offering complete desktop coverage for popular devices and operating systems. It focuses on providing a clean, distraction-free email experience through various organization options, such as:
+
+Automated highlighting of priority sendersThread and sender groupingEmail pinningMarking emails as “done” and setting them aside for later
+
+Automated highlighting of priority senders
+
+Thread and sender grouping
+
+Email pinning
+
+Marking emails as “done” and setting them aside for later
+
+One of the platform’s standout features is streamlined collaboration. Spark Mail lets you create a team that can share threads and templates, and team members can comment on threads through a chat-like interface.
+
+Like other popular solutions, Spark Mail leverages AI to streamline and automate various activities. The key AI-powered capabilities include:
+
+Composing, editing, and replying to emailsEmail summariesInstant translations
+
+Composing, editing, and replying to emails
+
+Email summaries
+
+Instant translations
+
+Spark Mail’s AI capabilities came with a complete redesign at the end of 2023, which received mixed responses from the user base. One user called the AI features “annoying” and the design “messy and uncomfortable,” while another said the new version was slow and confusing.
+
+To mitigate these issues, Spark Mail ended up offering Version 2 alongside the latest Version 3 for users who still want to use the previous one.
+
+Pricing
+
+Regardless of the chosen version, you can choose between three Spark Mail tiers:
+
+FreePremium Individual: $7.99 per month ($4.99 per month with annual billing)Premium Teams: $4.99/user per month (annual billing only)
+
+Free
+
+Premium Individual: $7.99 per month ($4.99 per month with annual billing)
+
+Premium Teams: $4.99/user per month (annual billing only)
+
+Pros and cons
+
+Check out a quick summary of Spark Mail’s pros and cons in this table:
+
+ProsConsNumerous email organization optionsCollaboration featuresSeveral AI-powered featuresNo monthly billing for teamsVersion 3 might be unintuitive and hard to use
+
+Pros
+
+Cons
+
+Numerous email organization options
+
+Collaboration features
+
+Several AI-powered features
+
+No monthly billing for teams
+
+Version 3 might be unintuitive and hard to use
+
+Best Gmail app for Windows and Mac—Factors to consider
+
+The best way to get Gmail for desktop is to leverage a third-party client, like Notion Mail. You get the full functionality of a desktop app and can leverage advanced features, which other methods might not allow.
+
+That said, you should shop around to find a client that fits your workflow. To avoid analysis paralysis, simplify your research by focusing on these factors when comparing different options:
+
+Supported devices and platforms: Even if you only need a Windows Gmail client at the moment, you never know when you might switch to a macOS device. To future-proof your workflow, choose an email client that supports major platforms across the boardCost: An email client serves a specific purpose, so it shouldn’t put a notable dent in your budget. Besides looking at the specific cost, examine your chosen solution’s value for money and pricing flexibility to avoid vendor lock-inComprehensive email organization: A desktop Gmail client should offer at least the level of email organization you get with Gmail’s native web app. Ideally, it should exceed it by introducing additional (preferably automated) email management functionalities like automatic sorting and filteringAI features: To stay competitive in the long run, your email solution should come with various AI-enabled features, from email previews and summaries to automated email writingIntegrations: Your email client must integrate with the rest of your workflow to ensure there are no bottlenecks. Opt for a solution that offers robust third-party integrations either natively or through dedicated integration solutions
+
+Supported devices and platforms: Even if you only need a Windows Gmail client at the moment, you never know when you might switch to a macOS device. To future-proof your workflow, choose an email client that supports major platforms across the board
+
+Cost: An email client serves a specific purpose, so it shouldn’t put a notable dent in your budget. Besides looking at the specific cost, examine your chosen solution’s value for money and pricing flexibility to avoid vendor lock-in
+
+Comprehensive email organization: A desktop Gmail client should offer at least the level of email organization you get with Gmail’s native web app. Ideally, it should exceed it by introducing additional (preferably automated) email management functionalities like automatic sorting and filtering
+
+AI features: To stay competitive in the long run, your email solution should come with various AI-enabled features, from email previews and summaries to automated email writing
+
+Integrations: Your email client must integrate with the rest of your workflow to ensure there are no bottlenecks. Opt for a solution that offers robust third-party integrations either natively or through dedicated integration solutions
+
+Enhance your Gmail workflows with Notion Mail
+
+If you’re into productivity, Notion Mail should definitely be on your radar. It’s free, equipped with plenty of email organization features, and enriched with AI to enable cohesive workflows without bottlenecks and inefficiencies.
+
+Notion Mail is an excellent solution whether you’re a freelancer, SMB owner, or anyone else who needs a smooth email experience.
+
+In addition to a full-fledged desktop app, Notion Mail offers dedicated apps for Android and iOS devices, so you can access your lightning-fast, self-organizing inbox across all your devices.
+
+Create your Notion Mail account
+
+Getting started with Notion Mail takes a single step—all you need to do is sign up with your Google or Gmail account. You can immediately start organizing your inbox and leveraging the app’s many features.
+
+To maximize Notion Mail’s automation capabilities, you can get the Notion AI add-on for yourself and your team and access cutting-edge productivity features.
+
+Bonus read: Want to learn more about enhancing your email workflows? Check out these guides:
+
+How to remove a Gmail account from your phoneGmail account not receiving emails—top 8 solutionsBest ProtonMail alternatives for individuals and businessesHow to delete an iCloud email—a step-by-step tutorialHow to remove an Outlook account from iPhone and AndroidHow to delete a Yahoo account (and which provider to use instead)How to delete all promotions in Gmail—a step-by-step guideOffice 365 vs. Outlook—differences, uses, and featuresHow to remove a Gmail account from your iPhoneBusiness Gmail vs. personal Gmail—a concise breakdown
+
+How to remove a Gmail account from your phone
+
+Gmail account not receiving emails—top 8 solutions
+
+Best ProtonMail alternatives for individuals and businesses
+
+How to delete an iCloud email—a step-by-step tutorial
+
+How to remove an Outlook account from iPhone and Android
+
+How to delete a Yahoo account (and which provider to use instead)
+
+How to delete all promotions in Gmail—a step-by-step guide
+
+Office 365 vs. Outlook—differences, uses, and features
+
+How to remove a Gmail account from your iPhone
+
+Business Gmail vs. personal Gmail—a concise breakdown

@@ -1,0 +1,51 @@
+Title: How GGV Capital built a resources center that powers its startup ecosystem (and a template you can use)
+Published Date: 2023-06-21T08:45-07:00
+URL: https://www.notion.so/blog/ggv-capitals-resources-center-template
+
+There’s so much information out there for startup founders to comb through, it’s hard to know what to trust.
+
+That’s where Bailey Dickey, VP of Networks at GGV Capital, steps in. Her team supports GGV Capital’s founders and executive teams as they’re scaling their businesses, providing resources like articles, classes, videos, and more. But these resources were scattered and the process for maintaining them was manual — often, Bailey and team became the bottleneck between companies and the information they needed to build.
+
+So they created a founder portal in Notion that aggregates years of resources and experience into one hub. It’s a library of trusted knowledge for founders, executives, and their startup teams.
+
+Learn how Bailey built this portal, get an in-depth look into what’s included, and see how you can use this framework to create an internal or external hub of knowledge and empower your team.
+
+A self-serve resources hub where founders can access vetted information
+
+GGV has been compiling key resources for founders for decades — but with so much information on hand, it became impossible to keep things organized.
+
+So Bailey collected all of GGV’s resources, organized them into a Notion database, then published it so portfolio companies could easily self-serve verified articles, videos, courses, and more.
+
+“It’s not just about having the right information — it’s also important to surface it in a way that’s easy for people to find on their own,” she said. “They feel more empowered to come back if they know they can quickly find what they need.”
+
+Bailey groups resources into the key areas that founders care about: people management and hiring, finance support, go-to-market, and more.
+
+In every section, there are a few top resources and underneath are articles organized into relevant sub-topics. For example, the People section is organized into categories like talent sourcing, hiring, onboarding, and remote management.
+
+At the top of the whole portal, Bailey gives readers an easy way to navigate all of this information with a single click. She includes links to each section, and also groups information by company size.
+
+Bringing information together in one place and making it easier to navigate means founders don’t have to waste time searching through thousands of online resources. Instead, they can go directly to a trusted source.
+
+Try GGV Capital’s resources portal template here →
+
+A single source of truth that’s easy to maintain
+
+Trying to provide founders with the best information possible is difficult to do, especially in the ever-changing startup world.
+
+When the portal was initially created using GGV’s existing website builder, Bailey was able to add new resources as they were made available. But as the portal continued to expand, it became harder and harder for her team to keep things updated .
+
+That’s why she rebuilt the entire library using a Notion database.
+
+Instead of manually organizing content resources, Bailey can quickly add resources, use a few tags to categorize them, and keep track of what needs updating or replacing. Now, there’s no delay in the process — when she adds a resource to the database, it’s available immediately.
+
+The portal is built in one master database. Each section then uses a filtered version that only shows the resources tagged for that topic. If there’s a video about hiring your first employee, it’ll only appear in the “Hiring” and “Startups” sections.
+
+Bailey no longer has to worry about sifting through emails and cloud folders to track down the resources she’s already found — Notion does the work for her. Now, she can get back to understanding founders’ needs and finding content that best supports them.
+
+Try GGV Capital’s resources portal template here →
+
+A scalable knowledge hub that fosters learning and growth
+
+When information was scattered and resources were kept in multiple tools, it became nearly impossible for GGV Capital to provide the right information to its founders to help them scale their companies.
+
+This resource center benefits both GGV and its portfolio companies. It’s easy for GGV to collect, organize, and share resources with portfolio companies — and those founders get the information they need in one easy-to-access place.

@@ -1,0 +1,81 @@
+Title: Partiful’s product team ships more projects by prioritizing, scoping, and executing in Notion
+Published Date: 2023-05-30T00:00-04:00
+URL: https://www.notion.so/blog/partiful-notion
+
+Instead of using rigid project management software, Partiful uses Notion to customize its sprint processes, seeing all tasks that relate to every project. This helps them more accurately plan and track work, which is vital for their small, fast-growing team.
+
+20%more work completed each sprint30%reduction in overall sprint planning time
+
+Accurately planning, scoping, and executing technical projects.
+
+Creating a roadmap in Notion that connected projects with sprints and relevant tasks.
+
+Company size: StartupIndustry: SoftwareInsights from: Joy Tao (Co-founder and CTO), Alex Chou (Product Engineer), Luis Ocampo (Head of Community)Teams using Notion: Engineering, Product, Community  Why they chose Notion: Its flexibility. Partiful organizes projects into sprints, and sprints into tasks. Notion lets them customize this process to whatever project they face.
+
+Company size: Startup
+
+Industry: Software
+
+Insights from: Joy Tao (Co-founder and CTO), Alex Chou (Product Engineer), Luis Ocampo (Head of Community)
+
+Teams using Notion: Engineering, Product, Community
+
+Why they chose Notion: Its flexibility. Partiful organizes projects into sprints, and sprints into tasks. Notion lets them customize this process to whatever project they face.
+
+“People are always surprised when they find out how small our team is,” says Partiful Product Engineer, Alex Chou. That’s probably because of the company’s massive groundswell, impressive user growth, and tier-one press profiles the last few months.
+
+The events-planning platform — where you can house all event information, collect RSVPs, send text blasts, share payments, and more — has quickly built a loyal, vocal userbase because the product is so fun and easy to use.
+
+This puts a ton of pressure on their small engineering team. With limited time and resources, Partiful needs to work on only the most impactful projects. How do we prioritize what to build? How do we track all the pieces efficiently? How do we make sure we’re shipping impactful projects with speed and quality? These are all questions Alex and team had to answer.
+
+Partiful has been using Notion since inception, helping the company scale its project output and processes. Not only are Partiful’s roadmaps and sprints organized in Notion, but so are documentation, user feedback, team wikis, and more.
+
+Having a single source of truth makes project prioritization, planning, and execution smoother. Instead of needing to jump around in multiple tools to get context or find info or check statuses, everything’s in Notion — saving time, reducing context-switching, and helping Partiful ship what’s important right now.
+
+Connecting context to projects makes it easier to decide what gets built and why
+
+Even at a small company, moving quickly can result in lost context — especially when project work and project information are tracked in different tools. There’s an important “why” element that can slip through the cracks, making it harder to understand the “how.”
+
+“If Partiful wasn’t using Notion, we’d be spread across different software, which would lead to a lot of context switching,” says Luis Ocampo, Partiful’s Head of Community. “Having Notion as one place for all our documentation, roadmap, everything — that really helps us save time and work more efficiently.”
+
+That starts with a Notion database capturing all user feedback. Luis tracks what people want built, which helps Partiful Product Engineer Alex Chou prioritize work in the roadmap. Once projects have been decided, everything’s in that project page. Scoping docs. Sprint planning. Tasks. Customer quotes.
+
+“All conversations, not just the technical ones, happen in Notion,” says Alex. “There’s no extra onboarding I have to do. There’s no other tool I have to learn.”
+
+Partiful’s projects run smoother because everything is centralized — the why, the how, the when, the real people behind the builds. Nothing gets lost in the process, and this context is important when you’re a small team moving quickly to deliver value to your users.
+
+Favorite Notion feature: Linked databases. Partiful connects projects with relevant meeting notes, sprints, tasks, and more — so everything is organized in one place.
+
+One roadmap that tracks tasks, sprints, and all project work
+
+Deciding what to build is one thing. Building it is another. Product and engineering teams need to be able to see all the tasks, how they roll up into the sprint, and how the sprints are impacting the project’s ship date. Tracking all these elements end-to-end is near-impossible if information lives in several tools, creating a lack of visibility that can lead to scope creep or missed deadlines.
+
+For Partiful, every piece of project work lives in Notion — bringing together planning, execution, and the teams behind it all.
+
+“We can see a project’s going to have three sprints, we can see all the tasks for those sprints, and everything’s linked in the roadmap,” says Joy Tao, Partiful Co-founder and CTO. “There isn’t this extra translation layer. You don’t have to search around to get vital information about the work.”
+
+Projects start in Partiful’s roadmap, which is a Notion database. Along with all necessary context docs, there’s all project tasks. The team organizes tasks into sprints and tracks completion, which rolls up into the overall project’s completion. Instantly, anyone can see the status of work, from the individual task all the way up to the whole project.
+
+Duplicate Partiful's Roadmap template →
+
+The visibility that’s part of this process has helped Partiful more accurately plan the amount of tasks per sprint, which has led to a 20% increase in work completed per sprint. Accurate scoping leads to better execution, which helps Partiful ship projects more efficiently, and at scale.
+
+Favorite Notion feature: Formulas. Partiful uses database formulas to track the statuses of tasks, sprints, and projects — providing insight into how far along any part of a project is.
+
+Flexible enough for all teams to use, customizable to any situation
+
+Partiful has been using Notion since day one. Other tools were too rigid to meet the ever-changing project needs of a fast-growing startup, let alone the different teams contributing to the work.
+
+“There’s tools like Jira, where you need an expert to build it the way you want. Or there’s tools with hard-coded models that assume how your team works,” says Joy. “In Notion, it’s super easy because you have a lot of flexibility — not just for project management, but for tracking customers, bugs, feedback requests. It’s very versatile.”
+
+Partiful customizes aspects of its project process, like specific views of databases for different teams to surface their relevant tasks. But Notion is the company’s single source of truth for more than just project work.
+
+Teams have their own wikis that house their specific processes, work, resources, and meeting notes. In the company home, there’s a team directory, offsite planning info, and the onboarding process. Partiful has made a tradition of documentation — every few weeks, the team has donuts and addresses gaps in their docs, turning frequently asked internal questions into canonical documentation.
+
+Favorite Notion feature: Database views. Partiful creates views for different teams, tasks types, and more — making it quick and easy to surface relevant information for whoever needs it.
+
+When projects are connected to your docs and wikis, teams get clarity and alignment
+
+Most project management tools simply point to the work — a scoping doc in one tool, updates in another, design mocks somewhere else. But Partiful puts all of this into Notion. Instead of fragmentation and silos slowing their team down, everyone’s building with accurate, easy-to-find information. That results in more speed and greater impact for their small team.
+
+Learn more about how you can manage projects in Notion.

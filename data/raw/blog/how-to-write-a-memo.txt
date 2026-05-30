@@ -1,0 +1,163 @@
+Title: How to write a memo in 8 simple steps
+Published Date: 2023-09-28T00:00-03:00
+URL: https://www.notion.so/blog/how-to-write-a-memo
+
+Didn’t you get the memo?
+
+Unlocking the power of effective communication within an organization starts with mastering the art of memo writing.
+
+Memos, those brief messages your boss sends out about essential topics, are pivotal in swiftly and efficiently conveying crucial information among team members. When crafted with precision and clarity, they become the lifeblood of internal communication, updating colleagues on policy alterations, procedural changes, or organizational announcements.
+
+But how do you pen a memo that stands out and captures the right people’s attention amid the daily overflow of information? Let’s dive into the essential tactics and nuanced strategies for how to write memos that inform and engage.
+
+What’s a memo?
+
+A memo, short for memorandum, is an in-house document that summarizes important information. Businesses use memos to pass along or request data, outline policies and procedures, and share updates or company events.
+
+Memos are specific, concise, and meant for mass communication among your organization, teams, or external connections such as vendors or consultants. In the past, these notes were sent out as paper letters or faxes. Today, they’re typically in the form of emails — with or without PDF attachments.
+
+What’s the purpose of a memo?
+
+Unlike one-on-one messaging, memos provide succinct summations of any important business matters to a chosen group of people, all at once. This not only saves time but also ensures everyone receives the exact same vital information, promoting transparency and consistency.
+
+Writing a memo can also benefit the author. Thinking about what information to share and how to distill it into a brief message is an opportunity to pare down to the most essential aspects of the project. The message itself is a great way to clarify tasks, expectations, and scheduling to make workload management easier for you, the project manager.
+
+Types of memos
+
+Memos have many uses — if you need to communicate with a group quickly, a memo can likely get the job done, no matter the contents. Popular types of memos include:
+
+Information inquiry — use this type of memo when you require specific information or outputs from a team within your organization, satellite branches, or vendors.Call to action — this form of memo asks those who receive it to do something, such as implement a new company policy, cease a certain behavior, or attend a company event.Progress update — during the course of a project, you may need team members to provide a progress report so you can properly gauge the project’s status. A progress update memo outlines the information you require from recipients to make an assessment.Confirmation — confirmation memos, typically sent after a business decision or a meeting, serve as a record of the affair for later reference.
+
+Information inquiry — use this type of memo when you require specific information or outputs from a team within your organization, satellite branches, or vendors.
+
+Call to action — this form of memo asks those who receive it to do something, such as implement a new company policy, cease a certain behavior, or attend a company event.
+
+Progress update — during the course of a project, you may need team members to provide a progress report so you can properly gauge the project’s status. A progress update memo outlines the information you require from recipients to make an assessment.
+
+Confirmation — confirmation memos, typically sent after a business decision or a meeting, serve as a record of the affair for later reference.
+
+When to write a memo
+
+Because of its versatility, efficiency, and immediate wide reach, memo distribution is a powerful addition to your lean communication strategies and a reliable way to increase workplace productivity.
+
+You write a memo when you need to disseminate information, bring attention to a problem, or answer a question. You may also choose to write a memo for the following reasons:
+
+To clarify internal policy changesTo announce company news and hiresTo share upcoming eventsTo report progress statusTo update regulations and safety guidelinesTo make a request
+
+To clarify internal policy changes
+
+To announce company news and hires
+
+To share upcoming events
+
+To report progress status
+
+To update regulations and safety guidelines
+
+To make a request
+
+Incorporate memos into your overall communication plan as a standard practice for cross-functional team correspondence. This way, everyone gets the same information at the same time — and no one’s misled or left behind.
+
+8 steps for writing and formatting a memo
+
+The key to writing an effective memo is to keep it brief. Only include necessary details, and be as direct in your language as possible.
+
+While you might know the people you’re sending a memo to, take care to treat it as an official business document. Avoid having your message read like a casual text or blog post, and steer clear of emojis.
+
+Here are eight steps for achieving a polished and professional memo format:
+
+1. Title and heading
+
+Learning how to start a memo begins with a proper header.
+
+Begin with the message with a title: “MEMO” (informal) or “MEMORANDUM” (formal). Next, write your header. This includes the memo’s recipients, the sender, and the message’s date and subject. The format should look like this:
+
+To: [Recipients’ full names and job titles, including CC’s]
+
+From: [Your full name and job title]
+
+Date: [Date sent]
+
+Subject: [What the memo is about]
+
+Since you already addressed the recipient(s) in the heading, there’s no need to include a greeting here.
+
+2. Opening statement
+
+Briefly summarize the purpose of your memo in one or two sentences. Get to the point quickly and only include the most crucial information. Keep it simple, short, and easy to read.
+
+3. Context summary
+
+Summarize any historical or contextual information recipients need to understand your opening statement. Share a bit more detail about the what and the why of the memo in a short paragraph, around five sentences in length.
+
+4. Call to action
+
+This is the most important part of your memo. In this section, explain the requirements of your recipients or the actions taken to address the memo’s theme. Keep this section on point and as brief as possible, and bullet points are an acceptable option. Include polite prompts and completion dates.
+
+5. Further discussion
+
+Provide additional reasons to follow your recommended actions, if necessary. Include supporting facts, ideas, and research to validate the memo’s purpose and show why the call to action is necessary. If you’re adding attachments related to the memo, let the recipients know here.
+
+6. Closing statements
+
+This is your opportunity to empower your recipients by ending your memo on a positive note. Consider reiterating your call to action again, and include your professional contact information (such as an email or phone number) to field follow-ups and questions.
+
+7. Additional attachments
+
+Finally, add supplemental reading material, charts, graphs, and photos at the end of your memo, if necessary. Format your attachments as follows:
+
+Attached: [name of attached file and type]
+
+8. Revisions
+
+Before sending that memo, be sure to proofread and edit your work. Confirm that your messaging is on point, comprehensible, and devoid of any unnecessary content. It’s always good practice to have a colleague double-check your facts and attachments.
+
+Examples of strong memos
+
+Let’s put the memo creation process into practice. Here are two unique examples of properly formatted memos:
+
+Example #1: Staff member retirement
+
+MEMO
+
+To: All staff
+
+From: Daniel Smythe, HR Manager
+
+Date: October 15
+
+Subject: John Vitto’s retirement party
+
+This note is to inform all staff members of John Vitto’s retirement party. John has been an important member of our accounting department for 20 years. His contributions, work ethic, and friendly demeanor have made it an absolute pleasure to have on the team.
+
+We invite you to attend a retirement party in his honor, held at The Dog & Duck Tavern on Friday, November 14. The celebration begins at 6 p.m. and includes a meal, drinks, and a live polka band (at John’s request).
+
+Please RSVP to [email protected] by 5 p.m. on October 26.
+
+Example #2: Security updates
+
+MEMORANDUM
+
+To: All on-site and remote staff
+
+From: Thomas Abernathy, IT Manager
+
+Date: April 11
+
+Subject: Changing passwords
+
+This is a reminder to all staff that the 3-month rotation of passwords on all company devices is fast approaching.
+
+To maintain our security protocols and keep our company breach-free, I’m kindly asking that all staff reset the passwords on their devices to a password you’ve never used before. This needs to be completed by April 25 at the latest. Please confirm that you’ve made the change with your department head once complete.
+
+I’ve attached a PDF below to help you create a unique and safe password. Remember: Don’t use surnames, pet names, or birth dates.
+
+Thank you for helping keep our company safe. If you have any questions, concerns, or technical difficulties, email me directly at [email protected].
+
+Attached: tips-for-effective-passwords.pdf
+
+Craft the perfect memo with Notion
+
+Memos can help you communicate important information in the blink of an eye. To speed up the writing process, check out Notion’s quick memo template for your collaboration needs.
+
+And don’t forget to explore Notion’s other resources for your communication strategies, including templates for productive roadmap planning and keeping in touch with stakeholders.

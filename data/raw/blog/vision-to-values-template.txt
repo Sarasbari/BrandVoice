@@ -1,0 +1,29 @@
+Title: LinkedIn's Vision to Values Template for Business Alignment by Jeff Weiner
+Published Date: 2021-09-22T08:00-07:00
+URL: https://www.notion.so/blog/vision-to-values-template
+
+It seems obvious that your company should have a clear sense of purpose — and a plan for how to get there. But few teams actually put pen to paper to codify why they’re doing what they’re doing.
+
+Executive Chairman of LinkedIn and Founding Partner of Next Play Ventures Jeff Weiner developed this framework to help the company do exactly this. Now other teams (like yours) can borrow it to do the same. It’s a must for every company, whether you’re an early-stage startup or a thousand-strong enterprise.
+
+Duplicate the template now→
+
+An easily editable one-pager to keep your company aligned
+
+The template is made up of different sections corresponding to the Vision to Values framework — Vision, Mission, Culture, etc. The finished product is a one-pager you can share inside your company wiki — that way it's close at hand for everyone at the company to stay aligned on your mission. We included example text from Jeff that you can replace with your own ideas.
+
+Add any type of content to get your point across
+
+Under every section, you can add text, bullet points, or even embed your OKRs database like above. If folks want more info about each objective, they can click into the database.
+
+Keep a record of your company's evolution
+
+Each section has its own dedicated page you can click into, allowing you to store old drafts and collect inspiration. Keep a record of your past documentation and create transparency for new employees learning about past decision-making.
+
+Use Notion's synced blocks feature (outlined in red) to keep key statements like your mission or vision consistent across your brainstorm page and the main page.
+
+Available to everyone but editable by a few
+
+Your Vision to Values one-pager should be visible to everyone in the company, but you also don't want people to delete anything important. To avoid this, you can lock the page so that everyone can access it without accidentally editing it. You can also share the page with certain people and set read-only permissions.
+
+Try the template now→

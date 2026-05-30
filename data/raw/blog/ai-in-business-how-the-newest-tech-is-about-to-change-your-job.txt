@@ -1,0 +1,91 @@
+Title: AI in business: how the newest tech is about to change your job
+Published Date: 2023-07-12T00:00-07:00
+URL: https://www.notion.so/blog/ai-in-business-how-the-newest-tech-is-about-to-change-your-job
+
+It’s 2023, and if you’re reading this article, you’re probably curious about, or fascinated with, or terrified by, artificial intelligence.
+
+All three reactions are understandable. In 2022 the global AI market was worth $136.6 billion and was expected to reach $1.81 trillion by 2030. Those projections can only have grown with the rise of ChatGPT and generative AI. This new technology has changed the fortunes of entire companies, from security tech giant Palintir to software toolmaker Unity. ChatGPT’s creator, the hitherto-non-profit OpenAI, is now eyeing a very-for-profit $29 billion valuation; chipmaking giant and AI pioneer NVidia is nearing $1 trillion. There’s even an entire city enjoying an influx of technology workers due to AI investment.
+
+But how is all this impacting businesses that don’t offer AI services themselves, and the people they employ? Will AI let companies cut jobs? Entice them to add them? Both? And how will all those jobs change? What does AI mean for work, and for workers?
+
+What will AI mean for you?
+
+AI is on track to achieve corporate ubiquity
+
+The AI-ification of your next job will start even before you get it. AI is improving the entire recruitment experience, for companies and candidates alike. “Since 2020,” the recruiting portal Phenom reports, “the Fortune 500 has made significant strides to enhance the candidate experience by implementing AI technology and automation to connect job seekers — both hourly and knowledge workers — with relevant jobs faster.
+
+Already companies are using everything from personalized career sites to to automated chatbots to transform the hiring experience with AI, and the process will only accelerate once you’re in the door. Today it’s widely feared that AI will threaten millions of lower-level corporate jobs by taking over rote administrative tasks. Almost every aspect of that scenario will probably turn out to be incorrect.
+
+Roughly two-thirds of all Fortune 500 companies are using or exploring AI. For the most part this is based on generative AI, the era ushered in by ChatGPT and other LLMs (large language models), which emphasize language comprehension, writing and editing prose, gleaning insights from data, interacting with customers, organizing resources, and the like.
+
+The job of a business is to sell products and services for more than they cost to produce. Generative AI offers countless new ways to meet this goal:
+
+“CB Insights observes that generative AI could reduce design timelines by up to 90% for infrastructure projects and slash raw material use by upwards of 95% in industrial design.”36% of global financial services companies reduced costs by more than 10% by using AI applications, according to this report. 46% say AI has improved the customer experience.Telecom Review: “Businesses that employ AI for sales can increase leads by more than 50%, reduce call times by 60-70% and reduce costs by 40–60%.
+
+“CB Insights observes that generative AI could reduce design timelines by up to 90% for infrastructure projects and slash raw material use by upwards of 95% in industrial design.”
+
+36% of global financial services companies reduced costs by more than 10% by using AI applications, according to this report. 46% say AI has improved the customer experience.
+
+Telecom Review: “Businesses that employ AI for sales can increase leads by more than 50%, reduce call times by 60-70% and reduce costs by 40–60%.
+
+And so on. And on and on and on…
+
+Will AI mean more jobs, fewer, or just different?
+
+But okay — you’re contemplating your own next job, and wondering how AI will impact it, or even whether it will continue to exist. How to gauge your own likely future? A study from OpenAI and the University of Pennsylvania finds that roles that use "programming and writing skills" are most in-line with GPT's capabilities, and thus most vulnerable to disruption.
+
+"Some of the jobs listed as 'occupations with highest exposure,'" the study concludes, "include tech jobs like blockchain engineers; data-heavy roles like mathematicians, financial quantitative analysts, accountants, and tax preparers; and communication careers such as writers, public relations specialists, interpreters and translators, poets, and lyricists."
+
+Calling a job ripe for disruption, however, isn’t the same as calling that job doomed. Will the AI era really mean the loss of millions of human jobs? Well, maybe. One widely cited Goldman Sachs report estimates that AI could replace up to 300 million jobs worldwide. And these impacts may no longer be theoretical:
+
+"Earlier this month [Feb 2023], job advice platform ResumeBuilder.com surveyed 1,000 business leaders who either use or plan to use ChatGPT. It found that nearly half of their companies have implemented the chatbot. And roughly half of this cohort say ChatGPT has already replaced workers at their companies."
+
+But the AI employment story isn’t remotely that simple. Here’s why.
+
+Hiring has never fully recovered from pandemic-era labor disruptions. Today the U.S. enjoys record low unemployment and companies struggling to fill millions of jobs are using AI to fill the gap. "As labor shortages become a pressing concern," notes a new IBM report, "25% of companies are turning to AI adoption to address this issue…AI helps businesses optimize operations and compensate for the lack of human resources."
+
+Which, for us human resources, is an unambiguous opportunity — if we’re ready to it.
+
+Learning to work with your AI co-pilot
+
+“Repetitive office work…will be put on at least a partially automatic basis. Certain functions, such as filing and statistical analysis on the lower management levels, will be performed by machines. Yet very few offices will be entirely automatic. Much day-to-day work—answering correspondence and the like—will have to be done by human beings.”
+
+That might sound a bit like 2023 reassurance that AI won’t eliminate employment effort, but it’s actually the futurist John Diebold, imagining the office of the future in 1953.
+
+Technology changes, but not the themes. Before the 1980s, almost no members of the managerial class knew how to type; that skill was confined to the secretarial class. It wasn’t until the PC made typing cool that managers adopted what is now an essential element of the information worker skill set.
+
+Fast forward another thirty years, and the AI you have to use in that new job you just got might actually make you more…productive? Valuable? Even — dare one say it? — happy?
+
+This new report from Microsoft finds AI can help office workers emerge from a malaise that anyone reading this will instantly recognize: digital debt. “Hours worked, workday span, and time spent in meetings have steadily increased,” the report notes; “it’s easier than ever to communicate and harder than ever to keep up.”
+
+By automating so much of what makes it so easy to fall behind — meeting notes, doc summaries, email replies, and so on — properly applied AI can have a transformative impact on information workers’ daily lives. And information workers know it.
+
+"When asked what changes they value most," the Microsoft report explains, "people imagined producing high-quality work in half the time (33%), being able to understand the most valuable ways to spend their time (26%) and energy (25%), and never having to mentally absorb unnecessary or irrelevant information again (23%)."
+
+Among those companies surveyed by ResumeBuilder that are already using AI, usage broke down as one might expect: “66% for writing code, 58% for copywriting and content creation, 57% for customer support, and 52% for meeting summaries and other documents.”
+
+Going forward, new employees can expect to be given — and be required learn how to use —Today OpenAI and Microsoft seem to be becoming frenemies as they, along with any number of other productivity tools, vie to produce the ultimate AI office assistant.
+
+No doubt you’ve noticed the profusion of AI-driven customer service bots on various consumer-oriented websites. This MIT study shows AI making customer support agents more efficient:
+
+"Using data from 5,179 customer support agents, the research team found that workers who had access to an A.I.-based conversational assistant were 13.8% more productive than those who did not."
+
+An Nber study working paper of thousands of customer service workers finds that these workers, partnered with AI systems trained for their roles, handle and resolve more customer calls per hour. “AI assistance increases worker productivity,” the study reports, “resulting in a 13.8 percent increase in the number of chats that an agent is able to successfully resolve per hour.”
+
+The study also found — and here’s another one of those non-intuitive impacts — that AI boosted performance most for newer and less skilled workers, helping them “move more quickly down the experience curve.” New workers partnered with AI, the study found, even wound up staying at the company longer.
+
+Higher-skilled workers, by contrast, “have less to gain from AI assistance precisely because AI recommendations capture the potentially tacit knowledge embodied in their own behaviors.” Still, one imagines it will be those highly skilled workers who figure out the best ways to utilize this newest of new tech.
+
+They’ll need to; the initial applications of generative AI won’t stay exciting for long. As VentureBeat notes, AI’s sudden ubiquity is rapidly commoditizing the standard chat and writing models. "The competitive advantage of any LLM-enabled business solution would have to lie somewhere else, either in possession of certain high-value proprietary data or the mastering of some domain-specific expertise."
+
+This need for domain expertise could benefit incumbents that have accumulated said expertise, VentureBeat speculates. Or it could benefit startups who are better able to create AI-maximized processes from scratch.
+
+Either way, what the Microsoft report dubs the “paradigm shift to AI as copilot” will come with a price: the necessity of training employees to take advantage of the new tool. “As AI reshapes work, human-AI collaboration will be the next transformational work pattern—and the ability to work iteratively with AI will be a key skill for every employee.”
+
+VentureBeat breaks down the needed skillsets thusly: AI expertise, software expertise, and domain expertise. Whether your company decides to build its own in-house solutions or contract them out to an outside firm, making sure you’re covered in these three categories is the key to launching a successful AI program.
+
+The optimistic point of view on AI in the workplace is, for now, prevalent throughout corporate America. “Automation has not had a significant impact on our headcount,” Walmart’s Chief People Officer writes in a recent and very typical op-ed. "In creating efficiencies, our intent isn’t to replace our workers, but to shift their focus to the things humans do best: connecting with each other and understanding the subtleties of people’s needs, wants, and hopes."
+
+And this is why no work that AI does will reasonably be called rote. This new world isn’t going to be about doing your same old job and just stepping off to the side while AI does one part of it.  It's going to be about learning AI's capabilities and finding new ways to use them to make your role and your achievements better, smarter, faster, more valuable.
+
+Working with a co-pilot might take some getting used to, but you’ll still go further as a pilot.

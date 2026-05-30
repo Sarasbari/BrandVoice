@@ -1,0 +1,51 @@
+Title: We can make AI more creative by using novelty search techniques that give our models room to explore.
+Published Date: 2024-07-10T00:00-07:00
+URL: https://www.notion.so/blog/why-ai-gets-better-when-we-let-it-explore
+
+On the evening of April 24th, 1976, multiple residents of the tiny Italian village of Bova Marina reported seeing a strange saucer-like object hovering above the town. In the weeks that followed, these aerial sightings spread across the country—a phenomenon, eventually known as the Alien Invasion of Italy, which would change the nation, and indeed human history, forever.
+
+None of these historical events actually happened. They are the imaginative figments of WebSim, an AI tool created at the Mistral Hackathon in San Francisco this past March.
+
+Here’s how it works: Enter an invented web address of a site that you wish existed, and WebSim instantly produces a web page to match it. Last week I gave it a try, making up this URL:
+
+https://en.wikipedia.org/wiki/Alien_invasion_of_Italy_(1976)
+
+WebSim responded with an impressive article that began in true terse Wikipedia fashion”—The Alien Invasion of Italy was a series of unexplained events that occurred across Italy in the spring and summer of 1976”—and just kept going from there. Clicking on “View history” even led me to the article’s fantasy edit history, complete with the usual Wikipedia battles over which parts of the fake content were real and which parts of the fake content were fake.
+
+I was curious to see how far I could push this AI world-building exercise in WebSim, so I created a URL for a news article about the alien invasion in the Financial Times. Here’s what I got back:
+
+It’s a fun toy to play around with. It also reminded me of what may soon become an important idea in AI development, novelty search—a method for building AI that rewards searching for new approaches over trying to find the best solution right away.
+
+This brainstorming orientation has long been a popular approach to problem-solving. Most design and innovation strategies are deliberately open-ended, featuring blue-sky sprints intended to encourage out-of-the-box thinking and unexpected results.
+
+But blue-sky brainstorming isn’t how large language models like GPT work today. Generative AI is recursive rather than discursive—trained on vast amounts of existing information and designed to move directly toward explicit goals by looking back at what was said and done yesterday rather than forward at what could be said and done tomorrow.
+
+Novelty search reverses this framework, suggesting that the most effective way for AI to solve a problem might be not to obsessively optimize towards a specific goal but rather to explore as widely as possible, only occasionally checking to see whether it has found a promising result.
+
+At first glance the idea might seem counterintuitive. But it begins to make sense once you consider just how complex and unpredictable most problems—at least most interesting problems—really are.
+
+Take locomotion, for example—a word researchers use to describe the problem of enabling a robot to move. In the real world, countless different animals and machines find countless unique ways to propel themselves through space. Horses, bicycles, worms, snakes, and flightless birds all apply different strategies to the problem of locomotion, and it’s unclear how thinking deeply about the way an earthworm wriggles would lead one to emerge with the idea of galloping, wings, or wheels.
+
+But it turns out that the optimal strategy might be thinking not deeply but broadly. In a study provocatively named “Abandoning objectives,” researchers found that novelty search discovered more stable and effective locomotion methods than standard machine learning approaches that rewarded behaviors that looked most like walking.
+
+How does this relate to AI and creativity?
+
+To me, the effectiveness of novelty search demonstrates two interesting and related ideas:
+
+Creativity isn’t just an aesthetic virtue—it’s a useful and perhaps even necessary aspect of solving the hardest problems.We can simulate something that resembles creativity in computer programs by searching across a huge variety of options.
+
+Creativity isn’t just an aesthetic virtue—it’s a useful and perhaps even necessary aspect of solving the hardest problems.
+
+We can simulate something that resembles creativity in computer programs by searching across a huge variety of options.
+
+At Notion I work every day with language models like GPT that are immensely powerful and useful, but often offer stuffy, boring responses even to straightforward creative questions like, “What are some unique ideas for our next social media post?” I think one reason for these models’ lame results may be that they aren’t considering a wide array of options. Today, to make our AI models do what we want them to do, we make prompts as thorough and precise as possible and train models on well-known examples of precise instructions and ideal results. No wonder they have trouble discovering new ideas.
+
+But what if, instead of boxing in our AI models with rules, we instead gave them room to wander?
+
+In one of my all-time favorite AI studies, a team at MIT built an AI system that explored puzzles like drawing games and brick-stacking games by considering a huge range of both good and bad ideas. The team took an approach similar to novelty search, prioritizing searching for creative solutions and new ideas over building the most optimal predictive model. This system learned to solve the puzzles over time—and as it did so, it combined its initial building blocks like line segments and simple curves into more complex shapes like spirals and polygons that it found useful for solving the hardest puzzles.
+
+Which brings us back to WebSim.
+
+To me, the most fascinating aspect of this experiment is that its sparse instructions—that simple invented URL—leave so much room for invention and improvisation. Rather than giving the AI long and explicit instructions, the user simply specifies a fake URL, and the AI, using a large language model trained to simulate a fake Internet, dreams up a page that seems like it may just exist at that location. The prompt isn’t lines and lines of requirements that the AI is commanded to follow, but a quick, simple starting point for exploration with no correct answer.
+
+There’s a profound lesson to be learned here. Perhaps rather than training models that can devise novel solutions on every try, we should focus on building environments where we can work with AI to experiment quickly and freely with a wide breadth of ideas, even ones that don’t seem promising at first. Novelty search could unlock new vistas of innovation. Tomorrow’s AI, by closely mirroring human ingenuity, could offer us ideas we might never have discovered on our own.

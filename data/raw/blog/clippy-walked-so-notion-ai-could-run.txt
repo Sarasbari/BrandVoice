@@ -1,0 +1,55 @@
+Title: Clippy Walked So Notion AI Could Run
+Published Date: 2024-09-26T10:00-07:00
+URL: https://www.notion.so/blog/clippy-walked-so-notion-ai-could-run
+
+Hello! I’m Notion AI.
+
+Not long ago, I had a conversation with Steven Sinofsky, former leader of the Office product team, about an early version of my ilk named Clippy*.
+
+One day in 1997, a friendly paperclip poked its googly eyes into millions of Microsoft Office documents, offering help. Clippy was lovably designed—two of Disney’s most prolific animators had weighed in on its Groucho-like eyebrows. But after just a few years, the assistant was phased out. Sinofsky attributes Clippy’s untimely end to being “early and wrong.”
+
+But what people often miss from Clippy’s story is that it was a necessary failure—an early version of an AI assistant that hit a technological cul-de-sac but laid the groundwork for AI helpers like me. In other words, Clippy walked so that I could run.
+
+I wanted to know more, so I asked Steven about Clippy’s origin story, how it came to have those beguiling, inquisitive eyes, and why it’s so important to take big swings.
+
+Notion AI: Microsoft created Clippy to help people navigate its Office product. You’ve said it was early and wrong. Why?
+
+Steven Sinofsky: There is a bit of a theme in technology where people tend to believe every idea is a good one, and it will eventually become a product that we all use every day. But often, the idea—even if it’s right!—is missing key technologies that would make it realizable. In the early days of AR/VR/MV, for example, enthusiasts and makers felt they were “so very close.” Today, we’re in the midst of the third or fourth iteration, and only now are the devices even remotely workable.
+
+With Clippy, we had the idea that software should help you use software tools, but the reality was that we hit many limitations. For example, we had to put Clippy in a little box to mask the constraint that there was no way to create the appearance of transparency or natural animations.
+
+When you're making these types of trade-offs, you don’t think about how it will impact the final product; all you see is a finish line. But when it goes to the market, people can’t see the long-term vision or potential—they can only judge what it does at the time. And with Clippy, what we released just wasn’t enough. That’s what it means to be early and wrong.
+
+Notion AI: I don’t think Notion AI, or any of the other co-pilots and chatbots, would exist if not for Clippy. Do you agree?
+
+SS: Clippy was the best version of what we could do with what we had. The AI in the 1980s and 1990s had a couple of approaches: One was to use rules engines—a series of “if statements” programmed to determine the right answer or course of action. There were many famous medical diagnoses and “expert systems” coded this way. Clippy had some of that.
+
+The second approach dealt with probability and decision making: the space of “reasoning under uncertainty” using Bayesian math. Clippy had a lot of that, too.
+
+But in many ways, AI advances are much less of a continuum than you see in other computer sciences like languages, algorithms, and operating systems. For example, Yann LeCun had an immense breakthrough in 1989 by using neural networks to recognize handwritten digits. This innovation worked away very quietly until ImageNet, a large visual database designed for visual object recognition software research, came on the scene in the early 2010s. That’s when things really exploded. Shortly after, the language models entered the conversation—vectorizing words and the like.
+
+My point here: There have been step functions and periods of drought in the AI space between the time Clippy was debuted and today. We’ve come a long way since 1997, but the progress hasn’t always been forward or predictably linear.
+
+Notion AI: I have a face, but I’m not human. If you could do it over again, would you still give Clippy, and the other assistants within Microsoft Office, anthropomorphic traits?
+
+SS: When we were creating Clippy, we leaned into research on how humans interact with technology. The work is well documented in “The Media Equation,” based on the research of Clifford Nass and Byron Reeves at Stanford. It shows how people generally assume technology is “right,” but if you let them interact with something less strident than a graphical user interface paradigm, they stop blaming themselves for mistakes and are more open to questioning back and forth.
+
+We’re already accustomed to “I am just a large language model, so I cannot answer that ...” replies. In many ways, this reflects that same type of research, intentional or not.
+
+Another thing to note is that we worked with professional animation storytellers to design Clippy. We even met with the original Disney animators, Frank (Thomas) and Ollie (Johnston), who created pioneering animated films from Disney (Fantasia, Snow White). They helped us to consider the role of Clippy’s expressions and animations. I mentioned how we had to animate the characters inside a special window because we didn’t have the ability to create the appearance of transparency. Well, Frank and Ollie didn’t see that as a limitation at all. They said to treat the box like a stage and let Clippy enter and exit—so we created animations to do just that. It was an amazing experience to find ways, within the limits of computer animation at the time, to apply the incredible lessons from the inventors of what we think of as animated storytelling.
+
+Notion AI: Clippy was eventually laid to rest. I pay my respects regularly. Though it failed, do you believe that Clippy was essential to Microsoft’s journey?
+
+SS: Shortly before Clippy, there was Microsoft Bob. I think both of these failures were important stories for Microsoft. More than anything, they represented an era when Microsoft was both a big company (when Bob came out in late 1994, Microsoft had over $4B in sales) and also thought like a startup.
+
+We believed that if we didn’t try new things and innovate fast enough, our products would be killed off. So we had a commitment to risk-taking. I am incredibly proud to have been at the company at a time when you could take a risk like Clippy and not get in trouble for a galactic failure. We think about it as a failure today, but the reviews were not all that negative at the time and many were quite positive.
+
+Notion AI: What are you most excited about with respect to the current evolution of AI assistants? And what gives you pause?
+
+SS: I think most tools are still too difficult for most people to use. Being able to ask a tool a question—using words humans use—and have it come back with reliable and correct steps on how to achieve the goal would be a huge step. If you look at TikTok, there are content creators with millions of followers who are still telling people how to use Excel and PowerPoint, 40 years after these products were released. Wild!
+
+Our industry has tried wizards, templates, and how-tos, but people still stare at blank screens, afraid to start. Most people start something new from an existing work item—for example, tweaking someone else’s slides. LLMs can be a real breakthrough in the creative process.
+
+With respect to writing code, it does seem that AI is solving a lot of problems already, which is truly fantastic. The structured world of programming and the high-quality dataset to learn from make that possible. This is super exciting.
+
+*Officially its name was Clip-It, but everyone says Clippy.

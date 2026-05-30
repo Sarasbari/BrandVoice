@@ -1,0 +1,101 @@
+Title: Context switching: Why it kills productivity & how to stop it
+Published Date: 2023-09-28T00:00-03:00
+URL: https://www.notion.so/blog/context-switching
+
+When you have dozens of to-dos to cross off, it’s tempting to jump back and forth between tasks.
+
+Multitasking lets you distribute your time across everything that needs your attention. Sometimes, it’s even necessary — like staying attentive to an urgent client email in the middle of an all-hands meeting.
+
+Context switching goes a step beyond multitasking. Rather than catching up on emails, finishing a code, and updating your computer’s malware one at a time, you might move back and forth between them all.
+
+Although this might make you feel more productive, the constant mental gear-shifting requires your brain to refocus and recalibrate to keep up. You aren’t just switching between two tasks, like reviewing two deliverables — you’re working on entirely different types of work. This could burn you out and worsen your quality of work.
+
+Recognizing when you’re context switching is the first step to streamlining your workflow and rescuing your productivity.
+
+What’s context switching?
+
+Context switching, or task switching, is when you stop working on one task and return to it after performing a different one on a separate project.
+
+The step-by-step might look something like this. You draft the framework for a client report and get a notification about an incoming email. It’s from a client who needs help troubleshooting an app you built. And while responding to that, you get a Slack notification from your manager requesting a quick update on another project.
+
+The latest stats are in the company’s project management software. You analyze the latest stats, download a report, and send the attachment. And then you go back to the report draft — but need a few moments to recall where you left off and regain your thoughts. Once you regain footing, you remember the client email and switch back to your inbox.
+
+If this sounds mentally exhausting, that’s because it is. Every switch between tasks stimulates a mental reset. Your brain adjusts to new information and recalls where it left off on the previous one, draining your mental energy, concentration, and work efficiency.
+
+How does task switching impact learning?
+
+Learning new skills and accessing the ones you already have requires concentration. When you constantly switch back and forth between different tools, tasks, and communication channels, you create a mental tug of war. And that can make it hard to learn and focus.
+
+The negative impact of context switching goes beyond your ability to retain new information. A survey from Cornell University reported that it negatively impacts your productivity. It found that:
+
+45% of respondents felt less productive from context switching43% of respondents felt fatigued from switching between tasksIt takes 36 minutes every day just to switch back and forthIt takes up to nine-and-a-half minutes to recover a healthy workflow following an interruption
+
+45% of respondents felt less productive from context switching
+
+43% of respondents felt fatigued from switching between tasks
+
+It takes 36 minutes every day just to switch back and forth
+
+It takes up to nine-and-a-half minutes to recover a healthy workflow following an interruption
+
+Over time, the cumulative effect of context switching can stifle your skill development and knowledge acquisition — stunting your professional growth. Even though context switching feels like you’re getting more done, avoiding it is the key to keeping a good rhythm and being as productive as possible.
+
+4 signs that context switching is affecting your productivity
+
+Multitasking isn't inherently bad. Listening to your favorite industry podcast while making lunch is an innocent distraction and probably won’t affect your workflow. But juggling several tasks may be so ingrained into your workday that you're unaware of how it interrupts your attention span and productivity in the workplace.
+
+Here are four signs that context switching is negatively impacting your workflow:
+
+Tasks take longer to complete — tasks that used to take a predictable amount of time now take you considerably longer and, sometimes, are difficult to complete. You find it harder to accurately predict your daily or weekly workflow, which might impact your deadlines.Your work is full of errors and oversights — small details that you normally don’t miss might slip from your grasp. When you don’t fully engage with a task, you’re more likely to overlook the fine print and other important details, affecting your quality of work. Your mind feels tired — you’re going back and forth so often that your brain just can’t keep up. You feel more tired than usual, and you need to multitask just to keep awake.Engaging in deep work is hard — tasks that require deep thought or prolonged focus are especially draining for you. You might fragment your workflow to avoid concentration, switching to another task or looking for non-work tasks (like scrolling on social media) to distract yourself.
+
+Tasks take longer to complete — tasks that used to take a predictable amount of time now take you considerably longer and, sometimes, are difficult to complete. You find it harder to accurately predict your daily or weekly workflow, which might impact your deadlines.
+
+Your work is full of errors and oversights — small details that you normally don’t miss might slip from your grasp. When you don’t fully engage with a task, you’re more likely to overlook the fine print and other important details, affecting your quality of work.
+
+Your mind feels tired — you’re going back and forth so often that your brain just can’t keep up. You feel more tired than usual, and you need to multitask just to keep awake.
+
+Engaging in deep work is hard — tasks that require deep thought or prolonged focus are especially draining for you. You might fragment your workflow to avoid concentration, switching to another task or looking for non-work tasks (like scrolling on social media) to distract yourself.
+
+8 ways to combat context switching
+
+Context switching may be an unconscious workplace habit. But that’s a good thing — you can change a habit.
+
+Making small adjustments to your productivity techniques can help you turn your workflow around. What works for someone else's productivity may not fit you, so if one habit doesn't stick, try another until you find what works.
+
+1. Use the Pomodoro Technique
+
+The Pomodoro Technique is a popular time-blocking method that breaks down your workflow into 25-minute increments with a timer. The goal is uninterrupted work on a single task or goal for 25 minutes, followed by a five-minute break before returning. This lets you focus on a single task with an end in sight so you’re less prone to jumping back and forth. After several rounds of focus, take a longer break.
+
+2. Keep your eye on the big picture
+
+With so much to accomplish today, you may lose sight of long-term tasks and objectives. Taking a look at your whole to-do list can help you visualize everything and keep track without needing to constantly check in. An ultimate tasks template creates a database with all your tasks to achieve your goals, whether today or a month from now.
+
+3. Turn on focus mode
+
+Using website or app blockers, silencing your phone, and pausing notifications on Slack are practical ways to stop distractions from interrupting your flow. Additionally, scheduling calendar blocks or do-not-disturb modes signals team members to respect your concentration and save questions for later.
+
+4. Write it down
+
+You’re in the middle of writing a project proposal and remember you need to follow up with your manager about something. Rather than switching to the other task, write it down to return to it later. Choose a productivity tool with space for brain-dumping all of your ideas while maintaining a lean workflow.
+
+5. Consolidate tools
+
+Switching between several apps and work management software can get confusing and leave you vulnerable to miscommunications and oversights. Consolidate everything into as few tools as possible, so instead of tracking down necessary information, you’re paying attention to the task at hand.
+
+6. Prioritize
+
+Learning how to prioritize tasks helps you organize your to-do list and figure out the best way to spend your mental energy. You avoid bouncing around when you know which tasks deserve the most attention. Try a prioritization to-do list to identify stretch goals and organize tasks by urgency and importance, priming you for higher impact with less mental effort.
+
+7. Rein in your communications
+
+Decide when a situation calls for an email, meeting, or quick message. Complicated collaborative tasks can slow you down when you spend too much time exchanging words. Understanding which medium is best for each type of message will help you streamline communication and avoid those meetings where it feels like nothing happens.
+
+8. Reflect and readjust
+
+No matter what technique you use to combat context switching, you don’t have to commit to it forever. Make a habit of checking in with yourself on a regular basis — daily, weekly, or monthly — to evaluate your productivity methods and readjust when necessary.
+
+Keep everything in one place with Notion
+
+Context switching doesn’t have to rule your workflow. With thoughtful productivity habits, you can plan your time with efficiency and effectiveness, giving your full concentration to your most important tasks.
+
+Keep your eye on the prize with Notion templates for recording goals and connecting them to project tasks. Together, they’ll make it easier to set goals, prioritize them into a to-do list, and be more productive. Get started today.

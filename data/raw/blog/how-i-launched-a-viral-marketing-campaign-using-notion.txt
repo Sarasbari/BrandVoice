@@ -1,0 +1,49 @@
+Title: How I launched a viral marketing campaign using Notion
+Published Date: 2025-02-07T09:00-08:00
+URL: https://www.notion.so/blog/how-i-launched-a-viral-marketing-campaign-using-notion
+
+Most B2B SaaS companies play it safe. Air is not one of them. The company sent elderly protesters to picket their competitors and hired—then two days later, fired—its Chief Imagination Officer. When they told me joining the marketing team at Air would be “fun,” I didn’t expect this kind of fun.
+
+But starting at a new company meant diving into new tools and processes right away. Startup life doesn’t wait, so I got to work experimenting and adapting.
+
+At Air, Notion is the hub for everything we do, so it was really important for me to learn how to use it and figure out how to make an impact early in my journey.
+
+In just a few weeks, I went from a Notion beginner to a confident builder. Here’s how I got there—and a few thoughts to help you do the same.
+
+Leading my first campaign at Air
+
+My first campaign was our Figma integration. We didn’t want to play it safe and land a run-of-the-mill campaign. We all know there’s stiff competition for people’s time and attention online, and let’s be honest—nobody is going to win hearts and minds with new feature announcements alone.
+
+So we commissioned none other than the iconic creative director Jessica Walsh to celebrate and amplify the launch with a newly crafted manifesto—“Find Your Weird”—and stand out in a world of bland. We also worked with It’s Nice That on an interview with Jess on why weird works, and I brought on TikTok and Instagram creator Logiaweb to make a video tutorial of our integration.
+
+While our campaign was all about being weird, our process of creating it was anything but. There were a lot of moving parts to get these pieces out the door. Centralizing and tracking everything within a single brief was crucial. Rather than juggling back-and-forth emails and scattered project deliverables, I streamlined collaboration by sharing specific Notion subpages externally, directly assigning tasks, and updating task statuses and deadlines in real time.
+
+My favorite hack? Embedding media directly into the brief—Google Slides, Google Docs, Figma files, Slack conversations, you name it—helps everyone see everything in one place without jumping into ten other tools. I also embedded our Air board, making it easy for the teams at &Walsh and It’s Nice That to share, view, and download final assets right from Air’s workspace.
+
+Getting weird with it
+
+That Figma campaign brief saved my sanity. It’s based on a template that we’ve built over time and have adapted based on feedback—both the good and the bad.
+
+Here’s what I’ve learned about how to create the perfect campaign brief:
+
+Create a database of essentials. Our GTM briefs are organized in a shared database, ensuring every brief starts with consistent key details like test stage, product plan, release status, and stakeholders. These briefs include supporting documents for all aspects of a feature launch, keeping everything centralized and accessible.
+
+Get everyone on the same Notion page. I kick off each brief with a quadrant overview of key dates and documents, plus concise bullet points answering what we’re doing and why we’re doing it. This helps the team align on priorities immediately and gives other stakeholders a quick, at-a-glance summary.
+
+Keep the brief actually brief. While the brief includes vital details—audience, feature value, messaging—I keep it concise using collapsible toggles and embedded pages for deeper dives. Think of it as a Russian doll: compact at first glance but layered with essential information. Like social-media influencer Segun Ogunsheye says: “As short as it can be, but as long as it needs to be.” Everyone involved can easily find what they need without endless scrolling—just click to open.
+
+Connect vision with action. Here’s where the fun begins: planning launch activities across marketing channels, all neatly organized in a database. The brief transforms into an active workspace, with a task database tracking launch activities across all marketing channels. Each task links back to relevant sections of the brief, creating a seamless flow between strategy and execution. We can quickly pivot between must-haves and nice-to-haves—essential for campaigns like our Figma integration launch, where we needed to balance technical feature announcements with creative marketing that would genuinely engage our audience.
+
+This structured yet flexible approach in Notion hasn’t just made our campaigns more organized—it’s made them more successful. When everyone on the team can easily access, understand, and contribute to campaign planning, we spend less time managing documents and more time actually creating campaigns that resonate. What started as a simple template has evolved into a powerful system that keeps our marketing team aligned, agile, and ready to bring creative ideas to life.
+
+Why weird always wins
+
+Even with the best template and a well-planned process, success comes from being adaptable. From our initial brief to final asset delivery, Notion served as the connective tissue that kept our creative vision intact while managing complex partnerships with Jessica Walsh, It’s Nice That, and our social creators.
+
+The results speak for themselves: over three hundred thousand impressions across social platforms and a 950% increase in landing-page traffic. By centralizing our workflow in Notion, we launched a successful campaign and created a repeatable process that balances structure with creative freedom.
+
+See? I told you it’d be fun.
+
+Want to get weird with me?! I’m always open to creative collaborations and sharing more about how we make marketing magic happen. Let’s connect and make something weird together. ✌🏾
+
+This template helps marketing teams plan campaigns more easily in Notion. It outlines the most critical components of any great brief, with dedicated spaces to embed assets and integrated databases for tracking campaign tasks from pre-launch planning through post-launch analysis.

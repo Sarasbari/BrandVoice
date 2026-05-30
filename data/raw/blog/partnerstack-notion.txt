@@ -1,0 +1,81 @@
+Title: PartnerStack consolidated project management tools into Notion, delivering value to customers faster
+Published Date: 2023-05-30T00:00-04:00
+URL: https://www.notion.so/blog/partnerstack-notion
+
+PartnerStack uses Notion to manage projects across the entire company. They consolidated project management tools into Notion — saving time and money, increasing shipping cadence, and fostering operational clarity.
+
+$20Kper year saved5-6tools consolidated into Notion70seats cut across tools30%more products shipped
+
+Teams were using different project management tools, resulting in an absence of standardized process, siloed information, and wasted time.
+
+Consolidating project management tools into Notion, creating a single source of truth for every project that helps them run smoother and with full context.
+
+Company size: Mid-marketIndustry: SoftwareInsights from: Tyler Calder (CMO), Sid Nagpal (Senior Manager, Customer and Partner Marketing), Jonathan Mendes (Co-founder and Senior Product Designer). Teams using Notion: The entire company, including Marketing, Product, Design, Engineering, and People & Culture teams.  Why they chose Notion: Teams began using Notion for collaboration and projects, and after seeing its success, PartnerStack rolled it out to the entire company.
+
+Company size: Mid-market
+
+Industry: Software
+
+Insights from: Tyler Calder (CMO), Sid Nagpal (Senior Manager, Customer and Partner Marketing), Jonathan Mendes (Co-founder and Senior Product Designer).
+
+Teams using Notion: The entire company, including Marketing, Product, Design, Engineering, and People & Culture teams.
+
+Why they chose Notion: Teams began using Notion for collaboration and projects, and after seeing its success, PartnerStack rolled it out to the entire company.
+
+Shipping projects means delivering value.
+
+“If you can’t execute projects well, you fail as a business,” says Tyler Calder, PartnerStack CMO. “Especially in this market. The la la land of tech has faded. So, what value are you pushing to market? If it’s not real, you’re not going to exist.”
+
+PartnerStack automates the process of helping companies scale their ecosystem of partners, from affiliates to referrals to resellers. They’re pioneering a new model for B2B SaaS, and understand the need to move quickly when prioritizing, planning, and executing projects.
+
+But excess tooling slowed them down at each phase in the process. Teams would start with competing tools for how to run a project, wasting the first week figuring out how to collaborate. Then, there was no source of truth for project information — forcing teams to search through siloed tools to find what they needed. And finally, there wasn’t a repeatable, scalable process all teams could follow.
+
+So PartnerStack consolidated all its project tools and workflows into Notion. The result wasn’t just cost-saving — it was greater efficiency and thus, increased ability to deliver value.
+
+Using Notion as a single project management tool saves time, money, and operational headaches
+
+PartnerStack works in cross-functional, project-based teams. But the first 10% of a project’s timeline was wasted figuring out how those teams would work together — everyone brought different tools and mental models for how to collaborate.
+
+Tool bloat hurt the project’s execution, too. “Things were everywhere,” says Sid Nagpal, PartnerStack Senior Manager of Customer and Partner Marketing. “Meeting notes, tasks, assigning things to one another, leaving comments, feedback.”
+
+There wasn’t one place to see all project planning or work — creating a huge timesuck when teams wanted to get updates, find information, or track work.
+
+PartnerStack solved this problem by consolidating all its existing project management tools into Notion. They saved $20,000 in the process, but cost wasn’t the only factor. “There’s also non-financial impacts, which over time, impact your financials,” says Tyler. “With Notion, everyone moves faster.”
+
+Duplicate PartnerStack's projects template here →
+
+All of PartnerStack’s projects are organized in Notion. Each has goals, individual tasks, and important docs like customer research and meeting notes. There’s less context-switching and searching for information, so teams at PartnerStack can focus on doing impactful work instead of project management overhead.
+
+Favorite Notion feature: Databases. All projects are in a database, where PartnerStack can track owners, deadlines, individual tasks, statuses, and more.
+
+Creating scalable processes — that can be customized to projects or teams — leads to increased shipping cadence
+
+Most project management tools are rigid, forcing teams to shoehorn their processes into the tool’s predetermined way of working. This is especially painful when cross-functional teams come together, where each team has specific operational needs. What happens most times is teams use their own tools, information gets siloed, process is nonexistent, and shipping cadence shifts into neutral.
+
+PartnerStack uses Notion to create a shared, scalable process everyone can follow while also being flexible enough for all teams to use. “Notion’s ability to customize and scale across functions is exactly what we needed to execute our projects,” says Tyler.
+
+PartnerStack has been able to achieve this workflow through Notion templates. There are a set of standard templates as the starting point for projects — which are meant to be customized depending on the needs of the project or the team using them. Marketing has a specific section for data in their template, while design has callouts to include product mock-ups.
+
+“There’s no one way to solve a problem,” says Jonathan Mendes, PartnerStack’s Co-founder and Senior Product Designer. “Templates guide you. With customization in Notion, you can solve whatever problem you want.”
+
+Teams love Notion because it’s so flexible. Project managers and executives love it because there’s a standard, repeatable project process all teams adhere to.
+
+Favorite Notion feature: Templates. Teams can quickly duplicate a project management template, and customize it to their needs.
+
+One source of truth for projects, uniting information from specialized tools
+
+Think about all the information that’s part of a project — goals, product specs, user research, design mocks, launch plans, the kitchen sink (for good measure). Where’s it all live? Probably in a bunch of separate tools. That means there’s no source of truth for projects, which require a breadth of context for teams to operate with clarity.
+
+“We point people to a project page, right in Notion, and they can understand what we’re doing, why we’re doing it, and why it’s important,” says Tyler.
+
+When Jonathan and the design team were working on a new feature, they pulled everything into a single Notion page: prototypes, data, user feedback, product requirement documents, and more. This provided everyone working on the project with all the information needed to focus on solving the problem, instead of searching through other tools to get context. “Notion creates a store,” Jonathan says. “One place where everyone can come and find all documentation around the problem, notes, or explorations.”
+
+Because Notion’s embeds and integrations bring information in from everywhere, teams don’t need to go into another team’s specialized tools. This reduces friction, making access to information easier — while reducing seat licenses to those specialized tools in the process.
+
+Favorite Notion feature: Embeds. Teams at PartnerStack bring prototypes, data, and more in from other tools into Notion so they can stay focused instead of context-switching.
+
+Project planning, tasks, and updates live in one place, helping teams work more efficiently
+
+By consolidating project tools and workflows into Notion, PartnerStack was able to save time for its teams executing projects. People and processes were more organized, connected, and aligned — enabling PartnerStack to create valuable products, and deliver those products to customers with more urgency.
+
+Learn more about how you can manage projects in Notion.

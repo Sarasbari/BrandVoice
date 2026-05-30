@@ -1,0 +1,91 @@
+Title: Making a flowchart in 5 easy steps
+Published Date: 2023-05-15T00:00-06:00
+URL: https://www.notion.so/blog/making-a-flowchart
+
+You’re a new employee with a million questions, but you don’t know who to ask. So you’re twiddling your thumbs, feeling uncertain about the next step in your onboarding process, which no one outlined for you.
+
+Your manager could eliminate all these hiccups by making a flowchart.
+
+What’s a flowchart?
+
+A flowchart visually represents a process from start to finish. Companies use these charts to assist decision-making or teach a common workflow. You can think of them as “How to” guides when you have different questions, like “What’s our team’s communication cadence?” or “How do we document customer billing information?” The flowchart helps you find an answer to your question.
+
+Flowcharts use different shapes and colors to showcase the type of step the user is on (something collaborative or self-guided, for example), connecting these with arrows to direct them to the next step. Between shapes, there might be conditionals, like “If X, then Y, but if A, then B” to guide the user to the end of the chart.
+
+These documents showcase workflow bottlenecks, roadblocks, or a process’s start and endpoint. And you can easily create your own in a program like Google Docs, on a Microsoft whiteboard, or via a flowchart maker template in Notion.
+
+5 types of flowcharts
+
+Flowcharts are especially handy for certain industries and business processes. Here are five of the most commonly used flowchart types:
+
+Decision flowchart — this document helps the reader determine how to make a decision. You might use one with the starting point “What to do when you’re out-of-office” that uses arrows and boxes to outline a path that includes “Mark it off on your calendar,” “Fill out an OOO template,” and “Remind coworkers a couple of days before you’re off.”Data flowchart — this chart shows information’s flow within a process or system. You might use one to express how client details move between a website and a customer relationship management (CRM) system. Process flow diagram — the most common of the types, this document charts how to go about a procedure, such as a project roadmap creation or manufacturing process. You’ll mark a start and end, with arrows veering off each step when the procedure depends on different factors, like the timeline or your role. Workflow diagram — this type is similar to a process flowchart, but you’ll only use it for workflows, like how a company moves a task from point A to B in a CRM. Swimlane diagram — you can use this chart to show different information types side by side. A swimlane flowchart example showcases an internal communication cadence alongside an external one to highlight where they intersect.
+
+Decision flowchart — this document helps the reader determine how to make a decision. You might use one with the starting point “What to do when you’re out-of-office” that uses arrows and boxes to outline a path that includes “Mark it off on your calendar,” “Fill out an OOO template,” and “Remind coworkers a couple of days before you’re off.”
+
+Data flowchart — this chart shows information’s flow within a process or system. You might use one to express how client details move between a website and a customer relationship management (CRM) system.
+
+Process flow diagram — the most common of the types, this document charts how to go about a procedure, such as a project roadmap creation or manufacturing process. You’ll mark a start and end, with arrows veering off each step when the procedure depends on different factors, like the timeline or your role.
+
+Workflow diagram — this type is similar to a process flowchart, but you’ll only use it for workflows, like how a company moves a task from point A to B in a CRM.
+
+Swimlane diagram — you can use this chart to show different information types side by side. A swimlane flowchart example showcases an internal communication cadence alongside an external one to highlight where they intersect.
+
+How do different industries use flowcharts?
+
+Some flowchart benefits span every industry, like how they help you document and analyze a process and communicate project workflows to newcomers. But here are four use cases that show how their potential expands across industries:
+
+Education — teachers can use flowcharts to plan coursework or map out relationships between things like characters in a film or symptoms of a disease. Sales and marketing — these professionals might create flowcharts to outline a project management process or show how a lead moves through a certain sales funnel in a CRM.Manufacturing — one might illustrate a procurement or warehouse stocking process.Web design — designers can use a flowchart to show how users navigate a website.
+
+Education — teachers can use flowcharts to plan coursework or map out relationships between things like characters in a film or symptoms of a disease.
+
+Sales and marketing — these professionals might create flowcharts to outline a project management process or show how a lead moves through a certain sales funnel in a CRM.
+
+Manufacturing — one might illustrate a procurement or warehouse stocking process.
+
+Web design — designers can use a flowchart to show how users navigate a website.
+
+How to make a flowchart: 5 steps
+
+Here’s a five-step tutorial on the best way to make a flowchart. You might only need to add customized shapes and symbols if you’re creating a chart for something linear with little diversity in step type, so customize these steps as needed.
+
+1. Define the chart’s purpose
+
+Brainstorm with your team to determine a clear purpose for your flowchart, and make it as specific as possible. You don’t want to make a dauntingly large, complex document that nobody can follow or understand. Instead keep it focused by choosing something pointed which you can outline on a single page to.
+
+2. Choose a flowchart template
+
+While you can begin from scratch, customizable templates speed up the process and still suit your needs. You can also find and house your templates in a program like Notion to keep everything organized and in one place.
+
+3. Customize flowchart symbols and arrows
+
+Designate a step type for each shape. You might use beige rectangles for questions and dark gray circles for “Yes” and “No” answers that lead the reader to the next step. Then add shapes and arrows, customizing as needed and filling in text boxes with the appropriate content to guide viewers to the end. Don’t expect to get the process right on the first try. Follow the chart several times to ensure you’ve mapped out each step appropriately.
+
+4. Ask for feedback
+
+Before making your flowchart widely available, ask for feedback from anyone relevant to the process. This might be team members, other leadership employees, and even clients and stakeholders. Implement their input to ensure this map accurately captures the procedure.
+
+5. Share the document
+
+House your flowchart in a central location like a team workspace or corporate wiki (or both) so everyone can find it. Also consider linking out to it on other relevant documents, like adjacent process documents or onboarding outlines. That way you’ll have a single source of truth regarding this process or workflow to keep your team well-informed and reduce misunderstandings.
+
+5 flowchart best practices
+
+To limit the trial and error period, here are five basic flowchart best practices so you nail it on the first go:
+
+Keep it simple — a flowchart should stick to a single page and be concise so it’s easy to follow. If you ultimately want to make one for a large and complex workflow (like how to communicate with stakeholders), break it down into smaller processes and create a chart for each step. Prioritize consistency — to increase readability and help people quickly process a flowchart’s information, use the same stylizing elements in every document. Use the same symbols for each step type and keep spacing consistent between steps. Use a standard flow direction — follow the standard reading movement in your country. For the U.S., that’s top to bottom, left to right. Review them often — processes change, so keep your flowcharts accurate by reviewing and updating them often.Make your flowchart interactive — this doesn’t need to be a static document. You could link out to other relevant process documents and even embed a brief video to explain items.
+
+Keep it simple — a flowchart should stick to a single page and be concise so it’s easy to follow. If you ultimately want to make one for a large and complex workflow (like how to communicate with stakeholders), break it down into smaller processes and create a chart for each step.
+
+Prioritize consistency — to increase readability and help people quickly process a flowchart’s information, use the same stylizing elements in every document. Use the same symbols for each step type and keep spacing consistent between steps.
+
+Use a standard flow direction — follow the standard reading movement in your country. For the U.S., that’s top to bottom, left to right.
+
+Review them often — processes change, so keep your flowcharts accurate by reviewing and updating them often.
+
+Make your flowchart interactive — this doesn’t need to be a static document. You could link out to other relevant process documents and even embed a brief video to explain items.
+
+Start with a Notion template
+
+Flowcharts are an excellent way to represent a team’s workflow. Use them to quickly get a new coworker up to speed, audit a communication cadence, or outline a procedure for clients.
+
+Notion’s template gallery contains various customizable process management docs, like the stakeholder walkthrough template and the content design workflow template. Or search the template gallery for something that perfectly suits your needs.

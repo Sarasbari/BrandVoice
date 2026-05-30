@@ -1,0 +1,53 @@
+Title: Interview with former Notion Head of Community Ben Lang about his new couples' template
+Published Date: 2024-05-17T10:00-07:00
+URL: https://www.notion.so/blog/does-your-marriage-need-a-template-notion-superuser-ben-lang-built-one
+
+The Ben Lang story makes me smile.
+
+I run influencer partnerships at Notion and spent much of last year sitting next to Ben in our New York office. He was our longtime Head of Community, and along with helping me learn how to use Notion itself, he taught me about the people who really are the backbone of the global Notion community: our super-users and ambassadors, influencers and creators.
+
+And, of course, their templates.
+
+If Notion is a set of building blocks, templates are turnkey houses—ready-made pages that anyone can duplicate in their own workspace. Ben and I talked a lot about how content creators could use templates to grow their audience and connect with their followers. I had no idea how quickly he'd become one of them.
+
+Ben left Notion in 2023 and made headlines a few weeks ago with a “relationship template” called Couple’s Home Base that he’d created for himself and his wife. After a few weeks of trolling on X and resulting media buzz, thousands of paying customers downloaded it. The other day I sat down with Ben to catch up on his post-Notion life and how this whole template kerfuffle started.
+
+Let’s start at the beginning—how did you get to Notion in the first place?
+
+Before I joined Notion I was a super-fan. I was living in New York, working part-time for a few startups. I built a website where people could share their Notion setups. I started a Facebook group for Notion users. Then I emailed [co-founder and CEO] Ivan Zhao to ask about the API. He wrote back inviting me to hang out when he was in New York, and it turned into a job interview.
+
+What were those early years like?
+
+For a few years it was just Camille Ricketts and I being scrappy on all kinds of stuff: the Ambassador program, influencer marketing, user conferences, education programs. And of course the original template gallery.
+
+When did you start feeling like templates were going to be a thing?
+
+I always thought templates would be huge. I used to tweet screenshots of my Notion page and people were like, "Cool! How do I use this?" And I’d have to say, "Well, you gotta do it on your own." But once we had a Duplicate button, you could just copy it into your workspace. Notion is a blank canvas; either you build or you copy someone else. And most people don’t want to be builders.
+
+How did you come up with the idea for Couple's Home Base?
+
+My wife and I have been using Notion together since we planned our wedding; it's become a "second brain" for us. I thought it might help other couples organize their day-to-day and planning together and just be a better couple. A lot of people like to joke that it will increase the divorce rate, but I'd like to think the opposite.
+
+Has it had a big effect on your relationship?
+
+Absolutely! We joke a lot when we talk about things: "Add it to the Notion." If it's something we want to remember, it has to go there. But practically speaking it really does help us stay organized in our life as a couple.
+
+Then you tweeted the template and—boom—it went viral.
+
+It was funny seeing the tech meme people jump in. Once 3 to 4 of them posted about it, I realized something was up. I was entertained by all of it.
+
+Seems like people loved or hated it.
+
+Yes, the reaction was either "This is so cute" or "This is ridiculous." There's no middle ground. Alex Cohen says the optimal tweet is one that half the people love and half the people hate—it’s that tension that makes it go viral. I've got that. A lot more people have similar setups than I realized. And a lot of people said they would never do anything remotely close to this in their lifetime.
+
+Did you see different reactions from the Notion community?
+
+Yeah. Most people who use Notion were like, "This is pretty normal, I know lots of couples who do this." But then folks who don’t really know Notion yet were like, "This is crazy." I don't think this would work for everyone; I think you need at least one champion in the relationship to push it forward.
+
+So is creating Notion templates your new job?
+
+Right now I'm just having fun. I really like thinking about personal use cases. I mean, I use Notion for my own work stuff and it's great for all of that, but I like thinking about this intersection of your personal life, your relationships, your family, and tech tools. I don't know if it's going to be everything I do with my life, but I recently made a dating template.
+
+A married man creating a dating template is a big red flag, Ben.
+
+Hey, that template is how I found my wife! It's okay — I ran it by her.

@@ -1,0 +1,53 @@
+Title: How Devin Reed centralizes content work and makes it impact clear to different teams (and a template you can use)
+Published Date: 2023-06-21T08:45-07:00
+URL: https://www.notion.so/blog/how-devin-reed-centralizes-content-work-template
+
+Most marketing teams have too narrow of a view to track and organize work.
+
+They’re missing an important piece — how specific initiatives connect to company goals. Without that visibility and alignment, teams lack understanding of why their work matters at large, which can feel demoralizing.
+
+Devin Reed, Head of Content at Clari, built a tracker to solve this problem. It’s both granular and high-level: he can see all the deliverables for every project or launch, but also how these deliverables are linked to specific company OKRs. This gives his individual team members, cross-functional stakeholders, and leadership clear understanding into what’s happening and why it matters.
+
+Give work purpose by connecting deliverables to larger company strategy and objectives
+
+Devin starts by breaking work down into strategic initiatives. These are the pillars that dictate his content team’s work. Deliverables stem from there. If a strategic initiative is to generate pipeline, a deliverable might be a high-intent blog post. When you can see this all in one place, it’s an opportunity to tie specific deliverables not just to their higher-level strategic initiatives — folks can also see how specific work is rolling up into company goals and how its moving the needle.
+
+Devin then outlines a few basic requirements for each project: description, audience, timeline, and expected effort.
+
+While a project description might sound simple, it forces you to be succinct when explaining what you’re doing and why — something that many teams struggle with.
+
+Maybe the most important part of this tracker is the demand strategy. This makes it clear how every project actually helps to achieve strategic goals. Demand strategy is often broken down into two types: demand creation and demand capture.
+
+Demand creation is introducing and educating an audience about your solution and the problem it solves (things like content marketing, events, and social media). Demand capture is about finding and converting buyers that are actively in the market now (through tactics like SEO, paid search, and retargeting).
+
+Devin points out that this distinction is especially important — deciding the underlying purpose behind your work also helps you identify the right metrics to use to measure success.
+
+For example, running a demand creation webinar means you’re likely looking at registrations and attendance as your primary metrics. But if you’re running a demand capture webinar, attendance matters far less than conversion.
+
+Same deliverable, vastly different metrics.
+
+Check out Devin's deliverables tracker template here →
+
+Keep leadership and cross-functional partners aligned by sharing the right information at the right time
+
+The work of content teams touches many parts of a company.
+
+Your cross-functional partners need to know what you’re producing and how they can use it, and leadership needs to know how your work makes an impact. But they require different altitudes of information, and most teams struggle by either sharing too much detail or not enough.
+
+"A lot of marketing leaders don’t have time to get into the inner workings of their team’s projects," says Devin. "That’s why it’s so important to provide them with the right level of detail that answers their questions but gives them a chance to follow the breadcrumbs to find more."
+
+That’s why Devin keeps his deliverables tracker at a 30,000 foot view. Leadership can see a quick summary of what’s happening and when it’s due, while cross-functional partners can see what’s required and how they can use it. Individual stakeholders can click into each deliverable page to plan how to make the work come to life.
+
+It all exists in one place, but everyone involved can self-serve the information they need, when they need it.
+
+While it might be tempting to assign specific due dates and exact number of hours expected for a deliverable, Devin says getting too specific doesn’t always paint a clear picture of how resources are being allocated or how balanced your output is.
+
+For example, if you see a bunch of medium-to-high lift deliverables concentrated in February, you might need to rethink your workload balance and resource allocation. Or while a blog post might only take two hours to write, it actually takes six hours from start to finish when you factor in the time it takes to plan, outline, edit, and publish.
+
+Check out Devin's deliverables tracker template here →
+
+Goals, strategy, and deliverables. Clearly connected.
+
+Devin’s deliverables tracker creates a through line from a project to its purpose — how it’ll get done, it’s impact, and what goal it’s helping the company accomplish. It doesn’t just help his team organize and track work. It makes that work more strategic and more purposeful. Everything connects to the bigger picture, giving Devin, his team, and his partners more visibility into how they’re driving impact.
+
+To see all of Devin's templates, check out his creator profile in the Template Gallery.

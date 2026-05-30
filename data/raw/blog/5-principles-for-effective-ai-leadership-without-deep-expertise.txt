@@ -1,0 +1,35 @@
+Title: 5 principles for effective AI leadership without deep expertise
+Published Date: 2024-11-22T09:00-08:00
+URL: https://www.notion.so/blog/5-principles-for-effective-ai-leadership-without-deep-expertise
+
+In leadership roles, especially technical-leadership roles, there are few subjects you will be asked about more often than AI.
+
+But what if, like me until recently, you have lots of technical experience but have yet to dive meaningfully into AI development?
+
+While working as the SVP of Product Engineering at Slack, I was repeatedly amazed at how rapidly Notion launched and evolved its AI offerings. As I began talking with Ivan, Akshay, and the leadership team about possibly joining the company, I wondered to myself, How can I be an AI leader without deep knowledge of AI?
+
+I knew everyone would have questions.
+
+Shareholders and investors want to know how we’re staying ahead of the curve. Employees want to know how AI will alter their work. Journalists want to know how it will change our society and economy. All this curiosity—some might say pressure—increases when you’re responsible for teams actually developing large-scale AI products.
+
+The other thing I knew is that, outside the people developing language models, no one really is an “AI expert” yet.
+
+The field is still emerging; we all can benefit from each other’s insights.
+
+What I bring is operational context, experience, and a deep store of mental models and frameworks that have served me at other moments of rapid change. As I have settled into my new role, I’m trying to share what I learn. One vehicle was last month’s HBR report, “Supercharging Company Knowledge with AI.” And to build on that, I thought I’d share the attitudes and principles that help me lead at a leading AI company:
+
+Be radically candid. I often encourage colleagues to adopt a position of “radical candor.” This accelerates trust between colleagues. Honesty also generates clarity—asking questions without putting on a mask of expertise leads to better, more helpful answers.Bring a prototype to every team meeting. Notion has shipped a lot of features since I arrived, including an all-new version of its AI tools. But we’ve left just as many ideas on the cutting-room floor. I code my own ideas, tinkering with something until it’s just good enough to share (on an internal #Fuzzythoughts Slack channel). Others can use what I build. I also try every prototype made by others that I can, and offer consistent feedback. My title may be CTO, but at the end of the day my job is to make Notion successful. If that means using potential features well before the experience has been smoothed out, I’m here for it.Use benchmarks. I try not to give impressionistic feedback. Instead, I like to make things measurable, then measure them. There’s an old management chestnut that “what gets measured gets managed.” More simply, what gets measured gets done. We experiment quickly, test often, then—and this is key—verify. Having benchmarks and sticking to them leads to a clearer sense of what’s working, to better products, and ultimately to happier customers.Embrace tradeoffs. In a recent interview, I mentioned appreciating one day when Ivan asked to de-scope an in-progress feature so we could launch it faster. That’s often the right call. AI at present is best when it assists people with specific tasks, such as scanning and summarizing company knowledge. Especially when working on consumer products, it’s imperative to prioritize immediate utility.Lead with design. We know AI models will continue to get more powerful. We don’t yet know the best ways to use them; there’s a world of AI interaction paradigms we have yet to explore. At the same time, design can help people overcome their fear of the unfamiliar. Plus, creating delightful experiences makes new habits “sticky.” Notion has always lead with design, and we continue to believe design accelerates AI’s adoption.
+
+Be radically candid. I often encourage colleagues to adopt a position of “radical candor.” This accelerates trust between colleagues. Honesty also generates clarity—asking questions without putting on a mask of expertise leads to better, more helpful answers.
+
+Bring a prototype to every team meeting. Notion has shipped a lot of features since I arrived, including an all-new version of its AI tools. But we’ve left just as many ideas on the cutting-room floor. I code my own ideas, tinkering with something until it’s just good enough to share (on an internal #Fuzzythoughts Slack channel). Others can use what I build. I also try every prototype made by others that I can, and offer consistent feedback. My title may be CTO, but at the end of the day my job is to make Notion successful. If that means using potential features well before the experience has been smoothed out, I’m here for it.
+
+Use benchmarks. I try not to give impressionistic feedback. Instead, I like to make things measurable, then measure them. There’s an old management chestnut that “what gets measured gets managed.” More simply, what gets measured gets done. We experiment quickly, test often, then—and this is key—verify. Having benchmarks and sticking to them leads to a clearer sense of what’s working, to better products, and ultimately to happier customers.
+
+Embrace tradeoffs. In a recent interview, I mentioned appreciating one day when Ivan asked to de-scope an in-progress feature so we could launch it faster. That’s often the right call. AI at present is best when it assists people with specific tasks, such as scanning and summarizing company knowledge. Especially when working on consumer products, it’s imperative to prioritize immediate utility.
+
+Lead with design. We know AI models will continue to get more powerful. We don’t yet know the best ways to use them; there’s a world of AI interaction paradigms we have yet to explore. At the same time, design can help people overcome their fear of the unfamiliar. Plus, creating delightful experiences makes new habits “sticky.” Notion has always lead with design, and we continue to believe design accelerates AI’s adoption.
+
+Perhaps the most surprising thing I’ve learned in my time here is this: the very qualities that made me hesitate—my candor about what I didn't know, my instinct to prototype and measure rather than theorize, my comfort with tradeoffs—turned out to be exactly what the role required. The future of AI leadership isn’t about having all the answers. It’s about asking the right questions. Sometimes the answers will come directly from your teammates; but, increasingly, I’m finding that I can access their knowledge through Notion AI.
+
+After all, in a field where everyone is learning as they go, the most valuable expertise might just be knowing how to learn.

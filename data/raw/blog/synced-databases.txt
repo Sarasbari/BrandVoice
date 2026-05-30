@@ -1,0 +1,23 @@
+Title: Synced Databases will bring tools together in Notion — get a sneak peek!
+Published Date: 2022-03-02T08:00-08:00
+URL: https://www.notion.so/blog/synced-databases
+
+We strive to make Notion one of the most customizable tools in the world so you can work exactly the way you want. As part of this, we know that being able to connect Notion with your other tools opens up even more possibilities to get organized and collaborate across teams. Not only does it reduce context switching and keep you in flow state, it breaks down silos between teams and makes all your data more useful to everyone.
+
+With this in mind, we’re excited to preview our new Synced Databases feature, allowing you to bring data from tools like Jira and GitHub into your Notion workspace and keep it structured as a database.
+
+With Synced Databases, you’ll be able to:
+
+Easily pipe in large amounts of data at once by pasting a single link. No more migrating info line-by-line from other tools.Keep your data automatically synced across Notion and other tools.Make Notion your hub for all essential tools, allowing you to collaborate across teams in one place. Sales can see what Engineering is up to without having to go into Jira. Use powerful Notion database features like views, properties, and filters with your synced data. It’s easy to customize exactly how you want to see and use your info.Build relations between synced data and other work in just a few clicks.
+
+Easily pipe in large amounts of data at once by pasting a single link. No more migrating info line-by-line from other tools.
+
+Keep your data automatically synced across Notion and other tools.
+
+Make Notion your hub for all essential tools, allowing you to collaborate across teams in one place. Sales can see what Engineering is up to without having to go into Jira.
+
+Use powerful Notion database features like views, properties, and filters with your synced data. It’s easy to customize exactly how you want to see and use your info.
+
+Build relations between synced data and other work in just a few clicks.
+
+Synced Databases will be available later this year with GitHub and Jira — we can’t wait to see how you use them!

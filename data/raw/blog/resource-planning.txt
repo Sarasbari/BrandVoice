@@ -1,0 +1,87 @@
+Title: Why effective resource planning is crucial for your company
+Published Date: 2023-05-18T00:00-06:00
+URL: https://www.notion.so/blog/resource-planning
+
+Project management is less about controlling chaos and more about preventing it. If you understand who’s responsible for each task and what they need in order to succeed, you can often avoid bottlenecks and misunderstandings altogether.
+
+That's where resource planning comes in. Creating a plan for every human, technical, and monetary resource your team requires ensures you’ve set them up for success.
+
+What’s a resource plan?
+
+A resource plan is a document that identifies a project’s resource needs, including the following:
+
+HumanTimeBudgetaryHardwareSoftware
+
+Human
+
+Time
+
+Budgetary
+
+Hardware
+
+Software
+
+To plan out resources, this document often includes a project roadmap with tasks, deadlines, and responsible team members. The more project-related information that’s included, the more thorough your resource planning will be.
+
+The importance of resource planning
+
+Resource plans help managers better understand, and deliver, a project's needs. A resource plan might reflect that funding is low, for example, and the project manager can request more from leadership professionals or adjust the plan. These insights and this flexibility are two of the greatest benefits of having a resource plan, along with avoiding potential roadblocks due to insufficient or held-up assets.
+
+Planning out your resources also helps you:
+
+Maximize resource use — when you see every asset outlined before you, you can allocate them more effectively to save time and money.Improve delivery time — keeping chaos at bay enables your team to consistently deliver on time. While no timeline is perfect, resource planning keeps everything on schedule by constantly shifting to meet business needs.Make timelines predictable — time-tracking becomes more predictable with resource planning. You can see the time assigned to each project task and the resources that staff will need to meet that deadline. When you schedule resources, you already have a clear picture of when, and for how long, you'll need them.Improve project flow — software development projects are an excellent example of how flow impacts objectives. The project can stall if a developer fails to create one code block before another developer builds a dependent block. Resource planning breaks every project section into specific needed resource elements, so projects move swiftly from start to finish. You’ll know who and what each task requires and when it's due before any dependent items can kick off.
+
+Maximize resource use — when you see every asset outlined before you, you can allocate them more effectively to save time and money.
+
+Improve delivery time — keeping chaos at bay enables your team to consistently deliver on time. While no timeline is perfect, resource planning keeps everything on schedule by constantly shifting to meet business needs.
+
+Make timelines predictable — time-tracking becomes more predictable with resource planning. You can see the time assigned to each project task and the resources that staff will need to meet that deadline. When you schedule resources, you already have a clear picture of when, and for how long, you'll need them.
+
+Improve project flow — software development projects are an excellent example of how flow impacts objectives. The project can stall if a developer fails to create one code block before another developer builds a dependent block. Resource planning breaks every project section into specific needed resource elements, so projects move swiftly from start to finish. You’ll know who and what each task requires and when it's due before any dependent items can kick off.
+
+5 stages of resource planning
+
+Resource management planning has five key stages you can follow to create a living, flowing document that meets your team or project’s needs.
+
+1. Identify
+
+Work with project-relevant managers to identify the necessary resources. Consider time, money, employees, and tools.
+
+Time is tricky to predict, but you can use previous projects and tasks to estimate how long something might take. And don't forget time that doesn’t seem as directly associated with the project, like stakeholder review of documents which an employee can’t continue working on until they’ve been approved.
+
+A great way of assessing the resources you need is to create a project flowchart so you can notice dependencies and when a task might become stalled waiting on another resource.
+
+2. Procure
+
+Now it's time to check resource availability and assign everything to your project. Welcome flexibility during this planning stage. Anything from business priorities to resource schedules can change over time, shaking up your available assets. The trick is to break down large, important projects into manageable chunks and schedule supplies based on team workloads. If necessary, you can always reschedule smaller, less urgent objectives that require fewer resources.
+
+3. Visualize
+
+Once you’ve identified and located your resources, organize and visualize everything in a resource planning template or spreadsheet. Make this document accessible to every project manager involved, so you’re all on the same page and can make adjustments when necessary.
+
+Also, use this time to notice discrepancies or issues when you’re inputting the information. This could save your team time and money working on tasks that are dismissed later because of problems you could have foreseen.
+
+4. Manage
+
+The task of managing resources starts when your project does, and never stops through its lifecycle. You’ll need to monitor and adjust your plan as deadlines, workflows, and stakeholder interests shift. Most resource management software make your plans easy to adjust, but if you use a standard tool like Excel or Google Sheets, you'll want to design it to be flexible.
+
+5. Evaluate
+
+Post-project, use the insights you glean from managing your resource plan to inform future projects. Chat with your team to gain feedback about whether they felt well equipped, or any resource shifts frustrated them. And assess whether your identifying, visualizing, and managing processes worked well or could use improvement.
+
+3 best practices for resource planning
+
+Resource planning isn't a set-it-and-forget-it task. As your project progresses, consider these three best practices to manage workloads and keep everything running smoothly:
+
+Manage schedules — you don't have to approve timesheets, but paying attention to scheduled vacation days or time zones can help you plan your resources. And consider non-human timetables, too, like server time. Whatever resources you’re working with, keep a close eye on time. Monitor progress with Gantt charts and dashboards — key performance indicators (KPIs) presented on Gantt charts and dashboards are great for visually tracking projects. You can add these visualizations into a connected Notion workspace for every team member to see. Of course, to create these dashboards you need to track your assets, so consider adding a data analysis resource. Review these reports often to check for productivity roadblocks, but not so often that you'll need a project plan just to schedule time to monitor your project.Review assignments — ask any developer what their workload looks like and they'll give you the thousand-yard stare. Leveling your resources ensures you don't overload a team member while others sit idle, waiting for something to happen. Constantly review your assigned workloads to make sure you're distributing tasks evenly across resources. This might mean adding more resources to handle the workload.
+
+Manage schedules — you don't have to approve timesheets, but paying attention to scheduled vacation days or time zones can help you plan your resources. And consider non-human timetables, too, like server time. Whatever resources you’re working with, keep a close eye on time.
+
+Monitor progress with Gantt charts and dashboards — key performance indicators (KPIs) presented on Gantt charts and dashboards are great for visually tracking projects. You can add these visualizations into a connected Notion workspace for every team member to see. Of course, to create these dashboards you need to track your assets, so consider adding a data analysis resource. Review these reports often to check for productivity roadblocks, but not so often that you'll need a project plan just to schedule time to monitor your project.
+
+Review assignments — ask any developer what their workload looks like and they'll give you the thousand-yard stare. Leveling your resources ensures you don't overload a team member while others sit idle, waiting for something to happen. Constantly review your assigned workloads to make sure you're distributing tasks evenly across resources. This might mean adding more resources to handle the workload.
+
+Complement your resource planning with Notion templates
+
+A successful project requires much more than asset allocation. Notion has customizable templates that complement every stage of your enterprise resource planning, from project roadmaps to budget planning and task management grids. Whatever you choose, you can add it to your resource planning strategy.

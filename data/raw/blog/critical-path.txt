@@ -1,0 +1,107 @@
+Title: How to use critical path method for project management
+Published Date: 2023-09-15T00:00-03:00
+URL: https://www.notion.so/blog/critical-path
+
+Your to-do list is one thing. But for every project, you also have a must-do list: the tasks you absolutely have to complete to call it a success.
+
+This is the critical path. As the name implies, it's the path you need to take to hit your most important milestones and deliver a high-quality project.
+
+In project management, an entire methodology surrounds the critical path method (CPM). And as tasks stack up, you’ll want to learn its ins and outs to properly prioritize your to-do list without letting anything vital slip.
+
+What’s the critical path?
+
+The critical path in project management identifies the highest-priority tasks that your project depends on. When you map it out, it usually looks like a straight horizontal line of dependent tasks with a few branches of independent tasks. Together, they outline your most important deliverables and to-dos.
+
+Within every project, there are a ton of tasks, and it's reasonable to assume you should complete each of them for the project to succeed. But if you actually map out your project plan, you’ll probably find a straight line of related ones that your project can’t live without, usually the tasks that take the longest. Those are your critical tasks.
+
+A critical path is more than just pointing out the most important steps of your project. The goal is to create the most accurate project timeline possible. Outlining your critical path helps with scheduling, recognizing task dependency, and clarifying the overarching plan to your team or stakeholders.
+
+The trick is identifying which tasks will become part of the critical path (and which aren’t as important). And since this is a project management methodology, there’s a technique to do so.
+
+What’s the critical path method?
+
+The CPM, or critical path analysis (CPA), is a technique project managers use to accurately create a project schedule. Using CPM, you make a visual representation of the sequence of events in a project, highlighting the critical path of important tasks. Then you can calculate the total duration and define your timeline.
+
+In the process, CPM points out any parallel tasks that don't require strict deadlines — and even tasks that you don’t need to complete in the first place. This helps you create a formative assessment of tasks and organize priorities accordingly.
+
+Why use the critical path method?
+
+You might think it’s easy to write down your critical path off the top of your head. But following tried-and-true methodology organizes your process in the best way possible, helping you get outstanding returns. Here’s why CPM is so beneficial:
+
+Controls your budget
+
+By identifying the critical path, you have a clear road to project completion. You've already eliminated wasteful time that could bloat your budget. If other tasks have float time or aren't as important, you can move resources to critical path activities, cutting down on idle time and saving you money.
+
+Allows scheduling visibility
+
+With all important tasks visible, you can shift resources based on skill level. Perhaps new employees need more time to get up to speed on the project, or a subject matter expert finishes with that dependency early. Having it all in a diagram with the most critical tasks glowing makes human resource allocation that much cleaner.
+
+Makes for easier project management
+
+Projects can be complex, with flowcharts everywhere and Gantt charts that seem to circumnavigate the globe. CPM shows which activities matter most, outlining resource allocations and where every task stands in relation to the next. It's a quick way to look at a project, grasp its complexity through visual simplification, and assess where you are in the timeline.
+
+Allocates resources
+
+The cherry on top of better visibility to scheduling is that you can quickly move resources around, human or otherwise. From suppliers delivering material to employees leaving or starting on the project, the critical path tells all, or at least tells the project manager which urgent tasks need those resources first.
+
+Eliminates scope creep
+
+All of this added visibility results in a lesser chance of scope creep. It's hard for a project to get out of hand when the most pressing tasks have giant neon signs around them. As you review the critical path throughout the project, you can see where your actions and your timeline no longer align. Then you can add or switch up resources to get things back on track.
+
+Critical path method versus PERT chart
+
+If you have a program evaluation and review technique (PERT) chart, you might wonder: There's already a critical path in my PERT chart, so why create extra work?
+
+For starters, outlining a critical path in a PERT chart is optional, and might not have the level of depth you need. Second, a path exists only after you create your duration estimates for every task — that’s how you find the most important flow. A PERT chart doesn’t rely on your timeline in the same way.
+
+You'd use a PERT chart to manage uncertainties in projects, while a CPM manages predictable tasks. Both charts list out tasks, and both charts estimate each task's duration and dependencies. But only the CPM provides set-in-stone times rather than the ranges of the PERT chart.
+
+Don’t feel like you need to choose one of these methods over another. They’re both useful, just with different approaches to duration.
+
+How to find the critical path: 6 steps
+
+Your team has a project to do and a bunch of tasks floating around. Now it's time to break out your project management software, or even a pen and paper, to locate the critical path in six steps.
+
+1. Make a list
+
+Using a work breakdown structure (WBS), you'll list all of the activities of your project. These are the tasks you must complete to call your project a success. When in doubt, be comprehensive. You can always cut the list down later.
+
+2. Determine dependencies
+
+Using your WBS as a guide, call out the tasks that depend on other tasks. You can’t test your app for quality if the app doesn’t exist yet. This is also the time to identify parallel tasks dependent on only available resources and time rather than other activities to put everything in perspective.
+
+3. Create a visualization
+
+Once you know what your tasks are — and dependent and parallel ones — plug them into a network diagram. This is a flowchart that displays the chronological order of events. Put each task in a box, connect dependent tasks with arrows, and add some flair if you like (no one said flowcharts have to be boring).
+
+4. Add time durations
+
+You'll need to estimate the time duration for each task if you ever want to reach the critical path. There are three methods you can employ here:
+
+Guess — using your project experience, guess how long it'll take to complete activities. You can reference past project data or industry standards to guesstimate the time each one will take.Forward pass technique — with a specified start date in mind, you'll calculate early start (ES) and early finish (EF) dates. A task’s ES would be the greatest EF value from the previous task, and EF is ES plus the total task duration. The clock starts at the ES of the first activity and moves forward through the schedule. Backward pass technique — conversely, this method starts with the last scheduled task and moves backward. Late start (LS) is late finish (LF) minus duration, and LF is the lowest LS value from the next activity.
+
+Guess — using your project experience, guess how long it'll take to complete activities. You can reference past project data or industry standards to
+
+guesstimate the time each one will take.
+
+Forward pass technique — with a specified start date in mind, you'll calculate early start (ES) and early finish (EF) dates. A task’s ES would be the greatest EF value from the previous task, and EF is ES plus the total task duration. The clock starts at the ES of the first activity and moves forward through the schedule.
+
+Backward pass technique — conversely, this method starts with the last scheduled task and moves backward. Late start (LS) is late finish (LF) minus duration, and LF is the lowest LS value from the next activity.
+
+5. Calculate the critical path
+
+At this stage, you don’t have your critical path yet. You have an overview of your project, but you haven’t identified the line of important tasks with the longest timeline.
+
+To find your critical path, add the start and finish times to each task in each path in front of you. Then, figure out the duration of each connected line of tasks in your diagram. Write those numbers down. Whichever line of tasks has the longest duration is the winner — that's your critical path.
+
+6. Examine the float
+
+Some tasks will have float, which is how much extra time surrounds an activity without impacting the total project or its end date. Critical tasks have no float, while any tasks off the critical path can have positive float numbers. Basically, knowing the float time available helps project managers move resources around when needed and avoid delays with necessary tasks.
+
+Critical path example
+
+This CPM example outlines what a critical path might look like for a simple project. There’s a key that shows the viewer what each color and box means, along with clear arrows showing exactly how each task relates to the other. In a more detailed path, you’d see task titles, specific timeframes, and float times as well.
+
+Project management made easier with Notion
+
+Creating a CPM is an excellent way to thoroughly understand your project's timeline and critical tasks. And with Notion, you can create all the supporting documents your team needs to succeed, like a project goals hub and time trackers. Notion's free templates help you organize and share every doc you need to lead your project to success.

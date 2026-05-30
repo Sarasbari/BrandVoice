@@ -1,0 +1,87 @@
+Title: Support a knowledge-sharing ecosystem with communities of practice
+Published Date: 2023-10-26T00:00-03:00
+URL: https://www.notion.so/blog/communities-of-practice
+
+Knowledge sharing and teamwork are essential for growth, but fostering these traits isn’t a simple process. Developing a robust collaborative culture not only takes time but also requires a spontaneous personal initiative from each employee — rather than a directive from a manager.
+
+While there’s no way to force teams to be more collaborative, tactics like communities of practice nudge employees in this direction.
+
+Communities of practice encourage innovation, problem-solving, and organic knowledge transfer in the workplace. And with support and guidance, a community of practice rewards companies with benefits like retention, improved efficiency, and a competitive edge.
+
+Find out what a community of practice is, how it differs from a team-based organization, and ways to make these communities a part of your team’s culture.
+
+What’s a community of practice?
+
+A community of practice is an informal group of individuals who frequently meet and share ideas, opinions, or strategies related to a shared topic of interest.
+
+You’ll find plenty of community of practice examples throughout history (think medieval guilds and Renaissance painting studios), but it wasn’t until the 1990s that cognitive anthropologists Jean Lave and Etienne Wenger formally defined this term. Initially, Lave and Wenger were most interested in using the phrase “communities of practice” to describe learning theory and apprenticeships, but the concept spilled over into any domain where like-minded individuals gather to discuss a topic.
+
+Unlike teams within a traditional business structure, communities of practice are self-selecting and don’t operate on a set agenda with deadlines, role expectations, or task assignments. People only join these communities if they have a passionate interest in the community’s central subject and feel they have valuable information to gain and contribute.
+
+Although these groups sometimes schedule regular meetings and elect leaders, these gatherings operate on “gut feelings” rather than formal structures or timelines.
+
+3 characteristics of a community of practice
+
+While communities of practice are more flexible than standard teams, they aren’t as casual as a group of friends meeting at a café. Three essential characteristics set these groups apart from other workplace structures and give them a unique purpose:
+
+Domain — a community of practice’s domain is the central topic that draws members together. Software engineers might focus on the domain of IT, while veterinarians could meet to discuss animal health. Whether broad or specific, domains are always the unifying force bringing individuals together to learn and share knowledge. Community — the community itself is a group of individuals who voluntarily meet to build relationships, gain knowledge, and contribute their expertise. Members develop a sense of trust and camaraderie with their fellow participants, and they may assign loose leadership roles to help with conflict resolution or decision-making procedures. Practice — a major difference between communities of practice and other informal groups is that the former applies their knowledge to real-world situations. Whether it’s prototyping a new product, mentoring community members, or solving problems in a particular domain, these groups have a practical purpose.
+
+Domain — a community of practice’s domain is the central topic that draws members together. Software engineers might focus on the domain of IT, while veterinarians could meet to discuss animal health. Whether broad or specific, domains are always the unifying force bringing individuals together to learn and share knowledge.
+
+Community — the community itself is a group of individuals who voluntarily meet to build relationships, gain knowledge, and contribute their expertise. Members develop a sense of trust and camaraderie with their fellow participants, and they may assign loose leadership roles to help with conflict resolution or decision-making procedures.
+
+Practice — a major difference between communities of practice and other informal groups is that the former applies their knowledge to real-world situations. Whether it’s prototyping a new product, mentoring community members, or solving problems in a particular domain, these groups have a practical purpose.
+
+Common features of a community of practice framework
+
+These communities value honesty and informality over organization and expectations. Their loosely defined “requirements” contribute to their efficacy at spreading knowledge, fostering innovation, and boosting each member’s sense of purpose. Some of these requirements include:
+
+Informal communication — communities of practice sometimes designate facilitators for convenience, but the conversations at these gatherings aren’t as stuffy as in standard boardroom meetings. There’s no agenda or to-do list. Instead, community members speak casually with one another, and the topics of conversation meander as members exchange knowledge.Out-of-the-box thinking — community members are free to entertain innovative and even “out there” solutions to challenges in their domain of interest. Since there are no goals to accomplish at these meetings, communities of practice challenge preconceived ideas and experiment with little-researched or unorthodox theories.Voluntary participation — nobody forces anyone to join a community of practice. Instead, people engage with these groups if they’re passionate about the domain and feel their expertise fits the participants’ interests.Inclusion based on domain, not department — because communities of practice are voluntary, they’re also interdepartmental. For example, just because one community of practice focuses on marketing doesn’t mean people need to work in marketing to join. Often, the diverse range of specialties and work experiences in a community of practice leads to unique insights and ideas.
+
+Informal communication — communities of practice sometimes designate facilitators for convenience, but the conversations at these gatherings aren’t as stuffy as in standard boardroom meetings. There’s no agenda or to-do list. Instead, community members speak casually with one another, and the topics of conversation meander as members exchange knowledge.
+
+Out-of-the-box thinking — community members are free to entertain innovative and even “out there” solutions to challenges in their domain of interest. Since there are no goals to accomplish at these meetings, communities of practice challenge preconceived ideas and experiment with little-researched or unorthodox theories.
+
+Voluntary participation — nobody forces anyone to join a community of practice. Instead, people engage with these groups if they’re passionate about the domain and feel their expertise fits the participants’ interests.
+
+Inclusion based on domain, not department — because communities of practice are voluntary, they’re also interdepartmental. For example, just because one community of practice focuses on marketing doesn’t mean people need to work in marketing to join. Often, the diverse range of specialties and work experiences in a community of practice leads to unique insights and ideas.
+
+Why is a community of practice important for business?
+
+Communities of practice encourage a vibrant culture of learning in which multiple departments intermingle and each member feels valued. Managers will likely notice the following benefits:
+
+Effective knowledge sharing and transfer — communities of practice are the perfect place for senior employees to share procedural knowledge they’ve gained over the years. Circulating work tips and techniques distributes valuable insights across your organization, expanding your team’s expertise. Improved employee engagement and retention — community members have a shared passion and an equal voice in the conversation, offering everyone a sense of belonging and purpose. This might boost job satisfaction to help companies retain top talent. Strong problem-solving skills — the relaxed and collaborative nature of these groups makes them a hub for innovative ideas and original problem-solving tactics. Members share their diverse experiences and encourage others to consider problems from unconventional perspectives, which can inspire novel processes, services, and products.Reduced cost for training — since communities of practice let members learn from senior employees, they often reduce the need for external training, workshops, and professional development programs. Enhanced knowledge transfer also streamlines the onboarding process.
+
+Effective knowledge sharing and transfer — communities of practice are the perfect place for senior employees to share procedural knowledge they’ve gained over the years. Circulating work tips and techniques distributes valuable insights across your organization, expanding your team’s expertise.
+
+Improved employee engagement and retention — community members have a shared passion and an equal voice in the conversation, offering everyone a sense of belonging and purpose. This might boost job satisfaction to help companies retain top talent.
+
+Strong problem-solving skills — the relaxed and collaborative nature of these groups makes them a hub for innovative ideas and original problem-solving tactics. Members share their diverse experiences and encourage others to consider problems from unconventional perspectives, which can inspire novel processes, services, and products.
+
+Reduced cost for training — since communities of practice let members learn from senior employees, they often reduce the need for external training, workshops, and professional development programs. Enhanced knowledge transfer also streamlines the onboarding process.
+
+How to create a community of practice: 4 methods
+
+Communities of practice naturally resist formal rules and top-down management structures. Since they’re spontaneous and self-selecting, managers can’t mandate one the same way they’d form a marketing or sales team. But here are four ways to encourage communities of practice in an organization.
+
+1. Explain communities of practice to your team
+
+Hold a meeting explaining the concept so your team clearly understands how these communities work and why they benefit the company.
+
+To help teams fully grasp the concept, set up a mock community of practice and role-model as a group member. Ask a few passionate employees if they’re interested in creating a community of practice for a specific domain. Make it clear you’re willing to offer time, resources, and mentoring to make these communities a reality.
+
+2. Allocate resources
+
+Factor community of practice costs into your budget and set aside resources and work time for employees to participate. Although these groups meet spontaneously, dedicating time and space for them makes team members more likely to engage regularly.
+
+3. Host team-building events and workshops
+
+Consider hosting more team-building events to strengthen ties between team members from different departments. These meetings often help employees build new relationships outside their specialty and open them up to potential new connections. Even if team members don’t discover community of practice opportunities, holding these events helps with knowledge transfer and building camaraderie.
+
+4. Create a company-wide knowledge-sharing culture
+
+Communities of practice celebrate the free flow of ideas and expertise, so teams with an established knowledge-sharing culture have an easier time forming these groups. Develop a habit of recognizing and rewarding employees when they contribute to collective team expertise, and make it easy to share this information with an accessible centralized repository like a team wiki.
+
+Encourage communities of practice with Notion templates
+
+Implementing communities of practice isn’t as straightforward as building a roadmap or assigning work tasks, but that doesn’t mean it’s not worth the effort. With Notion’s templates and team wikis on your side, it’s simpler for teams to collaborate and share knowledge informally. Search the template gallery today to find out how Notion strengthens team ties and inspires innovation.

@@ -1,0 +1,113 @@
+Title: Test monitoring: How to track every procedure
+Published Date: 2023-05-29T00:00-06:00
+URL: https://www.notion.so/blog/test-monitoring
+
+“Who watches the watchers?”
+
+Although this quote from the Roman poet Juvenal dates back to before modern times, the main idea stays the same: Even the most stringent processes need monitoring to be efficient, on time, and under budget.
+
+That's what test monitoring is for.
+
+Project monitoring and control lets quality assurance (QA) and senior product managers oversee the testing process, ensure accuracy, and produce high-quality products that meet standards.
+
+This extra layer of testing is critical for businesses that interact with security, software encryption, and personal data. But test monitoring supports any organization with a testing process. It’s the best way to make sure you get it right every time.
+
+What’s test monitoring?
+
+Test monitoring evaluates and provides feedback on a project’s testing process. This might seem more complicated than it actually is; all test monitoring does is ensure that how you test is correct and in line with industry standards.
+
+Testing a bicycle might involve spinning the wheel to make sure it doesn't hit the brake mid-spin. But test monitoring is the checkbox that verifies someone spun the wheel and did so correctly — in the right direction and with the right amount of force to confirm that a customer can safely ride the bike.
+
+When it comes to software testing — test monitoring’s more common application — the process delivers relevant feedback during sprint test cycles. Each of these cycles tests the results of a development or design sprint, and test monitoring tracks outcomes and prepares metrics to inform the next course of action. These metrics could include the number of failed or passed tests and the resources they used.
+
+There's no set time frame for how often or with what intensity you should implement test monitoring. It all depends on the size of the project and your business needs. You may only need to spin that wheel once per project, or you might need to spin it at every stage until it ships out of the warehouse.
+
+Why do test monitoring?
+
+While test monitoring isn’t a mandatory business practice (though it’s certainly highly encouraged), there are some overall benefits to implementing it. In a nutshell, it's all about strategy.
+
+Test monitoring helps you conduct more accurate tests by:
+
+Reducing testing time — test monitoring actively surveys results, even while it’s still in progress. There might be a quicker way to spin that wheel or multiple wheels simultaneously. In software development, testing procedures can take months, so a test monitoring strategy that allows for live changes saves a ton of time. Improving result range — you might not know what the results of your test could be until they actually happen. Test monitoring takes note of every detail, capturing alternate results so next time you can track a broader range of variables.Spotting inefficiencies — having no testing process at all is one thing, but a bad testing process is arguably worse. You might check for the wrong outcomes, miss steps, or fail to properly document results. Test monitoring keeps you on the right path and gives you the chance to fix mistakes as they come.
+
+Reducing testing time — test monitoring actively surveys results, even while it’s still in progress. There might be a quicker way to spin that wheel or multiple wheels simultaneously. In software development, testing procedures can take months, so a test monitoring strategy that allows for live changes saves a ton of time.
+
+Improving result range — you might not know what the results of your test could be until they actually happen. Test monitoring takes note of every detail, capturing alternate results so next time you can track a broader range of variables.
+
+Spotting inefficiencies — having no testing process at all is one thing, but a bad testing process is arguably worse. You might check for the wrong outcomes, miss steps, or fail to properly document results. Test monitoring keeps you on the right path and gives you the chance to fix mistakes as they come.
+
+What’s test control?
+
+Once you finish test monitoring, the results move to the test control phase. This is where you’ll analyze the findings from the monitoring process and implement changes. Test control often comes into play when you spot bottlenecks, such as a lack of resources, budget constraints, and stakeholder interference.
+
+If the bicycle keeps tipping over because of a faulty stand, test monitoring identifies a failed test. But test control will recommend replacing that stand and finding one that works better. It suggests and takes action on the changes you need to make.
+
+Other activities that would fall under the purview of test control might be:
+
+Reprioritizing testing efforts — maybe there’s a more efficient way to prioritize testing efforts. Test monitoring would reveal what is or isn't working, while test control fixes those problems.Test schedule organization — testing takes time. Monitoring might deem your deadlines unrealistic, and test control reorganizes your calendar to make time for the process. Test environment rebuilds — the monitoring process could discover that the entire testing environment is making things fail. Instead of spinning bicycle tires underwater, maybe it's time to take that test to dry land. Test control optimizes the environment.Refining test case conditions — the environment could be one of many conditions that need refinement. Test monitoring highlights these faulty conditions, while the test control phase works to fix them. Test automation — test monitoring may detect repetitive processes that you could automate instead. With that in mind, test control could spark full automation as a solution to reduce time.
+
+Reprioritizing testing efforts — maybe there’s a more efficient way to prioritize testing efforts. Test monitoring would reveal what is or isn't working, while test control fixes those problems.
+
+Test schedule organization — testing takes time. Monitoring might deem your deadlines unrealistic, and test control reorganizes your calendar to make time for the process.
+
+Test environment rebuilds — the monitoring process could discover that the entire testing environment is making things fail. Instead of spinning bicycle tires underwater, maybe it's time to take that test to dry land. Test control optimizes the environment.
+
+Refining test case conditions — the environment could be one of many conditions that need refinement. Test monitoring highlights these faulty conditions, while the test control phase works to fix them.
+
+Test automation — test monitoring may detect repetitive processes that you could automate instead. With that in mind, test control could spark full automation as a solution to reduce time.
+
+How to implement test monitoring: 4 steps
+
+Test monitoring can happen under the oversight of any team privy to the entire project — not just by companies with a QA management team. There are four steps to it, whether in the realm of software development or bike manufacturing.
+
+At its simplest form, here’s how to implement test monitoring:
+
+1. Understand the purpose
+
+To understand whether or not a test is working, you first have to know why you’re conducting it. This could mean talking with the product team to understand possible faults in the final product or reviewing the procedures to know where to look for variables. Understanding the testing process gives you the map you need to navigate monitoring and go through feedback.
+
+2. Prepare a testing environment
+
+You can't test a mobile app in a PC environment, and you can't test a bicycle in a swimming pool. For the most effective test monitoring, you'll want to set up an environment that makes sense for your end product, whether that’s an up-to-date operating system or the temperature of the room. You need to make sure your environment is correct every time — and if not, pinpoint what needs to change.
+
+If the environment needs adjustment, the conductor is responsible. Test monitoring doesn't always wait until the end to implement changes. It can happen mid-test. Just document these changes so the control process accounts for them when searching for spots that need streamlining.
+
+3. Record the results
+
+A QA completed the test, and as a test monitor, you took notes. The sooner you report your findings, the sooner you can refine the testing process and prepare for the next one.
+
+Some developers only see part of the process because they’re responsible for only one section of code (or one gear on the bike). A designated monitor sees the entire testing process, providing insight into how each step might affect the next.
+
+4. Conduct another test
+
+The goal of all this testing is to prepare a product with as few flaws as possible. If your tests fail, or the results aren't meeting standards, then it's time to try again. Reperforming tests until you get it right will eventually give your team the green light to release your product.
+
+5 test monitoring tips
+
+If you're integrating test monitoring into your project timeline, you probably want to cross it off your to-do list as efficiently as possible. Nothing’s ever perfect the first time, but here are some best practices to keep you on track and support you in creating a process that works:
+
+1. Embrace proactivity
+
+Test monitoring might seem reactive on the surface — you’re taking action based on your findings as a monitor. But this process is actually proactive. You don't have to wait until a test is over to implement controls or close the session. You can make changes on the fly, look for error-prone variables, and have solutions ready.
+
+2. Record everything
+
+When you monitor the same tests repeatedly, you don't want to start out blind. Restarting the process costs time and money, and you should enter every test more equipped than the last. Document every test result, every control, and anything else that will help your team perform more efficiently.
+
+3. Implement testing controls
+
+When you identify an issue with a test, immediately begin working on controls to make changes. Adjusting those variables sooner rather than later makes everyone's lives a little bit easier, especially if the variables keep you from conducting a successful test.
+
+4. Track all the relevant metrics
+
+Your test monitoring metrics inform future procedures, so this is a vital step. It could involve environmental factors or more practical statistics such as server runtime. These data points help you develop more effective strategies and learn which variables slow down, speed up, or change the testing process.
+
+5. Learn from feedback
+
+Finally, learn from your stakeholders, developers, and anyone involved in the project or process. They might know something you don’t about how the product might react during testing, which can inform future decisions and how your monitoring tracks variables.
+
+More templates for your projects
+
+Test and control monitoring isn’t scalable for every organization. But ensuring product quality applies to everyone.
+
+Notion has templates to help your company apply more control and efficiency to your projects. From tracking your project goals to managing your team and organizing your projects, Notion can help you monitor your processes and find success at every step.

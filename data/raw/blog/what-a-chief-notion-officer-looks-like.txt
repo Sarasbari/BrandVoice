@@ -1,0 +1,63 @@
+Title: Here's what "Chief Notion Officer" actually means
+Published Date: 2021-07-06T09:00-07:00
+URL: https://www.notion.so/blog/what-a-chief-notion-officer-looks-like
+
+Courteney has a job that she didn't know existed a year ago.
+
+It happened like this. She had just finished presenting at Toronto's first Notion meetup when she was bombarded by attendees asking her: Could she share her templates? Could she review their setups?
+
+One of them was Ryan Sax, founder of Article, a creative agency that works with the Duke and Duchess of Sussex and Hypebeast. He wasn't just a fan. He had a job offer: as Article's chief "Notion person."
+
+This isn't a new story. As companies grow, their wikis and docs grow too. So they're looking for someone to help manage it all. And hiring a Notion expert is becoming foundational to company success.
+
+Courteney is one of many people defining this new role — here are the choices she made that led to her success.
+
+Stumbling onto a career as a systems builder
+
+Before Notion, Courteney was working the front desk at Toronto's Gardiner Museum. She wanted to move into a senior administration role, but there were no positions open.
+
+So in between day-to-day tasks and helping visitors, she took on additional projects — like revamping the box office process. And the volunteers program. "Building more efficient systems always made me happy," she says.
+
+But the positions she wanted weren't opening up. She decided to take a job as an office manager at Perpetua, an e-commerce advertising optimization startup. "I was terrified," says Courteney. "I'd never worked in tech before. I didn't know what I was bringing to the table."
+
+On her first day, her boss asked: could she learn how to use a tool called Notion? Sure, she was game.
+
+By the end of her first week, Courteney was managing the company's entire Notion workspace. "I've always had the ideas, but never the tech skills," she says. "At the museum, I had to rely on the IT manager. With Notion, I could just drag and drop." And the company loved what she built. "The more we used it, the easier it was to get all the teams in sync."
+
+The most impactful system Courteney built was the onboarding process. Using a Notion template, she can generate a personalized page for every new hire that includes all the info they need for their first week — directions to the office, paperwork to fill out, docs to read.
+
+Courteney noticed more growing pains she could fix. "No one knew who to ask for what as the team grew," she says. In Notion, she built an employee directory and handbook with their mission, values, and policies.
+
+After a year, the company had tripled in size. And it clicked — being the "Notion person" could turn into a lifelong career, one that also fulfilled Courteney's love of aesthetics. "It's like being a digital curator, and Notion is the blank walls of a gallery," she says. "You can visually arrange things any way you want."
+
+Courteney presented her work at the Toronto meetup, which is what impressed Ryan so much that he offered her the job at Article. "He didn't want a traditional project manager trained in Agile," says Courteney. "He wanted a Notion expert."
+
+Supercharging Notion workflows for elite team collaboration
+
+Article had different needs than Perpetua — they already had their entire task system and client work in Notion. "Ryan hired me because he wanted someone who could tell the team how to use Notion more efficiently," says Courteney.
+
+So she focused on supercharging their existing processes to allow the team to focus on the creative work instead of organizational overhead. She added personalized views of the tasks database for different teams, made due dates easier to see, and taught the team how to better organize project details inside each page.
+
+One of the best ways Article uses Notion is their client hubs — each client gets a Notion homepage with all their planning docs and meeting notes inside. It's a lot to manage though, so Courteney automated this system by creating templates for different types of meetings. The team can jump right into a kickoff, check-in, or brainstorm without having to search for the right agenda.
+
+Because the whole company does their day-to-day work in Notion, a big challenge was standardizing how to use the tool. Courteney wrote guides on how to use the tasks database, the different views, and the sidebar. "It was the little tips I included — like favoriting pages in your sidebar — that ended up saving people so much time," she says.
+
+These days, Courteney's busy building new and improved systems for Article. She still consults with Perpetua, and runs the Toronto Notion group. "Notion has taken over my life," says Courteney. "People know me as the Notion person. It's my personal brand."
+
+The tenets of a Chief Notion Officer
+
+For folks who want to pursue a similar career, Courteney has a few tips for how to get there faster:
+
+Ask for the responsibility — "I was the office assistant," says Courteney. "I didn't expect to be put in charge of our wiki and documentation, but I learned how to do it. And I told my boss I was excited to help. I was always asking to do more."Use private pages as a sandbox — Courteney beta tests new ideas all the time in her personal workspace. "I push myself to get as creative as possible," she says. "It's a safe place to try different approaches before I roll new systems out at work."Start simple, then gradually improve — "It's more important to be flexible than to be right about a system the first time," says Courteney. "The great thing about Notion is you can start with a bullet point, then change it into a page, or a database. I genuinely enjoy building and tearing down a system until it's right."Teach the building blocks — "Every single person I've worked with thinks differently than I do," says Courteney. "It's more effective to show people multiple examples, rather than the 'right' way to do something. That's when they realize just how useful Notion can be."
+
+Ask for the responsibility — "I was the office assistant," says Courteney. "I didn't expect to be put in charge of our wiki and documentation, but I learned how to do it. And I told my boss I was excited to help. I was always asking to do more."
+
+Use private pages as a sandbox — Courteney beta tests new ideas all the time in her personal workspace. "I push myself to get as creative as possible," she says. "It's a safe place to try different approaches before I roll new systems out at work."
+
+Start simple, then gradually improve — "It's more important to be flexible than to be right about a system the first time," says Courteney. "The great thing about Notion is you can start with a bullet point, then change it into a page, or a database. I genuinely enjoy building and tearing down a system until it's right."
+
+Teach the building blocks — "Every single person I've worked with thinks differently than I do," says Courteney. "It's more effective to show people multiple examples, rather than the 'right' way to do something. That's when they realize just how useful Notion can be."
+
+The past couple years have been an unexpected journey for Courteney. "I've taken on two jobs that I wasn't sure I could do at the beginning," she says. But she trusted her instincts — and made a career out of her passion. "Notion was the first thing in a long time that got me excited. It gave me the tools to bring my ideas to life."
+
+Illustration: Anna Haifisch is an illustrator from Leipzig, Germany.

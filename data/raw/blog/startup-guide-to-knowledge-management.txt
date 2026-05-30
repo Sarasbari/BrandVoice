@@ -1,0 +1,107 @@
+Title: Knowledge management guide 101: benefits and importance for startups
+Published Date: 2021-09-06T00:00-06:00
+URL: https://www.notion.so/blog/startup-guide-to-knowledge-management
+
+Knowledge is your competitive advantage. Whether or not you realize it at this stage, information is your startup’s greatest asset (not your products or services!) and how it’s handled has the potential to supercharge your company’s growth. Or it can slow you down — which spells doom for a startup.Knowledge management can make or break your startup. Half of all respondents in a recent survey conducted by Deloitte identified knowledge sharing as the key driver to team success. In addition, the accessibility of this knowledge improves the perceived value of the information:
+
+Further, Deloitte found companies that prioritize knowledge transfer via knowledge management are perceived by their employees as more competitive for revenue growth and client satisfaction. Gain a competitive advantage over other startups by baking in this element of knowledge-sharing as early as you can in the startup lifecycle. The long-term health and success of the startup depend on it.
+
+What is knowledge management?
+
+Knowledge management brings together all information in a company or startup into one central resource, usually a technology solution. This solution should be easily accessible for every employee, strategically implemented, and be maintained ongoing as living, breathing documentation of the company’s learnings and history.
+
+Why is knowledge management important?
+
+According to Emil Hajric of Startup Stash, the average startup with ten employees loses about $50,000 per year — and all of those losses he attributes to inefficient knowledge sharing.Further, Faris Behme and Sandy Becker of Deloitte add, “To help employees share knowledge and information in fluid ways, the implementation of technology alone is not enough. Strategies are needed to enable and motivate employees in this exchange.”If you don’t have a good system to manage company knowledge or promote a learning culture internally, you may have the following problems:
+
+Employees & managers wasting time searching for information and answering the same questions over and over again, respectively.Processes are not standardized across the organization or aren’t even documented at all.New employee onboarding/training is messy and inconsistent — bad onboarding experiences can lead to higher team turnover.Information is hard to locate, and things get lost. If something is documented, and teams can’t find it — is it really documented at all?There’s chaos when a key team member takes vacation (or worse, departs the company), and no one else knows how to cover.
+
+Employees & managers wasting time searching for information and answering the same questions over and over again, respectively.
+
+Processes are not standardized across the organization or aren’t even documented at all.
+
+New employee onboarding/training is messy and inconsistent — bad onboarding experiences can lead to higher team turnover.
+
+Information is hard to locate, and things get lost. If something is documented, and teams can’t find it — is it really documented at all?
+
+There’s chaos when a key team member takes vacation (or worse, departs the company), and no one else knows how to cover.
+
+Competitively, you’re part of the pack with other startups if you neglect knowledge management. It’s the startups that prioritize knowledge management and strive for continuous improvement in their approach that successfully separate themselves from mediocrity.
+
+The benefits of effective knowledge management
+
+Building your knowledge management system takes a village, or quite literally the whole startup, so it’s important to share the benefits of effective knowledge management with the team to achieve buy-in before seeking help in building such a resource. Fortunately, it’s hard to argue against knowledge management when considering the powerful benefits like the exponential spread of knowledge and growth of your startup it enables.
+
+1. Purposeful team collaboration
+
+A study cited in Harvard Business Review found that a whopping 75% of cross-functional teams are dysfunctional. Seems like companies of all sizes could approach team collaboration with more intention. Startups in particular — where each member of the lean team wears many hats and juggles jobs — need to create a system and process for team collaboration to purposefully build the strength, transparency, and ultimately the overall success of the company.
+
+When cross-functional collaboration is working as it should, and your team’s collaboration strategy is serving its purpose, productive team collaboration will involve:
+
+Basing collaboration on shared and clearly communicated company values, and all parties have aligned around them.
+
+Outcome-based expectations are established early and around the behaviors and tactics of collaboration.
+
+Positive reinforcement for members abiding by the shared goals and rules, thereby modeling this for other team members — actions speak louder than words, especially from leadership down.
+
+Establishing psychological safety for all.
+
+Establishing psychological safety for all.
+
+Ideally, the team will select a tool like Notion that inspires people to use it and build your team’s knowledge before immersing in building out documentation and company wikis. Once that decision is made, it’s easier to keep expectations, team values, rules, and other documentation public, accessible, and malleable by team members.
+
+Without this approach, teams don’t have clarity in their work and may drop the ball on projects. The average employee loses up to 5.3 hours per week waiting for assistance or insights from coworkers, which sounds like a sorry excuse for team collaboration if you ask us.Learn more: What’s missing from your team’s collaboration strategy
+
+2. A single source of truth for the startup’s legacy knowledge
+
+An all-too-common problem for startups is the loss of information when an employee leaves the company. Without a concrete, centralized location for information to live on as employees come and go, there is an information gap other employees may not be able to bridge. Enough of these turnovers and information vacuums prove disastrous to a growing startup’s progress.
+
+Throughout a startup’s lifecycle, diverse teams frequently use different tools to collect their data and share information. This leads to data fragmentation and teams duplicating work instead of collaborating. With an established single source of truth (SSOT), however, the whole startup sidesteps these pitfalls and paves the way for transparent knowledge sharing to preserve past learnings and institutional knowledge of the team.
+
+With an SSOT system in place, your startup is able to:
+
+Get rid of duplicative knowledge sources in the company — according to a Deloitte study, half of all knowledge workers have trouble locating the documents they need. Think how much time is wasted rooting out documents in a never-ending, haphazard Google Drive or the sinking feeling upon realizing you’ve updated the completely wrong document.Bring all knowledge into one hub to maximize usefulness — unify the system of record across all departments and establish one workplace or tool to bring it all together. If there’s an intentional hub to collaborate, there is no doubt where this information should live and be maintained. Cross-train more employees on various functions of the business — making a practice of training at least two people on a given role or task deepens team expertise, amplifies learning for all, and most crucially, prevents information vacuums.
+
+Get rid of duplicative knowledge sources in the company — according to a Deloitte study, half of all knowledge workers have trouble locating the documents they need. Think how much time is wasted rooting out documents in a never-ending, haphazard Google Drive or the sinking feeling upon realizing you’ve updated the completely wrong document.
+
+Bring all knowledge into one hub to maximize usefulness — unify the system of record across all departments and establish one workplace or tool to bring it all together. If there’s an intentional hub to collaborate, there is no doubt where this information should live and be maintained.
+
+Cross-train more employees on various functions of the business — making a practice of training at least two people on a given role or task deepens team expertise, amplifies learning for all, and most crucially, prevents information vacuums.
+
+Learn more: Here’s why your startup needs a single source of truth
+
+3. An established system for knowledge transfer
+
+Knowledge management allows for effective knowledge transfer, which is the act of proactively capturing and sharing critical information across the company.
+
+However, sharing past learnings or documentation in the realm of startups is often completely glossed over for more pressing tasks: recruitment or determining product-market fit, as a couple of examples. But to stay adaptive while allowing for sustainable growth, startups must prioritize building a system for knowledge transfer and incorporate it into the day-to-day.Systematizing knowledge transfers is key for startups. There’s a rough list of guidelines to follow. First, determine the knowledge you need to collect — what are the processes and documentation, etc., that have been missing? Next, rally the team around goals and seek help from all team members. Notably, prioritize this effort in an ongoing way so that it’s a living, breathing document that can evolve with the startup.Finally, stress-test the documentation when you have a prototype developed by the team and seek feedback on its usefulness (especially in the next section, on onboarding).
+
+Learn more: How to facilitate seamless knowledge transfer in startups
+
+4. A repeatable, iterative onboarding process
+
+Unfortunately, rapid employee onboarding and a higher turnover rate in startups is part of the gig — LinkedIn recently found that the 25% startup attrition rate is almost double the overall average attrition rate of all companies at 13%.
+
+In light of that, implementing an employee onboarding system that is scalable allows for team growth, and shares ongoing learning opportunities is essential to support new employees. Steady work toward this worthy goal will allow progress toward reducing employee turnover.
+
+The antidote to ineffective employee onboarding is leveraging documentation. Done well, knowledge transfer in the form of an onboarding process should support growth spurts of the startup, as well as set future employees up to succeed.The keys to a great onboarding process for knowledge management are:
+
+All employees, especially the founders, taking the time to write out tribal knowledge or methods they’ve tried in the past and making these part of the onboarding process.Different departments take ownership of their own onboarding processes and document them in consistent ways the company over.Everyone iterates on past versions, seeks feedback on a regular cadence, and strives to improve the onboarding process for the good of the startup.Adopting an ever-evolving, improvement mindset about the onboarding process.
+
+All employees, especially the founders, taking the time to write out tribal knowledge or methods they’ve tried in the past and making these part of the onboarding process.
+
+Different departments take ownership of their own onboarding processes and document them in consistent ways the company over.
+
+Everyone iterates on past versions, seeks feedback on a regular cadence, and strives to improve the onboarding process for the good of the startup.
+
+Adopting an ever-evolving, improvement mindset about the onboarding process.
+
+We recommend getting started with a general employee onboarding checklist and applying different versions of it to different roles, departments, and functions.Learn more: The essential employee onboarding checklist for startup teams
+
+Kickstart knowledge management & supercharge your startup with Notion
+
+As more of the workforce disperses and collaborates in remote-first workplaces, knowledge management becomes even more crucial to asynchronously share learnings with team members with atypical work schedules or who work across different time zones. Startups that can implement knowledge management strategies and systems can move leaps and bounds ahead of the competition — making decisions faster, thereby moving the startup forward faster.After all the effort to build this documentation capturing tacit and explicit knowledge, startups need to communicate and distribute that information effectively. Effective knowledge management, at its core, accumulates information so it can be reused. Defining internal processes around it enables real and lasting change.
+
+For these reasons, the right solution to kickstart your startup’s knowledge management should balance functionality, intuitiveness, and joy.
+
+We at Notion strive to bring ease and simplicity to what could be an easily over-engineered aspect of your startup. (Why overcomplicate?) Notion is the unifying knowledge management tool to bring consistency and transparency to startup teams — plus, we're offering Notion free for startups to get started. When you share information widely, you can make decisions and grow the startup faster. Speed is a startup’s biggest advantage. Get started with Notion's free templates to kickoff knowledge management.

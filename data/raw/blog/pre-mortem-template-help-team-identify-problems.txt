@@ -1,0 +1,93 @@
+Title: A pre-mortem template to help your team identify problems before they happen
+Published Date: 2022-01-13T09:00-07:00
+URL: https://www.notion.so/blog/pre-mortem-template-help-team-identify-problems
+
+Part of being a product manager is like being an actuary — you assess and manage risk.Deadline pushes, adjusting sprint timelines, scope creep, budget concerns, the list goes on. You’ve got to be flexible. And to be flexible, it helps to see around the corners of your project, understand what’s coming, see the dependencies, and figure out how to best proceed when the ground feels uncertain under your feet. That’s where a pre-mortem can help. Teams can’t expect you to see into the future (though, sometimes it might feel like it) — but the pre-mortem can help you plan around risks and address these issues, keeping your project on track. But most product managers don’t use them, even though pre-mortems might save their launches.
+
+What is a pre-mortem?
+
+Pre-mortems are a type of meeting that takes place before a project has launched. The product team discusses the proposed plan and imagines that the plan has failed. Everyone in the product team is then assigned to review the plan and anticipate why the project failed. The idea is to identify problems that could happen and how to prevent them. After, the product manager designs action items that address the highlighted issues to ensure the project remains on track. In order to lead an effective pre-mortem meeting, a solid pre-mortem template that will provide a clear overview is needed.
+
+How to lead a pre-mortem meeting
+
+Leading a pre-mortem requires you and your team to work backwards, starting from the point of failure and working to find solutions.
+
+1. Prepare your team
+
+Review the brief. Discuss the current project plan and product roadmap. Ensure teammates are aware of their roles and responsibilities. This can happen in a separate meeting, and you can use this template for your meeting notes.Engage individuals. Everyone who is involved and contributing to the project needs to engage. Check your company wiki for your employee directory to make sure no one is left behind.
+
+Review the brief. Discuss the current project plan and product roadmap. Ensure teammates are aware of their roles and responsibilities. This can happen in a separate meeting, and you can use this template for your meeting notes.
+
+Engage individuals. Everyone who is involved and contributing to the project needs to engage. Check your company wiki for your employee directory to make sure no one is left behind.
+
+2. Imagine the project has failed
+
+Set the scene. Ask the team to propel themselves into the future. The project is over, and the project has failed spectacularly. Maybe the servers crashed after the project launch or there was a security attack. Everything that you imagined would go wrong has gone wrong.
+
+Set the scene. Ask the team to propel themselves into the future. The project is over, and the project has failed spectacularly. Maybe the servers crashed after the project launch or there was a security attack. Everything that you imagined would go wrong has gone wrong.
+
+3. Ask your team to write down reasons why the project has failed
+
+Brainstorm individually. Each team member writes down why the project failed. Imagine all scenarios possible.
+
+Brainstorm individually. Each team member writes down why the project failed. Imagine all scenarios possible.
+
+4. Split the reasons into three sections: impact, likelihood, reversibility
+
+Visualize the impact. Imagine the consequences of each scenario. What are the cascading effects, should this fail? What are the risks? What will this lead to? Assess the likelihood. Ask each team member to rank the likelihood of this happening on a scale of 1–5.Determine the reversibility. Each team member writes down “yes” or “no” if it is or isn’t reversible.
+
+Visualize the impact. Imagine the consequences of each scenario. What are the cascading effects, should this fail? What are the risks? What will this lead to?
+
+Assess the likelihood. Ask each team member to rank the likelihood of this happening on a scale of 1–5.
+
+Determine the reversibility. Each team member writes down “yes” or “no” if it is or isn’t reversible.
+
+5. Ask your team to write down how to prevent these failures
+
+Discuss solutions. Pinpoint solutions for each failure, giving lots of detail, as this will form the backbone of your risk analysis and strategy.
+
+Discuss solutions. Pinpoint solutions for each failure, giving lots of detail, as this will form the backbone of your risk analysis and strategy.
+
+6. Review
+
+Recap everything. Go through each step of the pre-mortem and discuss with the whole team. Iron out issues and answer questions that may arise.
+
+Recap everything. Go through each step of the pre-mortem and discuss with the whole team. Iron out issues and answer questions that may arise.
+
+7. Revisit the plan
+
+Make amendments. Given your newfound knowledge, revisit the project plan and tweak it where necessary. Create a risk analysis framework. Based on the outline of potential risks, construct a brief plan to mitigate these risks. The plan should consist of preventative measures to mitigate these risks.
+
+Make amendments. Given your newfound knowledge, revisit the project plan and tweak it where necessary.
+
+Create a risk analysis framework. Based on the outline of potential risks, construct a brief plan to mitigate these risks. The plan should consist of preventative measures to mitigate these risks.
+
+How pre-mortems can help product teams
+
+Pre-mortems are great risk mitigation tools that can also bring a lot of insight to your team.
+
+Identify problems before they happen
+
+A prolific 1989 Behavioural Psychology study discovered that when one imagines an event has occurred, the chances of correctly finding reasons for future outcomes are increased by 30%. Prospective hindsight provides an explanation for a future event as if it has already happened. The human mind treats past and future events differently, and adopting the methods of a pre-mortem leads to a shift in perspective for the product management team, whereby teams can identify a wide range of problems and solutions before they happen.
+
+Understand the project plan
+
+Going through potential problems helps solidify the project plan as the product roadmap is being recapped and reviewed. Team members that may have missed things in the initial roadmap brief have a chance to revisit the initial project plan. The mitigation of potential problems strengthens knowledge and information that may have been missing in the initial roadmap brief — for example, key product features or important dates. The team is able to surface opportunities in product features and identify key tasks down the road.
+
+Increase the confidence of team members
+
+Project pre-mortems are inclusive by nature, containing some of the key building blocks that are the foundation of inclusion, such as having a voice and a sense of belonging. Each team member feels valued and heard as their team listens to and engages with their ideas and thoughts. This can increase team members’ confidence. Publicly discussing potential pitfalls may lead to some members feeling confident to speak up about other concerns and issues. As a product manager, you will also gain valuable insight and visibility into what other team members go through, as every member on the team is able to express their thoughts and ideas in the pre-mortem.
+
+Eliminate hindsight bias
+
+One of the components of a pre-mortem meeting is that it requires creative thinking, which eliminates hindsight bias. Instead of saying, “I knew this would happen,” this becomes “why would this happen?” This can potentially prevent conflicts at the project’s end since all anticipated negative events on each team member’s mind are expressed at the pre-mortem.
+
+The importance of documenting pre-mortem meetings
+
+Documenting any type of meeting provides a long-term memory base for your company; everyone can stay informed of past occurrences. Documenting pre-mortem meetings, in particular, helps product management teams form a solid framework/strategy that mitigates the risk and failure of the overall project. In order to document your pre-mortem meetings effectively, you need a pre-mortem document template that can be used as a reference point for everyone. Socar uses Notion to prepare documents and project templates that help engineers learn from each other. Seong yun Byeon, a Machine Learning Engineer, says, “We document what we learned, questions, and feedback. Then we discuss how we can use these learnings to improve our work on a regular basis.”
+
+Ensure your team is prepared with this pre-mortem template
+
+Whether you are launching a new product, prepare to fail with this template. Not only will it help you find potential problems, but you might even learn a thing or two about your team. Check out our pre-mortem template, or you can use Notion’s full customization features to build your own template.
+
+Try the template →

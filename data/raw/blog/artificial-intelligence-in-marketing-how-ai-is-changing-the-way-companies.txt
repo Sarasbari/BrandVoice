@@ -1,0 +1,141 @@
+Title: Artificial intelligence in marketing: how AI is changing the way companies market
+Published Date: 2023-07-12T00:05-07:00
+URL: https://www.notion.so/blog/artificial-intelligence-in-marketing-how-ai-is-changing-the-way-companies
+
+For years, people pictured artificial intelligence (AI) as robots and machines (think the 2004 blockbuster I, Robot) taking over, living and working alongside us. As time passed, however, AI’s function became clearer: it’s set to power our day-to-day lives for years to come.
+
+With ChatGPT’s recent launch, AI has made a splash in the workspace, showcasing how it can be a powerful tool that augments workers across almost every industry. In healthcare, it’s used to detect diseases earlier and more accurately. In manufacturing, it’s optimizing supply chain logistics, quality control, and machine performance.
+
+Some of the biggest benefactors to everyday AI use cases are tech workers, from inline grammar checks to in-depth, predictive data reporting models. Nearly every tech team is finding new and creative ways to use AI — product teams are automating mundane task management, while human resources teams are streamlining hiring and onboarding.
+
+Marketing teams in particular are big consumers of AI-powered tools, and investment in AI in marketing is only expected to grow. In 2020, the market for AI in marketing was valued at $12 billion. By 2028, it’s expected to hit nearly $108 billion.
+
+So how exactly do marketers use AI? Let’s take a deeper look at AI in marketing, how it works, and what the future of AI-powered marketing tools looks like.
+
+Artificial intelligence in today’s marketing world
+
+AI is changing the way businesses think about digital marketing. It can be applied in so many ways, from things like automating repetitive tasks to analyzing large quantities of data to modeling outcomes.
+
+But AI is also getting better in more contextual settings. That makes it far more applicable in marketing, since it means marketing teams can use it to optimize landing page copy or respond to chatbot queries submitted on a website.
+
+As companies start to bring AI into the fold more, it’s important to understand where and how AI can fit into their marketing strategies. According to HBR, marketing AI applications can be mapped into one of four quadrants:
+
+Standalone task-automation apps, like email marketing automation tools or basic automated chatbotsStandalone machine learning apps, like very advanced chatbotsIntegrated task automation apps, like inbound call routing systems or CRM-linked marketing automation systemsIntegrated machine learning apps, like predictive lead scoring systems, product recommendation ads, or programmatic ads
+
+Standalone task-automation apps, like email marketing automation tools or basic automated chatbots
+
+Standalone machine learning apps, like very advanced chatbots
+
+Integrated task automation apps, like inbound call routing systems or CRM-linked marketing automation systems
+
+Integrated machine learning apps, like predictive lead scoring systems, product recommendation ads, or programmatic ads
+
+With so many tools hitting the market, what options are available for marketing teams and how can they implement an AI-first marketing strategy?
+
+Examples of AI in marketing today
+
+Whether they use highly advanced, integrated AI apps or they use basic automation, standalone apps, marketers these days have a near endless list of use cases for artificial intelligence in marketing.
+
+Here are just a few examples of AI that marketers are incorporating into their daily work:
+
+Content generation
+
+More and more, teams are using generative AI technologies to help with various content needs across their marketing campaigns. Advancements in natural language generation (NLG) tools have started to allow for better, more human-sounding AI content. This gives teams like social media, content, demand generation, and more the ability to implement AI into their daily workflows in a number of different ways.
+
+In fact, 59% of marketers say they already use AI to optimize existing content — a number that’s sure to rise over the coming years as more tools are readily available and integrated into existing systems.
+
+For example, a content marketing team may use an AI platform to create an outline for a blog post, summarize a news article, or write an introduction for a new eBook. A social media lead can use AI to draft copy to social media posts or use AI-powered tools to analyze post performance and suggest content topics and types that drive better engagement. Demand generation teams can quickly create a draft of an email to send to customers or write short-form ad copy.
+
+Personalization and segmentation
+
+Imagine a world where a company’s website is completely customized depending on the visitor’s needs, and ads adapt and messaging changes based on a user’s background.
+
+That world isn’t too far off, and AI is powering that marketing personalization at scale.
+
+New tools are being introduced that make this process easier, and existing tools are adding AI capabilities to enhance what’s already on the market. They can help marketers better understand data to create more customized strategies for each user segment throughout the customer journey.
+
+For example, some marketing tools can even generate personalized experiences to A/B test, like subject lines and copy in emails, based on a number of factors, like user behavior, preferences, or background. Others allow for custom content to appear on a website page, like additional follow-up content or dynamic e-commerce product pages.
+
+Localization
+
+Localization AI tools apply machine learning to translate large quantities of content from one source language into others. This helps companies more easily expand into new multilingual markets, increase global presence, and reach existing users across the globe.
+
+According to a 2023 Bain study, nearly 40% of companies are already using generative AI for localization, and the trend of using AI for localization is expected to grow. Recently, Paramount announced that they’re using AI for localization with others likely to follow.
+
+For marketers, these AI-powered localization tools can be incorporated into a larger international strategy and used to translate things like blog posts, help articles, or full website pages. This is especially helpful when launching new global campaigns or optimizing existing content based on user research. Even companies that use more creative mediums for content, AI can still play a role. Even things like video translation and dubbing can be done with AI with more specialized tools.
+
+Search Engine Optimization (SEO)
+
+Many marketing teams rely on AI to optimize their SEO and improve their search rankings.
+
+Here’s how it typically works: AI-powered tools analyze vast amounts of data to identify relevant keywords and search trends. Marketers can then use those high-impact keywords and align them with their upcoming content strategies. Teams can also use AI to manage both on-page and off-page SEO, like meta tags, page titles, headings, and even link building.
+
+All of this helps to create content that’s relevant and resonant while also building website authority that helps companies improve in search. Data-backed approaches like these have become the foundation for strong SEO strategies that are sustainable and long-lasting.
+
+Social listening and sentiment analysis
+
+As companies grow, they pay closer attention to how the market is reacting to their products and services. From perspective users to current customers to analysts and competitors, overall sentiment, feedback, and customer engagement help companies improve over time.
+
+That’s where social listening and sentiment analysis come in. Marketing teams often manage these initiatives, crawling the internet in real-time (places like social media platforms, public forums, news articles, and more) to “listen” for mentions of a brand online.
+
+AI is particularly useful here. Tools are becoming more effective at monitoring huge numbers of sources for keywords — like brand names, competitors, or important phrases — that may indicate positive or negative reactions. Where this used to require manual processes to track, AI can now step in and do the heavy lifting.
+
+For example, a shoe company can monitor platforms LinkedIn, Facebook, Twitter, and Reddit for all mentions of their company name, their product names, and their competitors’ names to keep track of how their customers are feeling about the industry. They can then take that information to improve messaging, understand customer needs, and build a more fruitful customer experience.
+
+Marketing and beyond
+
+Aside from things like content marketing and SEO, however, marketers don’t have to wait to start implementing AI in their everyday workflows. It’s already great for covering the mundane, manual tasks that have a tendency to slow work down.
+
+Many people are already using applications of AI whether they realize it or not. Things like automated grammar checkers and autocomplete words and sentences are powerful language AI tools that get these complicated systems into everyone’s hands.
+
+Say you’re in a meeting taking notes. Those notes are a messy list of bullet points, action items, and timelines. Instead of sifting through docs trying to pull out key information, tools like Notion AI are able to summarize notes, pull out key action items, and create a timeline plan — all from jumbled bullet points.
+
+So what are the concerns with AI marketing?
+
+Not all that glitters is gold, and the use of AI, especially within a specific AI marketing strategy, comes with risks.
+
+Data Privacy and Security
+
+Probably the biggest and most common risk is around privacy and security. AI applications often require large amounts of data collection and data analysis to function effectively. Questions frequently arise around the privacy of that data — whether it’s handled responsibly, if it complies with data protection regulations, how secure it is once collected, and more.
+
+Companies need to be highly aware and take as many steps to secure customer data and prevent any breaches or unauthorized access. While it may take months or even years of rigorous planning, training, and implementing, it’s vital to the success of artificial intelligence use in the long run.
+
+Authenticity and Brand Voice
+
+Marketing teams lead brand, and often that boils down to understanding their audiences and their emotions and pain points.
+
+However, when using generative AI to create copy and content, it can sometimes lack the human touch and authenticity that’s required to truly resonate with customers and their needs. If the message isn’t genuine, it won’t land.
+
+Marketers, especially those focused on copywriting and content creation, need to be aware of using AI-generated content while still maintaining an authentic and unique brand voice that adequately resonate with their target audiences.
+
+Accuracy and reliability
+
+AI algorithms rely on big data sets as inputs. However, they may not always yield perfectly accurate results.
+
+As marketers start to implement more and more AI-powered tools, it’s important to always check (and double check) accuracy and make sure they’re using reliable data sources to start. A content marketer writing a blog post using AI to draft an outline needs to make sure the details make sense and that they align with brand standards and messaging.
+
+Cost and ROI
+
+Many tools using AI, whether integrated or standalone, are costly. Moreover, they can take weeks or months to implement in the first place, and it’s difficult to measure the return on investment (ROI).
+
+Teams can lower risk by understanding up front the time and cost associated with AI. Implementing an AI solution that’s integrated into an existing tool, for example, can drastically reduce the learning curve and improve the likelihood that the tool will stick.
+
+Workforce questions
+
+While AI has a near endless list of potential positives, unlike many other software tools, there are a number of conversations around the future of AI and how it impacts the labor market.
+
+Will it replace humans? Are certain job functions going to be eliminated, as AI can do them at lower cost and faster?
+
+Recent studies, like OpenAI’s research paper on how large language models will impact the labor market, show that about 80% of the workforce in the U.S. will have a small percentage of their work automated by AI. A not insignificant portion of workers (just under 20%) may see nearly 50% of their work impacted by AI.
+
+But this is where marketing is more unique. They speak a different language — a more human language, one that needs specific context and a deep understanding of the problems, values, and speak to audiences on a human level.
+
+What’s next for AI in marketing?
+
+The future of AI is vast, and how those technologies are applied to marketing remains to be seen. But changes are already appearing, highlighting interesting ways that AI could change the face of marketing.
+
+Google recently unveiled its new “Search Generative Experience”, which will use AI to surface ads and search results in a new experience. This could completely change how marketers think about SEO, and how companies plan out their organic and paid search strategies.
+
+So what’s next?
+
+We’ll have to wait and see. For now, marketers will continue to be on the edge, waiting for the next transformational AI use case to augment their work.

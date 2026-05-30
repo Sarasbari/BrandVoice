@@ -1,0 +1,83 @@
+Title: How teachers can use Notion to stay flexible and organized this school year
+Published Date: 2022-08-11T17:00-08:00
+URL: https://www.notion.so/blog/how-teachers-use-notion-flexible-organized-school-year
+
+There’s no one-size-fits-all way to teach, just like there’s no one-size-fits-all way to manage the work that goes into teaching.
+
+Before I was leading education content at Notion, I was teaching science to 6th graders. For me, inspiration for organization usually struck as I was riding the subway. I’d devise an entire schedule for the upcoming unit on a caffeine-fueled Monday, and by Friday realize the whole thing had to be scrapped.
+
+This happened often because good teaching is about adapting to student’s needs. How can a spreadsheet capture a class that needs extra time and support on a concept? And do so in the same dimension as another who finishes worksheets with time to spare? While still keeping yearly planning in mind?
+
+What I needed was a way to bake flexibility into my planning, and keep it all in one place. I think Notion could have been that tool, and here’s how I would have used it.
+
+We offer discounts to educators for Plus Plans. See if you qualify here.
+
+A dynamic system to codify unit and lesson plans
+
+As a middle school teacher, I had five classes learning the same thing. Each class had its own set of worksheets and plans based on reading levels and prior knowledge. As the year went on, they all moved at different paces. So I needed a system that let me zoom into specific periods and get daily information, while also seeing the weeks and months as a whole to make sure everyone was staying on track.
+
+I tried using several tools to stitch this together, so I could see how lessons connected to standards, units, and each other. But nothing lasted. If I needed to extend a lesson to last a few more days, my other trackers would be obsolete.
+
+Databases in Notion, to store lesson and unit plans, grouped and tagged with multiple properties, would have helped me manage content in a single place and display it in lots of different ways. This would’ve reduced the management overhead for me and helped me to focus on the learning goals at hand.
+
+Lay lessons out however you need — want a daily view with every subject? What about a unit plan for science? With custom properties and views you can easily create calendars, lists, and more from the same underlying information.Views as malleable as your plans — views created from a singular data source mean that a change in one actually transfers to others, and doesn’t require updates to 3 different spreadsheets. Simply drag, drop, and extend lessons to fit your needs. The new dates will be reflected anywhere the lesson is referenced.
+
+Lay lessons out however you need — want a daily view with every subject? What about a unit plan for science? With custom properties and views you can easily create calendars, lists, and more from the same underlying information.
+
+Views as malleable as your plans — views created from a singular data source mean that a change in one actually transfers to others, and doesn’t require updates to 3 different spreadsheets. Simply drag, drop, and extend lessons to fit your needs. The new dates will be reflected anywhere the lesson is referenced.
+
+Create dynamic associations between lessons, units and standards — linking databases to one another through relations gives you a big picture understanding of your yearly plan. With this setup, any adjustments you make to the “lessons” database will be reflected in your unit plans, and your standards map, so that everything is always in sync.
+
+Create dynamic associations between lessons, units and standards — linking databases to one another through relations gives you a big picture understanding of your yearly plan. With this setup, any adjustments you make to the “lessons” database will be reflected in your unit plans, and your standards map, so that everything is always in sync.
+
+A smarter way to track student info and progress
+
+Every school has a tool for grades, but many fall short when it comes to managing student and parent relationships. A single source of truth for class lists and call logs can help direct attention to individual students and keep your life more streamlined.
+
+Notion would be that place to house all of the information about students, and you can simply add properties to your database for every niche tracking need.
+
+Add pictures, contact info, and more — keep an up-to-date list that you can reference and print for the dozens of ways you need to slice and dice your roster.
+
+Add pictures, contact info, and more — keep an up-to-date list that you can reference and print for the dozens of ways you need to slice and dice your roster.
+
+Use a Typeform integration to add properties — many teachers opt to send out a beginning of the year survey to get to know the students in their class. With a Typeform integration, this information will automatically show up in your private directory database as soon as parents hit “Submit.”
+
+Use a Typeform integration to add properties — many teachers opt to send out a beginning of the year survey to get to know the students in their class. With a Typeform integration, this information will automatically show up in your private directory database as soon as parents hit “Submit.”
+
+Streamline curriculum development with database templates
+
+One thing I never got around to creating was a solid, ready-to-go lesson plan template for my favorite lesson structures. I had a few old lessons that I’d duplicate and edit, but Notion templates would have made my life a lot easier.
+
+Create templates for each subject or lesson type — in my classroom I typically followed a few different lesson structures depending on whether the material was best taught as a lab, worksheet, stations activity, or even a gallery walk. Instead of tracking down old lesson plans and parsing out the structure you want, create database templates to repeatably plan lessons of similar styles.
+
+Create templates for each subject or lesson type — in my classroom I typically followed a few different lesson structures depending on whether the material was best taught as a lab, worksheet, stations activity, or even a gallery walk. Instead of tracking down old lesson plans and parsing out the structure you want, create database templates to repeatably plan lessons of similar styles.
+
+Lesson plans — conceptually, your lessons probably follow a few formats. For me, labs, worksheets, and stations all had distinct structures. Using Notion templates, you can create lessons for each lesson type in your rotation.Progress reports — if you send home updates to parents, you probably follow a consistent format. Create a database for progress reports that you can easily fill out come report card season. Go even further by relating this database back to your class directory.
+
+Lesson plans — conceptually, your lessons probably follow a few formats. For me, labs, worksheets, and stations all had distinct structures. Using Notion templates, you can create lessons for each lesson type in your rotation.
+
+Progress reports — if you send home updates to parents, you probably follow a consistent format. Create a database for progress reports that you can easily fill out come report card season. Go even further by relating this database back to your class directory.
+
+Build a class website, no coding required
+
+I used emails, texts, phone calls, and at least three messaging apps to send reminders and communicate with parents. Every day there was a new resource link for students to navigate to in class or at home, causing confusion and wasting class time. Anything else required too much up-front work to set up, and didn’t allow for the flexibility I needed to post different kinds of resources and structure different kinds of information.
+
+Public pages in Notion establish a predictable procedure for your students (and parents), and help you keep a bit of your sanity. And since it’s in the same place where you’re doing all the rest of your lesson planning and student tracking, it’s a lot easier to keep updated among the rest of your responsibilities.
+
+If there was one thing about my plans teaching, it’s that they always changed. That’s probably why my organization systems didn’t stick.
+
+And teachers everywhere are dealing with constant change, too. Remote learning. Students at different paces. Administrative changes. How can you codify something as nuanced as helping a child grow academically, socially, and emotionally?
+
+Notion can be a grounding force among all this change, a place for teachers to organize their work so they can focus on what they do best. In that way, teaching and Notion have a lot in common — the hyper-flexibility means you can start with something small and then drag, drop, and mold it into a system that works for you and your class. Then keep changing it as your kids and plans change, because we all know they will.
+
+Embrace the growth mindset and take our Notion 101 course to learn all the basic features.Learn how and when to use different database views that can power your curriculumQuickly build a website in Notion without coding anythingGet started with Notion’s typeform integration
+
+Embrace the growth mindset and take our Notion 101 course to learn all the basic features.
+
+Learn how and when to use different database views that can power your curriculum
+
+Quickly build a website in Notion without coding anything
+
+Get started with Notion’s typeform integration
+
+Duplicate my teacher template here, and then change it up to build your own perfectly messy organization system.

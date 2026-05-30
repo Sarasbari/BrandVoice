@@ -1,0 +1,105 @@
+Title: How to effectively conduct various user research methods
+Published Date: 2023-10-24T00:00-03:00
+URL: https://www.notion.so/blog/user-research-methods
+
+Whether you’re designing a game, food delivery app, or online library, there’s always an end user on the other side. You likely have assumptions about who they are and what they want, but user research methods ensure your work aligns with your target consumers’ unique expectations.
+
+For every question you might have about your desired customers, there’s a user research method to help you find answers. Combining the right studies and research strategies and applying them throughout your product’s life cycle transforms mere assumptions into knowledge-backed confidence, letting you deliver just what your customers need.
+
+What are UX research methods?
+
+User experience (UX) research methods aim to investigate user interactions with products and services. This experience-centric data showcases a target audience's behaviors, needs, and motivations to inform improvements and updates.
+
+If you’re developing a product from scratch or improving an existing one, UX research techniques identify challenges and uncover opportunities to enhance product interactions. Effective research helps you build products and services that resonate with your consumers, aligning your strategy with their expectations. When research informs development, you create a more seamless, intuitive, and satisfying experience.
+
+3 types of UX research and when to use them
+
+You have questions, and different types of user research methods offer thorough answers. Here are three common approaches to grasping a user’s experiences.
+
+1. Qualitative and quantitative research
+
+Qualitative UX research methods help you analyze user behaviors and their nuances, defining the “why” behind their actions. This approach involves collecting intangible insights that you can’t easily measure, like thoughts, feelings, and motivations.
+
+Quantitative research focuses on objective, numeral data that reveal insights about the “what” of product interactions. It provides concrete measurements and statistics about behavior, answering questions about factors like frequency of use, quantity of users, and patterns.
+
+Imagine a gaming app. Qualitative research might uncover why a particular navigation flow feels intuitive. User interviews can show that a vibration for celebrating completing a challenging level makes users feel accomplished. Quantitative research gets into the measurable details, like the percentage of users who engage with a special feature. A low percentage here could indicate poor feature placement, prompting designers to make it more visible.
+
+Combining both research methods gives UX designers a complete picture, illustrating the “what,” the “why,” and how the two interconnect.
+
+2. Attitudinal and behavioral research
+
+Attitudinal and behavioral research methods have a similar dynamic to qualitative and quantitative. Attitudinal research explores users’ beliefs, preferences, and opinions. It reveals perceived experiences they have with different facets of a service. On the other hand, behavioral research focuses on actions and behaviors of anyone who interacts with the product.
+
+This type of research is helpful because what users say they want from a product and how they actually interact with it don’t always align. Consider a fitness-tracking app. Attitudinal research shows that users want detailed statistics about their workouts, suggesting a need for intricate data. But behavioral research shows that long-term users mostly use basic statistics, like step count. This discrepancy can guide UX designers to prioritize basic features.
+
+3. Generative and evaluation research
+
+Conducted during initial product development stages, generative research showcases user needs and problems before building. It tailors UX design to create proactive, user-centered solutions. Evaluation research sits on the other side of development and analyzes existing designs, determining how effectively a product meets user needs.
+
+Imagine a digital library platform. Generative research explores readers’ habits and challenges with current platforms, revealing a need for a book recommendation algorithm. Once developers have a prototype, usability testing measures satisfaction levels with the system. Feedback guides the final stages of the design process to alleviate pain points and align the platform with audience preferences.
+
+3 common components of UX assessments
+
+There’s no single way to understand user needs. To ensure your design meets your target audience’s expectations, choose a testing method that uses a combination of the following three components:
+
+Observation — watching users interact with a product in real time provides direct insights into their experience. It can highlight intuitive design elements and pinpoint confusing features.Understanding — all users have unique motivations, and using a mental model helps map them out. A mental model is the image a user imagines when they hear a particular word or situation. For example, a vegan may have a different mental model of “food” than a meat eater. If you’re designing a food delivery app, understanding your consumers’ mental models will let you design inclusively for them. Analysis — following data collection, it’s time to make sense of all your data. UX researchers identify patterns and trends and derive actionable insights. Effective analysis lets researchers determine solutions for identified issues and propose design recommendations grounded in user feedback and behavior.
+
+Observation — watching users interact with a product in real time provides direct insights into their experience. It can highlight intuitive design elements and pinpoint confusing features.
+
+Understanding — all users have unique motivations, and using a mental model helps map them out. A mental model is the image a user imagines when they hear a particular word or situation. For example, a vegan may have a different mental model of “food” than a meat eater. If you’re designing a food delivery app, understanding your consumers’ mental models will let you design inclusively for them.
+
+Analysis — following data collection, it’s time to make sense of all your data. UX researchers identify patterns and trends and derive actionable insights. Effective analysis lets researchers determine solutions for identified issues and propose design recommendations grounded in user feedback and behavior.
+
+Leveraging all three methodologies ensures a holistic approach to UX development, resulting in products and services that resonate deeply with your target user.
+
+7 UX research techniques
+
+Depending on what you want to know about your users’ experience, various tests and techniques can help you find the correct answers. Here are seven to add to your toolbox:
+
+1. Sorting cards
+
+Participants organize topics or items into categories and write them on cards, offering insights into how users perceive content or structure. When designing a navigation menu for a website, for instance card sorting helps you build journey maps and determine the most intuitive way to group and label menu items.
+
+2. Proficient evaluation
+
+Sometimes referred to as expert reviews, these evaluations bring UX specialists on board to test a product or interface against a list of established usability frameworks. Unlike larger user-based methods, only one expert is necessary to detect potential usability errors rapidly.
+
+3. Eye movement tracking —
+
+If you want to know how users visually navigate a website or relevant software product, eye tracking studies reveal where users look first, how long they focus on specific areas, and what they ignore. This method is valuable for optimizing layouts, advertisements, and key information placements.
+
+4. On-site research
+
+Sometimes called field studies, on-site research takes place in a user’s own environment. Rather than a remote survey or focus group in a researcher’s office, testing takes place in a user’s home, workplace, or commercial space. Testing in these personal locations lets you observe more authentic interactions and understand how external factors or stimulation influence interaction.
+
+5. Distant user-friendliness evaluation
+
+The opposite of on-site research, remote usability tests evaluate users from several locations. If you’re developing something for a regional, national, or global audience, this research type accounts for a broad range of contexts.
+
+6. Assessment of user-friendliness
+
+Usability testing assigns real users to complete tasks with the product or service. Their successes and challenges in navigating the product help UX designs improve ease of use and discover more improvement areas.
+
+7. User profiles
+
+Detailed profiles or personas of typical users lend a better understanding of a target audience's needs, behaviors, and preferences. UX designers and developers draw from extensive user and market research to determine profiles encompassing demographics, behavior patterns, and goals.
+
+When should you perform UX research?
+
+There’s no such thing as a “right time” to conduct research. User research studies are helpful at every stage of a product’s life cycle, as they keep you in direct contact with your target users and privy to changing circumstances.
+
+Here’s how UX research supports varying stages of your product’s life cycle:
+
+Conceptual phase — when an idea strikes, research supports an argument to develop or scrap it. During this phase, you should understand end user behaviors and motivations. Generative, quantitative, and qualitative research helps you shape initial concepts and identify potential problems and opportunities, informing a robust design document. Design and development phase — evaluation keeps you on track as your product takes shape. Prototypes and early iterations should go through usability testing, ensuring appropriate design choices. And early testing lets you work through problems before a full-scale launch. Post-launch — research shifts from predictive forecasting to real-time evaluation once your product or service goes live. Consistently checking in on user satisfaction, behaviors, and problem areas keeps your product user-centric as it evolves. Regular updating — user needs and technologies aren’t stagnant. Competitive analysis, surveys, and updated usability testing inform product updates based on evolving demand.
+
+Conceptual phase — when an idea strikes, research supports an argument to develop or scrap it. During this phase, you should understand end user behaviors and motivations. Generative, quantitative, and qualitative research helps you shape initial concepts and identify potential problems and opportunities, informing a robust design document.
+
+Design and development phase — evaluation keeps you on track as your product takes shape. Prototypes and early iterations should go through usability testing, ensuring appropriate design choices. And early testing lets you work through problems before a full-scale launch.
+
+Post-launch — research shifts from predictive forecasting to real-time evaluation once your product or service goes live. Consistently checking in on user satisfaction, behaviors, and problem areas keeps your product user-centric as it evolves.
+
+Regular updating — user needs and technologies aren’t stagnant. Competitive analysis, surveys, and updated usability testing inform product updates based on evolving demand.
+
+Building better experiences through Notion
+
+The right user research methods ensure that you and your target user are always on the same page. And Notion has a user research template for every step of the process. Consider a user persona template to put yourself in your users’ shoes, collect data with a user research dashboard, and track your work with a UX research depository.

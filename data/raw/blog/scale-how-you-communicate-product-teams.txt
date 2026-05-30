@@ -1,0 +1,95 @@
+Title: Product teams: scale how you communicate with these marketing frameworks
+Published Date: 2023-03-02T00:10-08:00
+URL: https://www.notion.so/blog/scale-how-you-communicate-product-teams
+
+The strongest product teams know the work doesn’t end when they hit “ship.”
+
+Communicating information about a launch or a feature might feel less important than building, but it’s a critical final step in enabling cross-functional partners to support your work once it’s out in the wild. And when you’re constantly shipping, using systems can make this communication process an advantage instead of a burden.
+
+Communication? System? Sounds like marketing. So we pulled a couple frameworks from marketing teams that product managers can use to get stakeholders what they need, when they need it, in a way that’s actually useful.
+
+1. Think about where your docs fit in the marketing funnel
+
+Good communication starts with good documentation — but you might change what you document and how it’s communicated based on the level of familiarity someone has with your work.
+
+Marketing teams think about this level of familiarity using the marketing funnel. It’s a framework that segments potential customers into various stages depending on where they are on their journey to becoming a customer: awareness, consideration, and conversion. Awareness drives eyeballs. Consideration arms prospects with info they need to assess a product. Conversion is the point of purchase.
+
+Vijay Iyengar, Mixpanel’s Director of Product, thinks about his team’s docs similarly. To avoid communication challenges and ensure impact, he created his own version of the marketing funnel.
+
+This system became his team’s shared language — separating documents into layers based on how often those documents are created, updated, and communicated.
+
+Strategic documents are like awareness. They touch the broadest audience, so they have to be strategic and high-level (and rarely change). Think of these as company-wide docs, such as annual strategy docs, team charters, roadmaps, etc. These docs don’t need to be communicated as often but when they are, they need to drive as much broad awareness of the work as possible.
+
+Planning documents are like consideration. They are for a narrower audience, as they tend to have more context and get more specific. PRDs, standup notes, retrospectives, and other docs related to specific projects fit here. These are more relevant to your team and its cross-functional partners, and they’ll be communicated more frequently as they change.
+
+Executional documents are like conversion. They spur action. These are even more tactical and include things like individual tasks, early ideas, and notes. While these are extremely important, they will only be understood by those who have a deep understanding of the work already. Because of that, these documents need to be communicated frequently, as needed.
+
+Duplicate Mixpanel's docs database here →
+
+No matter what system you use, it’s important that PMs know how to effectively create and share docs, both with partners and internal teams, so information adds signal instead of noise.
+
+2. Use scalable “push” and “pull” distribution levers
+
+Good marketing distribution has two motions: push and pull.
+
+The push motion is controlled by your team. It’s how you share information out. The pull motion is the opposite — it’s how people self-serve to easily find what they need.
+
+For an effective push motion, you need predictable channels for information to reach audiences. The audiences here are cross-functional teams who don’t have all the operational context about every feature launch or product update, but still need to know key parts about them.
+
+Marketing teams often use distribution checklists to make communicating info scalable and repeatable. PMs can do the same thing.
+
+Notion’s product requirements document (PRD) has a distribution checklist that all PMs use for product changes. Here’s what’s inside it:
+
+Have you shared the PRD with Product Marketing, Customer Experience, and Security and Legal for review?Have you shared the PRD in our #prd Slack channel?Have you sent an update in our #product-updates Slack channel?Have you worked with Product Marketing to make necessary changes to our release notes, website, or email?Does Customer Experience have the necessary documentation they need to answer questions about the feature?
+
+Have you shared the PRD with Product Marketing, Customer Experience, and Security and Legal for review?
+
+Have you shared the PRD in our #prd Slack channel?
+
+Have you sent an update in our #product-updates Slack channel?
+
+Have you worked with Product Marketing to make necessary changes to our release notes, website, or email?
+
+Does Customer Experience have the necessary documentation they need to answer questions about the feature?
+
+When it comes to the pull motion, this is really about the organizing of all those docs your product team has created. Marketing teams think of this like their self-serve audience.
+
+Your team’s wiki is like a website — a hub of information where people can go to find important documentation and resources. It needs to be navigable. Your colleagues shouldn’t have to go to several apps to find the source of truth. And when you have an organized wiki, it reduces the back-and-forth about work, saving time and fostering transparency.
+
+Vijay says doing that starts with predictability.
+
+Vijay has a product wiki in Notion that collects all his team’s docs, using headers to point visitors directly where they need to go. Other teams can jump right in and easily find what they need.
+
+Duplicate Mixpanel's product team wiki here →
+
+3. Know your target audience — the right content for the right people at the right time
+
+It’s important to know your audience and what information they need.
+
+Marketers do this in segmented lifecycle emails — when someone signs up for a product, they’ll get specific onboarding emails tailored to their experience. They wouldn’t send the same information or copy to engineers, marketings, and ops teams, right?
+
+"One of our big challenges was figuring out how to communicate cross-functionally," said Vijay. "It quickly becomes overwhelming to communicate everything to everyone. Most of the time, teams only need a fraction of the information."
+
+You can build trust this way with your cross-functional partners, too.
+
+Think about your audiences (your partners) and how you interact with them. Then consider how frequently you communicate with these teams and what information they need from you. Here are a few of the teams you can tap, what they need, when you should reach out, and how often you should communicate with them:
+
+Data Science & User Research. Package ideas for these teams to validate, and pull them in as early as possible to your process. This is important when you’re figuring out what to build. They should be OK working off messy, brainstorm-y executional docs, operating as an early thought partner.Engineering & Design. Of course, these will be your partners when bringing your product to life. Your executional docs will be most important, and these teams will want to know the actions that come out of these docs. You’ll communicate with both these teams frequently, but they should have enough context to move work forward without constantly repeating your strategy.Product Marketing. Ideally, you’re communicating with this team throughout the product development lifecycle. But they’re most important at the end. Strategy early on will help with the development of their messaging. And product specifics will be used to best relay how your product works to users. The communication should happen frequently and freely.Customer Support. As the voice of the customer, they’ll want to know what’s changing and the impact of your work. Your planning docs will be important here. Eventually, this team will want specifics, especially in the form of documentation — because these docs will be the basis for the external resources they create for users.Sales & Customer Success. These teams will want your planning docs to understand the impact on existing and potential customers (but with different flavors). Customer Success will want the “how to” of your work so they can answer questions, which might come later. Sales wants to understand the value your product provides.
+
+Data Science & User Research. Package ideas for these teams to validate, and pull them in as early as possible to your process. This is important when you’re figuring out what to build. They should be OK working off messy, brainstorm-y executional docs, operating as an early thought partner.
+
+Engineering & Design. Of course, these will be your partners when bringing your product to life. Your executional docs will be most important, and these teams will want to know the actions that come out of these docs. You’ll communicate with both these teams frequently, but they should have enough context to move work forward without constantly repeating your strategy.
+
+Product Marketing. Ideally, you’re communicating with this team throughout the product development lifecycle. But they’re most important at the end. Strategy early on will help with the development of their messaging. And product specifics will be used to best relay how your product works to users. The communication should happen frequently and freely.
+
+Customer Support. As the voice of the customer, they’ll want to know what’s changing and the impact of your work. Your planning docs will be important here. Eventually, this team will want specifics, especially in the form of documentation — because these docs will be the basis for the external resources they create for users.
+
+Sales & Customer Success. These teams will want your planning docs to understand the impact on existing and potential customers (but with different flavors). Customer Success will want the “how to” of your work so they can answer questions, which might come later. Sales wants to understand the value your product provides.
+
+Internal marketing sets product teams up for success
+
+Internal marketing can feel like a “last mile” problem for product teams.
+
+You’ve already built something awesome. You’ve tested it, looked at edge cases, and polished features. But internal marketing is an important step that helps set your work up for success. When internal teams are educated on and excited about your product, they’re better able to support it as it launches into the world.
+
+Download Mixpanel’s wiki template and documentation system here.

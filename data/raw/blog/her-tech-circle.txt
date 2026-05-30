@@ -1,0 +1,49 @@
+Title: Her Tech Circle rebuilt a community from scratch using Notion
+Published Date: 2025-08-12T00:00-07:00
+URL: https://www.notion.so/blog/her-tech-circle
+
+Renece Brewster and Karen Katz had exactly one week to make a decision that would impact thousands of women in Australia. 18,000 members at volunteer group Girls in Tech abruptly shut down its global operations, leaving the Australian volunteers scrambling to figure out what to do next.
+
+Renece recalling the urgency: "We knew our community's impact, but without the infrastructure, how could we keep going? Do we take time to rebuild, or launch a solution quickly to preserve the momentum?". Rather than watch their community dissolve, they decided to create Her Tech Circle (HTC)—a new identity, but the same core values that the community was built on.
+
+HTC’s mission is laser-focused: To create a movement in Australia and New Zealand where women that work in tech can thrive, lead, and contribute more broadly. Women make up just 26% of Australia’s tech workforce, and 50% leave their careers within four years—so this work felt critical.
+
+The challenge to rebuild this community was enormous. They had to create new systems, transition an entire community, and coordinate volunteers.
+
+But the HTC team knew exactly where to start: Everything would live in Notion.
+
+Building a community from scratch in Notion
+
+The timeline was brutal—rebuild everything while keeping the community together. HTC turned Notion into HTC’s digital HQ, knowing it could scale with them. Their admin team including Abby Durbridge, a core HTC systems engineer and volunteer, kicked off a pilot program in early 2025 with the social media team.
+
+After seeing how well it worked, they rolled Notion out to everyone. It was structured around three key areas:
+
+Public-facing portal: This home page became the front door for volunteers, from interest to participation. It includes important docs about HTC and how volunteers can get involved, plus other details like chapter locations and board members.Marketing home: They use a single database to manage everything from events and social media plans to brand guidelines and sponsor information. It’s made accessible to all members too, so there’s no need for anyone to dig through email threads or ping leadership for the basics.Volunteer directory: As the org grows, it’s become even more important for HTC to keep a clear and easy-to-manage rolodex of volunteers. It’s also become HTC’s org chart—every person can sign up for a specific function with clear lines of communication to team leads and peer support networks.
+
+Public-facing portal:
+
+This home page became the front door for volunteers, from interest to participation. It includes important docs about HTC and how volunteers can get involved, plus other details like chapter locations and board members.
+
+Marketing home:
+
+They use a single database to manage everything from events and social media plans to brand guidelines and sponsor information. It’s made accessible to all members too, so there’s no need for anyone to dig through email threads or ping leadership for the basics.
+
+Volunteer directory:
+
+As the org grows, it’s become even more important for HTC to keep a clear and easy-to-manage rolodex of volunteers. It’s also become HTC’s org chart—every person can sign up for a specific function with clear lines of communication to team leads and peer support networks.
+
+“Our community is spread out and growing quickly, so we needed something that could handle everything we throw at it,“ Abby explains. “Notion gave us that flexibility while keeping everyone rowing in the same direction.“
+
+Tips for builders
+
+Start with structure
+
+The temptation is to launch quickly, figure out systems later. But that’s how fragmented workflows and siloed teams happen. Investing in tool infrastructure early—like HTC did with its Notion pilot program—pays off in the long run. “Testing tools with one team helped us build workflows and rituals that wound up becoming the foundation of how we all work together,” Abby says.
+
+Make information accessible
+
+When critical knowledge only lives in people’s heads, you create bottlenecks that limit growth and exhaust your most valuable people. But when you make knowledge transparent and easily discoverable, your team can act independently and make informed decisions. HTC’s Notion workspace means every volunteer has access to the same templates, best practices, and knowledge to do better work.
+
+Invest in systems that empower others
+
+Abby says HTC’s success has come from creating systems that worked for everyone, not just the founders. By building comprehensive workflows in Notion that can scale as the team grows, Abby and her team have made it easy for volunteers to step up and contribute meaningfully. “Good systems don’t just organise work,” she says. “They create a space where people can actually make a real impact.”

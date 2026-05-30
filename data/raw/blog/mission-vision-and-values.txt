@@ -1,0 +1,111 @@
+Title: Crafting a Company's Mission, Vision & Values with Notion: Statements that Matter
+Published Date: 2023-04-28T00:00-06:00
+URL: https://www.notion.so/blog/mission-vision-and-values
+
+A great product isn’t enough. You need to build your brand around your company’s core principles — your mission, vision, and values.
+
+On its own, a fitness app is just a fitness app.
+
+“We made this app to track your fitness” doesn’t say much. But it becomes something more when you tell your audience why you made the app and why they’ll want to use it. “We aim to support big thinkers on their journey with sustainable training plans and a community that cares” tells readers what makes the brand unique. Thanks to this statement, they can see that this simple app is actually a tool they might really connect with.
+
+By sharing your company’s mission, vision, and values, you’ll differentiate yourself from competitors and create a brand identity that resonates with potential customers. Here’s how to write strong statements that get the job done.
+
+What’s a mission statement?
+
+The definition of a mission is a vocation or important task, and a mission statement explains your company’s mission: your purpose and how you plan on fulfilling it. It describes your overall goals in a sentence or two. If your purpose — the “why” of your brand — is to promote sustainability in manufacturing, the core element of your mission statement could be, “We create high-quality products that reduce waste.”
+
+A well-crafted mission statement starts from this focus and continues to define what your company does, who it serves, and how it’ll achieve its goals in a few sentences. Readers should be able to read your mission, understand your objectives, and see whether you share the same beliefs and should choose to buy from or work with you.
+
+Display your company’s mission statement in your business directory, on your team’s homepage, or on a customer-facing site so customers can find it right away. Plant-based meat substitute Beyond Meat clearly labels its mission statement on its homepage: “Feed a better future. Our mission is to create delicious, nutritious, sustainable protein so that you can Eat What You Love®, no sacrifice required.”
+
+Beyond Meat’s statement outlines its purpose (impact the future), target audience (customers who value nutrition, sustainability, and the planet), and approach (by creating a delicious, nutritious, sustainable protein). These two sentences are short, but they pack a lot of information into that space, telling customers the exact purpose behind Beyond Meat's brand.
+
+What’s a vision statement?
+
+A vision statement outlines your company’s destination: where you see it going and how you plan on getting there. Instead of a current, action-oriented mission, a vision describes your wider goals. Think of it as a source of inspiration — something you’d put on a vision board to remind you what you plan on contributing to the world. It should motivate both your team and your customers.
+
+Similar to a mission, a vision statement should explain what you want to provide your audience with, just on a broader scale. Keep it short and snappy so readers can quickly understand your overall goals.
+
+IKEA’s vision statement is “To create a better everyday life for many people.” It’s a brief, simple sentence that encapsulates IKEA’s bread and butter: affordable, accessible home goods. It also extends IKEA’s scope beyond its products, alluding to its international reach and sustainability goals.
+
+What’s a value statement?
+
+A value statement expresses the core values that guide your mission and vision. It outlines your ethical standards and social responsibilities, along with how you plan on upholding them through your actions. With strong values, your company’s practices will have more integrity and a sense of purpose.
+
+Effective company values reflect your culture, personality, and overall brand identity, creating a framework for decision-making and a basis for evaluating your performance. Anything you do that doesn’t adhere to your values will seem off-brand, so it’s important to get them right.
+
+Patagonia's value statement expresses its core values in five parts — quality, integrity, environmentalism, justice, and not bound by convention — each with a short paragraph about what the term means and how the company aims to use it in practice. This statement is a little longer than most, but it goes in-depth, showing just how much Patagonia cares.
+
+The paragraphs describe exactly what Patagonia is doing to uphold its values, from creating partnerships with nonprofit organizations to manufacturing long-lasting gear that you won’t need to throw out after a year of wear. By aligning its initiatives with its statement, Patagonia establishes a strong brand identity and builds a loyal customer base that shares its principles.
+
+Values, vision, and mission examples
+
+There’s overlap between each of these kinds of statements, which makes them hard to write. They all describe what your company cares about and works towards, just in slightly different ways — values describe your core beliefs, vision describes your overall goals, and mission describes your actions.
+
+Together, they’re important components of your company’s identity and strategy, and they complement each other to show potential customers exactly why they should work with you.
+
+To offer some inspiration, here are some hypothetical mission, vision, and value statement examples for companies in various sectors.
+
+A sleep-tracking app
+
+Mission — provide accessible and innovative sleep solutions that enhance our customers’ lives by monitoring their sleep and recommending fixes.Vision — become the leading provider of user-friendly technology solutions that empower individuals every day.Values — foster innovation, accessibility, and health.
+
+Mission — provide accessible and innovative sleep solutions that enhance our customers’ lives by monitoring their sleep and recommending fixes.
+
+Vision — become the leading provider of user-friendly technology solutions that empower individuals every day.
+
+Values — foster innovation, accessibility, and health.
+
+An environmentally-oriented clothing company
+
+Mission — design and manufacture sustainable, high-quality clothing with the smallest impact possible.Vision — revolutionize the fashion industry by setting new standards for sustainability and ethical production.Values — promote sustainability, creativity, and transparency.
+
+Mission — design and manufacture sustainable, high-quality clothing with the smallest impact possible.
+
+Vision — revolutionize the fashion industry by setting new standards for sustainability and ethical production.
+
+Values — promote sustainability, creativity, and transparency.
+
+A tech company creating AI solutions
+
+Mission — develop cutting-edge technology that improves people's lives on a day-to-day basis.Vision — be a driving force behind the next wave of technological innovation and progress.Values — drive innovation, cutting-edge performance, and impact.
+
+Mission — develop cutting-edge technology that improves people's lives on a day-to-day basis.
+
+Vision — be a driving force behind the next wave of technological innovation and progress.
+
+Values — drive innovation, cutting-edge performance, and impact.
+
+A food delivery service
+
+Mission — bring delicious meals to our customers' doorsteps while offering employee support, even to gig workers.Vision —- become a premier provider of meals nationwide.Values — nurture efficiency, quality, and employee well-being.
+
+Mission — bring delicious meals to our customers' doorsteps while offering employee support, even to gig workers.
+
+Vision —- become a premier provider of meals nationwide.
+
+Values — nurture efficiency, quality, and employee well-being.
+
+A video production company
+
+Mission — create entertaining, thought-provoking content that inspires, educates, and connects people from all walks of life.
+
+Vision — be a leading force in the entertainment industry by producing content that reflects diverse perspectives and fosters empathy.
+
+Values — encourage diversity, creativity, and community.
+
+An edtech business
+
+Mission — provide affordable and accessible education to people from all backgrounds by using advances in technology to create remote opportunities.Vision — revolutionize the education industry by breaking down barriers and creating new opportunities for lifelong learning.Values — promote access, inclusivity, and care.
+
+Mission — provide affordable and accessible education to people from all backgrounds by using advances in technology to create remote opportunities.
+
+Vision — revolutionize the education industry by breaking down barriers and creating new opportunities for lifelong learning.
+
+Values — promote access, inclusivity, and care.
+
+Find the words to articulate your brand
+
+Stand out from the crowd with clear mission, vision, and value statements. Give customers the chance to connect with you and learn why you’re the best at what you do — be authentic, and they’ll follow.
+
+Kick off the mission, vision, and value statement creation workflow with Notion. Start from one of our vision and mission templates, our visions to values tool, or a company homepage that tells your customers exactly who you are.

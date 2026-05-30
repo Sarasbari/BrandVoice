@@ -1,0 +1,57 @@
+Title: How Notion builds partnerships using Notion – and how you can too
+Published Date: 2023-08-01T08:30-07:00
+URL: https://www.notion.so/blog/how-notion-builds-partnerships-using-notion-and-how-you-can-too
+
+Notion’s mission is to make software toolmaking ubiquitous, and we can’t do that alone. So we’ve long focused on developing our ecosystem of 1,000+ partners who help people all over the world build, grow, and sell with Notion, and deliver more value to our customers.
+
+Technology partners like Slack and Figma help you integrate Notion with your existing tools and workflows;Consulting partners like Optemization and NorthSand help you migrate onto Notion and set up their Notion workspaces for scale;Startup partners like AWS Activate, Stripe Atlas, and Y Combinator offer startups exclusive discounts and resources as they’re building out their operations; andAffiliate partners like Thomas Frank get rewarded for referring customers and helping them get up and running on Notion.
+
+Technology partners like Slack and Figma help you integrate Notion with your existing tools and workflows;
+
+Consulting partners like Optemization and NorthSand help you migrate onto Notion and set up their Notion workspaces for scale;
+
+Startup partners like AWS Activate, Stripe Atlas, and Y Combinator offer startups exclusive discounts and resources as they’re building out their operations; and
+
+Affiliate partners like Thomas Frank get rewarded for referring customers and helping them get up and running on Notion.
+
+How we approach partnerships at Notion
+
+What we’ve quickly realized is that to make customers successful, we must make our partner ecosystem successful. Our partnerships team spends lots of time thinking how to best build our programs and playbooks so they can grow and mature as our ecosystem does. We focus on three key parts of the partnership lifecycle and experience:
+
+Discover and recruit – discovering partnership scenarios that benefit our ICP (ideal customer profile) and recruiting them into our partner programs.Onboard and enable – onboard partners to learn more about Notion’s product and business and enable them through resources, courses, documentation, and more.Grow and optimize – growing adoption of the tools, services, and solutions that make customers successful and optimizing their usefulness over time.
+
+Discover and recruit – discovering partnership scenarios that benefit our ICP (ideal customer profile) and recruiting them into our partner programs.
+
+Onboard and enable – onboard partners to learn more about Notion’s product and business and enable them through resources, courses, documentation, and more.
+
+Grow and optimize – growing adoption of the tools, services, and solutions that make customers successful and optimizing their usefulness over time.
+
+Lucky for us, our partnerships team uses our own product to manage the partner lifecycle, both internally and externally. Let’s take a look at the Partnerships OS templates our team relies on, which you can leverage to create your first PRM (partner relationship management) system, collect partner feedback for your product team, and launch a partnership to market.
+
+1. Create a PRM
+
+When we first started partner conversations a few years back, we realized we needed a way to track information about the company, partnership method or program, and meeting notes to get feedback from cross-functional stakeholders. Ultimately, this approach evolved into our PRM, where we can prioritize the partner ecosystem by partner manager, program, program goal or metric, and more. This allows anyone at the company to understand the status of a partnership at any time.
+
+Tip: Use database views so different partnership managers can manage their individual pipeline by partner program.
+
+Duplicate partnerships CRM template →
+
+2. Build a partner feedback tracker for beta programs
+
+At Notion we work with many technology partners who build on our APIs. We run beta programs with them to drive partner feedback loops and enhance our platform and developer products. For example, we’re building a new Security and Compliance partner program focused on improving Notion for our enterprise customers. As we build out new APIs to support these integrations, we’re working closely with private beta partners who can access a Notion teamspace that includes an onboarding page, project timeline, API documentation, partner feedback tracker, and more.
+
+Tip: Use database templates to collect product feedback leveraging the same questionnaire for all partners.
+
+Duplicate partner beta home template →
+
+3. Align on a partnership launch playbook
+
+Successful partnerships require collaboration with go-to-market (GTM) teams to raise awareness and drive adoption and, ultimately, customer success. We work closely with our Marketing team to build a GTM playbook that leverages existing marketing channels to launch, maintain, and drive ongoing success with our partnerships.
+
+Tip: Use the Status and People properties to track who will own certain go-to-market activities and update the status when complete.
+
+Duplicate partnership launch playbook template →
+
+Using these templates, our partnerships team manages the full partner lifecycle and brings everyone, including our cross-functional partners, together to collaborate with partners. They're the starting point for every new partnership and flexible enough to fit different partner profiles, programs, and initiatives.
+
+We hope they help you get your own partnership program off the ground! And if you'd like to work with Notion as a partner directly, you can find the partner program that's right for you.

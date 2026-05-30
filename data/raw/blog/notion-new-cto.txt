@@ -1,0 +1,41 @@
+Title: Welcome, Fuzzy Khosrowshahi: Notion’s new CTO
+Published Date: 2023-12-14T00:00-08:00
+URL: https://www.notion.so/blog/notion-new-cto
+
+Notion is a tool — and our mission as a company is to make software toolmaking ubiquitous. We believe that if every business and person can tailor software to their problems, the world would be better at solving its problems.
+
+We admire tools that share this belief, like Google Sheets, Google Docs, and Slack. They’re helping millions of people solve their problems every day.
+
+That’s why I’m so excited to announce our new Chief Technology Officer, Fuzzy Khosrowshahi.
+
+Fuzzy was the creator of Google Sheets — he had the idea to convert spreadsheets into a web app while working in the finance industry. He then spent 15 years at Google leading a team across Google Workspace (including Drive, Docs, Sheets, and Slides). And most recently, he served as the SVP of Product Engineering at Slack.
+
+I’m super excited to work with Fuzzy, and learn from his experience building generational and ubiquitous tools as we try to achieve our mission at Notion. I sat down with him to learn about why he joined Notion and why he’s excited about its future.
+
+How’d you first learn about Notion? What made you decide to join the company?
+
+I knew Notion was an innovator in the space. But it wasn’t until I started using the product that I saw Notion’s true appeal.
+
+Notion combines organization, documentation, site management, and project management into a single application. I was also so impressed with the power of Notion’s databases and its block structure. This unique blend of products and features made Notion the only company that could’ve enticed me to leave my previous role. I want to build products I love to use, and that my family and friends use.
+
+Plus, the team! They’re ambitious, innovative, aligned, and want to move fast. I’m excited to be part of that culture.
+
+We have a pretty ambitious mission — to make software toolmaking ubiquitous. What are the challenges to realizing that mission?
+
+The biggest challenge is time. Our hope is to really change how people interact with computers. In a much shorter timeframe, we’re trying to accomplish what Microsoft and Google took decades to build.
+
+The other is alignment. There’s so much to do, so many different paths to take. The key is getting everyone on the same page — which I can see Notion already has. Look at the speed with which the team operates, especially in how quickly they launched Notion AI. Part of that speed and alignment comes from the fact that the founders and the original builders are still here at Notion. This consistency is a huge advantage for us as we work toward our mission.
+
+You’ve had many different work experiences. Selling life insurance and real estate, then opening a Subway sandwich shop with your wife where you learned to use spreadsheets extensively — which eventually led you to building Google Sheets. That led to nearly two decades at Google and Slack. What are some learnings you’re particularly excited to bring to Notion?
+
+The main one is that it’s crucial to build with users in mind. For example, we knew early on there was a use case on Google Sheets for task tracking — so I put all the team’s tasks in Google Sheets so we could make sure we were building with the user in mind. A big reason I was drawn to Notion was its community, and I’m excited to contribute to the existing foundation of user-focused development.
+
+The other is that it’s a true blessing to work on products that improve people’s lives. It makes work feel less like a job and more like solving problems with friends.
+
+What are you excited to accomplish in Notion’s future?
+
+In the near term, it’s enhancing the interoperability of Notion blocks. They’re already so versatile…but I’m already thinking about what new types of blocks we can introduce and how we can continue thoughtfully weaving AI into the product.
+
+Longer-term, it’s really about creating a product that has a real impact on our users’ lives. We have such a huge opportunity to innovate and truly change the way people interact with technology.
+
+Let me finish onboarding first, then we can tackle that.

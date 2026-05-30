@@ -1,0 +1,49 @@
+Title: 5 must-have templates for your team
+Published Date: 2025-01-09T10:00-08:00
+URL: https://www.notion.so/blog/5-must-have-templates-for-your-team
+
+New year, new projects, same chaotic feeling figuring out how you’re going to get organized for the year. Am I right?
+
+While I can’t help you get your work done, I can help you be more productive in the year ahead. My secret weapon? Templates.
+
+A templated roadmap, issue tracker, or sprint or marketing plan helps you skip the tedious work of building workflows from scratch. The best part? You can customize them to your liking once you add them to your workspace. Don’t need tags? Vaporize them. Need a new update status? Add it. Missing some sparkle? Customize your colors and icons.
+
+Here are a few of the most helpful templates I’ve used to make planning and managing work a snap. Hopefully this will free you up to spend more time actually doing the work and less time on the boring setup. Simply click the Get template button in any link below, and voila—it’s ready to go.
+
+1. Objectives & Key Results Tracker
+
+No, it’s not just your company—keeping everyone aligned and focused on shared goals is hard. While OKRs might start with quarterly or yearly planning, their real value comes from how they guide projects and track progress day-to-day.
+
+This template helps make your objectives visible and actionable throughout their life cycle. Drop in your company and team goals, assign owners and timelines, then use it as your central hub to track progress. Bonus: The built-in charts give you instant visual feedback on how things are moving along, making it easy to spot where you might need to course correct or provide extra support.
+
+Tip: Want to learn how to master OKRs? Here are a few things we’ve learned about OKRs as we’ve grown.
+
+2. Projects & Tasks
+
+Whether you’re writing a blog post with a handful of tasks (like “write," “edit," “publish”) or launching a complicated new product with hundreds of to-dos, this template offers customizable views to help you track every detail. Use its database to share a thirty-thousand-foot view with leadership or track tasks in your team’s daily standup meeting. You and your team will be more organized, better connected, and ready to take on all projects thrown your way—big or small.
+
+3. Product roadmap
+
+Maybe you’ve got a vision for what your company will look like at the end of next year. But do you have a roadmap for how to get there? Without a roadmap, bringing that vision to life with excellent, on-time execution is kind of like flying without landing gear.
+
+Use this template to connect your daily execution with your strategic direction. With built-in timelines, trackers, and charts, you can easily monitor progress, shift priorities when needed, and keep everyone in lockstep.
+
+4. Social Media Calendar
+
+We’ve all been there—frantically scrambling to post something (anything!) on social media. What could possibly go wrong?
+
+Answer: a lot. Use this template to go on the offensive and organize all your social content in one place. With calendar and board views to track your posts across platforms, you’ll never have to resort to panic-posting again.
+
+Tip: You can also use forms to make it easy for teammates to request posts.
+
+5. Content calendar
+
+Content chaos isn’t just frustrating—it’s holding your marketing back. It’s why calendars are so important. They help you keep better tabs on what’s in progress while jogging your memory on everything that’s published.
+
+This template connects your larger campaigns with specific content deliverables. Everything from draft statuses to team assignments live in one organized hub. Plus, it’s easy to build customizable views for every team member’s needs, where they can track work assigned to them by date and status. You and your team will no longer have to worry about lost drafts and jumbled publishing trackers with a well-organized content calendar.
+
+→ Find more templates in the Notion Marketplace
+
+The best part about templates is they’re just a starting point, a way to skip past the blank-page anxiety and get to the real work faster. These templates have worked well for our team here at Notion, but they’re easy to customize, enabling you to figure out the workflows that work best.
+
+Whether you start with just one that addresses your most pressing need or jump right in with a brand-new teamspace, templates are a small step toward a more organized new year. If you have a favorite template, we’d love to see it at @NotionHQ.

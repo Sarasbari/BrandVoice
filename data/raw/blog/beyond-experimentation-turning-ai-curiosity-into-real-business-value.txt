@@ -1,0 +1,69 @@
+Title: Beyond AI experimentation: How to get real business value
+Published Date: 2026-02-17T10:00+01:00
+URL: https://www.notion.so/blog/beyond-experimentation-turning-ai-curiosity-into-real-business-value
+
+This is the second in a two-part series exploring how European organizations are investing in knowledge management to succeed in the age of AI.
+
+In my previous post, we explored the knowledge paradox: Most European companies recognize centralized knowledge matters, but struggle to make it real day-to-day. And the European business leaders we interviewed were clear that you can’t leverage AI effectively without a solid foundation of organized, accessible information.
+
+So once that knowledge foundation is in place, how do you actually start getting value from AI?
+
+Join us for a workshop to automate your first workflows with Custom Agents. We’ll show you how to build an agent that takes busywork off your plate—so you can focus on what matters.
+
+Start small to build momentum
+
+AI is moving fast, and most teams don't have the time (or certainty) to architect a perfect end-state from day one. The leaders we spoke with kept coming back to the same approach: Focus on small, useful wins and build from there. Identify the busywork that slows people down, automate it, learn what works, then iterate. Over time, those wins build a culture—and an appetite—for AI to thrive.
+
+One particularly powerful starting point emerged from nearly every conversation. AI meeting notes came up as a simple but powerful use case, and for good reason. When teams have an automatic record of what was discussed, meeting culture can shift in a good way:
+
+Discussions stay focused because decisions and next steps are capturedMore people can stay in the loop asynchronously—without attending every meetingNotes become useful later because they’re searchable alongside the rest of your work
+
+Discussions stay focused because decisions and next steps are captured
+
+More people can stay in the loop asynchronously—without attending every meeting
+
+Notes become useful later because they’re searchable alongside the rest of your work
+
+At Rakuten France, product teams were spending 50–75% of their time in meetings—often typing up notes late into the evening. By centralizing knowledge in Notion and using AI Meeting Notes, the company turned unwieldy 25-person meetings (where only a handful actively participated) into focused decision-making sessions. Stakeholders who didn’t need to be in the room could review the notes afterward and weigh in asynchronously.
+
+Thomas Zeller, CDO at UnternehmerTUM, also pointed out that once meeting notes become searchable alongside email, chat, and docs, they stop feeling like “extra work.” They become part of an organization’s information system—and their absence starts to feel like missing context. They also enable that “pull” culture I referenced in my previous post: Instead of pushing updates to everyone (more meetings, more follow-ups), people can pull context when they need it, because the meeting record is discoverable later.
+
+Encourage experimentation, broadcast wins
+
+As AI adoption starts to spread and you begin seeing results, broadcast them widely. People often need concrete examples to spark ideas, and seeing a peer’s workflow in action is often more convincing than mandatory training.
+
+At Pleo, VP of Data and AI Priscilla (Pri) Nagashima created a Slack channel called "Control AI Delight" specifically for this purpose. "It's a grassroots kind of group—people who are just enthusiastic about AI, tooling, and tech in general,” explains Pri. “They share what they're building, what they're learning, what’s working, and what’s not. That has helped people actually see what’s possible."
+
+The same principle works in more structured, live formats, too. At Above, Operational Excellence and Strategy Director Tore Fjaertoft uses demo days to similar effect, with teams showcasing their AI workflows in regular sessions.
+
+When colleagues see how their peers are using AI in daily work, they’re more likely to spot use cases that fit their own context—and adoption spreads peer-to-peer rather than being forced from the top down. It's about building a culture where learning happens through demonstration and experimentation rather than documentation or training sessions alone.
+
+Favorite AI workflows in action
+
+Once people start experimenting, certain AI use cases tend to emerge as favorites. Here's what the leaders we spoke with are using day-to-day:
+
+Quick context and status checks. As Nscale CPO Dan Bathurst scales his company from single digits to hundreds of employees, he relies on Notion AI to cut through the noise and get quick business snapshots instead of scheduling status meetings or scrolling through endless Slack threads. "That quick soundbite of information gives me the top-down view I need to stay informed without disrupting my team,” he shares. “It’s incredibly helpful.”
+
+Research synthesis. Tore's team at Above conducts extensive client interviews—sometimes 20 or more for a single project. Rather than manually combing through transcripts, they store interview notes in Notion and ask questions like, “What are the top ten takeaways across all of these interviews related to this challenge?” The synthesis happens instantly, surfacing insights that would otherwise take days to extract.
+
+Institutional knowledge capture. At Rakuten France, 25 years of company history lives in people's heads—what CPO Clément Caillol calls the "oral culture" where knowledge disappears when employees leave. His solution is to interview the longest-tenured employees, record everything, and let AI automatically turn those conversations into documentation. "There are people in corners of the company who know things—you have to climb the mountain to ask the oracle because only they know," Clément shares. “It won't be perfect, but at least we reduce the bus factor a bit."
+
+Personal thinking and ideation. Alexandre Imbeaux, Head of Talent Management Products at Lucca, has three kids, so mornings are chaotic and evenings are his thinking time. While shaving at night, he uses AI Meeting Notes and does a five-minute stream-of-consciousness download of ideas, decisions, and things to tackle. The next morning, he takes those transcribed blocks and drops them into messages and memo drafts. It's become his nightly brain-dump ritual.
+
+Strategic tool consolidation. Pleo manages over 300 software tools—a sprawl that's expensive and inefficient. Pri's team took their tool inventory spreadsheet, fed it to Notion AI, and asked it to analyze consolidation opportunities based on renewal dates and usage patterns. The project pulled together people from data, engineering, product, finance, and procurement—all collaborating in a shared database to build next year's procurement strategy and identify potential savings.
+
+Next steps for building with AI
+
+Even with the right foundation, AI doesn’t spread on its own. In most organizations, it takes a few people to turn early experiments into real, repeatable workflows—then share what they built so others can adopt it. Humans are the builders, and AI (especially Custom Agents) is here to 10X their work.
+
+For companies currently navigating the knowledge management paradox, there are a few practical steps you can take to start getting value from AI:
+
+Start with centralized knowledge. Before AI can help, your team needs a reliable place for decisions, docs, and project context—so answers aren’t scattered across tools and threads.Build a culture of documentation. Start with the “why” so the value is personal, then make it easy (and worth it) to write things down as you go. The goal isn’t perfect documentation—it’s shared context your team can build on.Turn small wins into shared workflows. Begin with high-impact, easy-to-adopt use cases like AI meeting notes. Share what works to spark peer-to-peer adoption. Over time, that’s how teams move from using AI occasionally to building with it every day.
+
+Start with centralized knowledge. Before AI can help, your team needs a reliable place for decisions, docs, and project context—so answers aren’t scattered across tools and threads.
+
+Build a culture of documentation. Start with the “why” so the value is personal, then make it easy (and worth it) to write things down as you go. The goal isn’t perfect documentation—it’s shared context your team can build on.
+
+Turn small wins into shared workflows. Begin with high-impact, easy-to-adopt use cases like AI meeting notes. Share what works to spark peer-to-peer adoption. Over time, that’s how teams move from using AI occasionally to building with it every day.
+
+The knowledge paradox is real, but it isn't unsolvable. The companies getting value from AI aren’t waiting for a perfect strategy. They’re building momentum with small, high-impact workflows, then spreading what works through champions and shared examples. With the right approach, businesses can turn scattered information into shared context—driving faster alignment, eliminating busywork, and creating more time to focus on what matters.

@@ -1,0 +1,71 @@
+Title: These Founders Used Notion to Develop the Cocoon App & Run Their Startup
+Published Date: 2021-06-17T09:00-07:00
+URL: https://www.notion.so/blog/cocoon-runs-on-notion
+
+It was settled — Alex and Sachin were going to quit.
+
+Both at Facebook, they knew they had a good thing going ever since they were paired on a project, with Sachin as product manager and Alex as designer. "We both have unique interests," says Alex. "Sachin had certain books on his desk that made me think, 'Oh, you're just as weird as I am.'" Now they wanted to see if they could start something of their own. They even coordinated their last day together.
+
+But this couldn't be a slapdash decision. If they were going to leave their secure jobs and take a leap into the unknown, they needed to find the right idea — something they'd be excited to think about for years, twenty-four hours a day.
+
+So they started writing letters to each other, even before they quit. "We wanted to calibrate on why we were leaving Facebook and our reasoning," says Sachin. "One letter I wrote to Alex was literally titled, 'Why Sachin wants to leave.'" The letters — and all their other ideas — lived on Notion.
+
+"Given how much we both we love to write, we needed a tool that could handle all the documentation we were producing," says Sachin. "And Notion fit the bill." They made a list of all the problems they were excited to work on. "We wanted to be guided by a problem more than a particular product or solution," says Alex. "We called this inaugural Notion doc 'Width.' Because we wanted to go wide."
+
+They built a playground of ideas — and dug up a mission
+
+This kind of open-ended exploration could have turned messy without the right structure. "It was easy to research different problems in more detail," says Sachin. "We could make a bullet point list of ideas, then turn any one bullet point into its own page of notes. "That kind of flexibility let us expand or contract a particular problem space to match our current thinking."
+
+What rose out of this exploration was Cocoon, a social app that helps you cultivate closer relationships with your friends and family. It was a problem space that resonated with them personally. Sachin's own family has been spread across Canada, New York, and Hong Kong for the last 17 years. "I was calling my parents on Sunday nights, and messaging my sisters every so often, but it felt like something was lacking."
+
+After such a thorough ideation phase, Sachin and Alex were certain about their choice. "Without this Notion page and the rigor we introduced while exploring ideas, we wouldn't have had as much conviction that this was the problem we actually wanted to work on," says Sachin.
+
+And they haven't looked back. Cocoon is now a fully-fledged company with a public product. As you can imagine, their Notion workspace has grown and evolved quite a bit.
+
+Becoming a real company, with a roadmap to handle planning and dev
+
+As Alex and Sachin started building out their product and operations, they saw no reason to move onto another tool. Their initial Notion page has grown into a full-blown wiki that encompasses all foundational processes.
+
+One of the first things they built, which they still use today, is their roadmap in a Notion database. It helps them stay coordinated — If Alex and Sachin need to see what's backlogged or in staging, they can see the roadmap as a kanban board grouped by phases. If Alex wants a list of just his tasks, he can switch to a customized view of the roadmap. "The beauty is that you can see two different views without having them break the actual roadmap organization," says Alex.
+
+Each project has its own page with specs and designs. "Before Notion, we'd drop in a Figma prototype link that would be out of date in 20 minutes. You'd never know what was actually true." Now, Alex just embeds live Figma files in the Notion page so any changes he makes are updated immediately.
+
+"If our roadmap was in a different tool, things would be a lot more disjointed," he continues. "Since everything's on Notion, I can mention teammates and know for sure they'll see the notification."
+
+Customizing tools for startup needs — like fundraising and onboarding
+
+Fundraising posed a new challenge. How were they going to make their case convincingly at such an early stage? "We're building what looks like a niche consumer social app targeting a use that has never really been cracked in this specific way," says Sachin. "We needed to communicate our hypotheses at a deeper level. On top of that, we were pre-launch. We didn't have a lot of numbers or charts to share yet."
+
+A Powerpoint pitch deck was out of the question. So they sent investors a Notion doc instead. "We basically wrote a letter to our potential investors."
+
+They couldn't have done the same pitch over email. "It needed to look polished and clean," says Alex. "We used bulleted lists, divider lines, three levels of subheading — Notion's formatting features helped us draw attention to certain arguments."
+
+It paid off. With a $3M seed round under their belt, priorities changed again: to expanding the team. Once they had a couple more teammates, Sachin and Alex put together an onboarding doc that was easy to replicate and personalize.
+
+"We structured it like a tour of Cocoon, where we linked out to the specific day the company was born, the roadmap, and other important docs," says Alex. It was designed for speed, which, for a startup, is always the priority.
+
+Staying on track while unleashing big bets
+
+Fast forward two years later, and Cocoon still runs everything on Notion. Even though the company's priorities have evolved, Notion's scaled with them. "Because of Notion's nested page system, we didn't need to massively refactor our workspace as we grew," says Sachin. "As we add more personas and features, everything is still easy to find."
+
+As the company's scaled, two modes of working have become critical: "We're shifting between what I call the 'steady state,' where we align and figure out what to work on next, and exploratory cycles, where we go deep into one priority," says Sachin. Notion has helped them document everything in the same space, no matter what phase they're in.
+
+Their roadmap acts as their anchor point — it's not just for Sachin and Alex anymore, but for the whole team to see what's in flight. "We can put screenshots, videos, tons of comments, descriptions, links — and it's all bundled up in the project page," says Alex. "Even if a particular project is really complex, it doesn't affect the rest of the roadmap."
+
+Part of what's made Notion so stable for them is the ability to hide old content easily. "We've deprecated a lot of pages that just aren't as relevant based on our current priorities," says Sachin. "But Notion lets us preserve content so it's a valuable piece of context but isn't in the way. Like our fundraising database — it's not the focus right now, but we may need it later." It's an investment in the future, so that new teammates can better understand what decisions were made in the past and why.
+
+Every new team and initiative gets its own space
+
+When they're in the exploratory phase, the team can create new pages without worrying about it breaking the rest of their workflow — just like their original "Width" doc let them explore any idea further without disturbing the rest of their research.
+
+Parts of the workspace have exploded. When the first couple engineers came on board, they created an Engineering wiki page and started filling it with tons of documentation and notes. "Neither Alex or I are engineers, so we're glad that the team has its own place to customize it for their particular needs," says Sachin. Code guidelines, tool stack, and other technical documents are all stored in this page.
+
+New initiatives get their own page too. "Separating out experimental projects gives the team space to test new thinking," says Sachin. "We can throw a bunch of messy stuff in the project home and not worry about keeping the house in order."
+
+When the project's over, and the team comes back up for air, they integrate new learnings into the rest of the Notion workspace. "We divide up the documents — some of it is archived, and some of it goes into our mainstream wiki, where we can use it for future work," says Alex.
+
+Where collaboration and compassion meet
+
+The team has stayed lean, but Alex and Sachin's plans for Cocoon are endless. "We want to broaden the types of relationships we support," says Sachin. "There's this really alarming stat that a high percentage of people in the US feel like there's nobody who understands them. That's so sad, because you don't need a thousand or even a hundred people. If you have just one or two people, it's a huge impact to your mental and physical health."
+
+The two founders are their own proof — in the beginning, they were just two people who understood each other and valued the same things. It's made a world of difference for them to have a trusted partner, and a place to build on each other's ideas. "We spend so much of our day-to-day working in Notion that it's become synonymous with the company's well-being," says Alex. "When our Notion workspace is organized, Cocoon feels organized. It makes me feel like I have control over my environment."

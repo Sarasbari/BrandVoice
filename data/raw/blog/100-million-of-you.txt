@@ -1,0 +1,71 @@
+Title: 100 million people now use Notion
+Published Date: 2024-09-03T06:00-07:00
+URL: https://www.notion.so/blog/100-million-of-you
+
+Last month, Notion passed 100M users!
+
+I found the photo I took after we reached 1,000 users. And I still recall the day when we passed 1M in 2020, right before Covid.
+
+I feel grateful, introspective. Looking back, there’s so much learning, yet much remains unchanged …
+
+In our early years, we were rather lost.
+
+We started in 2013, but it wasn’t until 2018 with the Notion 2.0 Product Hunt launch that we saw signs of traction.
+
+We had no business sense, struggled with building a horizontal tool. Notion almost died. (Thanks for the bridge, mom!)
+
+We rebuilt Notion four times in those “lost years.”
+
+In one version, you’d press a key to X-ray all blocks. (What were we thinking?!)
+
+In one, we had the right product, but wrong tech stack, so Simon Last & I went to Japan to rewrite (hence our main git repo is “notion-next”).
+
+Eventually we learned. But I am glad we didn’t cave and change our mission.
+
+Notion is built on the ’70s vision that software can “augment human intellect.”
+
+It’s amusing that our original pitch deck still describes the company we are building today!
+
+Pitch deck from 2013.
+
+1B+ people live and work in either Microsoft or Google suite (no real alternatives), and a sea of SaaS fragmentations (too rigid, too uncreative).
+
+The world needs building blocks for software and Notion is here to build that!
+
+With our building blocks, a community of non-programmers can sell “software” built on Notion. (Some made $1M in 2023!)
+
+We dreamed of this in the original pitch deck, but I wasn’t sure it would come true.
+
+It’s gradually coming together, though instead of 15 months, like we imagined in our original pitch deck, it took us 10 years. 😅
+
+As with our mission, our love for craft hasn’t changed.
+
+We tried 30 shades of warm white paint for our office wall.
+
+We couldn’t find merch we love, so we made our own work jackets.
+
+We care about craft & beauty, and we want to bring them to this world.
+
+And after some hard lessons on building at scale (a story for another time), our product craft is re-accelerating!
+
+Notion hasn’t shipped this well ever—7+ releases this summer—answering our community’s asks fast, with a quality we can be proud of!
+
+We do all of this because we don’t just want to build a piece of software.
+
+We want to build something that’s great, according to our values.
+
+Something that the next generation doesn’t just have to use, but LOVES.
+
+To quote Steve Jobs, “put something back to the humanity.”
+
+Most importantly, I feel grateful this is not just my life’s work—but many people’s at Notion.
+
+There have been many highs & lows over the last 5+ years to make this real.
+
+Today, we are grateful that Notion might have touched & helped 100M of you in your work and lives.
+
+An ode to the computing pioneers: Software can augment human intellect.
+
+An ode to the craft: Software can and should be beautiful.
+
+Looking ahead to 1B :–)

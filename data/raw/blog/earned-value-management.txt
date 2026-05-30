@@ -1,0 +1,139 @@
+Title: How data from earned value management sets you up for success
+Published Date: 2023-10-17T00:00-03:00
+URL: https://www.notion.so/blog/earned-value-management
+
+In project management, promptly detecting potential issues is invaluable.
+
+Earned value management (EVM) is a detection method that acts as your early warning system, helping you spot problems before they become major roadblocks. With a number of formats, EVM takes the guesswork out of problem mitigation and replaces it with data-driven insights.
+
+What’s earned value in project management?
+
+EVM is a project management technique for measuring scope, schedule, and cost performance. It helps managers, team members, and clients fully understand the project's progress by comparing the value of work achieved against the planned value and actual costs incurred.
+
+Moreover, EVM helps you answer critical questions about your project, such as:
+
+How much progress have we made?Are we on schedule?Are we within budget?Where are potential roadblocks?What adjustments do we need to make?
+
+How much progress have we made?
+
+Are we on schedule?
+
+Are we within budget?
+
+Where are potential roadblocks?
+
+What adjustments do we need to make?
+
+Suppose you're halfway through a project's timeline and have spent 40% of your budget. If you only consider these two variables, it may look like the project is progressing as planned — even slightly under budget. But that’s insufficient information to determine if the project is running ahead or behind schedule.
+
+Earned value management formulas allow you to estimate effort spent and the exact value of the work performed at each stage. This way, you can identify variances to understand if your current project tracking strategy is keeping your project on course for a successful completion.
+
+The benefits of implementing an earned value management system
+
+EVM is your compass, helping you identify if your project is veering off track. This control method also allows you to:
+
+Map work with costs, reducing unknowns into quantifiable factors — EVM transforms abstract project progress into concrete figures. This lets project managers identify the exact status of completed work within a project, providing a clear picture of its value stream mapping's health. Compare the current status against the project baseline — managers use EVM to compare the project's current state with the initial plan, helping pinpoint areas where the project is ahead or behind schedule and budget.Create data-based strategies — with EVM, managers don’t follow hunches or assumptions when making decisions. Instead, they rely on data to make more informed and effective choices. Intervene ahead of time — project managers can take proactive measures to reduce risks and prevent costly delays by identifying potential variances early.
+
+Map work with costs, reducing unknowns into quantifiable factors — EVM transforms abstract project progress into concrete figures. This lets project managers identify the exact status of completed work within a project, providing a clear picture of its value stream mapping's health.
+
+Compare the current status against the project baseline — managers use EVM to compare the project's current state with the initial plan, helping pinpoint areas where the project is ahead or behind schedule and budget.
+
+Create data-based strategies — with EVM, managers don’t follow hunches or assumptions when making decisions. Instead, they rely on data to make more informed and effective choices.
+
+Intervene ahead of time — project managers can take proactive measures to reduce risks and prevent costly delays by identifying potential variances early.
+
+Promote visibility and accountability with stakeholders — EVM provides clear metrics that all stakeholders can understand, promoting transparency and fostering a sense of responsibility among teams. Using tools like Notion's budget tracker template, for example, helps keep everyone involved up to date, making it easier to collaborate and achieve project success.
+
+Earned value management examples
+
+While EVM shines in specific project scenarios, it may not be necessary for others. Whether it suits your project depends on several factors, such as its scale, complexity, and risk level. Here are some examples of when and when not to apply EVM.
+
+Ideal projects for EVM
+
+Large, complex development projects — when your project contains many complex and interlocking pieces, EVM helps bring order to the chaos.Engineering and construction capital investments — major construction projects and engineering endeavors often involve complex cost-benefit analyses, substantial budgets, and intricate timelines, making EVM an indispensable tool.Major cost-plus contracts — due to their complexity, projects with high risks or those exceeding $20 million in value benefit from EVM's rigorous tracking and oversight.
+
+Large, complex development projects — when your project contains many complex and interlocking pieces, EVM helps bring order to the chaos.
+
+Engineering and construction capital investments — major construction projects and engineering endeavors often involve complex cost-benefit analyses, substantial budgets, and intricate timelines, making EVM an indispensable tool.
+
+Major cost-plus contracts — due to their complexity, projects with high risks or those exceeding $20 million in value benefit from EVM's rigorous tracking and oversight.
+
+Projects that may not require EVM
+
+Software projects using Agile methodologies — Agile projects thrive on flexibility and adaptability, which may not fully align with the structured approach of EVM.Rapid prototyping projects — projects focused on quick iterations and experimentation might find EVM's detailed tracking overly cumbersome.Operational, sustainment, and services projects — these projects often focus on efficient service maintenance and delivery rather than product development. They require different tools prioritizing resource allocation and service optimization over EVM's strict project timelines and cost controls.Small, short-term projects — for these, EVM might introduce unnecessary complexity. Less complex projects can benefit more from streamlined methods tailored to their scale and duration.
+
+Software projects using Agile methodologies — Agile projects thrive on flexibility and adaptability, which may not fully align with the structured approach of EVM.
+
+Rapid prototyping projects — projects focused on quick iterations and experimentation might find EVM's detailed tracking overly cumbersome.
+
+Operational, sustainment, and services projects — these projects often focus on efficient service maintenance and delivery rather than product development. They require different tools prioritizing resource allocation and service optimization over EVM's strict project timelines and cost controls.
+
+Small, short-term projects — for these, EVM might introduce unnecessary complexity. Less complex projects can benefit more from streamlined methods tailored to their scale and duration.
+
+Earned value management core formulas
+
+EVM uses different formulas to assess project performance. This information helps project managers proactively address issues and ensure initiatives stay on track.
+
+Here are a few of the most common formulas.
+
+Planned value (PV): The starting point
+
+PV represents the value of the work you schedule to complete by a specific point in the project timeline. It’s often called the budgeted cost of work scheduled (BCWS), and it sets the baseline for your project's financial progress.
+
+Actual costs (AC): The reality check
+
+Also known as the actual cost of work performed (ACWP), AC provides a reality check by capturing the actual costs incurred in performing the work at a specific point in the project timeline.
+
+Earned value (EV): Measuring progress
+
+EV measures the value of the work completed at a specific point in the project timeline. Also called the budgeted cost of work performed (BCWP), it quantifies progress and is a critical indicator of project advancement.
+
+Variance analysis: Course correction
+
+Variance analysis compares PV, AC, and EV to assess project performance. It helps you understand where your project stands and identifies divergences between planned and actual progress. Variances are divided according to schedule and costs:
+
+Schedule variance (SV) measures the difference between the EV and the PV. It reveals whether your project is ahead, on, or behind schedule at a specific time. To calculate it, subtract the PV from the EV. A positive SV indicates you're ahead of schedule, while a negative SV signals potential delays.Cost variance (CV) measures the difference between the EV and the AC to indicate whether the project is under or over budget. It's calculated by subtracting the AC from the EV. A positive CV means you're under budget, while a negative CV suggests potential cost overruns.
+
+Schedule variance (SV) measures the difference between the EV and the PV. It reveals whether your project is ahead, on, or behind schedule at a specific time. To calculate it, subtract the PV from the EV. A positive SV indicates you're ahead of schedule, while a negative SV signals potential delays.
+
+Cost variance (CV) measures the difference between the EV and the AC to indicate whether the project is under or over budget. It's calculated by subtracting the AC from the EV. A positive CV means you're under budget, while a negative CV suggests potential cost overruns.
+
+Performance indexes: Efficiency metrics
+
+Performance indexes are ratios that provide insights into project efficiency concerning schedule and costs:
+
+Schedule performance index (SPI) measures your project's efficiency in terms of schedule. It's calculated by dividing the EV by the PV. An index greater than one indicates that you're ahead of schedule, while a value less than one suggests delays. Cost performance index (CPI) evaluates your project's cost efficiency. It's calculated by dividing the EV by the AC. An index greater than one indicates that you're under budget, while a CPI less than one signals potential cost overruns.
+
+Schedule performance index (SPI) measures your project's efficiency in terms of schedule. It's calculated by dividing the EV by the PV. An index greater than one indicates that you're ahead of schedule, while a value less than one suggests delays.
+
+Cost performance index (CPI) evaluates your project's cost efficiency. It's calculated by dividing the EV by the AC. An index greater than one indicates that you're under budget, while a CPI less than one signals potential cost overruns.
+
+Earned value management analysis fundamentals
+
+EVM involves five core components, all of which assist in analyzing a project's status and track its progress. These fundamentals serve as your project management compass, guiding you toward success.
+
+1. Organization and project scope
+
+Begin by clearly defining your project's objectives, scope, and deliverables. Ensure your project goals align with your organization's broader objectives, as EVM is most effective when it syncs with individual and organization-wide targets.
+
+2. Planning, scheduling, and budgeting
+
+Craft a comprehensive project plan that includes detailed schedules and budgets. This involves breaking project work into manageable tasks and allocating resources wisely.
+
+3. Accounting considerations
+
+Establish consistent accounting practices and cost allocation methods. Accurate financial data is essential for EVM analysis — ensure that financial records are current and align with your project's financial objectives.
+
+4. Analysis and management reports
+
+At the core of EVM, analysis and reporting are critical to gain insights into your project’s progress. Generate management reports that provide a clear overview of your project's status. Use these reports to communicate effectively with stakeholders, ensuring everyone is on the same page.
+
+5. Revision and data maintenance
+
+EVM is an ongoing process. As your project progresses, update your plans, schedules, and budgets to reflect the current reality. Maintain accurate project data records to ensure that your EVM analysis remains reliable.
+
+Track project value with Notion
+
+EVM equips you with the numbers and other relevant data you need to make informed choices. And with the help of Notion's customizable tools, you can transform the way you manage projects.
+
+Try Notion today to streamline and track your efforts, perform a cost-benefit analysis in seconds, and register project risks for a complete assessment of your project's health.

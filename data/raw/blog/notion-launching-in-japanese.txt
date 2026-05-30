@@ -1,0 +1,29 @@
+Title: Notion is now in Japanese! みなさん、こんにちは！
+Published Date: 2021-10-13T14:30-07:00
+URL: https://www.notion.so/blog/notion-launching-in-japanese
+
+When Notion's CEO Ivan first approached me about growing Notion's presence in Japan, I was surprised by a few things. First, that a company so small (only 58 people at the time) wanted to meaningfully invest in the Japanese market. Second, that there was already a huge, vibrant community using the product in English — very rare for Japan. And third, that Ivan and Notion already had roots in the country.
+
+In 2015, after the first iteration of Notion had failed, Kyoto is where Ivan and his co-founder Simon decided to rebuild. When I asked Ivan why he chose Japan at such a moment, he told me, "The culture values such exquisite craftsmanship. It embodies all the things I wanted Notion to be."
+
+That kindred feeling has only grown since. Japan is now one of Notion's leading markets, with 4x growth in daily active users just in the last year — many of them growing startups and large enterprise companies like Sompo Light Vortex, RAKSUL and SmartNews.
+
+So today, I'm thrilled to announce that Notion is launching in Japanese. As a team dedicated to making tools that work exactly how users want them to work, we're really excited to take a big step toward making Notion feel native and intuitive to millions more people. Starting now, Japanese language is available in beta on web, with mobile and desktop apps rolling out in batches over the next couple weeks.
+
+This comes at a pretty timely moment. Every day, I see large enterprises with historically strong in-person cultures use Notion to transition to hybrid work. I've also seen Japan's growing startup scene gravitate to Notion as an operating system to run their companies. All of this only becomes better, easier, and more impactful now that the product is in Japanese. It's an honor to provide tools to help folks thrive right now.
+
+All that said, the tools alone are not enough. We also want to help our community succeed at whatever they want to do with them. That's why, in addition to localizing Notion the product, we're also launching dedicated customer support in Japanese, as well as translated help articles, customer stories, and templates to help you get started. You can find all of these resources here, and try the templates directly in the product. We're also bringing together community members to share tips and lessons with each other — first at this community celebration in honor of today's launch — and more future events.
+
+Our global approach
+
+Launching in Japanese is one piece of a bigger puzzle. Our users have been overwhelmingly international from the very beginning, with over 80% outside the U.S. across 28 countries. The fact that we're still only in English in most places shows how the product has tapped into something. No matter where people are, they use it to organize and express the things that matter most to them.
+
+This is what we want to enable by being present around the world. I'm in Tokyo, building a team here. But we also have a number of folks on the ground in Europe in our Dublin headquarters, helping serve the growth we're seeing in the UK, France, Germany, and throughout the continent. We're gearing up for more languages to make Notion accessible in these regions. And we're reinforcing our presence in Korea — where we launched in the local language last year — by adding teammates focused on helping customers succeed.
+
+In all these places and beyond, we're fortunate to have enormous communities supporting and sharing resources with each other, like our 50K-strong Arabic and 20K-strong Taiwanese groups. Watching people meet and build relationships through Notion is one of the most rewarding parts of this job. We're excited to fuel it however we can.
+
+One thing that's always resonated with me about Notion's mission is our belief that software should adapt to you, not the other way around. As we get to know more people around the world, it's clear how core language is to making a tool, and a space, feel like home. We want Notion to feel like it was built in every country where people use it. In Japan's case, we're so glad to be able to say this is true.
+
+To access our product, resources, and guides in Japanese, please visit our Japanese website!
+
+Go to our Japanese blog →

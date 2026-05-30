@@ -1,0 +1,69 @@
+Title: 10 best chrome extensions to elevate your productivity
+Published Date: 2021-09-29T00:00-06:00
+URL: https://www.notion.so/blog/10-best-chrome-extensions-to-level-up-productivity
+
+Web browsers are an invaluable component to most work, but they’re also a main source of distraction. Sure, a Twitter break is fine and good. But it’s easy to end up down the rabbit hole — like that time you watched an hour of slow-motion videos of dogs jumping into swimming pools to catch tennis balls. Browser distractions can have a ripple effect on company-wide productivity. A study by researchers at the University of California, Irving, found that it takes an average of 23 minutes and 15 seconds to get back to a task after being distracted.The right Chrome extensions can help you and your team curb the most distracting parts of the web. We’ve pulled together a list of the best Chrome extensions for productivity to keep your team mostly focused and only watching a few minutes at a time of those hilarious dogs swimming underwater to play fetch.
+
+1. Notion Web Clipper stores the important parts of the internet in your knowledge base
+
+Notion Web Clipper lets you save any page on the web to your Notion workspace. Notion’s Web Clipper is a useful tool for quickly pulling in websites for things like mood boards, benefits portals, news databases, and more.
+
+For teams using Notion, this Chrome extension is a great way to quickly consolidate all that information from across the web that helps them work — everything from inspiration to resources.Add Notion Web Clipper to Chrome
+
+2. Toggl Track helps with manual time tracking
+
+Time-blocking is an effective productivity strategy — if you’re able to stick to the time you’ve allotted for particular tasks. Toggl Track allows you to keep track of how much time you spend on each task. This extension helps you keep track of one of your most precious resources — time. So even if you don’t time-block on your calendar, Toggl Track helps keep you from spending too much time in the weeds.
+
+With Toggl Track, users can see which apps or websites they spend the most time on, and access detailed reports. Plus, you can see how much time is spent on certain tasks, like 10 hours a week re-writing copy or 5 hours a day responding to emails.Adding Toggl Track to your team’s Chrome productivity stack helps keep time top of mind — and that’s especially important at a fast-moving startup, where you need to ruthlessly prioritize work, optimize processes, and streamline your work.Add Toggl Track to Chrome
+
+3. StayFocusd automatically restricts time spent on distracting websites
+
+If you ever need to go cold turkey on accessing distracting websites, StayFocusd is the productivity extension for you. StayFocusd keeps you on task restricting the amount of time you can spend on time-wasting websites. After you've used up your allotted time, the sites you've blocked will be unavailable for the remainder of the day.
+
+It's highly configurable, allowing you to block or allow entire sites, specific subdomains, specific paths, specific pages, even specific in-page content (videos, games, images, forms, etc).Add StayFocusd to Chrome
+
+4. 1Password enables quick and secure access across your tools
+
+1Password is a password manager that saves your login credentials across your devices. This tool is great for teams that need to securely share access to different tools. It also reduces the time spent looking for login details, letting everyone focus on their tasks.This extension also allows you to develop strong passwords to replace weak ones and make rapid purchases by adding credit cards and shopping profiles. The Chrome extension also automatically logs you into sites where you've previously saved passwords.
+
+1Password offers a Teams Starter Pack that could be great for startups — teams with 10 members or less can get started for $19.95.Add 1Password to Chrome
+
+5. Writer keeps your brand voice consistent across your team
+
+With all the writing you do in a single day, mistakes are bound to happen — that’s why you need Writer. It helps reduce the time spent drafting internal and external docs — time otherwise spent on making sure they’re consistent with your brand voice.
+
+Writer allows you to turn your style guide into real-time suggestions and scale your startup’s writing style to your whole team. Whatever your team is writing, you can use this extension to help everyone write in the right brand voice. It also makes your writing process more efficient with autocorrections, and phrase completion. Writer also offers a handy feature called Snippets, which is a shortcut that allows you to insert prewritten text into emails and documents. This way, you don’t have to type the same thing twice. Add Writer to Chrome
+
+6. OneTab reduces tab clutter
+
+Do you ever find yourself overwhelmed by the sheer amount of tabs you have open? OneTab allows you to convert all of your tabs into a list, increasing focus in the process. You can restore the tabs individually or all at once if you need to access them again.
+
+This extension is great for days filled with overwhelming research — keeping your browser clutter-free so you’re able to concentrate on the work at hand.Add OneTab to Chrome
+
+7. Loom simplifies video creation and sharing
+
+If you’ve ever needed to quickly guide a colleague through a task on video or record a quick message for a meeting, Loom might just be for you. Using Loom, you can easily record your screen in and out of your browser, allowing anyone to create videos for a range of use cases — from employee onboarding to customer support.
+
+This Chrome extension improves productivity by helping teams execute asynchronous video communication efficiently. Loom also helps improve team alignment by quickly giving anyone the right context to jump in and help with important projects. Add Loom to Chrome
+
+8. DocuSign allows you to sign documents anywhere, anytime
+
+Nothing slows processes down quite like having to print out a form to sign it, then rescan it to send it digitally. The extension DocuSign allows you to easily sign online from your Gmail.
+
+With this Chrome extension, you can opt for a digital signature that will allow you to complete that task without printing anything. Users are also sent alerts when documents need attention, ensuring that approvals move quickly.Add DocuSign to Chrome
+
+9. Zoom Scheduler gets people in the same digital room with one click
+
+If your team has meetings via Zoom, then Zoom Scheduler will be one of the best Chrome extensions for team productivity. The Zoom Chrome Extension allows participants to schedule Zoom meetings quickly, without having to leave the browser.
+
+With this Chrome extension, you can start an instant meeting or schedule a future meeting. The meeting URL and information are sent via a Google Calendar invitation so attendees can join with a single click.Add Zoom Scheduler to Chrome
+
+10. Calendly allows you to efficiently schedule meetings with external stakeholders
+
+Calendly syncs with your personal and professional calendars to save you time and make connecting with individuals outside your workplace easier. No more of those back-and-forths trying to figure out what time works for everyone.
+
+With Calendly, users can save time on finding a meeting time that works for everyone and automate invite sends and reminders.Add Calendly to Chrome
+
+Use these Chrome extensions to boost team productivity
+
+Improving team productivity can have compounding effects on your team and your company — vital factors for a startup at any stage. However, it’s easy to get carried away with the many tools on the internet at the risk of overwhelming your team members. You don't have to implement all of these Chrome extensions, especially if team members already have tools that work for them. Focus on which tools provide the most utility for your team members and encourage their consistent usage.

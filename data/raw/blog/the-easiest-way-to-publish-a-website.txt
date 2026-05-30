@@ -1,0 +1,39 @@
+Title: The easiest way to publish a website
+Published Date: 2024-06-25T08:00-07:00
+URL: https://www.notion.so/blog/the-easiest-way-to-publish-a-website
+
+Cory, our video lead, is also a birder. He and his wife use Notion to track the Canada Geese and Northern Shovelers they’ve spotted at local parks in Brooklyn. They decided to turn the database into a website so other enthusiasts could follow along.
+
+Shaquana, from our marketing team, did the same after stumbling upon a “life-changing” bakery in Japan. When friends asked her for recommendations for an upcoming trip, she figured it might be helpful to others, too, and hit publish on her travel guide.
+
+When our Community team wanted to help Campus Leaders serve their ever-growing Notion student groups, they built a plentiful page of resources and pushed it live in one click.
+
+Web publishing can be daunting. Designing a page, finding a domain, setting up analytics, SEO, site management—and that’s before you start drafting the actual content.
+
+We saw an opportunity to make creating and publishing a website faster and easier for everyone, no matter how big or small your idea. So we built Notion Sites. It’s a better way to launch a beautiful site in minutes.
+
+Let me show you how it works.
+
+1. Start with a Notion template or doc
+
+It all starts with building a page from one of our hundreds of templates or creating a doc from scratch using the same Notion blocks you’re familiar with—a callout, a gallery view, headlines and subheads—what you see on your Notion doc is what you get on your site.
+
+When you’re ready to publish, all it takes is one click, et voilà—your website is live on the web.
+
+2. Make it yours
+
+Customize your site with new features like changing the preview thumbnail, adding a custom favicon to give your page spark, then choosing light or dark color themes for the final touch.
+
+It’s no longer just a page. It’s your business landing page, or blog, or help center. And you can now connect it to a custom URL or personalized Notion domain.
+
+3. Build your audience
+
+Managing your website requires ongoing upkeep, whether you’re trying to get a handle on search engine rankings or tracking traffic to your page. Notion Sites brings all that into one place.
+
+You can set up custom SEO settings, like your page title and meta description, to make sure you show up in search, then click the “Discoverable on the web” toggle. And with our with Google Analytics integration, you can easily track your site's performance.
+
+You now have the tools you need to share your ideas with the world, and it’s all built into your Notion workspace.
+
+Ready to publish? Start here.
+
+And please share a link with us on social (@NotionHQ)—we can’t wait to see what you create!

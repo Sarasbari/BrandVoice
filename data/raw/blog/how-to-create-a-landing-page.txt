@@ -1,0 +1,125 @@
+Title: How to create a landing page that turns new visitors into top customers
+Published Date: 2023-10-17T00:00-03:00
+URL: https://www.notion.so/blog/how-to-create-a-landing-page
+
+Looking at the sheer volume of existing websites (over a billion), it might seem overwhelming to try to build something new, much less something people would actively seek.
+
+But once you understand how to create a landing page that’s engaging and effective, this process isn’t as overwhelming. You don’t need to know how to code websites or create videos — you just need a clear vision for your landing page and a straightforward template to help you begin.
+
+What’s a landing page?
+
+A landing page is a web page on your site that you send viewers to via strategically placed links in other content, like emails, articles, and social posts. For instance, you might send out an email campaign discussing a new product offering with a link to the product’s landing page on your site.
+
+While often confused with a site’s homepage, landing pages focus on specific offerings and homepages offer a more comprehensive overview of a company’s products and services with links out to various focused landing pages.
+
+Most landing pages aim to collect visitor information. Most often, these pages prompt users to provide contact information and, in exchange, grant access to more of the site’s content or features.
+
+Think about your own experience searching the internet. If you look up “www.notion.so,” you’ll land on Notion’s homepage, where you can access links to landing pages for various offerings, like Notion AI.
+
+For most organizations, the main benefit of having a strong landing page is that it increases the bottom line. A solid page converts visitors to leads, increases your pipeline, and drives more sales. To create a well-structured landing page, many teams rely on Notion’s landing page guide, which offers a step-by-step outline of the entire process.
+
+What are the different types of landing pages?
+
+Landing pages typically fall into two categories: Lead generation and click-through.
+
+1. Lead generation landing pages
+
+Lead gen pages have a form visitors fill out to receive a special offer. They provide information like their name, phone number, and email address in exchange for a worthwhile product or service. Examples include:
+
+eBook landing pages — an eBook landing page offers a digital book download in exchange for someone’s contact information. Webinar landing pages — on webinar landing pages, companies collect new leads, and visitors gain access to exclusive content.
+
+eBook landing pages — an eBook landing page offers a digital book download in exchange for someone’s contact information.
+
+Webinar landing pages — on webinar landing pages, companies collect new leads, and visitors gain access to exclusive content.
+
+2. Click-through landing pages
+
+A click-through page gets straight to the point and asks for a sale or subscription. Usually, a simple button on the page directs the visitor to a new page that encourages them to enter payment information. Examples include:
+
+Sales landing pages — whether shopping for clothes, electronics, or jewelry, you’ll find yourself on sales landing pages that show you all the highlights of the product you’re interested in and how to buy it.Signup landing pages — signup landing pages promise recurring value (like a subscription or newsletter opt-in) in exchange for user information.
+
+Sales landing pages — whether shopping for clothes, electronics, or jewelry, you’ll find yourself on sales landing pages that show you all the highlights of the product you’re interested in and how to buy it.
+
+Signup landing pages — signup landing pages promise recurring value (like a subscription or newsletter opt-in) in exchange for user information.
+
+How to create a landing page: 8 steps
+
+Whether coding the page from scratch, relying on a template, or using a landing page builder, here’s an eight-step guide to creating successful landing pages.
+
+1. Define clear goals
+
+Every landing page’s goal is to attract leads. To refine this larger objective, set definitive goals by asking yourself questions like:
+
+Who are my leads? How many do I need? What part of the sales funnel am I targeting?
+
+Who are my leads?
+
+How many do I need?
+
+What part of the sales funnel am I targeting?
+
+Considering these factors helps you focus your efforts and informs how you create and circulate your page.
+
+2. Create a hierarchy of elements
+
+Think of a landing page as a pyramid. At the top of the page, there are just a few critical elements: a headline, brief description, and form for visitors to fill out. Below, there’s room to describe your offering and distinguish yourself from the competition.
+
+3. Drive action with a compelling call-to-action
+
+A call-to-action (CTA) directly encourages the visitor to fill out a form, enter an email address, or purchase a product. When writing a CTA, put yourself in the mindset of your target audience and deliver a message that relates with them.
+
+It's common for teams to practice A/B tests on CTAs by running multiple iterations of the same landing page to see which performs best. Tools like Notion's growth marketing testing roadmap template make tracking the results easy by organizing metrics that help evaluate the data.
+
+4. Design to attract
+
+Brush up on basic website design techniques and look at landing page examples for inspiration. You can outsource any design tasks you can’t complete to a professional designer.
+
+5. Use a personal and empathetic tone
+
+Distinguish yourself by writing like a real person would to another. To connect with your visitors, put yourself in their shoes while you write and imagine their experience of reading your content. Finding the right tone will help you relate to and connect with your readers.
+
+6. Remember: People like pictures
+
+What would you show if you only had one image to make a sale? Put that image at the top of the landing page, and below, you'll have more room to fill in the details.
+
+7. Highlight product value
+
+Write enticing product descriptions that also serve as endorsements. Rather than simply stating a product’s basic information, use descriptive language to make what you’re selling more appealing. For example, if you’re selling a foam mattress, open the product description promising “nights of uninterrupted deep sleep on a cloud.”
+
+8. Be direct
+
+It might seem daunting to make a direct sales pitch as you don’t want to appear too aggressive and turn potential customers away. But consumers often prefer a straightforward approach so they understand the goal of the landing page. As long as you strike the right tone, a direct message assists in converting visitors to customers.
+
+How to drive traffic to your landing pages: 5 methods
+
+When getting started, these five strategies can jumpstart your efforts and increase traffic to your landing pages.
+
+1. Send potential customers something valuable
+
+Email marketing has great potential for growing a business, and linking your landing page to email campaigns is a great way to maximize opportunity. If you have an email list, build a landing page that meets your audience’s specific needs and circulate it through curated emails. For example, if visitors enter their contact information on your landing page, follow up with an automated email sharing a unique promotional code.
+
+2. Leverage search engine optimization (SEO)
+
+To optimize for SEO and bring your landing pages to the top of Google search results, you need to understand search queries, search engine preferences, and how to improve user engagement.
+
+There are many SEO-focused tools, such as Google Analytics for keyword research, Surfer SEO for formatting and keyword optimization, and Grammarly for readability.
+
+3. Invest in paid advertising
+
+If you have the budget, purchase advertising space so your landing page appears at the top of search engine results, and be sure to search optimize your ads.
+
+While a tempting shortcut, remember that an ill-planned marketing campaign can dry up a budget with minimal results. You need to understand your acquisition pipeline, target a relevant audience, and create an appealing advertisement — and that's just to bring people to your landing page, which you must optimize for lead conversion.
+
+4. Tap into your network of influencers
+
+The next time your brand campaigns need to catch up to quotas, consider this: Rather than targeting 100 potential customers, you could target one highly influential person who will encourage 100 other people to become customers.
+
+If you're lucky, you have influencers in your network you can strike a deal with for advertising. But if you need some help getting connected, networking websites like Upfluence and Fiverr can assist with introductions.
+
+5. Start with a template
+
+With so many designs, formats, and content directions to choose from, starting to build your landing page can be the most challenging part. Teams often rely on templates, like Notion's 1,000 landing page prompts, for inspiration and direction.
+
+Implementing landing page best practices with Notion
+
+Crafting and using a landing page takes creativity, storytelling, and organizational skills. And Notion helps on all fronts with templates that put you on the right track to creating a landing page that converts leads. Sign up for Notion today to enjoy connecting with a broader audience and increasing your customer base.

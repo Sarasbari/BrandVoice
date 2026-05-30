@@ -1,0 +1,101 @@
+Title: How float in project management boosts team productivity
+Published Date: 2023-09-25T00:00-05:00
+URL: https://www.notion.so/blog/float-in-project-management
+
+In a perfect world, projects go from idea to completion without a hitch.
+
+But we all know that nothing is ever seamless. Equipment breaks, supplies delay, and you need to shift due dates around — all of which can hinder even the best planning.
+
+As a project manager, you need a way to identify and mitigate potential setbacks to meet deadlines and keep stakeholders happy. This is where float in project management comes into play.
+
+What is float in project management?
+
+Put simply, float is the amount of flexibility in your project’s schedule. It’s the amount of time a project, task, or activity can slip before causing adverse effects on overall completion.
+
+You can use float to manage time and keep your schedule on track by determining which tasks can shift and which can’t, whether that’s because others are dependent on them or they’re the final layer in a key deliverable. Managing float is often a key component in determining critical and non-critical tasks, giving you the insight you need to set priorities and create a realistic timeline.
+
+Why float matters
+
+Knowing the float for different projects and tasks helps you set accurate, achievable goals through better scheduling and resource allocation. It also gives you the information you need to realistically manage risks and plan for likely setbacks. This wiggle room enhances  by allowing you to monitor, adjust, and prioritize time-sensitive tasks in a way that increases efficiency while allowing for contingencies.
+
+Here are some key benefits float offers to your project management process:
+
+Progress monitoring — float helps you accurately track the progress of tasks that impact your project the most, so you can adjust expectations and deadlines if and when delays occur.Efficiency and productivity — you can use any float to ensure the most time-sensitive tasks stay on schedule. You’ll avoid any oversights when laying out the order of tasks and push back the most flexible ones instead of vital puzzle pieces. Task prioritization — float lets you outline each phase of your project to determine the order of the tasks by importance, helping everyone involved delegate and track high-priority to-dos.Team morale — seeing float times tells team members when they’re on track, showing them where they’re doing well.
+
+Progress monitoring — float helps you accurately track the progress of tasks that impact your project the most, so you can adjust expectations and deadlines if and when delays occur.
+
+Efficiency and productivity — you can use any float to ensure the most time-sensitive tasks stay on schedule. You’ll avoid any oversights when laying out the order of tasks and push back the most flexible ones instead of vital puzzle pieces.
+
+Task prioritization — float lets you outline each phase of your project to determine the order of the tasks by importance, helping everyone involved delegate and track high-priority to-dos.
+
+Team morale — seeing float times tells team members when they’re on track, showing them where they’re doing well.
+
+5 types of float in project management
+
+There are several types of float out there, depending on the type of task and how flexible it really is. Having a grasp of each of them can help you organize tasks and create strong schedules that lead the team to success.
+
+The main types of float are:
+
+Total float — this type bases itself on the overall project timeline by indicating which tasks can afford delay without affecting the final outcome.Free float — free float in project management refers to how long a specific task can come in late before it affects the next, as opposed to how it affects the project as a whole.Project float — project float is the amount of allowable delay time before affecting the customer or end user. If you don’t have a ton of project float, you might set an internal completion date that differs from the customer-facing completion date to allow some buffer time.Interfering float (INTF) — INTF refers to float times on the non-critical tasks that have less impact on your project’s outcome. These don’t stall the commencement of critical tasks.Independent float (INDF) — INDF is the maximum amount of delay time a critical task can have without pushing the next one.
+
+Total float — this type bases itself on the overall project timeline by indicating which tasks can afford delay without affecting the final outcome.
+
+Free float — free float in project management refers to how long a specific task can come in late before it affects the next, as opposed to how it affects the project as a whole.
+
+Project float — project float is the amount of allowable delay time before affecting the customer or end user. If you don’t have a ton of project float, you might set an internal completion date that differs from the customer-facing completion date to allow some buffer time.
+
+Interfering float (INTF) — INTF refers to float times on the non-critical tasks that have less impact on your project’s outcome. These don’t stall the commencement of critical tasks.
+
+Independent float (INDF) — INDF is the maximum amount of delay time a critical task can have without pushing the next one.
+
+How to calculate float in project management
+
+Every task and project is different, but that doesn’t mean there aren’t basic standards in place to help you calculate float time. Just be sure to adjust according to your team’s needs.
+
+To accurately devise your float calculation, follow these five steps:
+
+1. Identify your project's critical path
+
+The critical path is the sequence of tasks that depend on each other during your project's duration. A delay on any tasks along the critical path will directly impact the project's timeline, which is why it’s so important to know. Before you start calculating float, identify which tasks are critical and which are non-critical, and where they each fit into the whole.
+
+Many project managers incorporate RICE prioritization — which stands for reach, impact, confidence, and effort — to help clarify goals, tasks, and personnel during this process. Once you know your critical path, create a flowchart everyone can access.
+
+2. Establish early start (ES) and early finish (EF) dates
+
+The ES is the earliest possible date that your team can begin a project's task, which you’ll set after confirming its dependencies on other tasks (if any). The EF date is the earliest possible date that your team can complete a task, considering the completion of other interdependent tasks.
+
+3. Determine late start (LS) and late finish (LF) dates
+
+The LS is the last possible date to begin a task before it affects your critical path or the project’s completion. And the LF is the latest you could finish. Try to set ES, EF, LS, and LF dates for every step in your project’s pipeline to help keep track of your schedule.
+
+4. Calculate total float
+
+Total float is the amount of time you can delay any activity without affecting your finish date. You can usually calculate it with this mathematical formula: LS – ES = total float. The final number represents the number of days you have to finish.
+
+If you determine that the earliest your team can develop an app feature is by October 10th and the latest possible date is October 13th, your total float is three days. The tasks with the least total float are typically part of your critical path — their short turnaround means even the smallest delays affect the whole.
+
+5. Analyze your float results
+
+Identify which activities have the least float (or even zero float) and keep a close eye on them. For really high-risk tasks, give a couple of extra days over your total float just to be safe. That flexibility could be the difference between a successful project and one that doesn’t meet the mark.
+
+Example of float in project management
+
+Let’s put float into practice by looking at a quick example. You and your team need to produce a marketing campaign for a client’s new product launch. They want you to finish the campaign in time for the holidays, which gives you 10 weeks.
+
+For simplicity, let’s assume the two main tasks that need completing are:
+
+Market researchCreating and designing promotional material
+
+Market research
+
+Creating and designing promotional material
+
+You’ve calculated the total float time for market research as five weeks, and you need to finish it before you can begin working on the promotional material. This makes market research a critical task, so you aim to finish it first. Then you can move on to creating the material itself, which has a total float of three weeks — giving you two weeks extra for delays.
+
+Now imagine you don’t finish the research on time. It takes longer than you expect to put together a focus group, and your analysts are working overtime. You’re late by about a week. Thankfully, you still have a week of leeway because of the extra time you budgeted previously. That’s why it’s so vital to think ahead and leave wiggle room for when something comes up.
+
+Using the right tools
+
+Keeping track of float for every task offers the insight you need to complete projects on time, all the time. But calculating it is one thing — tracking it can get a little more complicated.
+
+Notion’s project management platform offers tools and templates to help you along the way, like the ultimate productivity tool and task tracker. You can also keep tabs on your team’s goals and celebrate your wins together in one digital workspace.

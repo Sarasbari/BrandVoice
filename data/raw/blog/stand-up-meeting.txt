@@ -1,0 +1,97 @@
+Title: What’s a stand-up meeting, and how can you make them more productive?
+Published Date: 2023-07-28T00:00-06:00
+URL: https://www.notion.so/blog/stand-up-meeting
+
+No matter where you work, you likely have recurring meetings — from one-on-ones to client kick-offs. And if you carry a leadership role, you might even feel like your day consists of meetings broken up by meals and bathroom breaks.
+
+While sometimes tedious, for the most part, meetings serve a beneficial purpose. Teammates share information, gather data, and plan projects. And with a good meeting agenda, the only impediment to a team meeting is keeping everyone on task and focused.
+
+One of the most efficient meeting formats is the stand-up meeting, a frequent discussion that encourages collaboration and is invaluable within Agile project management.
+
+What’s a stand-up meeting?
+
+A stand-up is a quick and recurring standing meeting where a team reviews pending tasks, completed objectives, and next steps. While originally conducted in-person and standing, nowadays, most Agile teams attend these chats virtually and sitting.
+
+Stand-up meetings originated within the Scrum project management methodology, with some folks calling them daily Kanban meetings. Now, departments across industries use these frequent chats to check in with team members and ongoing objectives.
+
+The beauty of stand-ups is their efficiency — they’re quick, to-the-point communication points where team members briefly update their coworkers on current tasks. That's why there isn't a Scrum or Agile sprint that doesn't include daily stand-ups. They’re one of the best ways to communicate with your team without impacting workflow or project progress.
+
+What’s the purpose of daily stand-up meetings?
+
+Most stand-up meeting agendas focus on answering the following three questions:
+
+How did task work go yesterday?What are today's tasks?Are there any bottlenecks?
+
+How did task work go yesterday?
+
+What are today's tasks?
+
+Are there any bottlenecks?
+
+If hosted weekly, you’d check in on the previous week’s work and discuss the following week’s items. The aim of these check-ins is to help project managers gain visibility into everyone’s progress so they can make adjustments as necessary and update external stakeholders. These meetings also illuminate useful information for fellow teammates, as employees have the chance to ask where tasks are or offer help if someone feels overwhelmed.
+
+4 benefits of running stand-up meetings
+
+On top of visibility, stand-ups offer the following benefits:
+
+More alignment — a daily stand-up meeting avoids the pitfalls of impromptu hallway and cubicle conversations. There's less risk of miscommunication or the redundancy of misallocated resources. Instead teammates huddle to discuss progress and goals, keeping the process productive.Teammates can communicate roadblocks — one of the most significant benefits of holding daily stand-ups is the opportunity to discuss and clear roadblocks. Team members can provide insights that address your stopping points, and project managers can let external stakeholders know if a challenge is insurmountable.Better teamwork — generally, stand-ups average 5–15 minutes, allowing collaboration without damaging schedules or wasting time. This may seem like insufficient time, but when performed daily, it goes a long way toward creating a cohesive team, especially if some employees are in different time zones or departments.Project managers can adapt the plan — budgets tighten, deliverables change, and tasks compound. Change happens. The Agile project management methodology respects this inevitability, and stand-ups are the place to discuss and prepare for these changes.
+
+More alignment — a daily stand-up meeting avoids the pitfalls of impromptu hallway and cubicle conversations. There's less risk of miscommunication or the redundancy of misallocated resources. Instead teammates huddle to discuss progress and goals, keeping the process productive.
+
+Teammates can communicate roadblocks — one of the most significant benefits of holding daily stand-ups is the opportunity to discuss and clear roadblocks. Team members can provide insights that address your stopping points, and project managers can let external stakeholders know if a challenge is insurmountable.
+
+Better teamwork — generally, stand-ups average 5–15 minutes, allowing collaboration without damaging schedules or wasting time. This may seem like insufficient time, but when performed daily, it goes a long way toward creating a cohesive team, especially if some employees are in different time zones or departments.
+
+Project managers can adapt the plan — budgets tighten, deliverables change, and tasks compound. Change happens. The Agile project management methodology respects this inevitability, and stand-ups are the place to discuss and prepare for these changes.
+
+7 steps to more productive stand-ups
+
+Ready to run more effective team stand-ups? First things first — remember that people can sit down. Now, follow these seven steps.
+
+1. Host frequent meetings
+
+To ensure you can keep stand-ups brief, schedule them as frequently as your team can handle, like daily or weekly. You might ask your team what they prefer or work around a must-attend employee’s schedule.
+
+Because you have these frequent touchpoints, consider auditing everyone’s meeting schedule. You might not need some of your previously-planned calls if you’re now checking in more often.
+
+2. Choose the right communication technology
+
+Especially if you’re a distributed team, ensure that everyone has a way to join the call. And consider what documents and tools you might need in order to effectively cover all agenda items. You might want a platform that offers in-call whiteboards so everyone can contribute to brainstorming sessions, or one that provides breakout rooms.
+
+3. Clearly define leadership roles
+
+To keep meetings on-topic and effective, ensure that all attendees understand who’s there and why. This might involve designating point people, like a note-taker, presenter, and final decision-maker. Clearly defining these roles reduces misunderstandings and time-wasting push-back regarding decisions.
+
+4. Set a strict time frame
+
+Most stand-up meeting formats cover 5–15 minutes to promote efficiency and productive conversations. Consider trying out certain time frames over the course of a month, taking notes and asking for feedback on whether they feel too long, too short, or just right. This process will help you find your ideal meeting time.
+
+5. Outline well-defined agenda goals
+
+Always prepare a meeting agenda before each stand-up, and be sure to house it somewhere central where everyone can find and add to it. Even if you simply outline the three key questions every stand-up addresses, add a more specific section that notes other high-priority items you wish to discuss. This ensures that everyone feels prepared and in the know regarding the information they must bring to the meeting.
+
+6. Limit unproductive talk
+
+Designate a meeting manager whose job is to keep the conversation on track. You need to make the most of your 5–15 minutes, and this person can help by passing the proverbial mic and offering respectful cues when someone has derailed the conversation.
+
+7. Provide next steps
+
+Your designated note-taker should update meeting notes and distribute action items within a short time frame post-meeting. Even better, they can update your centrally-located and widely shared meeting agenda document as the call progresses, so team members can work on next steps right away.
+
+Extra tips for running an excellent stand-up
+
+Here are a few final tips to ensure you host efficient and effective stand-ups:
+
+Don’t expect to immediately solve problems — these meetings are for quickly illuminating delays and achievements, so don’t expect to solve all your problems in 15 minutes. Instead, schedule more focused discussions with affected stakeholders.Respect both introverts and extroverts — extroverts tend to share freely, while introverts might feel more comfortable offering their perspective privately. Keep that in mind during stand-ups, also considering what a more introverted employee notes in a one-on-one as relevant to broader team objectives.Encourage everyone to speak up — diverse perspectives encourage innovative solutions. Everyone in that stand-up is there to offer their unique expertise and opinion. Encourage people to speak up by asking each individual at a time to update you on their tasks or frequently prompting feedback. Watch for skippers — if you notice people skipping stand-ups fairly often, these meetings might not be effective. Consider reaching out to these individuals to find out why they skip so you can improve these chats.
+
+Don’t expect to immediately solve problems — these meetings are for quickly illuminating delays and achievements, so don’t expect to solve all your problems in 15 minutes. Instead, schedule more focused discussions with affected stakeholders.
+
+Respect both introverts and extroverts — extroverts tend to share freely, while introverts might feel more comfortable offering their perspective privately. Keep that in mind during stand-ups, also considering what a more introverted employee notes in a one-on-one as relevant to broader team objectives.
+
+Encourage everyone to speak up — diverse perspectives encourage innovative solutions. Everyone in that stand-up is there to offer their unique expertise and opinion. Encourage people to speak up by asking each individual at a time to update you on their tasks or frequently prompting feedback.
+
+Watch for skippers — if you notice people skipping stand-ups fairly often, these meetings might not be effective. Consider reaching out to these individuals to find out why they skip so you can improve these chats.
+
+Make virtual meetings a breeze with Notion
+
+Now that you’re filled to the brim with tips on improving your stand-ups, it’s time to arm your team with the documents necessary to take these meetings one step further. Try Notion’s meeting notes template to better organize takeaways, the project goals hub to clarify agenda items, and the task tracker to outline action items. Or search our template gallery to find something perfectly suited to your needs.

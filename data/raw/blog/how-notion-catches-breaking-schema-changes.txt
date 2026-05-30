@@ -1,0 +1,101 @@
+Title: How Notion catches breaking schema changes before they reach production
+Published Date: 2026-04-02T09:00-07:00
+URL: https://www.notion.so/blog/how-notion-catches-breaking-schema-changes
+
+As distributed systems grow, one of the most common causes of incidents is schema drift—when the contract between clients and services falls out of sync without anyone noticing.
+
+Notion's API and Queue systems are built on typed request schemas. Every time a client calls an API endpoint or enqueues a background task, the payload it sends is expected to match a TypeScript type defined in our codebase. For a long time, there was nothing stopping a developer from making a change to one of those types—like removing a field, adding a required parameter, or narrowing a union—and shipping it to production without realizing that change had broken something. The types defined the contract, but there was no automated check enforcing compatibility when those contracts changed.
+
+This is how we built a CI guardrail to catch breaking schema changes automatically, and some of the design decisions that shaped it.
+
+The problem with schema changes
+
+When a developer modifies an API request schema in a non-backward-compatible way, any client still sending the old payload schema starts getting 400 errors. In practice, this can turn a seemingly small type change, like adding a required field, into widespread request failures across clients that haven’t updated yet.
+
+The Queue introduces a harder version of the same problem. Queue tasks at Notion can sit in Redis for extended periods before they're processed. They include things like scheduled events and reminders that can be enqueued years in advance. Because of this, the code processing a task at any given moment might be much newer than the code that enqueued it.
+
+That means a schema change that looks safe in isolation can break tasks that are already in flight. The breakage will surface when a worker tries to process a task whose payload no longer matches the type it expects.
+
+For queue tasks in particular, compatibility is not just a contract between services, but between different points in time.
+
+Compatibility as a TypeScript subtype check
+
+To prevent breaking schema changes from reaching production, we took advantage of a feature in TypeScript’s type system, and introduced this as a check in CI.
+
+A schema change is backward compatible if and only if new code can handle old data. In TypeScript terms, that means OldRequestType must be assignable to NewRequestType. If it is, any payload that was valid under the old schema is still valid under the new one.
+
+This gives us a precise, statically checkable definition of compatibility, and TypeScript's compiler API lets us verify it in CI without running any code or maintaining test payloads.
+
+Here's the core logic:
+
+To run this in CI, the job extracts the old schema types from the base branch and loads the new types from the PR branch, then runs the assignability check. Any incompatibilities cause the CI job to fail. We use git archive for the base branch extraction to avoid touching the working tree, pulling only the files we need into a temporary directory.
+
+This follows a pattern that Notion already uses for config validation where CI checks new values against the existing schema on main to catch rollout skew early. Both compatibility checks are centrally registered - all API endpoints are defined in allAPIs.ts and all queue task types in allTasks.ts . This means the check can find every type it needs to verify automatically and coverage expands as new endpoints and task types are added.
+
+Today, this check runs across ~1,300 API endpoints and ~296 queue task types, with coverage expanding automatically as new types are registered.
+
+What breaks compatibility and what doesn't
+
+These rules follow directly from how TypeScript assignability works.
+
+Breaking changes (old data may not satisfy the new type):
+
+Adding a required field that old payloads won't includeNarrowing a type. e.g., string | number → string rejects values the old schema allowedRemoving a union member, as old payloads may contain a value the new type no longer acceptsChanging a field's type incompatibly. e.g., number → string
+
+Adding a required field that old payloads won't include
+
+Narrowing a type. e.g., string | number → string rejects values the old schema allowed
+
+Removing a union member, as old payloads may contain a value the new type no longer accepts
+
+Changing a field's type incompatibly. e.g., number → string
+
+Safe changes (old data will always satisfy the new type):
+
+Adding optional fields is safe, since old payloads simply won't include themRemoving fields, as TypeScript allows extra properties in object typesWidening a type. e.g., string → string | number still accepts everything the old type didMaking required fields optional
+
+Adding optional fields is safe, since old payloads simply won't include them
+
+Removing fields, as TypeScript allows extra properties in object types
+
+Widening a type. e.g., string → string | number still accepts everything the old type did
+
+Making required fields optional
+
+One thing worth calling out: removing a field is safe from the type system's perspective because TypeScript doesn't reject objects with extra keys. Old payloads that still include a field the new schema dropped will pass validation.
+
+Backward and forward compatibility in the queue
+
+For API endpoints, backward compatibility is the only direction that matters because we only need to protect existing clients sending old payloads to the new server code.
+
+Queue tasks, on the other hand, require compatibility in both two directions.
+
+Backward compatibility checks whether new worker code can process tasks that were enqueued with the old payload schema. This check was made blocking, similar to the API backwards compatibility check, to protect tasks already sitting in the queue.
+
+Forward compatibility checks whether old worker code process tasks that might be enqueued by new code. Even a change that's technically backward compatible, like widening a type or adding an optional field, can still be unsafe if the API starts sending new values before the queue workers have deployed to handle them.
+
+The forward check is advisory rather than blocking. It flags changes that are technically compatible but still need to be deployed in a specific order, with worker changes going out before the enqueuer.
+
+Without this distinction, a developer could make a change that passes all compatibility checks, but still causes issues in between deployments.
+
+Rollout
+
+We started with non-blocking warnings to validate the check was working correctly, then moved backward compatibility checks to blocking. To avoid blocking intentional and thought-through changes, we added an escape hatch - a GitHub label you can apply to signal to CI that the breaking change is intentional. This keeps the check strict by default without preventing deliberate exceptions.
+
+The check is auto-discovered from allAPIs.ts for API request types and allTasks.ts for queue task types, so coverage expands automatically as new endpoints and task types are added without any changes to the check itself.
+
+What we can't catch
+
+Static type checking gets you a long way, but it has limits. We can't detect:
+
+Extra validation logic in handler code beyond what the type enforcesSemantic changes that are type-compatible, like repurposing a field without changing its typeRuntime behaviour changes
+
+Extra validation logic in handler code beyond what the type enforces
+
+Semantic changes that are type-compatible, like repurposing a field without changing its type
+
+Runtime behaviour changes
+
+For those cases, the safety net is still code review and tests. The CI check handles the mechanical, easy-to-miss types of errors that affects clients or tasks that developers can't see.
+
+The goal is not to replace those safeguards, but to automatically eliminate a class of compatibility bugs before they reach production.

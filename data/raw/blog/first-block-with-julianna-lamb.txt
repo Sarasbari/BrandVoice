@@ -1,0 +1,51 @@
+Title: First Block with Julianna Lamb, Co-founder and CTO of Stytch
+Published Date: 2023-11-01T00:00-07:00
+URL: https://www.notion.so/blog/first-block-with-julianna-lamb
+
+Listen to First Block on your favorite podcast platform.
+
+Download Stytch’s product roadmap tracker and recruiting tracker. To learn more about how Notion is supporting startups, please visit notion.com/startups.
+
+Welcome to First Block, a Notion series where founders and executives from the world's leading companies tell us about the many “firsts” of their startup journeys. Hosted by our Co-founder and COO Akshay Kothari, this series explores the many ups and downs that founders face as they build their companies, and what they've learned along the way.
+
+In our second episode, we spoke with Julianna Lamb, Co-founder and CTO of Stytch. Stytch helps developers secure and scale their applications with authentication and fraud prevention.
+
+In this episode, we do a deep-dive into:
+
+How Stytch came to be (and why)The importance of understanding your customers’ needsWhy a structured hiring process mattersThe value of a strong co-founder relationshipWhat to think about when building your team
+
+How Stytch came to be (and why)
+
+The importance of understanding your customers’ needs
+
+Why a structured hiring process matters
+
+The value of a strong co-founder relationship
+
+What to think about when building your team
+
+What’s in this episode:
+
+00:00: Intro01:02: Origin Story05:05: Getting to Product-Market-Fit08:38: Fundraising10:33: Co-Founder Relationship14:16: Building EPD Teams27:52: Evolving Role of CTO32:08: GTM Partnership38:54: Open Source40:01: Day in the Life of Julianna Lamb
+
+00:00: Intro
+
+01:02: Origin Story
+
+05:05: Getting to Product-Market-Fit
+
+08:38: Fundraising
+
+10:33: Co-Founder Relationship
+
+14:16: Building EPD Teams
+
+27:52: Evolving Role of CTO
+
+32:08: GTM Partnership
+
+38:54: Open Source
+
+40:01: Day in the Life of Julianna Lamb
+
+Read the full transcript here:

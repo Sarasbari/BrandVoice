@@ -1,0 +1,65 @@
+Title: How to calculate your company's ROI from investing in Notion AI
+Published Date: 2023-12-22T00:00-08:00
+URL: https://www.notion.so/blog/how-to-calculate-your-companys-ai-roi-for-real
+
+What is AI’s genuine impact? Everyone talks about the productivity gains but few have tried to quantify them. Productivity that truly impacts a business starts with employees — the ones who spend hours every day searching for information, refining plans, and editing documents.
+
+AI, when it’s properly integrated into our work, can free us from much of this rote, tedious work, saving precious time that we can spend focusing on more important and rewarding efforts.
+
+That’s what the market data says. We surveyed hundreds of Notion AI customers, including those using Q&A, Notion AI’s new information retrieval tool. The results were unambiguous – 74% say AI makes them more productive and saves them an average 69 minutes per week on searching for information, freeing up time for critical tasks and making them feel more knowledgable and informed.
+
+Can we put a price tag on these benefits? Yes. Here’s how you can calculate the likely ROI of investing in AI at your own company.
+
+Information management is the problem
+
+We’re all inundated with more information than ever.
+
+Small companies use an average of 69 apps to run their businesses; for larger companies that figure can surpass 200. Employees spend roughly 3 hours a day looking for information they need in order to do their jobs — and, quite often, failing to find it in critical moments.
+
+And there are lots of critical moments. Every project produces numerous meetings, and every meeting produces notes, action items, updates — all of which mean more data piling up, and being difficult to find when it counts the most. The results of this information management hailstorm are obvious but still painful — a third of workers say being unable to find information makes them feel “burned out.” Knowledge workers say they spend 58% of their day doing “work about work.”
+
+How, then, do we make work work?
+
+AI is the information retrieval solution
+
+When you’re on the job and you don’t know something, how do you find the answer?
+
+You can search for the information yourself, which will take at least a few minutes. Or you could ask a colleague, which itself takes several minutes to write out with appropriate context. Then your colleague writes back, or looks for the answer and then writes back, which will take maybe 10 minutes, plus another 20 to return to their original flow. Or maybe they don’t respond at all, in which case getting the information you need could take half the day.
+
+With AI you can ask your question and get your answer in an instant — Notion users who use Q&A ask an average of 2.7 questions per day, with a majority saying they save at least 5 minutes of work time per question. At the company level, these numbers add up:
+
+Osaka Gas, with ~3,000 employees, estimates a 35% reduction in time spent searching for information.Remote.com, with ~1,400 employees, saves an estimated 10 minutes per search and executes 300 Q&A queries per day.
+
+Osaka Gas, with ~3,000 employees, estimates a 35% reduction in time spent searching for information.
+
+Remote.com, with ~1,400 employees, saves an estimated 10 minutes per search and executes 300 Q&A queries per day.
+
+AI can also enhance efficiency by streamlining tedious tasks like summarizing meeting notes, generating outlines and drafts, updating database insights, and so on. We can use data from the survey to calculate minutes saved per week for a 100-person company using Notion AI:
+
+For a company burdened by dozens of siloed apps, AI could just add to the aforementioned tool bloat, clogging workflows that are already too complex. But Notion AI is integrated into the workspace you’re already using. Getting ChatGPT to summarize meeting notes taken in Google Docs is a laborious 5-step process. With Notion AI you can get that summary in one step.
+
+When employees get to work with AI within an existing tool they want to use, happier and faster work follows. Can a rising bottom line be far behind?
+
+Calculating your Notion AI ROI
+
+Those hours saved translate to meaningful monetary gains on a per-employee basis. While the ultimate goal is raising revenue per employee, we’ve worked directly with customers to help them understand how time savings translate into ROI. Here’s the formula we created together, which you can use to estimate your ROI from adopting Notion AI.
+
+First, estimate the amount of time saved across the company per work day by using Q&A:
+
+2.7 Q&A queries per day × # of employees who will use Q&A  × .08 hours saved per query = x hours saved per work day
+
+Next you'll want to calculate the annual value of these time savings:
+
+# hours saved per work day × average hourly wage × 249 work days per year = $y cost savings per year
+
+Here’s an example:
+
+Say you have 100 employees in Notion who make an average of $50/hour, and you’re estimating 33% of them will start using Q&AYour time saved per year = 2.7 queries/day × 100 employees × .0833 hours saved/query × 249 work days × 33% employee adoption rate = 1,848 hoursThe annual value of these time savings = 1,848 hours saved × $50/hour = $92,400
+
+Say you have 100 employees in Notion who make an average of $50/hour, and you’re estimating 33% of them will start using Q&A
+
+Your time saved per year = 2.7 queries/day × 100 employees × .0833 hours saved/query × 249 work days × 33% employee adoption rate = 1,848 hours
+
+The annual value of these time savings = 1,848 hours saved × $50/hour = $92,400
+
+It’s hard to believe Notion AI is only a year old and this impact is already being realized. There’s so much more to come, and so much more to learn. We hope these ideas help you embrace the future of work as an AI-empowered company. You can learn more and calculate your own AI ROI here.

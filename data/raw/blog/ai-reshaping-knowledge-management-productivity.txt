@@ -1,0 +1,29 @@
+Title: Harvard Business Review: How AI is Quietly Revolutionizing Knowledge Management
+Published Date: 2024-10-01T00:00-07:00
+URL: https://www.notion.so/blog/ai-reshaping-knowledge-management-productivity
+
+“What’s the update on our upcoming product launch?”
+
+I hear questions like this all the time. They’re often a symptom of a larger problem—the information people need to do their jobs well is hard to find. Sometimes, it’s completely inaccessible.
+
+Now, this particular question isn’t just a random example for the sake of this post. It’s one I was asked last month in a meeting with our CEO, Ivan. My brain immediately shifted into gear to uncover every nugget of information that might provide some clarity. So I started to dig through Notion docs, hunt down key Slack messages, and track down the latest updates from my team.
+
+But, as I wrapped up my hours-long adventure, I noticed our CPO, Akshay, had already sent back a response within a matter of minutes. Curious, I pinged him on the side: “How’d you do that so quickly?”
+
+He said he simply asked Notion AI. No research, no shoulder-taps, just a single prompt: When is the feature going to launch and will the quality be high? What came back was the same comprehensive summary I set out to find, plus tons more.
+
+This was all a powerful—and humbling—reminder of AI’s potential in the workplace. And it got me thinking: If AI can so dramatically streamline the way we work at Notion, might it be reshaping knowledge management and productivity at other companies too?
+
+That’s why we partnered with Harvard Business Review (HBR) on a whitepaper all about the relationship between knowledge and AI. The findings are eye-opening:
+
+Only 44 percent of respondents said they think their company manages organizational knowledge well.73 percent of respondents said their company struggles with siloed knowledge, and over half said they can’t find the information they need quickly.86 percent of respondents agree that AI can make managing information easier, but only 3 percent say they’re currently using AI to help.
+
+Only 44 percent of respondents said they think their company manages organizational knowledge well.
+
+73 percent of respondents said their company struggles with siloed knowledge, and over half said they can’t find the information they need quickly.
+
+86 percent of respondents agree that AI can make managing information easier, but only 3 percent say they’re currently using AI to help.
+
+There are tons more fascinating takeaways in the report—there’s even a full list of recommendations from HBR on how to most effectively implement AI for knowledge management.
+
+But I won’t spoil it for you. See for yourself and download the full report here.

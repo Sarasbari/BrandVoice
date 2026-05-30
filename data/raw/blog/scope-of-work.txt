@@ -1,0 +1,177 @@
+Title: How to write a scope of work: A 9-step guide
+Published Date: 2023-08-21T00:00-06:00
+URL: https://www.notion.so/blog/scope-of-work
+
+When your team takes on a new project, describing and delegating work can be a challenge. Without clear instructions, team members might take on too much or too little — or wind up misunderstanding their roles. How can you get everyone on the same page before work begins?
+
+What you need is a clearly defined scope of work. This powerful project management tool is the key to planning and executing all the work that’s necessary for a timely and successful project delivery.
+
+What’s a scope of work for?
+
+A project’s scope of work (SOW) is a document that outlines the initiative’s specific tasks, deliverables, and objectives. It acts as the blueprint for your work, providing a detailed description of what needs to be accomplished when, who’s working on what, and any other critical details that project participants need to know. By providing these details, an SoW helps to prevent misunderstandings and reduces the likelihood of conflicts arising due to differing interpretations of project scope, needs, or expectations from inception to sign-off.
+
+Why is defining a scope of work important?
+
+Drafting a project's SoW empowers you to lay out a strategic plan, clearly communicate goals, and set targets for all teams involved. This benefits the project in several ways, including:
+
+Defining project boundaries — an SoW provides a comprehensive roadmap detailing the relevant information and work for all participants, eliminating confusion about what falls in and outside of the scope of the initiative.Providing direction — thanks to the meticulous nature of SoW documents, managers can clearly delegate work down to the granular level and team members can pinpoint specific tasks and steps they need to focus on.Setting project expectations — by outlining desired outcomes, expected timelines, and required results, both internal and external teams can align on the same standards and processes, reducing potential conflicts and misunderstandings.Preventing scope creep — with a well-defined SoW, you can avoid unforeseen and unnecessary work (called scope creep) that might hinder your project's progress and slow delivery, saving your team precious time and resources.
+
+Defining project boundaries — an SoW provides a comprehensive roadmap detailing the relevant information and work for all participants, eliminating confusion about what falls in and outside of the scope of the initiative.
+
+Providing direction — thanks to the meticulous nature of SoW documents, managers can clearly delegate work down to the granular level and team members can pinpoint specific tasks and steps they need to focus on.
+
+Setting project expectations — by outlining desired outcomes, expected timelines, and required results, both internal and external teams can align on the same standards and processes, reducing potential conflicts and misunderstandings.
+
+Preventing scope creep — with a well-defined SoW, you can avoid unforeseen and unnecessary work (called scope creep) that might hinder your project's progress and slow delivery, saving your team precious time and resources.
+
+What does a scope of work include?
+
+A project's SoW should encompass a wealth of information. Before sharing the document with the relevant teams, ensure it covers the following key elements:
+
+Objectives
+
+Establish a panoramic view of the project's goals and intended outcomes. By clarifying the objectives, your teams can better grasp the purpose behind their efforts, helping them visualize their roles and assigned tasks.
+
+Deliverables
+
+Outline the specific product or service that you intend to deliver, along with all the components and resources the team requires. This is also the place to provide technical specifications, if necessary.
+
+Timeline
+
+A transparent understanding of the project's journey, complete with detailed milestones and deadlines, is crucial for you and your team. For an effective, high-level visual representation of this information, consider including a Gantt chart.
+
+Milestones
+
+Taking the timeline a step further, use this section to spell out the objectives and tasks that must be completed in order to reach each milestone. Don’t forget to include provisions for tracking progress, such as regularly scheduled progress meetings.
+
+Project reports
+
+Generated at regular intervals throughout the project's lifecycle, these reports encompass status updates, resource utilization, and progress tracking. Their purpose is to provide a comprehensive overview of progress and communicate ongoing results to teams and stakeholders.
+
+Pricing and payments
+
+List the various project costs, such as overhead, labor, and resource expenses. Also be sure to incorporate all relevant financial data, including the project's overall cost, personnel pay, and payment schedules.
+
+How to write scope of work
+
+Once you understand what goes into an SoW, you’re ready to get to work writing your own. Let’s explore the nine essential steps:
+
+1. Provide a project introduction
+
+Begin by providing a high-level overview of the project. Mention the project's name, launch date, involved teams, external sourcing, and the required work to deliver the end product. This section can also include pertinent contract offers or standing agreements.
+
+2. Create a charter
+
+This pivotal section explains the project's purpose and expected outcomes, including objectives and necessary background context.
+
+An excellent way to present all this information is through visualization. Try entering the data into a project charter template like this one:
+
+3. Clarify the scope of work objectives
+
+Summarize the project's primary objectives. You want to provide enough detail that everyone involved can  get up to speed, but there's no need to get too granular yet. Consider using bullet points with concise, descriptive paragraphs for each objective.
+
+4. Define the project tasks
+
+Efficient task management is crucial, especially when external teams are involved. Concisely describe team tasks and activities so that everyone involved knows exactly what falls under their umbrella. This process also encourages you to closely examine assignments in the planning phase, helping you prioritize work and understand its impact on overall project progress.
+
+5. Plan the project schedule
+
+Outline a well-defined schedule, specifying milestones and assigning responsibilities for timely delivery. Use project scheduling tools to detail the schedule, allowing for flexibility to address unforeseen issues.
+
+Try using a shareable project scheduler like this one:
+
+6. List all deliverables
+
+List exactly what you expect to ship at the end of the project. Link these deliverables to your timeline to accurately illustrate completion dates and dependencies. Establishing these deliverables helps you detail the plan to realize them and meet stakeholder expectations.
+
+7. Designate management roles
+
+Assign or suggest the responsible parties for administrative, financial, legal, and managerial roles. This clarity ensures accountability and a seamless workflow, showing all involved who they answer to.
+
+8. Add an adoption plan
+
+An adoption plan is a structured strategy for integrating and implementing a project’s results and deliverables into your business’s ongoing operations. It outlines how the newly developed solutions, processes, or technologies will transition from the project phase into regular use.
+
+An adoption plan isn’t mandatory, but it can be helpful for integrating the project's results into future endeavors. If you choose to include one, summarize each step of the plan with brief explanations and point to a more robust document that gets into the nitty-gritty.
+
+9. Write a sign-off
+
+Finally, conclude the SoW by outlining the review process for quality control, who signs off on project completion, and any necessary customer feedback mechanisms. It’s essential to perform the steps in this section before officially closing the project to ensure you’ve dotted all your I’s and crossed every T.
+
+Scope of work best practices
+
+As you craft your scope of work, use these best practices to wind up with a better and stronger end product:
+
+Precision is key — ensure clarity by thoroughly explaining all terminology and jargon within the SoW. This might also include detailing effort, timeframes, and resource assumptions to minimize any potential confusion.Embrace visual aids — use graphics, charts, and images wherever you can. Visual elements convey information swiftly and effectively, adding depth to your communication.Factor in review and adjustment time — recognize that even the most meticulous plans can encounter unforeseen circumstances. Allow room for reviews and revisions so your team can adapt when the unexpected arises.Secure necessary approvals — achieve alignment among all parties involved in the project's intended outcomes. After reaching a consensus, ensure everyone who has to sign off on the SoW does so.
+
+Precision is key — ensure clarity by thoroughly explaining all terminology and jargon within the SoW. This might also include detailing effort, timeframes, and resource assumptions to minimize any potential confusion.
+
+Embrace visual aids — use graphics, charts, and images wherever you can. Visual elements convey information swiftly and effectively, adding depth to your communication.
+
+Factor in review and adjustment time — recognize that even the most meticulous plans can encounter unforeseen circumstances. Allow room for reviews and revisions so your team can adapt when the unexpected arises.
+
+Secure necessary approvals — achieve alignment among all parties involved in the project's intended outcomes. After reaching a consensus, ensure everyone who has to sign off on the SoW does so.
+
+Scope of work example
+
+Sometimes the best way to learn is to see the concept at work. Here’s a simple, condensed example of an SoW document for a construction project:
+
+Introduction
+
+A retail outlet mall requires a parking lot, and they’ve hired us to build it. Our engineering and design teams will collaborate with an external company that will handle constructing and painting the lot.
+
+Objective
+
+The mall’s scheduled opening is October 31st, and the project launch commences on March 1st. The parking lot needs to be completed by October 2nd. See the project schedule for the timeline breakdown.
+
+Project tasks and schedule
+
+Land acquisition, permits, and clearing (March 22)Surveying (April 15)Parking lot design (August 22)Parking lot construction and painting (October 1)
+
+Land acquisition, permits, and clearing (March 22)
+
+Surveying (April 15)
+
+Parking lot design (August 22)
+
+Parking lot construction and painting (October 1)
+
+Project reports
+
+Status updatesDesign confirmation reportDaily construction logs
+
+Status updates
+
+Design confirmation report
+
+Daily construction logs
+
+Project deliverables
+
+Permits and land acquisitionApproved engineering planFinished parking lot
+
+Permits and land acquisition
+
+Approved engineering plan
+
+Finished parking lot
+
+Project management
+
+Permit acquisition: Mary BrownSurvey crew foreman: Josh McKintry (outsourced)Head engineer: Ted AtlasLead designer: Becky ThompsonConstruction foreman: Abed Smith
+
+Permit acquisition: Mary Brown
+
+Survey crew foreman: Josh McKintry (outsourced)
+
+Head engineer: Ted Atlas
+
+Lead designer: Becky Thompson
+
+Construction foreman: Abed Smith
+
+Widen the scope, reduce the work
+
+Whether you’re leading a new project, redesigning an existing one, or organizing a DIY home renovation, a scope of work is a powerful tool for keeping everyone on track and everything on time.
+
+Let Notion lend a helping hand during the process. Explore our project planning, roadmap, and goal templates to keep your teams and information organized and up to date.

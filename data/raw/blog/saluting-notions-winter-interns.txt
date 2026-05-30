@@ -1,0 +1,31 @@
+Title: Here's how Notion's Winter 2024 engineering interns spent the past couple months.
+Published Date: 2024-04-25T00:00-07:00
+URL: https://www.notion.so/blog/saluting-notions-winter-interns
+
+Adding colors to Buttons.Making images look more polished.Helping Notion Search deliver faster, better results.
+
+Gen Z is entering the workforce just as hybrid work and AI change the nature of work itself. It's a fraught moment to move from a college campus to a corporate one, but a solid internship can ease the pain.
+
+Our 12-week engineering internship puts aspiring employees on Notion teams and assigns them complex challenges — including those listed up top — that matter to our users. We held our first program last year and recently completed a second. Here’s a look at Notion’s 10-member Winter ‘24 cohort — who they are, what projects they tackled, and a few lessons they learned along the way.
+
+Buckling down: what I spent my time doing
+
+Each intern is placed with an engineering, product, or design team in our San Francisco or New York office, assigned a manager and a mentor, and given ownership of a project that we expect to push live by the end of their stint.
+
+Listening in: what I learned from my teammates
+
+What does feedback mean at Notion?
+
+For an engineering intern, it means lots of things: constant brainstorming with teammates and colleagues, daily checkins with your mentor, and mid-point and final performance reviews from your manager. In the final week of your internship, it means standing up at a company meeting and demoing what you’ve built, sharing what you learned, and hearing what your colleagues think.
+
+Be kind and direct is a core Notion value. It basically means don’t be a jerk, but don’t hold back either. We’re all here to grow, and that doesn’t always have to be easy.
+
+Trying it out: my own favorite Notion feature
+
+Becoming a Notino starts with being an avid, even obsessive Notion user — a quality that describes most of the Class of Winter ‘24. As a parting question, we asked this year’s interns to share their favorite feature and how they use it.
+
+Thank you, Class of ‘24. Now, about 2025…
+
+All of this just confirms that the next generation of builders has the craft we’re seeking. We offer a heartfelt thank you to our Winter ‘24 interns — you’ve infused our products and culture with energy and new ideas, and left us all the better for it.
+
+And hey — all you students out there who are reading this? Check our RippleMatch page in late July for our next round of Winter and Summer internship opportunities. Hope to see you in our Class of ‘25!

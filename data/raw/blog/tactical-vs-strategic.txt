@@ -1,0 +1,91 @@
+Title: Tactical vs. strategic planning: key differences and examples
+Published Date: 2023-09-15T00:00-03:00
+URL: https://www.notion.so/blog/tactical-vs-strategic
+
+"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat." – Sun Tzu, "The Art of War."
+
+While there are differences between tactical versus strategic planning, you must leverage both to plan wisely to achieve your goals. And the balance you create between the two determines the success of your initiatives.
+
+What’s strategic planning?
+
+Strategic planning is all about goal-setting and research. You must know what you want to determine how you’ll gain it. And to achieve your goals strategically, you need accurate data and critical thinking skills.
+
+A strategic plan typically starts with brainstorming and research to ensure you create something well-informed and thoughtful. You’ll use this information to devise strategies for reaching your goals as efficiently and effectively as possible.
+
+What’s tactical planning?
+
+Tactics are specific methods for achieving a goal. To build brand awareness, for example, you might use tactics like weekly social posts and paid advertising.
+
+Tactical planning involves determining the precise tools, techniques, and methods you’ll use to reach your objectives. Planning these tactics out is often a pivotal part of the strategic planning process.
+
+Strategies versus tactics: What's the difference?
+
+The main difference between tactics and strategies is that tactics are various techniques you take to complete a goal and strategies are comprehensive and well-researched action plans. These plans often include your chosen tactics. If you’re creating a marketing strategy, you might use tactics like email campaigning and cold calling.
+
+Generally, strategic company-wide planning takes place quarterly and annually, and you’ll devise individual strategies whenever initiating a new project.
+
+Your strategic plan should always align with company values and goals, and your tactical plan will stem from the overarching strategy. You’ll rarely alter a strategy’s overall goals, instead learning from mistakes to adjust future planning. But you might pivot tactics any time you review progress and determine current techniques aren’t working.
+
+What makes a good strategy?
+
+Ineffective strategizing wastes everyone’s time and reduces the chance you’ll reach your goals. Here are a few best practices to improve your strategic planning:
+
+Use data — data-driven decision-making helps you create a comprehensive plan. You can use historical data to understand what might and likely won’t work. And market data like seasonality and economic factors inform behavioral projections. If your target audience checks their email less in the summer, you might shift your strategy to prioritize other marketing methods.Set clear goals — you can only achieve what you set out to, and the more transparent you are about your goals, the clearer expectations are for everyone involved. This clarity increases the chance employees know what to do to reach success. You can also conduct a gap analysis to determine what’s standing between you and your goals and articulate team expectations even more clearly. Have a plan B — markets adjust, behaviors change, and scopes creep. Use a risk assessment to determine and prepare for potential roadblocks and keep things running smoothly. And outline a plan B in case your initial strategy meets too many hiccups to survive. Encourage teamwork — most strategies involve staff across teams and departments. Ensure everyone understands the “Why?” behind your plan to gain their buy-in and make them accountable for their responsibilities. And collaborate with other departments, like sales and upper management, to make your strategic planning sessions even more valuable and well-informed.
+
+Use data — data-driven decision-making helps you create a comprehensive plan. You can use historical data to understand what might and likely won’t work. And market data like seasonality and economic factors inform behavioral projections. If your target audience checks their email less in the summer, you might shift your strategy to prioritize other marketing methods.
+
+Set clear goals — you can only achieve what you set out to, and the more transparent you are about your goals, the clearer expectations are for everyone involved. This clarity increases the chance employees know what to do to reach success. You can also conduct a gap analysis to determine what’s standing between you and your goals and articulate team expectations even more clearly.
+
+Have a plan B — markets adjust, behaviors change, and scopes creep. Use a risk assessment to determine and prepare for potential roadblocks and keep things running smoothly. And outline a plan B in case your initial strategy meets too many hiccups to survive.
+
+Encourage teamwork — most strategies involve staff across teams and departments. Ensure everyone understands the “Why?” behind your plan to gain their buy-in and make them accountable for their responsibilities. And collaborate with other departments, like sales and upper management, to make your strategic planning sessions even more valuable and well-informed.
+
+What makes good tactics?
+
+To further increase your strategy’s efficacy, follow these tips when creating tactics:
+
+Make them short-term — when working on your tactical plan, remember that tactics are short-term actions intended to meet long-term strategies. Unless you’re sure these methods will be successful, execute them for a short time and check in often, pivoting when necessary.Tie them to your strategy — tactics aren’t standalone and purposeless actions. They’re methods you’ve chosen to effectively execute your plan. Clearly tie each tactic to a strategic goal to ensure those assigned understand each action item’s purpose. This purposefulness will drive employees to work hard to successfully implement each tactic.Make them SMART — define specific, measurable, achievable, relevant, and timely (SMART) tactics. Running your techniques through this process gives you the chance to determine if you have the resources necessary to complete these methods. And the best tactical planning examples have clear key performance indicators (KPIs) that define success. Plus, making them time-bound stresses that these are temporary methods you can adjust and ditch if they’re not working.
+
+Make them short-term — when working on your tactical plan, remember that tactics are short-term actions intended to meet long-term strategies. Unless you’re sure these methods will be successful, execute them for a short time and check in often, pivoting when necessary.
+
+Tie them to your strategy — tactics aren’t standalone and purposeless actions. They’re methods you’ve chosen to effectively execute your plan. Clearly tie each tactic to a strategic goal to ensure those assigned understand each action item’s purpose. This purposefulness will drive employees to work hard to successfully implement each tactic.
+
+Make them SMART — define specific, measurable, achievable, relevant, and timely (SMART) tactics. Running your techniques through this process gives you the chance to determine if you have the resources necessary to complete these methods. And the best tactical planning examples have clear key performance indicators (KPIs) that define success. Plus, making them time-bound stresses that these are temporary methods you can adjust and ditch if they’re not working.
+
+Business strategy and tactics examples
+
+To better understand how strategies and tactics work together to form comprehensive planning, here are a few examples.
+
+Strategy 1: Create a solid technological foundation to handle company growth
+
+Tactic — invest in infrastructure improvements such as new servers and printersTactic — develop learning management tools to streamline onboardingTactic — regularly update portable technology to eliminate costly replacements
+
+Tactic — invest in infrastructure improvements such as new servers and printers
+
+Tactic — develop learning management tools to streamline onboarding
+
+Tactic — regularly update portable technology to eliminate costly replacements
+
+Strategy 2: Improve standing in the marketplace as a sales leader
+
+Tactic — implement a CRM tool to better capture leadsTactic — recruit salespeople with qualities that better align with company valuesTactic — garner feedback from clients to improve pain points
+
+Tactic — implement a CRM tool to better capture leads
+
+Tactic — recruit salespeople with qualities that better align with company values
+
+Tactic — garner feedback from clients to improve pain points
+
+Strategy 3: Increase digital marketing results
+
+Tactic — add free coupons on product web pagesTactic — offer freebies with purchase and sign-upTactic — increase social media promotions
+
+Tactic — add free coupons on product web pages
+
+Tactic — offer freebies with purchase and sign-up
+
+Tactic — increase social media promotions
+
+Create your next best strategy with Notion
+
+Effective strategizing involves more than choosing final goals and promising tactics. It's also about organizing your data and connecting your teammates. Use Notion templates, like the quarterly priorities, engineering strategy, and communication strategy docs, to manage your information and create a single source of truth organization-wide. Or search the template gallery to find something perfectly suited to your needs.

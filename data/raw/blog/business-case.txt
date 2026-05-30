@@ -1,0 +1,291 @@
+Title: How to write a business case in 6 steps (Guide & template)
+Published Date: 2023-09-22T00:00-03:00
+URL: https://www.notion.so/blog/business-case
+
+Inspiration for a new mobile app, feature, or dashboard can strike at any time—but an idea alone isn’t enough to prove a new project’s feasibility or get buy-in from key stakeholders. You also need to know how to write a business case to get that project off the ground.
+
+A business case isn’t just a document that you write because someone asked for it, though. Instead, it’s a moment to step back, connect the dots, and show how your idea creates real value for your team, customers, and organization. When you do that well, a business case aligns people, builds momentum, and turns “this could work” into “let’s make this happen.”
+
+Business case vs. business plan: What’s the difference?
+
+While a business case justifies a single project or initiative, a business plan outlines an entire organization’s strategy. Investors use this plan to make informed investment decisions, consider the financial, strategic, and operational details behind a business, and determine the odds of a solid return on investment.
+
+In contrast, stakeholders look at a business case to decide how a specific project could impact the business and, ideally, agree to support it. They ultimately want to understand the business problem, potential risks, and expected benefits, such as cost savings or more efficient workflows. It’s like an internal version of a business proposal.
+
+Both documents require careful research, writing, and presentation, though. Here’s more about how they differ:
+
+Business caseBusiness planScopeSpecific projectEntire businessAudienceInternal stakeholdersExternal stakeholdersPurposeJustifies a specific projectProvides a roadmap for the overall businessContentsProblem statement, proposed solution, cost-benefit analysis, risk assessment, time frame, and implementation planCompany overview, financial plan, business strategy, marketing plan, management team, and exit strategyLengthShort documentComprehensive documentUpdate frequencyA static document for a specific initiative that doesn’t require updatesA dynamic document that requires regular updates to remain effective
+
+Business case
+
+Business plan
+
+Scope
+
+Specific project
+
+Entire business
+
+Audience
+
+Internal stakeholders
+
+External stakeholders
+
+Purpose
+
+Justifies a specific project
+
+Provides a roadmap for the overall business
+
+Contents
+
+Problem statement, proposed solution, cost-benefit analysis, risk assessment, time frame, and implementation plan
+
+Company overview, financial plan, business strategy, marketing plan, management team, and exit strategy
+
+Length
+
+Short document
+
+Comprehensive document
+
+Update frequency
+
+A static document for a specific initiative that doesn’t require updates
+
+A dynamic document that requires regular updates to remain effective
+
+Are business cases crucial to project success?
+
+A solid business case helps you get initiatives approved, but data shows that it can also impact whether you achieve project success. In fact, according to a study by S&P Global, more than half of B2B businesses base their spending decisions on immaterial factors like instinct rather than concrete data. This lack of strategic planning is likely one reason why 80 percent of businesses also struggle to meet their revenue goals consistently and, as ClearPoint Strategy found, 84.5 percent of strategic initiatives remain unfinished.
+
+What teams often overlook in these numbers, however, is how fragmented decision-making and disconnected tools slow down approvals and push teams off course. And when project teams use fragmented or poorly integrated tools that become major barriers to delivery and alignment, they find it harder to gather feedback, centralize context, and build buy-in.
+
+When you use structured, intentional business cases instead of informal planning across docs, chats, and spreadsheets, you’ll give projects a much stronger foundation. This increases your team’s confidence and reduces the churn that comes from unclear goals.
+
+Key elements of a strong business case
+
+A good business case is more than just polished prose and numbers. It’s also a way of telling a story that helps decision-makers see the value in your idea, understand the problem you’re solving, and feel excited about its potential benefits.
+
+To that end, your business case should be clear and organized so it’s easy for team members and stakeholders to quickly find the information they need. Below are seven key components that you should include in every business case you write:
+
+Executive summary
+
+This summary is a one-paragraph snapshot that busy leaders will read first. Because of that, it should answer these essential questions:
+
+“What problem are we solving?”“Why are we doing this now?”“What value will we unlock?”“What are the key risks and costs?”
+
+“What problem are we solving?”
+
+“Why are we doing this now?”
+
+“What value will we unlock?”
+
+“What are the key risks and costs?”
+
+When you write this section of the business case for different stakeholders, you should think about what matters to them and tailor it accordingly. Executives, for instance, care most about strategic impact and ROI, engineers want clarity about project scope and technical feasibility, and design leaders look for user impact and quality indicators.
+
+Problem
+
+Next, add a problem statement at the top of the doc to explain the project’s goals. This statement should go beyond “we need this” to instead define the project’s current state in measurable terms.
+
+To do that, answer these questions:
+
+“What isn’t working?”“What data or user feedback highlights the issue?”“Who is affected, and what’s the impact?”
+
+“What isn’t working?”
+
+“What data or user feedback highlights the issue?”
+
+“Who is affected, and what’s the impact?”
+
+Remember that technical audiences will appreciate precise metrics and system context, while executives will want to see the connection to organizational goals or customer retention.
+
+Costs
+
+After that, you should provide a comprehensive estimate of the project costs to quantify what you’re asking for. Here are some areas you should consider:
+
+Development effort (like engineering, design, and QA)Tooling or licensingOngoing maintenance
+
+Development effort (like engineering, design, and QA)
+
+Tooling or licensing
+
+Ongoing maintenance
+
+You should also include clear assumptions and, where possible, ranges (like conservative vs. optimistic estimates). Product and design leaders will often want you to frame both time and opportunity costs against potential alternatives.
+
+To make your business case more compelling, include a cost-benefit analysis that compares total projected benefits with total expected costs. This shows how the initiative will pay for itself in the long term.
+
+Benefits
+
+It’s also important to offer a realistic preview of the project’s benefits, both in hard and soft terms. This means including quantifiable gains like revenue, cost savings, reduced churn, and faster delivery times. Then, you should cover qualitative value, like a better user experience or improved team morale.
+
+For executives, anchoring benefits in dollars or strategic outcomes will make your case stick. And for technical teams, you can highlight how solving this problem reduces technical debt or streamlines workflows.
+
+Risks
+
+No project is risk-free. That’s why honest business cases acknowledge these aspects:
+
+Technical uncertaintyDependenciesTimeline slippageBudget variance
+
+Technical uncertainty
+
+Dependencies
+
+Timeline slippage
+
+Budget variance
+
+Including mitigation strategies here also shows ownership and reduces hesitation from risk-sensitive stakeholders.
+
+Timeline
+
+Next, you can include a basic schedule that outlines major milestones and checkpoints, like these:
+
+Discovery and validationDesign and developmentTestingLaunching
+
+Discovery and validation
+
+Design and development
+
+Testing
+
+Launching
+
+But keep in mind that different audiences will look at time frames differently—executives, for example, will want assurance of pace and predictability, while engineering and design leaders will want space for iteration and quality checks.
+
+Next steps
+
+Finally, you’ll want to give reviewers a clear path forward. To this end, you should write down the approvals or resources you’ll need, along with suggestions on how to proceed. This may include approving budgets, scheduling stakeholder review sessions, or writing a project proposal.
+
+How to write a business case in 6 steps
+
+Writing a business case doesn’t have to be a nuisance, especially when you use tools that help you gather context, iterate quickly, and stay aligned with your team. Here’s a practical step-by-step approach for how you can write a solid business case using Notion AI, including common mistakes to avoid:
+
+1. Define the problem
+
+First, identify the need your initiative addresses. This will justify the rest of your project plan.
+
+In Notion, an easy way to do this is to start with user stories, data, and competitive context in a shared Notion page. You can then use Notion AI’s Summarize feature to turn raw customer feedback or research into clear problem statements.
+
+Common mistake to avoid: Framing vague problems that don’t connect to measurable outcomes
+
+2. Gather data
+
+Next, collect any data that will help you create your business case. This means centralizing your metrics, OKRs, benchmarks, and user insights alongside narrative sections in Notion. You can then use inline AI to extract insights from pasted spreadsheets or CSV snippets to help you gather information more quickly.
+
+Common mistake to avoid: Treating data as separate from the narrative instead of embedding it where your teams make decisions
+
+3. Propose a solution
+
+Afterward, you can use your research to propose a suitable solution for the problem you stated earlier. This involves outlining the basics of your plan, who will help, and what your ideal outcome is.
+
+In Notion, you can build structured solution descriptions that cover your approach, tools, and trade-offs. Notion AI can also help you draft option comparisons automatically. For example, you could ask it to “generate alternatives to the proposed solution with pros and cons” to help you brainstorm.
+
+Common mistake to avoid: Locking in on one idea without validating alternatives
+
+4. Identify risks
+
+It’s also important to look at potential challenges or uncertainties and propose possible solutions for dealing with those risks. To do this, you can create a risk register database in Notion with likelihood, impact, and mitigation plans. You can then ask AI to generate potential risks based on each description.
+
+Common mistake to avoid: Downplaying risks instead of acknowledging and planning for them
+
+5. Create a timeline
+
+Your timeline should include milestones, deliverables, and deadlines, too. That’s because stakeholders need to be able to look at the business case and immediately understand when they can expect to see results.
+
+To make this information more accessible, you can use a Notion timeline or Kanban view to lay out phases and dependencies. Then, you can convert draft timelines into structured database items with dates and owners.
+
+Common mistake to avoid: Creating overly optimistic schedules without a buffer for unknowns
+
+6. Get approval
+
+Finally, you should present your business case to relevant stakeholders and request their feedback. To do this, you can share a Notion page with them and collect comments inline. Once you’ve collected all their feedback, you can use Notion’s Action Item Extraction feature to auto-generate a list of requested changes so you have them all neatly organized in one place.
+
+Common mistake to avoid: Waiting to iterate until after approval instead of incorporating feedback in real time
+
+Throughout the process, Notion helps team members share context and build consensus by keeping decisions, data, and drafts connected rather than scattered across chat threads and disconnected docs.
+
+A business case example (and template)
+
+Imagine that a team at a SaaS company is proposing a new product: an automated usage insights dashboard. An abridged version of their business case might look something like this:
+
+Problem: Users churn because they can’t easily track feature adoptionCost: Approximately $95,750 in total costsAround 8 weeks of engineering time (about $68,000)Project management (about $15,500)Dashboard tooling (about $12,250)Benefit: Expected 15–20 percent reduction in churn and around $300k in annual revenue retentionRisks: Data privacy handling and backend scalingTimeline: Q2 rollout, with phased beta releasesNext Steps: Budget approval and cross-team sign-offs from data and legal
+
+Problem: Users churn because they can’t easily track feature adoption
+
+Cost: Approximately $95,750 in total costs
+
+Around 8 weeks of engineering time (about $68,000)Project management (about $15,500)Dashboard tooling (about $12,250)
+
+Around 8 weeks of engineering time (about $68,000)
+
+Project management (about $15,500)
+
+Dashboard tooling (about $12,250)
+
+Benefit: Expected 15–20 percent reduction in churn and around $300k in annual revenue retention
+
+Risks: Data privacy handling and backend scaling
+
+Timeline: Q2 rollout, with phased beta releases
+
+Next Steps: Budget approval and cross-team sign-offs from data and legal
+
+The team decides to use Notion AI to help them draft a more detailed business case based on these bullets. They then use a business case template that’s available in Notion to create a structured, pre-formatted document that they can copy the next time they need one. Doing this reduces the time they’d spend on what would normally be a highly manual process.
+
+By building their business case in Notion, the team was also able to do the following:
+
+Embed live metrics and customer feedbackTag stakeholders for reviewUse AI to draft alternative solutionsKeep the case updated as assumptions evolve
+
+Embed live metrics and customer feedback
+
+Tag stakeholders for review
+
+Use AI to draft alternative solutions
+
+Keep the case updated as assumptions evolve
+
+Rather than treating the business case as a static PDF sitting in a folder, they used it as a living document to track decisions, new data, and shifts in project scope.
+
+Once you have approval for your business case, try out this project proposal template to initiate the planning process.
+
+Best practices for writing a compelling business case
+
+These helpful habits separate good business cases from great ones—and they’re especially powerful when you pair them with tools like Notion AI:
+
+Write with your audience in mind: Tailor the language you use when writing for executives vs. engineers.Use clear metrics: Tie every claim to data or a measurable outcome.Engage stakeholders: Encourage interaction during your presentation to show that you value stakeholders’ opinions and collaboration.Anticipate objections: Surface concerns early and address them head-on in your case.Iterate transparently: Share early drafts and incorporate feedback in context.Connect related work: Link to related product specs, research, and OKRs inside Notion so everything stays connected and up-to-date.
+
+Write with your audience in mind: Tailor the language you use when writing for executives vs. engineers.
+
+Use clear metrics: Tie every claim to data or a measurable outcome.
+
+Engage stakeholders: Encourage interaction during your presentation to show that you value stakeholders’ opinions and collaboration.
+
+Anticipate objections: Surface concerns early and address them head-on in your case.
+
+Iterate transparently: Share early drafts and incorporate feedback in context.
+
+Connect related work: Link to related product specs, research, and OKRs inside Notion so everything stays connected and up-to-date.
+
+When presenting to different groups, you should also keep these suggestions in mind:
+
+For executives: Lead with strategic impact, ROI, and high-level timing.For engineering and design: Focus on scope clarity, dependencies, and technical constraints.For cross-functional reviewers: Highlight alignment with customer needs and business goals.
+
+For executives: Lead with strategic impact, ROI, and high-level timing.
+
+For engineering and design: Focus on scope clarity, dependencies, and technical constraints.
+
+For cross-functional reviewers: Highlight alignment with customer needs and business goals.
+
+Handling requests for changes becomes easier when you track feedback in the document itself, assign owners, and clearly relay decisions, which are all things that Notion helps with.
+
+Build your next business case with Notion AI
+
+Business cases do more than just help you get projects approved. They also clarify complex ideas for stakeholders, support better decisions, and keep teams aligned as plans change.
+
+Notion’s connected workspace helps here by letting you keep context alive between your business case, product specs, research, and action plan so work doesn’t feel like it’s happening in silos or scattered across tools. After all, when every decision, metric, and conversation lives in one space, you can reduce friction and increase alignment.
+
+Want to write faster, get better buy-in, and maintain clarity as your work evolves? Build your next business case today with Notion AI.

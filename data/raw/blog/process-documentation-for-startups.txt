@@ -1,0 +1,71 @@
+Title: The process documentation guide your startup needs (with examples)
+Published Date: 2021-10-12T00:00-06:00
+URL: https://www.notion.so/blog/process-documentation-for-startups
+
+How much of your startup’s day-to-day processes are living in the head of one or two brilliant people? What happens when you grow, when you hire new workers, when those one or two brilliant people are running the company and don’t have time to download their brain into every new hire? A startup’s job is to grow, which it can’t do successfully without a codified and simple-to-use process documentation system.
+
+A lack of process documentation will slow your growth
+
+Startups need their lean teams to cover a lot of ground, which means information about how to best use company tools or processes can get siloed away into one person’s brain.The hoarding of institutional knowledge has a way of snowballing out of control without proper documentation and knowledge-transfer methods — it becomes something everybody “just knows” but isn’t written down anywhere. The most important use for process documentation is to preserve, manage, and transfer knowledge faster and more permanently than word-of-mouth or workplace osmosis can.As your startup scales in size, institutional knowledge that isn’t readily available and easy to absorb might as well not exist.
+
+“Without documented processes, it’s a hard stress environment. Which leads to lower quality, poor safety practices, and not everyone is trained up. The first step would be, just write it down. Have the subject matter expert write down the process that they do each and every day.”
+
+- “Built to Lead” podcast, “Process Documentation” episode with Kim Lisiak and Michelle Shattuck.
+
+These difficulties can hinder your startup’s growth. Stress builds up, processes go undone (or done poorly), and responsibilities get dropped.
+
+The quick-start guide to process documentation for startups
+
+Process documentation works best when it’s set up early and performed often. Here are a few quick tips on getting started right away and how to create the most effective system right out of the gate.
+
+Wikis and process documentation can (and should) coexist
+
+Process documentation involves writing down all of the information workers need to succeed in their jobs and the steps to do it. It also means having a system in place, so new information can be added at any time and old information can be edited or excised by team members from a central location. Basically, a wiki makes information accessible to teammates and saves them from having to dig around for answers.An internal company wiki is a great place to store all of your process documents, and Notion can help you set up and maintain yours. It frees you from having everything in multiple Google Docs and instead creates a central location where hyperlinks, timestamps, ownership control, and edits can keep your docs up to date.
+
+Kopa, a remote startup, successfully used Notion wiki templates to bolster their own wiki. In doing so, they also centralized and simplified their process documentation, eliminating the multi-headed hydra of Google Docs, Mac Notes, GitHub Wikis, and Trello.
+
+The most frequently-used process docs should be the most visible
+
+Organizing your process documentation by any other system (alphabetical, chronological, or simple-to-complex) is a waste of your time. If a process is being used every day, that needs to be the first and most visible doc in your wiki or knowledge base. Then, your list should cascade according to usage and relevance. Stacy La, Clover Health’s director of design, suggests this utility-first approach in the First Round Review:
+
+"When a company grows that quickly after you’ve joined, you naturally get institutional knowledge that’s layers deep. Of course, this know-how shouldn’t be organized chronologically, but by utility. Luckily, an early employee has the built-in perspective to arrange this knowledge — and I’d argue the need, not just the ability. It was a release to get it all down and scale what I’d learned to the rest of the team. This was, and continues to be, crucial for building out our team, onboarding new design hires, the design review process and more. Growing quickly, I didn’t want the team to constantly reinvent the wheel."
+
+While onboarding is important, if you’re not onboarding people every day, it should be much further down in the knowledge base. You’re not creating an encyclopedia or a historical document about your business — process documentation needs to be a toolbox with the most useful tools closest to hand.
+
+And, of course, you don’t have to include everything in a single wiki. In Notion, individual teams or departments can have their own separate wikis, helping keep relevant information easily accessible to those that need it. The information for the design team can be organized to best fit their process, and the marketing team can customize their wiki a completely different way.
+
+Map each process with the team that does it
+
+You need to sit down with the people who actually do each process and map it from beginning to end before you can properly begin documenting it. Sounds simple enough, but unfortunately, it’s a common point of failure. Sometimes management or whoever was put in charge of the knowledge base will create a document for how a process should work that no longer matches the reality the team is living in.
+
+Let’s say a manager or early startup founder had created a process for how to enter customer data into the CRM software. It worked for a time, but another team member who used the CRM more frequently found a faster or more efficient way to enter that same data. That process doc is now no longer useful, as that team member will probably now have to say “Hey, let me show you a faster way” every single time the process comes up with a new hire.
+
+That’s hours of wasted time that will add up the more your company grows, and the more this new information has to be passed on manually from person to person.
+
+Not only will involving the team ensure the documentation for that particular process is accurate, but it will also give them hands-on experience with the documentation. So when it comes time to alter or update the knowledge base, they’ll be the ones doing it and making sure it’s right.
+
+Include images and video in your knowledge base
+
+We think of process documentation and knowledge bases too often as text dumps, but they don’t have to be. In fact, including visual elements into your knowledge base can boost retention and engagement.
+
+Many people are “visual learners” and will process information better in living color.Some processes can be better understood in a visual format — especially tutorials for software use. Flow charts break complex systems into bite-sized and easily-to-follow lily pads of decisions and data. Video explanations might save time on physical or difficult-to-describe processes.
+
+Many people are “visual learners” and will process information better in living color.
+
+Some processes can be better understood in a visual format — especially tutorials for software use.
+
+Flow charts break complex systems into bite-sized and easily-to-follow lily pads of decisions and data.
+
+Video explanations might save time on physical or difficult-to-describe processes.
+
+To spruce up your knowledge base with these, it of course needs to support the embedding and uploading of images and video. In a Notion wiki, uploading media files and embedding images is relatively simple and can add this multi-media utility to any page.
+
+Create calendar reminders to revisit process documents
+
+Few team members will have the time to just peruse old process documents or internal wiki pages just for fun. Information can go out of date quickly, and if a process changes due to mid-workday problem-solving, there’s no guarantee that a new fix will make it into the document.That’s where reminders come in. Tools like Notion allow you to not only assign ownership to your process documents but to then create regular calendar notifications to remind team members to update the pages.
+
+These reminders (and sense of ownership) put the onus for process documentation on the people doing the actual work and encourage them not to let institutional knowledge evolve without writing it down.
+
+You don’t have to create a system from the ground up
+
+For startups looking to compile a useful documentation process, most of the work has been done for you. Choose a simple pre-existing documentation solution like Notion to make your process documentation strategy clear to everyone on your team. Once you do, you’ll find learning, preserving, and transferring your institutional knowledge to be simply another smooth process instead of a tangled web of frustration.

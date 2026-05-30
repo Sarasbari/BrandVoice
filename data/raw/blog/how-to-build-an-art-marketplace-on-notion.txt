@@ -1,0 +1,37 @@
+Title: How to build an art marketplace on Notion
+Published Date: 2025-03-20T03:42-07:00
+URL: https://www.notion.so/blog/how-to-build-an-art-marketplace-on-notion
+
+Welcome to the inaugural post of our Builders series, where we salute people who are making wonderful things in Notion. Stories drop every Thursday.
+
+Kendall Warson has always surrounded herself with artists. She got her degree in fashion design from Parsons and then went on to design for iconic brands like Marc Jacobs and Diane von Furstenberg.
+
+In her mid-twenties, Kendall curated traveling art shows around the world. But as she reached out to artists for her shows, she realized there was no central hub for the art world.
+
+Musicians had Spotify. Entrepreneurs had Shopify. Sure, there were galleries. But eighty-four percent of artists don’t have access to galleries, and those who do typically pay fifty- to seventy-percent commissions. There had to be a better way to buy and sell art than Venmo requests over DM.
+
+Kendall realized that art is ubiquitous, but the process of discovering and acquiring it is fragmented. And so she decided to do something about it. Kendall linked up with a renowned gallery director and collector, Shyevin S’ng, and Cohart was born.
+
+There was one issue: Kendall lived in California and Shyevin lived in Malaysia. If Cohart was going to succeed, they would have to figure out how to build a fast-growing startup with cofounders on opposite sides of the globe.
+
+Building a distributed global team with Notion at the center
+
+One of Cohart’s biggest challenges was that their team—and the artists they support—are distributed around the world. The startup has a staff of twenty and three thousand artists in its marketplace, but has never had a physical office. From the get-go, they’ve had to build the company virtually.
+
+Notion has become Cohart’s HQ. It’s where they send new hires on the first day of work, track and update their monthly goals, and house their product roadmap. It keeps everyone on the same page—literally.
+
+For Kendall, Notion isn’t just an internal Wiki or a place where decisions get documented. It’s the lifeblood of the company. Especially when she’s collaborating with colleagues in Europe or Asia, Notion is how she makes sure everyone has visibility into what others are working on and is accountable for what they say they are going to do.
+
+Tips for builders
+
+1. Be generous with your time
+
+Yes, we know this is not common founder advice. Ruthlessly prioritize says the LinkedIn broetry. But Kendall has found that some of the most important moments in Cohart’s growth have come from meetings that initially seemed unnecessary. “When you’re building an idea, everyone that listens to it breathes air into the idea,” she says. “Even if a conversation doesn’t pay off right away, you never know how it might help down the line.”
+
+2. ABE: Always be experimenting
+
+The business world values conviction. Builders who have confidence and bravado often get rewarded, but Kendall has found that the opposite mentality—one that values humility and experimentation—is equally important. Cohart tries to ensure that it’s never fixed in its ways of doing things by building a culture of experimentation. “There’s a common piece of advice that if you build it, they will come," she says. "But part of building a business is experimenting with new ways of letting people know where to go.”
+
+3. Humanize the problem
+
+As a venture capital–backed startup, it’s easy to get lost in the technical aspects of company-building, but Kendall tries to ground herself and the humanity of what she’s trying to achieve. On calls, she’ll often start by asking attendees to tell the story of a piece of art in their home. She’s building Cohart because art makes the world a more beautiful place. “At the end of the day, good software helps people do more human things,” she says. “Don’t lose sight of the humanity in the problem you’re trying to solve.”

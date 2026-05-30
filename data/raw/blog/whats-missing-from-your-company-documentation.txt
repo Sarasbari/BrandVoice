@@ -1,0 +1,123 @@
+Title: Enhancing Company Documentation with Context: The Missing Element
+Published Date: 2021-02-26T00:00-08:00
+URL: https://www.notion.so/blog/whats-missing-from-your-company-documentation
+
+Company documentation comes in many forms — how-to’s, to-do’s, shared knowledge, process docs, and more. Often, it gets a bad rep as being flat, dry, and about as engaging as a W2 form.
+
+Reputations aside, the importance of this documentation is clear. It enables asynchronous communication, which has clear benefits for employees (and your company, especially now, when teams are more distributed than ever). Company documentation is having its moment.
+
+Even if you have the most robust documentation system this side of the encyclopedia, it might be missing a crucial element — context. It explains why you're creating a new feature or running a new process with your team.
+
+And when context is part of your documentation, it helps your company make decisions faster by prioritizing what’s important while pushing employees to challenge their own thoughts and ideas.
+
+If it’s not written down, it doesn’t exist
+
+2020 fundamentally changed the way many of us communicate. It’s not just speaking loudly through a mask or replacing a handshake with that awkward elbow bump thing. It changed how we communicate in the workplace — shoulder taps have turned into formal Zoom meetings, daily stand-ups into asynchronous Slack updates.
+
+To help us figure out a better way to navigate this new reality, we talked to Vinay Hiremath, CTO and Co-founder of video messaging tool for the workplace Loom, who built a culture of documentation from the start as a remote-first company. Loom’s third employee was remote. Plus, Loom is used by millions of remote employees all over the world, which underscored the need for a system of documentation.
+
+Imagine you have a big launch coming up. If all the ideas, dependencies, steps in the process, or things that need to get done live inside the head of an employee — what happens if they leave? Your IP is lost.
+
+It’s not just IP. Documentation can:
+
+Create asynchronous communication — if your team is distributed, getting everyone together for a meeting is almost impossible. Asynchronous communication allows teams anywhere to contribute and makes decision-making more effective.Standardize processes and collect information — on a macro level, you want teams to follow an established process. On a micro level, that might mean writing a problem statement, looking at dependencies, or consulting other teammates. Documentation lays out how to do something and all the parts needed to make it happen.Help your team grow — documentation gives your team long-term memory, both for important information or processes. When a new hire joins, all that info is immediately available so they can contribute from day one.Force clearer thinking — Vinay says the act of writing is where the rubber meets the road for your ideas. It forces you to clearly articulate concepts and why they’re important, also seeding new ways of looking at things.Establish company-wide transparency — most companies talk about it, but writing down what you did and why you did it helps you actually live it.
+
+Create asynchronous communication — if your team is distributed, getting everyone together for a meeting is almost impossible. Asynchronous communication allows teams anywhere to contribute and makes decision-making more effective.
+
+Standardize processes and collect information — on a macro level, you want teams to follow an established process. On a micro level, that might mean writing a problem statement, looking at dependencies, or consulting other teammates. Documentation lays out how to do something and all the parts needed to make it happen.
+
+Help your team grow — documentation gives your team long-term memory, both for important information or processes. When a new hire joins, all that info is immediately available so they can contribute from day one.
+
+Force clearer thinking — Vinay says the act of writing is where the rubber meets the road for your ideas. It forces you to clearly articulate concepts and why they’re important, also seeding new ways of looking at things.
+
+Establish company-wide transparency — most companies talk about it, but writing down what you did and why you did it helps you actually live it.
+
+Loom's documentation is constantly evolving, but it's nowhere near company documentation like Gitlab, which has a 4 million word handbook that spans over 10,000 pages.
+
+In outlining their documentation philosophy, Gitlab says, "As a team scales, the need for documentation increases in parallel with the cost of not doing it. Said another way, implementing a documentation strategy becomes more difficult — yet more vital — as a company ages and matures."
+
+So it’s clear documentation is vital to your organization’s health. But context makes it truly effective. Here, we'll delve into the different types of context that make the biggest impact.
+
+“How” vs. “why” documentation
+
+How docs are operational, explaining things like process, tools, company information, etc. Why docs are for context, like writing down decisions in meetings, the company's mission, and more.
+
+“The why needs to be reiterated at different altitudes in a document,” says Vinay. “Context answers the important question of ‘why are we even doing this?’” Similar to Loom's practice of ensuring the why lives everywhere in its docs, Etsy employs this framework to delineate the types of documentation its technical team creates.
+
+"Why documentation" is a forcing function. It requires the writer to look at the situation and explain their thought process, both at the broad and granular level. Why’s the project important? Why are we doing it now? Why are we doing it this way? But the how and the why should live side-by-side — they don’t need to exist as separate documents.
+
+We’ve heard from operations teams that, when they explain how to execute a new process alongside why they’re doing it, adoption by their team is faster. Employees get that 10,000-foot clarity. They can see all the way to the heart of their work. For a big project, it can be a through-line to your company mission, showing why that project is important and impactful. For a smaller process change, the why can illuminate efficiencies or time saved.
+
+Plus, having the why in your documentation reduces the number of those conversations that feel like a NASCAR race, full of only left-hand turns.
+
+So ask yourself — if documentation is important to your team, do you have both the how and the why? This gives your team the necessary context to buy into your mission, the work, and each other.
+
+Three ways to make context part of your team’s documentation
+
+If you already have robust documentation — or even if you’re just starting to build it — baking context into everything you do is essential. It’ll help you make decisions faster, prioritize what’s important, and build transparency.
+
+1. Set top-level context requirements, but allow room for interpretation
+
+It’s up to company leaders to plant the seeds of “why” documentation and set some guidelines for its inclusion. Once it takes hold, the hope is that it’ll grow everywhere.
+
+“As with any behavioral norm, it takes a certain density of people — especially influential people — within the company to enforce documentation,” says Vinay. “But once you establish a culture of documentation, it becomes a tool for your company.”
+
+And different teams will use that tool differently. Loom has company-wide templates but allows teams to customize how they include context in their documentation. For example, Loom’s “request for comment” (RFC) templates solicit team feedback. These RFCs have context sections, as do the product charters used to kick off big initiatives. Their post-mortems also have them. Templates can be copied with one click and modified to fit the specifics.
+
+They’re used across the company, but remain flexible to different teams or projects based on the communication needs of that the task at hand. Top-level guidelines ensure context makes it into these documents, but there aren’t requirements for where the “why” should be, how often it needs to be reiterated, or how to write context. This also empowers employees to thoroughly explore their decisions before presenting them to the broader team.
+
+2. Use a tool that encourages stronger communication
+
+Context is...complex. Sometimes text alone doesn’t get your point across.
+
+Loom uses Notion for its company documentation because it centralizes information across teams. But it’s also customizable enough that individuals or specific teams can structure context in a way that matches their preferred approach or the needs of their work.
+
+“If you want to learn how to communicate with your team better and narrate something in your own way and your own style, Notion is fantastic for that,” says Vinay. “It’s more fun to build your idea here and more enjoyable to see the outcome.”
+
+We’ve built certain features in Notion that inspire thought:
+
+Comments and discussions fuel async work — asynchronous communication is a superpower in a distributed world that's overly dependent on real-time apps where messages are missed, and context gets lost. Inside Notion pages, comments and discussions centralize this communication so nothing's missed and everyone's voices are heard.
+
+Comments and discussions fuel async work — asynchronous communication is a superpower in a distributed world that's overly dependent on real-time apps where messages are missed, and context gets lost. Inside Notion pages, comments and discussions centralize this communication so nothing's missed and everyone's voices are heard.
+
+Put just about anything right inside your pages — Vinay often embeds Loom videos right in Notion pages to explain their context. Whether it’s Looms, images, Whimsical diagrams, or Miro boards, they can help visually tell your “why” story.
+
+Put just about anything right inside your pages — Vinay often embeds Loom videos right in Notion pages to explain their context. Whether it’s Looms, images, Whimsical diagrams, or Miro boards, they can help visually tell your “why” story.
+
+Connect your context with the work it impacts — context becomes even more impactful when it’s positioned next to the work it’s related to. Notion pages unite workstreams and information. If you’re pioneering a new process, you can include the Kanban board right beneath your “why” to bring your context to life.
+
+Connect your context with the work it impacts — context becomes even more impactful when it’s positioned next to the work it’s related to. Notion pages unite workstreams and information. If you’re pioneering a new process, you can include the Kanban board right beneath your “why” to bring your context to life.
+
+Context is so unique to the situation at hand. Notion gives companies and teams within those companies the flexibility they need to make it more impactful. And if you need a little help getting set up? We have certified Notion Consultants all over the globe.
+
+3. Think of every document you create as an exercise in convincing people of something
+
+“You can’t be a senior engineer at Loom if you can’t convince people to devote a ton of their time and energy to something because it's meaningful,” says Vinay.
+
+From a process document to a spec on restructuring your codebase, think of everything you write as an act of persuasion. This isn’t to say that you should be selling hard — rather, it forces you to think deeply about context and challenge your own thinking to make it stronger.
+
+At the top of all your documents, write a “why this is mission-critical summary.” Then reiterate its importance at the end of your document, too. This might vary depending on what type of document you’re writing.
+
+For example, Loom has product charters that are long documents outlining a project and its execution. The why is reinforced throughout — at the top explaining why they’re building the thing, in the middle where process is discussed, and again at the bottom to really drive the point home.
+
+No matter what documentation you’re creating, it should start with the “what” and “why” before getting into the “how.” This frame provides the context a reader needs.
+
+To make sure you're truly writing persuasively, consider answering the following questions somewhere in the context you provide:
+
+What are the motivations of the people on the team? How can you connect the work that needs to get done to what energizes them?What company-wide needles will this work move? What visibility will this give the team with influential people inside the company? What will success show them?What skills or competencies does the team have to gain through the project in question?
+
+What are the motivations of the people on the team? How can you connect the work that needs to get done to what energizes them?
+
+What company-wide needles will this work move? What visibility will this give the team with influential people inside the company? What will success show them?
+
+What skills or competencies does the team have to gain through the project in question?
+
+If you hit these points, you've not only made a solid argument, you've also revved the team up to do their best work.
+
+Context shows what your company has learned as it grows
+
+Think of your company documentation like a tree — it’ll continue to grow with your team. The context in this documentation shows the evolution of your thought process, like cutting into that tree to show its rings.
+
+Vinay says that the “why” is beneficial for both document creators and readers. Creators fortify their thoughts. Readers see why something was prioritized, what the company thought was important then and how that thinking has changed.
+
+It’s this perspective that helps build on the past and chart a path forward.

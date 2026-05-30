@@ -1,0 +1,75 @@
+Title: Customize & Share Your Notion Page as a Public Website with a Custom Domain
+Published Date: 2021-06-28T00:00-07:00
+URL: https://www.notion.so/blog/personalize-public-pages
+
+Building and maintaining a website should be easy — for everyone.
+
+Instead, for most people, it’s time-consuming, cumbersome, and requires technical knowledge to get right. Domain registrar. SSL certificates. Managed hosting with CDN. Installing the CMS on the host. These are all considerations for getting your webpage live, not to mention building the thing in the first place.
+
+That’s why Share to web has been part of Notion since the start, a tool that gives anyone the ability to turn a fully-customized Notion page into a public website with one click.
+
+Today, we’re introducing a new home for your public pages in Notion that puts your branding at the front of public page links you share with colleagues, clients, and friends.
+
+Public Notion pages are now hosted at yourdomain.notion.site
+
+Now, all your public Notion pages are live on: [yourdomain].notion.site!
+
+Before, links to public Notion pages looked like this:
+
+notion.so/acmedesign/xxxxx12345
+
+notion.so/acmedesign/xxxxx12345
+
+Now, they look like this:
+
+acmedesign.notion.site/xxxxx12345
+
+acmedesign.notion.site/xxxxx12345
+
+Publishing Notion pages to the web works just like it always has: fast and easy. Now the links you share will include the domain name of your choosing, right at the front of the link. This allows you to create a branded, customized experience the moment someone sees the link to your website.
+
+Webpages that are easy to build, and easy to publish
+
+We’ve seen Notion-built websites come in all shapes and sizes.
+
+Startups can share their pitch decks on public Notion pages — an easy-to-read alternative to the traditional deck. By turning on Share to web on a pitch deck, potential investors can access it seamlessly, even if they’re not logged into a Notion account.
+
+For larger teams, building a webpage in Notion allows you to preserve precious engineering resources. Publish a job posting, release notes, or terms of service straight to web, without having to task a web developer with adding it to your website.
+
+Students and job seekers use public Notion pages as a striking and memorable alternative to traditional resumés. Now, your resumé and cover letter can be shared with potential employers with a link that features your branding right at the front.
+
+Q&A
+
+Basics for publishing pages and changing domains.
+
+I’ve never published a Notion page to the web before. How do I do that?
+
+Any page in Notion can be published to the web, so that anyone with the link can access it.
+
+Click the Share button at the top right of any page.Toggle on Share to web.Use the Copy link button (or Share page link if you’re on mobile) to copy the page’s URL to your clipboard.Paste the link in a text message, email, Slack, social media post, wherever you like!
+
+Click the Share button at the top right of any page.
+
+Toggle on Share to web.
+
+Use the Copy link button (or Share page link if you’re on mobile) to copy the page’s URL to your clipboard.
+
+Paste the link in a text message, email, Slack, social media post, wherever you like!
+
+I’ve already shared a bunch of public notion.so links with people. Will those links still work?
+
+Yes! Any notion.so links to public pages that were created before June 29, 2021 will automatically redirect to your new notion.site domain. And notion.so links created after June 29, 2021 will take you to a page that looks like this, pointing you in the right direction:
+
+How do I set the domain of my notion.site links?
+
+On desktop, click Settings & members in the left-hand sidebar.Hit Settings.If you’re an admin in the workspace, you’ll see the option to change your domain right below your workspace icon:
+
+On desktop, click Settings & members in the left-hand sidebar.
+
+Hit Settings.
+
+If you’re an admin in the workspace, you’ll see the option to change your domain right below your workspace icon:
+
+I still have questions. Where can I go to learn more?
+
+To learn more about public pages in Notion, visit this page in our Help Center. And you can always get in touch with us directly by using the (?) button at the bottom right of Notion, or emailing us at [email protected].

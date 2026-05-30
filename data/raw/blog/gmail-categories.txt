@@ -1,0 +1,349 @@
+Title: Gmail categories explained: Setup, tips & organization
+Published Date: 2024-11-22T00:00-07:00
+URL: https://www.notion.so/blog/gmail-categories
+
+On average, a single person receives about 121 emails every day. Even if your daily count isn’t so staggeringly high, it doesn’t take much for your inbox to feel chaotic. A constant flow of emails can bury important messages and slow down your response time.
+
+The solution? Knowing how to make the most out of Gmail's organization features, starting with Gmail categories.
+
+If you want to reduce the stress of managing your inbox, Gmail categories can change your basic setup and help you cut through the stress-inducing clutter—we’ll break down everything you need to know in this guide.
+
+However, if you really want a faster, cleaner, and optimized inbox, categories are just the beginning. Our key organization strategies go beyond the basics, giving you full control over your Gmail experience.
+
+What are Gmail categories?
+
+Gmail categories are built-in tabs that automatically sort your incoming emails into different categories. They were introduced in 2013 to make the inbox less overwhelming and easier to manage.
+
+To organize your emails, Gmail utilizes a machine learning system that analyzes signals, such as senders and your typical activities. Based on that, it sorts emails into these five categories:
+
+CategoryType of emailsPrimaryPersonal and important emailsSocialEmails from social mediaPromotionsMarketing emails, deals, offers, and similarUpdatesBills, receipts, notifications, statements, and confirmationsForumsEmails from discussion boards and mailing lists
+
+Category
+
+Type of emails
+
+Primary
+
+Personal and important emails
+
+Social
+
+Emails from social media
+
+Promotions
+
+Marketing emails, deals, offers, and similar
+
+Updates
+
+Bills, receipts, notifications, statements, and confirmations
+
+Forums
+
+Emails from discussion boards and mailing lists
+
+There is a built-in cap, though. If there are over 250,000 emails in your inbox, you won’t be able to turn on categories. Even if this is the case, the solution is fairly simple—just archive or delete your old emails. If you have a ton of emails to delete, you can always use a cleaner app.
+
+Can you create new categories in Gmail?
+
+If you’re wondering how to create a category in Gmail, the short answer is you can't—at least not manually. You can only organize emails within the preset categories. However, Gmail allows you to show or hide the ones you want for a touch of personalization.
+
+You can manage the categories across different devices, so let’s go over how to do it on:
+
+ComputerAndroidiPhone or iPad
+
+Computer
+
+Android
+
+iPhone or iPad
+
+1. How to add or remove categories on a computer
+
+To turn on Gmail categories, follow these steps:
+
+Open GmailSelect Settings and then click See all settings at the top rightGo to the Inbox tabUnder Inbox type, choose DefaultUnder Categories, tick the box next to a category you want to show in your inbox(Optional) Tick the box next to Include starred in Primary if you want to show starred messages in the Primary category(Optional) Tick the box next to Enable bundling of top promo emails in Promotions if you want to allow top promotions in the Promotions tab Select Save changes
+
+Open Gmail
+
+Select Settings and then click See all settings at the top right
+
+Go to the Inbox tab
+
+Under Inbox type, choose Default
+
+Under Categories, tick the box next to a category you want to show in your inbox
+
+(Optional) Tick the box next to Include starred in Primary if you want to show starred messages in the Primary category
+
+(Optional) Tick the box next to Enable bundling of top promo emails in Promotions if you want to allow top promotions in the Promotions tab
+
+Select Save changes
+
+If you deem a certain category redundant, you can remove it at any point in the following way:
+
+Open GmailGo to SettingsSelect See all settingsChoose Inbox Under the Inbox type, uncheck the categories you don’t wantSelect Save changes
+
+Open Gmail
+
+Go to Settings
+
+Select See all settings
+
+Choose Inbox
+
+Under the Inbox type, uncheck the categories you don’t want
+
+Select Save changes
+
+2. How to add or remove categories on an Android
+
+The steps to add or remove categories on your Android device are much the same as on a computer. All you need to do to show the categories you want is:
+
+Open the Gmail appClick Menu at the top left and then select SettingsChoose your accountClick Inbox, and then Default InboxSelect the Inbox categories and then check the categories you want(Optional) Tick the box next to Include starred in Primary if you want to show starred messages in the Primary category(Optional) Tick the box next to Enable bundling of top promo emails in Promotions if you want to allow top promotions in the Promotions tab
+
+Open the Gmail app
+
+Click Menu at the top left and then select Settings
+
+Choose your account
+
+Click Inbox, and then Default Inbox
+
+Select the Inbox categories and then check the categories you want
+
+(Optional) Tick the box next to Include starred in Primary if you want to show starred messages in the Primary category
+
+(Optional) Tick the box next to Enable bundling of top promo emails in Promotions if you want to allow top promotions in the Promotions tab
+
+The following steps show you how to hide the unwanted categories:
+
+Open the Gmail appTap Menu Select SettingsChoose your accountSelect Inbox categories and uncheck the categories you don’t want
+
+Open the Gmail app
+
+Tap Menu
+
+Select Settings
+
+Choose your account
+
+Select Inbox categories and uncheck the categories you don’t want
+
+3. How to add or remove categories on an iPhone or iPad
+
+If you want to manage your categories on an IOS device, you’ll only need a minute. Here’s how to turn on categories:
+
+Open the Gmail appTap Menu, and then select SettingsUnder Inbox, choose Inbox typeSelect Default Inbox.Choose Settings at the top leftClick Inbox customizations and then Inbox categoriesTurn on the categories you want
+
+Open the Gmail app
+
+Tap Menu, and then select Settings
+
+Under Inbox, choose Inbox type
+
+Select Default Inbox.
+
+Choose Settings at the top left
+
+Click Inbox customizations and then Inbox categories
+
+Turn on the categories you want
+
+To turn off some or all inbox categories, take these steps:
+
+Open the Gmail appGo to Menu, and then SettingsChoose your accountTap Inbox customizations and then Inbox categoriesTurn off the categories you don’t want
+
+Open the Gmail app
+
+Go to Menu, and then Settings
+
+Choose your account
+
+Tap Inbox customizations and then Inbox categories
+
+Turn off the categories you don’t want
+
+How to manage emails within categories
+
+Once you organize emails into categories, you might want to search for a specific email within a category. However, if you enter a keyword in the search bar, it will go through the entire inbox—not exactly helpful when you’re trying to narrow down the search.
+
+That’s why Gmail allows you to search for emails only within a specific category. Just enter category: [name of the category] and then type your search term, and Gmail will focus on that category. For example, if you type “category: Social invite,” Gmail will source all emails with the keyword “invite” within the Social category.
+
+Another option you have is to move emails between categories. So, if you place an email in the wrong category, you can always move it later on. There are two methods you can use, and we’ll take you through each in the table below:
+
+MethodStepsDrag-and-dropSelect the emailDrag to the desired category at the top of your inboxRelease the mouse button“Move to” methodOpen the emailSelect the Move to icon in the toolbar above your emails (looks like a folder with an arrow pointing to the right)Choose the desired category
+
+Method
+
+Steps
+
+Drag-and-drop
+
+Select the email
+
+Drag to the desired category at the top of your inbox
+
+Release the mouse button
+
+“Move to” method
+
+Open the email
+
+Select the Move to icon in the toolbar above your emails (looks like a folder with an arrow pointing to the right)
+
+Choose the desired category
+
+After you make the transition from one category to another, Gmail will ask you if you want to categorize similar future emails the same way.
+
+Improve how Gmail sorts your emails into categories
+
+Even though Gmail uses smart automatic sorting, it doesn’t get it right every time. So, don’t be surprised if some emails land in the wrong category.
+
+That said, Gmail’s system can learn over time. Machine learning systems absorb and adapt, meaning that you can teach Gmail to improve its sorting skills. You can share your preferences by:
+
+Moving messages to the right category when Gmail makes a mistakeCreating "folders" to direct emails from specific senders (or based on other criteria) to specific categoriesAdding known senders to your contacts to indicate to Gmail that their emails are importantReplying to an email to signal that you know the sender
+
+Moving messages to the right category when Gmail makes a mistake
+
+Creating "folders" to direct emails from specific senders (or based on other criteria) to specific categories
+
+Adding known senders to your contacts to indicate to Gmail that their emails are important
+
+Replying to an email to signal that you know the sender
+
+These simple actions can tell Gmail more about what matters to you and which emails belong where, so it can fine-tune its algorithm.
+
+Beyond Gmail categories: Other ways to organize your inbox
+
+Besides using categories, there are other ways you can cut through the chaos in your inbox. If you want to make your inbox more manageable, improve your productivity, and spend less time engaging with emails, consider the following organization tips:
+
+Use Gmail labelsCreate rules to filter emailsArchive and delete emailsRevise your subscriptionsLeverage automation tools
+
+Use Gmail labels
+
+Create rules to filter emails
+
+Archive and delete emails
+
+Revise your subscriptions
+
+Leverage automation tools
+
+1. Use Gmail labels
+
+If you don’t want to move emails into different categories but would still like a more organized inbox, use Gmail labels instead. With labels, you can apply tags to emails to define your messages more precisely. This way, you can group related emails without moving them out of their location.
+
+You can create your own labels and attach as many labels as you want to an email. For example, if you want to organize your Socials category according to different social media, simply create labels like Instagram, Facebook, TikTok, and so on. When you want to check Instagram-related emails, just click on that label, and Gmail will display those messages. You can also change or delete labels if your preferences change.
+
+2. Create rules to filter emails
+
+Gmail rules are automated filters that can organize your inbox according to your chosen criteria. They may not be an advanced sorting tool, but they can handle some basic tasks such as:
+
+Moving emails to categoriesLabelingArchivingDeleting emailsForwarding emails
+
+Moving emails to categories
+
+Labeling
+
+Archiving
+
+Deleting emails
+
+Forwarding emails
+
+Here’s how you can create your own rules:
+
+Open GmailSelect Show search options in the search boxAdd your search criteriaClick Create filterCheck the action that you’d like the filter to doSelect Create filter
+
+Open Gmail
+
+Select Show search options in the search box
+
+Add your search criteria
+
+Click Create filter
+
+Check the action that you’d like the filter to do
+
+Select Create filter
+
+3. Archive and delete emails
+
+One essential step toward decluttering your inbox and improving your productivity is archiving and deleting unnecessary emails. To get rid of clutter in the gut and free up some storage space, delete emails with large attachments.
+
+On the other hand, if you’d like to revisit something later, you can move it to the Archive folder. This way, it won’t take up space in the main inbox or Gmail categories, but you can still access it in All Mail.
+
+4. Revise your subscriptions
+
+Most of us are guilty of piling up a bunch of random subscriptions that fill up your inbox and drown out important emails, especially in the Promotions.
+
+That’s why we recommend taking a few minutes to review your subscriptions and unsubscribe from the ones that have lost your interest. Gmail even lets you unsubscribe from multiple subscriptions within a single dashboard to speed up the process.
+
+5. Leverage automation tools
+
+Gmail’s organization features might reduce the clutter to some extent, but they’re not the most efficient. If you’re dealing with a large volume of emails or if you want a more personalized experience, you should consider automated email management tools.
+
+AI-driven tools are gradually becoming the norm for those who want to streamline email management. They can automate tasks like deleting, sorting, and categorizing emails, and even handle some more advanced tasks such as suggesting responses and summarizing emails.
+
+One great example of this new wave of smart tools is Notion Mail—a powerhouse of AI-driven features. As a Gmail-native client, it only requires a Google or Gmail account to sign in. Let’s find out how Notion can upgrade your email management.
+
+Take your email organization to the next level with Notion Mail
+
+Notion Mail is a free, intelligent email management tool that streamlines and accelerates your email workflows. It works with your existing Gmail account to automate basically every aspect of your inbox, from sorting and labeling to replying and scheduling meetings.
+
+This builder-focused platform offers numerous AI-powered features that let you customize workflows and tackle tasks with a few clicks. Here’s what Notion’s AI can do for you:
+
+AI featureWhat it doesAutopilotOrganizes and prioritizes emails into specific labels based on simple promptsEmail compositionAutofills your responses based on context and provides short and natural AI-crafted repliesEmail overviewAnalyzes lengthy emails and summarizes the content
+
+AI feature
+
+What it does
+
+Autopilot
+
+Organizes and prioritizes emails into specific labels based on simple prompts
+
+Email composition
+
+Autofills your responses based on context and provides short and natural AI-crafted replies
+
+Email overview
+
+Analyzes lengthy emails and summarizes the content
+
+In addition to these nifty AI features, Notion Mail packs other productivity-boosting functionalities, such as:
+
+Customizable inbox views and layoutsAutomated meeting schedulingKeyboard shortcuts for common commands (like Mark as read, Reply, etc.)One-click unsubscribe
+
+Customizable inbox views and layouts
+
+Automated meeting scheduling
+
+Keyboard shortcuts for common commands (like Mark as read, Reply, etc.)
+
+One-click unsubscribe
+
+Sign up for Notion Mail
+
+You're only one step away from organizing your inbox with Notion Mail—just connect your Google or Gmail account, and you’re in. All core features are free to use, and if you seek deeper automation, you can get the Notion AI add-on.
+
+Keep reading: Our Gmail guides covering everything from deleting accounts to solving common glitches:
+
+How to remove a Gmail account from your phoneHow to find unread emails in GmailHow to get a Gmail desktop appWhat to do if your Gmail isn’t receiving emailsHow to recover deleted emails from GmailHow to manage the Spam folder in GmailHow to remove the Inbox label in GmailHow to create a label in Google Contacts
+
+How to remove a Gmail account from your phone
+
+How to find unread emails in Gmail
+
+How to get a Gmail desktop app
+
+What to do if your Gmail isn’t receiving emails
+
+How to recover deleted emails from Gmail
+
+How to manage the Spam folder in Gmail
+
+How to remove the Inbox label in Gmail
+
+How to create a label in Google Contacts

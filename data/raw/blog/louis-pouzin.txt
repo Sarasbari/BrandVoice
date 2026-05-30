@@ -1,0 +1,149 @@
+Title: Louis Pouzin discusses the early days of the internet
+Published Date: 2019-09-06T00:00-08:00
+URL: https://www.notion.so/blog/louis-pouzin
+
+We were fortunate to catch Louis Pouzin (and his wife and Savoir-Faire Co-founder Chantal Lebrument) on a brief trip to the U.S. to be honored by the Computer History Museum. They joined us at Notion's former office in the sunny Mission district of San Francisco for a chat with Tools & Craft Host Devon Zuegel.
+
+DEVON: Hello and welcome to Tools & Craft, the show where we talk with the engineers, inventors and designers who shaped computing as we know it. I'm your host Devon Zuegel, and today we're talking with
+
+Louis Pouzin. Louis is the inventor of the datagram, a precursor of the TCP/IP protocol, and he's the designer of an early package switching network called CYCLADES. In the 1960s, Louis created the ancestor of the command line interface and he coined the term Shell. Currently, Louis is the Director of Projects at Eurolinc, a lobbying organization working for multilingualism and better internet governance. Louis is also the Co-founder of Savoir-Faire which manages top level domains for Open-Root, an alternative DNS service challenging ICANN (Internet Corporation for Assigned Names and Numbers).
+
+So Louis, welcome and thank you very much for being here. I've been really looking forward to this conversation. Can you start by talking about some of the problems that you've tackled in your career and what drew you to projects like CYCLADES, Eurolinc, Open-Root, and RINA?
+
+LOUIS: Well, initially my first job was at a telephone company, because I knew nothing about industry. I had just went to a École Polytechnique, but most of my colleagues were people from reasonably — I won't say rich — but sufficiently involved families in Parisian society. Their parents knew people and they already had jobs. But I was coming from the countryside so I didn't know anything about that milieu. That's where I started. So after school, I joined a telephone company.
+
+It was fantastic to have those machines doing extremely fast calculations. Machines Bull and IBM were the only two companies working on equipment which was not yet called computers, but they were only doing mainly administrative calculations and using punch cards. Some of those machines had the possibility to have programs — but programs made of wires you would plug into a board to make a connection manually between those pieces of equipment.
+
+One of my colleagues introduced me to [Professor Fernando J.] Corbató, who was an American working at MIT and who was heading a new team working on time-sharing [1]. Time-sharing was a totally new concept of using machines simultaneously with several people. There were two other places in the U.S. where they were also preparing for some time-sharing, but much more limited because you had to use only one particular language. While I was working on Corbató's project, you could use a machine entirely for what it was built — I mean to use the physical machine with any language or any compiler you would like.
+
+So I was lucky to be introduced to that place, and I joined the MIT Computing Center at the beginning of 1963. Several months later, I brought my wife and two kids. Engineers did not make programs then. That was the job of technicians. But quickly I started to use my own terms, making micro-instructions, which they were not using. That allowed me to write programs faster and also make them more readable. I was aware of Lisp [2] because I had to write articles. But nobody was using Lips except, you know, this group headed by [computer scientist John] McCarthy. He was one of the famous experts in creating and using Lisp — but that was a different department.
+
+At MIT, you had separate boxes with people who were doing quite different things and we rarely discussed all things together. In the cafeteria, people only talked about subjects like going skiing, you know. I decided, “I will not stay in the US.”
+
+So I returned to France. At that time, I was practically the only one in France who could speak about time-sharing in English. So I was promoted in a way without making any effort, as a sort of go-between between the Americans who were visiting and time-sharing.
+
+DEVON: So before you were working on CYCLADES in the 1960s, you spent your time at MIT. Can you expand a little bit on how that period of time shaped your thinking and the work you did later on?
+
+LOUIS: It was a major focal point for my life. Just learning English and computing would have taken me more than 10 years in France. But it would not have worked at all, because when I went to MIT I was already 30. If I had waited until this knowledge could be acquired in France, it would have taken 10 more years. So I would have been 40. If you start your career when you're 40, it's a bit late.
+
+DEVON: Can you talk a little bit about what the CYCLADES [3] project was and how you got involved?
+
+LOUIS: One day I got a call. I was, at the time, working for a car company — a car producer. It was Simca, which was a French company. I had been there for one and a half years, not very long. I quit them when I got this call. I was in a computing department. Just producing documents for the people who were manufacturing cars, and that was extremely repetitive.
+
+Why were they calling me? It's because the French government at the time was led by General [Charles] de Gaulle. This man was a person who had a very strong sense of French independence. They wanted to have a control data computer because it would be fast enough to calculate all of the elements of a nuclear weapon. But the Americans had objected to that and didn't want to deliver a control data machine. So [the French government] had created a separate service bureau — but it was also computing the bomb. They needed some independence for computing.
+
+That’s why they created CII (Compagnie Internationale pour l'Informatique) — it was there at the very beginning with ARPANET [in the U.S.].
+
+[French leaders] visited people [in the U.S.] who described all the many fantastic things you could do with a network of computers. The conclusion was that they had to develop something like that in France. They called me and said, “We want the government to develop a computer network linking all the administrations.” I said, “Yes, okay.” “You want to do it?” “Well, why not?” There was not many people who could do that in France at the time.
+
+DEVON: How did they find you?
+
+LOUIS: I had given conferences on time-sharing. Coming back from the U.S., I was perhaps one of the unusual people who had been in industry and also given conferences at universities. Usually, that was totally separate. But since I was in the U.S., people at universities knew me — and the people who were in the group the government had asked to think about how to be independent in computing. They knew me because I was known in the scientific community and in the southern part of France at the time. They didn't have many people to choose from.
+
+It was a sort of independent agency — not independent from the government, of course, because it was created by the government. But independent of other ministries. So they had relatively more money than other ministries and they were ready to go — as long as they could fine someone. So it was me.
+
+DEVON: What sort of colleagues were you looking for when you started recruiting?
+
+LOUIS: Engineers. At the time, there were mainly theoretical things people were dealing with. Teaching things, but never implementing anything.
+
+But these people were not at conferences. So in a way, I trained them to make conferences. We had to do some propaganda about the project.
+
+DEVON: Who was the propaganda for? And who were you trying to convince about the project?
+
+LOUIS: Mainly the people who had power — power and a minimum understanding of industry. That's needed when you want to build something in a country like France.
+
+DEVON: How did the architecture of CYCLADES differ from ARPANET, which was happening around the same time?
+
+LOUIS: Some things were common. Where it differed considerably is that ARPANET was a single network first, which had a single name space. It was using physical addresses where you could send things.
+
+So I decided to adopt standard protocol. Perhaps it was less efficient than specific protocols built for ARPANET, but I think having specific protocols is always a nightmare.
+
+DEVON: It's sort of like having a USB — the Universal Serial Bus. The word “universal” is there so that it's a standard and you don't end up having to get different dongles for every single thing.
+
+LOUIS: Yeah! So that makes things much simpler. It can be implemented much faster, also. And in a project like that, time is critical. If you don't go fast, then it's abandoned. Usually because people lose confidence in how the project is managed. And they decide it's getting too expensive. And the politics change. Politics change often.
+
+DEVON: I come from an engineering background myself. And for the longest time, I always thought, “just build it.” If you build it well, then people will use it and they'll respect it. But right now, I'm leading a project at work [Devon helped launch GitHub Sponsors, a new way to financially support developers who build open source software], and I am learning this lesson that you have to explain why it's important to people.
+
+You have to go find the right people. You have to convince them. And it's a continual process of telling the story about why you're doing it. And that's just as important as actually building it. Because if you don't do that, you will lose the opportunity to keep building it.
+
+LOUIS: That's right.
+
+DEVON: So you mentioned that you had to create a direct channel between the two nodes of the network. And also another challenge was that it had a bunch of custom protocols that weren't standardized. Can you expand on that a bit?
+
+LOUIS: Well, the fact we were doing CYCLADES as another component, politically it was to create in France an industry that could compete with IBM or whatever — mainly IBM because that was the major competitor at the time.
+
+Things should be extremely flexible in attaching things with each other. That's why we went with standard protocol to begin with. This was maybe not the best, but it was the best given the time it took to implement.
+
+That means the piece of data can take whatever direction that is at the moment open, available, and not saturated. It means possibly taking several directions. And in the end, either they're put together, or if there are redundancies in the transmission, they drop the ones that arrive later than the first ones.
+
+That was an idea that was already in the air at the moment. It had been proposed by [computer networking pioneer] Paul Baran. It had been studied in the context of military. They wanted to have something that could communicate no matter what — and communicate the damage that could have been done to the network by the enemy. It was tailored for short messages which had to go through no matter what.
+
+So, we had to make sure all the things would arrive at some point, then put them in the appropriate order. That's no tricky thing in computing. You just put numbers on it. When they arrive, you put them together.
+
+The people who had no computing culture thought it was a terrible thing to do, putting things together and so on. Because in their mentality, if you have A, B, and C, and C arrives before B, we have to wait for it. [They thought,] as long as the data is all there, we can put them together. To me, it was relatively obvious to do that. A priori, it sounds stupid. Packets which have been partially transmitted — an excess — we just drop them.
+
+I asked, “How do you make sure things arrive?” If you have a lot of data going to a small number of destinations at a high volume, then probably channels are a better solution. But if you have a lot of transmissions — of something like a document, for example, which may be something like 200 pages, or maybe a short message — each one may be cut into pieces and they will arrive in pieces at some point.
+
+DEVON: Presumably, the channel method would be better for something like video or video chatting, right? Where you want it to be more consistent? It's more like a phone call.
+
+LOUIS: Video is different. Because video not only has to be relatively constant for the person to look at the image, but also it has to have a regularity of delivery. That's not necessary when you transmit data. That's why usually video systems use buffers. They get enough of the image to be able to deliver it with regularity.
+
+DEVON: One of the things I was thinking as I was reading about CYCLADES and the packet transfer network system you put together as compared to the channel network — it feels like it's very anti-establishment, and potentially threatening to the entrenched ways that the computer and telephony industries worked. Was that something you intentionally designed into the system, or was that more of an after effect? I'm very curious to hear your thoughts on that, because it changed the way people had control.
+
+LOUIS: It did change that, yeah.
+
+In Europe, if you're thinking about a system which will need every country's approval then you're dead. It's impossible. You have to have a system which is flexible enough so that each one can use it with a minimum effort, without complications. That way, each separate network can be managed in a different way.
+
+DEVON: It sounds like this flexibility was crucial for the internet to be able to scale — so that more people would be willing to be a part of it. The only thing everyone had to agree on was that thin protocol layer of how to pass messages. Then after that everyone could make decisions on their own.
+
+LOUIS: Yeah. That's it. That was CYCLADES. And that's what DARPA took as a solution 10 years later. But they didn't change their strategy. [The Americans] wanted to get the whole world into the network as fast as possible, so that there couldn't be opposition to it. They almost succeeded — but not completely.
+
+DEVON: So the TCP/IP protocol suite is nearly ubiquitous today. Considering that they were developed in the 1970s, they're impressively durable. Software tends to change very quickly. Creative destruction happens really fast in the software industry.
+
+So how have these systems held up over time? What problems are they facing now? And how does the TCP/IP protocol suite not work for us so well today?
+
+LOUIS: That's the kind of thing which can't stay for many more years, because most companies require higher quality of service. Quality of service comes with a number of terms like “reliability,” “congestion,” and whatever.
+
+If you want to optimize the service, should that be done for some specific customers, or should that be done for the whole population? At the moment, the management of all this is still quite poor. Not optimized at all. People don't have any guarantee of quality of service.
+
+That's not tolerable for things like — for example — if you get a surgeon operating on a patient somewhere. You can't tolerate delays or packets being disposed. So that's the kind of thing which has never been really taken as a principle.
+
+DEVON: Can you expand a little bit on who is responsible for that governance in our current system and how you intend to change who's responsible for that governance?
+
+LOUIS: You have to have different classes of service in which you're fairly guaranteed in terms of parameters, for example. Private users which pay more, which have priority, and so on. It's like electricity. You pay depending on the charge or the level of electricity consumed within the network.
+
+DEVON: That's very interesting. Especially the surgeon example. A lot of people talk about net neutrality. Here in the United States at least, it's a very hot topic and people in San Francisco tend to have the view that everybody should have the same service and you shouldn't be able to “pay to play.” But the surgeon example I think is a very interesting and challenging one.
+
+It does make sense, like if I'm at home watching Netflix and someone else is getting open-heart surgery, I think they have a little bit higher priority than me watching Seinfeld for the fifth time.
+
+LOUIS: In the urgency service, they're required to have priority over others.
+
+DEVON: Right. Just like how an emergency vehicle can drive through the road and they turn on the siren and they say, “I have to go.” Who gets to decide whether or not that is the system that we have?
+
+LOUIS: At the moment, the people who can decide are the people who provide the networks [ISPs]. But they won't do it unless the customers require them.
+
+DEVON: Right. It's an alternative DNS service to challenge the ICANN monopoly. What problems arise from that sort of monopoly on top-level domains? Why is that a problem?
+
+DEVON: What problems occupy your time these days? What have you been thinking about recently and what have you been working on?
+
+LOUIS: We developed Open-Root initially so that the RINA system could communicate without having a physical network. But for that, we need to have a different protocol, because it would be RINA to RINA. So that's in a way what Open-Root is. It's a platform that makes networks compatible with each other, which is not the case today.
+
+It's a matter of understanding the logic in the industry. Industry, at the moment, has developed a lot of things for the existing internet. The same was true of electricity years ago. When we had all kinds of innovation in electricity, [industry] had to adjust to that. So we have to plan, in other words, to anticipate that the network will have to change completely.
+
+It's not enough to have new functions in the network. Users will have to adjust to that — and that takes a much longer time than just changing the technical things.
+
+DEVON: How do you hope users will use computers differently in the future? And how do you hope networks will evolve as we move forward into the next decade?
+
+LOUIS: That's something which is a bit frightening. When I look at the street, everybody has [gestures that everyone is compulsively staring at their cell phones].
+
+A lot of people think the internet will be the same forever. Not realistic. They haven't thought yet that they'll have to adjust to a new era of internet. We'll have a period of time to adjust to the limits of what can be done with computers and what should not be done with computers.
+
+Time-sharing is the sharing of a computing resource among many users via multiprogramming and multi-tasking at the same time. The development of time-sharing in the 1970s represented a major leap forward in the history of computers.
+
+Lisp is the second-oldest high-level programming language, originally created as a mathematical notation for computer systems.
+
+CYCLADES was a research computer network created in the early 1970s used to pioneer packet-switching networks and explore design alternatives to ARPANET.
+
+Brought to you by Devon ZuegelDevon is a software engineer and writer based out of San Francisco.
+
+Video by Slow Clap and The Land FilmsIllustrations by Roman MuradovPhotos by Ulysses

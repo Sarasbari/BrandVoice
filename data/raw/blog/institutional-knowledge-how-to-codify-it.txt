@@ -1,0 +1,99 @@
+Title: Optimizing Institutional Knowledge Retention for Business Success
+Published Date: 2021-09-27T00:00-06:00
+URL: https://www.notion.so/blog/institutional-knowledge-how-to-codify-it
+
+When employees prepare to leave your company, their departure ripples out much further than just their vacated position. One ripple is their work. Another is the knowledge of how to do their work. Another is their understanding of company culture. One might be processes or standards or anything else that lives in the employee’s head — and soon, there’s a ton of institutional knowledge left in their wake that’s undocumented.
+
+When an experienced employee leaves and takes their knowledge with them, their colleagues who are left behind or who replace them get caught in the riptide and end up in a difficult position. They’re asked to learn the outgoing employee’s responsibilities and figure out how to best accomplish those tasks. Those team members are forced to intuit things that may require specific knowledge they don’t have, such as quality standards and processes like creating and delivering reports. If they aren’t provided with knowledge management documentation on how those things should be done, it can leave them extremely frustrated. Sure, losing one or two employees might be manageable — but in June 2021, 3.8 percent of the workforce separated from a job. That’s 5.6 million gen Xers, millennials and zoomers who left for new opportunities or baby boomer retirees leaving the workforce, all taking their knowledge with them.
+
+Working to catalog and preserve institutional knowledge to make it easily available for your team takes a little time and effort, but by taking it on, you can save money, improve collaboration and workflow, make your employees’ jobs easier, and get an edge on the competition.
+
+What’s institutional knowledge, and why is capturing it important?
+
+Institutional knowledge is the valuable information your current employees have about their jobs and the company. It’s the institutional memory that lives in their heads about how to get their job done — what specific tasks are their responsibility, how to do them, and who they need to connect with to get them done.
+
+Most companies miss out on collecting this knowledge for one reason or another.
+
+If it’s a young startup company, it may be that they feel they need to move quickly and documentation seems less important. If it’s a more established company, it may be that they push employees to focus on the volume of work delivered and don’t provide time for documentation. Whatever the reason, as a result employees don’t have time to document their institutional knowledge. For this knowledge transfer to happen, you need to start with buy-in from senior managers.The benefits of knowledge retention that go beyond a basic succession plan include:
+
+Save money — knowledge sharing can literally save millions of dollars. One report found that large companies in the U.S. lose $47 million each year in productivity because knowledge is shared so inefficiently. Transfer expertise — when an employee who is a functional expert leaves and a new one takes their place, instead of losing the expertise of the exiting team member, their knowledge can be transferred to their replacement.
+
+Save money — knowledge sharing can literally save millions of dollars. One report found that large companies in the U.S. lose $47 million each year in productivity because knowledge is shared so inefficiently.
+
+Transfer expertise — when an employee who is a functional expert leaves and a new one takes their place, instead of losing the expertise of the exiting team member, their knowledge can be transferred to their replacement.
+
+Improve productivity — even if the employee isn’t moving on (maybe they have a nice, long vacation planned!), having their institutional knowledge documented can make it easier for others to take on their responsibilities while they’re away. Make onboarding easier — when you have institutional knowledge documented, it makes onboarding and training new team members seamless. An effective onboarding experience has been shown to increase retention rates as well as new employee’s sense of commitment to their organization. Tasks aren’t lost — occasionally when there's employee turnover, some of the exiting employee’s tasks are forgotten entirely. Sometimes it's a program they oversaw that the company continues paying for but stops using after they leave, other times it's a report that never gets updated again. Sharing institutional knowledge can help avoid this.
+
+Improve productivity — even if the employee isn’t moving on (maybe they have a nice, long vacation planned!), having their institutional knowledge documented can make it easier for others to take on their responsibilities while they’re away.
+
+Make onboarding easier — when you have institutional knowledge documented, it makes onboarding and training new team members seamless. An effective onboarding experience has been shown to increase retention rates as well as new employee’s sense of commitment to their organization.
+
+Tasks aren’t lost — occasionally when there's employee turnover, some of the exiting employee’s tasks are forgotten entirely. Sometimes it's a program they oversaw that the company continues paying for but stops using after they leave, other times it's a report that never gets updated again. Sharing institutional knowledge can help avoid this.
+
+How to capture institutional knowledge from your team
+
+When starting the process of preserving your team’s institutional knowledge, don’t simply begin by feverishly writing down instructions or checklists in documents. First, consider what tool will help you best document the information, then think about how you can organize it.
+
+Selecting the best software for the job
+
+When looking for the right software to help your team capture their expertise, prioritize flexible, collaborative, easy-to-use features.
+
+Here’s why these are key:
+
+Ease of use — rather than searching through folders, different programs, or opening and closing multiple documents to find what you need, select one tool that holds all your documentation and allows you to quickly find what you need so you can move forward efficiently. That way, instead of spending a half-hour looking for a process document for how to perform QA testing, you can quickly search for and access what you need. Flexibility — basic documents can only do so much, and then you need to make sure they’re shared properly with your team. The right software will allow you to make customizations that fit your needs, like easily including attachments, clear formatting for step-by-step instructions, the ability to embed video, and setting reminders for when you want to be notified of updates. Collaboration — using a tool that allows multiple people and teams to view it and make updates helps keep your institutional knowledge fresh. Not only can everyone learn more from each other this way, but they can also ask questions, seek out clarification, and help everyone improve together.
+
+Ease of use — rather than searching through folders, different programs, or opening and closing multiple documents to find what you need, select one tool that holds all your documentation and allows you to quickly find what you need so you can move forward efficiently. That way, instead of spending a half-hour looking for a process document for how to perform QA testing, you can quickly search for and access what you need.
+
+Flexibility — basic documents can only do so much, and then you need to make sure they’re shared properly with your team. The right software will allow you to make customizations that fit your needs, like easily including attachments, clear formatting for step-by-step instructions, the ability to embed video, and setting reminders for when you want to be notified of updates.
+
+Collaboration — using a tool that allows multiple people and teams to view it and make updates helps keep your institutional knowledge fresh. Not only can everyone learn more from each other this way, but they can also ask questions, seek out clarification, and help everyone improve together.
+
+Choosing how to organize your information
+
+Once you’ve selected a tool, work with each of your team members to make a list of their responsibilities, categorized by what must be done daily, weekly, monthly, and annually. Help them decide which items must be captured and what can be left out.If you’re starting from scratch, begin by deciding what tasks are of the highest priority to document. Think about the complexity of their tasks, the steps, how much time each of their tasks takes to complete, and how much time it will take to document them. Is a time-consuming task absolutely critical for the company? That may warrant it a high priority even though it will take significant effort to document. If it’s not critical, it may be best to assign it a low priority.
+
+Set a goal for employees to document at least 1-2 tasks per week or per month — whatever their workload allows. Or help make space in their workloads to create their documentation in a single sprint. Once you’ve collected your team’s institutional knowledge, make it a policy for them to update their documents every month, every three months, or every six months, depending on what makes the most sense for you. Additionally, make reviewing and updating documentation part of the employee exit process for your team.
+
+Six things to include in your institutional knowledge documentation
+
+When your team is creating their institutional knowledge documents, they can make sure the information is as useful as possible by focusing on thoroughness. Here are six ways to do that.
+
+Include context as to why each task is important and how it serves their department and the company as a whole.
+
+Include annotated images with instructions, or if possible, create how-to videos to include with the instructions.
+
+Include examples so those following the instructions can see a completed version of what the task should look like.
+
+Include any helpful links, attachments, or reading that can help someone get the task finished or provide additional knowledge.
+
+Use steps, headings, and other formatting to make instructions easy to read and follow.
+
+Include contact information. This includes the contact information for the person responsible for the task, for those in other departments who may contribute to the task, and for representatives of your vendors if the task uses a vendor product or service.
+
+Once you know what will be included in each of your pieces of documentation, consider making a template for your team to use. Having a template available will help them document their knowledge and tasks more efficiently and help ensure they include everything.
+
+How to codify your team’s institutional knowledge
+
+There are so many ways you can codify your team’s institutional knowledge, and each company will discover what’s best for them. Keep in mind, though, that with the right tool, it’ll always be easy to find the information you need.If you’re not sure where to start, consider using the initial lists of employee responsibilities and tasks you made to create a table of contents or an index for your institutional knowledge hub. Or let the list help you decide an alternative that might work better for your team. Does it make sense to group information alphabetically? Or by categories? Or by role on the team? If your team is small and everyone has distinct job functions, it may be best to group information by role.
+
+Don’t forget about information that is shared and your whole team can contribute to, which can be its own category. This can help your team find answers to common questions and includes items like:
+
+A directory of your team members with basic lists of who is responsible for what functions. Internal documentation frequently used for multiple projects, like brand guidelines, glossaries, and other resources. A team FAQ document for basic information related to your team and its duties that’s frequently asked by new or onboarding employees. A contact page with the main contacts each employee works with, including other department heads, colleagues, and vendors.
+
+A directory of your team members with basic lists of who is responsible for what functions.
+
+Internal documentation frequently used for multiple projects, like brand guidelines, glossaries, and other resources.
+
+A team FAQ document for basic information related to your team and its duties that’s frequently asked by new or onboarding employees.
+
+A contact page with the main contacts each employee works with, including other department heads, colleagues, and vendors.
+
+Stay productive with well-documented institutional knowledge
+
+Documenting institutional knowledge is worthwhile, especially when it’s done proactively and is consistently updated. The benefits aren’t only great for the company but also for teams. In helping your team collaborate easier and making the onboarding process for new teammates smoother, you contribute to creating a positive culture and work environment among your team where they’ll feel empowered to do their jobs confidently.Get started documenting your team’s institutional knowledge. Notion can help you easily and efficiently collect and organize all the information your team needs. Start with our team wiki guide and our company wiki template.
+
+Team wiki guideCompany wiki template
+
+Team wiki guide
+
+Company wiki template

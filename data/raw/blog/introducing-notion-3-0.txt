@@ -1,0 +1,75 @@
+Title: Introducing Notion 3.0
+Published Date: 2025-09-18T11:00-07:00
+URL: https://www.notion.so/blog/introducing-notion-3-0
+
+Notion 3.0 is here: The biggest evolution of Notion yet, with Notion AI Agents at the center.Agents can do everything a human can do in Notion: Create docs, build databases, search across tools, and execute multi-step workflows.Personalize your Agent: Give your personal Agent custom instructions and context about how you work—with some aesthetic flair.Custom Agents are coming: Soon, you'll go from one personal Agent to a full team of Custom Agents to automate different workflows.Plus more highly-requested features: Database row permissions, new AI connectors and additional MCP integrations are here!
+
+Notion 3.0 is here: The biggest evolution of Notion yet, with Notion AI Agents at the center.
+
+Agents can do everything a human can do in Notion: Create docs, build databases, search across tools, and execute multi-step workflows.
+
+Personalize your Agent: Give your personal Agent custom instructions and context about how you work—with some aesthetic flair.
+
+Custom Agents are coming: Soon, you'll go from one personal Agent to a full team of Custom Agents to automate different workflows.
+
+Plus more highly-requested features: Database row permissions, new AI connectors and additional MCP integrations are here!
+
+Today we launched Notion 3.0 with Agents. Anything you can do in Notion, your Agent can do too. The busywork that fills your day can now be done in minutes.
+
+This isn’t an AI chatbot that makes generic suggestions. Your Notion Agent tackles real work because it understands your work and can take action. It can complete multiple actions at a time, creating finished pages, databases, and reports directly in your workspace. Just assign the tasks, and your Agent does the work.
+
+We believe it’s the most advanced knowledge work agent designed for teams, and we’re so excited to show you how it works.
+
+From busywork to life’s work
+
+Our mission is to help people build beautiful tools for their life’s work. But most of our time is actually spent on busywork.
+
+It’s 3 p.m. on a Thursday. You have follow‑ups to write, the team is waiting for the project plan you promised, and you’re still hunting through docs and messages for that one decision from last week. Then suddenly, the day is over.
+
+We all want more time back. AI agents promise to help, but they can’t deliver when your work is scattered across tons of rigid tools. A great AI agent understands your work, is built for collaboration, and can take action. Notion AI nails all three.
+
+Notion 1.0 introduced a collaborative canvas for your docs and knowledge, and Notion 2.0 brought databases and integrations to help you manage all kinds of work.
+
+With Notion 3.0, we taught Notion AI to use those building blocks so your Agent can finish real work. Context, collaboration, and now action—all in one place.
+
+Your Agent in action
+
+Think of your Agent as a Notion power user that can handle entire workflows and access all the information you can.
+
+Before, Notion AI was great for quick answers and editing a single page. Now, your Agent can do up to 20 minutes of autonomous work at a time across hundreds of pages at once.
+
+For example, tell it to “compile customer feedback from Slack, Notion, and email into actionable insights” and watch it research across your tools, synthesize findings, create a structured database, then notify you when it’s done.
+
+Here are a few more of our favorite use cases:
+
+Convert a meeting note into a polished proposal, updated task trackers, and follow‑up messagesKeep your knowledge base up-to-date—when important details change, ask your Agent to spot gaps and update everything for youCreate a personalized new-hire onboarding plan (you can actually give this one a try here)
+
+Convert a meeting note into a polished proposal, updated task trackers, and follow‑up messages
+
+Keep your knowledge base up-to-date—when important details change, ask your Agent to spot gaps and update everything for you
+
+Create a personalized new-hire onboarding plan (you can actually give this one a try here)
+
+It’s great for personal use cases too. My Agent helps me keep track of movies to watch and built me a CafeOS (I love coffee).
+
+The use cases really are endless, and we can’t wait to see what customers come up with. To get started, we worked with our community to create a library of examples and put together a video playlist showing how Agent handles real workflows.
+
+Give your Agent personality and memory
+
+The best teammates understand how you work. AI shouldn’t be any different, which is why your Agent comes with personalization.
+
+Assign your Agent a page with instructions to customize how it behaves. This page acts like a memory bank to help you and your Agent work faster. Tell it how to triage your tasks, format its responses, and what information to reference before starting its work.
+
+The more you use your Agent, the more personalized it becomes. Since these instructions live in a Notion page, you can edit and refine it anytime. You can also download new Agent templates to give your Agent specialized skills.
+
+Give your Agent a name and some accessories, and let it get to work in style.
+
+Coming soon: Your team of Custom Agents
+
+Your Notion Agent is versatile and takes action when you ask it to. With Notion 3.0, you’ll be able to create Custom Agents that work on autopilot and can be shared with your entire team.
+
+It’s like having a whole team of AI specialists, each with its own expertise, running on schedules or triggers you set so work keeps moving forward—even while you’re asleep. Imagine one Agent that compiles daily user feedback, another that posts weekly project updates, and another that automatically triages IT requests.
+
+Custom Agents are coming soon. If you want to learn more, sign up here and we’ll be in touch!
+
+This is just day one of Notion 3.0. We hope you can hand off some of your busywork to your Agent. Tell us what’s missing and what to build next—we’ll keep shipping the tools that help you do the work only you can do.

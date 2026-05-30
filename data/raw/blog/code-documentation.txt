@@ -1,0 +1,125 @@
+Title: How to use code documentation to shape better software
+Published Date: 2023-10-19T00:00-03:00
+URL: https://www.notion.so/blog/code-documentation
+
+Like a tourist needs a map when visiting a new city, a software developer requires a reliable guide to navigate new territory.
+
+Creating such a guide through comprehensive code documentation is a crucial part of the software development process. Proper documentation ensures that everyone interacting with your code can navigate it effectively. And if your developers or target users veer off course when working with your code, a well-written explanation of its intricacies can put them back on track.
+
+Learn the basics of solid code documentation, like standard best practices and how to implement it for improved team synergy and user functionality.
+
+What’s code documentation?
+
+Code documentation involves archiving detailed explanations of a code’s purpose, functions, and proper use. Effective code documentation is an informative technical guide, ensuring the end user can read and use the code base. It also reduces the margin of error during maintenance and updates.
+
+The format and details of code documentation vary based on the user’s needs and resources. You might develop an internal knowledge base with shared files that in-house developers can easily access. Or you may embed information into the software source code for external users.
+
+In any format, code documentation typically includes the following information:
+
+Dos and don’tsClear explanations of each aspect of the applicationIllustrative images, including sequence and entity relationship diagrams API documentation explaining each class, method, and return value
+
+Dos and don’ts
+
+Clear explanations of each aspect of the application
+
+Illustrative images, including sequence and entity relationship diagrams
+
+API documentation explaining each class, method, and return value
+
+The first step to providing excellent documentation is choosing the right code documentation template. Template use team-wide ensures everyone follows coding best practices to enhance comprehension, maintenance, and extension processes.
+
+Common types of code documentation
+
+You can’t walk every end user through the intricacies of your code, but effective code documentation can. Regarding code interpretation, managers, external users, and fellow developers have different needs and skill sets. And distinct types of code documentation build clarity and successful use for anyone who uses your codebase.
+
+Here are five common types of code documentation.
+
+1. Internal code documentation
+
+Internal documentation is for developers working directly on the codebase. When successful, it offers guidance to improve internal collaboration, including decision-making best practices, specific technical instructions, and how to use complex algorithms. This type of documentation boosts organizational clarity and consistency, helping you avoid bottlenecks and miscommunications.
+
+2. External code documentation
+
+Built for external users, clients, and developers, successful external code documentation illustrates the value of your software. It typically presents as API references, user manuals, and visual tutorials. External code documentation is essential to build user trust, encouraging your code’s adoption and continued integration.
+
+3. Low-level or in-line documentation
+
+Low-level — also known as in-line — documentation demonstrates the purpose of particular functions, classes, or lines of code. This documentation type is embedded as file synced code. It explains in detail how to use specific code. Successful in-line documentation simplifies a developer’s understanding of a code’s intricacies.
+
+4. Walkthrough documentation
+
+Walkthrough documentation typically consists of tutorials and user manuals that describe flows, patterns, and other vital details about your codebase. This type of process mapping guides developers through specific tasks, ensuring successful task management and completion and resulting in an improved final product.
+
+5. High-level documentation
+
+High-level documentation provides a bird's-eye view of your software’s architecture, design principles, and vital components. More holistic than other types of documentation, this type considers your strategic goals around the code, offering a broader initiative roadmap that orients more specific technical challenges.
+
+The benefits of code documentation
+
+Code documentation isn’t just a tedious administrative task. It bridges the gap between raw code and its usability, ensuring the software’s purpose and functionality are clear to all involved.
+
+Here are some of the benefits of implementing effective documentation practices.
+
+Nurtures team collaboration
+
+Documenting the engineering design process as you go provides valuable real-time insights into your development team’s dynamics. Whenever challenges or questions arise, code documentation acts as your rulebook, standardizing actions and streamlining communication by outlining each team member’s role and responsibilities. This enhanced communication further facilitates collaboration and productivity.
+
+Encourages knowledge sharing
+
+Code documentation archives your development expertise. Users outside the original development team (like external stakeholders and incoming team members) can interpret, engage with, and improve the codebase when they’re able to reference documents for previous successes and failures. And well-written documentation helps developers share their documented internal knowledge, reducing new users’ learning and transition periods.
+
+Supports maintenance and troubleshooting
+
+Your code will evolve and need regular maintenance and revisions, and comprehensive documentation facilitates future code adaptations. It provides developers with all the necessary information to troubleshoot, identify and repair bugs, and revise code during successive process improvements.
+
+Mitigates risk
+
+Without proper documentation, miscommunications among developers and other stakeholders can increase, escalating setbacks. Detailed documentation serves as a reference for everyone involved, leaving no room for disagreement. It also acts as a compass if teams get off track — they can consult the archives and reorient.
+
+Accompanies organizational growth
+
+As your organization grows, your software needs will expand and become more complicated. Documentation helps establish a solid foundation to build upon, allowing developers to create new integrations, extensions, or customizations to the core software. This lets users focus on addressing software objectives rather than sorting through exhaustive development cycles.
+
+The challenges of code documentation
+
+While ultimately valuable, code documentation has its unique hurdles. Here are a few common challenges to plan for.
+
+Catering to varying knowledge levels
+
+Not every user has the same skill and technical knowledge levels, and deciding which details to spell out and which to consider common knowledge is often difficult.
+
+Analyze your audience to avoid isolating end users and format your code documentation to speak to various knowledge levels. Consider breaking up the documentation into sections tailored to separate viewers’ objectives and skill levels. And provide the most high-value information upfront — users can move through the documents for additional explanations that align with their needs and skills.
+
+Staying up to date
+
+As software evolves, so should its documentation. Consistently keeping documentation aligned with the latest codebase revisions is essential so everyone can access the most current information. Every time you change your code sample or process, you also need to update your visuals and explanations. Outdated or inconsistent documentation can mislead your users, causing more harm than having no documentation at all.
+
+Managing non-linear code
+
+Code doesn’t always move in a straight line. Early code sections might tie to later parts, and functions might be introduced in one place but executed in another. And explaining these intricacies can become even more convoluted when flow spans multiple files or repositories.
+
+For complex projects, a skilled technical writer or rigorous check-and-balance system ensures that code and explanations align — even when users have to jump back and forth.
+
+How to document code: 7 documentation best practices
+
+Before you can implement a documentation system, you need to learn how to write documentation for code that’s clear and easy to revise. Here are seven practices to follow:
+
+Write clear comments — comments are like sticky notes explaining your decision-making and how a piece of code operates. For complex coding, clear and direct comments improve user comprehension and decision-making. Update regularly — documentation should reflect every modification to your code to prevent developers from relying on inaccurate information. If you change the code, make the same adjustments in your explanations.Document the same way you code — using methods like document-as-code (DaC) lets you document while you develop, using the same tools you code with. And aligning these practices improves consistency and accuracy, resulting in a positive user experience. List prerequisites — outline any preliminary tools or know-how users need to effectively use your code, including libraries, programming languages, and compatibility details. Explain with examples — for intricate functions, offer examples on best use, as practical demonstrations clarify complex concepts and facilitate faster learning. Use automation tools — automated documentation tools assist with generating and maintaining documents, which helps keep instructions accurate and actionable. Stay consistent — an established documentation structure and style helps developers easily locate the information they need, understand the document's logic, and work with your code. Use consistent naming conventions, formatting styles, and docstrings to help developers focus on understanding your code, not your documentation.
+
+Write clear comments — comments are like sticky notes explaining your decision-making and how a piece of code operates. For complex coding, clear and direct comments improve user comprehension and decision-making.
+
+Update regularly — documentation should reflect every modification to your code to prevent developers from relying on inaccurate information. If you change the code, make the same adjustments in your explanations.
+
+Document the same way you code — using methods like document-as-code (DaC) lets you document while you develop, using the same tools you code with. And aligning these practices improves consistency and accuracy, resulting in a positive user experience.
+
+List prerequisites — outline any preliminary tools or know-how users need to effectively use your code, including libraries, programming languages, and compatibility details.
+
+Explain with examples — for intricate functions, offer examples on best use, as practical demonstrations clarify complex concepts and facilitate faster learning.
+
+Use automation tools — automated documentation tools assist with generating and maintaining documents, which helps keep instructions accurate and actionable.
+
+Stay consistent — an established documentation structure and style helps developers easily locate the information they need, understand the document's logic, and work with your code. Use consistent naming conventions, formatting styles, and docstrings to help developers focus on understanding your code, not your documentation.
+
+Document your project in a flash with Notion
+
+When it comes to software development, writing the code is just the first step. Strong documentation is just as crucial, and Notion can make this part simple. Share coding guidelines with your team, track code snippets, and build your knowledge base with an engineering wiki. With Notion’s help, you can easily develop, monitor, and share your code from start to finish.

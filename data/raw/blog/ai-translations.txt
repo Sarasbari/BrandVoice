@@ -1,0 +1,79 @@
+Title: How AI translations streamline communication workflows
+Published Date: 2023-03-28T00:00-08:00
+URL: https://www.notion.so/blog/ai-translations
+
+Just a decade ago, traveling to a foreign country meant hours of language study, pocket dictionaries, and jotting down useful phrases. Even then you’d probably wind up relying on the kindness of strangers who were willing to try to understand your broken sentences and body language.
+
+Now you can easily communicate in a foreign language with the help of AI-powered translation apps like Google Translate, Notion AI, and OpenAI’s ChatGPT. Some of these tools even offer real-time speech translation that lets you converse across different languages.
+
+And AI translators don’t just improve personal communication — you can also use them translate large amounts of text, like web pages, into different languages to implement internationalization for various countries or regions.
+
+What are AI translators?
+
+AI translation software uses artificial intelligence (AI) tools like deep learning (DL) algorithms and natural language processing (NLP) to analyze text and speech and identify patterns, syntax, and vocabulary, then translate copy from one language to another.
+
+Since AI translators can quickly process large volumes of text, they’re a cost-effective solution for businesses and a great alternative to traditional translation methods that rely on humans. They’re also quite accessible, either as stand-alone apps and web platforms like Google Translate, or as part of an AI writer or AI text generator like Notion AI or GPT-4.
+
+3 advantages and disadvantages of AI translators
+
+Over the past decade, developers have created AI translators that comprehend natural language, including complex sentences, idiomatic expressions, and a text’s context. These improvements make AI translations sound closer to human-translated texts.
+
+But AI translators aren’t perfect — especially regarding style, voice, and nuance. At this point, human translators still need to review the output.
+
+Here are a few advantages and disadvantages of AI translation tools.
+
+3 advantages
+
+Speed — AI translators draw upon powerful databases and learning algorithms to quickly analyze and translate speech and writing. For instance, if you input a chunk of text into a tool like Notion AI, it translates your text faster than you could type (much less translate). This speed makes AI translators well-suited for processing large amounts of text, like a website.Consistency — say you need to translate your website into 15 languages. On top of the expense of hiring 15 human translators, each person’s language proficiency and style varies. But AI translation tools provide consistent output. The work might have some small errors, you can maintain a consistent voice and brand style across languages.Ease of use — AI translation tools are generally easy to use. Whether they’re stand-alone apps, web-based platforms, or integrated into AI writers, AI translators typically only require you to copy and paste text into an empty block. More sophisticated tools may require technical integrations via an application programming interface (API). But most AI translators are accessible to anyone, regardless of their language proficiency or technical expertise.
+
+Speed — AI translators draw upon powerful databases and learning algorithms to quickly analyze and translate speech and writing. For instance, if you input a chunk of text into a tool like Notion AI, it translates your text faster than you could type (much less translate). This speed makes AI translators well-suited for processing large amounts of text, like a website.
+
+Consistency — say you need to translate your website into 15 languages. On top of the expense of hiring 15 human translators, each person’s language proficiency and style varies. But AI translation tools provide consistent output. The work might have some small errors, you can maintain a consistent voice and brand style across languages.
+
+Ease of use — AI translation tools are generally easy to use. Whether they’re stand-alone apps, web-based platforms, or integrated into AI writers, AI translators typically only require you to copy and paste text into an empty block. More sophisticated tools may require technical integrations via an application programming interface (API). But most AI translators are accessible to anyone, regardless of their language proficiency or technical expertise.
+
+3 disadvantages
+
+Lost tone and nuance — there’s a popular Italian proverb, “Traduttore, traditore,” meaning translator, traitor. While some context is always lost in translation, this problem is exacerbated with machine translations. Though the most recent generation of AI translation tools are better at noting context, they still fall short of human translators when it comes to tone, nuance, and cultural background. Idioms or colloquial expressions may not translate accurately, thus leading to misunderstandings.Inability to transmit emotions — while improved contextual translations mean AI translators can convey emotions better than before, they still aren’t on par with humans. A lack of emotional context might contribute to misinterpretations if you’re trying to translate a document into your stakeholders’ native language, for example.Limited language capabilities — specialized AI translators provide broad language support, but not all tools do. AI translators learn and train on a particular body of available text, and may not support less common languages and dialects.
+
+Lost tone and nuance — there’s a popular Italian proverb, “Traduttore, traditore,” meaning translator, traitor. While some context is always lost in translation, this problem is exacerbated with machine translations. Though the most recent generation of AI translation tools are better at noting context, they still fall short of human translators when it comes to tone, nuance, and cultural background. Idioms or colloquial expressions may not translate accurately, thus leading to misunderstandings.
+
+Inability to transmit emotions — while improved contextual translations mean AI translators can convey emotions better than before, they still aren’t on par with humans. A lack of emotional context might contribute to misinterpretations if you’re trying to translate a document into your stakeholders’ native language, for example.
+
+Limited language capabilities — specialized AI translators provide broad language support, but not all tools do. AI translators learn and train on a particular body of available text, and may not support less common languages and dialects.
+
+Where AI translation excels
+
+AI translators have become increasingly important for communicating on a global scale. Here are a few common use cases for these services in your personal and professional life:
+
+Legal texts — if your business operates globally, you’ll need to provide copies of relevant legal texts, like user terms and conditions, data use policies, and contracts, in different local languages.Product descriptions — automate your e-commerce site’s internationalization workflow by providing product descriptions, customer reviews, and service information in your customers' language or languages.Travel and tourism — AI translators create (mostly) accurate real-time translations of text, speech, and images, so you can navigate menus and converse with locals who don’t speak your language.Public administration — government agencies and public administrations often need to communicate with residents and visitors using various languages. AI translators provide quick, highly accurate text for everything from government forms to websites, signage, and brochures.Healthcare — AI translators allow doctors to combat language barriers when communicating with patients. Of course, cultural nuance may still require a human touch, but you can get across the basics.
+
+Legal texts — if your business operates globally, you’ll need to provide copies of relevant legal texts, like user terms and conditions, data use policies, and contracts, in different local languages.
+
+Product descriptions — automate your e-commerce site’s internationalization workflow by providing product descriptions, customer reviews, and service information in your customers' language or languages.
+
+Travel and tourism — AI translators create (mostly) accurate real-time translations of text, speech, and images, so you can navigate menus and converse with locals who don’t speak your language.
+
+Public administration — government agencies and public administrations often need to communicate with residents and visitors using various languages. AI translators provide quick, highly accurate text for everything from government forms to websites, signage, and brochures.
+
+Healthcare — AI translators allow doctors to combat language barriers when communicating with patients. Of course, cultural nuance may still require a human touch, but you can get across the basics.
+
+3 AI translation technologies
+
+Here are three AI translation technologies that promote nearly seamless communication:
+
+Text translations — these are the most common type of AI translation tech. Tools use NLP to analyze and translate text input. You might come across text translations in email, chat, and e-commerce.Image translations — these are a newer form of AI translation. Tools use computer vision technology to recognize and translate an image’s content. You can use image translations for signs, menus, and scanned documents. And some tools leverage similar tech to AI image generators to superimpose translated words over the original image.Real-time speech translations — AI translators can use speech recognition technology to transcribe spoken words. Then it draws upon DL and NLP to translate these words before displaying the output on a screen or aloud.
+
+Text translations — these are the most common type of AI translation tech. Tools use NLP to analyze and translate text input. You might come across text translations in email, chat, and e-commerce.
+
+Image translations — these are a newer form of AI translation. Tools use computer vision technology to recognize and translate an image’s content. You can use image translations for signs, menus, and scanned documents. And some tools leverage similar tech to AI image generators to superimpose translated words over the original image.
+
+Real-time speech translations — AI translators can use speech recognition technology to transcribe spoken words. Then it draws upon DL and NLP to translate these words before displaying the output on a screen or aloud.
+
+Hello, world
+
+AI translation tools remove language barriers in both professional and personal spheres. They widen our communication capabilities to metaphorically broaden our horizons. But while this technology is constantly improving, we still require human translators to proofread output and decipher more emotional input.
+
+Looking to try an AI translation tool? Notion AI integrates into your connected workspace to empower your workflow, and offers translation support and copywriting assistance like generating pitches, writing social media bios, and creating sales outreach content.
+
+Try Notion AI today!

@@ -1,0 +1,71 @@
+Title: How to create and implement a crisis management plan
+Published Date: 2023-09-12T00:00-03:00
+URL: https://www.notion.so/blog/crisis-management-plan
+
+Crises are always unwelcome, but they aren't uncommon. From software snafus and employee disputes to workplace injuries and natural catastrophes, the list of potential issues a business could face might seem never-ending.
+
+Thankfully, there are proactive measures managers can take to prepare for these scary situations and minimize the potential harm they do to their team. Creating a solid crisis management plan is a standard formula to stay ahead of fallout and keep emergencies from escalating. Learning how to craft a realistic and actionable plan puts your team in control — even when everything seems to be falling apart.
+
+What’s a crisis management plan?
+
+A crisis management plan is a template that organizational leaders can use to respond to unexpected issues as swiftly and smoothly as possible. Think of this plan as a fire escape route or a disaster preparedness strategy; its primary purpose is to get you to safety during hazardous times.
+
+A successful crisis management plan minimizes the negative impact that unforeseen events have on a team's reputation, security, and profitability. The crisis management document tells leaders the actions they need to take to move from chaos back to "business as usual."
+
+Often, crisis management plans have an order of operation in a checklist format to keep teams moving forward and evaluate their success along the way. Plus, since crisis management plans are "living" documents, team members have the flexibility to adjust roles and tasks to incorporate new knowledge, respond to unexpected events, and learn from prior crises.
+
+Why every organization needs a crisis management strategy
+
+Crisis management plans prevent bad situations from becoming worse than they need to be.
+
+Once a crisis rears its ugly head, there's often no way to undo any initial damage. However, just like firefighters know how to put out a blaze, there are skillful ways for project managers to prevent excessive losses. And the more thorough a team's crisis management plan is, the greater odds they'll recover from a costly mishap without significant damage to their safety, reputation, or bottom line.
+
+Common types of company crises
+
+Countless potential crises are always lurking in the wings, ready to disrupt a team's operations at a moment's notice. There are, however, a few typical internal and external crisis situations that businesses often consider when plotting a recovery plan:
+
+Financial crises — anything impacting a company's balance sheet — including sales, revenues, and cash flow — introduces a potential threat to growth targets and financial stability. Aside from internal capital management, this category includes external factors such as economic slowdowns, stock market declines, or labor shortages.  Technological crises — hacks and outages often trigger disruptions in communication, both internally and with customers or stakeholders. Other cybersecurity threats, such as data breaches or ransomware attacks, jeopardize sensitive data and threaten a company's reputation for privacy and security. Natural crises — weather-related phenomena can threaten a company's facilities, supply chains, or headquarters, and have the potential to cause significant safety concerns for employees. Businesses in areas prone to natural events like flooding, earthquakes, or hurricanes need to factor these into their emergency preparedness plans. Workplace-related crises — accusations of unsafe or unfair working conditions adversely impact morale and open businesses to legal liabilities, strikes, and stiffer regulatory compliance. Project managers also frequently consider potential conflicts from former employees when assessing these crises, including the threat of violence or classified data leaks.   Health crises — disease outbreaks and pandemics can transform bustling workplaces into potential biohazards. As employee health takes precedence over growth goals, companies grapple with shocks to their productivity estimates, supply chains, and daily work schedules.
+
+Financial crises — anything impacting a company's balance sheet — including sales, revenues, and cash flow — introduces a potential threat to growth targets and financial stability. Aside from internal capital management, this category includes external factors such as economic slowdowns, stock market declines, or labor shortages.
+
+Technological crises — hacks and outages often trigger disruptions in communication, both internally and with customers or stakeholders. Other cybersecurity threats, such as data breaches or ransomware attacks, jeopardize sensitive data and threaten a company's reputation for privacy and security.
+
+Natural crises — weather-related phenomena can threaten a company's facilities, supply chains, or headquarters, and have the potential to cause significant safety concerns for employees. Businesses in areas prone to natural events like flooding, earthquakes, or hurricanes need to factor these into their emergency preparedness plans.
+
+Workplace-related crises — accusations of unsafe or unfair working conditions adversely impact morale and open businesses to legal liabilities, strikes, and stiffer regulatory compliance. Project managers also frequently consider potential conflicts from former employees when assessing these crises, including the threat of violence or classified data leaks.
+
+Health crises — disease outbreaks and pandemics can transform bustling workplaces into potential biohazards. As employee health takes precedence over growth goals, companies grapple with shocks to their productivity estimates, supply chains, and daily work schedules.
+
+6 steps for crisis management plan creation
+
+Since every crisis is unique and follows an uncertain path, writing a specific script for every potential situation is impossible. Instead, project managers use flexible templates to designate responsibilities and structure an immediate course of action that’s applicable to a variety of emergencies. While a template doesn’t work in every instance, you can create a detailed foundation for just about every plan.While the specifics of each case always take precedence, the outline in a crisis management plan can help leaders overcome paralysis and take charge during high-stakes situations. Here are six steps to create an effective plan of your own:
+
+1- Assign roles in a crisis management team
+
+Before evaluating potential risks and plotting a communication strategy, assemble and assign the team members who will be responsible for leading the company through crisis scenarios. Developing a transparent chain of command helps managers understand their responsibilities and stay on task in a chaotic environment. Pre-establishing crisis management roles lets team members know the constraints on their position, preserving business continuity and avoiding confusing or conflicting media reports.
+
+2- Brainstorm and categorize potential risks
+
+After everyone knows their role in a crisis situation, use techniques like pre-mortem templates and risk registers to identify vulnerable points. Once project leaders spot major potential issues, plot these company crisis scenarios according to their probability and the severity of their impact on a business's operations (e.g., supply chain disruptions, safety hazards, and potential stakeholder conflicts). In addition to helping leaders see areas of concern, this list of hypothetical crises empowers companies to strategize their training and maintenance budgets to tackle the biggest risks first.
+
+3- Establish a communication plan
+
+Communication with the public and stakeholders must be consistent and crystal clear to establish trust and credibility during a crisis. Know who the official spokesperson is and write holding statements as a jumping-off point when crafting official press releases.
+
+Depending on the magnitude of the situation, companies may need to plan temporary web pages or special customer care divisions to keep in touch with affected parties throughout the crisis period. Project managers also need clear communication pathways to external help, such as insurance adjusters, legal consultants, or subject matter experts, depending on the crisis in question.
+
+4- Define activation protocols
+
+After establishing what to do when a crisis occurs, project managers need to consider when to implement this plan. While some emergencies are self-evident — like natural disasters — others, such as declining sales or changes in consumer sentiment, may be more difficult to spot until they've caused significant damage. Defining the parameters of a crisis activation protocol lets leaders know the warning signs to look out for when deciding whether to enter "disaster mode" or hold off until there's further data.
+
+5- Schedule training sessions and review findings
+
+Similar to scheduling fire drills, managers sometimes lead workshops or simulated crisis scenarios to assess their strategy's success and ensure that everyone's on the same page. During these mock drills, take note of potential weaknesses, confusions, or misunderstandings to eliminate stumbling blocks and enhance a crisis management plan's effectiveness. It's also crucial for companies to annually revisit their crisis management strategy to double-check that the information is up to date and fits their current objectives and concerns.
+
+6- Document and analyze crisis responses
+
+Designate crisis management team members to keep detailed notes throughout the response phase for review after business operations stabilize. Analyzing the actions of each manager and their impact on the recovery process should help the company’s leadership identify strengths and weak points in their crisis response templates. Use the data from prior mistakes to refine response procedures and make handling crises more effective.
+
+Make crises more manageable with Notion
+
+Thanks to Notion's templates, managers have the power to craft orderly and actionable plans for crisis scenarios that are easy to follow and shareable across teams. Our risk register, SWOT analysis, and pre-mortem templates make it easy to analyze potential risks, assign leadership roles, and detail the best steps to take in a crisis. Notion also offers customizable templates for specific scenarios, such as our disaster prep plan, to ensure that you're well-equipped to handle safety hazards and supply chain shocks with minimal stress. Discover for yourself how Notion's templates streamline crisis planning procedures.

@@ -1,0 +1,129 @@
+Title: Essential employee onboarding checklist for startup teams
+Published Date: 2021-08-05T00:00-06:00
+URL: https://www.notion.so/blog/employee-onboarding-checklist-startup-teams
+
+Companies lose an average of 25% of new hires in the hires’ first year.Startups, notorious for quick employee turnover, lose one in four employees in a given year — obviously, they have a lot of learning to do to crack the code that is employee onboarding, which is especially crucial at a company’s nascent phase.Proper employee onboarding makes an employee feel welcomed and primed for success, able to contribute immediately. Plus, it proves the credibility of the company they’re joining, which might only be a scrappy startup. Done right, this employee onboarding system is scalable to allow for team growth and shares ongoing learning opportunities to support new employees — all to achieve the overall goal of reducing employee turnover.
+
+Where startups fail in employee onboarding
+
+In the whirlwind that is life in startups, planning out systems like onboarding often falls by the wayside in favor of more pressing matters, like recruitment and product development. Let’s begin by saying that startups are hardly the only type of company to struggle with employee onboarding. It’s a problem for growing and mature companies the world over.But failing to create an onboarding process is short-sighted. Scalable employee onboarding is essential to support growth spurts of the startup, as well as prevent the hardest-to-stomach outcome of all — disappointing future employees.Here are some of the most common ways employee onboarding can fall flat in a startup setting:
+
+Neglecting to plan out the whole onboarding period — the onboarding period isn’t only the first day or first week. Think of the onboarding period in longer terms: the first month, 90 days, and three to six months.
+
+Neglecting to plan out the whole onboarding period — the onboarding period isn’t only the first day or first week. Think of the onboarding period in longer terms: the first month, 90 days, and three to six months.
+
+All tribal knowledge lives with 1-2 people — this is extremely common in startups. Founders don’t take the time to write out tribal knowledge or methods they’ve tried in the past to inform future efforts. When one person has all the information, that knowledge can’t scale, and it creates a bottleneck where only that one person can onboard multiple people. This effect worsens if it’s the CEO or founder hoarding knowledge. They’re undermining their job title simply by not creating scalable systems to allow for sustained growth of their startup.Read: The startup's guide to knowledge managementA rapid employee onboarding and turnover rate in startups is part of the gig — LinkedIn found that the 25% startup attrition rate is almost double the overall industry attrition rate of 13%. Because turnover is so high, startups don’t invest in onboarding. There’s a feeling people will leave anyway. Therefore, to effectively address onboarding as a startup, it just makes good business sense to implement a lean process to effectively train up each round of new employees (made more effective in concert with efforts to curb that attrition over time as well).
+
+All tribal knowledge lives with 1-2 people — this is extremely common in startups. Founders don’t take the time to write out tribal knowledge or methods they’ve tried in the past to inform future efforts. When one person has all the information, that knowledge can’t scale, and it creates a bottleneck where only that one person can onboard multiple people. This effect worsens if it’s the CEO or founder hoarding knowledge. They’re undermining their job title simply by not creating scalable systems to allow for sustained growth of their startup.Read: The startup's guide to knowledge management
+
+A rapid employee onboarding and turnover rate in startups is part of the gig — LinkedIn found that the 25% startup attrition rate is almost double the overall industry attrition rate of 13%. Because turnover is so high, startups don’t invest in onboarding. There’s a feeling people will leave anyway. Therefore, to effectively address onboarding as a startup, it just makes good business sense to implement a lean process to effectively train up each round of new employees (made more effective in concert with efforts to curb that attrition over time as well).
+
+The antidote to ineffective employee onboarding: leveraging documentation
+
+Putting together a single source of truth in the form of documentation for your startup can be the catalyst to go from ineffective employee onboarding to effective employee onboarding. With a centralized resource to compile team learnings and history, you’ll point new employees to one organized resource during onboarding, building credibility and trust, while also benefiting the team as a whole with improved record-keeping.What should be included in this information hub that some companies call their “company wiki”? To start, it should contain the team mission and values, specifics on goals and expectations by department, the employee handbook, information on benefits, and a guide to success as a new hire. As you build it out over time, you may also want to include frequently asked questions by new hires, past educational meeting recordings, and a full team directory. Read more on why a wiki is critical for every company here.
+
+At Notion, we make documentation personal. We have a practice of sharing “life stories” on Fridays during lunch, where new employees tell us a bit about themselves. It’s a fun way to leverage our internal company wiki to share who we are and what matters to us, to get to know each other a little better, and connect in an authentic way. Plus, baby photos.
+
+A startup’s must-have new employee onboarding checklist
+
+The backbone of employee onboarding should be something like a new employee onboarding checklist — an easy-to-follow means by which to empower any new employee to autonomously begin onboarding.On an employee onboarding checklist, include the basic elements of getting started that any employee would need to know. It helps prevent that time-suck of onboarding someone new on their first day — you know, that annoying back-and-forth of answering questions about the Wi-Fi password and network name that are disruptive, to say the least.Encourage questions that escalate beyond the checklist, but aim for this portion of onboarding to be self-guided. To ensure it really can be self-guided, provide a sentence or two of context within the checklist’s tasks and subtasks as to the day-to-day use of each platform, software, or process. If necessary, use tags to indicate high- vs. medium- vs. low-priority items, as well as due dates to keep all parties aligned on the same timeline.A general new employee onboarding checklist template can be used for each new hire, but different sections should be swapped in, depending on the department (like the Marketing team example section below). In Notion, you can even make templates for different departments, that have their team-specific info.
+
+New employee onboarding checklist
+
+Feel free to use our essential new employee onboarding checklist as a jumping-off point for your own:
+
+Basics
+
+Secure company laptop & charger, change passwordWatch security tutorialWi-Fi network & passwordOnboarding buddy introductionAccess to remote work resources (mobile, remote desktop, etc.)Fill out getting-to-know-you surveySubmit recent headshot and 2–4 sentences for the company website bio
+
+Secure company laptop & charger, change password
+
+Watch security tutorial
+
+Wi-Fi network & password
+
+Onboarding buddy introduction
+
+Access to remote work resources (mobile, remote desktop, etc.)
+
+Fill out getting-to-know-you survey
+
+Submit recent headshot and 2–4 sentences for the company website bio
+
+Submit recent headshot and 2–4 sentences for the company website bio
+
+HR & benefits
+
+Payroll — sign in, add banking informationEnroll in health insurance and other benefits
+
+Payroll — sign in, add banking information
+
+Enroll in health insurance and other benefits
+
+Day-to-day software setup
+
+Log in to your Google account (email)Set up two-factor authenticationAdd team Google CalendarAccess Google Drive
+
+Log in to your Google account (email)
+
+Set up two-factor authenticationAdd team Google CalendarAccess Google Drive
+
+Set up two-factor authentication
+
+Add team Google Calendar
+
+Access Google Drive
+
+Log in to Slack via Google account (internal communications)Choose unique handle using @firstnamelastnameAdd photo and location to profile
+
+Log in to Slack via Google account (internal communications)
+
+Choose unique handle using @firstnamelastnameAdd photo and location to profile
+
+Choose unique handle using @firstnamelastname
+
+Add photo and location to profile
+
+Log in to Notion via Google account (internal communications and docs)Onboarding scheduleTeam directoryEmployee handbookTeam values and expectationsMust-read background blog posts or videos on company/products/servicesLog in to Zoom via Google account (video calls)
+
+Log in to Notion via Google account (internal communications and docs)
+
+Onboarding scheduleTeam directoryEmployee handbookTeam values and expectationsMust-read background blog posts or videos on company/products/services
+
+Onboarding schedule
+
+Team directory
+
+Employee handbook
+
+Team values and expectations
+
+Must-read background blog posts or videos on company/products/services
+
+Log in to Zoom via Google account (video calls)
+
+Team-specific
+
+For example, the Marketing team might use this onboarding list for their tools.
+
+Check out your Gmail for invitations to sign in to the following tools:
+
+Google AnalyticsTwitterFacebookLinkedInContent management system CRM
+
+Google Analytics
+
+Twitter
+
+Facebook
+
+LinkedIn
+
+Content management system
+
+CRM
+
+Avoid reinventing the wheel with Notion’s new employee onboarding checklist template
+
+A good company wiki and new employee onboarding checklist should foster a sense of curiosity and encourage poking around in the archives. This could even go to an interactive level, having new hires complete “tasks” or “challenges” for each section, obviously depending on and informed by your company’s unique values.Notion is the unifying tool for your startup to bring consistency and transparency to each employee’s onboarding experience while also saving managers’ time, energy, and sanity.A sample onboarding checklist is populated in Notion’s New Hire Onboarding template if you’re ready to kickstart or level up your employee onboarding. It’s available for free and is easily customizable, so you don’t have to reinvent the wheel to make it applicable to your startup.
+
+Take it from us: a fun and aesthetically pleasing checklist goes a long way.

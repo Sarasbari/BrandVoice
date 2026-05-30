@@ -1,0 +1,101 @@
+Title: Request for information (RFI) templates, explained
+Published Date: 2023-05-18T00:00-06:00
+URL: https://www.notion.so/blog/rfi-template
+
+Every project starts with a blank slate. It’s up to you to find the best tools and materials to get it off the ground.
+
+Your project plan might ask for 3D-printed plastics, specific hardware for manufacturing, or a new piece of software. They won’t materialize out of thin air, nor can you simply ask for them. There’s a formal process behind requisitioning equipment from vendors which prevents you from leaving any details behind.
+
+A request for information (RFI) template gives you an outline to query potential suppliers and decide who to work with. It tracks the details and documents the whole process so you and your partners are always on the same page.
+
+What’s an RFI?
+
+An RFI is a document that asks vendors whether they can provide the materials or services you’ll need for a project. This document should give deadlines, sizing or volume specs, and additional information about what you’re looking for. You’ll usually send it out to multiple vendors to narrow down your options. Having an easily copyable RFI template makes the whole process easier.
+
+In response, potential vendors will clarify any details and explain whether they can meet your needs. An RFI response won't require a new form because a good RFI template already has sections for both your query and a vendor’s response.
+
+An RFI in project management gives you the chance to consider and compare vendors in depth — and if applicable, let them know they’re facing competition for your business. RFIs also store information for future purchases or reference, in case one vendor doesn't work out, or you want to work with them again later.
+
+RFI, RFQ, RFT, RFP: What's the difference?
+
+Building a solid relationship with a vendor happens on paper. You need forms and docs that both of you can keep so you each get a handle on where you stand in the process and how you both prefer to work. An RFI is just the first step —  a request for quotation (RFQ), request for proposal (RFP), and request for tender (RFT) might follow.
+
+The common thread between all these forms is that they create clear lines of communication and build a foundation of trust between you and your supplier. But each has a different role to play in the procurement process:
+
+RFI — you’ll send an RFI to multiple suppliers to learn more about their operations and whether they can meet your product demand. RFQ — once you've narrowed down your possible supplier list, you might send each one an RFQ. This document exists to determine how much a supplier will charge you to fulfill your order. It’ll include general information about product specs, packaging plans, and the materials they’ll need to actually produce what you’re asking for. RFP — an RFP is conceptually similar to an RFI, but it’s more detailed and usually pertains to a specific project. Instead of requesting information, you’re asking that a company make a proposal to you. This insight from manufacturing experts can better inform your decision-making process.RFT — RFTs apply primarily to the public sector and sometimes to private businesses. They carry much deeper project specifications to make sure the supplier is the absolute best fit for the project at hand, whether that concerns their financial stability or sustainability practices. Most organizations only need to use an RFT when RFIs and the rest aren’t enough to answer their questions.
+
+RFI — you’ll send an RFI to multiple suppliers to learn more about their operations and whether they can meet your product demand.
+
+RFQ — once you've narrowed down your possible supplier list, you might send each one an RFQ. This document exists to determine how much a supplier will charge you to fulfill your order. It’ll include general information about product specs, packaging plans, and the materials they’ll need to actually produce what you’re asking for.
+
+RFP — an RFP is conceptually similar to an RFI, but it’s more detailed and usually pertains to a specific project. Instead of requesting information, you’re asking that a company make a proposal to you. This insight from manufacturing experts can better inform your decision-making process.
+
+RFT — RFTs apply primarily to the public sector and sometimes to private businesses. They carry much deeper project specifications to make sure the supplier is the absolute best fit for the project at hand, whether that concerns their financial stability or sustainability practices. Most organizations only need to use an RFT when RFIs and the rest aren’t enough to answer their questions.
+
+How does an RFI work?
+
+An RFI works by documenting the inquiry process and organizing a project’s details, making things easier both for you and the suppliers you’re contacting. It's all about making product decisions that meet your needs — so create an RFI that does the same thing.
+
+Here’s how the process works:
+
+1. You identify a need
+
+Your kombucha business is taking off. People are excited about your product, and you’re able to ship it off to more sellers in more cities. But there’s a big problem: Your bottles aren’t robust enough to survive transport, and they’re breaking on the way. You need to find a new bottle supplier with tougher glass at a good price.
+
+2. You fill in an RFI template
+
+Now you’re in research mode. You pick a few companies that manufacture bottles that seem both strong and affordable enough. But before investing in a large supply, you want to learn more about each vendor and whether they can meet the demands of your growing business.
+
+You use a straightforward RFI template for every company with general information about your business and the bottles you need, just plugging in each supplier’s name and details before you send it off. You also add a deadline for their responses so you aren’t left waiting.
+
+3. Vendors respond
+
+Thankfully, a few vendors have gotten back to you about their offerings. One of them says they can’t guarantee their bottles won’t break, so they back out. But two or three options seem promising.
+
+4. You send RFQs for more information
+
+Before you give anyone the stamp of approval, you need to know how much these bottles will cost. You choose an RFQ template to fill out and send it to the three vendors who could do the job. You’re realistic about your budget and how much product you anticipate needing.
+
+5. Vendors respond (again)
+
+And the vendors are back in your inbox. Sadly, two of the three are quoting prices that are out of your range as a small business — but it’s not the end of the world because the last vendor seems perfect. You do a bit more research before making a final decision.
+
+6. You choose the best option
+
+That last vendor is checking all the boxes, and you’re ready to work with them. You send out more details, and you’re on your way to scaling your kombucha business without mishaps and hazards during transport.
+
+When to use an RFI
+
+It’s best practice to use an RFI every time you need new materials or services. Sending one out to multiple potential suppliers helps you narrow them down and make the best choice, all while documenting every detail. If a supplier sends a product that doesn’t meet your specifications, you can refer back to the RFI or RFP to show them what they missed.
+
+RFIs in construction are common because these projects often need high volumes of product, like lumber or cement. But even if you aren't a general contractor working on a construction project, plenty of other industries need to purchase materials — and those industries are pretty much endless.
+
+IT departments might use RFIs to find the best computer hardware or project management software. The medical field could use RFIs to source IV bags, gauze, and anything you can think of that might be in a cabinet in your doctor's office. And an ad agency might use an RFI to evaluate marketing tools.
+
+When in doubt, use an RFI, even if you’re only contacting one or two suppliers. You’ll imply there’s competition and incentivize companies to give you the best deal.
+
+How to write an RFI
+
+RFIs don’t look very different from industry to industry because they only include basic information. Most have at least four sections to start the process:
+
+1. Basic details
+
+An RFI needs your company name, the name of the supplier, and the date. Make space for these at the top of the page. If applicable, you should also include relevant dates and deadlines for your project so the supplier knows when to respond.
+
+2. A description
+
+Every RFI will at least contain a statement of need; after all, it's hard to buy something if you don't tell the supplier what you want. Include information about your company and a quick overview of the materials you’re looking for.
+
+In this section, some context about your business is always helpful. Include information about what department is working on the project, basic customer demographics, and your company mission. Maybe your marketing department needs recycled paper to meet your environmental goals. This could be a deal-breaker — or a deal-maker — so write it down here.
+
+3. Critical project information
+
+If you’re inquiring about a specific project, include the details. Maybe the marketing team's next brochure campaign will go out next quarter. Your supplier for that recycled paper needs to know your timeline, overall project scope, and any specific information, like paper quality, that could influence their response.
+
+4. Space for vendor response
+
+One of an RFI’s main benefits is that your suppliers’ responses live in the same document. Give them enough space to write down the information you’re requesting. And if needed, this is where you'll let suppliers know about how they should respond to your RFI, any deadlines you’re under, and when they should expect a decision from you.
+
+Complete your project with Notion
+
+Your RFI isn’t the only aspect of your project that might need streamlining. Notion offers templates for every step, including project proposals, research and planning, and design. Once you have the right kombucha bottles, maybe you want to make a marketing plan or request new features. Do it all with Notion.

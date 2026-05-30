@@ -1,0 +1,77 @@
+Title: How Notion boosts your crypto and NFT portfolio with OpenSea templates
+Published Date: 2023-10-04T00:00-03:00
+URL: https://www.notion.so/blog/opensea-templates
+
+Using NFTs as a form of "digital identity" for individuals and brands has become ubiquitous on social media. Since these virtual collectibles (or “non-fungible tokens”) have grown dominant in the digital landscape, they offer many unique opportunities for crypto-curious creators and corporations — especially on big markets like OpenSea.
+
+But as a new technology, NFTs pose novel risks collectors need to consider before diving into this market. Discover how Notion’s OpenSea templates help NFT novices keep tabs on their virtual collectibles and adjust their strategies at a moment's notice.
+
+What's the deal with NFTs?
+
+You can think of NFTs as the cryptocurrency equivalent of rare physical collectibles, such as baseball cards, paintings, and vintage film reels. NFTs use the same decentralized computer technology (or blockchain) behind networks like Bitcoin (BTC) to process transactions between digital wallets without third-party intermediaries.
+
+But unlike identical and divisible (or "fungible") cryptocurrencies like Bitcoin, there's no one-to-one market value for NFTs in the cryptocurrency market. Because each NFT has unique and non-duplicable metadata associated with different digital files, these tokens are only worth what buyers are willing to spend.
+
+Before 2021, few people involved in the buzzy Bitcoin scene paid much attention to NFTs. Their global revenue was just a hair over two million in 2020. But one year later, NFTs were all anyone in or outside the cryptoverse was talking about, with trading volumes surpassing 17 billion.
+
+The first known experiment in NFT technology was an art piece called Quantum by Jennifer and Kevin McCoy in 2014. But it wasn't until the Tomodachi-style game CryptoKitties took the Ethereum (ETH) blockchain by storm that NFTs grew popular. The demand for CryptoKitty NFTs was so high in 2017 that it caused significant congestion on the Ethereum blockchain, sparking more interest in this niche market. And during the 2021–2022 crypto bull market, several celebrities splurged on profile picture avatars from NFT collections like the Bored Ape Yacht Club (BAYC), which brought NFT technology to the public eye and made it more trendy.
+
+Although NFTs are most associated with animated profile pictures, they represent ownership rights over any digital file. Video game developers use NFTs to signify ownership over playable avatars, virtual land, or rare items. There are also potential applications for NFTs in professional fields such as legal documentation, real estate, and medical records.
+
+As long as a virtual file is online, it has the potential to become an NFT.
+
+What’s OpenSea?
+
+Because NFTs don't have a one-to-one market value on crypto exchanges, collectors and creators must use special "NFT marketplaces" to exchange these distinctive virtual tokens. While there are dozens of NFT-focused trading platforms, the New York-based company OpenSea remains one of the oldest and most prominent in the industry, and it's home to many of the most hyped NFT collections like the BAYC.
+
+Created in 2017 by Devin Finzer and Alex Atallah, OpenSea is a multi-blockchain NFT market that allows users to connect their crypto wallets, create (or "mint") NFTs, and put them up for direct sale or auction.
+
+Initially, the OpenSea NFT market focused on the Ethereum blockchain, but it now integrates with other chains within the Ethereum Virtual Machine (EVM) ecosystem (Arbitrum, Optimism, Polygon), as well as competing networks like Klaytn and Solana.
+
+The reason behind "open" in the name "OpenSea" is that this site is a non-curated NFT market, meaning anyone with a crypto wallet is welcome to mint, sell, or display NFTs. By contrast, curated NFT markets like SuperRare and Nifty Gateway only allow pre-screened artists to mint virtual collectibles.
+
+Examples of OpenSea creators to power up your NFT profile
+
+Figuring out what's hot and what's not on OpenSea is a constant struggle for crypto collectors. Tastes in NFT collections change almost daily, and advanced traders use tools like Dune Analytics or icy.tools to boost their odds of sniping promising projects.
+
+Although it's impossible to know which OpenSea projects have the best odds of success, a few well-established trends and creators serve as bellwethers in the NFT marketplace:
+
+CryptoPunks by Larva Labs — released on the Ethereum blockchain for free in 2017, the 10K CryptoPunks have become a classic profile pic (PFP) NFT collection and a recognizable aesthetic in crypto art. Each animated profile pays homage to the punk music genre and the cypherpunk movement with an 8-bit style and rebellious (and often quirky) attributes, including mohawks, shades, and hoodies. Although the original CryptoPunks NFTs often sell for thousands of dollars, there are countless derivative NFT projects using the CryptoPunks’ pixelated style on markets like OpenSea.
+
+CryptoPunks by Larva Labs — released on the Ethereum blockchain for free in 2017, the 10K CryptoPunks have become a classic profile pic (PFP) NFT collection and a recognizable aesthetic in crypto art. Each animated profile pays homage to the punk music genre and the cypherpunk movement with an 8-bit style and rebellious (and often quirky) attributes, including mohawks, shades, and hoodies. Although the original CryptoPunks NFTs often sell for thousands of dollars, there are countless derivative NFT projects using the CryptoPunks’ pixelated style on markets like OpenSea.
+
+Bored Ape Yacht Club by Yuga Labs — along with CryptoPunks, Yuga Labs' Bored Ape Yacht Club is one of the most actively traded PFP NFT collections, and it inspired many derivative works in the NFT marketplace. This collection's 10K animated apes gained mainstream attention in 2021 as celebrities bought into the BAYC. Yuga Labs capitalized on its success by introducing secondary projects like the Mutant Ape Yacht Club (MAYC) and building its online community with the immersive video game "Otherside." Yuga Labs' projects rank high on OpenSea leaderboards, and owning one of these NFTs is often viewed as a status symbol.
+
+Bored Ape Yacht Club by Yuga Labs — along with CryptoPunks, Yuga Labs' Bored Ape Yacht Club is one of the most actively traded PFP NFT collections, and it inspired many derivative works in the NFT marketplace. This collection's 10K animated apes gained mainstream attention in 2021 as celebrities bought into the BAYC. Yuga Labs capitalized on its success by introducing secondary projects like the Mutant Ape Yacht Club (MAYC) and building its online community with the immersive video game "Otherside." Yuga Labs' projects rank high on OpenSea leaderboards, and owning one of these NFTs is often viewed as a status symbol.
+
+Doodles by Burnt Toast Creative — the Doodles PFP NFT collection made pastel popular in the crypto community. Drawing on inspiration from CryptoPunks and the BAYC, this PFP NFT collection has 10K animated profiles, each with recognizable light color tones and smooth, hand-drawn traits.
+
+Doodles by Burnt Toast Creative — the Doodles PFP NFT collection made pastel popular in the crypto community. Drawing on inspiration from CryptoPunks and the BAYC, this PFP NFT collection has 10K animated profiles, each with recognizable light color tones and smooth, hand-drawn traits.
+
+Midnight Breeze by Dutchtide — banner NFTs (aka PFBs) aren't as popular as PFPs, but they've been gaining attention as social media users demand ownership rights over profile banners on sites like X and Discord. One example of this growing trend is the successful NFT collection Midnight Breeze by the artist Dutchtide, which features 6,969 banner-ready images of "lonely streets" with natural scenery, restaurants, and vehicles.
+
+Midnight Breeze by Dutchtide — banner NFTs (aka PFBs) aren't as popular as PFPs, but they've been gaining attention as social media users demand ownership rights over profile banners on sites like X and Discord. One example of this growing trend is the successful NFT collection Midnight Breeze by the artist Dutchtide, which features 6,969 banner-ready images of "lonely streets" with natural scenery, restaurants, and vehicles.
+
+Fidenza by Tyler Hobbs — the 999 Fidenza NFT collection represents both the algorithmic and generative movements in crypto art, which rely on computer algorithms to churn out unique virtual images. Computer scientist Tyler Hobbs used the Art Blocks platform to launch his algorithm, which resulted in the Fidenza collection’s colorful geometric forms. Due to Fidenza's high status in the NFT market, it often ranks as one of the top fine art NFTs on OpenSea.
+
+Fidenza by Tyler Hobbs — the 999 Fidenza NFT collection represents both the algorithmic and generative movements in crypto art, which rely on computer algorithms to churn out unique virtual images. Computer scientist Tyler Hobbs used the Art Blocks platform to launch his algorithm, which resulted in the Fidenza collection’s colorful geometric forms. Due to Fidenza's high status in the NFT market, it often ranks as one of the top fine art NFTs on OpenSea.
+
+Three Notion templates for crypto creators and collectors
+
+To help crypto traders and NFT collectors keep tabs on their digital property, Notion offers dozens of templates for organizing and monitoring virtual currencies in real time. Incorporating one of Notion's OpenSea banner templates or investment trackers is a simple way to take the stress out of crypto investing:
+
+Crypto Space template — stay up to date on the latest price changes in your digital assets portfolio with the Crypto Space template. With direct feeds to crypto price data and a Bitcoin widget, Crypto Space alerts users to significant price trends and changes to make informed decisions on market positioning. Traders can record notes on previous strategies and personalize their template depending on the exchanges and virtual assets they're most interested in.
+
+Crypto Space template — stay up to date on the latest price changes in your digital assets portfolio with the Crypto Space template. With direct feeds to crypto price data and a Bitcoin widget, Crypto Space alerts users to significant price trends and changes to make informed decisions on market positioning. Traders can record notes on previous strategies and personalize their template depending on the exchanges and virtual assets they're most interested in.
+
+Investments tracker — get a bird's-eye view into your entire long-term portfolio with the Investments tracker template. While not explicitly tailored for cryptocurrency, this template makes it easy to input all current assets and calculate returns to get an accurate read on net worth and price performance.
+
+Investments tracker — get a bird's-eye view into your entire long-term portfolio with the Investments tracker template. While not explicitly tailored for cryptocurrency, this template makes it easy to input all current assets and calculate returns to get an accurate read on net worth and price performance.
+
+NFT tracker — before diving into NFT markets like OpenSea, use the NFT tracker template to create an NFT watchlist, analyze price data, and choose the optimal time to trade a project. After buying NFTs, see their market value in real time to decide whether there's an opportune moment to sell and analyze the profit and loss calculations for each trade.
+
+NFT tracker — before diving into NFT markets like OpenSea, use the NFT tracker template to create an NFT watchlist, analyze price data, and choose the optimal time to trade a project. After buying NFTs, see their market value in real time to decide whether there's an opportune moment to sell and analyze the profit and loss calculations for each trade.
+
+Discover Notion's crypto-friendly templates
+
+Whether you're an artist, entrepreneur, or crypto enthusiast, Notion offers organized templates to help bring transparency to your trading activities. Explore the crypto, NFT, and general investment templates on Notion to get the complete picture of your portfolio. With the proper Notion templates in place, you're more prepared to take actionable steps on your investments, grow your online brand, and preserve your bottom line.

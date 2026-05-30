@@ -1,0 +1,65 @@
+Title: Navigating scale: a framework for leading product teams through growth
+Published Date: 2022-05-16T00:00-07:00
+URL: https://www.notion.so/blog/framework-leading-product-teams-through-growth
+
+At Notion, we spend a lot of time thinking about information: who has it, who needs it, and how should it flow at higher levels of complexity — especially as organizations scale.
+
+Last week, we sat down with our friends at FullStory to examine knowledge transfer through the eyes of two masters of scale: Agata Bugaj, the SVP of Product at FullStory and Notion’s former Chief Product Officer, Madhu Muthukumar.
+
+FullStory is a digital experience analytics platform that has grown from 100 to 600 people since October 2018, when Agata first joined. Notion’s been on a similar trajectory, so Agata’s insights felt distinctly familiar.
+
+So how do fast-scaling companies harness the energy of rapid growth? They turn complexity into momentum. Agata’s formula: zoom out, scan for patterns, pay the tax, and don’t bring a tool to a people problem.
+
+Zoom out from the day-to-day to see the full picture
+
+Growth almost by definition implies change. Companies can’t operate at greater scale without going through disruptive and often painful evolutions to absorb the new complexity.
+
+Product leaders stewarding their teams through growth must make time to zoom out of their day-to-day and frequently survey the entire landscape. Are legacy habits still serving teams or doing more harm than good? Are all systems still functioning as expected? Very likely, they’re not, because even a well-tuned vehicle eventually needs service — especially when it’s moving fast.
+
+Without getting that distance from the day-to-day, it’s easy to miss the signs until it’s too late. For many leaders, zooming out means deliberately shifting from doing the work to providing context, asking questions, and connecting dots — or, as Agata put it, seeing if there are even dots to connect.
+
+“When there’s constant change, we need to think whether we are still doing things the right way or if something should shift in how we communicate, how we meet and collaborate, and who needs to be room for the decision,” she said.
+
+No one likes change. It’s not comfortable, it slows you down, and it’s a hassle. Why sunset the very thing that’s made the company successful?
+
+For product leaders, the shift from working to analyzing can likewise feel like getting benched: product is a contact sport, building and shipping is what they trained for all season, and zooming out is like watching the game from the sidelines.
+
+But this mindset shift from doing the work to prioritizing process, change management, and bringing people along is absolutely critical to succeeding at scale. As Madhu put it:
+
+He added: “You need people who are able to deliver quality work regardless of the setting. And then as you get larger, all of a sudden the most valuable role is to move pianos.”
+
+Scan for patterns of breakdown
+
+It’s impossible to plan for change in advance, and attempts to do so most often result in failure. Until the need becomes apparent, how can teams possibly know when to hire movers instead of pianists? Instead, growth leaders anticipate the right moment to introduce change by scanning for patterns that tell them it’s time.
+
+Patterns usually take the form of repetitive pain: miscommunication happens more frequently, teams suffer thrash because information is missing, people spend too much time in limbo because they don’t have the right context to act. Breakdowns create confusion and conflict, but experienced change leaders harness this organizational pain to give people a reason to care — and to nudge new habits.
+
+It’s also about balance. Agata said: “You don’t want to change a process too early, because you’re going to have a really hard time getting buy-in and getting people to follow the process. You also risk over-processing, so people stop following the process. If there are too many boxes to check, people stop even looking at them. So you have to really be looking out for those signals to know it’s the right time.”
+
+Pay the tax to introduce change
+
+Agata went on to explain that after leaders notice the patterns, the next step is to give those patterns a name, because “if you name it, it gives you permission to solve for it.” Examples of organizational pain might be: knowledge is siloed, there’s no central hub to track progress, or org chart is matrixed but information flows are bidirectional.
+
+But now comes the even harder part. Before jumping to solutions, make sure everyone else in the organization notices and acknowledges the same pain that leadership has. Introducing change is often more painful than staying put and buckling under the pressure of growth. To give people a reason to accept change, they have to agree there’s a problem worth solving in the first place.
+
+Introducing change can be surprisingly fraught — especially for companies in their earliest stages. That's because small teams have a higher density of builders versus managers. They’re here to get things done, not get mired in bureaucracy. But ad hoc work doesn’t scale, so at a certain inflection point in every company’s growth trajectory, improvisation and serendipity must make way for predictability and consistency.
+
+Convincing a team that’s never had much process to not only accept but welcome changes can be a make-or-break moment for companies early on their scale journey. That’s why Agata thinks of this change as a tax — the necessary cost of doing business in a successful company.
+
+She went on to say: “That needs to keep changing as you continue to scale, but you’re already spending that tax. But when you’re five, you’re not. Especially if you’re in-person, you’re just kind of like, ‘Hey John, are we shipping this week? Yeah cool, let’s go, let’s do it.’ But when you’re at 25, you can’t do that anymore and so you have to introduce the tax.”
+
+People before process, and process before tech
+
+When scaling, it’s helpful to categorize potential solutions by people, process, and technology. And a common mistake companies make at this stage is prematurely concluding that the right tax is necessarily new tech.
+
+It’s tempting to think that tooling is the root of problem — and that onboarding new tech will alleviate the pain. The fact is that tech is not only the most costly remedy, but it’s often overkill, especially when companies skip past testing new process first. And of course, even before process comes people. Ahead of instituting a new process a team may not need, product leaders should run it to ground with people first.
+
+Agata started by thinking: “Are roles clear? You then figure out, is there a process change? And then you go to tools, because it’s expensive to change a tool.”
+
+In fact, running through the framework of people, process, and technology is exactly how FullStory ended up selecting Notion. Agata’s team didn’t skip past aligning people on the shared pain point, ensuring internal processes would in fact benefit from additional connective tissue, and then piloting the tool with a small group to validate assumptions.
+
+Agata said: “We recently moved our roadmap over to Notion. But we didn’t just do it overnight. We took two to three months. Our product ops team did a phenomenal job of really understanding the pain points, what’s working with what we have today and what’s not, and then tried it with a small group.”
+
+They created an MVP. Then spent time, “iterating on ultimately what the process and the tooling looks like.” But Agata reminded us that, “you have to have proof points first to gut check that it’s going to be better — and as an example to drive momentum and get other people to say, ‘Yeah actually, this is much better.’”
+
+And that’s the key insight for product leaders navigating scale: your results will vary. New tooling is not always the right answer, scanning and observing provide key clues to what’s needed, and people come first. As Agata put it: “There’s an opportunity when there are patterns to do something different, but there’s no one-size-fits all for any of this stuff. So you’re constantly asking, ‘Is it still working?’”

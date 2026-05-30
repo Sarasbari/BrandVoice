@@ -1,0 +1,149 @@
+Title: Build a Connected Company to bust silos and regain speed
+Published Date: 2022-08-22T00:00-07:00
+URL: https://www.notion.so/blog/building-a-connected-company
+
+You don't notice a silo until you're inside one.
+
+Leaders at large companies feel this acutely as silos form quickly around teams, tools, and projects. People can’t find the documents they need. They don’t have context on key decisions. They don’t know who to ask to get answers.
+
+At the crux of this problem is a lack of information — when it's hidden in disparate tools and docs, it's impossible to build a company where people, projects, and goals are clear, visible, and actionable for all.
+
+Working with leaders across industries, I'm noticing a pattern. They're proactively creating access to knowledge in new ways. And in the process, they're forging a new type of company that's emerging as the winner, regardless of category — the Connected Company.
+
+It's defined by:
+
+Information that's centrally accessible and transparent to everyone.Alignment, making everyone feel a direct line to the organization’s leadership and purpose.Systems designed to unite teams and foster seamless collaboration.
+
+Information that's centrally accessible and transparent to everyone.
+
+Alignment, making everyone feel a direct line to the organization’s leadership and purpose.
+
+Systems designed to unite teams and foster seamless collaboration.
+
+Together, these attributes unlock a new level of alignment, speed, and innovation.
+
+This is a big leap forward, enabled by a different suite of tools. As someone who has worked at both tiny and massive companies, it's clear how much things are changing. I started my career as the founder of a company that grew to 20 before we joined LinkedIn, where I became VP of Product helping to lead thousands toward shared goals. Now, I'm Notion's COO — and for the first time I'm seeing how new systems that bring people together are enabling speed, action, and faster growth.
+
+I'm writing to share what I've seen this new breed of Connected Companies do, how you can build one, and how to make that your competitive advantage.
+
+A challenge that demands attention right now — hybrid work, the risk of attrition, and more
+
+In crowded markets, competition doesn't wait. The company that innovates the fastest wins. So as a leader, it's up to you to connect the people, systems, and technology that enable your team to move quickly and solve problems.
+
+That's harder than ever right now.
+
+The Great Resignation marches on — and it's not slowing down. At the time this report was published, over 19 million U.S. workers left their jobs since April 2021. Companies need to give top talent a reason to stay.
+
+Why are so many people quitting? In part, hybrid and remote work expectations. Over half of global employees say they would quit their jobs if not given workplace flexibility. And 59% are only willing to consider a new job that will offer workplace flexibility — so it's impacting your ability to both acquire talent and retain employees.
+
+Dispersed teams need new systems for knowledge sharing — Workfront found that
+
+95% of surveyed employees said it should be as easy to find information at work as it is to find information on Google.
+
+But employees don't have access to the level of knowledge they need — the same survey found that 71% of employees want a single destination to understand and manage work. Yet, 69% don't have it.
+
+You're probably not seeing the problem, either — McKinsey found that 85% of execs and upper management said they feel a sense of purpose at work. Only 15% of frontline managers and employees agreed.
+
+Connected Companies make access to knowledge their North Star.
+
+When information is accessible and transparent, goals and execution paths are clear. Teams and individuals operate with full context of work and expectations. People become true owners of their work, driving forward — establishing new paths if they must. And when they’re owners of work, people stay because they feel fulfilled and effective.
+
+Building a Connected Company puts your people in positions to succeed, and helps them build the careers they want in the process.
+
+3 actionable steps to start building a Connected Company
+
+Systems that connect teams and knowledge are the best way to demolish silos, helping your people, processes, and tools start working together in lockstep.
+
+Here's how we've seen leaders of Connected Companies do it.
+
+Build transparency through central & contextual documentation
+
+You might think your company is already document-driven, but a tangle of Google Docs doesn't count. These documents live in isolation — it's impossible to know how they're related to each other or get the appropriate context to understand which teams or projects they belong to.
+
+You can construct your information architecture differently:
+
+Create one place for documentation, and ensure everyone at the company has access to it. Knowing where information is — and how to get it quickly — creates visibility into the work done by all teams.
+
+Make documentation navigable by making it easy to search. Whether it's by team, owner, or project, being able to surface necessary information makes it usable.
+
+Nest documents inside documents so there's a clear relationship. For instance, if you have a project page, you can have it contain all the specs, research, drafts and more so anyone can find what they need.
+
+Central access and context make documentation useful, both for your team and other teams you're working with.
+
+Standardize cross-functional processes to operate with speed
+
+Sure, individual teams have their own ways of doing things. But work that happens between teams should have a repeatable, expected process that biases toward action.
+
+Use a go to market (GTM) template for every launch. This helps whoever's leading the charge to know what's needed, see around corners, apply learnings from past launches, and bring in the right teams.
+
+Create common specs that designers, engineers, and product teams can all use. This helps them approach problems the same way, fostering cross-functional work methodically.
+
+Build a system for requests, where anyone at the company can call out a bug or ask for a feature, or get design support. These should be template-ized to avoid back-and-forth (like "always include a screenshot!"), and help streamline the many requests likely floating around the company.
+
+Use a decision-making framework. Whether it's WRAP, RACI, or MAP, teams should all make decisions with the same approach. Put these in your templates teams as using so they're front-and-center.
+
+Establishing standardized processes between teams creates less operational hemming-and-hawing about the right way to do things. It's already established, so teams can move forward quickly.
+
+Don’t fall into the “tools agnostic” trap
+
+On average, companies use 88 different tools just to get day-to-day work done. For large teams, it gets worse: they're using 175. There's also been a 44% rise in use of collaboration tools since 2019. Information that teams need to execute is more scattered than ever.
+
+You want to enable teams to use the tools they need — but what about cross-functional work? Where does that happen?
+
+A platform layer that connects all tools can streamline workflows and support healthy communication. If teams have a central tool on which to collaborate, all the time searching for knowledge can be used on the actual work at hand.
+
+Some examples include:
+
+Designers can embed prototypes into a page, making it easy for marketing or engineering to provide feedback immediately (instead of needing to access another tool). This also ensures feedback lives in one place and more people can participate.Embed forms to collect information, from a team survey to org-wide feedback. Since the work is happening on that platform layer, people don't need to step outside of it to fill out your form.Create ways for your tools to talk to each other so knowledge flows between them. For example, you can use an API to get updates from different tools (think: a Slack integration) or create a system where relevant data is collated in one shared tool.
+
+Designers can embed prototypes into a page, making it easy for marketing or engineering to provide feedback immediately (instead of needing to access another tool). This also ensures feedback lives in one place and more people can participate.
+
+Embed forms to collect information, from a team survey to org-wide feedback. Since the work is happening on that platform layer, people don't need to step outside of it to fill out your form.
+
+Create ways for your tools to talk to each other so knowledge flows between them. For example, you can use an API to get updates from different tools (think: a Slack integration) or create a system where relevant data is collated in one shared tool.
+
+The benefit here is that context and action coexist. When these two live side-by-side, teammates can immediately act with full visibility into a problem, its goals, and what to do next — instead of jumping between tools to get information.
+
+Lessons from hyper-growth: knowledge is power
+
+Notion relied on in-person work pre-pandemic. New to remote work, we had to build systems that enabled teams to access information and act on it.
+
+We've grown significantly the last two years — tripling headcount, securing two funding rounds, acquiring two companies, accelerating the growth of our product — but we're still learning how to adapt to these realities.
+
+I've worked on both sides of the growth coin: as Notion's COO through rapid scale, and as VP of Product at a public company like LinkedIn. Each comes with unique challenges, whether it's maintaining connectivity while sprinting or setting clear goals for thousands of employees that ladder up to the company mission.
+
+It's this vantage point that helps me see what it's like to truly build a Connected Company — techniques we're implementing at Notion right now through hyper-growth. The following tactics keep our teams aligned, moving quickly, and innovating.
+
+One, universally-accessible page with our most important info
+
+Unsurprisingly, we do just about all our work in Notion. It's an all-in-one workspace that combines notes, docs, project management, and wikis in infinitely customizable ways. Teams of any size can use — and grow with — Notion, which is critical for a hyper-scaling company.
+
+At the top of our Notion sidebar, we have our OS (operating system) page. It's home to our most vital company information, reference-able by employees old and new. It's part of our onboarding process as well. Transparent from day one.
+
+It's not just about company goals. In it, you'll find our mission, strategy, values, and more — the macro documents that guide our behavior and decisions as a team. We even have an archive of all our past years' mission and strategy, giving us perspective as we move forward, and helping us understand the why behind many of the decisions we made.
+
+This helps us, as a team, align at the highest level. And when the team is aligned, we're able to make faster decisions. Does this support our 2022 goals? How does this roll up into our mission? This type of alignment is a guide for teams and individuals propelling everything we do.
+
+A system for org-wide feedback
+
+We keep all process, policy, and proposal documents in a single Notion database accessible to the entire team, from product specs to audit logs. There are over 2,000 entries.
+
+Core to this system is the RFC (request for comment) — a format that helps people across the org present ideas and gather feedback from everyone in the company. We'll switch the status to "RFC" and anyone can comment on this page. Sales can comment on an engineering project. Product can comment on an HR process. Teams innovate together when great ideas come from everywhere.
+
+Moving faster with homes for cross-functional work
+
+Marketing, product, engineering, HR — all teams at Notion have their own wikis. And they are each visible as top-level pages with nested documentation in our sidebar. On these pages, you'll find everything from team-specific toolstacks to specialized processes for individuals' roles and responsibilities.
+
+At the top of these wikis is a database with the status of that team's projects. Teams can easily jump into each other's wikis to see what they're working on, and more importantly, how to slot into these initiatives. This makes information that would otherwise have to be shared on Slack or in meetings available to self serve and save time.
+
+Similarly — when there's a large cross-functional initiative — it has a home. One page with all necessary information, from messaging to timelines to teams involved. Here, everyone plugs in, has context, and executes. Without this level of customization, this type of tailored cross-functional project management can't exist.
+
+Multi-team collaboration work happens at both the company/team level, and for individual projects. Teams can move quickly because they know exactly where to get pertinent information that's core to their work.
+
+Connected Leadership makes Connected Companies
+
+Information, systems, tools. Use them together intentionally, and people at your company will know what they need to do to succeed, move quickly, and innovate. Leadership sets the tone.
+
+A Connected Company is one that operates with vision — proactively setting up effective communication channels. To get there, leaders have demonstrated unique trust and investment in their people by making sure they have more access to information, particularly quick access to what they need to do their jobs and succeed at them.
+
+Creating a Connected Company is a process that never ends. But doing it now is some of the highest-leverage, longest-lasting work you can do to compete and create an experience that retains the world's best talent.

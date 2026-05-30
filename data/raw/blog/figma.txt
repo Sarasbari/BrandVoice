@@ -1,0 +1,53 @@
+Title: How Figma planned Config 2024 with Notion
+Published Date: 2024-07-11T04:00-07:00
+URL: https://www.notion.so/blog/figma
+
+On a breezy San Francisco day in late June, thousands of designers, developers, and product builders from around the world descended upon Moscone Center for Config 2024, Figma’s annual user conference. Organizing an event of this magnitude is not for the faint of heart. It’s like building a giant convention center out of LEGO, where every piece must fit together perfectly, then be dismantled in a day.
+
+Throughout the year-plus process of preparation, my Web Experience team at Figma had to plan, organize, and communicate with a score of cross-functional partners and vendors. Notion was our go-to tool that made it all possible.
+
+Here’s how we did it, and seven things we learned along the way:
+
+1. Start by diagnosing the pain
+
+From the very beginning, we knew we had to identify the needs and pain points of everyone involved. I remember our first meeting with the Web and Brand teams, where we spent hours mapping out where there was the most friction last year and our biggest opportunities for improvement this year. Our Localization team had struggled with scattered documents; the events team recalled the chaos of last-minute updates.
+
+Everyone at Figma uses Notion as our company-wide wiki, and most teams have all their shared knowledge and important information organized in Notion teamspaces. As we used the tool to facilitate feedback on how last year’s event was coordinated, we realized that much of our documentation and planning was already happening really effectively there. Plus, many of my colleagues and I enjoy using Notion outside of work, too—that’s almost never the case for a work tool.
+
+2. Centralize everything in a single hub
+
+My team owns the Config website, and we worked with just about every team here at Figma from marketing to product, as well as an array of external partners that included event vendors, our agencies, and even our customers. From the front-end experience to the ticketing back-end virtual experience, there’s a lot of hands touching everything. On Notion’s Enterprise Plan, we have the ability to invite external guests to our workspace and more control over provisioning access to the right partners.
+
+Having a central hub in Notion where all information was stored was so helpful. It solved our version control problems. We brought all of our resources, like our wireframes and flows and designs into the platform. It became our single source of truth, preventing things from getting lost or duplicated. With so many moving parts, it was easy for issues to slip through the cracks. But our centralized hub ensured that everyone was aware of priorities, latest updates, and where to follow along with all of the work being done for the Config website.
+
+3. Kill the tabs with integrations
+
+Notion’s ability to integrate with other tools was a game-changer. We embedded Loom videos, FigJam, and Figma files directly into our pages. I remember embedding our first FigJam file into Notion and how it sped up our planning sessions. You can also link out to your Asana projects or briefs that live in Google Docs or Dropbox paper. It becomes a one-stop shop for your team to find what they need, even if it doesn’t live in Notion itself. Instead of juggling multiple tools and tabs, everything was in one place.
+
+4. Sync those databases
+
+We used Notion databases to handle everything from attendee lists to session planning. Using formulas, relations and rollups, we were able to take a lot of manual work out of connecting work streams.
+
+For example, one database for session registrations was tracked against another for room capacity levels to easily evaluate if we needed to move things around. As people signed up for sessions, we’d say “hey, we need to change this room up for another one because we have more people signing up than anticipated.” Making those decisions on the fly was only possible because we’d built a solid, centralized knowledge base.
+
+We didn’t get everything right on the first try, but Notion’s flexibility enabled us to experiment and iterate to create a set-up custom to our own unique workflows. I recall one late-night session where I realized our workback schedule wasn’t being maintained because our external partners didn’t have access to our Asana.
+
+We pivoted, using Notion’s synced databases, and suddenly, everything clicked. We were able to use Notion’s Asana integration to pull in our board, mirroring it exactly, then building out additional fields in Notion so that we could collaborate with vendors, get their notes on tickets, and keep them up to date. No more trying to maintain the same timelines across different tools! Our workflows became smoother, and everyone could see real-time updates, reducing the back-and-forth emails and meetings.
+
+5. Automate the heck out of Slack updates
+
+A steady drumbeat of updates is absolutely key when you’re dealing with so many teams and moving parts. We set up automations in Slack so that our team was notified whenever we reached a significant milestone in Notion. I remember the relief on our designer’s face when she realized she didn’t have to manually send updates to multiple channels. Notion’s automations ensured that everyone was always in the loop.
+
+6. Plan for more than you need
+
+Given the scale of Config, we knew there would be a vast amount of data and numerous collaborators. Our sales team would ask things like “who is applying for the leadership collective program?” Notion allowed us to pull the raw data out of the vendor platform and format it in a way that was consumable. There were many hectic days when we had to manage an unexpected influx of last-minute changes and requests, but we’d built a solid Notion infrastructure and were ready to respond.
+
+7. Have fun and make some noise!
+
+Planning a massive event like Config is a nail-biter, so it’s important to inject some fun into the process. I noticed that there were two or three musicians on our team, so music was one of the things I felt like we could bond over. We created a “web team jam” page in Notion where we shared our favorite tracks.
+
+One afternoon we all tuned into the same playlist during a virtual co-working session—it lightened the mood and got us through. We also love how you can customize Notion pages. Every page can have its own emoji and cover photo so people feel like they can get creative in a way that brings a little levity to our daily work. It’s the little things!
+
+As we look forward to future events and big launches, these learnings will guide us. Sure, Notion is just a productivity tool, but it has become our team’s secret weapon, centralizing our knowledge and tools in a way that makes work more fluid.
+
+If you take anything away from this post, it should be this: collaboration is not something you set and forget. It’s a muscle you have to keep flexing. My advice is to choose a tool like Notion that makes that easier and more enjoyable for everyone.

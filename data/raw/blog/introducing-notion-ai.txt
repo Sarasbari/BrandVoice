@@ -1,0 +1,59 @@
+Title: Introducing Notion AI: Your AI-Powered Writing Assistant in Private Alpha
+Published Date: 2022-11-16T06:00-08:00
+URL: https://www.notion.so/blog/introducing-notion-ai
+
+I’m writing to you from Notion’s San Francisco office, where we have a portrait of computer pioneer Doug Engelbart. In 1962, he wrote about his vision for computers in his paper “Augmenting Human Intellect: A Conceptual Framework” — they could be machines that had the power to help us solve problems, instead of being room-sized calculators and typewriters.
+
+His ideas (and the ideas of his contemporaries) were a big reason why we built Notion.
+
+Today, we’re taking another step forward in that direction.
+
+We’re introducing Notion AI in private alpha, bringing the power of artificial intelligence right into your Notion workspace.
+
+Our mission is to make software toolmaking ubiquitous, and Notion AI will help make that a reality. Not only will anyone be able to mold a computer to their needs, they’ll also be able to augment their thinking and get even more out of their tools (hopefully, Engelbart would be proud!).
+
+We’re at an important inflection point. The potential of artificial intelligence has grown exponentially, and will continue to grow. There’s so much power here already — and we wanted to bring that into Notion for our users.
+
+Bring AI into your existing Notion workflows with these Notion AI templates, like a copy generator, recruiting outreach, and meeting summaries.
+
+What you can do with Notion AI (at present)
+
+Notion AI is a writing assistant that can help you write, brainstorm, edit, summarize, and more. Consider Notion AI your partner. It augments your thinking — helping you save time or spend it more wisely.
+
+Watch this 1-minute demo:
+
+Here are some examples of how teams and individuals can use Notion AI:
+
+Let it tackle that first draft — the first word can often be the hardest one to write. Instead, ask Notion AI to handle your first draft about a topic and get some ideas for you to turn into something great.Spur ideas and creativity — instantly get a list of ideas about anything. This can help you be more creative, surfacing ideas as a jumping off point (or some you wouldn’t even have thought of).Act as your hawk-eyed editor — whether it’s spelling, grammar, or even translation, Notion AI catches mistakes or translates whole posts to help ensure writing is accurate and actionable.Summarize a long meeting or document — instead of sifting through a garble of meeting notes, let Notion AI pull out the most important points and action items.
+
+Let it tackle that first draft — the first word can often be the hardest one to write. Instead, ask Notion AI to handle your first draft about a topic and get some ideas for you to turn into something great.
+
+Spur ideas and creativity — instantly get a list of ideas about anything. This can help you be more creative, surfacing ideas as a jumping off point (or some you wouldn’t even have thought of).
+
+Act as your hawk-eyed editor — whether it’s spelling, grammar, or even translation, Notion AI catches mistakes or translates whole posts to help ensure writing is accurate and actionable.
+
+Summarize a long meeting or document — instead of sifting through a garble of meeting notes, let Notion AI pull out the most important points and action items.
+
+Really, Notion AI (in present form) is your teammate before, during, and after the writing process.
+
+It can help unblock you to focus on more impactful work. It can save you time with some of writing’s most arduous moments. It can’t do everything, but it can help you be more productive. And this is only our alpha. It’ll get much better in the coming months.
+
+Again, we want to remind you that the private alpha is accessible via waitlist only. You can sign up here:
+
+Join the waitlist
+
+Help us build the future of Notion AI
+
+Looking forward, we’re excited about the possibilities of what Notion AI will be able to do. It’s an important step in achieving our mission of making software toolmaking ubiquitous, helping more people unlock the true capability of computers to augment intellect.
+
+We’re releasing the waitlist for private alpha today with hopes of slowly taking users off the list in the coming weeks. But this is only the very, very beginning.
+
+We’re looking for people to help us build the future of Notion AI:
+
+Software Engineer, Machine LearningAnd here are all our open roles
+
+Software Engineer, Machine Learning
+
+And here are all our open roles
+
+We can’t wait to see what the future holds, for Notion, for Notion AI, and for you with the power of these tools.

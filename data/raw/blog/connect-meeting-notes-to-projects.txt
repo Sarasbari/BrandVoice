@@ -1,0 +1,41 @@
+Title: Don’t let action items die: connect meeting notes to project docs to make more impact
+Published Date: 2023-03-14T00:00-07:00
+URL: https://www.notion.so/blog/connect-meeting-notes-to-projects
+
+A good meeting turns bad quickly if no action is taken from it. That’s more likely to happen when the meeting notes are siloed from the project they’re about — you end the the meeting, and never again see the action items you wrote down.
+
+Here’s something that happened to me: in a meeting, we decided to push a launch back 24 hours to accommodate a press story. I forgot to assign the web team (who wasn’t in the meeting) their action item to hold the publication of the landing page. A fire drill ensued.
+
+To avoid a similar situation, have one place for meeting notes and project work. Meetings become actionable. Projects stay on track. And you won’t have to hysterically call the web engineer to take down a landing page (just me?).
+
+How to connect meeting notes and project docs across your company
+
+The decisions and actions that come out of a meeting are vital to a project’s execution (and its success). It doesn’t make sense that these two very connected and important things live in different places. When you align tools, this also aligns people and the work they’re doing.
+
+Here’s how you can bring them together in Notion.
+
+1. Make a company-level meeting notes database
+
+This is so valuable because it unites conversations happening across your entire company. It’s one place where everyone can get context. You can organize this database however you want — by meeting type, team, date, owner, whatever.
+
+Download the meeting notes template here →
+
+2. Connect meeting notes with their projects
+
+Make sure every relevant meeting about a project is captured in one place automatically — instead of wasting time linking docs, action items, and tasks. By doing this, you’re making meetings impactful because action items aren’t siloed from the work.
+
+Download the connected meeting notes and projects databases here →
+
+3. Track action items and make them visible
+
+Keep a running list of action items and assignees from all meeting notes so no balls get dropped.
+
+Do this by putting action items in a synced block — you create the block once, and anytime you make changes to it, updates are reflected everywhere it’s linked. You can create a template for your meeting notes and put the synced block inside that template with action items. Every week, when you create the meeting notes template, there will be all action items from the previous week so everyone can see what got checked off and what still needs doing.
+
+Never have to copy / paste again. Just make these visible in your project pages, and they’ll have the most up-to-date actions from all previous meetings.
+
+Alignment leads to action
+
+Projects constantly change, and those changes are often decided in meetings. Silos between the project work and discussions about the work make it easier for actions to fall through the cracks — which can be detrimental to a project’s success.
+
+In Notion, you can bring meeting notes and projects together from across your whole company into one place. Alignment here, leads to more impactful work everywhere else.

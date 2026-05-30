@@ -1,0 +1,57 @@
+Title: For Fede Sanchez, Notion is backbone of his 1000+ productivity course
+Published Date: 2021-09-17T09:00-07:00
+URL: https://www.notion.so/blog/notion-consultant-fede-sanchez
+
+This Q&A with Fede Sanchez is part of our Consultant Spotlight series, showcasing the stories and work of Certified Notion Consultants.
+
+As a Spanish teen, Fede Sanchez developed passions for Stoic philosophy and productivity technologies, particularly how they can avert cognitive biases in decision-making. Those interests led him to study computer science, then pursue a career in product design. They also positioned him for a unique appreciation for Notion.
+
+Like many Notion users, Fede was awestruck when he discovered Notion in 2018. The more he migrated his life and work into it, the more he loved Notion, and he saw the same gratification in others as he introduced friends and colleagues to the tool. Regardless of the need, Notion invariably delivered the best solution. That's when Fede knew the app would become a phenomenon—and wanted to be part of it.
+
+At product design firm Elastic Heads, Fede and his colleagues now use Notion to facilitate each phase of their acclaimed UX/UI bootcamp. Notion is also the focus of Fede's independent productivity course, through which more than 10,000 students have learned to apply principles of productivity.
+
+By powering his courses with Notion, Fede demonstrates the app's extensive versatility while discovering personal best practices, which he's pleased to share with you.
+
+What are some of your most interesting Notion projects?
+
+Domestika Course
+
+When Domestika — the Skillshare of Spain — asked me to create a course about productivity, I used Notion to craft a dynamic experience that has been enjoyed by nearly 10,000 students, with a 98% satisfaction rating. Not only did Notion provide a platform for participants to develop personalized productivity systems, but it also allowed me to bundle templates, quizzes and other extended resources.
+
+Informed by my longstanding interests in productivity and philosophy, the course is both theoretical and practical. Participants learn critical principles of optimized workflows for their life and work, including focus and time management. Notion's versatility makes it the quintessential tool for demonstrating those concepts and developing individualized systems. It centralizes tasks, goals, events and other information of all types, then organizes entries by day, week, month and other contexts for truly empowered planning and management.
+
+Each lesson includes a set of assessment questions with correct answers accessible within toggles.
+
+UX/UI Boot Camp
+
+As part of our work at Elastic Heads, we design and run UX/UI bootcamps for our clients. Each of our product designers takes pride and pleasure in instructing cohorts. When that was merely three of us, our haphazard system of Keynote presentations and Google Docs sufficed for managing the course. As the program popularized and our team expanded, however, we needed more administrative structure.
+
+That's where Notion entered the picture. We built a hub for planning lessons and centralizing information for participants. Attendees can now access a snapshot of upcoming workshops, then dive into each one for specific topics. Each session's page includes its slide deck and supporting resources.
+
+The hub also includes general information about how the course works and precisely what to expect from it, leaving no question unanswered.
+
+Altogether, this Notion-powered system streamlines the planning process, improves the attendee experience, and reduces demand for customer support.
+
+What are your top tips for Notion users?
+
+To me, the most useful tips help you use Notion's widely versatile features more efficiently. I consistently base my classes on a few principles:
+
+Keep it simple. If basic bullets serve a need succinctly, use them. Avoid purposeless bells and whistles.Don't replace; join. While Notion supplants many tools, it complements others. Needless to say, it's no substitute for the likes of Figma and Miro, but it can help you use those tools cohesively. Leverage Notion's integrations and Embed blocks to manage all of your apps in one place.Lock pages. Inadvertent deletions, property changes and other modifications can prove highly consequential. If you're collaborating with other users, make a habit of locking your pages from the ••• menu.Save online content with Web Clipper. With Notion's browser extension, you can send the contents of any web page to a database in just a few clicks. I love it for aggregating inspiration and saving educational articles to a reading list.Start your week right. In Europe, we start our week on Monday. Notion's default is Sunday. Customize your setting under Settings & Members → Language & region.Standardize with templates. For the documents and procedures your perform repeatedly, create templates using database templates and Template Buttons. We use them for user testing, candidate interviews, client proposals and much more.Sync blocks. Like templates, Notion's new Synced Blocks can save loads of time by managing workspace-wide content in a single place.
+
+Keep it simple. If basic bullets serve a need succinctly, use them. Avoid purposeless bells and whistles.
+
+Don't replace; join. While Notion supplants many tools, it complements others. Needless to say, it's no substitute for the likes of Figma and Miro, but it can help you use those tools cohesively. Leverage Notion's integrations and Embed blocks to manage all of your apps in one place.
+
+Lock pages. Inadvertent deletions, property changes and other modifications can prove highly consequential. If you're collaborating with other users, make a habit of locking your pages from the ••• menu.
+
+Save online content with Web Clipper. With Notion's browser extension, you can send the contents of any web page to a database in just a few clicks. I love it for aggregating inspiration and saving educational articles to a reading list.
+
+Start your week right. In Europe, we start our week on Monday. Notion's default is Sunday. Customize your setting under Settings & Members → Language & region.
+
+Standardize with templates. For the documents and procedures your perform repeatedly, create templates using database templates and Template Buttons. We use them for user testing, candidate interviews, client proposals and much more.
+
+Sync blocks. Like templates, Notion's new Synced Blocks can save loads of time by managing workspace-wide content in a single place.
+
+Where can users follow your insights and resources?
+
+My website is the hub of my web presence, and I'm on Twitter @FedeSanchez0. You'll find my courses on NorthCamp School and Domestika.

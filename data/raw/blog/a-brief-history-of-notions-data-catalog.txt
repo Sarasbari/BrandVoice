@@ -1,0 +1,191 @@
+Title: A brief history of Notion’s data catalog
+Published Date: 2024-10-09T06:00-07:00
+URL: https://www.notion.so/blog/a-brief-history-of-notions-data-catalog
+
+Over the past few years, the number of data assets and systems Notion uses has skyrocketed. That increase has made it essential to develop a robust, easy-to-use data catalog. In this post we’ll guide you through the hurdles we encountered and the solutions we implemented. The evolution of our data catalog has been marked by three distinct phases.
+
+Phase One: Living in the early chaos of the Wild West
+
+Notion began without a data catalog. Our data grew organically and chaotically, stored mostly in unstructured formats like JSON. This approach was supported by tools like Amplitude, which facilitated rapid data integration and analysis without the need for strict data management practices. We prioritized speed in order to accommodate a diverse audience, from developers to data scientists to product managers.
+
+These early choices resulted in many pitfalls:
+
+Our data environment was marked by tribal knowledge without formal guidelines or standards to ensure naming consistency and data standardization.The absence of a structured system made it difficult to classify data events as critical or non-critical when making product decisions.Unclear ownership and responsibilities led to frequent governance and quality issues (e.g. a mistakenly updated event broke downstream consumers of the data).Data can drive product decision-making, but without data discoverability, teams were potentially unaware of the resources at their disposal.Finally, our use of diverse data sources—including data warehouses, stream processing, various data lakes, and operational data stores—further complicated our data ecosystem.
+
+Our data environment was marked by tribal knowledge without formal guidelines or standards to ensure naming consistency and data standardization.
+
+The absence of a structured system made it difficult to classify data events as critical or non-critical when making product decisions.
+
+Unclear ownership and responsibilities led to frequent governance and quality issues (e.g. a mistakenly updated event broke downstream consumers of the data).
+
+Data can drive product decision-making, but without data discoverability, teams were potentially unaware of the resources at their disposal.
+
+Finally, our use of diverse data sources—including data warehouses, stream processing, various data lakes, and operational data stores—further complicated our data ecosystem.
+
+This disarray became a fundamental challenge that our engineering team needed to overcome in order to enhance data utility and governance as Notion grew and expanded our operations.
+
+Phase Two: Laying a firm foundation with building blocks
+
+Our first step in bringing order to our data landscape was to select and utilize a data catalog, Acryl DataHub, which would link directly to our data warehouse for displaying table names and their schemas. We also created an event tiering and ownership system (P0, P1, etc), which allowed us to ensure the availability of owners to maintain the most important events.
+
+Despite this integration’s technical success, we soon noticed that the new system was delivering lower-than-expected user engagement.
+
+Phase Three: Rethink and revamp to enhance user engagement
+
+Further analysis identified three primary issues that were contributing to Notion’s underutilization of Acryl DataHub:
+
+Unstructured data: A significant portion of our source data was in JSON blob columns lacking predefined schemas. This made accurate data catalog representation more difficult.Lack of baseline descriptions: Many tables lacked essential metadata like column or table descriptions, which deterred usage by those who were unfamiliar with the data. Even when descriptions were available, they frequently became outdated as business logic evolved, which made maintenance cumbersome and error-prone.Propagation issues: Descriptions also weren’t being carried over to downstream tables or data analysis tools, where data science and engineering teams, among others, need this information in order to apply the data to product decision-making.
+
+Unstructured data: A significant portion of our source data was in JSON blob columns lacking predefined schemas. This made accurate data catalog representation more difficult.
+
+Lack of baseline descriptions: Many tables lacked essential metadata like column or table descriptions, which deterred usage by those who were unfamiliar with the data. Even when descriptions were available, they frequently became outdated as business logic evolved, which made maintenance cumbersome and error-prone.
+
+Propagation issues: Descriptions also weren’t being carried over to downstream tables or data analysis tools, where data science and engineering teams, among others, need this information in order to apply the data to product decision-making.
+
+In the following sections we’ll describe how we addressed these issues, and the significant improvements that these efforts made to our data catalog.
+
+Goals and design decisions
+
+Goal 1: Bring structure to unstructured data
+
+Our first goal was to impose structure on the JSON data by adopting an Interface Definition Language (IDL) as the definitive source of truth for our data models. We could then integrate this IDL with our data catalog tools to enhance data management and accessibility.
+
+Design decision 1: Selecting TypeScript as our IDL
+
+Our choice of TypeScript as our IDL was a departure from the norm; industry standards typically favor language-neutral IDLs such as Protobuf, Avro, or JSON Schema. We chose TypeScript for several unique advantages:
+
+Preexisting TypeScript types: Our codebase already defines many data models as TypeScript types. Using these types saves substantial engineering resources by avoiding the need to rewrite them in a different IDL.Type safety and specificity: We extensively utilize advanced TypeScript features to ensure type safety and enhance our data models’ specificity. TypeScript’s expressive power often surpasses that of most language-neutral schema specifications.Engineer familiarity: Most Notion engineers are familiar with TypeScript, which helps us maintain high development velocity by eliminating the learning curve associated with adopting a new schema language.
+
+Preexisting TypeScript types: Our codebase already defines many data models as TypeScript types. Using these types saves substantial engineering resources by avoiding the need to rewrite them in a different IDL.
+
+Type safety and specificity: We extensively utilize advanced TypeScript features to ensure type safety and enhance our data models’ specificity. TypeScript’s expressive power often surpasses that of most language-neutral schema specifications.
+
+Engineer familiarity: Most Notion engineers are familiar with TypeScript, which helps us maintain high development velocity by eliminating the learning curve associated with adopting a new schema language.
+
+TypeScript also meets all Notion’s technical requirements, including the ability to generate schemas consumable by data catalog tools and to automatically generate types in Swift, Kotlin, and Python, which we use across our iOS, Android, and data codebases.
+
+Design decision 2: Adopt JSON Schema for data catalog compatibility
+
+Choosing TypeScript as our IDL meant selecting a compatible schema for integration with our data catalog tool, since data catalog tools in general don’t accept TypeScript types. We decided on transforming TypeScript types to JSON Schema and importing JSON Schema into our data catalog. JSON Schema’s advantages include:
+
+Natural synergy: JSON Schema aligns closely with TypeScript’s object representation, allowing for a straightforward transformation which maintains the integrity of the data types defined in TypeScript without extensive alterations.Speed of implementation: Preexisting libraries (e.g., ts-json-schema-generator) for converting TypeScript definitions into JSON Schema accelerate development by leveraging familiar tools and minimizing the need for new infrastructure.Future-proofing for compatibility: JSON makes it possible to build these types for other languages being used at Notion (e.g. Swift for iOS).
+
+Natural synergy: JSON Schema aligns closely with TypeScript’s object representation, allowing for a straightforward transformation which maintains the integrity of the data types defined in TypeScript without extensive alterations.
+
+Speed of implementation: Preexisting libraries (e.g., ts-json-schema-generator) for converting TypeScript definitions into JSON Schema accelerate development by leveraging familiar tools and minimizing the need for new infrastructure.
+
+Future-proofing for compatibility: JSON makes it possible to build these types for other languages being used at Notion (e.g. Swift for iOS).
+
+The selection of TypeScript as the IDL and its transformation to JSON Schema let us convert our unstructured data into schematized formats, which facilitated integration with the data catalog.
+
+Goal 2: Automate metadata descriptions to ensure consistent propagation
+
+Our next objective was to streamline the creation and maintenance of metadata descriptions.
+
+Notion’s data warehouse has grown to house several hundred analytics tables. It can be difficult for both new-to-data and power users to figure out what data lives where, when to use one table over another, and whether there are any caveats in the data that they need to be aware of. Making it easier to create and maintain descriptions would reduce manual effort while ensuring that the metadata remains consistent and current across the catalog.
+
+Design decision 3: Create descriptions by using AI with human feedback
+
+Designing an AI-driven metadata description process meant planning out several key steps:
+
+Metadata compilation and quality: Creating high-quality descriptions starts with gathering a comprehensive set of metadata, including the tables’ content (“what” and “how”) and context (“why”), from the various systems where documentation resides at Notion.Automation and lineage utilization: Automating the description generation process and incorporating table lineage data ensures that any upstream changes are accurately reflected downstream, and that descriptions remain relevant and current across all affected tables.Human review and feedback: In order to guard against generative AI’s tendency to produce errors or “hallucinations,” data owners review all new descriptions and provide feedback that’s automatically incorporated.
+
+Metadata compilation and quality: Creating high-quality descriptions starts with gathering a comprehensive set of metadata, including the tables’ content (“what” and “how”) and context (“why”), from the various systems where documentation resides at Notion.
+
+Automation and lineage utilization: Automating the description generation process and incorporating table lineage data ensures that any upstream changes are accurately reflected downstream, and that descriptions remain relevant and current across all affected tables.
+
+Human review and feedback: In order to guard against generative AI’s tendency to produce errors or “hallucinations,” data owners review all new descriptions and provide feedback that’s automatically incorporated.
+
+Implementation details
+
+Generating schemas from unstructured JSON data
+
+Let’s take a closer look at how we schematized one particular piece of data—a create block analytics event. Analytics events are logged and stored in our data warehouse to help us understand user behaviors. This event in particular is logged whenever a user creates a block. Here’s an example JSON payload of the event before schematization:
+
+To generate the schema, we developed a three-phase process.
+
+Phase 1: Engineer creates types
+
+The journey of an analytics event schema begins with an engineer creating an analytics event in our Typescript codebase. The engineer then runs a tool and provides information such as name and description to produce a Typescript type for the event.
+
+The engineer then populates the event’s properties with descriptions for each property.
+
+Creating one type per analytics event ensures that any future engineer will be able to correctly track the event in net-new instances of application code; static type-checking will also ensure engineers are warned about meeting event property requirements. This is a significant improvement from before, when all properties were optional and there was no enforcement while logging events.
+
+This tool also prompts the engineer for information about the event, such as what team it belongs to and what priority level (i.e., tiering) it warrants. This information is then auto-populated in the codebase and ultimately contributes to the metadata that can be stored in our data catalog.
+
+At this point, the engineer merges the new Typescript event type into our codebase.
+
+Phase 2: Convert typescript to JSON
+
+Once a day we kick off an automated job to read the Typescript event types, generate schemas with ts-json-schema-generator (an npm library), and upload the resulting JSON schema files to an S3 bucket. Storing the JSON schema files in S3 allows us to make them available to other tools (our goal in Phase 3) while opening up the ability to impose version history via S3 file structure.
+
+The ts-json-schema-generator library doesn’t support parsing all types, but the as-is coverage is enough for most of our event types. We plan to add support for more complex types as need arises.
+
+Phase 3: Uploading JSON schemas to our data catalog
+
+Finally, we set up an automated daily job to read the JSON files from S3 and write the schemas to Acryl’s DataHub with the Acryl SDK.
+
+Our approach of generating JSON schemas directly from TypeScript types has allowed us to bootstrap schemas into our data catalog, thereby adding type safety and discoverability to our data. Although unconventional, this method is deeply integrated with Notion’s existing data models, which helps preserve the expressiveness, type-safety, and specificity that our TypeScript types are known for. The design choices around TypeScript ensure that engineers can seamlessly adopt the new system.
+
+At this point, we’ve successfully introduced a hydration process for schemas originating in the engineering environment. After this stage, however, our data team may build derived or transformed tables from our base event logging tables, which may lack their own descriptions.
+
+But there are also other tables (e.g., the block table stripped of all user content) that don’t have descriptions. For these gaps, we turned to a different approach: AI.
+
+Generating descriptions with AI
+
+Recent advances in generative AI, particularly the development of large language models (LLMs) designed to excel at natural language processing, have significantly enhanced our ability to generate high-quality descriptions for complex tables. The majority of our metadata is stored as human-parsable text, and even code-based metadata—often written in SQL—is structured and declarative, resembling natural language.
+
+One of the key features driving this improvement is LLMs’ increased context window size, which determines how much information the model can consider at once. Generating accurate and comprehensive descriptions requires understanding a wide range of information, including the data’s origin, transformations, and relationships within the system. Lineage information is crucial for providing this context, and a large context window allows the model to include all necessary metadata and lineage information, leading to more accurate and comprehensive descriptions.
+
+Notable examples of large context windows include offerings from OpenAI and Anthropic, both of which boast context windows in the hundreds of thousands of tokens. With these large token windows we can provide our AI model with extensive metadata, thus ensuring that it has enough context to generate descriptions that rival those produced by the actual table owners.
+
+The description generation process
+
+Our process to generate a description involves several steps.
+
+First we gather all relevant metadata, including SQL model and macro definitions, existing table and column descriptions, JSON Schema for events (generated by our engineering team in the prior section), internal documentation, last description review outcomes, and comments. We repeat this process for all first-degree upstream tables.
+
+Next we prompt the model with this metadata and the requirements. Data owners are then notified of new pending descriptions for review, initiating an iterative process which utilizes feedback to improve future descriptions. Upon approval, the descriptions are synced to our data catalog and proliferated directly to our data science and BI tools.
+
+There are a number of external offerings that advertise this doc-generating capability; most, however, are limited to ingesting only the raw SQL. We decided to keep the generation in-house so that we have absolute control over the following parameters:
+
+Generative AI model and provider: this allows us to select the current best model and vendor based on performance.Provided metadata: We can incorporate metadata from a variety of sources beyond table definition code.Custom system-role and user prompts: We can tailor prompts specifically to guide the AI model to generate descriptions with our desired tone and format, explain Notion-specific code and naming conventions, reduce superficial changes, and reduce hallucinations.Description generation order: We can generate descriptions starting from the most upstream models in order to ensure that relevant metadata and definitions are proliferated downstream.Human-in-the-loop reviews and audit log: We finish with a custom-built process whereby descriptions are reviewed by the person who pushed the code changes before they’re synced to the data catalog. A history of the generated descriptions and outcomes is then stored in order to guide future improvements.
+
+Generative AI model and provider: this allows us to select the current best model and vendor based on performance.
+
+Provided metadata: We can incorporate metadata from a variety of sources beyond table definition code.
+
+Custom system-role and user prompts: We can tailor prompts specifically to guide the AI model to generate descriptions with our desired tone and format, explain Notion-specific code and naming conventions, reduce superficial changes, and reduce hallucinations.
+
+Description generation order: We can generate descriptions starting from the most upstream models in order to ensure that relevant metadata and definitions are proliferated downstream.
+
+Human-in-the-loop reviews and audit log: We finish with a custom-built process whereby descriptions are reviewed by the person who pushed the code changes before they’re synced to the data catalog. A history of the generated descriptions and outcomes is then stored in order to guide future improvements.
+
+Reviewing and propagating descriptions downstream
+
+Our AI-generated descriptions aren’t perfect; even after we provide all the available metadata, they can be incorrect or include hallucinations. Since the cost of an incorrect description is high, a human review process was one of our key requirements.
+
+For this new process, we created a dashboard to flag pending generated descriptions to an assigned reviewer who reviews the description, approves or rejects it, and adds comments. This feedback is provided within the prompt in the next cycle of generation to help refine the descriptions.
+
+Once approved, the descriptions are synced to DataHub, where they’re also made available across a number of platforms within our data stack—i.e., the SQL repository, our data warehouse, and our BI tools.
+
+Automating description generation has reduced the effort required to fill out table descriptions and enabled a faster onboarding process for new datasets.
+
+Lessons learned
+
+Carry a user-first mindsetIn the upstream process to create descriptions, we plugged into existing engineering workflows, such as using TypeScript over Protobuf and automating a mundane code modification. Likewise, in the downstream process of consuming descriptions, we met our users directly in their data science tools, where they’ll have the highest touchpoint with the content.Stop the bleeding firstAs our application and teams have grown, so has our need for product event tracking. More and more events are added per day, so it was vital to start the schematization at the source: our Typescript codebase. Backfilling types for more tenured tables or events can occur later. The gap can be filled with other tools, like our usage of AI in this context.Prioritize human oversightIntegrating a human review process was crucial in order to reduce the risks associated with incorrect metadata descriptions. By involving data owners as a blocking step in the review process, we prevent errors while building trust among users regarding our data’s accuracy and reliability.
+
+Carry a user-first mindset
+
+In the upstream process to create descriptions, we plugged into existing engineering workflows, such as using TypeScript over Protobuf and automating a mundane code modification. Likewise, in the downstream process of consuming descriptions, we met our users directly in their data science tools, where they’ll have the highest touchpoint with the content.
+
+Stop the bleeding first
+
+As our application and teams have grown, so has our need for product event tracking. More and more events are added per day, so it was vital to start the schematization at the source: our Typescript codebase. Backfilling types for more tenured tables or events can occur later. The gap can be filled with other tools, like our usage of AI in this context.
+
+Prioritize human oversight
+
+Integrating a human review process was crucial in order to reduce the risks associated with incorrect metadata descriptions. By involving data owners as a blocking step in the review process, we prevent errors while building trust among users regarding our data’s accuracy and reliability.
+
+Want to join us in growing and improving Notion’s data ecosystem? See our open engineering roles.

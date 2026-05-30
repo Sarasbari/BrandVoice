@@ -1,0 +1,75 @@
+Title: Everything you need to know about the 80/20 rule
+Published Date: 2023-08-15T00:00-06:00
+URL: https://www.notion.so/blog/80-20-rule
+
+Some tasks have a higher payout than others.
+
+Imagine getting an oil change for your car. The process only takes a half hour, but once it’s done you enjoy better fuel efficiency, protect the proper functioning of your vehicle, and pass emissions tests with ease. This makes it a low-effort, high-reward task.
+
+But not everything you accomplish will have the same balance, especially when it comes to intensive to-dos at work. It’s often wisest, when you have a long to-do list and want to make an impact, to prioritize tasks that afford significant outputs.
+
+That thought process is also known as the 80/20 rule. If you run a business, organizing professional tasks in this way boosts productivity in the workplace and uses your resources as efficiently as possible.
+
+What’s the 80/20 rule?
+
+The 80/20 rule, sometimes called the Pareto principle, postulates that only 20% of activities result in 80% of outcomes. Italian economist Vilfredo Pareto devised the theory when he found that 20% of Italians owned 80% of the country’s land, leading him to find similar 80/20 breakdowns in daily life — like how 20% of the pea plants in his garden rendered 80% of the crops.
+
+While the theory often rings true, it’s not a strict mathematical principle. Instead, the 80/20 rule is a time management, to-do list prioritization, and efficiency tool that encourages you to put high-impact tasks first. It’s more valuable to complete a quick task that results in 50% of a deliverable than a longer one resulting in 5%.
+
+How does the Pareto principle work?
+
+The Pareto principle works by encouraging you to prioritize the best 20% of your assets to produce 80% of outputs. But the rule doesn’t suggest that all other work should fall by the wayside. You can’t expect only to do 20% of the work and remain fully operational or provide top-notch results.
+
+Here’s a Pareto principle example to demonstrate the nuance of the rule. Suppose a marketing team discovers that 80% of sales come from monthly promotional emails. Creating, sending out, and monitoring the results of these campaigns might represent roughly 20% of the department's tasks. The department sees excellent results for that small percentage of work — the 80/20 rule at its finest.
+
+This marketing team should continue to prioritize these high-traction monthly email campaigns, but it would be wrong to drop all other work. They still have to run other initiatives, like a newsletter and social media marketing campaigns. It doesn’t matter if other essential tasks take a lot of time and have a lower impact. The department as a whole can’t exist without more.
+
+Benefits of using the 80/20 rule
+
+When you use the Pareto principle correctly, your team organizes work more efficiently — as long as you acknowledge that it’s a prioritization tool instead of a scientific rule. Here are a few of the benefits the principle can bring:
+
+It helps you organize to-do lists — it’s a good idea to start with 80% impact tasks before moving on to others, especially when you have lots to do in a given workday. You still have to complete all the tasks on your list, but it’s easier to finish the big ones first. It encourages you to take a hard look at your processes — once your team gets used to working with the 80/20 rule, you might shift your ways of working to promote high-value tasks. You’ll eliminate those that don’t bring results — or worse, waste resources. It focuses on outputs, not busy work — successful organizations focus on delivering high-quality products, and in most cases, you want to do so as quickly as possible. When using the 80/20 principle to structure priorities, you gain the satisfaction of making valuable deliveries to end users instead of feeling like you’re in a constant churn of slow-moving, low-impact tasks.
+
+It helps you organize to-do lists — it’s a good idea to start with 80% impact tasks before moving on to others, especially when you have lots to do in a given workday. You still have to complete all the tasks on your list, but it’s easier to finish the big ones first.
+
+It encourages you to take a hard look at your processes — once your team gets used to working with the 80/20 rule, you might shift your ways of working to promote high-value tasks. You’ll eliminate those that don’t bring results — or worse, waste resources.
+
+It focuses on outputs, not busy work — successful organizations focus on delivering high-quality products, and in most cases, you want to do so as quickly as possible. When using the 80/20 principle to structure priorities, you gain the satisfaction of making valuable deliveries to end users instead of feeling like you’re in a constant churn of slow-moving, low-impact tasks.
+
+Challenges of using the 80/20 rule
+
+Teams can’t just use one rule to guide their processes, even if it's solid. Nothing is foolproof, and, especially when it comes to the 80/20 rule, not all workflows fit into the same box.
+
+The most significant potential pitfall of the 80/20 rule is thinking this principle can guide all prioritization decisions. A marketing team may be able to spend 20% of its time running a successful campaign, but it could damage the brand’s reputation if it doesn’t keep up with less exciting tasks, like storing consumer data safely.
+
+Another tricky consequence of the 80/20 rule is that it’s easy to mistake what the percentages represent. They denote effects and causes, and the 20% depends on how efficiently you complete a task — not just how long it takes.
+
+Upkeeping a CRM may only take a few minutes daily, while creating a high-impact sales campaign takes weeks of planning and design. The latter task spurs more significant results, but not because it took the team longer to perform. It’s about effort and efficiency. If the team could have designed the campaign in a half-hour and brought about great results, the task would still be high impact. Teams that use the rule correctly prioritize the 20% of most valuable tasks, no matter how long they take to perform.
+
+How to apply the 80/20 rule for a productivity boost
+
+The 80/20 rule takes place in four steps: determining what work to perform, the benefits of each task, prioritizing to-do lists, and delegating work. Here’s more on how to implement the process:
+
+1. Make a list
+
+Take a comprehensive look at all the work your team does, whether that’s overall or for a specific project you want to break down. Make a list of tasks, including short-term ones like sending emails and ongoing work like maintaining a database. List as much as you can to get a holistic view of what everyone has to do.
+
+2. Analyze the outputs of all tasks
+
+Consider how each of the tasks on your list affects the business. You don’t have to assign numerical values. The 80/20 rule isn’t a mathematical equation. Instead, focus on impact. If your business relies on quickly delivering a product — like restaurant food deliveries — marketing this feature and ensuring all operations support timely service is of great value.
+
+3. Prioritize
+
+Determine the 20% of tasks that represent 80% of your business successes. Remember that you’re not deciding only to perform this 20% of tasks, or to let others fall through the cracks. Instead you’re determining where you need to focus efforts in order to achieve excellent results.
+
+With that in mind, it’s a good idea to use distinct priorities to rank tasks. You may prioritize high-traction emails for sales outputs but place answering customer queries first because doing so aids the customer experience and earns loyalty from the people you’ve already converted.
+
+4. Delegate
+
+Once you’ve chosen your top-priority tasks, delegate them to the team members that will responsible for fulfilling them. Remind them that everyone needs to keep up with regular work as well as the 20% of tasks you’ve decided are of the highest value. The high-output tasks may result in excellent returns, but operations could fall apart if you don’t keep the rest of your to-do list in mind.
+
+Teams that use Notion are more productive
+
+Productivity is about more than just getting things done again. It’s about recognizing your strengths, prioritizing tasks, and establishing efficient ways of working. And Notion supports you throughout the process.
+
+Use Notion’s priority planner to rank tasks by their business impact, boost productivity by mapping work in a template or tracking it in a dashboard, and ensure all initiatives align with your organization’s overall goals.

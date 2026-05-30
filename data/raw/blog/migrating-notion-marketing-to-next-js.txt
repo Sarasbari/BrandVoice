@@ -1,0 +1,227 @@
+Title: Migrating Notion's marketing site to Next.js
+Published Date: 2021-08-11T16:00-07:00
+URL: https://www.notion.so/blog/migrating-notion-marketing-to-next-js
+
+One of the most challenging aspects of being an engineer is knowing when to introduce abstractions and when to keep things simple. How many times have you invested time in building a scalable system up front, planning for growth that never comes to fruition? We're certainly no stranger to this age-old engineering dilemma.
+
+At the end of 2020, however, we decided the time had come to invest in scalable systems that would help propel our marketing efforts into the future. Our content team had begun frequently publishing blog posts, guides, and spinning up various new landing pages. We were creating a large amount of content to support our rapidly growing user base, but at the same time were concerned that performance issues were preventing us from reaching our full audience.
+
+We rebuilt our entire marketing site from scratch, choosing to go with a statically generated architecture over our former purely client-rendered approach. Two months and 109 React components later, we've now fully migrated to our framework of choice, Next.js, and couldn't be happier with our decision. Here's how we got there.
+
+Where we started
+
+In the early days of Notion, we chose to build our marketing site as an extension of our core app. We leveraged existing components and infrastructure so we could ship big with a small team. This approach served us well for about two years, but over time the productivity benefits we enjoyed were overshadowed by the many technical and user-facing problems associated with this approach.
+
+The core benefit of our original client-rendered approach was developer experience. Our app and marketing site shared one large folder of React components. If we needed a popup menu on the marketing site, it was likely an existing component from the app could be reused. Shared code also enabled some interesting user experiences, like the ability to embed the full app in the marketing site as a live demo.
+
+Eventually, the developer experience degraded. We felt like we were inheriting complexity from the app when implementing even small things on the marketing site. For example, we might import a button component from the app that looked like this:
+
+When all we really needed for marketing purposes was a button with a few props like this:
+
+It got to a point where we felt our entire codebase would be easier to maintain by splitting the app and marketing site apart. Marketing teams need to be nimble and our existing setup held us back.
+
+On top of the engineering problems, our implementation was causing a slew of user-facing problems. To name just a few:
+
+JS bundle size — on initial load of the marketing site, visitors were forced to download a 9.1mb app.js file that contained code for the entire app. Very little of this code was marketing-related.SEO — since pages were only client-rendered, crawling by search engines was dubious at best. Google has gotten better at crawling client-side JS, but nothing beats a static or server-rendered page.Content management — without a build system, requests had to be made to our content management system's (Contentful) API on every client-side visit. This resulted in millions of unneeded API calls and loading spinners on otherwise straightforward marketing pages.Performance — for the reasons above, our Google Lighthouse score for marketing pages hovered around 50/100.
+
+JS bundle size — on initial load of the marketing site, visitors were forced to download a 9.1mb app.js file that contained code for the entire app. Very little of this code was marketing-related.
+
+SEO — since pages were only client-rendered, crawling by search engines was dubious at best. Google has gotten better at crawling client-side JS, but nothing beats a static or server-rendered page.
+
+Content management — without a build system, requests had to be made to our content management system's (Contentful) API on every client-side visit. This resulted in millions of unneeded API calls and loading spinners on otherwise straightforward marketing pages.
+
+Performance — for the reasons above, our Google Lighthouse score for marketing pages hovered around 50/100.
+
+The combination of these engineering and user experience issues made it clear that we needed a new, more scalable approach.
+
+Exploring solutions
+
+Like all big decisions at Notion, our decision to integrate a static site generator began with an RFC (a “request for comment,” where we ask the broader team for feedback) in our docs database.
+
+After documenting the problems we were experiencing, we were faced with two divergent paths forward.
+
+1. Optimize existing client-side codebase
+
+In this scenario, we'd build on top of what we already had instead of forging an entirely new path. This work would include:
+
+Using code splitting to reduce marketing JS bundle size.Implementing better asset caching to reduce page weight.Creating a distinction between marketing and app components to reduce inherited complexity and risk of marketing bugs affecting the app.Sticking to client-side rendering in hopes performance improvements alone would improve SEO.
+
+Using code splitting to reduce marketing JS bundle size.
+
+Implementing better asset caching to reduce page weight.
+
+Creating a distinction between marketing and app components to reduce inherited complexity and risk of marketing bugs affecting the app.
+
+Sticking to client-side rendering in hopes performance improvements alone would improve SEO.
+
+2. Migrate to a static site generator
+
+This approach would mean starting from scratch so we could leverage the full benefits of a static site. The work would include:
+
+Rebuilding the marketing site using a JS-based static site generator such as Gatsby or Next.js.Migrating approximately 109 React components.Configuring a new build and deployment process.Rethinking our editorial workflows.Routing requests to notion.so between a separate client and marketing router.
+
+Rebuilding the marketing site using a JS-based static site generator such as Gatsby or Next.js.
+
+Migrating approximately 109 React components.
+
+Configuring a new build and deployment process.
+
+Rethinking our editorial workflows.
+
+Routing requests to notion.so between a separate client and marketing router.
+
+No matter which path we chose, there'd be work ahead. Weighing the pros and cons, we felt the extra investment required to go fully static would pay long term dividends for both user experience and developer productivity. It would let us be nimble.
+
+Choosing a static site generator
+
+We kicked off the next phase of the RFC process by writing down our desires for our new static site. Seeing our needs written down helped illuminate the problems we hoped to solve. We didn't want to pick the shiniest new tool off the shelf unless it truly aligned with our goals.
+
+Our static site wishlist
+
+React-based — our apps are powered by React. Our marketing site should use the same technology.TypeScript support — our entire codebase has benefited greatly from static typing. This power should be extended to the marketing site. We also have bits of code and logic that still need to be shared between the app and marketing site.Contentful integration — our content lives here and needs to integrate seamlessly.Localization — a large percentage of Notion users reside outside of the US. Our marketing site needs to be fully localized to create a better experience for those customers.Full CSS support — we need the ability to use pseudo-selectors and modern techniques that cannot be expressed via inline styles.Publishing workflow — our content creators need a way to preview their work before publishing.Future-proof — this is a big investment and we need to be confident the framework we choose is here to stay.
+
+React-based — our apps are powered by React. Our marketing site should use the same technology.
+
+TypeScript support — our entire codebase has benefited greatly from static typing. This power should be extended to the marketing site. We also have bits of code and logic that still need to be shared between the app and marketing site.
+
+Contentful integration — our content lives here and needs to integrate seamlessly.
+
+Localization — a large percentage of Notion users reside outside of the US. Our marketing site needs to be fully localized to create a better experience for those customers.
+
+Full CSS support — we need the ability to use pseudo-selectors and modern techniques that cannot be expressed via inline styles.
+
+Publishing workflow — our content creators need a way to preview their work before publishing.
+
+Future-proof — this is a big investment and we need to be confident the framework we choose is here to stay.
+
+These parameters naturally narrowed down to just a few contenders.
+
+Why we picked Next.js
+
+After a thorough review and proof-of-concept built in Next.js, we realized there was a lot to love:
+
+The framework is lightweight and declarative in nature. It handles the important things: routing, code splitting, static generation, localization, and image optimization. After that it gets out of the way.Full TypeScript support.The docs and code examples are excellent and left us feeling supported in the migration.Server-side rendering wasn't something we initially needed, but we were excited to have it in our toolbox for future use.Internationalized routing comes out of the box. A huge time saver.The image component can integrate with CloudFlare to cache assets and improve performance.
+
+The framework is lightweight and declarative in nature. It handles the important things: routing, code splitting, static generation, localization, and image optimization. After that it gets out of the way.
+
+Full TypeScript support.
+
+The docs and code examples are excellent and left us feeling supported in the migration.
+
+Server-side rendering wasn't something we initially needed, but we were excited to have it in our toolbox for future use.
+
+Internationalized routing comes out of the box. A huge time saver.
+
+The image component can integrate with CloudFlare to cache assets and improve performance.
+
+In nearly every arena, Next.js aligned with our technical goals.
+
+Building the static site
+
+Migrating our marketing site to an entirely new framework was a gigantic undertaking. It required the contributions of three engineers off and on over the course of two months. Together we migrated and refactored:
+
+200k+ lines of code109 React components23 static pages129 dynamically generated pages2 locales
+
+200k+ lines of code
+
+109 React components
+
+23 static pages
+
+129 dynamically generated pages
+
+2 locales
+
+The migration process was smooth — which mostly involved copy / pasting code or modifying functionality to follow Next.js best practices. But there were a few areas that required extra attention and consideration.
+
+Version control
+
+Our entire codebase lives in a single monorepo. The web app, desktop apps, mobile apps — everything. We briefly considered starting a new repo specifically for the marketing site. The main benefit being that the marketing team could deploy autonomously to a static hosting platform like Vercel.
+
+Our intention was to split up the app and the marketing site, but we found separate repos unnecessary. We did end up fulfilling our dream of having a separate set of components just for marketing, but we still needed access to some shared resources. Things like analytics events, APIs, and helper methods needed to be kept in sync. Thus, we chose to stick with our monorepo and sort out deployment ourselves.
+
+Routing
+
+Adding Next.js to our stack meant we needed a way for our main client router to be aware of our new statically generated routes. Our client app and marketing site live on the same domain, making things a bit more complicated. Luckily, the solution ended up being rather straightforward.
+
+We set up a reverse proxy that works like this:
+
+A request comes into notion.so.The API server inspects the request and parses out the path and user agent.We check the request's path against an allow-list of known marketing subpaths.If the path and user agent qualify as a marketing route, we forward the request to our marketing service.If the path and user agent qualify as an app route, the api server handles the request directly.
+
+A request comes into notion.so.
+
+The API server inspects the request and parses out the path and user agent.
+
+We check the request's path against an allow-list of known marketing subpaths.
+
+If the path and user agent qualify as a marketing route, we forward the request to our marketing service.
+
+If the path and user agent qualify as an app route, the api server handles the request directly.
+
+This approach allows us to maintain custom routing in the client app while also taking advantage of Next.js's dynamically generated marketing routes.
+
+Hosting & deployment
+
+To take advantage of some of the best Next.js features, our marketing site lives in its own Docker container and is deployed to AWS ECS. Having a full server environment enables features like preview mode, internationalized routing, and SSR.
+
+Logging in production ended up being more challenging than expected. We created a custom server entry point specifically for error handling and performance monitoring.
+
+CSS
+
+One of the biggest pain points of our previous marketing codebase was how we handled styles. The app primarily uses React style props. Styles are generally returned from functions:
+
+This approach works great for a complex app like Notion where a large portion of styles need to be computed at runtime, but it's less suitable for a marketing site with a more traditional publishing use-case.
+
+Our marketing codebase now uses Styled JSX instead of inline styles. It looks like this:
+
+We were overwhelmed by the number of great CSS-in-JS options available and it was hard to choose just one. We've been extremely happy with Styled JSX for a few reasons:
+
+We get to write full, real CSS! Things like pseudo-selectors and media queries "just work."Styles are component-scoped by default, eliminating nasty specificity bugs.It works out-of-the-box in Next.js. No additional packages are needed.We can still interpolate values from JS as needed.
+
+We get to write full, real CSS! Things like pseudo-selectors and media queries "just work."
+
+Styles are component-scoped by default, eliminating nasty specificity bugs.
+
+It works out-of-the-box in Next.js. No additional packages are needed.
+
+We can still interpolate values from JS as needed.
+
+Our new approach to CSS has cut the development time of landing pages in half and has allowed us to style more expressively.
+
+Making the switch
+
+The most challenging aspect of this project was the sheer scale of it. We not only had to rebuild large portions of our site, but also maintain and update the existing site at the same time.
+
+To make this possible, there were a few technical considerations:
+
+The new static site was developed in the same repo. Any external dependencies stayed in sync throughout the build.We hid the new routing logic behind an experiment, allowing us to turn on the new site in our dev environment and keep it off in production.When it came time to launch, we were able to ramp up traffic to the experiment over a period of two weeks to ensure everything worked as expected.
+
+The new static site was developed in the same repo. Any external dependencies stayed in sync throughout the build.
+
+We hid the new routing logic behind an experiment, allowing us to turn on the new site in our dev environment and keep it off in production.
+
+When it came time to launch, we were able to ramp up traffic to the experiment over a period of two weeks to ensure everything worked as expected.
+
+This approach made the transition completely seamless and resulted in zero downtime.
+
+The results
+
+After two months of intense migration work, it was beyond exciting to share this message internally with the team on launch day:
+
+It was a funny message to share because, to the naked eye, nothing on our site had really changed. We intentionally chose to limit the scope of this project to migration and performance improvements. Adding a layer of design polish would have complicated the process and made it more challenging to measure results.
+
+So what were the results? A whole bunch of incredible quantitative and qualitative improvements.
+
+Performance — we now have one of the best-performing marketing sites in the entire industry. Our previous Google Lighthouse performance score hovered around 50/100 for most pages. Our new score on notion.so/product is 97/100. We plan to keep an eye on this metric and improve it even further.User experience — there is no longer a single loading spinner on the entire marketing site. Everything is pre-rendered, cached by a CDN, and delivered instantly. Performance is a feature!Page weight — the size of our initial required JavaScript is down 93% from 9.1mb to 847kb. Similar improvements are seen across the entire site. The total file size of notion.so/product is down 75% from 12.5mb to 3.1mb.SEO — Google can now fully crawl and index our marketing pages.Developer productivity — we can now make sweeping changes to the marketing codebase without worrying they'll cause trouble in the app. We can write full, modern CSS. Best of all, we can safely query any piece of content from our CMS, knowing that the majority of data fetching will happen at build time instead of at request.
+
+Performance — we now have one of the best-performing marketing sites in the entire industry. Our previous Google Lighthouse performance score hovered around 50/100 for most pages. Our new score on notion.so/product is 97/100. We plan to keep an eye on this metric and improve it even further.
+
+User experience — there is no longer a single loading spinner on the entire marketing site. Everything is pre-rendered, cached by a CDN, and delivered instantly. Performance is a feature!
+
+Page weight — the size of our initial required JavaScript is down 93% from 9.1mb to 847kb. Similar improvements are seen across the entire site. The total file size of notion.so/product is down 75% from 12.5mb to 3.1mb.
+
+SEO — Google can now fully crawl and index our marketing pages.
+
+Developer productivity — we can now make sweeping changes to the marketing codebase without worrying they'll cause trouble in the app. We can write full, modern CSS. Best of all, we can safely query any piece of content from our CMS, knowing that the majority of data fetching will happen at build time instead of at request.
+
+With our new, rock-solid foundation, we're excited for the marketing team's shipping cadence to accelerate significantly. We have big things planned — and we could use a little help making them a reality. Want to join us? Check out notion.com/careers for current openings.

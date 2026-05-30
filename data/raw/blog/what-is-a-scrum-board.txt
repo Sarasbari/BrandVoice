@@ -1,0 +1,107 @@
+Title: What’s a Scrum board, and how can you create one?
+Published Date: 2023-07-11T00:00-06:00
+URL: https://www.notion.so/blog/what-is-a-scrum-board
+
+Burndown charts. Kanban boards. Gantt charts.
+
+There are dozens — if not hundreds — of functional project management tools out there. But that means it’s harder to choose the right one.
+
+If your team practices the Agile methodology or works in sprints, Scrum boards will likely be part of your project planning mix. A Scrum board is what Agile teams use to gain a high-level view of the status of tasks within a sprint. They’re simple but effective, and require few tools and little onboarding.
+
+What’s a Scrum board?
+
+A Scrum board is a visual tool that uses cards to display individual project tasks and their respective statuses. Scrum boards can be physical or virtual, and they usually have three columns: one for tasks on the to-do list, one for in-progress activities, and one for complete work. Most people title these columns “To-do,” “Doing,” and “Done.”
+
+Teams write tasks on cards and place them in the correct columns of the Scrum chart. If they haven’t started a project yet, all cards reside in the Scrum task board's first section: “To-do.” As work progresses, they move cards to the right, shifting them into “Doing” and then “Done.”
+
+If you have project planning experience, this process probably rings a bell. Kanban boards have a similar format; both Scrum and Kanban use “To-do,” “Doing,” and “Done” columns. But Kanban boards track progress for an entire project, while Scrum boards mostly focus on sprints.
+
+The essential elements of Scrum
+
+Before making your first board, you’ll need a basic Scrum tutorial. This project management framework seems simple, but there are unique features and terms within it. Start with working knowledge of the essential elements of Scrum and Agile:
+
+Scrum team
+
+Scrum teams are self-organizing, cross-functional groups that work together on a project or particular sprint. These teams consist of:
+
+Scrum masters — the leading problem-solvers who organize the process and remove obstacles from teammates’ pathsProduct owners — the people responsible for reinforcing the business needs behind the project and relating customer and stakeholder feedbackTeam members — the staff performing development work or other project tasks within Scrum
+
+Scrum masters — the leading problem-solvers who organize the process and remove obstacles from teammates’ paths
+
+Product owners — the people responsible for reinforcing the business needs behind the project and relating customer and stakeholder feedback
+
+Team members — the staff performing development work or other project tasks within Scrum
+
+User stories
+
+In the Agile methodology, user stories represent the end-user needs that determine a team’s project roadmap. They describe a project’s goals from the user’s perspective, often following this format: “As an X, I want X, so X.”
+
+A user story for a software company could be: “As a pet parent, I want to place same-day orders for dog food and treats so I don’t have to run to the store.” With this story in mind, the company might give customers 24-hour delivery options, whether as an existing upgrade or a completely new app.
+
+Sprints
+
+Sprints are short working periods — usually 1–4 weeks — in which teams work on a feature or specific task. They organize the product development process and keep teams on track for functional deliverables.
+
+Backlog
+
+A backlog is a list of all the tasks in a project or a sprint. The term implies lateness, but it’s just another word for a to-do list. There are product backlogs, which contain a longer list of all project tasks, and sprint backlogs, which host tasks from a sprint.
+
+A 3-step guide to creating a Scrum board
+
+Once you’re familiar with the moving parts of the Scrum process and the basics of how the board works, you’re ready to create one. Use these three steps to start:
+
+1. Create tasks from user stories
+
+Look at the backlog of user stories and determine which tasks you’ll tackle in the upcoming sprint. If you’re making a physical chart, write them on sticky notes, and if you’re making a Scrum board online, use digital cards. Include relevant details like the assignee and deadline. And if necessary, go one step further and identify dependencies: inter-reliant tasks that the team must perform in a certain order.
+
+2. Create Scrum board columns
+
+Add columns for “To-do,” “Doing,” and “Done” tasks. You can add other columns for periods like revision or testing, but they aren’t necessary features of a Scrum board. It depends on your team’s process and the project’s overall needs.
+
+3. Organize tasks
+
+If you’re just starting a project, add all tasks to the first column: “To-do.” Otherwise, spread them out in their respective columns for in-progress and completed work. Then your team can move them along accordingly until everything’s done.
+
+The pros and cons of Scrum boards
+
+Like any tool, Scrum boards do have their pros and cons. They’re user-friendly and flexible, but they might be too simple for large-scale projects.
+
+Here are some pros to consider before implementing a Scrum board for your team:
+
+They’re user-friendly — Scrum boards have just three columns with intuitive task cards. There’s no complex math or burndown chart. And virtual project planning platforms make the process even easier with drag-and-drop cards and space for notes and attachments. They keep everyone in the know — these boards are excellent collaboration tools. With everything in one place, teams can easily share responsibilities, view each others’ progress, and mitigate issues together. They’re flexible — teams and individuals can use Scrum boards for any undertaking, from development projects to personal to-do lists. You can add custom columns, create detailed task cards, and track dependencies for more complex projects.
+
+They’re user-friendly — Scrum boards have just three columns with intuitive task cards. There’s no complex math or burndown chart. And virtual project planning platforms make the process even easier with drag-and-drop cards and space for notes and attachments.
+
+They keep everyone in the know — these boards are excellent collaboration tools. With everything in one place, teams can easily share responsibilities, view each others’ progress, and mitigate issues together.
+
+They’re flexible — teams and individuals can use Scrum boards for any undertaking, from development projects to personal to-do lists. You can add custom columns, create detailed task cards, and track dependencies for more complex projects.
+
+But Scrum boards have their limits. While an efficient tool for sprint planning, they aren’t a catch-all for every project management need. Here are some of the cons:
+
+They aren’t scalable — Scrum boards work for sprints, but won’t function quite as well for large projects. The board would have an overwhelming amount of tasks and become more unwieldy than useful. Kanban boards, which track entire projects, are better for long-term work. Scrum boards require Agile frameworks — if your company hasn’t yet adopted Agile project management techniques, it’ll be difficult to introduce Scrum boards. For Scrum to work its magic, your team needs a solid understanding of Agile and the sprint structure. Scrum boards don’t track overall progress — as a sprint tracking tool, Scrum boards only track one interval of work. This means that the board won’t give your team insight into its journey toward overarching project deadlines and goals. You need to supplement a Scrum board with other project planning tools, like Gantt charts, to see the bigger picture.
+
+They aren’t scalable — Scrum boards work for sprints, but won’t function quite as well for large projects. The board would have an overwhelming amount of tasks and become more unwieldy than useful. Kanban boards, which track entire projects, are better for long-term work.
+
+Scrum boards require Agile frameworks — if your company hasn’t yet adopted Agile project management techniques, it’ll be difficult to introduce Scrum boards. For Scrum to work its magic, your team needs a solid understanding of Agile and the sprint structure.
+
+Scrum boards don’t track overall progress — as a sprint tracking tool, Scrum boards only track one interval of work. This means that the board won’t give your team insight into its journey toward overarching project deadlines and goals. You need to supplement a Scrum board with other project planning tools, like Gantt charts, to see the bigger picture.
+
+Scrum board best practices
+
+Scrum boards may be easy to use, but that doesn’t mean you can just make one and run. You need everyone involved to understand how they work and what you’re expecting.
+
+The following best practices can help you use the board correctly and prevent mistakes:
+
+Hold daily check-ins — all team members must have access to the Scrum board to track progress, but sometimes viewing the chart isn’t enough. Hold daily check-ins, also known as Scrum ceremonies. Here, everyone briefly explains their progress and any blockers that are preventing them from completing work. These sessions add nuance and context to the data on the board. Don’t just assign work; assign resources — don’t stop after assigning sprint tasks to responsible team members; make sure everyone has the resources they need to complete the work, like time, tools, and funds. Learn from the past — use past Scrum boards as examples for the future. You're one step ahead if you already use a project management platform that calculates metrics like the time it takes to complete every task. Use this data to ensure your team backlogs the right amount of work for upcoming sprints. Also hold retrospectives at the end of sprint cycles to discuss what went well and what didn’t, so you can run smoother projects in the future.
+
+Hold daily check-ins — all team members must have access to the Scrum board to track progress, but sometimes viewing the chart isn’t enough. Hold daily check-ins, also known as Scrum ceremonies. Here, everyone briefly explains their progress and any blockers that are preventing them from completing work. These sessions add nuance and context to the data on the board.
+
+Don’t just assign work; assign resources — don’t stop after assigning sprint tasks to responsible team members; make sure everyone has the resources they need to complete the work, like time, tools, and funds.
+
+Learn from the past — use past Scrum boards as examples for the future. You're one step ahead if you already use a project management platform that calculates metrics like the time it takes to complete every task. Use this data to ensure your team backlogs the right amount of work for upcoming sprints. Also hold retrospectives at the end of sprint cycles to discuss what went well and what didn’t, so you can run smoother projects in the future.
+
+Create a custom Scrum board with Notion
+
+Don’t implement Scrum alone. Use Notion to create a custom board and store team files and knowledge bases in one central place.
+
+Notion also offers a wealth of templates and guides to support project planning. Read up on process creation or product roadmaps and use boilerplates to support Agile project management. Your team will thank you.

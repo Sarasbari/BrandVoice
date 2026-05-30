@@ -1,0 +1,53 @@
+Title: Here’s why your startup needs a single source of truth
+Published Date: 2021-06-18T09:00-07:00
+URL: https://www.notion.so/blog/startup-single-source-of-truth
+
+Matthias Kentzia, product manager at Typeform, has to see the forest through the trees to make decisions about the product. Problem is, there are lots of trees. He keeps track of A/B test results from the data team, customer interviews from the sales team, progress made by the engineering team, and more.
+
+All the teams he coordinates with use different tools to collect their data and share their information with him. In the past, it led to data fragmentation, and teams were duplicating work instead of making progress. “No one knew where anything was, so different teams were building different plans,” said Matthias.Matthias isn’t alone. Startup operators and teams need to synthesize information from multiple teams to make critical decisions, but they frequently have to use different tools and get information from disparate sources, often at the expense of speed and accuracy. This is where a single source of truth (SSOT) comes in. With a single source of truth, startups move faster, avoid work duplication, and create successful teams as they scale. Think of it as the hub of a wheel — it connects the individual spokes of information and helps teams make decisions.The benefits of a single source of truth go beyond the direct operational needs of a startup — a single source of truth is also vital for building company culture as well as codified systems and processes. In a remote, asynchronous environment, a single source of truth unites teams and keeps them engaged in their shared mission.
+
+What is a single source of truth (SSOT)?
+
+A single source of truth is the one source of operating information that everyone in the company agrees is real and trusted.
+
+SSOTs have multiple dimensions that serve a startup’s needs. They can exist at both the company level, sharing information around company-wide items like benefits and time off, and also at the team level, sharing information around team-specific items like processes and experiment results. What matters is the information is centralized in one tool, and people know where to go to find the information they need.
+
+A strong SSOT is a flexible source of information. As a team’s thinking evolves, their SSOT should evolve with them. If your single source of truth is hard to update, information gets recorded more slowly (or not at all), which means it won’t stay relevant or useful for you and your team.
+
+Bring data from fragmented sources into one place
+
+Most teams use data, like website analytics or NPS scores, that come from many different places. Together, these give you the whole picture of how your team and your business are performing. SSOTs can give startups the ability to paint this picture easily.
+
+In a 2015 survey, 69% of CFOs said keeping data siloed was one of the biggest mistakes their organization made. Without the right data points accessible at the right time, it’s hard for startup leaders to make business decisions that have a significant impact on their companies.
+
+With SSOTs, leaders can view their data without having to spend time searching for each metric across files, spreadsheets, and slide decks. Instead, data can be presented in a unified way that reduces search time and removes the need for familiarity with dozens of tools. Leaders also have access to the most updated information since SSOTs can be integrated with their other data workflows in real time.
+
+Startups like Blocknative rely on Notion to function as their single source of truth. “Notion is a foundational part of Blocknative’s development process, providing a flexible sprint planning and execution tool with performance measurement,” says Blocknative’s CTO and co-founder Chris Meisl. “Notion adapts organically to our evolving needs and gives us the freedom to build a process that works best for our team.”Notion gives startups the ability to embed almost every type of data in one place:
+
+Engineers can embed code snippets in 25+ languages and share them with the rest of their team. Designers can embed Figma, Whimsical, Framer, Miro, and InVision projects so that they can quickly communicate their ideas in a doc. HR teams can embed a Google Map to share the company’s office location — useful for when teams start returning to the office.
+
+Engineers can embed code snippets in 25+ languages and share them with the rest of their team.
+
+Designers can embed Figma, Whimsical, Framer, Miro, and InVision projects so that they can quickly communicate their ideas in a doc.
+
+HR teams can embed a Google Map to share the company’s office location — useful for when teams start returning to the office.
+
+With 500+ apps you can embed in your Notion pages, you can finally bring all your data together in a way that allows you to do your work and your planning together, side by side. And with Notion's API, you can also link thousands of other data sources that don’t have native embeds.
+
+Separate the strategic signal from the operational noise
+
+SSOTs force startups to focus on the metrics that matter by zeroing in on a few key numbers and mapping the data they collect against them. “When most companies have multiple data systems and a wealth of data to draw from, it’s easy to feel data-driven but not actually be data-driven,” says Brent Dykes, senior director of insights and data storytelling at Blast Analytics.
+
+In a stormy sea of data, a few key metrics are a startup’s lighthouse. Amplitude’s former VP of Marketing Sandhya Hegde calls them “north star metrics.” According to her, they’re important for startups because they instill clarity and alignment around what startups should optimize for, and they hold the entire team accountable to a few key outcomes that meet their business needs.
+
+Startups can set their north star metrics in their SSOT and then track the inputs that generate those metrics. By doing so, they avoid swimming through noisy spreadsheets and analytics dashboards to find the numbers that matter. They can simply open their SSOT and get a real-time view of how they’re doing and identify what strategic path to take.
+
+North star metrics are sometimes criticized for being lagging indicators that can shield harsh truths about a startup’s health. SSOTs provide an additional benefit by providing context and nuance where it matters. You might not be able to comment on and discuss your daily active users (DAUs) metric in your analytics dashboard, but you can have those discussions in a Notion page.
+
+Build a castle of tribal knowledge to inform future decisions
+
+SSOTs don't just help teams make decisions in the present. They also store information from past decisions to help you make better decisions in the future.Think of building systems and processes in your company like building a castle. The more systems you build, the more you fortify your castle. If you don’t store these systems and tools, you won’t be able to mount defenses quickly, which makes you more vulnerable to attacks from your competition. For example, when a project is successful, team members can surface the decisions and the templates that led to its success with a decision log and share them with the rest of the team. Future projects are set up for success much faster than they otherwise would be.Chipper Cash realized the benefit of storing their past decisions in a single source of truth when they came to Notion. Earlier, their knowledge was fragmented across multiple file storage and document sharing tools. After they moved to Notion, they embraced a more intentional way of working. As Co-founder and President Maijid Moujaled put it, “Having all project decisions written down and shared across the organization doesn't eliminate the need for questions, but it's so much easier to find answers.”Chipper Cash also saw the benefit of Notion’s templates in reducing unnecessary communication and standardizing their processes. Their design team turned their briefs into a template so they could obtain all the information they needed about a new project at its kickoff. What was once a laborious back-and-forth process with stakeholders on Slack is now a streamlined workflow that sets the design team up for success early on.
+
+Make faster decisions with a single source of truth in Notion
+
+Speed is a startup’s biggest advantage. When you make decisions faster, you progress faster. Matthias realized this when he moved to Notion. By bringing all of his disparate data sources together, he was better able to prioritize the most impactful product opportunities for Typeform. "What I really like about Notion is the ability to link things together. I have one place for all my research. It's the central source of truth for every project," says Matthias.Looking to create your own single source of truth? Get started by building a team wiki in Notion.

@@ -1,0 +1,73 @@
+Title: How to create a project roadmap
+Published Date: 2023-07-25T00:00-06:00
+URL: https://www.notion.so/blog/project-roadmap
+
+Starting a new project is exciting. But it also requires a lot of work — delegating between teams, handling financial roadblocks, and communicating progress to stakeholders. The list goes on.
+
+To help your team keep momentum toward your shared goals, outline broad objectives and deadlines with a project roadmap. This document ensures everyone understands expectations and what success looks like so they can move forward strategically.
+
+What’s a project roadmap?
+
+A project roadmap is a high-level outline of a project’s critical milestones and deliverables, often created in a road-mapping tool like a Kanban board. This document enables project managers to determine the project’s scope, communicate the overall vision to stakeholders, and craft a strategic plan for meeting objectives.
+
+While sometimes mistaken for a roadmap, a project plan is a more specific, detailed outline of the tasks, project timelines, and resources that will be required to complete a project. This plan helps project managers and their teams understand personal and group expectations and stay on track throughout the project lifecycle. You can use project planning tools like a Gantt chart to create these documents to visualize task progress and deadlines in real-time.
+
+5 reasons you need a project roadmap
+
+While both project roadmaps and plans are invaluable team tools, it’s best to start with a roadmap before diving into a project’s details. Here are five ways in which project roadmaps set you up for success:
+
+Accountability — outlining broad project expectations ensures that team members understand their responsibilities. It also allows them to ask for extensions if they know a task will take longer than the time they’ve been given, or provide input so they feel more a part of and accountable for the project’s outcome. Alignment — as projects unfold, it’s easy to lose sight of what matters most as team members dive into tasks and focus on their areas of expertise. Prevent this tunnel vision by establishing a project roadmap that colleagues can reference to re-align their work with the overall vision.Visibility — a project roadmap gives everyone, from managers to teammates to stakeholders, insight into the project's overall direction.Communication — a project roadmap provides visibility into a project’s progress, making it a great communication tool. You can present the roadmap to brief stakeholders and executives on where the project is headed or generate project status reports. Flexibility — you can adjust the roadmap as the project progresses to reflect changes on the ground, including scheduling conflicts, financial roadblocks, and goal pivoting.
+
+Accountability — outlining broad project expectations ensures that team members understand their responsibilities. It also allows them to ask for extensions if they know a task will take longer than the time they’ve been given, or provide input so they feel more a part of and accountable for the project’s outcome.
+
+Alignment — as projects unfold, it’s easy to lose sight of what matters most as team members dive into tasks and focus on their areas of expertise. Prevent this tunnel vision by establishing a project roadmap that colleagues can reference to re-align their work with the overall vision.
+
+Visibility — a project roadmap gives everyone, from managers to teammates to stakeholders, insight into the project's overall direction.
+
+Communication — a project roadmap provides visibility into a project’s progress, making it a great communication tool. You can present the roadmap to brief stakeholders and executives on where the project is headed or generate project status reports.
+
+Flexibility — you can adjust the roadmap as the project progresses to reflect changes on the ground, including scheduling conflicts, financial roadblocks, and goal pivoting.
+
+How to create a project roadmap in 5 steps
+
+Here’s a guide to creating a roadmap for your project — customize this outline to your team’s needs.
+
+1. Research your project’s key information
+
+The first step to creating a project roadmap is researching your project's key information. This involves gathering details related to the project's objectives, milestones, deliverables, and resources:
+
+Objectives are what the project aims to achieve, like increasing revenue, improving customer satisfaction, or launching a new product. To define project objectives, conduct stakeholder interviews, review project documentation, and analyze data to ensure that your objectives are achievable, measurable, and aligned with overall business goals.Milestones are significant events with their own deadlines that act as checkpoints in your project timeline to measure progress and help your team stay on track. These can include completing your project's design phase or finishing a critical deliverable. To identify milestones, conduct a work breakdown structure (WBS) analysis that breaks big-picture goals into smaller, manageable achievements.Deliverables are the tangible items or outcomes that should result from your project, like a new software application, business report, or product feature. Identify these deliverables by reviewing the project scope and requirements, discussing requirements with stakeholders, and using your team's expertise to determine what’s necessary to meet project objectives.Resources are the people, equipment, and budget you’ll need in order to undertake your project. Identify and secure resources by reviewing your research and requirements to ensure your project can continue without any hitches.
+
+Objectives are what the project aims to achieve, like increasing revenue, improving customer satisfaction, or launching a new product. To define project objectives, conduct stakeholder interviews, review project documentation, and analyze data to ensure that your objectives are achievable, measurable, and aligned with overall business goals.
+
+Milestones are significant events with their own deadlines that act as checkpoints in your project timeline to measure progress and help your team stay on track. These can include completing your project's design phase or finishing a critical deliverable. To identify milestones, conduct a work breakdown structure (WBS) analysis that breaks big-picture goals into smaller, manageable achievements.
+
+Deliverables are the tangible items or outcomes that should result from your project, like a new software application, business report, or product feature. Identify these deliverables by reviewing the project scope and requirements, discussing requirements with stakeholders, and using your team's expertise to determine what’s necessary to meet project objectives.
+
+Resources are the people, equipment, and budget you’ll need in order to undertake your project. Identify and secure resources by reviewing your research and requirements to ensure your project can continue without any hitches.
+
+2. Choose and fill out a template
+
+Templates standardize the road-mapping process so you’re delivering a consistent outline to employees and stakeholders. Look at project roadmap example templates to figure out which one has the sections you’d like to highlight, like objectives, milestones, deliverables, and resources. After choosing, you can fill out the project roadmap template, adding missing sections if necessary, like the expected communication cadence or a broad timeline.
+
+3. Ask for feedback
+
+Before finalizing your roadmap, ask stakeholders, managers, and teammates whether the draft aligns with their needs and expectations, making adjustments as necessary to avoid misunderstandings and frustration down the road. This also builds trust with investors, so they will support your plan as well.
+
+4. Update when needed
+
+Project roadmaps aren’t static documents. Even after creating a roadmap, you’ll need to maintain it to reflect changing circumstances like budget cuts or resource allocation issues. Schedule regular check-ins to review the project's progress and update the map as necessary, always sharing any adjustments.
+
+5. House your roadmap in a connected workspace
+
+You don’t work on projects alone, and your roadmap should reflect that. Instead of creating and storing your roadmap locally, bring it to a connected productivity workspace like Notion, so the document is available to relevant team members and stakeholders.
+
+Then invite your team members and stakeholders to collaborate on your document in real time. They can access it when they need to surface information on a self-serve basis and update it to reflect project realities.
+
+A connected workspace also empowers you to store your project roadmap alongside tasks, project checklists, and process documents. Connecting these items creates a living hub that centralizes the resources relevant to your project.
+
+Start with a Notion template
+
+Project roadmaps offer a high-level understanding of your team’s goals, responsibilities, and deadlines. Use this document to ensure everyone, from stakeholders to managers to individual team members, understands what it will take to achieve project success.
+
+To get started, search Notion’s template gallery for something specific to your department, or try our generic project roadmap or startup-friendly roadmap. Get ready to kick-start your project the right way.

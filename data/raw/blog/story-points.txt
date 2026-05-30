@@ -1,0 +1,105 @@
+Title: What are story points, and why are they helpful?
+Published Date: 2023-06-13T00:00-06:00
+URL: https://www.notion.so/blog/story-points
+
+When you’re in the midst of a development project, time can feel like an invention. Certain tasks fly by while others seem interminable. The concept of story points acknowledges this time warp.
+
+Instead of considering a project’s milestones in terms of time, story points assign values to the effort, complexity, and risk potential the work implies. By sprint planning with story points, teams gain a more accurate projection of the path ahead, mitigate scope creep, and stay on budget.
+
+What are story points?
+
+Necessity is the mother of invention, and Ron Jeffries created story points to improve the planning stages of Extreme Programming XP projects. The success of the story points methodology has now earned it a spot in Agile, Kanban, and Scrum processes.
+
+Story points, which don’t use time to estimate the weight of work, instead rely on the following determiners. Teams assign the work numbers or other markers, like “T-shirt sizes” (XS, S, M, L, XL), to designate the relative weight of certain tasks against others:
+
+Effort — the team considers the work ahead in terms of Quality Assurance metrics and the Definition of Done.Complexity — complexity refers to the difficulty of creating a feature. To calculate it, teams consider the elements involved in associated tasks and whether they require research. Factors that correlate to or affect other project pieces imply higher complexity. Risk — this factor regards threats and uncertainties, like an employee’s failure to deliver information or vendor delays.Repetition/experience — this refers to the team’s familiarity with the work ahead and success in creating similar features. Collaboration — since third parties and outside teams can generate risks and provide essential support, this element considers how collaboration impacts the work.
+
+Effort — the team considers the work ahead in terms of Quality Assurance metrics and the Definition of Done.
+
+Complexity — complexity refers to the difficulty of creating a feature. To calculate it, teams consider the elements involved in associated tasks and whether they require research. Factors that correlate to or affect other project pieces imply higher complexity.
+
+Risk — this factor regards threats and uncertainties, like an employee’s failure to deliver information or vendor delays.
+
+Repetition/experience — this refers to the team’s familiarity with the work ahead and success in creating similar features.
+
+Collaboration — since third parties and outside teams can generate risks and provide essential support, this element considers how collaboration impacts the work.
+
+The pros and cons of using story points
+
+Story points are more comprehensive rankings than plotting time. But there are a few other benefits of using this model. Story points:
+
+Encourage collaboration — teams must gather, bringing individual expertise to the table, to rank work's relative difficulty and flag associated risks. Several heads are always better than one when doing this research. Are more accurate — you may know it takes a developer a few hours to create a landing page. But if the employee assigned to this feature has little experience making this type of content, then the knowledge requirement increases the corresponding task’s difficulty. Since story points consider other factors outside of time, they’re more accurate when estimating the impact of tasks. Plan for risk — risk is inevitable in any project, and tracking it on a feature level can help your team mitigate errors and misunderstandings before they intensify.
+
+Encourage collaboration — teams must gather, bringing individual expertise to the table, to rank work's relative difficulty and flag associated risks. Several heads are always better than one when doing this research.
+
+Are more accurate — you may know it takes a developer a few hours to create a landing page. But if the employee assigned to this feature has little experience making this type of content, then the knowledge requirement increases the corresponding task’s difficulty. Since story points consider other factors outside of time, they’re more accurate when estimating the impact of tasks.
+
+Plan for risk — risk is inevitable in any project, and tracking it on a feature level can help your team mitigate errors and misunderstandings before they intensify.
+
+Story points are an excellent planning tool, but they aren’t perfect. Here are a couple cons:
+
+They’re tricky to use — story points require a learning curve for your team. It’s essential that leaders like project managers and product owners explain that this is a comparative ranking method. If rankings aren’t relative, they’re too unpredictable, inconsistent, and difficult to track. They don’t relate to time — while story points are comprehensive, they won’t tell you how much time a feature will take to complete, so you’ll have to track this separately, like with a project timeline.
+
+They’re tricky to use — story points require a learning curve for your team. It’s essential that leaders like project managers and product owners explain that this is a comparative ranking method. If rankings aren’t relative, they’re too unpredictable, inconsistent, and difficult to track.
+
+They don’t relate to time — while story points are comprehensive, they won’t tell you how much time a feature will take to complete, so you’ll have to track this separately, like with a project timeline.
+
+How to set story point estimates: 5 steps
+
+While story points may be more robust planning metrics than time projections, they also take more thought to generate, thanks to their many moving parts. Here’s how to calculate story points in Agile and similar project management methodologies.
+
+1. Bring everyone on board
+
+Before setting story points, ensure that everyone on the team understands what they are and how they work. Using this technique effectively means having everyone contribute valuable insights and follow the method throughout the project lifecycle.
+
+2. Decide how you’ll rank story points
+
+Now determine your scoring methodology. Some teams assign T-shirt sizes to assign the “largeness” of a task, while others use a Fibonacci sequence, meaning each number is a sum of the two before it (i.e., 1, 1, 2, 3, 5, 8).
+
+You could also score work with a matrix. Matrices help teams visualize the weight of the work ahead, allowing your scoring meeting to run smoothly. Generate a table containing the weighted scores on the Y-axis, one per row, and the story-point categories (i.e., risk and complexity) on the X-axis, one per column. Then fill in the resulting boxes with a note on the work's relative risk, effort, complexity, and so forth. Here’s an example:
+
+Highlight the boxes that apply to the chosen task, as we’ve done here. This chart will allow your team to understand a task’s scope and complexity with a quick glance.
+
+3. Play planning poker
+
+Gamify your story point process with planning poker. Gather team members and hand out a deck of custom cards to each person. These cards should contain story point ranking numbers, like the Fibonacci sequence. One card might bear the number 0, another would show 0.5, and so on. Then introduce the development need in question and read the “story” behind it, explaining what work the team needs to perform. Finally, ask everyone to estimate the effort, complexity, risk, etc., of executing this part of the user story to determine weighted story points.
+
+Have team members keep their cards face down until everyone has finished. Estimates may vary, and teams should discuss why, reaching a consensus on the final rankings. These final numbers should reflect the sum of the categorical rankings.
+
+Here’s an example regarding creating a landing page:
+
+Low effort (1)No risk (0)Minimally complex (0.5)Minimal experience (0.5)Very little collaboration (1)
+
+Low effort (1)
+
+No risk (0)
+
+Minimally complex (0.5)
+
+Minimal experience (0.5)
+
+Very little collaboration (1)
+
+Overall score: 3 (1 + 0 + 0.5 + 0.5 +1)
+
+4. Use story points
+
+Plan the outcomes you hope to achieve in a sprint or project phase and estimate how many stories points you can take on. Perhaps you know from previous projects that your team can take on 20 weekly story points. Following the landing page example, after dedicating three story points to that feature, your team would have room to take on 17 more.
+
+5. Refine your process
+
+If you find that 20 story points were too aggressive for a two-week period, refine your process for upcoming sprints, dropping to 15 points or whatever the team feels is reasonable. And if you think rankings were skewed too low, reconsider how highly you rank effort or complexity during planning poker.
+
+How to use story points in Agile frameworks
+
+Story points aren’t exactly tasks. Tasks make story points possible, and if you have a story point that’s easy enough to execute, it may only require one task to complete. Brushing your teeth may be a story point in your day, and it’s also a finite task.
+
+To understand the difference between tasks versus story points, we can look at the Agile project planning usage of the latter.
+
+In the Agile methodology, teams write user stories for product features they’re creating. A team might write, “As a customer, I want a landing page with a discount code so I can save on my first purchase.” Agile teams then perform the story points estimation process, learning from data from previous examples of similar work. If the team created a discount code landing page in the past, they already know how many story points it takes to complete this feature. And each of those story points requires tasks for execution.
+
+Notion makes project management easier
+
+Project management is both an art and a science. Teams master their craft through iterative work, make projections to mitigate error and risk, and gather data to improve future projects. It doesn’t hurt to take some help where you can get it.
+
+Notion’s templates aid teams in creating roadmaps, setting goals, and tracking tasks. House these documents in a connected workspace your whole team can access to increase everyone’s efficiency. Get started today.

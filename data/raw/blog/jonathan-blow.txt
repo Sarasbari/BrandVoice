@@ -1,0 +1,447 @@
+Title: Jonathan Blow talks good design — for video games and beyond
+Published Date: 2021-08-02T00:00-07:00
+URL: https://www.notion.so/blog/jonathan-blow
+
+Jonathan Blow is an independent video game designer and programmer. He created Braid (2008) and The Witness (2016) — two puzzle games that, when released, received widespread acclaim. Jonathan also created a new programming language called Jai, intended specifically for game development. He streams much of this work on his YouTube channel.
+
+Famously, Jonathan spent years refining Braid, funding its $200,000 development himself. Similarly, he and his team at Thekla Inc. took over 7 years to make The Witness. In a profile in The Atlantic, Blow was called "the video-game industry’s most cerebral developer, but also as its most incisive and polarizing internal critic." He keeps a small team at Thekla, focusing on the details (like hiring architects to advise on the buildings) and bringing the most critical eye onto his own work.
+
+DEVON: Hello, I’m Devon and you’re listening to the seventh episode of Pioneers, a series of conversations with the designers, engineers, and inventors who are shaping computing as we know it.
+
+Today, I’m talking to Jonathan Blow, a video game designer best known for creating Braid and The Witness. He’s also working on a new programming language called Jai, which is aimed at building high-performance video games. Jonathan’s games are very different from most video games. Both Braid and The Witness have a mind expanding quality to them. Without giving too much away, when I played Braid, I felt like I was developing a sixth sense that I’d never thought about before. The Witness is an exploration of the nature of epiphanies.
+
+For those familiar with constructivist philosophy of education, The Witness is probably the best example of constructivist learning I’ve ever seen. Both games are a very special tool for thought and for me, I actually find them much more impactful than most software that self-identifies as a tool for thought.
+
+Jonathan, thank you so much for taking the time to chat. I’ve been really looking forward to this.
+
+JONATHAN: Hi, I’m looking forward to it too. Yeah, thank you.
+
+DEVON: Awesome. What’s something you learned from playing or designing video games that you’ve brought into your day-to-day life?
+
+JONATHAN: There’s a little bit of a crossover probably with general engineering on this, but maybe video games gives you a special flavor of it, which is just appreciation for the complexity of a system.
+
+These are very complex systems, right. I think that games give you a little bit of a taste of what complex systems can be like. One particular game might not do a very good job of being something that generalizes, but when you’ve played hundreds or thousands and they’re smart, you start to see between the lines. You start to see what complexity is like. Then, if it comes to solving some difficult problem in the real world, you come to it, I think, with a little bit of a less naive viewpoint and you can start proposing things that are to some degree competently aware of the complexity that you’re attempting to tackle.
+
+On the internet these days, right, the internet is the classic infinite source of bad argumentation that we have now, right. There’s all sorts of people saying, “You should just do this economic thing, obviously, right.” It’s like, well actually, if anything should be clear, even just from the history of economics, it should be that you can generate unintended consequences very easily and in fact, well, you can't really avoid them.
+
+DEVON:  I think one of the reasons why it might be that way and something that contrasts it from building a system like a video game is that — the people talking about these things don’t actually have much of a feedback loop. When your uncle argues about politics at the Thanksgiving table or whatever, it’s like the argument that he’s having there isn’t actually changing anything in the world.
+
+He can say whatever he wants and nothing comes back and affects him, whereas when you’re building a video game system, if you have a misunderstanding of how the system works, you very quickly start to see the consequences of that, because the game stops working or maybe it crashes.
+
+JONATHAN: That’s definitely in common, again with engineering broadly. You could have whatever opinion you want about what’s a good shape for a bridge, but you’ll find out if that’s true or not when you try to build it. Does it stand? How well does it stand?
+
+DEVON: What are examples of unintended consequences that you’ve experienced when building a video game, where you tweaked some part of the system and then it came back and bit you later on?
+
+JONATHAN: This one is hard to explain to people, but there’s an aesthetics of level design where they get uglier as you keep trying harder and harder to make something happen. “Oh, I need to make the player do this and that and that, so I’m going to put these walls over here and these holes over here and barbed wire fence,” and whatever.
+
+There’s a certain beauty and magic that you can get from restraining the impulse to do that.
+
+When something’s not working out, you can instead say, “What is this shape of this level? Or what is this interaction of these few objects? What does it inherently contain that I can maybe bring out, I can tease out by shaping the level a little bit correctly.” It’s like a light fluffy pastry. The lighter of a hand that you have in that, the better it is. The more you're forcing people to do things or not be able to do certain things, the less good it is, usually.
+
+DEVON: That makes a lot of sense. I recently moved into a new apartment and so, and I moved across the country, so I bought all new furniture. It’s been surprising to me how much — just trying to solve for one little problem. I want to make it a little easier to hold my coffee when I sit on the couch, so I’m going to have a little table that bends over the couch. Suddenly that makes the room look a lot less nice.
+
+JONATHAN: I do think that all these things, they have a similarity to them.
+
+There are these invisible relations between things that are really, the thing that you’re managing when you’re trying to make something beautiful. It’s not about the things individually being beautiful — all of that helps — but it’s about them being together to form a composition. That’s part of why designing games is so hard because games have a lot of things in them.
+
+DEVON:  It seems like one of the reasons why it’s useful to have fewer things in the first place, because, as you get that n-squared exponential growth, it just gets harder and harder to do a good job. There’s definitely instances of maximalism in design where people put a lot of stuff on the screen or in a house or whatever it is that look great, but that’s a lot harder to do.
+
+JONATHAN: I would say that modern aesthetics seem to trend toward minimalism, right. On the one hand, there are good things about minimalism. On the other hand, for example, going to computer UIs — I think most of them are really bad.
+
+Most of these minimal UIs, in basic functional ways, I can’t tell what’s the active thing to click on, on the screen anymore. Apple has a reputation of being good at design or something. I think they’re good at making a physical object that feels precious like the ring and you’re like, “Mine!” and you want to hold it. But there’s very basic things that are obviously wrong like iOS icons standard that they enforce is awful, right.
+
+Then for iOS 7 or whichever was the one when they decided skeuomorphism was bad. That was a whole web designer trend for a year. Actually, people need to know what things mean, and if you have some non-skeuomorphic way to do that, that’s fine. But actually you need to connect to their brain in some way. You need to connect to what they understand, and there were all these attempts to do things that didn’t do that. They were just like, “You’re supposed to know what this weird...” The iOS Game Center was some circles and the App Store is a triangle that’s loosely in the shape of an A. It’s just like, come on guys.
+
+DEVON:  I think the idea of minimalism — what is the minimal amount of information I need to put on the screen to express the thing I’m trying to express. But the key thing is, there is a minimum and it’s not zero and so if you just keep taking things away, sometimes it makes it actually just impossible to understand what’s going on.
+
+JONATHAN: The cynical part of my brain is, “Well, it’s very obvious that if there’s less stuff to work on, you have to do less work.” Right.
+
+DEVON: It makes design easier to reach for people who haven’t necessarily perfected the skill. I would include myself in this category, by the way. I’m not a designer by any means, but I can make something that looks fairly good to modern standards because modern standards are like a white page, pretty nice typography, and that’s about it. As long as you have that, it’s considered a stylish, nice page.
+
+JONATHAN: When I look at iPhone, what I notice is my brain’s confused and it’s hard to focus on anything because all of these rounded rectangles, they defeat your silhouette recognition. You just see all these silhouettes that are the same, rounded rectangles.
+
+DEVON:  Do you experience something similar with video games where you have a basic concept in your head, but then as you build it out, you realize, hmm — the specific things I built to try to express this concept don’t quite work. Or there’s something awkward about the ergonomics, and then you iterate?
+
+JONATHAN: Often, I have an idea and then I start doing it and that idea isn’t as good as I thought it was for whatever reason, right. Because when I have an idea, it’s very general in the beginning.
+
+Like, “Oh, it’d be cool if a certain thing...” And it hasn’t in that way, the right making of things is about things interacting, right. This idea in my mind, I can sort of mentally simulate how it’s going to interact with things, but especially if it’s hard to think about and complex and has many aspects, I’m not very good at visualizing that. I start making it, and then I can see what happens, and it’s not as cool as I thought.
+
+So one thing that you can do is, yeah, just iterate towards something a little bit better and then do that thing. But quite often I don’t do that. Quite often I just say, “OK, this is not the thing.” But I try to learn from that cycle what it is that I didn’t see in advance, and try to incorporate that into my process, and then just start the process over from the beginning. Because you might end up somewhere very different.
+
+There are puzzle types in The Witness, for example, on the little panels where you go solve them. There is a good, probably a good two or three hours worth of gameplay that I did early on. It had slightly different meanings, very different meanings for some of the symbols and I thought it was really cool in principle, but, and I did all the programming for it. I set it up in the game, it was playable. Then I was like, oh, yeah — this thing is playable in isolation and it’s maybe interesting, but then it doesn’t ... I see now that this exists and it doesn’t connect up to things that I want to do in the rest of the game
+
+We still have that in source control somewhere and I might release it for fun someday in the future.
+
+Sometimes people jump to conclusions like, “Oh, he wants to tear people down or just be mean to people,” or something. No, actually this is the same kind of eye that I put to my own work when I’m trying to make it as good as possible. You just try to look clearly at what is there, what is wrong and how do you fix it.
+
+DEVON: Engineering is often misunderstood by people outside of it. Not appreciating that there are a lot of different trade-offs that you could make and so you are making very creative decisions at every moment along the way.
+
+When you’re building a bridge or you’re building a piece of software, there are so many different choices you could make that all interact with each other. You’re making creative choices each step of the way basically saying, “What is important to me? What is important to the person who’s going to use this? How much do I care about that?” That’s not really appreciated outside of engineering, because people look out and thinking, “Oh, it’s just an objective problem. Just build a bridge so people can go across.”
+
+JONATHAN: Most of the decisions that I make in programming are aesthetic decisions. Because it’s like, look, I’ve done a lot of programming. I’ve done things a lot of different ways. When I come up with some functional requirement like, “Hey, I’m working on this compiler. I want to make this particular thing that works this particular way.” OK. There’s actually an infinite number of ways to make that happen, right. Those ways are scored, they can be scored among a lot of different dimensions.
+
+People try to approximate these aesthetic decisions with all sorts of books or online pundits who will tell you what good programming style is.
+
+Actually, I think almost all of those are really painful and terrible. But they’re good if you’re starting out and you literally don’t know anything and you’re trying to learn taste then, yeah. I mean, if what you would otherwise type is a giant terrible mess, then maybe start with these things. I think it’s important for people to go past them — and because all these rules about what good programming style is, they have reasons why those are the rules that, that particular person came up with. What you want to do is internalize that
+
+I think also there’s just some selective pressure about when you can say some simple rules, those are the things that transmit effectively.
+
+Being a living designer is recognizing that context and responding appropriately. Being a dead designer is, “I just do the thing that I was taught and here we go.” And if you don't like it? Fine.
+
+DEVON: I think another aspect of — I’ll say giving good advice or learning from principles that people hand down — is realizing that a lot of principles are very directional. And so it’s about what mistakes was that person more likely to do than not?
+
+For example, I’m extremely stingy with money to the point of making myself unhappy. And so the advice that most people give to other people, which is make sure you keep a budget, make sure you’re not wasting money, is totally useless to me. In fact, I need to hear the opposite advice. That’s the advice that I need to hear, but that’s not the advice that most people need to hear, I think.
+
+You were talking earlier about how the structure of teams has changed over time. And one of the things that a lot of companies have experimented with is a flat structure without managers. How do you structure your team for the kind of work that you do?
+
+JONATHAN: We’re small enough that we don’t have to be super hierarchical. It’s like 12 people right now in the company, which is really not enough to do what we’re doing. But again, I prefer to under-correct on number of people than over correct. Because there’s this feedback loop where you hire more people and that means you need even more people and it’s harder to stay alive.
+
+So on the programming side, I’m just sort of leading the programming. But also we hire people who are self-guided for the most part, and who don’t require micromanagement in part, because I want to actually still be doing design work and programming work and all this stuff.
+
+I don’t want to be in a lot of meetings all the time talking to people about what they should be doing. And so that’s actually a little bit bad because sometimes I end up not knowing about certain things that are happening and then I get upset that they happened. But for the most part this has been successful in preventing us from straying from the nuance of the things that we’re trying to make. One of the other programmers has been in charge of designing the graphics engine for the new game.
+
+I vaguely talk to him about that once in a while. But for the most part, I just trust him to do it. And you know, he’s working with a couple of other people on that on the art side. We have an art team leader who again, I talk to her once in a while and we sort maintain this picture of mental picture of what exactly we’re trying to do and how we’re going to go about it. But I don’t even know that much of the details of process about what you do in a 3D modeling tool.
+
+There’s a certain level of separation that I have from that process. We just go forward like that, but there’s not ... in a larger company, you have very explicit levels of management at multiple hierarchies and stuff. And I think if we were larger, that’s better than trying to do the flat thing. No successful army in the history of the world was ever flat. And you have to wonder about that.
+
+DEVON: Totally. I think flat, can work better or worse. So for example, I’ve read a lot about the organization of pirate ships recently.
+
+They had a captain and they had a quartermaster who had more power, but they were democratically elected. And if they ever did something that they didn’t like, the pirate crew could maroon them and put someone else in place and they would do that frequently. But when they are in battle, there was an exception.
+
+If they were in battle, then suddenly the captain became absolutely in charge. What he told you to do, you must do no matter what, because you had to operate on very short timelines where there wasn’t time for disagreement. You just have to move because otherwise you’re all going to die or go to prison or get hanged. And so I think it’s also interesting to think about, what are the different moments where different types of structure might work better for some problems and worse for other types of problems.
+
+JONATHAN: So the picture that I have in my head of a pirate ship, there’s probably just a lot of muttered alliances in decision-making behind ... things could probably get very political between individuals very fast.
+
+There’s one or two companies in the games industry that famously are kind of flat. And they’re actually not, they do actually have ultimate leadership in the sense that you’re talking about that they can’t be marooned, which is interesting. The idea behind being flat is nobody can ... if you have a better idea about how to do this particular project, you can compete with that internally at the company and do your better thing. And then the better thing comes up, right? Or you can decide what to do. In reality though, you need people to be on the same page.
+
+There needs to be consensus in order to make things happen at scale that require coordination between people and what appears to happen if you don’t. If you have somebody that just says, “Look, this is what you're doing.” You might grumble and disagree, but you at least know what everybody’s doing. If that’s not in place top down, then what you end up having is a lot of people politicking with each other.
+
+There’s this way in which you think, oh, we’re going to be flat so that we avoid this thing where you’re politicking the manager and you're trying to be like the manager’s pet and get all the good raises and stuff. But from what I’ve heard of people who’ve worked in these kinds of companies, it actually just makes the politicking way worse because now you have to politic with everybody instead of one person, right? It is just this n-squared number of political connections.
+
+DEVON: And anyone can block something and you have to convince them all.
+
+I think a lot of this instinct comes from people wanting to feel equal to each other — which I respect that instinct and I feel it myself. But I think that’s something that is a little bit misplaced when in a company. It makes sense for a country or for a society because you can’t choose everyone. But in a company you can choose to leave. If you don’t like the way that it’s run, you can go to a different company. And so it seems to me that those rules should be different.
+
+In a company, you structure it in the way that the person who started the company thinks that it will work most effectively. And if you think you have a better system, you can leave and go start another company that can either out-compete them, or just do something else
+
+JONATHAN: I agree with that. Context matters. Right? It makes a lot of difference if you’re born into a situation and don’t really have that much of an .... if it would be very difficult in high energy to exit the situation. Versus, in California, if you’re a programmer at a company it’s very easy to get a job at another company. And in fact, people do that.
+
+Because you never get super deep into understanding a particular thing and that’s actually valuable.
+
+DEVON: You touched on your urge to under-hire as opposed to over-hire. If you’re opting for one or the other, you prefer to under-hire. It seems like at big tech companies, they have the very opposite urge, where all the ones I’ve seen seem to hire in my opinion, way too quickly. And as a result, it dilutes the amount of context that people have. Why do you think large companies do that?
+
+JONATHAN: Individual managers have an incentive to grow their own little fiefdom.
+
+You would think that at the scale of the company, its goal is to be efficient. But it’s made out of all these individual cells and those cells want to eat as much funding as they can within the company. Or that manager wants to get promoted. And if you managed 100 people, that’s a lot more impressive than managing 12 people. So there’s all these incentives that push things to get big. But then the more people you have working on it, the more knowledge is distributed.
+
+The smaller a portion of the whole that each individual person knows, the less strong their understanding is. There’s this feedback loop where now it’s being built with degraded understanding, and so it’s even worse, right? Over time, it keeps getting worse.
+
+Because it keeps getting worse, A) it becomes harder and harder to understand and B) there’s more fires to fight. You need people who are just fighting fires all the time. And as companies get bigger, they need to retain a shape. They need a more rigid structure so that people know what’s going on and the company can be governed successfully. So process becomes more important, right? OK, how do you raise a complaint? What’s the process?It could be quite involved in a big company.
+
+Or how do you establish contact with another group in the company to do certain kinds of ... I don’t know ... every company has a lot of this stuff. The more process you have, the more people spend time doing process. And the less they spend doing the output where ... there’s just many, many of these things. And it’s one reason why large companies are kind of unappealing to me. On the other hand, you kind of need people to do some classes of things. As I’m thinking, what do I want to do before I die — maybe I want to try to do some things that are bigger. If I ever figure out exactly what that is, I might decide to grow something. But for now I don’t.
+
+Sometimes like Google or Facebook, you find an absolutely massive reservoir and you can pump it out of there at a very high rate. And then why wouldn’t you grow? Because this money is just coming at you.
+
+So there’s this economic regime happening that is not, it’s not the, the economic regime that we’re used to thinking about where efficiency of production matters. Google and Facebook are not that concerned, obviously, with how many engineers it takes to perform a certain task because they just have this money supply. Right? At some point, I think in the further future, once a lot of the low hanging fruit is gone and computers get applied to everything that we could think of, then maybe we’ll be back in more of a normal economic system with these companies where quality matters and all these things. But right now it just doesn’t.
+
+DEVON: A lot of different things go into making a video game. I’m not going to list them all, but you know, money is one of them, people who understand the problem, artistic skill, the list goes on and on. Of those, or any of the ones that I didn’t list, what’s the limiting factor for what you’re working on right now?
+
+JONATHAN: It’s hard to hire good people to work on things. I think everybody agrees with that. And so we actually, it’s harder for us to hire than I wish it were.
+
+Part of that is we’re still in California for some reason. We have to compete with companies like Google and Facebook — which they don’t care if they pay an engineer $500,000 a year. So they do that for people. Google pays people $500,000 a year that we would not even be able to employ because they don’t do enough.
+
+So that makes it hard to hire people because, it’s like, if you can just go make that kind of money over there for not really doing very much, why would you work hard at this game company? And, well, the answer is because you actually think that this other thing is more meaningful or more interesting and you’re not being profit motivated.
+
+Because we’re small, and we don’t release games that often, we’re not top of mind most of the time. If somebody says, “I want to work in games, what game companies should I think of?” They think of the bigger companies that have presence all over the place. It’s just hard for us. But we’re managing. We’ve hired some very good people in the last year and a half, and hopefully that trend continues.
+
+Being good at hiring people is a skill. And we actually, haven’t tried very hard to build that skill. So we’re actually not very good at it as a company right now.
+
+If we were a bigger company, I could justify hiring an HR department. Then it’s their job to find the people. Hopefully you do a good job hiring your first HR person or whatever, but we don’t have that much growth that we could justify having a person where that's their whole job.
+
+In some sense, there are things that are easier as the company gets bigger, because at some point you just resign yourself to saying, “We’re taking an industrial Model T production line toward this particular thing. We’re just hiring good programmers now we're not hiring...” Right now, we want people who can do specific things, like very specific things for the couple of projects we’re working on.
+
+DEVON: It’s not clear to me that hiring an HR person, even if you could hire them for free and not spend any money on it, would necessarily solve your problem.
+
+Because someone who does HR probably doesn’t understand what it takes to build a video game, certainly the way that you do it. And so they might just not bring you the right people. I definitely found this even for like relatively straight forward web development, technical jobs at past companies — the recruiters kind of don’t know what that looks like. Then they see they went to Carnegie Mellon. They’re probably good. And that’s about it.
+
+I think this comes down to an incentive problem. I think if you were to ask the leadership of most of those companies, they would agree with you and say, “Oh yeah, we want to be finding the best people. Even if they didn’t go to college.” Or maybe even it’s more likely — a lot of those, the leadership often dropped out to start their companies in a lot of cases. I think the issue becomes when you have a recruiter, there’s plausible deniability. It’s like, “If I hired them from Stanford, well...”
+
+JONATHAN: No one’s going to fire you for hiring a Stanford graduate.
+
+DEVON:  Right. “Oh, it didn’t turn out? Well, that’s a surprise.”
+
+Versus if you hire a 16 year old, who’s brilliant and they end up having some issue, then everyone’s going to be like, “Well, who hired this person?”
+
+So I think as you get bigger, you end up in more of those traps and if you have a smaller company, the leadership can just make those decisions and be like, “Hey, you know what? The 16 year old is brilliant and they know how to do things that no one else I know knows how to do.” So, solve some of those problems.
+
+If you did have a pipeline of amazingly talented people and you had an infinite supply of them and they just came in, then what would your bottleneck become? If you could clone yourself infinitely and then attach your brain somehow so that all the different clones were using the same hive mind. Basically, you’re just expanding the amount of work that you individually can do. What would you build?
+
+JONATHAN: It’s pretty weird when I’m working on right now. I’ve been doing game design and then as time goes on, I become more and more interested in how much of a mess that I see computing has become broadly speaking. And so, one of the speeches that I want to do, maybe I’ll do it at an event if events start happening again. The thing that I try to get through into people’s heads and people don’t seem to appreciate this is — what programmers do most of the time is waste right now.
+
+It’s mostly dealing with complexity that doesn’t need to be there, either complexity made by their own company in their own product because they hired a bunch of people who didn’t coordinate well enough, everybody knows that story.
+
+And in fact, things that people used to take for granted are now pretty hard and that’s a problem.
+
+Programmers are becoming increasingly inefficient on average. There are small pockets of programmers that are very productive. I think if you can work on your own code in an isolated environment, you can be very productive. But like as soon as you’re on a big team, that’s dealing with an operating system and a web browser, and some invisible routers somewhere on the internet that have very weird ways that they like to behave, that you can’t even see into — it becomes very messy very quickly.
+
+I interact with a lot of younger programmers, especially because I do streams, I do live streams where I program and all that. Programmers are depressed a lot of the time. And I understand that because I’ve been depressed a lot when I’m programming. It’s very easy for that to happen when you feel like most of what you’re doing all day is just garbage, you’re probably going to feel that way if you’re self-aware in any way.
+
+If you’re just banging your head against a brick wall all day, and then you eventually managed to do something and then it falls apart two weeks later, you’re going to be unhappy.
+
+So I guess if I had infinite ability to get work done right now, infinite work bandwidth, I would try to do that. I would try to do the simpler version of all of computing that’s as capable as what we have today. Actually it would be more capable because it would be faster and it would have an order of magnitude fewer bugs at least, and be easier for people to understand and easier for people to work with and all that.
+
+DEVON:  I know what you mean in terms of the depression. For me came in the form of guilt.
+
+In my first job as a professional software engineer I remember just feeling really guilty that I wasn’t more productive and they were paying me all this money. And I was just spending all of my time fixing a Webpack configuration or something like that, not even building something new, just somehow the build broke. I would feel like I wasn’t doing my job. I’m not doing the thing that I’m here to do. And then it wasn’t until after I did a few more software roles where I realized like, oh, this is like just the state of a lot of systems. It’s not just me.
+
+JONATHAN: A lot of things are like barely working because there are people behind the scenes doing that stuff all the time. And it’s just not good.
+
+Like, look, we could be much more productive if we just stopped it. But the thing is, it is true. It’s a very large, complex system. It’s not very easy to change. However, something like economics is complex because it involves the personal decisions that people make every day and you don’t know those people and you don’t know what they’re going to do and you don’t even know yourself. Have fun designing that.
+
+This was made by us and we can make it better. People have all sorts of ways of justifying the status quo. I think there’s sort of a team aspect to it. I find increasingly this attitude that these things were made, they’re like the pyramids of Egypt, where like, they were made by the forefathers and who are you to say that they should be changed? And you should just live in these structures that were made by previous generations because they were smarter than you or something. I hear that phrase sometimes like, “The web browser was made by people who were smarter than me,” is something somebody said to me in an online argument.
+
+That’s scary. Like once programming becomes, we live in these structures created by future generations that we are no longer able to build, that’s a civilization in decline. That’s it. Or at least it’s a civilization that has passed its glory days and can no longer do those things.
+
+Maybe it could stay in a steady state at some lower energy level, but that’s never happened in history, things just decline eventually.
+
+DEVON: Things break.
+
+JONATHAN: Yeah! Things break, especially a highly technological society breaks if it’s not maintained. So going to the bronze age collapse and some of these other famous historical societal collapses, what happens is you have people who are sort of past their glory days in some way, and they think that they’re doing fine.
+
+Then some environmental shock happens. Or they get attacked by someone out of the blue that they didn’t know existed, or both of those things happen at once. Then there’s a stress placed on the society that it didn’t expect. And it finds itself unable to respond effectively. Things don’t go well. Very few things really make me angry, but that kind of a thing does. When people make excuses for mediocrity, that looks to me, like it will lead to decline. That makes me angry because the stakes are so high, but most people don’t seem to agree with me that the stakes are that high.
+
+DEVON:  You touched on the idea of making things simple enough so that other people can understand them and if you make them incredibly complicated, it makes them a lot harder to hand it down.
+
+Reminded me of in high school, I worked on old cars. And one of the things I loved about old Mustangs is that they would leave the space around the engine a little bit bigger so that you could actually stick your hands in and get yourself dirty and figure stuff out. Whereas like something like the iPhone is packed so tight that you really need to know exactly what you’re doing otherwise you’re going to like break something.
+
+What is an equivalent that we could be doing in software to leave a little bit more space in the engine bay that would help future generations maintain the software or grow the software in a good direction?
+
+JONATHAN: What I’m finding with the compiler, for example, because that’s actually the thing that I’m coming at this with the most of this kind of attitude of transferring the knowledge as it goes on, because if I want this to be a successful programming language, at some point, somebody else is in charge.
+
+What I find when I’m working on it is, the feature set of the language is a little bit ambitious and it makes some things really hard to do. Sometimes they’re just really complicated and scary. And I come back to them later, like even a month after I wrote something. Sometimes I’ll go back to it and I’m like, not only do I not understand what this is doing, but I have a sinking feeling when I know I’m going to go look at that — because I just know it’s going to be confusing and I don’t have high confidence that this really works, and all these things. And if that happens to me a couple months later, what hope do I have of somebody else having the same level of understanding. That’s the thing, there has to be a very high bar for this.
+
+I’ve been working on this compiler for seven years. I haven’t released it. And that is actually unheard of.
+
+I had a working compiler that had a very nice demo in the year 2014, it’s on YouTube. People could see it. The typical thing to do at that time would have been to release it, and then people use it in its early state, and then you just sort of evolve it over time. But I’ve observed that that process has created a lot of messes. And I feel like, OK, I’m going to release it eventually. But the more that I work now to make the thing better, the more pain is saved eventually.
+
+We’re really doing things that are unheard of, like we’ve got a very complicated commercial quality game that runs in this programming language and graphics engine that does a great deal of work for every rendered frame, and all these things. It’s not like the “hello world” kind of stuff that people ... sometimes people test, they build their compiler in their compiler and they feel really good about that. But I don’t know, that doesn’t seem to me like a very good test.
+
+So anyway, what I found is that it’s very revealing to me in some way that’s hard to communicate, to see the difference between what was my best attempt at some functionality the first time, and then what it is like the fifth time, and to see the difference between those things. On the one hand, I think by the time I have that fifth time version, it is much simpler. It’s usually faster. It’s usually more robust and will communicate better to future people because I had experience now. When you start a project, I’m not an expert in that particular system. I don’t know much about it.
+
+I have to gain the expertise and the decisions I make early on are not going to be necessarily optimal. In fact, they’ll be far from optimal because these decisions are made by someone who doesn’t really know that much about what they’re doing, whereas the decisions made later are much better.
+
+What I’m trying to say is, this kind of like ease of use, this mythical ease of use and productivity that people are talking about — I have seen it achievable on at least a small to medium scale, but it doesn’t look like what people think it does.
+
+DEVON: You’re using Jai in a very serious context of use. It reminds me a little bit of how a Pixar designed Presto, which is their animation software.
+
+I believe Pixar originally was like building Presto so that they could sell it. And then they’re like, “Well, maybe we should make a movie out with this thing to make sure that it actually helps us make a movie.” And then they ended up becoming one of the most famous movie studios in the world and they continued to develop it. I think it’s still under development today and it evolves with the movies. Every time they say, “You know what, hey, like we really want to be able to make really realistic Scottish hair. How do we do that?”
+
+That’s probably not something that when they first started writing the software, they thought that they would need to do that. Real uses come up. Something that I have struggled with a lot in the software community is that I see a lot of like demo driven development, which is around, how can we make a cool toy demo like a, I don’t know, a to-do list that like works really nicely on the screen and it looks really cool and easy to build. And if you’re building a to do list great. And it actually it might solve that problem really well. But then it doesn’t tell you if it’s going to scale up.
+
+JONATHAN: It’s about complexity of what you’re trying to do with it. It’s not that hard to make something that works well for toy problems.
+
+DEVON: Totally, which I think is also a major issue with reviews of tools in general.
+
+Anytime, I don’t know, you look up, “What’s the best note taking app” or something like that. Someone’s like, oh, “I tried all of the note taking apps and this is the best.” If you’re trying that many apps, you’re probably not using them. I think you only know if something’s good after you’ve used it for like 10 years.
+
+I’m not sure how to solve that problem because you do need, like, sometimes you just don’t have that time. You need to make a decision, but it gets challenging.
+
+JONATHAN: It’s weird because it’s kind of what I said I do on games like The Witness where like, we don’t really get to see it play out.
+
+We have to a priori design something that will be good when people play it. There’s always a little bit of miscalibration between what you think it’s going to be and then what actually happens in the world. I find that with stuff like that, I usually can actually, at this point now with the amount of experience I have, I usually can get it pretty close. Whereas early on, when I first started doing games, which was like in the 90s, I had no ability to do that. My brain didn’t really work that way. So somehow I absorbed it by doing a bunch of games stuff.
+
+DEVON: Are there any heuristics that you would be able to articulate that have guided you in a better direction?
+
+JONATHAN: You start with some ideas to make a game, and then you explore the consequences of those ideas. Well, how do you do that?
+
+You’re in this multidimensional space where there’s all these directions, you could start at one and then just keep drilling in some direction. And the problem with that is you’ll go forever into tinier and tinier things. And so what you do is you draw some boundary where it’s like — details of a certain size we want to make sure we get everything inside that boundary that’s of that size. So like those puzzles I mentioned before that I cut from the witness, the reason I could cut them was it was kind of like a protrusion. It introduced an inconsistency, like I was saying, or you could hand wave it away, but it sort of was ... but also it wasn’t crucial to what became clear was sort of the center of gravity of the game. It was like sticking out way on the side. And it’s like, yeah, we don’t really need that part. Whereas if you cut out the middle, that’s pretty bad.
+
+DEVON:  That’s really interesting image that you have in your head of like, an n-dimensional object that has like sort of a center mass where a lot of things are clustered. If things get too far outside of that boundary, you should consider saying, well, if it’s really cool, maybe I’ll expand what should be in that center of mass and like kind of do all the things in that outer ring.
+
+I feel this way often when writing essays.
+
+Where every essay you write has an infinite number of things that are adjacent to it that you could talk about that are also interesting. And it takes really a lot of self control, which I do not do consistently to ruthlessly chop out the things that are not at the center of what you’re trying to say. I think one sort of a release valve that people use is footnotes as a way to be like, “I got to talk about it, even though I know that I shouldn’t have put it in the essay.” And so, you put it in a footnote and it kind of does the best of both worlds.
+
+Is there an equivalent to a footnote in a video game?
+
+JONATHAN: With a puzzle game, one thing that I like to do is make allowance for different levels of engagement, right? So, with a book you could read the footnotes, you can skip the footnotes. If you feel very completionist about the book you want to read every single footnote, that’s fine.
+
+So, for The Witness, there was like, OK, we’re going to have a level of completing the game that’s fine if you’ll enjoy the game, but you don’t feel particularly completionist about it. And you don’t feel super curious about things that you’ve noticed. And if you’ve had enough with this game, then here’s an exit point. But then things past that — and also just things out in the world that you might have to look a little bit harder to find — those are allowed to be more difficult because they’re very optional.
+
+So, a problem that games had going back earlier to earlier decades is they tended to be very linear in structure and if that was a puzzle game, that meant that if you couldn’t solve a particular puzzle, you could not get to the rest of the game after that puzzle. That’s very frustrating.
+
+That led to puzzles becoming fake in a certain way, because it’s like, “Look, we just can’t strand people in the middle of this game. They’ll get really angry. So, we just have to make the puzzles easy enough that nobody will really have a problem with them.”
+
+DEVON: So, it’s one of the reasons you’re able to do this in video games is because they are a spacial world. People are making decisions throughout as opposed to a film or a book, which is very sequential, and a guided experience from the author in a more directed sense. What are the things that, by having video games be a spatial medium, what are the things does that unlock from a design perspective?
+
+JONATHAN: You’re sort of talking about ... what do I do as opposed to what an author does? I try to find what can this medium do and what kinds of things work in it.
+
+Some things about video games I can’t say. That’s a kind of thing that games do generally is they put you inside a system. Say you’ve got some website and it’s got some graphs of like, how would you handle COVID and you have some budget to spend, and you could test people every so often, or have certain policies and whatever. And you could maybe move some sliders and see the graphs go up and down, and try to get there’s some probably way too simplistic code that’s running to try to figure out the result. If you’re twiddling these dials and watching the results that happen, you’re standing outside it. And then you have to somehow build with your own mind what it would be like, what that whole system is like that you’re just seeing tiny parts of.
+
+Games are continuous and good at iterating with different initial conditions and just because you’re acting in a way where you care about your decision and you see the consequences of the decision. It’s just different from twiddling a slider on a webpage. It is sort of the same thing, but it’s actually really different experientially.
+
+But that kind of game would be, if we follow that line of research, you probably end up with something pretty different from what we currently have from what most games are. And that’s a big ability of, or a big ... well of untapped potential that would be cool to play with.
+
+DEVON: I’ve read that one of the games you’re working on will come out in episodic form and then it might take as much as 20 years to complete the full series. Can you talk more about that?
+
+JONATHAN: So, the prototype for this game I did — while I was working on The Witness — because it’s just hard to work on a big project for many years. I found it good to have a little side project that I don’t have to be super serious about because we’re not trying to get it done.
+
+A lot of people are like, “I go to my job and then I go to the bar afterward and hang out and have beers.” And I don’t really do that. I go dancing, but I program as a way to have fun too. So, this was my side fun project and it just ended up being a really good game. And I wanted to make it.
+
+That was around 2013, actually, that I started designing this game, but it’s kind of been on the back burner for a long time. The aesthetic that I was telling you about before, about exploring a space of ideas, there’s sort of different ways of doing that.
+
+Braid does it at a smaller scale. Braid is sort of a tight parallel structure where there’s some number of worlds. Each world has the same number of puzzles. So, they’re weighted roughly equal in importance.
+
+But then The Witnesses like, well, some areas have more puzzles and some areas have fewer puzzles and it’s more like it’s a little more sprawling and not that tight, but that was OK because is just doing a different thing.
+
+This new game is about engineering a combinatoric explosion So, there’s a lot more interactions of rules in this game. By the time you’re done with Braid or The Witness, you could write down what the rules are. And if you wrote that down for this game, it would be way bigger than for either of those games, if you write them all.
+
+This piece of this minute-to-minute gameplay is really fun. But I could imagine other things that are similar to this that are a different activity, but could kind of fit together in the same universe somehow, right? You could release one game that’s like this thing. The game has different characters in it. It’s not actually a puzzle game, but it’s got a little bit of a puzzle sensibility. So, there are objects that you recognize and you learn how they behave and then you use that understanding of that behavior to do what you want to do. Until you can expand the universe to have more of those objects, right? Or more kinds of locations for those behaviors to occur in.
+
+I kind of wanted to do it the way a fantasy or a science fiction author will write 27 novels in the same universe and expand it out. And that seemed very challenging and interesting to to think about because it would be a place that nobody’s really done.
+
+DEVON:  It’s like the rules that are related to each other, but they’re not all the same in a way that — I don’t know, the Ender’s Game books all have a similar style and similar type of world. But you’re not saying it’s the same characters or the same objects necessarily, but rather rules that kind of seem like they go together in a category.
+
+JONATHAN: I would want these things to actually interact at some level, but still be kind of independent. Like the earth and the moon, they rotate around each, each other, but they’re different bodies clearly. And you can do stuff on the earth that you can’t do on the moon — like breathe. On moon you can jump way higher.
+
+DEVON: Oh, that’s interesting. So, you’re thinking of it sort of like the, not the physics, because physics is the same on the earth and moon, but the basic facts, like gravitational pull would be sort of a rule set kind of thing.
+
+You touched upon the idea of sketching out the game at one point, what does it look like to actually prototype a game? Like the one you’re building or The Witness, is it literally a sketch or was that a metaphor?
+
+JONATHAN: So, there is this idea in the games industry of prototyping. It used to be considered a good idea — it probably still is because games are complicated, it’s hard to see what they are like I was saying. So, you kind of do something simple that lets you see what you’re dealing with.
+
+I used to think that was good, but I actually don’t find myself exactly prototyping anymore. I usually find that I can throw the initial dart close enough to the target that can just become the thing. And so, that’s what I’ve done.
+
+So, Braid was a playable game from the first week and there’s a direct continuity from that to the final thing that was shipped. It’s like there wasn’t like a separate prototype or anything. It just drew into the thing and similarly with The Witness.
+
+So, I don’t know. Although that initial period of development is a little bit prototype-y, in the sense that there’s very little there, you kind of have to make bigger leap decisions, decisions cost less, you’re not trying to hit any quality bar or you’re just trying to get stuff in there. It’s more like it’s kind of like if you would develop an outline of a book into a final book or something.
+
+In the days when I started programming games, we were trying really hard to draw 3D and you didn’t have graphics accelerators that would do it, or you had early ones. You would construct your whole engine around how fast the CPU’s were and then the rate of improvement of computers was much faster back then than it is now. So, two years later, the design decisions that you made were no longer objectively the right ones to have a fast engine. Or if you’re rendering a smaller number of bigger triangles, then once people have faster computers, where you can have more detail in the scene, suddenly a lot of decisions change.
+
+There was a lot of writing and rewriting things because computers were changing. Just even in terms of working.
+
+I mean, that was true for phones for a while, but even that’s kind of stopped mostly.
+
+That’s actually helpful in a way because things are more stable and you can make technical decisions with a longer horizon. I don’t know how that is in the web world. I mean, my gripe about the web world is people keep making all these frameworks and stuff that people think are technological advancements, but actually they’re kind of just like splashing in place as opposed to swimming forward. And so, there’s this fashion of people changing what framework they’re using, but it’s not really that much better ever.
+
+DEVON: Well, unusually it ends up being worse because then they have this Frankenstein that is half one system, half the other. Then you have all of these interactions and so, it’s worse than either of the two systems would have been by themselves.
+
+And you always think, “Oh, we’ll finish the transition.” But like, you don’t. There's always something that you can’t rewrite that easily or someone doesn't know how.
+
+JONATHAN: Or you know, just, you thought you would have time in the schedule to do it, but things took longer than you thought, and now you can’t do it.
+
+DEVON: I don’t know, that never happens in software.
+
+JONATHAN: Yeah, never, never! But actually, part of the reason we operate without schedules, most of the time, is just to not have that problem.
+
+Like, look, we’re going to rewrite this thing. That’s just what’s happening. The end. It’s just going to come out better. And yeah, it’s two years later than we thought, but we’re still going to do it.
+
+And that’s something very few people seem to have the willpower to do, even at ... Google’s not going to run out of money anytime soon. Why don’t they do more of that? But they don’t.
+
+DEVON:  Performance is something that you think a lot about when building software and we haven’t touched upon that too much in this conversation.
+
+I think there’s an intuitive answer to this question, the question being, “Why does it matter?” And or more concretely, if The Witness had had performance issues and it was dropping frames — how would that have affected game play?
+
+JONATHAN: Different kinds of games, it matters more or less. If you’re dropping frames and having a stutter-y experience in an action game, that’s very bad because the game is judging you based on your timing of when you do things.
+
+If that timing is hard to judge, because things are happening at inconsistent speeds, and it thinks your button press happened later than it did, because that happened to be a long frame when you press the button — then suddenly the validity of the game is compromised. Because it’s judging you on things that are fundamentally unfair because it’s not giving you the ability to perform correctly.
+
+So Braid is a little bit like that, because it’s a little bit action-y. It’s not really an action game, but you do timing-based things. In The Witness there’s very little in the way of timing-based things, by design. But it’s still the purpose ... I was about to say something that’s actually false. I was about to say, the purpose of a game is to have an enjoyable experience. That’s not really true.
+
+For a lot of people, that’s true.
+
+There’s a few things. One is, if you’re going to have hard puzzles ... imagine you’re in a mentorship program with someone and you really want to learn some things from them. And it's hard to learn. And you have to work hard and it’s difficult and you feel like you’re not learning as well as you should, and all these things. If the person is kind to you and really trying to help, and you feel like they really have your back, it kind of makes it easier. You feel like you’re in good hands.
+
+If they’re mean to you and they kind of wish you would go away or at least they present that attitude or they don’t really re-explain things. This is maybe a strange analogy. So let’s back down from it.
+
+That’s something human beings are doing at all times when they walk into a novel situation is like, “What situation am I in? What are the parameters of that? And how am I going to act in this situation?” Games are especially touchy in that way, because games are like leisure activities.
+
+The game feeling smooth and responsive and high-quality is like that. It’s like smartphones, they work hard on the materials and making the materials feel good. You’re trying to build a cohesive whole, where people feel like you cared about the thing that they are experiencing.
+
+Especially with puzzle games that get hard. People have this question, like, “Wait, I thought this would be the answer to this thing. Why isn’t it? Is the game broken? Is the designer stupid? Or is there a good reason why this isn’t the right answer that I haven’t seen? And I’ll be delighted when I see it.” Well, the answer to that question is different depending on who designed the game.
+
+You tell people that through the prior experience they had with the game. If you have enough buy-in with somebody, then they’ll give you the benefit of the doubt. They’ll be like, “OK, I don’t understand this, but I feel like this is a high-quality experience. I’m just going to understand that I don’t understand right now, and we’re going to come back to this later.”
+
+Whereas if you don’t get that buy-in, people will think your thing is broken or bad. That's not, the things that I just said about people will think X, I don’t think they really consciously have that as a voice in their head that they specifically say. But that's how people navigate the world. It’s how they assess situations. It’s a constant, ongoing process.
+
+That trust is something I take super seriously. But that’s sort of a beginning to middle of the game. If the point of the game is to create — I don’t like to say create, I was about to say, create experiences where you care subtly about what the experience is — but that’s not really right. I don’t try to make specific experiences that people must have, but I try to create opportunities, people to maybe experience things that they wouldn’t be able to get from somewhere else, and where those things might be meaningful to them or interesting to them.
+
+When you are trying to do that kind of a thing, nuances of everything else matter.
+
+There’s something like that where, if the game is stuttering and it doesn’t respond to button presses correctly all the time, and you’re not sure what you’re looking at, because the graphics are disappearing in a weird way.
+
+I said very early on that I think computers make people unhappy fundamentally. And one of those is, there’s really a deep sensory deprivation that happens. Like most of your body is asleep when you’re using a computer.
+
+DEVON:  I feel like one of the things that we really lose out on by having that sensory deprivation you’re talking about is that things in the world just come with a lot of affordances. If you’re cooking, you turn your back from a pan and things start to burn, you get a smell. There’s all sorts of different types of interactions that you have with things in the world beyond just olfactory senses that you don’t get with a computer.
+
+JONATHAN: That’s actually another long-term project that I would try to do, aside from recreating all of technology to be simpler. I’m doing this compiler, right, and part of what the compiler does, is it’s supposed to be good at giving you information about the program and interfacing with external systems.
+
+So programming is hard. And one of the reasons it’s hard is it’s kind of hard to understand what your program really is, it’s kind of hard to see it all at once. You see these efforts at program visualization and mostly, they also produce things that are hard to understand and you don’t know what they are, right?
+
+DEVON: Plain graphs.
+
+JONATHAN:  Yeah. “We’re making just this really giant spaghetti graph even for a very simple program,” right. And so what I would like to work on — and we probably will do this at some point — is program visualization, both for a static program, like what is it, mathematically, and then also for a running program, like how does it behave?
+
+That just uses some of what we know from video games to make a more sensory filled experience. Like it’s got audio, it’s got visuals that are sophisticated in the way like, you can see some 3D rendering from some very high-budget games and it’s very sophisticated. Sometimes it looks almost photorealistic.
+
+But even if you weren’t, even if you’re being stylized, there’s just all sorts of effects you can bring to bear that your brain kind of knows what it is. Your brain knows what haze and fog are. And you can use that in an environment. It knows what light reflecting off a surface is.
+
+The challenge is — how do you find ways to really use those to communicate in ways that are actually useful? That’s actually really hard. Because like you can make something visual that maps aspects of a program to those things, but decoding that is not easy at all, as the user.
+
+Maybe that’s something that you learn to decode in ways, like sometimes human beings learn to naturally do things that are pretty weird just because they’re exposed to the stimulus a lot.
+
+DEVON: I’ve heard of like an ankle bracelet, one of my friends had, that ... buzzed every time he faced north. And so he started gaining this better sense of cardinal directions and started intuitively understanding space.
+
+A buzz on your ankle is not something you would usually think is going to be connected to cardinal directions. But once it happened enough times in his mind, it started to build up that map. So I’m optimistic that you could sort of map arbitrary things to different senses, but I think it’s better if it’s less arbitrary, ideally, because then you probably learn it faster.
+
+JONATHAN: There’s other really weird stuff. So I haven’t checked up on this, but I heard quite a long time ago about devices for the blind where you wear a camera, and then the camera has a readout that’s a bunch of pixels that just press either on your arm or on your tongue because your tongue is very sensitive. Apparently once you get used to that, you feel like you’re seeing, sort of. Even though it’s just this abstract readout of sensations.
+
+I actually wonder how good those are now, because you should be able to drive the resolution higher over time and stuff. People are good at adjusting to weird things.
+
+DEVON: I don’t know that much about cognitive science, but from like day-to-day experience, I feel like there’s a lot of examples of things where I thought I would never be able to understand this thing, because I don’t have like clear visibility to it or it doesn’t use like one of my senses that’s normal. But then once you do the thing enough times you start to build an intuition for it. And there’s some plasticity and it just starts to connect.
+
+But that’s all kind of magic words. Like every single word I just said is packed with a lot of assumption that I don’t really know how it actually works, but it does seem to work.
+
+JONATHAN: I want to explore like, how do you do this with software? Like how do you somehow make information about the software available to people that their brain can intake? And if they don’t require years of training to understand it, then that’s great.
+
+But even if they did. Even if you didn’t get that much information out of it in the beginning, but then it built as you were exposed to the stimuli over time, that would still be a substantial advancement in technology from what we have right now — which is like, nobody has any idea what their fricking program does, really.
+
+DEVON: The sensory deprivation aspect of software was actually what originally attracted me to it.
+
+I wouldn’t have phrased it the same way when I was younger, but programming, I really liked how abstract programming was. How, in my head, and I could create like a whole little world of logic in my head that didn’t have to interact with anything in the real world. But I think that now that I’ve spent many years in that universe, I now realize that I’m missing out on being a more spatial creature and like actually being places.
+
+I read that you worked with an architect and a landscaper for The Witness. How did that change the way that you think that the way that you thought about the game world?
+
+JONATHAN: So we talked before about feeling in good hands, right. But they also have to kind of really be in good hands for this to work.
+
+If you make some puzzles and you say, “Haha, in order to see the clue that tells you the information you need to solve the puzzle, you need to go look behind this one bush that’s on the other side of the island in a corner somewhere. And there's no reason to look there. And it’s not connected conceptually to this at all.” That’s a stupid puzzle, right.
+
+Not only will people feel like they’re not in good hands, but they actually will not be. And the game won’t really function, right. It won’t be a solvable puzzle game.
+
+So I knew that it had to be very clear about this. Like A) you had to kind of know that you weren’t really expected to go really far in space, away from where you were to try to find what’s relevant.
+
+Then the second thing was, OK, people are going to be looking around because some of these puzzles do involve the world that you’re in. People are going to be looking really closely at that world. So it has to not fall apart under that scrutiny, right. What a lot of games do, like 3D games, is, it’s hard to make all these 3D meshes and put them together. And so there’s often, there’s places where you’re intended to pay attention to. And then if you go back down the back alley and look behind some stuff, you’ll see some things that are really sloppy, like geometry that intersects where it shouldn’t and low-detail textures and all this stuff.
+
+I knew that for this game, if we were asking people to pay careful attention to the world, and then the world had to meet that expectation. It had to not fall apart under that level of inspection, right.
+
+And so part of what that means is everything had to be well-built. There couldn’t be any back alleys where there’s weird stuff, but it also just means if a building makes sense at a scale where I’m 50 meters away and looking at it right, then if I’m asking you to look carefully at the environment, that building kind of has to make sense if you’re looking under the porch.
+
+Putting those details in there, that’s actually a significant amount of what the architects advised on, is what are the details of this construction, right? If you use this material with this material, how do they join?
+
+That just gives it that level of detail where you don’t feel like we, as the designers, did not bother thinking about this thing that you’re doing right now. And again, I think most players don’t consciously realize that, but it sort of pervades the experience and helps them feel like it’s a high quality thing.
+
+DEVON: Well, I definitely could probably continue this conversation but I do want to let you live your life.
+
+JONATHAN: Someday maybe we could pick it up again. Thanks, it’s been good.
+
+DEVON: This has been super fun. Let’s let’s wrap it up here. Thanks Jonathan.
+
+JONATHAN: Bye-bye everybody.
+
+Brought to you by Devon Zuegel
+
+Devon is a software engineer and writer based out of San Francisco.
+
+Audio by The Land Films
+
+Illustrations by Roman Muradov

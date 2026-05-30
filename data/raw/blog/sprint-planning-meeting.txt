@@ -1,0 +1,93 @@
+Title: How to run an effective sprint planning meeting
+Published Date: 2023-07-11T00:00-06:00
+URL: https://www.notion.so/blog/sprint-planning-meeting
+
+Most projects seem insurmountable until you break them into smaller increments of work.
+
+Such is the logic behind sprint planning. Sprints, which are brief working intervals generally consisting of 2–4 weeks, contain only the tasks a team can finish within that time frame. These intervals focus on delivering complete features, meaning a team should have an output to show a client at the end of each sprint.
+
+Sprints take that seemingly impossible project, like developing an app, and turn it into achievable action items that remind teams their goal is within reach. And well-planned sprints do more than motivate teams. They ensure timely deliveries, quality outputs, and efficient work — the kind that employees feel proud of. And it all starts with an excellent sprint planning meeting.
+
+What’s a sprint planning meeting?
+
+Scrum is an Agile project management methodology that divides work into reasonable increments. Self-organizing Scrum teams take on that incremental work, also known as sprints.
+
+Agile sprint planning meetings gather Scrum teams to align on tasks and assignments. The key goal is to set clear goals and action items for the upcoming sprint, and the team should be able to complete these tasks within the sprint’s time limits.
+
+Who should attend a sprint planning meeting?
+
+Everyone working on the sprint should attend. These meetings are collaborative sessions in which self-forming, cross-functional teams meet to discuss what they can achieve. And they know best — after all, they’ll perform the work. Here’s more on the critical roles of sprint planning participants:
+
+Scrum master — this person keeps the team on track and resolves roadblocks. They run daily huddles, guiding the group to share what they’re working on and any blockers they’ve encountered. The Scrum master also keeps the planning meeting itself on course, leading the agenda and ensuring the team establishes clear takeaways. Product owner — this teammate ensures that sprint work ties into business objectives. A representative of internal and external stakeholders, the product owner selects backlog items for the sprint that support larger goals and end-user needs. They continue fulfilling this role throughout the sprint. Project team — team members should be present at planning meetings to share valuable insights, help generate the sprint backlog, and align on tasks and timing.
+
+Scrum master — this person keeps the team on track and resolves roadblocks. They run daily huddles, guiding the group to share what they’re working on and any blockers they’ve encountered. The Scrum master also keeps the planning meeting itself on course, leading the agenda and ensuring the team establishes clear takeaways.
+
+Product owner — this teammate ensures that sprint work ties into business objectives. A representative of internal and external stakeholders, the product owner selects backlog items for the sprint that support larger goals and end-user needs. They continue fulfilling this role throughout the sprint.
+
+Project team — team members should be present at planning meetings to share valuable insights, help generate the sprint backlog, and align on tasks and timing.
+
+5 essential elements of sprint planning meetings
+
+Sprint meetings are strategic planning sessions, so they must have specific objectives. Teams should have the following topics on their sprint planning agenda:
+
+Goal — use the meeting to determine the sprint goal, a succinct objective for the work ahead that the team can summarize in a sentence or two. This goal should be so clear that team members and external stakeholders understand it. Story points — story points are scores teams assign to tasks based on how “weighty” each is. Work that takes more time, effort, and resources earns a higher score than simple, quick activities. In a sprint planning meeting, teams should assign story points to planned tasks to accurately estimate whether they can finish the work in the weeks ahead. It’s far more likely that a team can complete several fast, easy items than many difficult, time-consuming ones, so find the right balance to avoid delays.Capacity — this refers to a team’s ability to take on work. Figure out how many team members are required to complete the workload in the project’s timeline. Speed — determine the team's velocity by projecting how many story points people can tick off daily. Figuring out how many hours teammates can dedicate to the sprint per day likely involves reviewing past task and project timelines. Backlogs — teams should consider two backlogs in a planning meeting: product and sprint. Product backlogs are long lists of tasks for entire projects, and teams pull items from this pool into the more finite sprint backlog.
+
+Goal — use the meeting to determine the sprint goal, a succinct objective for the work ahead that the team can summarize in a sentence or two. This goal should be so clear that team members and external stakeholders understand it.
+
+Story points — story points are scores teams assign to tasks based on how “weighty” each is. Work that takes more time, effort, and resources earns a higher score than simple, quick activities. In a sprint planning meeting, teams should assign story points to planned tasks to accurately estimate whether they can finish the work in the weeks ahead. It’s far more likely that a team can complete several fast, easy items than many difficult, time-consuming ones, so find the right balance to avoid delays.
+
+Capacity — this refers to a team’s ability to take on work. Figure out how many team members are required to complete the workload in the project’s timeline.
+
+Speed — determine the team's velocity by projecting how many story points people can tick off daily. Figuring out how many hours teammates can dedicate to the sprint per day likely involves reviewing past task and project timelines.
+
+Backlogs — teams should consider two backlogs in a planning meeting: product and sprint. Product backlogs are long lists of tasks for entire projects, and teams pull items from this pool into the more finite sprint backlog.
+
+The benefits of sprint planning meetings
+
+Sprint planning meetings aren’t just useful — they’re necessary because they help project managers:
+
+Establish clear goals — planning meetings set a goal for the work ahead and delineate the tasks a team must perform to reach it. Without this session, teams miss the opportunity to establish this goal together and understand its functional implications. Promote collaboration and alignment — these meetings gather project teams so everyone can help determine resources, capacity, and an accurate timeline. Prevent overscheduling — teams generally have experience working together and know how many story points they need for a sprint cycle. A sprint planning meeting sets parameters for the intensity of work in weeks to come and prevents overtaxing.
+
+Establish clear goals — planning meetings set a goal for the work ahead and delineate the tasks a team must perform to reach it. Without this session, teams miss the opportunity to establish this goal together and understand its functional implications.
+
+Promote collaboration and alignment — these meetings gather project teams so everyone can help determine resources, capacity, and an accurate timeline.
+
+Prevent overscheduling — teams generally have experience working together and know how many story points they need for a sprint cycle. A sprint planning meeting sets parameters for the intensity of work in weeks to come and prevents overtaxing.
+
+How to run a sprint planning meeting: 4 steps
+
+Gather the team — it’s time to plan an upcoming sprint with precision and intention. Run your session using the following four steps.
+
+1. Make an agenda
+
+Set a clear agenda for the meeting, including the steps below, and limit the session to two hours for each week in the sprint. If your sprint is two weeks, you’d host a four-hour session (with breaks). Sprint planning meetings aim to encourage efficiency, not tie up everyone’s time. You can always schedule another meeting to address missed items so you don’t overwhelm your team with information.
+
+2. Set goals
+
+Determine the sprint goal and define it in a few sentences. Have team members weigh in on whether the goal is feasible. The product owner should ensure it meets business needs. And the Scrum master must encourage open communication in this step, as everyone needs to believe the goal is possible and valuable.
+
+3. Determine the definition of done
+
+Everyone should align on what it means to complete an activity. This lets your team confidently select a list of tasks for the sprint. You might determine a shared definition of done by asking each person what correcting an issue signifies or how they know when they’ve finished a task.
+
+4. Define sprint tasks
+
+Considering both larger business needs and sprint goals, create a task list. You’ll pull many of these tasks from the product backlog, and some might be new client and employer requirements.
+
+Sprint planning best practices
+
+Thorough planning takes time, but that doesn’t mean teams shouldn’t be as efficient as possible. Here are some best practices for keeping the session on track and focused:
+
+Let the Scrum master organize and run the session — the Scrum master helps the team stick to the agenda and address essential topics. They also ensure everyone gets the meeting invite and necessary materials to facilitate planning. Document the meeting carefully — don’t miss out on details. Assign a notetaker to document essential points and synthesize takeaways to later share with participants. Prepare — before gathering the team, the product owner and Scrum master should meet to refine or “groom” the backlog. This involves accurately prioritizing tasks on the list, collecting clear user stories, and making sure backlog info is up to date.
+
+Let the Scrum master organize and run the session — the Scrum master helps the team stick to the agenda and address essential topics. They also ensure everyone gets the meeting invite and necessary materials to facilitate planning.
+
+Document the meeting carefully — don’t miss out on details. Assign a notetaker to document essential points and synthesize takeaways to later share with participants.
+
+Prepare — before gathering the team, the product owner and Scrum master should meet to refine or “groom” the backlog. This involves accurately prioritizing tasks on the list, collecting clear user stories, and making sure backlog info is up to date.
+
+Start sprint planning with Notion
+
+Agile project management methodologies are popular because they roll out quality features efficiently. But learning these planning methods requires some onboarding. Notion’s guides, templates, and workspaces can help.
+
+Learn to create tasks, plan a sprint, and consider the long-term goals of a project. You can also tailor your approach for the work you do — from product engineering to brand design.

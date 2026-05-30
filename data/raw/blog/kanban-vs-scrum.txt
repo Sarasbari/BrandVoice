@@ -1,0 +1,149 @@
+Title: Kanban vs Scrum — how to pick one for your engineering team
+Published Date: 2021-02-25T00:00-08:00
+URL: https://www.notion.so/blog/kanban-vs-scrum
+
+For engineering or product teams, process is paramount. Shipping a completed project is the destination — but there are different ways to arrive there.
+
+Many teams use the Agile framework as their project management methodology, but within that framework exist ways to organize work: Kanban and Scrum.
+
+Here, let's explore their differences so you can make the best decision for your engineering team. We'll also give you an example of how to build these frameworks using Notion.
+
+Kanban and Scrum similarities
+
+Kanban and Scrum have roots in Japanese manufacturing industries. Both were developed as ways to manage production at every step, remaining flexible to the needs of the process while improving pace.
+
+Eventually, they migrated to use in software via the Agile Methodology, where they've defined productivity approaches for technical teams for decades.
+
+In the 90s, the software development couldn't keep up with demand. Processes were heavy and rigid (most developers used the Waterfall methodology, a linear, sequential project management approach). So a group of developers met in Snowbird, Utah in 2001 to bring a new process to life. The result was the Agile Manifesto, a completely new way to approach project management in terms of developing software.
+
+These iterative, lean approaches fit the new needs of developers like a glove. Similarities between Kanban and Scrum include:
+
+Large, complicated projects are broken down into smaller, more manageable tasks.They're both lightweight, placing emphasis on an iterative development process.Continuous delivery is the goal.User feedback is prioritized, so you know you're building something people want.Value is placed on continuous improvement of the software.Seeking to optimize the workflow and process.Work is visible in a shared database, so everyone's on the same page with the status of a project.
+
+Large, complicated projects are broken down into smaller, more manageable tasks.
+
+They're both lightweight, placing emphasis on an iterative development process.
+
+Continuous delivery is the goal.
+
+User feedback is prioritized, so you know you're building something people want.
+
+Value is placed on continuous improvement of the software.
+
+Seeking to optimize the workflow and process.
+
+Work is visible in a shared database, so everyone's on the same page with the status of a project.
+
+Differences between Kanban and Scrum
+
+Despite similar ideologies, Kanban and Scrum have nuanced differences in execution you should consider before adopting either one. Let's break them down so you can make the best decision for your development team.
+
+Team roles & responsibilities
+
+Maybe the biggest difference between Kanban and Scrum are the roles required of the team members operating within each framework.
+
+In Scrum methodology, there are predefined roles and responsibilities:
+
+Product owner — this person sets strategy. They're responsible for mapping out the planning of the project, how tasks are prioritized and facilitating communication between the team. Another part of this role is advocating for the customer, which helps with the prioritization of work done by the development team.Scrum master — this person dictates execution and shipping timelines. They oversee the process, holding the team accountable to Scrum principles (similar to a project manager).Development team — these are the engineers executing the work, which is done in sprints (more on this later).
+
+Product owner — this person sets strategy. They're responsible for mapping out the planning of the project, how tasks are prioritized and facilitating communication between the team. Another part of this role is advocating for the customer, which helps with the prioritization of work done by the development team.
+
+Scrum master — this person dictates execution and shipping timelines. They oversee the process, holding the team accountable to Scrum principles (similar to a project manager).
+
+Development team — these are the engineers executing the work, which is done in sprints (more on this later).
+
+In Kanban, there aren't any structured roles. Of course, within an engineering team these roles might exist, like someone who's responsible for customer interviews or project management. But Kanban doesn't dictate them. It's more of a collaborative approach.
+
+For your team: If you already have effective team structure in place and a strong working relationship, Kanban might be better for your team. If you need to build that structure, Scrum might be the way to go.
+
+Working cadence, scheduling & releases
+
+Kanban and Scrum are both iterative — but each has different philosophies on how the work gets done.
+
+Scrum teams work off a concrete product development schedule.
+
+Sprints — two-week periods designed to limit work, where specific tasks related to a project need to be completed. The product owner works with the dev team to plan these sprints, pulling tasks from a product backlog of work items and placing them into each sprint bucket based on priority. Releases are usually done at the end of each sprint or at the end of several sprints.Daily Scrum meetings — usually, the product owner will also organize Scrum meetings (like daily stand-ups) to coordinate each day's work, check items off the sprint backlog, and align on tasks.Retrospectives are part of each sprint — here, the team will assess their work in a sprint review, how they can better optimize, and then move onto the next sprint. Guided by velocity, the Scrum team should get better at estimating how much work can be completed in each sprint. If the team completes 25 tasks during a sprint, they wouldn't agree to do 40 on the next sprint. Here's an agile retrospective template you can use!
+
+Sprints — two-week periods designed to limit work, where specific tasks related to a project need to be completed. The product owner works with the dev team to plan these sprints, pulling tasks from a product backlog of work items and placing them into each sprint bucket based on priority. Releases are usually done at the end of each sprint or at the end of several sprints.
+
+Daily Scrum meetings — usually, the product owner will also organize Scrum meetings (like daily stand-ups) to coordinate each day's work, check items off the sprint backlog, and align on tasks.
+
+Retrospectives are part of each sprint — here, the team will assess their work in a sprint review, how they can better optimize, and then move onto the next sprint. Guided by velocity, the Scrum team should get better at estimating how much work can be completed in each sprint. If the team completes 25 tasks during a sprint, they wouldn't agree to do 40 on the next sprint. Here's an agile retrospective template you can use!
+
+Kanban is more of an effort in continuous flow of work that's customizable to the development team's specific needs, and a little more self-organizing.
+
+Cards, not sprints — a Kanban board is organized by columns which the development team customizes based on their process (like "In Progress," "Review Needed," or "Complete"). In each column are cards (tasks) that the dev team moves though each stage of their workflow. There's no designated timeframe to complete a certain amount of work.Identifying process improvements — by nature, the Kanban method usually surfaces bottlenecks. If you see too many cards in the "Review Needed" column, you might need to assess your review process. Usually there's a "WIP limit," capping the items in your work in progress column. Teams assign a maximum number of cards that can be in each column to keep everything moving forward.Release when it's ready — cards move through each stage in a Kanban board when the task is ready for the next step in the process. Releases function the same way. When it's done, release it. Sprints don't dictate workflow or launches. Of course, team's can dictate their own launches, too.
+
+Cards, not sprints — a Kanban board is organized by columns which the development team customizes based on their process (like "In Progress," "Review Needed," or "Complete"). In each column are cards (tasks) that the dev team moves though each stage of their workflow. There's no designated timeframe to complete a certain amount of work.
+
+Identifying process improvements — by nature, the Kanban method usually surfaces bottlenecks. If you see too many cards in the "Review Needed" column, you might need to assess your review process. Usually there's a "WIP limit," capping the items in your work in progress column. Teams assign a maximum number of cards that can be in each column to keep everything moving forward.
+
+Release when it's ready — cards move through each stage in a Kanban board when the task is ready for the next step in the process. Releases function the same way. When it's done, release it. Sprints don't dictate workflow or launches. Of course, team's can dictate their own launches, too.
+
+For your team: When it comes to your own team's workflow, consider how you're shipping projects currently. If you're shipping cadence isn't where you want it to be, use Scrum to help push your team to complete projects in a more timely manner. If it's process your team needs to improve, Kanban is the method that can help identify where you can get better.
+
+Changes in the process
+
+In the Scrum process, you're pretty much locked in.
+
+A lot of time is put into making the sprint effective — both in sprint planning and sprint retrospective — so changes are discouraged.
+
+But the idea is to keep the scope of work within the sprint cemented. However, because the product owner is advocating for the customer, if they come across information that a feature or task is less valuable to the customer, the sprint's scope might change. But generally, the idea is to maintain what's been set out at the onset of the sprint.
+
+Kanban is almost the opposite. It welcomes change.
+
+Projects, workflow, tasks — Kanban hopes to improve process by recognizing these changes, allowing for continuous improvements as the project is being completed. If a task is blocked or WIP items stack up, there's likely a reason. And your team can react based on the flexibility of the process.
+
+For your team: If you need something a little more rigid because you've already established a solid cadence within your team, Scrum might be beneficial. On the other hand, Kanban helps your team remain flexible and figure out the best process needed to complete projects.
+
+Creating a Board for Scrum or Kanban
+
+While we discussed all the differences of Scrum and Kanban, in Notion, you can build a board that takes the best from both practices. No need to pick between management tools.
+
+Kanban and Scrum can actually function together — Kanban to visualize the work, and Scrum to approach it incrementally (sometimes called a "Scrumban"). Of course, the process will have to be tailored to meet the demands of either Scrum or Kanban methodology (like establishing a Scrum master), but you can make one Notion board that can be tweaked to either framework.
+
+This roadmap template will get you started, and if you want to take a deep dive and learn the advanced capabilities of this board, here's a project management system that will help your engineering track every initiative.
+
+1. Make a board
+
+In a new Notion page, create a Board. This is essentially a Kanban board, because the work is all in cards that you can move through each step in the process — a process you build and customize however's best for your team.
+
+2. Customize its columns
+
+Click on each of the columns to change their names. You can even add more columns depending on your team's process.
+
+Next to the columns is a number. Click it to see the different options for counting what's in each column. If you're implementing Kanban, you can work with your team to set the limit of how many cards will be in your "Work in Progress" column.
+
+If you're working in Scrum, your first column might be named "Tasks,” which would contain all the tasks you plan on executing during a sprint.
+
+3. Customize the cards
+
+Here's where you can work in Scrum sprints.
+
+Within the cards, you'll see a list of properties. You can add as many as you like — for example, a Person property to tag the Scrum master or product owner so they're in the loop for the status of all these tasks.
+
+Make one of the tasks a Select property, and create different tags for sprints, like "Sprint 1," "Sprint 2," etc.
+
+Inside the card, you can keep all the information relevant to that task. Regardless if your engineering team is using Scrum or Kanban, bundling all the info to complete the task at hand is a way to keep your engineers running efficiently.
+
+4. Add all project info inside of cards
+
+Instead of just pointing you to the work, Notion is the place where both project managment and project work happen.
+
+Inside cards, you can add whatever content helps you get the project or task done (with infinte layers as you need them). A page for code. A page for design. A page for ideas and inspiration. Most project management software doesn't actually let you do work. You have to switch between tabs or tools to get anything done.
+
+But keeping all info — from deadlines to a code repository — bundled together and easy to find has huge benefits, creating visibility across the whole team.
+
+5. A custom view of this board for every sprint
+
+In Notion, you can slice the same data many ways. So you can create a view where you see only the tasks for "Sprint 1," and a totally separate view of the same board where you see only the tasks for "Sprint 2."
+
+Hit + Add a view near the title of your board, select Board and hit Create. Then hit Filter and + Add a filter. All your properties will show up, where you'll then select to show only tasks tagged with the sprint you're on currently.
+
+6. Optimize for better use
+
+Once your team runs through a few projects using this board, see where it can be improved.
+
+You already know you can customize it to meet your team's needs — but with your knowledge of your team's execution, it's time to assess how this board can better support your team. If you're using Kanban, you can do it throughout execution. If you're using Scrum, do it during the retro.
+
+Whatever method you choose, this board can support both, helping your team stay connected, driven and ship product faster.

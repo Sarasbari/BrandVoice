@@ -1,0 +1,139 @@
+Title: A guide on implementing Lean portfolio management
+Published Date: 2023-10-05T00:00-03:00
+URL: https://www.notion.so/blog/lean-portfolio-management
+
+The business landscape is constantly changing. With high demands for innovation and adaptability, traditional portfolio management approaches can fall short and cause more harm than good.
+
+To narrow the gap between strategic planning and effective execution, forward-thinking companies are turning to Lean portfolio management (LPM). Let's explore how it works and whether it can help your business succeed.
+
+What’s Lean portfolio management?
+
+LPM is a strategic and improvement-focused approach to product portfolio management. A product portfolio is a business’s set of current products and in-the-works projects, and this approach helps organizations align their portfolio with short and long-term business goals.
+
+The essence of LPM is to improve the way enterprises make decisions about project and product development, aiming to enhance efficiency and delivery. This method focuses on fulfilling the most valuable work first while limiting work in progress and interruptions, reducing the activities that don’t add value.
+
+LPM combines Lean and Scaled Agile Framework (SAFe) principles to optimize delivering high-quality results to customers and stakeholders. The primary objectives include:
+
+Alignment — ensuring that the portfolio of projects and initiatives reflects the organization's strategic goals and objectives.Visibility — providing real-time visibility into the status and progress of projects, allowing for quick decision-making.Efficiency — eliminating waste and bottlenecks in the project delivery process to stay on track with the project timeline and accelerate value delivery.Adaptability — creating a framework that allows for rapid adjustments and responses to changing market conditions.Customer-centricity — focusing on delivering value to customers and end-users through prioritized initiatives.
+
+Alignment — ensuring that the portfolio of projects and initiatives reflects the organization's strategic goals and objectives.
+
+Visibility — providing real-time visibility into the status and progress of projects, allowing for quick decision-making.
+
+Efficiency — eliminating waste and bottlenecks in the project delivery process to stay on track with the project timeline and accelerate value delivery.
+
+Adaptability — creating a framework that allows for rapid adjustments and responses to changing market conditions.
+
+Customer-centricity — focusing on delivering value to customers and end-users through prioritized initiatives.
+
+LPM traces its roots back to Toyota's Production System, which focuses on conserving value while minimizing effort. Achieving this involves delivering precisely what's needed, where it's needed, and when it's needed, all while cutting down on wasteful practices and being open to change. This system’s effectiveness catalyzed the propagation of Lean practices into the realm of software development.
+
+5 Lean principles for success
+
+There are five fundamental principles of LPM that guide its implementation and execution.
+
+1. Identifying value
+
+The first principle of Lean focuses on defining what your customer values most. This involves actively engaging with buyers to understand their needs, desires, and pain points. Organizations can align team efforts to meet a target audience’s needs by understanding what truly matters to them.
+
+2. Mapping the value stream
+
+Mapping is a critical practice that delves into the end-to-end process of delivering value. It entails a comprehensive analysis of the entire workflow, from idea conception to product delivery. This way, you can identify bottlenecks, redundancies, and areas of waste within the process.
+
+3. Creating flow
+
+Creating flow means optimizing the sequence and dependencies of work items to ensure a steady and efficient workflow. It requires streamlining your process so work moves smoothly from one stage to the next without interruptions. This principle aims to eliminate bottlenecks, delays, and scope creep.
+
+4. Establishing a pull system
+
+Think of establishing pull as operating on a "just-in-time" basis. This is about responding to actual demand when undertaking a project, rather than developing an irrelevant product that doesn’t meet current customer needs. A team that works via a pull system minimizes overproduction and excess work while more effectively allocating and using resources.
+
+5. Pursuing improvement
+
+Lean organizations strive for constant refinement and waste reduction, following the Lean principle that improvement is an ongoing journey, not a one-time destination. It's about embracing a culture of continuous learning, adaptation, and innovation to drive organizational excellence.
+
+The benefits of implementing Lean portfolio management
+
+Delivering higher quality products, reducing cycle time, and lowering costs are all benefits of developing a Lean approach. Other perks include:
+
+Enhanced strategic alignment — LPM helps align projects and initiatives with the organization's strategic goals, improving overall focus and execution.Faster time-to-market — by eliminating waste and optimizing processes, LPM accelerates value delivery to customers, reducing time-to-market.Improved collaboration — LPM requires participation from all teams, departments, and stakeholders in order to succeed, so it promotes collaboration across your business. This fosters a culture of transparency and cooperation.Better risk management — real-time visibility into project progress allows for early identification of risks and issues, enabling proactive mitigation.Increased customer satisfaction — prioritizing consumer demands leads to higher satisfaction and loyalty.Resource optimization — by eliminating excess work and bringing all hands on deck, LPM helps managers allocate resources efficiently to high-value initiatives, preventing bottlenecks and minimizing waste.
+
+Enhanced strategic alignment — LPM helps align projects and initiatives with the organization's strategic goals, improving overall focus and execution.
+
+Faster time-to-market — by eliminating waste and optimizing processes, LPM accelerates value delivery to customers, reducing time-to-market.
+
+Improved collaboration — LPM requires participation from all teams, departments, and stakeholders in order to succeed, so it promotes collaboration across your business. This fosters a culture of transparency and cooperation.
+
+Better risk management — real-time visibility into project progress allows for early identification of risks and issues, enabling proactive mitigation.
+
+Increased customer satisfaction — prioritizing consumer demands leads to higher satisfaction and loyalty.
+
+Resource optimization — by eliminating excess work and bringing all hands on deck, LPM helps managers allocate resources efficiently to high-value initiatives, preventing bottlenecks and minimizing waste.
+
+The 3 essential elements of Lean portfolio management
+
+Project management works within a management triangle of constraints including project scope, budgeting, and time. In Lean, three key domains also set the north for a successful implementation of LPM.
+
+1. Strategy and investment funding
+
+You can only achieve your goals when you put the right funds toward developing your highest-value projects. Begin by defining a clear and actionable strategy that outlines the organization's goals, considering factors such as expected Return on Investment (ROI), strategic importance, and resource availability. Establish key performance indicators (KPIs) and other metrics to monitor and evaluate how well the portfolio is delivering. Regularly review and adjust funding decisions to ensure they stay in line with changing priorities and market dynamics.
+
+2. Agile portfolio operations
+
+Embrace SAFe Lean portfolio management methodologies, like using efficient workflows and responding to consumer demand, to foster operational excellence. Cultivate an Agile mindset across the organization, emphasizing customer-centricity, collaboration, and adaptability while promoting Lean principles. Form cross-functional teams responsible for the end-to-end delivery of portfolio initiatives, offering them the autonomy to make decisions and adapt to changing circumstances.
+
+3. Lean governance
+
+Governance is how you apply Lean principles to portfolio management so the organization remains agile, adaptable, and customer-focused. And Lean governance structures help managers oversee operations to ensure the work aligns with strategic intent.
+
+When should you establish a Lean portfolio?
+
+While traditional project portfolio management is most common in organizations with multiple projects and initiatives to manage simultaneously, LPM is most suitable for those that are adopting Agile product development processes and principles. Some of these scenarios include:
+
+Scaling Agile — when organizations transition to Agile portfolio management and must coordinate multiple teams working on interrelated projects or products.Complex environments — in industries or markets characterized by constant change and uncertainty, where adaptability and flexibility are crucial to staying competitive.Customer-centric focus — when organizations prioritize delivering value to clients and require a framework that effectively ensures their projects and products meet customer needs.Strategic shifts — during times of strategic change or when pursuing new market opportunities requires alignment of resources with new objectives.Resource optimization — when organizations must optimize resource allocation to ensure they prioritize the most valuable projects.
+
+Scaling Agile — when organizations transition to Agile portfolio management and must coordinate multiple teams working on interrelated projects or products.
+
+Complex environments — in industries or markets characterized by constant change and uncertainty, where adaptability and flexibility are crucial to staying competitive.
+
+Customer-centric focus — when organizations prioritize delivering value to clients and require a framework that effectively ensures their projects and products meet customer needs.
+
+Strategic shifts — during times of strategic change or when pursuing new market opportunities requires alignment of resources with new objectives.
+
+Resource optimization — when organizations must optimize resource allocation to ensure they prioritize the most valuable projects.
+
+How to implement Lean portfolio management in 6 steps
+
+LPM isn’t based on improvisation — it requires a solid plan centered on a company’s long-term strategy.
+
+Here’s a six-step guide to implementing this portfolio management style.
+
+1. Define clear strategic goals
+
+Start by defining your organization's strategic goals and objectives. As a portfolio manager, communicate them to all stakeholders and ensure comprehensive and organization-wide understanding. Everyone involved should share the same overarching objectives for both your organization and the projects themselves.
+
+2. Prioritize your portfolio
+
+Using a well-defined framework, like the Weighted Shortest Job First (WSJF), is useful when prioritizing initiatives. Consider factors such as potential value, risk, and urgency when deciding on resource allocation. Prioritization ensures that you direct resources toward projects aligned with strategic objectives.
+
+3. Coordinate cross-functional teams
+
+Establish cross-functional teams responsible for the end-to-end delivery of initiatives. Encourage collaboration and shared ownership among team members from different functional areas. This will ensure you see the benefits of an LPM structure while also creating a cohesive culture within your organization.
+
+4. Implement Lean and Agile practices
+
+Provide training and support for teams in Lean and Agile methodologies. These practices improve workflow efficiency and responsiveness to changing requirements. Training on Agile techniques like a portfolio Kanban board can help your team know how to visualize and manage work across your portfolio.
+
+5. Foster a culture of continuous improvement
+
+Cultivate a culture of experimentation and learning, encouraging teams to seek feedback, explore new approaches, and share lessons. This environment of continuous improvement ensures that LPM processes evolve and become more effective over time.
+
+6. Measure and adjust
+
+Define KPIs that directly align with your strategic goals. Continuously measure performance against these KPIs and gather insights. Use this data to make informed decisions, and adjust the portfolio to respond to changing priorities and market conditions.
+
+Keep track of your portfolio with Notion
+
+Implementing Lean portfolio management requires a clear strategic vision, cross-functional teams, and tools like Notion to help streamline your journey.
+
+Use Notion's templates to organize your projects and tasks. Then create Kanban boards to organize large plans, manage Agile projects, and track engineering issues, adapting these boards as project work commences.

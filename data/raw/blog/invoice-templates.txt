@@ -1,0 +1,83 @@
+Title: 7 best customizable invoice templates
+Published Date: 2023-09-28T00:00-03:00
+URL: https://www.notion.so/blog/invoice-templates
+
+Picture this: You've just closed a deal with a valued client. You exceeded their expectations, leaving them delighted and eager to secure your services or rebuy your products in the future.
+
+But before popping the proverbial bottle of champagne, how do you plan to turn a successful project into a successful payment? It all begins with a crucial document: the invoice.
+
+Why is an invoice important?
+
+An invoice is the cornerstone of most businesses’ financial transactions. It leads to a smoother payment process and establishes trust between the seller and the buyer. It’s visible, tangible proof that payment is owed and solidifies a buyer's commitment to honor their agreement.
+
+At the same time, it’s an essential document for you as the vendor. Whether you’re a freelancer, a small business owner, or a sales manager at a multinational corporation, knowing the value of invoices is always handy. Here are a few reasons why these files are important:
+
+Legal documentation — invoices are legally binding documents that officially record monetary details, products or services purchased, quantities, and prices.Payment confirmation — invoices are far better than verbal agreements, where details can be lost, forgotten, or misinterpreted. They confirm that the two parties agree on exchanging products or services, specify the payment due date and method, and ensure everyone’s on the same page regarding expectations.Bookkeeping — paper or digital invoices help with accounting and tax compliance. Since all transactions are on record, you can easily track revenue, expenses, and taxes owed.Professionalism — sending a professionally designed invoice shows clients that you approach matters methodically and systematically, encouraging them to work with you or repurchase your products.
+
+Legal documentation — invoices are legally binding documents that officially record monetary details, products or services purchased, quantities, and prices.
+
+Payment confirmation — invoices are far better than verbal agreements, where details can be lost, forgotten, or misinterpreted. They confirm that the two parties agree on exchanging products or services, specify the payment due date and method, and ensure everyone’s on the same page regarding expectations.
+
+Bookkeeping — paper or digital invoices help with accounting and tax compliance. Since all transactions are on record, you can easily track revenue, expenses, and taxes owed.
+
+Professionalism — sending a professionally designed invoice shows clients that you approach matters methodically and systematically, encouraging them to work with you or repurchase your products.
+
+While invoicing is paramount, finding the time to create invoices that suit your needs is challenging. That’s why you need an invoice template — a ready-made, structured document to help manage financial and client relationships while saving time and effort to put toward other aspects of your business.
+
+7 free invoice templates to use for any project
+
+If you don't have the time to make your own invoices from scratch, don't fret. We've compiled a list of handpicked, versatile invoice examples to simplify payments for your business.
+
+1. Invoices tracker
+
+This list’s first invoice template has two parts. The bottom half shows all your invoices, complete with each invoice’s number, value, issue date, due date, and status. If you hover over an invoice number and click “Open,” a sidebar pops up with everything in one place, including the seller and buyer addresses and contact information, a “Services” table, and a kind note encouraging your client to contact you for future business.
+
+The section above displays each invoice's status: sent, pending, paid, or overdue. When you click on any of these tags, a blue outline will appear around the corresponding invoice in the table below, allowing for quick and easy identification.
+
+2. Notion invoice template
+
+The second template has all the essentials of a business invoice and is split into three main sections, making it easy to view and customize values at a glance.
+
+The topmost has a placeholder for your brand’s logo with an invoice number and its creation and due dates. The middle section has both parties’ information and a table containing the itemized deliverables and final prices.
+
+The final section has a handy button redirecting the buyer to your PayPal account, making the billing process straightforward to clients and customers — who are likely to appreciate the “Pay with one click” method and think favorably of your professionalism.
+
+3. NG invoice
+
+This next invoice template is similar to the previous one but sports a slightly more traditional appearance. Unlike the second template — which has a logo, minimal fonts, and a PayPal payment portal — this document is more subdued, with an “old-fashioned” typeface and the option to pay by cash or card. It maintains the same structure (albeit without a logo placeholder).
+
+If you’re looking for a different aesthetic to modern invoice design templates or find more conventional designs tasteful or attractive to specific clients, this simple invoice template is for you.
+
+4. Invoice template
+
+This commercial invoice format takes us back to a modern design language. You can include two logos here — an icon-based logo at the top and a full, name-based logo at the bottom (with your business address next to it).
+
+You’ll find the standard information between both business logos with a table sandwiched in the middle. The table’s values automatically update when you enter a new amount, saving time and ensuring accurate calculations.
+
+5. Simple notion invoice template and mini tracker
+
+The Invoice Template and Mini Tracker streamlines the invoice creation process thanks to its all-in-one layout. The entire structure is customizable, so you can edit the invoice template for service and product descriptions, quantities, prices, and totals. Plus, the table automatically calculates the total cost and applicable tax.
+
+You can color-code each client and assign colors to payment statuses, such as red for "Unpaid," yellow for "Partially paid," and green for "Paid." A calendar provides a bird's-eye view of your past, present, and future projects, allowing you to scroll through the timeline and find transactions with ease.
+
+You can export custom invoices in a PDF format for convenient sharing. And once you receive payment for a specific project, you can use its corresponding checkbox to tick it off the list or archive it.
+
+6. Invoice manager
+
+This invoice template is divided into “My Invoices” and “Awaiting Payment.” The former allows you to filter all your invoices by payment status, client name, and project completion status, making for efficient categorization.
+
+The bottom section allows you to view payments and your waiting periods. If you’ve been waiting for over a week, the project will appear in the second tab, while projects delayed by more than 30 days show up in the third panel. Based on this simple but effective sorting method, you can prioritize and follow up on late dues.
+
+7. Invoice dashboard by Notion and Figma
+
+This list’s final invoice template has a simple yet powerful design. Apart from the standard logo, buyer and seller information, and payment details, the table in the template divides different values by color, delineating each row for easy price identification.
+
+Every item’s name has a white background, while the subtotal and tax cells have gray backgrounds. Meanwhile, the grand total lies against a cream backdrop, immediately notifying the customer or client of the amount they must pay.
+
+Streamline entire workflows with Notion
+
+The success of any business — big or small — often hinges on understanding your industry, streamlining operations, and establishing fruitful relationships with clients and customers.
+
+Sending invoices is one thing, but growing your business is essential to keep the orders coming in. Notion has many resources to guide you on that journey, including hundreds of templates to plan, manage, and schedule projects.
+
+From increasing productivity to scaling your business, you'll find everything you need with Notion.

@@ -1,0 +1,43 @@
+Title: Empowering Nonprofits: Notion's Discounted Pricing for Change Makers
+Published Date: 2021-07-27T11:05-04:00
+URL: https://www.notion.so/blog/notion-for-nonprofits-launches-today-to-support-more-change-makers
+
+In the past year, we've seen nonprofits use Notion for a lot of things — managing medical teams to deliver care in underserved communities, helping special education teachers ease the transition to remote learning, raising hundreds of thousands of dollars with online grant proposals. And every time, we're completely floored by it.
+
+But we've also seen how these organizations can be massively under-resourced, especially when it comes to tech tools and software. Having spent the last decade working at nonprofits big and small myself (and starting my own), I know firsthand how difficult and expensive it can be to drive social change.
+
+That's why, today, I'm so excited to announce the launch of Notion for Nonprofits — a program designed to expand access to tools with a 50% discount off our Team Plan for all registered 501(c)3s. So far, over 2,000 nonprofits use Notion, including the Red Cross, New Story, and Stanford Medical School — now, we want to reach many more.
+
+Here at Notion, we believe that every organization and individual should be able to tailor their software tools to solve their problems. When that's possible, we'll all be better at solving the world's biggest problem's, together — and that's a future we want to create.
+
+A big part of this is making sure the people working on world problems have equitable access to tech that can serve their unique needs — and help them grow their impact. There's so much they do every day that there's no software specifically designed for: organizing volunteers, managing campaigns, collecting resources, fundraising from multiple sources. We want to give them one tool that can be molded to meet all of these challenges.
+
+For now, we feel so grateful we were able to make a difference for a number of 501(c)3s who helped weather the pandemic in different ways, including a couple whose ongoing work we'd love to spotlight here.
+
+Making data actionable during COVID-19
+
+Throughout this pandemic, we've connected with many first-responders from around the globe who showed us how they were using Notion. They included folks coordinating health supplies, researchers managing projects, and grassroots organizations helping local communities with cash and food relief. But some of the most impactful were focused on sharing rapidly-changing information.
+
+As one example, doctors from Stanford Medicine created the COVID Surge Handbook, a public wiki and comprehensive guide for health care professionals to reference on the job. This helped them keep track of projects and data, and mobilized public resources. They continue to update the handbook today as information evolves, and have made their Notion site publicly accessible. You can check it out here.
+
+The creators hope the handbook will be widely shared in the healthcare community, and encourage medical professionals and researchers from around the world to contribute and develop content to ensure the resource is up-to-date.
+
+School in the 21st century
+
+This last year also showed us how challenging distance learning and teaching can be. We saw Notion used by teachers to stay connected to their students during the transition, as a tool for planning, notes, and project tracking.
+
+One of these teachers is Cole Yaverbaum, a special education expert at Success Academy Charter Schools, where she’s worked for 7 years. In her current role as a manager, Yaverbaum coaches and works with many teachers from kindergarten to 4th grade. Last year she introduced them to Notion, where they now collaborate with each other and their principal, create individualized plans for students, and keep track of school business.
+
+“In elementary schools, there's very little precedent for what's happening right now,” Yaverbaum said. “So figuring out how to manage everything completely online is a real challenge. Now that we're completely remote, Notion's been a really helpful tool.”
+
+Extending the impact
+
+As we head into this unpredictable new decade, it's been inspiring to see so many social, environmental and economic initiatives, schools, arts programs and other purpose-driven orgs survive and flourish. Our whole team looks forward to supporting them with the tools they need to grow well into the future.
+
+Starting today, all 501(c)3 organizations are welcome to join Notion for Nonprofits to get all of our team features for just $4 per person per month (teams usually pay $8/person/month). We also plan to expand to international equivalents later this year and will keep you posted.
+
+To sign up, just go to our nonprofits page. Once your organization is verified by our partner, TechSoup, you'll receive an email with a unique, single-use discount code to upgrade your Notion workspace. From there, you can invite anyone to your team and share information in one place.
+
+To help you get started, we've made a lot of templates for all kinds of nonprofit use cases — fundraising, donation management, board and volunteer management, and more — all available in our Template Gallery. And we're always looking for more submissions. Don't hesitate to reach out to us with suggestions at [email protected].
+
+If you don't work at a nonprofit, you can still play a part here. Share the news with your community. We're looking to support organizations of all shapes and sizes to succeed, and we'd love your help!About Andy Rapista, Nonprofits Program ManagerA member of Notion's Customer Experience team, Andy oversees the Notion for Nonprofits program, helping organizations around the world get access to tools to expand their impact. Since immigrating to the U.S. from the Philippines at age 17, she's been driven by the desire to create a more equitable world. Prior to Notion, she worked at several nonprofits and social impact organizations, including Emerson Collective, Ashoka, and the Network for Teaching Entrepreneurship. She also started her own nonprofit incubator, Watson Institute Philippines, where she's observed the challenges many nonprofits face achieving scale. It's her mission at Notion to leverage tech to make this easier.

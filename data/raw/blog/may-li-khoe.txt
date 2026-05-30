@@ -1,0 +1,407 @@
+Title: May-Li Khoe gets inspiration from the physical world for digital design
+Published Date: 2021-05-20T00:00-07:00
+URL: https://www.notion.so/blog/may-li-khoe
+
+May-Li Khoe is a designer, dancer, engineer, and DJ. She’s spent her career as an interdisciplinary artist-designer, inventing new ways for humans to interact with machines by blending prototyping with cultural practices, bright colors, and glitter.
+
+After starting her career at Microsoft, IBM, and Leapfrog, May-Li joined Apple. Her contributions to the very first iPhone very well might have saved your phone — she worked on the first version of Find my iPhone (and the beginning of Find my Friends). She also helped invent new technology for all Apple’s hardware, such as “Force Touch” and “Taptic Engine.”
+
+May-Li then served as the VP of Design at education nonprofit Khan Academy, growing the design team and building its design management system. While at Khan Academy, May-Li also founded and co-directed a Long-term research group, publishing interactive articles on creative math and new ways to represent numbers in your head.
+
+She’s now part of the team launching MakeSpace, which re-imagines how we spend time together online. When she’s not designing and prototyping and helping people foster their own creativity and empowerment, May-Li is spinning tracks under the name DJ China Tu Madre with the group La Pelanga Collective.
+
+DEVON: Hello, I'm Devon. And you're listening to the sixth episode of Pioneers — an ongoing series of conversations with the designers, engineers, and inventors who shaped computing as we know it.
+
+A quick housekeeping note. You’re probably familiar with the show by its original name, “Tools and Craft.” That name has now expanded to refer to Notion's entire blog, which is coincidentally, where you can find all past and future episodes of this series, Pioneers.
+
+So today I'm floored to be talking to May-Li Khoe. May-Li is a designer and she has tightly integrated her loves of prototyping, dancing, DJing, glitter, and engineering into making all sorts of novel ways of interacting with the world.
+
+She has an especially sharp eye for recognizing the opportunities that open up when you have new mediums in your hands. May-Li has worked on too many cool things for me to list them all, so here's just a tiny sampler.
+
+While May-Li where was at Apple, she worked on the first iPhone and she was also part of the team that invented Force Touch among many other things. Later, she was the VP of design at Khan Academy and co-founded their longterm research group where she explored what potential futures of education might be.
+
+And just in this last year, she launched a virtual world called MakeSpace with a number of collaborators, which takes the dry, boring rectangle that Zoom and other video chat tools take for granted and instead turns it on its head and makes hanging out with friends or collaborating with people in virtual space spatial and fun. So May-Li thank you so much for taking the time to have this conversation.
+
+MAY-LI: Hello! Thank you. Thank you so much for having me.
+
+DEVON: I'm really, really looking forward to this because this hits a bunch of my favorite topics. Also I just wanted to hang out with you more for a long time. So this is going to be a blast.
+
+MAY-LI: Yeah. Awesome.
+
+DEVON: So one of the themes that has really jumped out at me from studying your work and from talking to you is just how embodied your thinking is. You have a lifelong love for dancing, and that seemed to have had a huge impact on the way you design interactions and animations.
+
+For example, you've talked about how the Apple edit app screen animation is a lot like a Tahitian dance that has a lot of hip shaking in it.
+
+If anyone has no idea what I'm talking about, if you have an iPhone or an iPad and you go to try to edit your home screen of apps, you'll see that your apps like shake, and you can kind of imagine hips sway.
+
+So I'm really curious — how have you involved the physicality of our bodies into interaction design?
+
+MAY-LI: The first thing that jumps into my mind is just having conversations with people about how things should move.
+
+I don't know if this happens to other people, but just having these actual movements, like dancing out with my hands or my arms, how things should move or be arranged in the screen.
+
+You know, it's something that you wind up losing when you've a bunch of static mocks and you're not having face-to-face conversations with each other. But I would say it's definitely permeated in that way.
+
+And just the way that I talk or think about things. Similarly to that, I think the entire conversation about spatial interfaces and how spatiality plays out for both UI elements winds up coming into play. Because as a dancer or as a performer, you think about how you get onstage — what you do when you get onstage? What happens when you're going off the stage? How you go off stage? What does a finale look like? What does the introduction look like?
+
+Like how does an element appear to you on the screen? What are those transitions look like? Do they make sense? Where does the thing go when you're not looking at it?
+
+A lot of that probably played out in my work almost in a way that I don't even know that I'm thinking about it. But it's definitely jumped out a lot when I wind up miming stuff in conversations with other people. That's probably when I noticed it the most, I'm like, oh yeah, I guess I'm kind of dancing through this.
+
+DEVON: I love that concept of performance. My background is engineering and I've gotten more into the product design space in the last few years. And when I had my like pure engineering hat on, I was very much focused on ... what are we trying to achieve on the page? Okay. Does the page show that? OK, cool. We're done.
+
+Whereas like that idea of ... what does the entrance look like? How does someone get introduced to this thing? How does information leave the page when you're going to the next piece?
+
+That's incredibly important for them to understand how the pieces fit together. As opposed to this big abstract concept, which can be hard to build a mental model of what's going on with a product if you don't have all of those things tied together.
+
+MAY-LI: Yeah. I think related to that is also the mental model, and then there's the ... does the motion makes sense aspect of it.
+
+Do you want this to be a heavy thing or a light thing? Should it be easily moveable? Should it not be easily moveable? Where is it coming from? And also is this pleasant?
+
+Anyway, those are all questions that might have coming up for me when I think about how things move on a page and how they relate to each other.
+
+DEVON: Those are really interesting dimensions to think about. What’s your heuristic for deciding whether or not something should be heavy vs. light or easy to move vs. hard to move?
+
+MAY-LI: Ideally — and we haven't gotten here yet when it comes to interaction design — but ideally, a thing that's going to have ramifications are heavy for you. Deleting something should actually feel heavy. While something that's not that big of a deal, maybe rearranging things, for example, shouldn't feel heavy.
+
+Ideally, UI like reflects the way that you interact with it, reflects something about what's going to happen as a result. It's a kind of the equivalent of, “Are you sure you want to delete everything?” It's kind of funny how “RM em dash R” is so easy to type, but it should actually feel like lead.
+
+DEVON: Oh, wow, that's a great point.
+
+You were talking about how — now that everyone's basically remote almost all the time and doing knowledge work, with some exceptions of course — it sort of changed the way that we can communicate with people when we work with them.
+
+As you've been working on MakeSpace, which also leans into that paradigm of being on the screen ... well actually before I ask this question, can you describe what MakeSpace is to our audience?
+
+MAY-LI: MakeSpace is a couple of things. From an interaction standpoint, it's an entirely new way of spending time together online. You break out of the little, tiny, static, rectangles that we're mostly locked into and you can actually have control over creating a whole vibe and move around while you communicate, and spend time with other people.
+
+Then at the next level of meta, the values behind it were all about how to further humanize and create care. And create spaces that are amenable to care and caring culture and creativity while spending time together.
+
+I guess another way of putting it would be — a lot of the time when we spend time together online, it feels about as cozy as a corporate conference room. How about instead we create spaces where we actually want to be in them with people we care about, and are excited to go back, and make them feel like ours.
+
+DEVON: I really like that. Why is it so hard to make a vibe in Zoom?
+
+MAY-LI: There’s a couple things. The space doesn't exist. It's almost as if you were walking in an infinite white plane, right? And then you came across a bunch of people for a second, and every time one of you talked to everybody clustered and all looked at you, including one person holding a mirror so that you were looking at yourself. That's all there is. And as soon as the conversation is over, you all disappear into that infinite plane of white space again.
+
+If you think about the way that we gather in real life, there's the choice of where you spend time and all of the choices that go into how that place is arranged and how you interact into it. Those are all design choices that you're not making any sort of close parallel to when you're in a place like Zoom.
+
+As having been a DJ, one of the things that really irritates me is when people set up a dance floor and they push all the chairs to the outside of the room facing in. It makes it so hard to start a dance party because everybody's looking at the dance floor.
+
+And, what's the lighting? If you keep the lights all the way up, a lot of the time people are more self-conscious. Where's the door? Where are the speakers? Where’s the DJ? All of those types of things you think about as a person who throws events.
+
+Then as a person who attends things — if you and I were going to go hang out, I would think about what is appropriate for you and I to go spend time in. Is it going to be a park? Is it going to be the children's museum? Is it going to be a zoo or a cafe? And if it is a cafe, which cafe? Depending on what we're going to be doing, there's just like a million tiny choices of atmosphere and arrangement inside the atmosphere that go into our actual human interactions when it's not in the middle of a pandemic.
+
+So when we spend time online, suddenly all that stuff is stripped away and we're left with the equivalent of a corporate conference conference room. And it's sad.
+
+DEVON: I really feel that. A lot of people I know say that it's just really awkward to talk to people on Zoom — even people that you really care about. I find it almost like awkward to talk to my mom on Zoom. And I've known my mom my whole life!
+
+I think you're onto something here where it strips away all of the affordances that a space gives you.
+
+I invite you to afternoon tea vs. to drinks at 11:00 PM, both situations are pretty similar in a lot of ways. But just by inviting you to one vs. the other, it's like sending a different signal of the kind of experience that I'm looking to have with you. With Zoom, you can do a little bit of that by saying, “Bring your red wine or bring your tea.”
+
+But the whole place doesn't bend itself to trying to create that vibe. You get a completely different vibe depending on where you're inviting someone. If you're inviting them to a wine bar at 11:00 PM vs. a tea time at like 2:00 PM, you're going to get a completely different experience. Even the waiter is going to serve you really differently. The music and the space is going to encourage you, like in the wine bar, it might be really loud, so you have to lean in and you get like physically closer. vs. a quiet tea, it has peaceful piano in the background or something like that. You have a very different kind of wholesome, whimsical experience.
+
+And with Zoom, you could do that. I think it's not impossible to create it, but Zoom does not help you at all.
+
+MAY-LI: Getting back to something that we were talking about earlier — you know, as a dancer, thinking about how I get on stage, how you get off stage. I remember at a really early age, the teacher being like, “You know people can still see you out in the wings, so make sure that you keep dancing until you're all the way off, all the way through the wings.” That also applies with social interactions, right?
+
+DEVON: What are the wings for a web design? What's the analogy there?
+
+MAY-LI: The wings are useful in interface design. Because if you deliberately have a little bit of whatever things in the “wings” peeking out, that's how people that are going to use the thing know there's more stuff there.
+
+In a list view, for example, you deliberately design the line height for the majority of people being able to see some cutoff last elements so that they know there's more, for example. Or if your page is 500 units tall and there's going to be more than five elements in it, then maybe you want to make sure that each of the elements is less than a hundred units tall. So that there's a thing peeking at the bottom so that people know that there's more.
+
+That’s what I would think of as waiting in the digital wings.
+
+DEVON: That makes sense. A lot of menu bars have that too, of just being out of sight — but you can turn your head metaphorically to see it.
+
+MAY-LI: We’ve played with other stuff too with face detection and parallax and operating systems. None of that stuff has ever stuck, but you could imagine doing that where you sort of move your head to the right side of the screen and some stuff peaks in, or you move your head to the left and you see some stuff peeks on the right hand side.
+
+There's been a bunch of experiments with things like that over the years from different places, but I don't know, we'll see if it ever happens. There's a lot of cool stuff that's possible with UI design, operating system design. But a lot of it doesn't wind up happening because it's a splintering of hardware or there's like lack of economic incentives to actually do that cool thing.
+
+DEVON: The mapping, too, can be really tricky I think. From a theoretical level, I would expect it VR (virtual reality) to be extremely intuitive. But when I put on a VR headset and I turn to the right, something is off. It’s not turning quite correctly. And so there’s a mismatch between what I’d see in the “real world” vs. the virtual world.
+
+So that might be a technical problem. I’m not sure, I haven’t looked into it too much. But I imagine there’s some of those disconnects where conceptually it’s sound, but practically the implementations that currently exist make it not that useful.
+
+I am optimistic that VR can fix that, for the record. But it hasn’t done that yet in my opinion.
+
+MAY-LI: It can be tricky to get stuff right and tricky to make it worth it — as far as how much work needs to be put into implementing and testing and making accessible and all the things that need to happen when you actually ship real product.
+
+Speaking of which, I should mention, all of the stuff at MakeSpace — it exists right now, not as like a shipped public version. It's something that, you know, we'd spent a bunch of time in, playing in like a first stage prototype and a second stage prototype. But I think more than anything, that initial thing that we put out in the world last year, it was like a provocation. It seems like it succeeded in doing that.
+
+I think a lot of people have drawn inspiration from it. So I'm excited about having provoked new things to happen. But I want to be clear in case anybody's listening and is like, “Why am I not using it right now?” That's why. Because it's not like a launched thing.
+
+DEVON: What'd you like it to be in five years? How would you like people to use it?
+
+MAY-LI: I would love for it to feel co-owned by the people that need it and use it most. We'll see what happens. It is its own little beast and it's been pretty organic so far. So we'll see what happens.
+
+DEVON: I really liked what you said about having the space be persistent beyond the people themselves, where you create this thing that you can come back to. It's a place you go to, as opposed to something like a Zoom video chat, which is like ... I have my personal meeting room, and you should only go to my personal meeting room if I'm there.
+
+It's not a place you would want to go to if I wasn't there. Whereas you could have more of a public space — like a library where you might want to go hang out with people or you might go and read by yourself, you might meet strangers.
+
+There's a little bit more serendipity that happens in those situations I think, because the thing that connects you is the space, as opposed to a person who had to make a plan and bring people in.
+
+MAY-LI: I think that's part of the reason that Houseparty was so popular to the point where it stopped being reliable at the beginning of lockdown about a year ago.
+
+What was interesting about that thing, is that once you were present, people hopped in and out. There was a lot more spontaneous getting together and not being present with other people that you knew being able to hang out — as opposed to this very formal, like, “OK, I'm going to send you a link and we're going to hop in now.”
+
+I think that's like another dimension of this stuff that doesn't get talked about as much. The spontaneous third place, like you were saying, “I'm here because it's place vs. I'm going to your face when it's there.”
+
+I guess there's that term, right? The third place — which is not home and it's not work, it's this other place where people spend time. We're lacking that right now and we don't really have that in the digital realm.
+
+So it would be cool if it was that. And it'd be even cooler if it was like what we propose with  MakeSpace that you could rearrange the furniture. Or break off into different little clusters very organically, or walk around very organically instead of being locked, essentially strapped to your conference room chair.
+
+DEVON: What have you been using for your third space in the last year? What's been filling that gap.
+
+MAY-LI: I don't feel like I have one. For a little while, at the beginning of the pandemic, we were trying to do that with Houseparty, where there was an ambient presence and people could hop in and hop out-ish, and that was a spot. But I haven't really felt like I've had that at all, nothing close to it.
+
+DEVON: When you say “we” — is it like a group of friends? Is it your family? Colleagues?
+
+MAY-LI: Both friends and family. That was a year ago. It was a short experiment. Since then, probably using our MakeSpace prototype.
+
+I should mention that Weiwei Hsu is really spearheading it right now. As far as like where it goes in the future, we will see where it winds up going. But MakeSpace is a place where I've spent time with other people and you can drag in an animated GIF of a bonfire, which we did. Then we all brought in a bunch of little transparent marshmallows on sticks and held them over them over the fire, gathered little seats around it.
+
+It's been cool to see how people wind up using it. Even though it's not open or anything I should say.
+
+DEVON: At the beginning of the pandemic, it did feel like there was a lot of energy where people realize like, “Oh man, it's going to be really hard to be around the people I care about for a long time.” So I'm going to experiment with a lot of things. I certainly felt that way.
+
+But then a few months in, I just lost steam. It stopped being exciting so much and more just being sad for me. But at the same time, I had a lot of really good adventures with friends. Like we went to Minecraft Disneyland, which was a blast. I actually went with a group of friends who, a month before the pandemic started, we had actually gone to Disneyland together. So then, we went back to Minecraft Disneyland and went on all the same rides. That was amazing. We also tried a bunch of virtual spaces that each were awkward in their own special way. It’s actually pretty fun to be able to explore all of these.
+
+But after some time, you're kind of ... I’m staring at my computer all day long already. And I actually love my computer a lot but, at the end of the day, I'd rather just go for a walk by myself because I need to use my body somehow.
+
+MAY-LI: I wonder how it's all going to go when people are able to go back outside much more often and be around each other. Whether or not actually everybody's going to be like, “I really don't want to be in front of my screen a second longer than I need to.” I wonder how long that'll last.
+
+DEVON: My prediction is that we're going to get the Roaring Twenties again. Everyone's going to go wild with costumes and crazy parties. Not everybody, but I think it's going to be wild.
+
+MAY-LI: I believe it. I'm feeling that too. I feel people are already egging it on. They're like, “Buy your sequins stuff now, because it’s going to happen.”
+
+DEVON: Another theme that's really jumped out at me from your work, is the idea that when we design things for people, we really have to pay attention to how it makes me feel. They're not just empty vessels where you can upload data into them — because that's not how it works.
+
+We have feelings about what we're learning about, who we're talking about. What you ate for lunch can probably affect the way you feel about a product.
+
+What are decisions you've made that, you would consider atypical that other designers might not have made because you were taking emotional balance into account?
+
+MAY-LI: I don't know if there are other things that other people might not have come up with. But I guess one of the ones that stands out from really early on is making hearts fly out of my head for those first face filters, AKA face effects, for Photo Booth.
+
+When real-time face tracking first was released and we put it into Photo Booth on the Mac, there was something about emoting love, and how it emanated from your face or your head.
+
+Maybe that's one example. Another one that's more recent is, I've been experimenting with the visual design for MakeSpace. And again, like I said, we'll see where that project goes. But when Weiwei, Jason, Julius, AoSheng, and Max chatted about potentially going the direction of Japanese stationery.
+
+So I put together a whole bunch of stuff and thought about how Japanese stationery feels and, you know, we've been experimenting with what that winds up looking like. There's something about the way Japanese stationery feels that’s so ... I don't know how you feel about it. I love it. It's so hard if I'm in a Maido store or something to not want everything.
+
+DEVON: I have an entire stack of unused notebooks. It's my greatness weakness.
+
+MAY-LI: Oh my goodness. I'm right there with you. So it's like — how do we get that? How do we make a digital interface feel that level of inviting and warm? That's something else I'm playing with.
+
+I would say another thing is probably just like the care I put into the artistic direction, and frankly, who I hired and empowered the people to have a voice as much as possible.
+
+Frankly, I wish it was more at Khan Academy. Because so much of the educational space — like when you look at enterprise or stuff that gets sold to district, or like things education — you've got the stuff for early learning, which a lot of it is sort of borderline patronizing in its visual style.
+
+I'm sure they like study it and it works well for their KPIs or whatever. But then so does Miffy, which is this beautifully designed, mid-century, traditional at this point in time, classic Dutch character. It's just tight as graphic design and illustration, incredibly well-executed. And then there's so much sloppy stuff in the early learning space that just makes me sad from an aesthetic standpoint.
+
+Like I said, maybe they test it and it's fine. But then there's all the super dry stuff that uses stock imagery. It's so sad looking and people are supposed to use it in their classroom and it broke my heart in some kind of way.
+
+So the emphasis on the illustration, the visual design, and then the creative direction, from how we went with things in the Khan Academy design team and the contributions of work of Tabitha Young, Natalie Fitzgerald, Jacob Greif, Warren Schultheis, and Elizabeth Lin, of course.
+
+When I think about all the people on the team that really contributed a lot to that, we all really wanted that joy and the fun and colors, and also a visual direction that embodied a constructivist pedagogy in that it conveyed visually the coming together of lots of different disparate pieces. The way that knowledge is constructed in someone's mind vs. being like handed down by like one uniform. For example, if we'd gone with like one very uniform clean line, drawn style vs. a more collage aesthetic, we would be conveying something different.
+
+That's another spot where I feel like I put in a bunch of effort to make sure we actually cared about that and cared about how students would feel and people would feel arriving at the site and using our stuff.
+
+Like I said, I wish we'd been able to take it even further and do even more in my time there.
+
+I think a lot of the times it's just not ... I don't know why it just doesn't wind up being so valued or maybe it's like budget or maybe it's incentives.
+
+DEVON: I have some guesses of some of the reasons that might happen. I think one is — there's a strong mindset that I grew up with, of you should care more about utility than how it looks. The way it looks is not important or it's sort of silly.
+
+Just like what you were saying about how when you want to make something that is going to be deleted, you want it to feel heavy. It's not just about the looks. It's not about being pretty. Though that's certainly nice and like makes me feel more inviting. It's about — does the way it looks and the way it feels actually match what it does and what it's supposed to be doing for you? Because if it does, then you're going to understand it better.
+
+Just like how, when I wear a fancy dress, I'm probably not going to start painting. Whereas I might, if I'm going to go paint, maybe I'll wear an apron or a crappy t-shirt that I got for free somewhere because it can get dirty. The fact that I'm wearing a crappy t-shirt tells you if you spill a drink on me right now, it's going to be fine. I'm not going to get upset. Whereas, if I’m wearing my wedding dress or something, maybe it'll be a little less happy with you.
+
+I feel like an app or a tool or any product that you're using can tell those stories too, of how it should be used.
+
+MAY-LI: In the case of the Khan Academy design stuff, a lot of it for me was ... I wanted the learning and the fun to be associated. I wanted it to feel welcoming to students and students’ rough thought rather than feeling like an interrogation where they were either going to be right or wrong, and that they were empty vessels, and that they were all going to follow the banking model of education that Freire coined — where they were going to just have a bunch of knowledge poured into their head.
+
+How do we break that down visually to convey that you are a part of this, we're in this together, your thinking matters, etc. How do we do that? At the core of it, a lot of the times — especially in education — interfaces wind up speaking to their pedagogy.
+
+If all they care about is the fact that some internet thing or some expert holds the knowledge and a student is seen as an empty vessel that has no thought that's a value, then usually the interface and the functionality conveys that. That isn't my philosophy of education for what it's worth.
+
+DEVON: You were saying before how Japanese stationery is super welcoming and you just want to touch it. And I feel like a lot of Apple design does that for me too, where you see the iPhone and you want one because do you want to hold it in your hand.
+
+You want to feel how it feels and the software feels that way too. What do Japanese stationery makers and Apple designers do that's sort of a shared practice either intentionally or unintentionally?
+
+MAY-LI: I think something that I feel is in common with both Japanese stationery and Apple stuff is that people care. And they put that care in and that the care that's put in by a designer to details is also able to be carried through in the execution of the thing. Because it's being valued by whoever it is that's in charge, it's considered part of the value proposition of what you're getting, right?
+
+So it's not something that isn't part of the core value proposition, unlike, say for example, many years ago, banking software. The core proposition was the bank. It's a place to put your money. And a side effect of it was maybe you want to see some stuff about it. It wasn't considered like a competitive edge in what was being sold.
+
+And I think as a result of that, the people who actually designed and actually cared, and knew how to put all of that care and craft into the details, could have the time and the autonomy to do that without somebody who doesn't have any taste telling them, “That doesn't matter. We don't have time for that. We just need to like do X, Y, Z right now.”
+
+A lot of craft type of work isn't highly valued by businesses who don't have that at their core. And that isn't part of their main value proposition.
+
+DEVON: I feel like also, once you’re in an environment that encourages it, and if you yourself are paying attention — I have a lot of faith that people figure out ways to get better at the thing.
+
+Maybe, maybe not immediately. Attention is such a magical thing. Like if you pay enough attention to a problem, it'll tend to get better. And when I say pay attention, I don't just mean like, worry about it. I mean really seek out solutions to the problem. You can just like keep chiseling away and ultimately it will usually get better.
+
+It's one of the most amazing things that I've seen in organizations. Where the company doesn't seem to care at all about X, but then there's a really strong cultural push to carry out X, and then suddenly, it's like a lens that has been like refocused. And after — if the cultural change was really intentional and consistently pushed after the course of a few weeks or months, depending on what it was —  it feels like an entire ship can actually turn and really refocus on that.
+
+Now, it's hard to do, but once you do it, then suddenly things start getting done that were not getting done before. It's kind of incredible.
+
+MAY-LI: It's true. I think it's very tied into learning and just the entire process of learning.
+
+I think if you really put attention on something, attention and intention, it's kind of amazing where you can get after putting all those hours into something that maybe you didn't even see that way before.
+
+DEVON: Another place that I've noticed personally, just having my attention focused on it has made me a lot better is around language.
+
+One of the things I've been excited to talk about is our shared experience of learning Spanish, which you lived in Colombia last year with your partner. And I've spent a lot of time in Argentina where my boyfriend is from.
+
+I'm probably projecting here a little bit, but I know for me personally, the experience of being only OK at Spanish, and then spending a month in a Spanish-speaking household has had a lot of really interesting emotional effects on the way that I learn.
+
+It’s made me really realize how important emotion is, in a way that I didn't before. One of the ways is just that I'm so much more motivated to learn Spanish than I ever was before because I want to be able to talk to my boyfriend's mom. I wanted to be able to have a conversation. Whereas when I was studying it in school, I always enjoyed language, but there wasn't that deep, emotional connection that I had.
+
+So I learned a lot slower. But it also means that failures — maybe failures, isn't the right word — but moments of not being able to communicate also that much more emotional and challenging because you want it so badly and it's not really working.
+
+Can you talk a little bit about your experience of living in Colombia and what that has taught you about education and learning?
+
+MAY-LI: Yeah, sure.
+
+But I feel like after spending that time in Colombia, I feel like the actual words ... what you get from a written word, as far as what you would get from talking to a person, is really kind of a small percentage because it's so physical. In Colombian Spanish, the inflection, the breadth, the eyebrows, micro movements — there's so much stuff happening that over time and realizing it goes so, so, so, so much deeper than the actual words.
+
+Again, coming back to the dance. The different ways that people are even set up around each other, like circular layouts vs. grid layouts of people in the room. Who's taking up air time, how people are moving around each other, and all of those things.
+
+In general I enjoy more participatory crowd noises, which I know are just much more the norm in some cultures than others. Same thing with shows. The culture of a classical music show tends to be very ... everybody needs to be super, super quiet. So many other shows where you yell back and there's call and response, and there's all that stuff, in thinking especially about like Black American culture. There's just so much more responsiveness generally during the shows. How does that show up in digital media is another thing that I always think about.
+
+How do we get to yell back?
+
+The movie theater experiences is another one, the tennis match —  what does that look like when you can actually hear much more responsiveness all the time.
+
+I think that's one of the things with digital video conferencing. There's so much assumption built into one person speaking at a time and nobody else reacting, which is so weird to me. There's so many of the video conference software where, whoever's speaking, I think it was Google Meet, but that they'd like make their face big.
+
+Then as someone else spoke, they'd make their face big. And that's built on the assumption that nobody else is going to make any noises or say anything.
+
+DEVON: That assumption is probably really good for certain things. Personally, I'm actually glad that people don't react in classical performances.
+
+I like being able to listen because classical music has such a wide range from really, really quiet all the way to the loudest grandest thing. If you had people reacting during the quiet parts, you couldn't hear it. At the same time, if you're at a rock concert and people aren't screaming their heads off, it's probably not a good concert.
+
+The range is something that’s exciting to me. Being able to pick your toolbox based off of the kind of vibe and situation and relationship that you want to have with the audience and with the medium and that sort of thing.
+
+MAY-LI:  One of the things that happens now is that so much of the stuff we create is like really catered to like super corporate conversations. And so that's what you get.
+
+DEVON: Right. Like Zoom is really solid and stable because a lot of companies spend millions of dollars to pay for it.
+
+Whereas I think these other more experimental ones are really fun, but I wouldn't invite my grandparents to that because they're not comfortable with trying something super new. Zoom is already a stretch for them and to do a really experimental space, like MakeSpace for example, they would be scared, they wouldn't feel comfortable.
+
+So I think that's part of it. The work conference style — which is so refined and is quite good for a very particular purpose — that's what we ended up getting stuck with because it's the thing that “actually” works right now.
+
+MAY-LI: Totally, totally. Although it's interesting how a FaceTime call feels very different from a Zoom one.
+
+DEVON: True. Well actually, what do you think it is about it that feels so different?
+
+MAY-LI: It's a lot of little things that add up. Part of it is the Chrome, the Chrome holds a vibe. I think we can't, as much as Chrome in software tries to get out of the way, it causes a vibe. I think that's one the things. A lot of the times when you're on the Zoom call, you're in a browser. There's still a bunch of buttons. There's still some stuff across the top, etc.
+
+FaceTime tries to be a lot more neutral. So a lot of the times when you're in the call, you really only just looking at the other person's face, there's not like not a whole lot of other stuff on the screen. So I think that's one of the things and that's just talking about the one-on-one conversations.
+
+That’s the main part. But then of course there's all those algorithmic choices about who you show. Are you in a grid view? Or are you in the focus-on-person-and-you-are-a-smaller-person view? And what am I lighting up? And am I ducking the audio or not ducking the audio? I think all those things make a difference, too.
+
+They all add up. Each of them feels like a small decision, but I think that all of them might be adding up to the experience, but the one that jumps out to me is the Chrome.
+
+DEVON: I think where the attention of the designer really makes a difference. If the attention of the designer is focused on building something for a corporate client, then just all the little decisions they're going to make are maybe not even intentional. They just intuitively pull towards a particular direction that sends some signal vs. the other.
+
+One of the things for FaceTime for me too, is that you usually connect via your phone number. So you can only FaceTime people who you have their Apple ID or their phone number.
+
+And for me, giving someone my phone number is like a pretty intimate thing to do. I don't give my phone number to that many people. So, FaceTime feels like the place where I only talk to people that I know pretty well or I trust, or a friend of a friend.
+
+It’s tied back to that entrance piece. How do you come into this medium? And the answer for this one is like a very specific number.
+
+MAY-LI: Yeah. Like, “Why are you even here? How did you hear about this spot?”
+
+DEVON: Totally. So this is actually a really good segue into the last thing that I wanted to dive into with you.
+
+I'm a really big believer that the moment by moment decisions that you make in your life are really what determine how you spend your time at a macro level.
+
+So you can have like a really grand theory — but if the small choices you make day to day don't actually align with those theories, you're not going to actually get those results.
+
+Let's say Zoom really wanted to commit to making Zoom feel fun and whimsical, but they keep making the same choices that they've been making. I don't think they're going to really make that much progress, concretely. They've added the backgrounds and the filters, which are great for step, and I enjoy using them. But roughly everything else in the app, actively contradicts those things in my opinion.
+
+They kind of feel weird to like paste on a background in Zoom. It feels a little inappropriate for the space. It's like, if you showed up to a work conference wearing a Halloween costume, it just feels weird.
+
+So I'm curious — what are the minute methods and practices that have guided your work when you're either working individually or when you're working in a team to make sure that the things that you're building actually align with what you have in your head?
+
+MAY-LI: You know how in game design, there are sort of small, medium, long, and potentially longer loops of things that you're keeping track of, right?
+
+Let's just use a simple example, like Pokemon Go — you're catching little Pokemon everywhere you're going, but then like every once in a while, you get enough for some level up. So that's the medium loop, there's the small thing and there's the medium thing, then there's like the bigger thing.
+
+I totally agree with you that the little tiny choices add up, but also the medium sized ones and the long ones. So I try to create structures so that the long ones are explicit and they're spoken about, and we're checking against them. That's the ideal way, especially if you've got a team, because otherwise people don't necessarily prioritize things the same way to come up with those outcomes.
+
+For my personal life. I think it can be a lot less explicit. And maybe that's good or not, but I think a lot of the time, the things that I gravitate towards wind up being, implicitly understood by me. By a side effect of that being something that’s deeply important to me, I'll gravitate towards it.
+
+It's kind of like if you hold a thought in your mind that you're like, OK, I want things to feel this certain way, and then you're faced with a decision, and you're like, does this feel this certain way? Is it going to add to this thing or not? Then it's easier to make that decision because you know what you're trying to head towards in the longterm. And then making sure that you're checking against it in the small, medium and longterm really helps designing a little game for yourself out of how you live your life.
+
+So to be super, super, super nerdy about it for a second, one thing I try and do is, every year I have a couple of overarching things that I know are going to be important to me that year and I break those down in a spreadsheet because I'm a dork. And I think about what are actual concrete things that I'm working on that go towards that thing. Then I literally write down what things would happen as evidence of those things, and then create a structure for myself so week over week, I'm looking to see how I'm doing on that thing.
+
+That way, if something is at least failing silently, I know about it. It's not so silent because once a quarter, I'm going through and looking how I did for the entire last quarter on my weekly way of looking at things, and seeing whether or not there's gigantic pockets of what I want to be working towards that aren't happening.
+
+I've made this structure not because ... I'm a weird combination of person. I'm naturally on the one hand, like extremely chaotic. I think that the like the lateral connecting and thinking is happening a lot. And so I can be extremely generative, and have more ideas than I could possibly execute on in one lifetime — all of those things are no problem. But on the flip side, I need structure. Otherwise I'll just go off in a gazillion directions.
+
+And they allow me to feel reassured that I'm like checking in on things and the things that are overall on a day-to-day basis, like you said, going towards the things that I want.
+
+They're hard for me to maintain. It's almost like a challenge for myself, but it's also reassuring because then I feel less ungrounded. I feel just like I have something to come back to, like this past me created this thing that's going to help current me, check in and make sure that all of my actions are adding up to the things I want them to add up to.
+
+DEVON: That resonates really hard with me. A lot of my friends tell me that I'm the most organized person they know, and I'm like, that's only because I'm also extremely chaotic. And so if I didn't do that, I would get truly nothing done.
+
+It's always hard to tell what's going on in other people's minds. It's just your subjective experience, but to me it feels chaotic as heck.
+
+What are some of the things that concretely have gone into that spreadsheet?
+
+MAY-LI: One of the ones that's maybe really fun to mention is, this was one of the ones last year, which was — if I have a creative urge to immediately follow up on it, even if it’s at a stupid time, in a stupid place that doesn't make any sense, just do it, just go with it.
+
+Because I think that, also as a person who is like a little bit chaotic in generative — especially as somebody who's been employed for a long time in various jobs — I had developed strong muscles of suppressing those creative urges when I want to do this random thing right now. And then this other voice would be like, “You can't do that right now. You need to focus on this thing that needs to get done by tomorrow.” So last year I was like, what if I just do it? And so week over week, I was like, “Did I do it? Did I just go with some random creative urge?”
+
+I guess one of the ones that's more recent — that maybe could be exciting for you to hear because we haven't talked about this yet — has to do with like writing.
+
+I have so many goals about writing this year. I think that one of the things that's been a challenge for me has always been ... I just work on stuff and I'm just doing that and I'm never documenting it or publicizing it or publishing my thinking behind it. I feel like there's a lot of the thinking that I put into things that I haven't taken the time to write down in a way that is much more digestible and articulate for other people to internalize.
+
+DEVON: With that first one you said, the goal of like letting yourself do whatever creative thing you feel like doing in the moment — that was like a lot more meta than I was expecting from the list, but I really like it.
+
+MAY-LI: I called it “flex creative muscle when I want to.”
+
+It was funny to see some of the things I did. It was not expected. Last year, for example, at some point in time, sometimes I hear something and I love it. And there's an emoji that has hearts over the eyes and I really want an emoji that has a heart and an ear. So I just drew one and like put it out there. That was it. That was the project for the week.
+
+DEVON: I want to leave with one last question before we wrap things up.
+
+When you have these creative ideas that you let yourself fall into, or when you're faced with a bigger design problem — what does an afternoon of prototyping actually look like? You have a blank page or blank whatever in front of you. What do you do?
+
+MAY-LI: One of the things that I've noticed that I do over time is, I build up almost like the equivalent of having a little toolbox — one you might carry around if you are somebody who works on physical things. I feel like I have a digital version of that I try and build up over time.
+
+And I have a lot of aids to try and context switch, especially now, because I'm working on a bunch of different projects. I'm not working on one thing all of the time. So, sitting down involves opening up whatever the aid is that I've created for myself, whether that's like notes on a piece of paper or a bunch of drawings or some conversation I've had with someone. Wherever that is, I need to load that in first to like recreate the context of what I was trying to do. And then usually, I don't tend to actually start with something blank.
+
+If I do, it's only after I've gathered a bunch of things that are related to it, you know? So for example — I guess it isn't necessarily prototyping in a motion sense or an interaction sense, but in a visual sense — if I'm working on doing a visual language that looks like Japanese stationery, I'll collect a whole bunch of shots of what I like of Japanese stationery and start from that.
+
+And then similarly, if it is a prototyping thing that's interactive, if it's digitally interactive or if it's an in real life thing, I'll still be thinking about a whole bunch of other sources that will feed into that to remix.
+
+I think everything from there, it goes into, it depends a lot on the medium. With prototyping, I'm thinking a lot about, “What am I trying to learn here?” If what I'm trying to do is land on an interaction that feels really great, then I'm going to tunnel in and focus just on that one interaction. If what I'm trying to prototype is like a flow, then I'm going to try and do the minimum amount of fidelity necessary to see whether or not a flow is going to make sense. By minimum amount of fidelity, I don't mean make it look like shit. I mean, what is the closest approximation that I can create using the least amount of effort, time tools, etc. to learn whether or not this is actually going to be a good idea or learn whatever it is that I need to learn about whether or not something's going to work or not.
+
+There's always been this debate of how much to involve everybody that's going to be using the thing, how much you're just drawing from your own inspiration, your gut and your intuition, how much you're iterating and testing along the way with people.
+
+It's interesting having worked in different organizations with very wildly different schools of thought. At Apple, we did not do user testing the way that it's like almost the opposite of Google and doing the AB testing, I don’t know shades of blue it was.
+
+I wish that debate wasn't so much like an either or. I think that on the one hand I've seen people not work enough from intuition, like not develop or be hard enough on their own designs from an intuitive standpoint and not have any sort of vision or opinion at all, which I think is not great.
+
+On the other hand, I've seen people lean too much into that and not do any kind of testing and not talk to anybody and just be too much in the ivory tower, then just fall flat.
+
+So, I think it has to be a little bit of both. There isn't like any sort of magic formula and it's almost a waste of time to debate either or. So many things are very debating either or which, almost nothing works that way. It's a little bit of a bunch of stuff.
+
+The other thing is that oftentimes, in my past, a lot of the prototyping involved a build up of the little pieces that were going to go into it over time. And then you'd have a lot of drawings maybe to begin with, and then you'd slowly start bringing those into some other format. And then — this is just specific to digital prototyping — you’d have like a little test prototype on one side that just checked for that like one little key piece of code using something simpler than building it into something a little bit more complex.
+
+If I look back for example, like code that I've written, it's hard to believe that I wrote all that code and I can't remember having written it, or I look at things that I've drawn and I can't remember having drawn all that because I really try and break it down into those, the smaller steps along the way. Otherwise it's too overwhelming.
+
+DEVON: I really want to keep asking you questions, but this has been a really fun conversation. I'm really glad that we took the time to do this. Thank you so much. I really hope to see you in-person soon.
+
+MAY-LI: Likewise, thank you so much for having me on. It's been super fun and like looking forward to next time we have a chance to chat.
+
+Brought to you by Devon Zuegel
+
+Devon is a software engineer and writer based out of San Francisco.
+
+Audio by The Land Films
+
+Illustrations by Roman Muradov
+
+May-Li's headshot was taken by Mcklin Fotografie

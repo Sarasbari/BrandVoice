@@ -1,0 +1,311 @@
+Title: How to create folders in Gmail: Inbox management 101
+Published Date: 2025-03-04T00:00+02:00
+URL: https://www.notion.so/blog/how-to-create-folders-in-gmail
+
+Does your primary inbox feel like a never-ending stream of messages that makes it hard to find the emails you need? You’re certainly not alone.
+
+A cluttered inbox can quickly lead to lost emails, missed information, and constant overwhelm. This common frustration can significantly impact daily productivity. Fortunately, bringing order to this digital chaos is achievable by using the very tools Gmail provides.
+
+This comprehensive guide explains how to create folders in Gmail and transform your inbox from a source of stress into an organized productivity hub. You’ll learn simple, effective ways to organize your emails, ensuring crucial messages are always within reach and your workflow is smooth and efficient.
+
+As a bonus, we’ll also introduce a modern solution for sorting and managing incoming emails with minimal manual effort.
+
+Gmail folders vs. labels: What’s the difference?
+
+If you’re new to Gmail or haven’t used it in a while, you might notice that this popular provider handles email organization differently than most other services. You might be wondering what the folders are called in Gmail and if they are the same as labels.
+
+The short answer is that folders are not the same as labels in Gmail, so you won’t find a dedicated folders feature. Instead of traditional folders, Gmail uses a unique labeling system that serves a similar purpose to traditional folders but with important differences.
+
+Labels act like tags that you attach to your emails, allowing you to apply multiple labels to a single message. These tags are visible both on the emails themselves and in Gmail’s left sidebar, where clicking on a label displays all emails associated with it. Keep in mind that labels are different from Gmail’s built-in Categories, such as Promotions, as well as System labels like Drafts, Trash, etc.
+
+Unlike Gmail, most other email platforms use traditional folder systems, similar to physical filing cabinets. When you move an email to a folder, it’s physically relocated from your inbox and stored exclusively in that location. As a result, an email can only exist in one folder at a time, and to access it later, you’ll need to navigate directly to that specific folder.
+
+Here’s a summary highlighting the key differences between Gmail labels and traditional folders:
+
+LabelsFoldersAct as a customizable tag attached to emailsOne email can have multiple labelsVisible on all tagged emails and remain in the inboxAct as a container where emails are moved intoYou can only assign each email to one folderOnly show the emails stored within them
+
+Labels
+
+Folders
+
+Act as a customizable tag attached to emails
+
+One email can have multiple labels
+
+Visible on all tagged emails and remain in the inbox
+
+Act as a container where emails are moved into
+
+You can only assign each email to one folder
+
+Only show the emails stored within them
+
+How to make a folder in Gmail using labels
+
+If you know your way around Gmail, you can use a label as a folder, even though this is not its default function.
+
+All you need to do is create a label and move emails into it. This will remove the emails from other locations in your inbox. The emails in your label (turned folder) will only appear under that specific label and nowhere else, like a traditional folder.
+
+Now that we’ve covered how Gmail’s labeling system works, you can implement it to create “folders.” Creating folders using labels differs based on the device, and below, we’ll show you:
+
+How to create a folder on the desktopHow to set up folders on your iPhone or iPadHow to create a folder on your Android device
+
+How to create a folder on the desktop
+
+How to set up folders on your iPhone or iPad
+
+How to create a folder on your Android device
+
+How to create a Gmail folder on the desktop
+
+To create a folder using a label on the desktop app, follow these simple steps:
+
+Sign in to Gmail on your browser or desktop appClick on the + icon beside Labels in the sidebarType in a label name and hit the Create button
+
+Sign in to Gmail on your browser or desktop app
+
+Click on the + icon beside Labels in the sidebar
+
+Type in a label name and hit the Create button
+
+How to set up folders in Gmail on iPhone or iPad
+
+You can create folders on your iPhone or iPad with just a few simple steps, similar to the process above. Here’s how:
+
+Open the Gmail app on your iOS deviceTap the three lines on the top left of your screenScroll down to Labels, then tap Create newType in the name of your new folder and hit Done
+
+Open the Gmail app on your iOS device
+
+Tap the three lines on the top left of your screen
+
+Scroll down to Labels, then tap Create new
+
+Type in the name of your new folder and hit Done
+
+How to create a Gmail folder on Android
+
+The process on Android devices is slightly different because there’s no + icon or Create new option. You can create the folder on your computer first and then add emails to it via your phone.
+
+Alternatively, you can use the Change labels option on your Android to modify an existing label. Here’s how:
+
+Open Gmail on your Android phone and sign in to your accountClick on the conversation you want to add to a folderTap the three-dot icon in the top right corner of the screenTap Change labels on the menuSelect any of the labels to add the email to that labelClick Ok to finish and save changes
+
+Open Gmail on your Android phone and sign in to your account
+
+Click on the conversation you want to add to a folder
+
+Tap the three-dot icon in the top right corner of the screen
+
+Tap Change labels on the menu
+
+Select any of the labels to add the email to that label
+
+Click Ok to finish and save changes
+
+How to move emails into folders
+
+Once you’ve set up folders using the Gmail label feature, the next step is to add emails to them. The process looks like this:
+
+Open Gmail on your desktop and select the emails you want to move. Choose as many as you like by clicking the checkbox to the left of the email Click on the Move to icon at the top of the screen and choose the label you want to move the emails toClick Apply
+
+Open Gmail on your desktop and select the emails you want to move. Choose as many as you like by clicking the checkbox to the left of the email
+
+Click on the Move to icon at the top of the screen and choose the label you want to move the emails to
+
+Click Apply
+
+Every email you move to a label remains inside that label, but here’s the catch: you can apply more than one label to an email. Doing this will make the email visible under all labels that have been applied.
+
+So, for instance, if you apply two labels—“Income” and “Flights”—to one email, you’ll find the email under both labels, as shown in the image above.
+
+If you want an email to be exclusive to one label, follow these steps:
+
+Go to Labels in the sidebar and click on the label you wish to remove an email from Open the email you want to make exclusiveClick the X (next to the subject line) on the label tag you want to remove
+
+Go to Labels in the sidebar and click on the label you wish to remove an email from
+
+Open the email you want to make exclusive
+
+Click the X (next to the subject line) on the label tag you want to remove
+
+This will remove the email from that label and leave it in the exclusive folder.
+
+How to auto-add emails to folders using filters
+
+Manually moving emails can be a lot of work, but you can get Gmail to do it for you automatically by setting up rules called “filters.” Once a filter is set up, all emails that match your criteria, including incoming and old ones, will be added to the desired folder.
+
+Here’s how to do it:
+
+Open Gmail on your desktop and click the three-line icon on the right side of your search barAdd the parameters for the filter you want to create. You can filter emails by the From (sender), To (recipient), Subject, Date, and all other parameters in the image aboveOnce you’ve set the criteria, click Create filterOn the new page that pops up, click the checkbox next to Apply the label and select the folder you want your emails to be sent to from the list that drops downClick Create filter once again
+
+Open Gmail on your desktop and click the three-line icon on the right side of your search bar
+
+Add the parameters for the filter you want to create. You can filter emails by the From (sender), To (recipient), Subject, Date, and all other parameters in the image above
+
+Once you’ve set the criteria, click Create filter
+
+On the new page that pops up, click the checkbox next to Apply the label and select the folder you want your emails to be sent to from the list that drops down
+
+Click Create filter once again
+
+Gmail subfolders: What they are & how to create them
+
+Gmail’s label feature allows you to nest labels under an existing one, similar to creating a traditional subfolder. To create a subfolder using nested labels, follow these steps:
+
+Open Gmail on your computer and navigate to the sidebarHover over an existing label and click the three dots that appearScroll down to Add sublabel, then enter a name for the subfolderClick Create to complete the process.
+
+Open Gmail on your computer and navigate to the sidebar
+
+Hover over an existing label and click the three dots that appear
+
+Scroll down to Add sublabel, then enter a name for the subfolder
+
+Click Create to complete the process.
+
+You can also use the following method to create a subfolder:
+
+Click on the + icon and create a new labelEnter a name for your labelClick the Nest label under tab and choose your preferred parent labelClick Create to finish the process
+
+Click on the + icon and create a new label
+
+Enter a name for your label
+
+Click the Nest label under tab and choose your preferred parent label
+
+Click Create to finish the process
+
+Other helpful ways to manage your Gmail folders
+
+Creating labels that function as folders or subfolders in Gmail is one way to tidy up your inbox. However, you’ll need to manage the labels over time to keep your inbox organized and current. This section will explain how to:
+
+Edit foldersDelete foldersColor-code folders
+
+Edit folders
+
+Delete folders
+
+Color-code folders
+
+Editing a folder in Gmail
+
+Instead of adding new folders, you can edit existing folders as needed on your desktop or iOS app. Here’s how to do so on the desktop:
+
+Go to Gmail and navigate to LabelsHover over the label you wish to edit and click the three dots that appearClick Edit to modify the label name, then Save to finish
+
+Go to Gmail and navigate to Labels
+
+Hover over the label you wish to edit and click the three dots that appear
+
+Click Edit to modify the label name, then Save to finish
+
+To edit your folders in the iOS app, take these steps:
+
+Open the Gmail app and then tap the three lines in the top leftScroll down, then tap SettingsIn the new screen that appears, choose your preferred Gmail accountScroll down on the next page and tap Label settings under LabelsSelect the label you want to edit and enter a new name
+
+Open the Gmail app and then tap the three lines in the top left
+
+Scroll down, then tap Settings
+
+In the new screen that appears, choose your preferred Gmail account
+
+Scroll down on the next page and tap Label settings under Labels
+
+Select the label you want to edit and enter a new name
+
+Deleting a folder in Gmail
+
+If you no longer use a folder or created one in error, delete it to avoid building clutter. Here’s what to do:
+
+Go to Gmail and find the folder you want to deleteHover over it and click on the three dots that appearIn the drop-down menu, click Remove label and then Delete to finish the process
+
+Go to Gmail and find the folder you want to delete
+
+Hover over it and click on the three dots that appear
+
+In the drop-down menu, click Remove label and then Delete to finish the process
+
+Deleting a folder will not delete the emails inside from your inbox. Head to your All Mail folder to find them.
+
+Keep reading: Wondering how to delete junk and unwanted emails at once? Try these Gmail cleaner apps.
+
+Color-coding a folder in Gmail
+
+Assigning colors to your labels makes them easier to identify. Here’s how to color-code your labels:
+
+Open Gmail and hover over the label you want to add a color toClick on the three dots that appear and then select Label colorChoose a color from the options provided
+
+Open Gmail and hover over the label you want to add a color to
+
+Click on the three dots that appear and then select Label color
+
+Choose a color from the options provided
+
+Creating folders in Gmail using labels: Is it worth it?
+
+While Gmail labels offer a flexible alternative to traditional folders, they can quickly become tedious and difficult to manage, especially as your inbox grows. Setting up a label system that actually helps often requires time and dedication. If you want to automate the process, you need to create detailed filters and assign rules for different senders or topics.
+
+After creating specific auto-label rules for every sender or subject variation, you’ll need to constantly make manual adjustments to keep your inbox truly organized. This inbox micromanagement can quickly become a significant time and energy drain. And without the constant upkeep, these label-based “folders” often end up just as cluttered and overwhelming as an unorganized inbox.
+
+If you’re looking for a more intuitive method of managing your inbox, consider a Gmail client that leverages AI to handle your email organization effortlessly, saving you valuable time and mental resources.
+
+Notion Mail, for instance, is a powerful Gmail client that uses AI and simple language prompts to automatically sort your incoming emails. Its AI auto labeling feature makes inbox organization much more intuitive, and you can trigger it in three simple ways:
+
+From specific domains: It will identify emails from domains like your favorite delivery service or a subscription service and label them accordingly.From specific senders: Just indicate which email addresses you want to be grouped, and Notion AI will automatically sort those emails in your desired folder. With specific phrases: Provide keywords or phrases like “Urgent,” “Customer Inquiry,” and “Action Required,” and it’ll file them in the designated folder.
+
+From specific domains: It will identify emails from domains like your favorite delivery service or a subscription service and label them accordingly.
+
+From specific senders: Just indicate which email addresses you want to be grouped, and Notion AI will automatically sort those emails in your desired folder.
+
+With specific phrases: Provide keywords or phrases like “Urgent,” “Customer Inquiry,” and “Action Required,” and it’ll file them in the designated folder.
+
+Get AI-powered inbox management with Notion Mail
+
+Notion Mail is an AI-driven email management tool for busy professionals and individuals who need an automated, hands-off approach to inbox organization. It gives you all the tools you need to deal with clutter at the root and keep it that way without constant manual sorting.
+
+In addition to its AI auto label feature, here are some other ways Notion Mail can help you manage your inbox effortlessly:
+
+Customizable views: Create focused “inboxes within an inbox” tailored to specific projects or workflows, allowing you to quickly spot emails that need your attention.Keyboard shortcuts: Use shortcut keys to get things done faster—archive, trash, and forward emails with simple keyboard commands.Automated scheduling: Schedule meetings directly within your emails; use the /schedule command to add a schedule button within emails to avoid back-and-forth.
+
+Customizable views: Create focused “inboxes within an inbox” tailored to specific projects or workflows, allowing you to quickly spot emails that need your attention.
+
+Keyboard shortcuts: Use shortcut keys to get things done faster—archive, trash, and forward emails with simple keyboard commands.
+
+Automated scheduling: Schedule meetings directly within your emails; use the /schedule command to add a schedule button within emails to avoid back-and-forth.
+
+Beyond core inbox management, Notion Mail offers other AI-powered features to boost your email efficiency, including:
+
+Quick repliesEmail summariesSnippetsAuto-replies/follow-ups
+
+Quick replies
+
+Email summaries
+
+Snippets
+
+Auto-replies/follow-ups
+
+Notion Mail exclusively supports Gmail accounts, so all you need to do is connect your Gmail or Google account to get instant access to the tool and power up your inbox.
+
+Sign up for Notion Mail
+
+Notion Mail is free forever and offers many features upon signing up. Getting started is pretty straightforward—all you need to do is sign up now with a Gmail or Google account. If you want to take it a step further and leverage more advanced features, purchase the  for more AI assistance.
+
+Bonus read: In the list below, you can find more in-depth guides on organizing and troubleshooting your email, as well as unbiased reviews and comparisons:
+
+Gmail account not receiving emailsGmail vs. Apple MailBusiness Gmail vs. personal GmailBest Gmail app alternativesYmail vs GmailProton Mail vs. GmailHow to find unread emails in GmailHow to delete an email account on your iPhone
+
+Gmail account not receiving emails
+
+Gmail vs. Apple Mail
+
+Business Gmail vs. personal Gmail
+
+Best Gmail app alternatives
+
+Ymail vs Gmail
+
+Proton Mail vs. Gmail
+
+How to find unread emails in Gmail
+
+How to delete an email account on your iPhone

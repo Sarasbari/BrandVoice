@@ -1,0 +1,161 @@
+Title: Fundraising for startups
+Published Date: 2021-10-13T09:00-07:00
+URL: https://www.notion.so/blog/startup-fundraising-templates
+
+You’ve got a great idea, and you’ve laid the foundations for a good team. So far, you’ve been able to get by just bootstrapping your startup. Now you’re ready to debut your minimal viable product (MVP) and secure funds to keep your new business scaling.
+
+Fundraising marks an exciting turning point in the startup lifecycle. But it’s also full of landmines. A missed meeting with an investor, a disorganized data room, or an outdated due diligence doc — these mistakes can threaten your company's future. You’ll need a watertight fundraising process so you don’t waste all your hard work.
+
+Here’s everything you need to know about the basics of funding a startup, along with templates for every step to keep the process organized.
+
+What’s startup funding?
+
+Startup business funding, or startup capital, is the money you need to launch, grow, and develop your new business. Funds will cover expenses like:
+
+StaffingSoftware applicationsProduct creation and developmentMarketingOffice space and hardware
+
+Staffing
+
+Software applications
+
+Product creation and development
+
+Marketing
+
+Office space and hardware
+
+Most startups aren’t profitable right away. So unless you suddenly win the lottery, chances are you’ll need funding from grants or investors to build capital and pay for your business operations.
+
+6 ways to fund your startup
+
+There are many ways to finance your startup, from digging into your own pockets to finding an angel investor who believes in you and wants to share equity. Check out these main types of funding for startups:
+
+1. Self-funding
+
+Self-funding, or bootstrapping, uses your personal savings and other assets to back your business. This is a great way to get your business off the ground since you’ll have complete control over your money and decision-making.
+
+But the downside is that you’ll need a lot of savings, and you’ll be solely responsible for the success or failure of your business. Depending on whether you register the business as a sole proprietorship or as a corporation, like an LLC or a C Corp, you may have to file for personal bankruptcy if it goes under.
+
+2. Crowdfunding
+
+Crowdfunding raises funds from people in your private network, like friends and family, or through online platforms like Kickstarter or GoFundMe. People interested in your product contribute startup capital to help you get off the ground, and at the same time, you start building a loyal customer base. The drawback to running a crowdfunding campaign is that it can be time-consuming, and there’s no guarantee that you’ll reach your funding goal.
+
+3. Loans
+
+You can borrow money from banks or other lending institutions, like credit unions or the U.S. Small Business Administration (SBA), to fund your startup. You’ll need to apply for a startup or small business loan, get approved, and pay it back with interest.
+
+Choose this option if you need a large sum of money upfront, but be aware that loans can be risky if you can’t make payments and need to default on them. Carefully review the loan conditions before diving in.
+
+4. Grants
+
+Grants are funds from government organizations, foundations, or other institutions that you don’t have to pay back. This type of startup capital is great if your project aligns with a specific grant provider’s interests.
+
+Unfortunately, grant applications can be time-intensive, involve several rounds, and be competitive. There’s no guarantee you’ll get a grant, and it may take time to disburse funds even after you’ve been approved.
+
+5. Private equity firms
+
+Private investors, like venture capital (VC) firms and angel investors, can fund your startup in exchange for a share of ownership. Choose this if you’re looking for a larger sum of money. The downside to accepting private equity is that you’ll dilute your ownership and control over your startup, especially if you have a lot of investors.
+
+6. Incubators and accelerators
+
+Incubators and accelerators are foundations or government organizations that go above and beyond to support startups. Along with financial assistance, they usually also provide office space, mentorship, and networking opportunities in exchange for equity in your company.
+
+This can be a valuable opportunity if you need support and guidance in the early stages of your business. But, as with private equity firms, you’ll have to give up a portion of ownership in your business.
+
+How does startup funding work?
+
+Startup funding normally happens through several rounds. Depending on the type of funding you’re after, the process will be a little different.
+
+Self-funding and crowdfunding are informal processes that don’t require much setup beyond creating a website or a page on an online crowdfunding platform. But loans, grants, incubators, and accelerators generally require an application process, which can take months.
+
+And if you want to secure private equity in the form of venture capital or private investments, you’ll probably go through a funding series. You’ll need to start with a company valuation, in which a business valuation professional assesses your startup’s worth based on its financial performance and market position. A formal valuation helps potential investors decide whether working with you is a good investment. As your company matures, its value can increase, making it easier to secure more cash.
+
+Then you can start approaching investors for your funding series. Funding series start with a seed round, with subsequent rounds labeled A, B, C, and so forth. Different funding rounds have different purposes:
+
+Seed round — this first round of funding provides the money you’ll need to get your business off the ground.Series A — now that you’ve launched your company, Series A helps you scale business operations and expand your market share.Series B and beyond — by this point, your startup should be fairly established. These later series help you expand your operations or prepare for an initial public offering (IPO).
+
+Seed round — this first round of funding provides the money you’ll need to get your business off the ground.
+
+Series A — now that you’ve launched your company, Series A helps you scale business operations and expand your market share.
+
+Series B and beyond — by this point, your startup should be fairly established. These later series help you expand your operations or prepare for an initial public offering (IPO).
+
+Remember, with each round of funding, you’ll dilute your equity in the company, so you’ll need to decide what’s best for you and your startup team. Ask yourself if you need the funds and if it’s worth the trade-off of relinquishing shares to investors.
+
+How to get startup funding: A step-by-step guide
+
+If building a business is like launching a rocket, securing funding is how you’ll achieve liftoff. But securing capital can be a minefield of complex processes and paperwork. Here are some steps to help you kickstart your funding process:
+
+1. Determine how much funding you need
+
+Start by figuring out how much money you’ll need to cover initial startup costs and ongoing operating expenses, like equipment, office space, employee salaries, and marketing costs. Do this by creating a budget plan that factors in potential changes or contingencies.
+
+2. Create a business plan
+
+Your business plan should outline everything you know:
+
+Your company's goalsMissionTarget marketMarketing tacticsSales strategiesCompetitionFinancial projections
+
+Your company's goals
+
+Mission
+
+Target market
+
+Marketing tactics
+
+Sales strategies
+
+Competition
+
+Financial projections
+
+A business plan provides a roadmap for your startup, and it helps investors evaluate your potential for success and decide whether they should invest in you.
+
+Highlight what makes your business unique and explain why getting involved should excite investors. Remember, your plan won't be set in stone. You’ll almost definitely revise it as you go through the funding process and your business evolves.
+
+3. Gather important documents
+
+Before pitching your business to potential investors or lenders, you’ll need to gather all the important documents they’ll use to evaluate your startup. This includes your business plan, financial statements, and legal documents like articles of incorporation and applicable licenses.
+
+Make sure all the information is organized and easy to understand, and that you can address any questions that potential investors may have.
+
+4. Choose a funding type
+
+Not every startup’s going to get millions of dollars from top investors right away — and not every startup needs that kind of cash. There are several different types of funding options out there, and they’re all good options, depending on your business needs.
+
+If you don't have an established track record, crowdfunding may be a good place to begin, since private equity firms may not be interested in you just yet. But later-stage startups may prefer private equity firms that will give more money for a larger share of the business.
+
+5. Get started
+
+Now it's time to start applying for grants and loans and pitching your business to potential investors. Network, attend investor conferences, and submit applications for relevant loans and grants. Prepare ahead and have answers to common questions about your business, financial projections, and plans for growth.
+
+If you receive funding, congratulations! Use it wisely and keep accurate financial records to ensure your startup's success. Someone’s investing in you because they want you to succeed — so show them you can.
+
+Streamline your startup funding plan with Notion
+
+Securing funding requires quite a few steps, from building pitch decks to managing investor contacts. With our connected workspace, you can take control of your startup funding workflow by accessing all the tools you need in the same space. Check out these Notion startup funding request templates to get you off the ground.
+
+The pitch deck that helped this startup raise $20 million
+
+Impress investors with an interactive Notion page, like Argyle, which raised its Series A with this funding template.
+
+Every investor wants different details. Why not let them choose? The template lets them explore Notion galleries that showcase your major use cases, clients, and team, and click on any gallery to get more detail. Anticipate possible questions they might have about your business without overwhelming them with information.
+
+The investor tracker that systemizes outreach
+
+Don’t drop the ball and accidentally email an investor you’ve already pitched, or show up to a meeting unprepared. This funding template helps you keep tabs on every contact and your communication history with them. Filter contacts by status, write meeting notes directly inside the page, and view your meeting schedule as a calendar. Manage your contacts from one page — no matter how many investors you're wooing.
+
+Draft your YC application with this template to maximize feedback
+
+Y Combinator (YC) is a strong startup accelerator, but if you’re applying to them, you’ll have a lot of competition. This YC template is optimized for reviewers, so they can easily scan your application answers through the table of contents. Most importantly, you can set granular permissions so select individuals can comment and edit without sharing it publicly.
+
+Diligence docs to stay on top of every investor question
+
+“Be prepared” is an understatement when you're in the due diligence stage of fundraising. You’ll need to stay one step ahead of the game to understand your total addressable market, provide tax info, and know your customer profiles. These Notion templates from Air help you prepare all these items for sharing with the click of a button.
+
+Ready, set, launch!
+
+Whether you decide to bootstrap or secure venture capital, kick off your startup with an organized funding process that gets your business off the ground.
+
+Lean on Notion to keep everything in one place and show potential investors exactly why they should believe in you. Start from one of the templates above, or take a look at this investor update template and this fundraising database. You can get started with Notion today for free.

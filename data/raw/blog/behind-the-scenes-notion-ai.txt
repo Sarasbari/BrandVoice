@@ -1,0 +1,79 @@
+Title: The crucial moments and decisions leading up to the launch of Notion AI
+Published Date: 2023-11-30T00:00-08:00
+URL: https://www.notion.so/blog/behind-the-scenes-notion-ai
+
+Almost exactly one year ago, my Co-Founder Simon and I were eating tacos, figuring out how we could build AI into Notion. We were the last ones on a team-building offsite, extending our stay three days to finish prototyping.
+
+Less than a month after that offsite, we launched Notion AI in private alpha. Our hope was to have a couple hundred thousand people sign up on the waitlist. There ended up being 2M+.
+
+Now, millions of users have adopted Notion’s AI Writer and AI Autofill to summarize content, brainstorm, write a rough draft, do translations, and improve writing and grammar (my favorite). Just two weeks ago, we launched Q&A — a new Notion AI product that helps you get answers to your questions using information across your workspace.
+
+Looking back, those months leading up to the launch of Notion AI in private alpha were foundational to how we’d approach AI moving forward. Here are the crucial moments and decisions that made it happen.
+
+We weren’t impressed with early AI. Then it all changed.
+
+In 2019, Simon and the team went to OpenAI’s office to get a demo of GPT-3. This was about one year before GPT-3 launched in June 2020. They asked the model, “Why are there so many chipmunks in Colorado?” It gave back a completely made up answer, and the limits of the technology were clear.
+
+I also remember playing with the early GPT-3 playground and thinking it was interesting…while also wondering what someone would do with it besides produce a bunch of low-quality content. But still, there was a gap. It wasn’t smart enough yet.
+
+Over the next several months, Simon would watch the AI space closely. DALL-E was the first really big thing that caught his attention. In early 2021, he began creating amazing images and sharing them with us all on Slack. It felt like we were on the edge of having really powerful models compared to what we’d seen in the past.
+
+In the fall of 2022, we got early access to GPT-4. Then we realized the potential of what AI could become.
+
+The model was so much smarter. Before this, most AI behaved like autocomplete, basically like text regurgitation. When I used GPT-4 for the first time I thought: holy shit, this thing can actually “think.”
+
+In that moment, we understood AI could help us realize our mission for Notion: to make software toolmaking ubiquitous. A lot of the reason we built Notion is rooted in computer pioneer Doug Engelbart’s 1962 paper Augmenting Human Intellect: A Conceptual Framework. Engelbart saw computers as machines that had the power to help us solve our problems, instead of the room-sized calculators they were at the time.
+
+We knew then AI would be a step in this direction — people would be able to better mold a computer to their needs and augment their thinking to get even more out of their tools. Notion included.
+
+The foundation of Notion AI was prototyped in a hotel room
+
+AI technology was changing fast and that GPT-4 demo showed us how quickly AI could (and would) improve. There were already AI tools out there. On the horizon, we could see a wave of companies bringing AI technology into their products.
+
+There were two things Simon and I knew: AI would bring immense value to our users, and we’d be the first company to introduce AI into our product.
+
+There were also many things we didn’t know: exactly what we’d do with AI, how we’d do it, and what UI it would take (to name a few).
+
+We figured many of these things out during a company-wide offsite.
+
+Looking back, this ended up being the perfect time to prototype AI. Everyone from our global offices was in one place. The company overall was quiet (fewer interruptions from Slack). We spent much of the week jamming in our hotel room with a few members of the product and engineering teams.
+
+I was sitting on the couch working. Simon was on the other couch. We were up late. We stayed three extra days so we could finish the prototype and ate tacos at the same restaurant for almost every meal. It didn’t just feel like the old Notion days in Kyoto — where we moved the company after it almost failed in 2015, completely rebuilt the product, and coded in our underwear all day. It was exactly the same. We loved it.
+
+By the end of the retreat, we had completed the prototype and made several important decisions about the product in that process.
+
+We had to create a completely new UI for AI writing — given current AI technology and our product use cases, it made the most sense to start with a writing tool. But there weren’t any good, interactive writing interfaces out there yet. At the time, most UIs were like filling out a form that produced content (content you’d copy-paste to be used somewhere else). Our design challenge was much different: bring AI into Notion in a natural way.Balancing the use of pre-packaged prompts with more general text input — similar to Notion templates that work out of the box, we wanted to use pre-packaged prompts to give users an easier entry point to understand and use AI. Currently, Improve writing is the most used Notion AI feature. But we also wanted to give people a way to ask AI to do specific things via a prompt, thus allowing them to mold the AI to their needs. We had to give both experiences equal weight in the product.How to access AI — we already had the / command where you can do just about everything in Notion. There was a debate to make this AI’s entry point as well. Instead, we decided to create a new entry point using the spacebar, which would require users to break some habits (we got early feedback it wasn’t intuitive). Despite this, we had conviction the UX had to be simple and instantly accessible.Making AI opt-in or on by default — after some internal debate, we decided to make AI on by default. Simon and I both had conviction that we didn’t want to bifurcate our product and create a situation where we’re building different versions of Notion (one with AI, and one without). Though, if you’re on the Enterprise plan, you can toggle AI off.What other use cases we’d like to explore — we knew that people store valuable information in Notion, and we thought AI could provide a way for them to access that information faster and easier. We first started exploring Q&A during this time, along with the global search bar.
+
+We had to create a completely new UI for AI writing — given current AI technology and our product use cases, it made the most sense to start with a writing tool. But there weren’t any good, interactive writing interfaces out there yet. At the time, most UIs were like filling out a form that produced content (content you’d copy-paste to be used somewhere else). Our design challenge was much different: bring AI into Notion in a natural way.
+
+Balancing the use of pre-packaged prompts with more general text input — similar to Notion templates that work out of the box, we wanted to use pre-packaged prompts to give users an easier entry point to understand and use AI. Currently, Improve writing is the most used Notion AI feature. But we also wanted to give people a way to ask AI to do specific things via a prompt, thus allowing them to mold the AI to their needs. We had to give both experiences equal weight in the product.
+
+How to access AI — we already had the / command where you can do just about everything in Notion. There was a debate to make this AI’s entry point as well. Instead, we decided to create a new entry point using the spacebar, which would require users to break some habits (we got early feedback it wasn’t intuitive). Despite this, we had conviction the UX had to be simple and instantly accessible.
+
+Making AI opt-in or on by default — after some internal debate, we decided to make AI on by default. Simon and I both had conviction that we didn’t want to bifurcate our product and create a situation where we’re building different versions of Notion (one with AI, and one without). Though, if you’re on the Enterprise plan, you can toggle AI off.
+
+What other use cases we’d like to explore — we knew that people store valuable information in Notion, and we thought AI could provide a way for them to access that information faster and easier. We first started exploring Q&A during this time, along with the global search bar.
+
+Here is where the real work would begin to turn our prototype into a product. Less than one month later, we’d launch Notion AI in private alpha.
+
+Navigating the launch from across the world
+
+Then we spent the next month in build-mode.
+
+The week of launch coincided with a trip Simon and I took to Japan. The time difference made it difficult to wrap up many of the launch items: polishing the AI demo for press, conducting interviews, editing our website, finalizing the UX, making sure the waitlist worked. These elements all needed to come together to make a successful launch moment. But we also had a series of commitments for the Japan trip. To balance it, we were up all hours of the night.
+
+A huge part of that trip was also attending a community event in Kyoto — which is a very special place for us. The first lines of Notion code were written here.
+
+It was a full-circle moment. We knew we were on the eve of something big for Notion and something big for our users. It felt right to be in Japan at this time. Launches sometimes feel like the end. In this case we knew it was only the beginning.
+
+AI, Notion, and what’s next for us
+
+We launched Notion AI in private alpha in November 2022. We spent 10 weeks gathering vital user feedback before February 2023, when Notion AI became generally available to tens of millions of users. And just this month, we added Q&A to our AI features.
+
+At the core of how we build AI moving forward is…you. The user. The human.
+
+We want to democratize AI so people can use it to enhance their most common workflows: accessing knowledge, running projects, managing meetings.
+
+Maybe, we’ll see that AI actually acts as an extension of our human agency. With fewer distractions we can focus more on the work that makes us human — like creativity and critical thinking. To get there, we believe AI must be a companion you can mold to your needs (much like Notion itself!). We want to figure that out.
+
+No matter where we go, the philosophy remains unchanged: help people solve their problems with technology. AI gives us a whole new way to do that — we’re extremely excited to leverage it in the best, most useful way possible for everyone.

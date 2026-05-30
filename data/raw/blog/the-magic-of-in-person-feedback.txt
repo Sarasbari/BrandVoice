@@ -1,0 +1,33 @@
+Title: The Magic of In-Person Feedback
+Published Date: 2025-01-14T10:00-08:00
+URL: https://www.notion.so/blog/the-magic-of-in-person-feedback
+
+It’s a pretty rare treat to meet one thousand of your users in person. So, at our first user conference last year, we took full advantage of the opportunity and set up a Feedback Corner. All comers were asked one question: “What should we build in 2025?”
+
+There, we met Yujan, a physician, engineer, and consultant. He has been using Notion with his eighteen-person team at Innolitics for six years as an all-in-one system for compliant medical device software and AI development.
+
+Before they switched to Notion, it took his team two years to prepare FDA approval documentation using Google Docs.
+
+Their use of Notion templates has facilitated over fifty FDA clearances, and their custom-built software, Medtech OS—powered by the Notion API—allowed them to create the repeatable systems necessary to complete the process in just three months.
+
+Yujan had lots of positive feedback, but it was his notes on where we could do better that really stuck with us. There were ways we could better support Yujan’s industry by introducing features like enhanced API capabilities and Notion AI improvements. To dig even deeper into this use case, we followed up with Yujan’s team to discuss their feedback and workflows in more detail, and we’ve now incorporated their insights into our annual planning process.
+
+Fewer surveys, more face-to-face stories
+
+Meeting our users face-to-face changed everything about how we think about feedback. Could we have sent out another survey? Sure. But sitting down with someone, looking them in the eye, and asking how we can help them achieve their dreams allows us to focus on solving their problems on a whole other level.
+
+At Make with Notion, we collected over one hundred pieces of feedback across eleven product surfaces through informal, in-person conversations. We heard stories from a range of industries about ways to improve the Notion experience, from professional Notion builders who are selling meal-planning templates to large enterprises that make software that reaches millions of people.
+
+Simple design, big ideas
+
+We kept things simple in the Feedback Corner by following our core design principles: build real connections by listening—really listening—to what people have to say. Create an intimate, beautifully designed space to invite people in and make them feel welcome. Keep things casual so people feel comfortable sharing unexpected ideas.
+
+And they did! People opened up about how they use Notion and what they’d like to see us do more or less of. In those conversations, we weren’t just collecting feature requests, we were building relationships that we can rely on for feedback again and again.
+
+For example, we had a long conversation with author, sociologist, and—in her own words—“student of productivity” Sam Ladner about her upcoming book and how AI could change the world around us. She shared how she is planning to use Forms in a user-research and foresight template that she’s building for sociologists, anthropologists, and researchers. After giving it a try, Sam reached out to request a way to make Forms work with page templates—a popular request that we are prioritizing for the next release!
+
+Getting back to the why
+
+User insights like Sam’s will shape our product roadmap for 2025 and beyond, especially for improving mobile and performance. But, more than that, these conversations reminded us why we do this work: to help people build amazing things.
+
+Gathering feedback through a variety of channels is always essential—but if you have the chance to meet your users in person and ask them one simple question, there’s nothing quite like it. ✨

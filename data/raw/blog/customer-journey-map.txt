@@ -1,0 +1,107 @@
+Title: What’s a customer journey map?
+Published Date: 2023-09-18T00:00-05:00
+URL: https://www.notion.so/blog/customer-journey-map
+
+Put yourself in your customer’s shoes.
+
+They have a problem or gap, and they’re looking for a company that can fix it. And yours will.
+
+But understanding that you’re the customer’s solution doesn’t mean you automatically know how they feel or what their path will be when they visit your website and hit checkout.
+
+Learning about the customer experience journey gives you the insight you need to enhance your product's development toward their needs. Here’s how to create a customer journey map that leads the way.
+
+What’s a customer journey map?
+
+A customer journey map, or a user journey map, is a visual representation of the process that people go through when interacting with your company — from beginning to end. You can use this information to tailor your strategies to your target audience, referring to their emotions, needs, and perspectives in the process.
+
+In marketing, the customer journey has five main stages:
+
+Awareness — this is the beginning of the journey where people become aware of your service, product, or brand. They might not need you yet, but through educational content, you could highlight problems the customer never knew they had.Consideration — during this stage, the customer might see that the solution to their problem lies with you, whether that’s through their own research or your marketing.Decision — they take a look at their options and compare your offerings to competitors to see which is best. If you’re lucky, this is when they choose you.Conversion — a customer buys your services or products, whether at a physical store or online.Retention — it’s your responsibility to maintain a positive relationship and promote further engagement. You can do this through personalized communication, rewards programs, or outstanding customer support.
+
+Awareness — this is the beginning of the journey where people become aware of your service, product, or brand. They might not need you yet, but through educational content, you could highlight problems the customer never knew they had.
+
+Consideration — during this stage, the customer might see that the solution to their problem lies with you, whether that’s through their own research or your marketing.
+
+Decision — they take a look at their options and compare your offerings to competitors to see which is best. If you’re lucky, this is when they choose you.
+
+Conversion — a customer buys your services or products, whether at a physical store or online.
+
+Retention — it’s your responsibility to maintain a positive relationship and promote further engagement. You can do this through personalized communication, rewards programs, or outstanding customer support.
+
+These are just the main stages of the journey. You can break these down into more detailed interactions and touchpoints to create more in-depth plans. The customer experience doesn't end with a single transaction — it covers all stages and channels they go through.
+
+Why use a customer journey map?
+
+You can never really know what it’s like to experience your business with a fresh set of eyes. A customer journey map is the closest you can get, showing your marketing, transaction, and retention processes from the customer's perspective. It also offers:
+
+Customer understanding — take a better look at the pain points and motivations that draw people to you. Using these insights allows you to tailor interactions and services to your target audience. Personalization — knowing who your customers are and what they do helps you personalize their experience. You can provide timely solutions and offers that actually interest them. Increased sales — people will buy more when you give them the right incentives and create systems that serve their journeys. And the more you satisfy customers, the higher your retention rates will fly.Detecting inefficiencies — the customer journey map lets you more clearly identify areas for improvement, whether they’re in the purchase stage through frustrating payment options or the decision stage through a lack of content.
+
+Customer understanding — take a better look at the pain points and motivations that draw people to you. Using these insights allows you to tailor interactions and services to your target audience.
+
+Personalization — knowing who your customers are and what they do helps you personalize their experience. You can provide timely solutions and offers that actually interest them.
+
+Increased sales — people will buy more when you give them the right incentives and create systems that serve their journeys. And the more you satisfy customers, the higher your retention rates will fly.
+
+Detecting inefficiencies — the customer journey map lets you more clearly identify areas for improvement, whether they’re in the purchase stage through frustrating payment options or the decision stage through a lack of content.
+
+But like any other business tool, the mapping process doesn’t have it all. Some flaws include:
+
+Insufficient customer data — the foundation of a customer journey map is information. Without actionable details, you can’t realize any of the above benefits. This can become an issue when you’re just starting out and don’t yet have data to pull from. Irrelevant data collection — the above point goes the other way around. Collecting too much data or looking for it in the wrong places could slow down your process and lead to inaccurate journeys. Not updating maps — much like other marketing channels, you have to constantly update customer journey maps. Your audience will inevitably change, and staying ahead of the curve keeps you from missing out on them.
+
+Insufficient customer data — the foundation of a customer journey map is information. Without actionable details, you can’t realize any of the above benefits. This can become an issue when you’re just starting out and don’t yet have data to pull from.
+
+Irrelevant data collection — the above point goes the other way around. Collecting too much data or looking for it in the wrong places could slow down your process and lead to inaccurate journeys.
+
+Not updating maps — much like other marketing channels, you have to constantly update customer journey maps. Your audience will inevitably change, and staying ahead of the curve keeps you from missing out on them.
+
+Luckily, you can avoid most of these drawbacks by planning ahead and revisiting your customer journey map every few months.
+
+What a customer journey map includes
+
+Customer journey mapping should include the five stages of the user journey: awareness, consideration, decision, conversion, and retention. But filling in the details takes a little extra work. Here are a few other things to outline as part of your customer journey map:
+
+Buyer personas — a persona is a generalized idea of who your customer is, including their goals, needs, and demographics. This makes it easier to tailor their experience and humanize the journey. Emotions — how do you want customers to feel when they interact with your business? Excited? Relieved? Mind-blown? Keeping these feelings in mind helps you tailor the messaging and branding within your map. Pain points — these are the frustrations or obstacles your target audience will experience during their journey. These could include anything from slow customer support to a website with bad UX design. Solutions — every pain point should have a persona-oriented solution, no matter what step in the journey it falls into.
+
+Buyer personas — a persona is a generalized idea of who your customer is, including their goals, needs, and demographics. This makes it easier to tailor their experience and humanize the journey.
+
+Emotions — how do you want customers to feel when they interact with your business? Excited? Relieved? Mind-blown? Keeping these feelings in mind helps you tailor the messaging and branding within your map.
+
+Pain points — these are the frustrations or obstacles your target audience will experience during their journey. These could include anything from slow customer support to a website with bad UX design.
+
+Solutions — every pain point should have a persona-oriented solution, no matter what step in the journey it falls into.
+
+How to create a customer journey map: 6 steps
+
+From goal-setting to implementation, building a customer journey map is a journey in itself. Here are the steps you should follow to create a detailed and accurate one that captures the customer experience:
+
+1. Determine goals
+
+Setting goals right off the bat shows you and your team what to work toward. Who is this map for? Does it align with the broader objectives of your business? What are your overarching goals when it comes to profits and reach? These will inform the rest of your decisions.
+
+2. Do persona research
+
+Before creating a buyer persona (or multiple), you need to research your audience. Social media, market research, and Google Analytics can help you find out who you’re catering to. A customer feedback survey is also a great idea, especially if you’re starting from scratch.
+
+3. Define customer touchpoints
+
+Customer touchpoints are people’s interactions with your brand or product. Try to list as many as possible, and then consider their impact on customer experience. Identify how they’re going and which might require attention. Something like the checkout process will have a larger impact on the customer experience than the color of your website buttons, so use your time and resources accordingly.
+
+4. Create an outline
+
+Use your research and data to start mapping out a visual representation of your customer journey. This will usually look like a table, a flowchart, or a combination of both. You’ll see everything at once and spot potential issues.
+
+5. Include emotions and actions
+
+Now that you have an outline, you can plug in more information. Include the emotions that customers are likely to experience — or the ones you want them to experience — throughout the various stages of the journey. Doing this on the map itself can show you how those emotions influence a customer’s steps. If they’re enthusiastic about your product, they might be more likely to make a purchase. But if your payment system frustrates them, they could press pause.
+
+6. Experience and improve
+
+Treat your customer journey map like a living document. It’s more than okay not to get everything right the first time. Analyze the impact of your decisions and pinpoint every opportunity for change, big and small.
+
+Customer journey map example
+
+Using a customer journey map template is the easiest way to plug in your information and start making high-impact decisions. This template from Notion has sections for user stages, personas, and touchpoints, along with detailed pages for each step of the process.
+
+Easy customer journey mapping with Notion
+
+Notion’s connected workspace gives your team a hub for planning, analysis, and execution — no matter what stage your business is at. Explore your user journey, gauge customer decision-making, and organize all of your team’s data with thousands of customizable templates. Reaching your audience has never been easier.

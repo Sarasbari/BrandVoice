@@ -1,0 +1,35 @@
+Title: We're SOC 2 type 2 complaint — here's what it means for you
+Published Date: 2021-08-10T06:00-07:00
+URL: https://www.notion.so/blog/notion-soc-2-compliant
+
+Notion is a company built on trust. Whether it's your company data or your personal journal, you trust us to protect your most important information. That's why security and privacy have always been top priorities. Since the beginning, we've worked closely with experts on application security assessments, security architecture reviews, network penetration testing, and bug bounty programs.
+
+Today, we're excited to announce that we've received our SOC 2 Type 2 report, reaffirming our commitment to security and making all our efforts in this area transparent to our users. As the engineering owner of our technical SOC 2 controls, I'm here to give you a detailed breakdown of what this unlocks for you, and how we're protecting your data.
+
+Why SOC 2 now
+
+With remote work becoming the norm, we've seen a sharp increase in the number and size of companies using Notion. Many of our customers have over 1,000 people collaborating in the same space. We've seen startups ideate, fundraise, and recruit with Notion, and major enterprises deploy it wall-to-wall.
+
+But none of this would be possible without our champions — the incredible individuals inside teams and companies that have brought Notion to work with them, built great workspaces, and helped so many other gets value out of the tool.
+
+This SOC 2 report is for them. We want to make it easier than ever for current and future champions to see and share all our security and privacy measures. So if you've been wanting to use Notion at your company, now’s the time to bring it in.
+
+What's in the report?
+
+Essentially, this report confirms that Notion hits the highest industry standards when it comes to keeping information safe. It was authored by a rigorous independent auditor, and includes detailed explanations of our:
+
+Strong authentication controls and limited access to data — We complete individual computer audits with JAMF, and we limit access to customer data to those who need it to do their job.Continuous controls monitoring and incident response — We run continuous compliance monitoring to ensure that the key configurations our controls rely upon are in place, and that we're able to quickly respond to any issues that may arise.Employee security awareness — We run background checks prior to hiring and provide security training for all employees during onboarding and on an ongoing basis.
+
+Strong authentication controls and limited access to data — We complete individual computer audits with JAMF, and we limit access to customer data to those who need it to do their job.
+
+Continuous controls monitoring and incident response — We run continuous compliance monitoring to ensure that the key configurations our controls rely upon are in place, and that we're able to quickly respond to any issues that may arise.
+
+Employee security awareness — We run background checks prior to hiring and provide security training for all employees during onboarding and on an ongoing basis.
+
+Ongoing efforts
+
+SOC 2 compliance is not a one-and-done thing — it's a commitment. And it's important that we stay flexible as we evolve. Notion went into remote work with 35 employees and now has 150 across San Francisco and three new offices in New York, Tokyo, and Dublin. As we hire more people in more specialized roles, the SOC 2 process will help us establish checkpoints and make sure security defines every move we make.
+
+If you're a Notion customer and want to learn more, reach out to your Account Executive or Customer Success Manager to see our full SOC 2 Type 2 report. And if you're thinking about potentially bringing Notion into your team or company, you can contact sales here and mention you're interested in receiving a copy.
+
+More detail about our commitment to security and privacy lives here. And of course, we're always happy to answer questions about this or anything else at [email protected].

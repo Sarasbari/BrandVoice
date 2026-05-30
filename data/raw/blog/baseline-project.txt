@@ -1,0 +1,73 @@
+Title: Learn the importance of creating a project baseline
+Published Date: 2023-01-23T11:00-06:00
+URL: https://www.notion.so/blog/baseline-project
+
+Projects require maps.
+
+They need clearly defined tasks and metrics to keep everyone moving toward the end goal— the X marking the spot.
+
+Cue project baselines. These documents cover all expectations regarding a project, like responsibilities and deadlines, preparing everyone involved for success.
+
+What’s a project baseline?
+
+Project baselines detail a project's goals, deliverables, resources, and timeline. These plans show a team’s starting point and initial targets, while also showing how daily tasks fit into the larger picture and contribute to the main objective.
+
+Baselines increase team productivity by helping employees prioritize the most important and impactful items first. Projects don’t always develop according to plan—but baselines serve as a reference point for measuring progress and identifying deviations from the original outline.
+
+4 benefits of having a project baseline
+
+Here are four advantages of creating a baseline:
+
+Improve estimations — get an overview of the project by defining the time, team, and materials that will be required to accurately complete it. Then use this information to allocate project resources and avoid potential problems like insufficient time or money.Track project progress — easily identify everyone’s responsibilities at each project stage. And if a team member falls behind schedule, project baselines help you identify what’s stalling the project. Prepare for roadblocks — minimize workflow disruptions and keep to the predetermined schedule by predicting bottlenecks and challenges. Knowing what materials you need and when, for example, will help you understand when to purchase supplies in order to avoid delays.Improve stakeholder relationships — provide a clear, detailed plan to stakeholders so they understand how their investment is affecting a project’s progress.
+
+Improve estimations — get an overview of the project by defining the time, team, and materials that will be required to accurately complete it. Then use this information to allocate project resources and avoid potential problems like insufficient time or money.
+
+Track project progress — easily identify everyone’s responsibilities at each project stage. And if a team member falls behind schedule, project baselines help you identify what’s stalling the project.
+
+Prepare for roadblocks — minimize workflow disruptions and keep to the predetermined schedule by predicting bottlenecks and challenges. Knowing what materials you need and when, for example, will help you understand when to purchase supplies in order to avoid delays.
+
+Improve stakeholder relationships — provide a clear, detailed plan to stakeholders so they understand how their investment is affecting a project’s progress.
+
+4 types of project baselines
+
+Here are project baseline plan examples you can use to manage progress:
+
+Cost baseline — use a cost baseline project management plan to specify the total project cost and prices for individual phases to track spending against the budget and identify deviations. If you have a budget of $50,000, for instance, you might dedicate $15,000 to design and research, $20,000 to development and testing, $10,000 to marketing and outreach, and $5,000 as a buffer. Scope baseline — outline your project’s scope to determine what to include or exclude at every phase. For example, a project scope baseline to build a new website would outline specific features and functionality developers plan to add and potential dates for each item’s release.Schedule baseline — project schedules specify when each task or phase should start and end, with specific dates. For example, a project with a deadline of six months might have a schedule baseline breaking down expected daily, weekly, and monthly due dates and milestones.Quality baseline — outline the quality level that’s expected for each task or deliverable. For a software app project, the quality baseline generally includes requirements for user experience, performance, security, and accessibility. Set these metrics at the start of the project to ensure the finished product meets expected standards.
+
+Cost baseline — use a cost baseline project management plan to specify the total project cost and prices for individual phases to track spending against the budget and identify deviations. If you have a budget of $50,000, for instance, you might dedicate $15,000 to design and research, $20,000 to development and testing, $10,000 to marketing and outreach, and $5,000 as a buffer.
+
+Scope baseline — outline your project’s scope to determine what to include or exclude at every phase. For example, a project scope baseline to build a new website would outline specific features and functionality developers plan to add and potential dates for each item’s release.
+
+Schedule baseline — project schedules specify when each task or phase should start and end, with specific dates. For example, a project with a deadline of six months might have a schedule baseline breaking down expected daily, weekly, and monthly due dates and milestones.
+
+Quality baseline — outline the quality level that’s expected for each task or deliverable. For a software app project, the quality baseline generally includes requirements for user experience, performance, security, and accessibility. Set these metrics at the start of the project to ensure the finished product meets expected standards.
+
+How can I build a baseline for a project?
+
+Baselines can focus on an individual project feature, like quality or timelines. But they can also provide an overview of the project as a whole. Here’s a step-by-step process for building a standard project baseline:
+
+Define project goals and outcomes. Knowing what your project aims to achieve is the first step to setting a baseline. If the project is to create a new marketing campaign, one goal might be increasing brand awareness by 20% with an outcome of generating 100 leads. The more specific the objective and key results that you set, the better.Break the project into milestones. Having smaller steps to complete makes it easier for teams to understand how they’ll achieve their main objectives. You might break a marketing campaign project into phases like research and planning, creative development, and execution, with a milestone marking the end of each.Assign Directly Responsible Individuals (DRIs) for every milestone. Determine who’s responsible for each project milestone, including all underlying tasks. These designations foster accountability and eliminate confusion. Split milestones into tasks. Break the project into small, manageable pieces and assign each item to a single individual. Splitting a research and planning milestone into sections like market research, target audience analysis, and messaging development means different people or teams can focus on each task. Further, break large sections into items like “create social posts” and “define competitors” in order to make clear which individual owns each task.Decide how much time each milestone and task should take. Create a timeline for your project and do your best to ensure that you’re allocating enough time to complete each item.
+
+Define project goals and outcomes. Knowing what your project aims to achieve is the first step to setting a baseline. If the project is to create a new marketing campaign, one goal might be increasing brand awareness by 20% with an outcome of generating 100 leads. The more specific the objective and key results that you set, the better.
+
+Break the project into milestones. Having smaller steps to complete makes it easier for teams to understand how they’ll achieve their main objectives. You might break a marketing campaign project into phases like research and planning, creative development, and execution, with a milestone marking the end of each.
+
+Assign Directly Responsible Individuals (DRIs) for every milestone. Determine who’s responsible for each project milestone, including all underlying tasks. These designations foster accountability and eliminate confusion.
+
+Split milestones into tasks. Break the project into small, manageable pieces and assign each item to a single individual. Splitting a research and planning milestone into sections like market research, target audience analysis, and messaging development means different people or teams can focus on each task. Further, break large sections into items like “create social posts” and “define competitors” in order to make clear which individual owns each task.
+
+Decide how much time each milestone and task should take. Create a timeline for your project and do your best to ensure that you’re allocating enough time to complete each item.
+
+Now you’re ready to start the project. While you and your team are working on it, you should continue to use this baseline to:
+
+Track progress — as your project progresses, it's important to keep tabs on key performance indicators (KPIs) like cost, schedule, and quality, compare them to the baseline, identify any deviations from the original plan, and make any necessary adjustments.Report results — after completing a project, report on the results and compare them to initial benchmarks. For example, consider the project’s actual cost to the original budget. If the actual price was significantly higher or lower than the budget, investigate the reasons for the variance and consider ways to improve cost management for future projects. Following project baseline test results over time provide insight into how well teams perform and areas for improvement in future projects.
+
+Track progress — as your project progresses, it's important to keep tabs on key performance indicators (KPIs) like cost, schedule, and quality, compare them to the baseline, identify any deviations from the original plan, and make any necessary adjustments.
+
+Report results — after completing a project, report on the results and compare them to initial benchmarks. For example, consider the project’s actual cost to the original budget. If the actual price was significantly higher or lower than the budget, investigate the reasons for the variance and consider ways to improve cost management for future projects. Following project baseline test results over time provide insight into how well teams perform and areas for improvement in future projects.
+
+Manage your projects with Notion
+
+Project baselines are a game-changer for project management. They provide a clear and detailed plan at the outset of the project that serves as a reference point throughout the project lifecycle. Establishing baselines for schedule, cost, scope, quality, and resources helps teams stay organized, track progress, and identify issues before they become blockers.
+
+Start creating and tracking your projects with Notion, a powerful productivity and project management tool that can help you manage your projects more effectively. To begin, learn how to use Notion’s template gallery to find every document you need.

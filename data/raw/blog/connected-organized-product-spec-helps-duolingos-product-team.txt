@@ -1,0 +1,89 @@
+Title: Optimizing Team Efficiency with Duolingo's Product Spec Template
+Published Date: 2023-05-03T00:00-07:00
+URL: https://www.notion.so/blog/connected-organized-product-spec-helps-duolingos-product-team
+
+As teams grow, it gets harder to keep information organized. This results in a lack of clarity where people don't know what to build, why it's important, or how to keep cross-functional partners organized in a scalable way.
+
+Natalia Castillejo, Group Product Manager at Duolingo, saw this first hand on the product organization. Approvals were ad hoc, key pieces of information (like PRDs, research, strategy docs, etc.) were hard to find, and meetings were unfocused.
+
+So the team went back to the drawing board to answer one question: how do we make sure everyone has the right information they need to make better and smarter product decisions?
+
+Natalia and team rebuilt their product spec doc in Notion. It’s the central point between people and information, combining context with detailed takeaways to keep everyone on track to launch the best — and most impactful — product possible.
+
+A hypothesis that creates clarity at different levels
+
+Product teams often sit at the center of work, collaborating with almost every team across the company. But each stakeholder doesn’t need the same level of detail.
+
+“When you have teams spread out across the product organization like we do, building consistently and cohesively becomes even more important,” says Natalia. “If people don’t have the right information, it can get in the way of building the product we want.”
+
+For example, leadership might want a high-level summary of the work, while cross-functional partners need more depth and detail into what the product spec is testing.
+
+Natalia created two sections to make sure everyone has the right information.
+
+They use the Hypotheses section to define their experiment in-depth. The team follows a useful framework to make sure each hypothesis is most impactful.
+
+Each hypothesis should be:
+
+Tentative: The hypothesis can be refined based on the outcome of one or more experimentsFalsifiable: It can be proven wrongTestable: Evidence can be gathered to support or disprove the hypothesis through  experimentsGeneralizable: Findings about the hypothesis from one experiment can be applied to future experiments
+
+Tentative: The hypothesis can be refined based on the outcome of one or more experiments
+
+Falsifiable: It can be proven wrong
+
+Testable: Evidence can be gathered to support or disprove the hypothesis through  experiments
+
+Generalizable: Findings about the hypothesis from one experiment can be applied to future experiments
+
+From there, the team then builds out a basic one-line description that gives leadership a high-level overview of the experiment at the top of the doc. But this short description does more than just define their product experiment.
+
+Different altitudes of the hypothesis give all readers enough information to understand what's happening at both a high level and in a deeper way.
+
+Duplicate Duolingo's product spec template here →
+
+Add context to your spec by connecting all work in one place
+
+The more cross-functional a project is, the harder it becomes to unify all the parallel workstreams and updates. This negatively impacts how teams can collaborate because they lack important context.
+
+Natalia noticed some product spec review meetings brought many of these challenges to light. Conversations were unfocused and unproductive, leaving the team with more questions than answers.
+
+So Natalia and team built in areas that better connect work throughout their product spec and add more context around what they’re testing:
+
+The Meeting Goals section defines every product spec review so the team can leave each meeting with specific points of feedback.Background and Summary of Changes is where the team expands on the one-line hypothesis and brings in learnings from previous experimentThe Related Work area collects docs, research, meeting notes, or tasks that are relevant to the projectIn the Design and Interaction section, the team includes design files embedded from Figma and additional screenshots to show exactly what’s expected to change in the product
+
+The Meeting Goals section defines every product spec review so the team can leave each meeting with specific points of feedback.
+
+Background and Summary of Changes is where the team expands on the one-line hypothesis and brings in learnings from previous experiment
+
+The Related Work area collects docs, research, meeting notes, or tasks that are relevant to the project
+
+In the Design and Interaction section, the team includes design files embedded from Figma and additional screenshots to show exactly what’s expected to change in the product
+
+Bringing information together into the product spec means cross-functional partners don’t need to worry about chasing down information in multiple tools or falling behind. There’s one source of truth in Notion that connects all parts of the project so teams have the right information and can easily find it in the future.
+
+Duplicate Duolingo's product spec template here →
+
+Use qualitative and quantitative feedback to make sure teams build the right thing
+
+For Natalia, gathering feedback is a way to incorporate meaningful insights into product specs, iterate on ideas, and build plans for new products — all based on actual user data.
+
+For a fast-moving product team like hers, getting that feedback is especially important to help ensure they’re building with focus (and avoiding scope creep). Natalia and team rebuilt the product spec to account for both quantitative and qualitative feedback.
+
+The Quantitative Feedback section connects the project to its key metrics. It’s broken down into three areas:
+
+Success metrics: What the experiment is trying to test, which often align with team OKRs. For example, “daily revenue” or “daily active users”Feature metrics: The impact of the feature being tested. For example, “number of users starting a free trial from the feature”Guardrail metrics: Important business metrics to monitor that may be negatively impacted by this experiment. For example, “feature may increase daily revenue but might harm number of daily active users”
+
+Success metrics: What the experiment is trying to test, which often align with team OKRs. For example, “daily revenue” or “daily active users”
+
+Feature metrics: The impact of the feature being tested. For example, “number of users starting a free trial from the feature”
+
+Guardrail metrics: Important business metrics to monitor that may be negatively impacted by this experiment. For example, “feature may increase daily revenue but might harm number of daily active users”
+
+The Qualitative Feedback section includes comments from both internal testing and formal user research. It's a chance to look outside the numbers and provide a different kind of insight into what they’ve learned, what may need to change, and what to build upon in the future.
+
+A product spec built for focus and alignment
+
+Work is more powerful when everyone — your team, partners, and leadership — are aligned. But when context is scattered and impact is unclear, it’s nearly impossible to effectively get things done.
+
+That’s why Duolingo built this product spec template in Notion. It helps the product team connect and organize information in a way that keeps everyone moving in the same direction. With context and clarity in one place, they’re more effective and focused than ever.
+
+To try Duolingo's product spec template, get started by duplicating it here.

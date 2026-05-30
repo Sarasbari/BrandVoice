@@ -1,0 +1,103 @@
+Title: What is backlog grooming? Project management 101
+Published Date: 2023-07-26T00:00-06:00
+URL: https://www.notion.so/blog/backlog-grooming
+
+Prioritization is a part of daily life.
+
+Even if you’re just running errands, you likely start with the tasks that make the most significant impact or upon which other tasks depend. You can’t print copies of the presentation you’ll give tomorrow if you haven’t finished making the slides.
+
+While this type of thinking may come naturally, the longer a to-do list gets, the more challenging it is to follow. On cross-functional projects, to-do lists — also known as backlogs — often host a daunting amount of tasks.
+
+Project teams need a method for triaging and streamlining massive to-do lists. And the solution is backlog grooming.
+
+What’s backlog grooming?
+
+Backlog grooming — which some call story time, user story grooming, or backlog refinement — is how Agile teams review and refine project to-do lists. It’s the process of combing through existing lists to spot potential time-savers or missed deadlines so the rest of the project runs as smoothly as possible.
+
+Your team should meet regularly to perform backlog grooming sessions and ensure that the list contains tasks relevant to both project and company goals. You should also review the backlog in preparation for upcoming sprints, prioritizing which tasks to perform in the next iteration of work. And for best results, someone should guide the conversation — whether a project or product manager, Scrum master, or team representative.
+
+Backlog grooming activities
+
+Backlog meetings should have tight schedules to help your team organize efficient sprints, open conversations about tasks, and estimate the effort of upcoming work without wasting time. In backlog grooming sessions, you should:
+
+1. Add and remove user stories
+
+A project shifts quickly from the product roadmapping phase to a finished output. And throughout that process, user stories and tasks might become irrelevant or outdated. Grooming is your opportunity to remove them from the backlog. Similarly, add user stories that become important for stakeholders as the project progresses and new information arises.
+
+A development team creating a banking app might remove a user story for a pop-up about promotional loan rates when those rates are no longer a priority. This same team could add a feature that graphs savings progress, assuming that feature better matches the client’s vision for the app.
+
+2. Reprioritize
+
+Priorities shift, and sometimes your team’s to-do list doesn’t quite keep up. Backlog grooming is your chance to assess current tasks against changing organizational, client, and product requirements and ensure that high-priority ones are closest to the top.
+
+If the end client wants the development team to prioritize one feature over another — like the savings graph instead of the loan pop-up — the order of operations should change to meet that need. You’d push the desired feature higher up the backlog and into an upcoming sprint.
+
+3. Review story points
+
+Before launching a project, many Agile teams use story points to estimate the weight of pending tasks. You know how many points your team can complete in a sprint, so assigning these rankings to user stories lets you only take on the work you have the bandwidth to complete. If you finish 15 story points in a sprint and each story is worth three points, you could take on five stories in a sprint.
+
+But you may find some tasks are weightier than you initially thought and you need to shift estimations. A development team may assign three points to a user story, like creating an easy inter-account transfer system for the banking app, and find that it should be five points instead. Backlog grooming sessions let you reassign those ratings and take on only the work you can handle.
+
+4. Split stories
+
+User stories should be the smallest unit of work in the Agile methodology, but again, you don’t always estimate correctly. That’s normal. Backlog grooming gives you a chance to break bloated user stories into smaller ones so they’re easier to complete.
+
+That development team might have thought that creating an easy-to-use banking app home screen was one user story when it’s actually several, splitting the work between separate user stories for savings and checking home screens.
+
+The benefits of backlog grooming
+
+Backlog grooming often sounds like one more task your team has to complete. And isn’t the point of grooming to whittle work down to the essentials?
+
+Yes, grooming takes effort. But it saves your team the time and frustration of completing unnecessary or redundant tasks. Here’s why holding a backlog grooming session is worth it:
+
+Everyone stays in the loop — one of the central motivations behind backlog grooming is to review task relevancy with everyone’s opinions in mind. It ensures that everyone is aware of changes and knows what their responsibilities are. Agile methodology thrives on transparency and teamwork, and backlog grooming is no different.Backlog sessions encourage order — to-do lists become chaotic when you keep adding new tasks to the list. Your team needs to run backlog grooming sessions to prioritize, limit, and score every step, keeping the list sleek and efficient. Grooming creates better documentation — when you think of who backlog grooming affects, the team executing the to-do list likely comes to mind. But backlogs are collaborative documents that many stakeholders access. Keeping these lists as tidy as possible helps people outside the project see progress and priorities.
+
+Everyone stays in the loop — one of the central motivations behind backlog grooming is to review task relevancy with everyone’s opinions in mind. It ensures that everyone is aware of changes and knows what their responsibilities are. Agile methodology thrives on transparency and teamwork, and backlog grooming is no different.
+
+Backlog sessions encourage order — to-do lists become chaotic when you keep adding new tasks to the list. Your team needs to run backlog grooming sessions to prioritize, limit, and score every step, keeping the list sleek and efficient.
+
+Grooming creates better documentation — when you think of who backlog grooming affects, the team executing the to-do list likely comes to mind. But backlogs are collaborative documents that many stakeholders access. Keeping these lists as tidy as possible helps people outside the project see progress and priorities.
+
+Understanding the backlog grooming process
+
+Backlog grooming encourages efficiency, transparency, and intelligent workflows. It also meets a project’s changing needs. With so many benefits, you’re likely eager to add a session to your team’s calendar.
+
+Here’s more about who to invite, when to schedule your gatherings, and how to prepare:
+
+Who
+
+Backlog grooming meetings are collaborative, but that doesn’t mean everyone has to attend. Instead, invite the following essential participants and hold an efficient session:
+
+The person running the meeting, often a product owner, Scrum master, or team leaderThe product owner or manager, whether or not they’re leading the sessionRepresentatives from teams like quality assurance or customer success who can offer valuable insights
+
+The person running the meeting, often a product owner, Scrum master, or team leader
+
+The product owner or manager, whether or not they’re leading the session
+
+Representatives from teams like quality assurance or customer success who can offer valuable insights
+
+When
+
+Run a backlog grooming session around two or three days before the end of each sprint. The length of your sprints will determine how often these meetings fall. If you work in two-week chunks, you can expect to have backlog grooming sessions approximately every 14 days. That way, you enter every new sprint with a refreshed task list.
+
+How
+
+If you’re attending a backlog session, familiarize yourself with the user stories on the list beforehand and prepare thoughts to share. Maybe you believe a user story is worth reprioritizing or cutting — plan to make this case to the group. Just make sure to tie your thinking back to the goals and needs of the organization, stakeholders, and client.
+
+3 backlog grooming best practices
+
+You’ve gathered the right group, made notes on every user story, and come to the table eager to review the backlog. Here’s how to ensure a successful product backlog grooming session:
+
+Consider dependencies — some tasks are dependent, meaning the team has to finish one before they can begin another. Keep dependencies in mind as you shift or remove user stories so you don’t accidentally place them out of order.Don’t over-groom the list — sprints move quickly, and if your team finishes tasks fast, they might have an empty to-do list. As a rule of thumb, have at least two sprints’ worth of backlog items left on the list after a grooming session, so everyone knows what’s coming and can work ahead when the opportunity arises.Ensure your backlog is DEEP — DEEP stands for detailed appropriately, estimated, emergent, and prioritized; these parameters should describe all items on your backlog. It ensures every task has the depth and flexibility it needs to be achievable.
+
+Consider dependencies — some tasks are dependent, meaning the team has to finish one before they can begin another. Keep dependencies in mind as you shift or remove user stories so you don’t accidentally place them out of order.
+
+Don’t over-groom the list — sprints move quickly, and if your team finishes tasks fast, they might have an empty to-do list. As a rule of thumb, have at least two sprints’ worth of backlog items left on the list after a grooming session, so everyone knows what’s coming and can work ahead when the opportunity arises.
+
+Ensure your backlog is DEEP — DEEP stands for detailed appropriately, estimated, emergent, and prioritized; these parameters should describe all items on your backlog. It ensures every task has the depth and flexibility it needs to be achievable.
+
+Keep your projects on track with Notion
+
+Backlog grooming is just one of a robust set of project management activities that keep work on track. Notion has guides and templates to support them all.
+
+Use Notion’s product management system to organize work and a roadmap to keep it on track. Centralize team information with product wikis, and develop your next project with help from a process guide and strategy how-to.

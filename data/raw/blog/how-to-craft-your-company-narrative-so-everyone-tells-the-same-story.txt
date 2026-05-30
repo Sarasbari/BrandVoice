@@ -1,0 +1,125 @@
+Title: How to craft your company narrative so everyone tells the same story
+Published Date: 2023-06-21T08:45-07:00
+URL: https://www.notion.so/blog/how-to-craft-your-company-narrative-so-everyone-tells-the-same-story
+
+Let’s do a quick exercise. Open your notebook to a blank page. Describe your company in a sentence. Write down the names of your top 5 customers. Add your company’s north star metric and how you’re trending towards it. Jot down an upcoming launch you’re excited about. Now ask a couple colleagues to do the same and compare notes. What do you notice?
+
+Many of the teams I do this exercise with are surprised to learn just how far apart responses can be. How can two people who work at the same company, attend the same All Hands, read the same company newsletter, and participate in the same Slack, arrive at such disparate conclusions about the company basics?
+
+The truest answer is, everyone at the company is having a unique experience–team members start at different items, have different team-level priorities, are managed by people with different communication styles, and are guided by different personal and professional interests. That’s a good thing! But it shouldn’t get in the way of keeping everyone on the same page about what’s important to the organization, collectively.
+
+Keeping everyone aligned is one of the hardest scaling challenges. But it’s so important to get right. A common lexicon will help everyone communicate more effectively with each other and those outside of the company. And, sharing language has a neat way of making everyone feel more connected.
+
+If you only create one artifact, create your Company Messaging.
+
+This template has a little bit of everything–company history, users, stats, and messaging guidance.
+
+The goal is that everyone is describing your company, your products, and your users in the same way, and that it’s described in a way you’re proud of. No matter how meticulous you are about the copy on your About Us page, your employees are going to be the highest-leverage channel for reinforcing that message–whether they’re doing sales calls, recruiting, making small talk at an industry event, out for a meal with friends, or stopped on the street by a stranger while wearing some company swag.
+
+This is a great place to reinforce company lore. Stories can be more memorable and more fun to share than your quippiest marketing tagline.
+
+Check out Brie's Company Messaging template here
+
+If you want to go even deeper, here are some more templates and exercises to try.
+
+About Our Team Artifacts
+
+Company Values: How everyone agrees to strive to act when working together
+
+Any organization requires a massive amount of coordination between all different kinds of people, with all different styles, and all different charters. A shared agreement about how to get the work done and how to make decisions between reasonably good options is going to make the work better and bring your team closer. It should be impossible to get through a day at your company without hearing them.
+
+When you establish your operating principles, you are creating a contract between all employees, in any corner of your organization and at any level, that states:
+
+“I believe that striving to do this will make our work better, and ultimately help us succeed.”“This is how I will strive to act when I am working with you.”“I want you to act this way with me when you are working with me.”“When I lose sight of these values, please remind me. I will do the same for you.”
+
+“I believe that striving to do this will make our work better, and ultimately help us succeed.”
+
+“This is how I will strive to act when I am working with you.”
+
+“I want you to act this way with me when you are working with me.”
+
+“When I lose sight of these values, please remind me. I will do the same for you.”
+
+A few best practices to keep in mind:
+
+Good operating principles are both reflective and aspirational. They express how everyone agrees they want to work on their best days, and help get things back on track on the hard days.Every phrase should easily roll off the tongue. When writing yours, role play the scenarios in which you hope someone would use a phrase to identify someone doing great work or to course-correct something that’s going off-track.For really good operating principles, a reasonable person should be able to disagree. Everyone wants to be “high integrity.”3-10 is probably the right number of company values.
+
+Good operating principles are both reflective and aspirational. They express how everyone agrees they want to work on their best days, and help get things back on track on the hard days.
+
+Every phrase should easily roll off the tongue. When writing yours, role play the scenarios in which you hope someone would use a phrase to identify someone doing great work or to course-correct something that’s going off-track.
+
+For really good operating principles, a reasonable person should be able to disagree. Everyone wants to be “high integrity.”
+
+3-10 is probably the right number of company values.
+
+Use the Operating Principles template by clicking here.
+
+Employee Value Proposition: Why someone would want to work at our company
+
+Imagine a candidate you really, really hope joins has multiple offers, why would they pick your company?
+
+At its core, this is a marketing exercise. Companies often invest a lot of energy into positioning and messaging their product, and I think it’s worth dedicating at least some of that energy to marketing the company/team. The people building your company and product matter a lot!
+
+Tips:
+
+To get to the right inputs, interview recent hires and great candidates that decided to join other companies instead.Use this as an opportunity to clarity any warts or turnoffs, and how to handle conversations about those topics in the interview process.People care the most about compensation (salary, equity, bonus), community (colleagues, company culture), and growth (learning, promotions).
+
+To get to the right inputs, interview recent hires and great candidates that decided to join other companies instead.
+
+Use this as an opportunity to clarity any warts or turnoffs, and how to handle conversations about those topics in the interview process.
+
+People care the most about compensation (salary, equity, bonus), community (colleagues, company culture), and growth (learning, promotions).
+
+Use the Employee Value Proposition template by clicking here.
+
+About Our Customers Artifacts
+
+User Personas: Knowing our users and what they care about
+
+The users you choose to focus on (and not to focus on) will impact almost everything your company does. Prioritize strategically. And do as good of a job communicating that to everyone internally as you would in your go-to-market strategy.
+
+The goal is that your employees can picture your product in the hands of a real user. Personas can come alive through colorful, human details while segments are naturally faceless and a little rote.
+
+Tip: Include information about the watering holes your users hang out in, and encourage your team to spend time in them, too.
+
+Competitor Battlecards: Knowing our competitors and how we stack up against them
+
+Understanding your competitors is an important part of understanding your ecosystem and the role you play in it. Competitor battlecards articulate how you stack up against the other major players in your space.
+
+The founder of Walmart, Sam Walton, was famous for studying his competition. He would walk into the stores of competitors with a tape recorder or notepad and ask employee’s questions about how the store operated. One thing I really appreciate about his approach is that was always looking for something his competitors could teach him.
+
+"Look for the good. If you get one good idea, that's one more than you went into the store with, and we must try to incorporate it into our company. We're really not concerned with what they're doing wrong; we're concerned with what they're doing right and everyone is doing something right."
+
+It’s a great approach to help your team strike the right balance between over-rotating on and dismissing the work others in your space are doing.
+
+Use the Competitor Battlecard template by clicking here.
+
+About Our Business Artifacts
+
+Company target(s): The number(s) we are all working to hit, together
+
+You know you have the right set of metrics when 1/ you can look at them and have a real understanding of how the business is doing and 2/you can use your metrics to influence behavior.
+
+Reporting progress towards those metrics is a great way to not only remind everyone about what’s important but also maintain a clear-eyed perspective about how things are going.
+
+Tips:
+
+Early on, consider orienting around great experiences of individual users versus averages across all users. This may mean looking at performance of top user(s) only, seeing if a single customer can beat its previous best on a metric (or get overtaken by another user), or maintaining some bar for activity over an increasingly sustained period of time.Make these meme-able if you can. Targets of 0 or 100 are easy to remember.
+
+Early on, consider orienting around great experiences of individual users versus averages across all users. This may mean looking at performance of top user(s) only, seeing if a single customer can beat its previous best on a metric (or get overtaken by another user), or maintaining some bar for activity over an increasingly sustained period of time.
+
+Make these meme-able if you can. Targets of 0 or 100 are easy to remember.
+
+Shareholder letter: Telling your company’s story
+
+Amazon and Berkshire Hathaway showed us what it looks like to turn a corporate update into poetry. Writing a shareholder letter creates a meaningful moment of reflection for company owners at all levels.
+
+When you write your’s, strive for making this a joy to read over a cup of coffee. If it’s fun for you to write, it’ll probably be fun for others to read.
+
+To get there, bias towards more storytelling than reporting. It’s a great opportunity to humanize the company and its goingson. Do this by drawing connections between things that might feel dissimilar in the run of work, helping employees see themselves and their work in the overall strategy, sharing powerful anecdotes of things that happened within the walls of the company and the impact you had on users, and highlighting glimmers of progress towards achieving your long-term goals. The magic of the letter will lie in how well you can weave it all together into a coherent narrative.
+
+Check out all of Brie's templates on her creator profile in the Templates Gallery.
+
+This is a guide to creating the artifacts that anyone in an organization can refer to keep that company-critical information straight. To take a page from former Stripe COO Claire Hughes Johnson’s (literal) book, creating these artifacts is a part of the critical process of making the implicit, explicit. It’s the most effective way to scale cohesively and it can benefit companies of any size, stage, and composition.
+
+The goal isn’t to turn everyone at the company into some kind of corporate messaging bot. Instead, I like to think about it like creating sheet music for an orchestra. Each instrument has their own role and sound, but the music that emerges is coordinated, cohesive, and beautiful.

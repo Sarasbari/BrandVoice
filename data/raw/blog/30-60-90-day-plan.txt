@@ -1,0 +1,131 @@
+Title: How to write a 30-60-90 day plan: An ultimate guide
+Published Date: 2023-07-26T00:00-06:00
+URL: https://www.notion.so/blog/30-60-90-day-plan
+
+Starting a new job is a whirlwind for employees.
+
+But it’s the same for employers. You have to handle the training and onboarding process, all while helping new hires settle in and become functional employees.
+
+One of the worst ways to handle a new employee is to slap a signature on their paperwork and shuffle them off into a cubicle with little or no communication. They won’t know how to navigate their new role or who to go to with questions. And you aren’t likely to retain employees who feel lost and underappreciated.
+
+Putting a clear plan in place remedies this problem. And a 30-60-90 day plan covers the onboarding process in just three months, giving you and new hires all the time you need to adjust efficiently.
+
+What’s a 30-60-90 day plan?
+
+A 30-60-90 day plan is a document that lays out a 90-day onboarding process, split into three 30-day chapters. It sets work guidelines, illustrates how a new hire fits within an organization, and outlines key projects they’ll work on in that time. And creating a 30-60-90 day plan for managers gives you the chance to draw up manageable SMART goals and milestones that fall within your business's overall mission.
+
+You’ll usually draw up this document during the final interview process when you make the decision to hire someone, setting goals for them at 30, 60, and 90-day intervals. This helps new hires understand expectations and avoid the all-too-common scenario where they’re stuck twiddling their thumbs while waiting for instruction.
+
+Why have a 30-60-90 day plan?
+
+A 30-60-90 day plan is more than just a benefit for new hires. It's a way for HR departments to simplify and remove confusion from the onboarding process. Here are six more of the many benefits to both employee and employer:
+
+1. Sets expectations
+
+When you hand a new employee a document with a checklist of quantifiable expectations, it makes onboarding that much easier. Employees know the expectations they need to meet, and employers rest assured that hiring managers have communicated everything new hires should know.
+
+2. Increases productivity
+
+With a clear set of expectations and tasks for their first 90 days, new hires can start working from day one. Even if the first 90 days include nothing but training activities, having a set plan structures the process and supports employees along the way.
+
+3. Sets goals
+
+All those expectations come with a set of goals. At every step of the plan, you’ll outline the things new employees need to accomplish. These goals should align with your company mission and be more personal to someone’s day-to-day activities, like setting up email signatures and recording voicemail greetings. They could also include more technical goals like learning the company CRM software or memorizing the database server map.
+
+4. Reduces stress
+
+A documented plan goes a long way toward eliminating the stress of starting a new job. Employees you’re onboarding will know what to expect and can see a picture of their first 90 days instead of wondering what their next move will be, streamlining the process of integrating new hires.
+
+5. Empowers employees
+
+Many plans also outline important projects or provide examples of the type of work a new hire will perform on the job. This empowers new employees to self-manage their learning by knowing what they need to absorb and how that applies to their work.
+
+6. Communicates priorities
+
+Managers and employees both communicate their priorities when training starts. A 30-60-90 day plan documents them with goals, education timelines, and expectations. This level of communication will carry over into long-term employment — a practical benefit of implementing a plan into your hiring process.
+
+The elements of a 30-60-90 day plan
+
+While a 30-60-90 day plan could vary from employee to employee and department to department, the structure generally remains the same. These are the four elements to include:
+
+Overall focus
+
+For each 30-day block, outline a general focus. The first 30 days might start with new job training, while the 30 days could center on integrating with project teams. That way, each goal is easier to track.
+
+Priorities
+
+Break down the general focus points into specific tasks like completing software training or writing project proposals. Working from a list will help a new hire prioritize their time in the first 90 days.
+
+Goals
+
+List short-term goals that encompass new skills and company-specific information. These could be daily or cover the entire plan; it’s up to you and the needs of the role. If relevant, tack on performance goals like scoring high on software tests or creating a set number of new spreadsheets. Then try for some personal goals, such as learning the names of fellow employees or simply filling out their contact information in your team knowledge base.
+
+Metrics
+
+While goals help new hires find their place in an organization, metrics help managers know where those new hires stand. Identify a metric for each goal, such as testing scores or the number of viable project proposals. Managers can then track progress through stats rather than guesswork.
+
+How to write a 30-60-90 day plan
+
+To set the focus, priorities, and goals for a new hire, you’ll want to think about why you hired that person in the first place. Align the plan with that reasoning from the start.
+
+Here are the steps you need to take to write a 30-60-90 day plan:
+
+1. Set up the company mission
+
+Start with the overall company mission, vision, and values. This will inform the focus of new hires and align their goals with the organization's.
+
+2. Write 30-day objectives
+
+Fill out your new hire’s priorities and goals for the first 30 days of their employment. This is what sets them up for success, so spend some intentional time here. The first weeks are usually about learning, so factor those steps into your plan with a clear schedule. Include at least one metric to ensure your new hire stays on track.
+
+3. Follow with 60 and 90-day objectives
+
+After the first 30 days, new employees still need direction and purpose to be productive. Your 60 and 90-day sections should also contain priorities and goals, but begin to move your new hire closer to their day-to-day work and projects. Metrics here would focus on actual production rather than training.
+
+4. Include a resource bank
+
+Provide your new hire with team wikis, email contacts, and any relevant internal documents to get them up to speed faster. If a doc is pertinent to their position, make sure it appears in the plan at some point.
+
+30-60-90 day plan example
+
+An abridged 30-60-90 day plan for a project manager might look something like this:
+
+30-day
+
+Overall focus — learn about the company mission and product offerings
+
+Priorities — complete knowledge base training modules
+
+Goals — learn about product features, begin using proprietary software, and compile customer lists
+
+Metrics — score 80% or higher on knowledge base training modules
+
+60-day
+
+Overall focus — propose three new projects
+
+Priorities — complete meetings with SMEs to learn about project needs and current projects
+
+Goals — write three new plans based on current needs, and assist SMEs in developing current projects in a learning capacity
+
+Metrics — discuss SME meetings during manager
+
+90-day
+
+Overall focus — prepare to lead your first project
+
+Priorities — create at least one project plan based on earlier proposals
+
+Goals — gain a complete understanding of product knowledge, and assist SMEs on current projects in a functional capacity
+
+Metrics — track successes on current projects and present new project plans to management
+
+30-60-90 day plan template
+
+Here’s an example of a Notion-based 30-60-90 day plan template. There’s space for basic information like the person’s name and start date, as well as key company info and priorities, and it splits the latter details into 30-day increments:
+
+Take your team to the next level with Notion
+
+Once you've written your 30-60-90 day plan for new hires, continue the onboarding process with Notion templates.
+
+Visual onboarding and new hire guides will streamline hiring, but if you're in a hurry, Notion's rapid onboarding guide can quickly prepare everyone for success.

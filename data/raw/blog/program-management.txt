@@ -1,0 +1,121 @@
+Title: Program management: Best practices, tools & templates
+Published Date: 2023-09-28T00:00-05:00
+URL: https://www.notion.so/blog/program-management
+
+As a manager, your eyes are always on several moving parts.
+
+On a typical day, you interface between leadership and team members, observing the status of three projects and your daily workflows to ensure your team finishes every monthly deliverable.
+
+With so many to-dos and team members to follow up on, it’s easy to get stuck on granular tasks, deliverables, and deadlines and lose sight of the bigger picture.
+
+Program management — managing several interconnected projects at once — makes it easier to keep track of everything. And, although it requires careful planning and constant communication, it ensures that the final result is greater than its parts.
+
+What’s program management?
+
+Program management is a method to coordinate multiple, interconnected projects that aim to achieve a common strategic objective. It involves synchronizing various teams, sharing resources, and aligning timelines to ensure that the collective projects contribute to overarching organizational goals.
+
+Imagine a development team revamping the user experience across several related products and services. Projects might include:
+
+A design overhaul of product interfaces, ensuring all products share the same brand guidelinesStandardizing commands across devicesIntegrating a shared cloud-based system for user preferences across services
+
+A design overhaul of product interfaces, ensuring all products share the same brand guidelines
+
+Standardizing commands across devices
+
+Integrating a shared cloud-based system for user preferences across services
+
+Rather than each team working in separate bubbles, team members communicate progress and collaborate to ensure the program outcome is cohesive across projects. Throughout the process, managers can identify opportunities for project synergies, streamline workflows, and optimize resource allocation to ensure all teams work efficiently and effectively.
+
+Program management versus other types of management
+
+Understanding the nuances between different types of management frameworks can help you choose the right approach for your team. Let’s dive into the distinctions of the most common types:
+
+Program management versus project management
+
+Both program management and project management oversee the completion of tasks and deliverables to reach a larger goal — but the scope and depth differ. Program management manages several interconnected projects, while project management follows a single, specific project to completion.
+
+While there are several types of project management (like Agile project management and Waterfall project planning), the smaller, singular scope might allow project managers to build more detailed-oriented action plans and focused deadlines.
+
+Program management versus project portfolio management
+
+Portfolio management and program management share similarities in scope and depth, but portfolio management takes it a step further. Portfolio managers oversee a mix of programs and individual projects that may not always connect. The focus is aligning the entire portfolio with your organization’s overarching strategic objectives, analyzing risk, and allocating resources effectively. Programs cluster related projects to improve efficiency.
+
+Program management versus organizational project management
+
+Organizational project management (OPM) is a framework for the execution and implementation of project, program, and portfolio management. OPM focuses on the processes that drive an organization’s management objectives forward, like developing best practices and strategies for measuring company success.
+
+Program management versus change management
+
+Change management guides organizations and team members through significant shifts, including technological, procedural, or cultural changes. It’s designed to ensure stakeholders are prepared to transition. Program management aims to execute change, whereas change management supports the people impacted by change.
+
+Program management versus product management
+
+Product management focuses on a specific product or service from concept to market and its entire lifecycle, considering customer needs, market trends, and business objectives. A product manager often connects customers and development teams, ensuring that the product aligns with both the organizational strategic goals and customer expectations.
+
+3 benefits of program management
+
+You might be managing several different projects already. Here’s how a formal program management framework can benefit your organization:
+
+Stimulates big-picture thinking — project management works in a vacuum, specifically focused on the completion of a single project, but program management takes a step back. Program managers align every project objective to the larger program objective, which can connect more easily to the company’s overarching objectives. Uses resources more efficiently — program managers receive resources for several initiatives rather than a single project, allowing more flexibility across workflows. Whether you need a team member with a specific skill set, a budget increase, or timeline changes, program managers can mix and match resources across projects to hit the program’s goals. Mitigates risk — overseeing several interconnected projects makes it easier to visualize how all the pieces fit together and impact one another. The more holistic approach allows you to work through challenges proactively, problem-solving potential compatibility issues in real time.
+
+Stimulates big-picture thinking — project management works in a vacuum, specifically focused on the completion of a single project, but program management takes a step back. Program managers align every project objective to the larger program objective, which can connect more easily to the company’s overarching objectives.
+
+Uses resources more efficiently — program managers receive resources for several initiatives rather than a single project, allowing more flexibility across workflows. Whether you need a team member with a specific skill set, a budget increase, or timeline changes, program managers can mix and match resources across projects to hit the program’s goals.
+
+Mitigates risk — overseeing several interconnected projects makes it easier to visualize how all the pieces fit together and impact one another. The more holistic approach allows you to work through challenges proactively, problem-solving potential compatibility issues in real time.
+
+5 program management responsibilities
+
+As a program manager, you might orchestrate a complicated roadmap that aligns several tasks, goals, and organizational objectives. Here are five main responsibilities:
+
+Strategic planning — program managers focus on two main things: ensuring teams complete interconnected projects and aligning everyone with the organization’s overarching strategic objectives. Risk management — regular check-ins with project teams help you identify risks and execute planning adjustments to ensure progress continues on schedule.Align project interdependencies — a comprehensive operating model (including open communication and project reporting) uncovers overlapping tasks, allowing teams to align efforts and share valuable resources. Interfaces with stakeholders — a program involves several team members, departments, and external parties. Program managers must interface with everyone to ensure all interests and efforts align. Help decision-making — a program manager may oversee several project managers and apply their holistic understanding of the program to influence positive, impactful decisions across each project.
+
+Strategic planning — program managers focus on two main things: ensuring teams complete interconnected projects and aligning everyone with the organization’s overarching strategic objectives.
+
+Risk management — regular check-ins with project teams help you identify risks and execute planning adjustments to ensure progress continues on schedule.
+
+Align project interdependencies — a comprehensive operating model (including open communication and project reporting) uncovers overlapping tasks, allowing teams to align efforts and share valuable resources.
+
+Interfaces with stakeholders — a program involves several team members, departments, and external parties. Program managers must interface with everyone to ensure all interests and efforts align.
+
+Help decision-making — a program manager may oversee several project managers and apply their holistic understanding of the program to influence positive, impactful decisions across each project.
+
+Program management process
+
+The lifecycle of a program has three main phases:
+
+Conceptualization — stakeholders and key leaders develop a program brief that includes vision, scope, and goals. They carefully weigh out the benefits and potential risks of approving the program, including assessing the estimates for budgets and necessary resources. The program manager defines team members, scheduling, and resource requirements. Delivery — the delivery phase has two functions: providing all deliverables and accompanying the stakeholders in implementing them. Closure — effective programs have formal closures. A program manager will perform several checks when a project enters the final stages to ensure future sustainability, evaluate costs, and record all information to add to knowledge bases for future teams.
+
+Conceptualization — stakeholders and key leaders develop a program brief that includes vision, scope, and goals. They carefully weigh out the benefits and potential risks of approving the program, including assessing the estimates for budgets and necessary resources. The program manager defines team members, scheduling, and resource requirements.
+
+Delivery — the delivery phase has two functions: providing all deliverables and accompanying the stakeholders in implementing them.
+
+Closure — effective programs have formal closures. A program manager will perform several checks when a project enters the final stages to ensure future sustainability, evaluate costs, and record all information to add to knowledge bases for future teams.
+
+A few program management examples may include:
+
+A talent and culture program — overseeing this project might have you focus a strategic retainment and development plan that includes a mentorship program, upskilling workshops, and an internal recognition system.Onboarding program for sales managers — to create an onboarding plan, you might have projects that cover an ongoing initiative that includes modular training, a new client management system, and a feedback loop with existing clients.Growth program for remote teams — a comprehensive program to transition to remote teams would include projects aiming to develop a virtual onboarding protocol, remote work policies, and team-building activities.
+
+A talent and culture program — overseeing this project might have you focus a strategic retainment and development plan that includes a mentorship program, upskilling workshops, and an internal recognition system.
+
+Onboarding program for sales managers — to create an onboarding plan, you might have projects that cover an ongoing initiative that includes modular training, a new client management system, and a feedback loop with existing clients.
+
+Growth program for remote teams — a comprehensive program to transition to remote teams would include projects aiming to develop a virtual onboarding protocol, remote work policies, and team-building activities.
+
+Program management: Best practices
+
+Program management means wearing several hats. Without careful planning and execution, balancing it all can become overwhelming. Here are three best practices to execute impactful programs:
+
+Encourage open communication — every project has its own needs, bottlenecks, and milestones. A program manager can’t be everywhere at once, but you can encourage your stakeholders to keep you dialed in. Regular all-ins and centralized reporting systems can build transparency and teamwork that advance objectives. Define everything — before defining resources, team members, and budgets, thoroughly examine every aspect of the program’s objectives and life cycle. Carefully examining potential threats and their impact on the business will ensure you plan effectively. Use program management software — effective program managers visualize every aspect of a program. That task is a lot easier with comprehensive, reliable software. Notion’s task tracker on multiple projects template can help keep all your ducks in a row with automated progress reports.
+
+Encourage open communication — every project has its own needs, bottlenecks, and milestones. A program manager can’t be everywhere at once, but you can encourage your stakeholders to keep you dialed in. Regular all-ins and centralized reporting systems can build transparency and teamwork that advance objectives.
+
+Define everything — before defining resources, team members, and budgets, thoroughly examine every aspect of the program’s objectives and life cycle. Carefully examining potential threats and their impact on the business will ensure you plan effectively.
+
+Use program management software — effective program managers visualize every aspect of a program. That task is a lot easier with comprehensive, reliable software. Notion’s task tracker on multiple projects template can help keep all your ducks in a row with automated progress reports.
+
+The best tools for effective program management
+
+Program management requires big-picture thinking encompassing interconnected projects, timelines, and strategic objectives.
+
+For a streamlined approach to program management, browse through Notion’s template gallery to find the right fit for your program’s scope and objectives, or try our flexible projects and tasks manager or issue tracker.

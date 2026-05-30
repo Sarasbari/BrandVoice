@@ -1,0 +1,35 @@
+Title: Notion is now available in the Microsoft Store on Windows
+Published Date: 2025-05-27T09:00-07:00
+URL: https://www.notion.so/blog/notion-available-in-microsoft-store-on-windows
+
+We believe that everyone should have access to beautiful tools. Since Notion’s early days, we’ve been committed to building a product that our community can use however fits them best. But we also want to make sure we’re meeting people where they’re already working.
+
+That’s why today is such an exciting milestone in our journey to be more accessible to everyone in our global community: Notion is now available in the Microsoft Store on Windows.
+
+The power of a native experience
+
+While Notion works beautifully in browsers, the desktop app delivers a much-improved experience. Here’s what you get with the native app:
+
+Clean, distraction-free interface: The desktop app provides a focused environment where you can write, collaborate, and track tasks without the temptation of browser tabs pulling your attention away. Create a document, connect it to a project, and stay in flow.50 percent faster load times: Pages load twice as fast in the desktop app compared to a web browser. Switching between workspaces and pages is smooth and quick, allowing you to find information and create content without waiting.App-only features: Get access to our most powerful AI features like AI Meeting Notes and Command Search (with new features coming soon!), available only in the native desktop app.
+
+Clean, distraction-free interface: The desktop app provides a focused environment where you can write, collaborate, and track tasks without the temptation of browser tabs pulling your attention away. Create a document, connect it to a project, and stay in flow.
+
+50 percent faster load times: Pages load twice as fast in the desktop app compared to a web browser. Switching between workspaces and pages is smooth and quick, allowing you to find information and create content without waiting.
+
+App-only features: Get access to our most powerful AI features like AI Meeting Notes and Command Search (with new features coming soon!), available only in the native desktop app.
+
+Plus, with automatic updates, the native experience makes Notion a more seamless part of your digital environment—whether you’re managing projects, organizing knowledge, or collaborating with your team.
+
+Notion fits right in with your Microsoft tools
+
+Now, it’s easier than ever to integrate both Notion and Microsoft into your workflows. You can sign up for Notion using your Outlook or Microsoft Office account for a faster setup, and Business and Enterprise plans can take advantage of features like SCIM and SAML SSO capabilities with Microsoft Entra ID integration.
+
+Plus, we recently launched Notion AI connectors for Microsoft Teams, OneDrive, and SharePoint, making it simple to search in Notion and get answers backed by your knowledge from all your connected Microsoft apps. You and your team can work smarter and be more connected to the tools you already use every day.
+
+Think globally
+
+Our commitment to building a more global community has never been stronger—we already have over one hundred million users across eighty-five countries, and now, even more can use Notion right where they work.
+
+“We’re dedicated to meeting teams no matter where they work. That’s why I’m excited to bring Notion to the Microsoft Store on Windows and make it simpler for even more people to do their best work in Notion,” said Akshay Kothari, Notion’s cofounder.
+
+Find Notion in the Microsoft Store on Windows today and enjoy a more powerful desktop experience.

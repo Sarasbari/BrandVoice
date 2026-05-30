@@ -1,0 +1,403 @@
+Title: Experts gather to talk about the impact of Richard Hamming
+Published Date: 2021-03-11T00:00-08:00
+URL: https://www.notion.so/blog/a-roundtable-on-richard-hamming
+
+A mathematician by training, Richard Hamming contributed significantly to the computer science and telecommunications industries. Of his work in information theory, digital filters and numerical methods, the most widely known are the Hamming codes — a family of formulas that allowed computers to detect and correct their own errors. This work would go on to be foundational for computers and communications, being used in modems, embedded processors, satellites, and more.
+
+After years at the Los Alamos Laboratory (where he worked on the Manhattan Project) and Bell Telephone Laboratories, Hamming retired to academia. His unique views on work and problem-solving have been encapsulated in his many publications, one of which being “The Art of Doing Science and Engineering,” which was adapted from a course Hamming taught at the Naval Postgraduate School.
+
+Devon is joined by three scientists and technologists to discuss Hamming’s his work and his philosophies on doing meaningful work.
+
+DEVON: Hello. I'm Devon, and today I'm joined by three good friends, Andy Matuschak, Star Simpson, and Michael Nielsen.
+
+Andy's a software engineer, designer, and researcher, and he works on technologies that expand what people think and do.
+
+Star is a hacker and founder. She's working on a company called ThereCraft, which uses autonomous aircraft to enable air freight logistics.
+
+Michael is a scientist who helps pioneer quantum computing and the open science movement. His focus is on ideas and tools that help people think and create both individually and collectively.
+
+Today we're here to talk about one of our favorite books, "The Art of Doing Science and Engineering.“
+
+I'm really excited, because we're all good friends, but we also haven't talked that much about this particular book together. We're going to have a lot of fun diving into this book, what it means to us, and ideally where we disagree on the interpretation, too.
+
+For starters, in “The Art of Doing Science and Engineering,” the author, Richard Hamming, puts forth a transcendental narrative. He answers the question of what matters, and something that I've heard Andy say is that Hamming's religion is the unabashed pursuit of excellence.
+
+So, what does excellence mean to Hamming, and what does it mean to you?
+
+ANDY: Hamming has a really specific definition of excellence. He's interested in people understanding fundamental properties of reality more accurately and sharing that knowledge with others.
+
+One of the things that I think is most interesting about his view is that, it's not even so much excellence or what he means by that, but the unabashed side of it. I think it's really interesting to read this book in 2020 in irony-laden society or something like that — the kind of earnestness that he brings to his narrative is really interesting to me.
+
+He's like, "Well, of course you want to do great things, and since you naturally want to do great things, here are some considerations." I think it stands in really stark contrast to a lot of peoples’ stances these days, where I think it's difficult to talk about pursuing excellence seriously and not either come off as delusional or as self-aggrandizing or arrogant or just out of touch or something like that. I enjoy that part of it.
+
+DEVON: What's changed?
+
+ANDY: Well, Hamming was part of a generation that took a shared project of progress and understanding very seriously, among scientists, but even society — grand projects of the mid-20th century and counterculture movements. I'm spit-balling here. Grunge and Generation X stereotypical cynicism perhaps eroded some of this. I guess I'm not really sure. I'd be curious what others think.
+
+STAR: Well, I think Hamming was kind of a rare person. It's not just that he was this very clear thinker. He also had a lot of self-awareness, which is very unique quality in any person. And furthermore, was committed to communicating about it, right?
+
+Each of those things — himself being an astute observer, being self aware about what worked to enable that, and also being committed to communicating to others — are the things that make Hamming so unique and his writing so unique and so genuine.
+
+DEVON: Yeah, my instinct is that there are a lot of people who are very good at science, and there are also a lot of people who are very interested in communicating about science, but the overlap isn't necessarily particularly strong.
+
+It felt like with Hamming, he had these amazing discoveries, did great mathematics. And then he said, "Wow, this is so great that I have to share both this work and also my process and the process of great people around me with people," as opposed to sort of communicating about science for science's sake.
+
+STAR: Yeah, and he was right about his ideas, but he was also right about what are the right things to do. It all stacks up in such a unique way, such an interesting way. It's great that he didn't just give us the artifacts of his concepts, but also gave us what he had studied along the way to become a person able to discover concepts. It's what I love about the book.
+
+DEVON: Michael, what do you think made Hamming special?
+
+MICHAEL: Can I come back to Andy's comments? I want to disagree completely, which is very unusual for me.
+
+Andy made this comment, essentially, I would say it's almost sort of a nostalgic comment about maybe past generations being more interested in excellence. I don't think you can conclude that from Hamming at all. Hamming was in the 99.99 percentile of being interested in excellence for his own generation. I'm not sure you can actually infer very much about what was typical of people.
+
+ANDY: Yeah, I think that's fair. It's not so much that prior generations were more interested in excellence necessarily, but rather that it was more okay to express an interest in excellence. I'm curious what you think.
+
+MICHAEL: I don't think that's true either. If you walk into a bookstore, which of course you can't do at the moment, there'll be masses of shelves that are basically about nothing but the pursuit of excellence in a whole lot of different ways.
+
+They're routinely some of the highest selling books. I mean, some of them are not framed as excellence exactly, like becoming the millionaire next door or something like that. But there's certainly, I don't know, “The Seven Habits of Highly Effective People,” and there's 1,000 titles like that. They sell millions of copies. So, I think people are pretty interested, and they're pretty willing to accept it.
+
+Hamming was a little bit unusual. He has this very precise articulation saying that even though a lot of people are sort of nominally interested in this, they don't actually necessarily take the specific actions to act on it.
+
+He makes this comment about dying and talking to some of the other scientists at the lunch table, and saying, "What are the important problems is your field?” and some of them say, "Well, I don't really know.” And even if they did know, he’d say, “Why are you not working on them?”
+
+Discovering that this made him apparently, at least some of the time, not a very popular lunch companion. I think that's pretty interesting. It might be a constant between his time and our time. I'm not sure, but it's certainly an interesting observation.
+
+STAR: I think that really speaks to what amazes me — the nuts and bolts level of detail about his advice.
+
+DEVON: Can you give an example?
+
+STAR: Well, as contrasted to self-help or self-improvement guide books, I think Hamming doesn't put it in the spirit of, "Look, if you just drink a few more glasses of water every day, you'd think more clearly." He really lays out that it's hard work, and the thing you need to do more of is work and talk to people.
+
+ANDY: He advocates a program of studying past eminent discoverers and trying to piece apart what their discovery process had been, for instance. What prior knowledge allowed them to make that insight? What was it about their context or their environment that enabled that? And then trying to shape his own environment around that.
+
+Thinking very carefully about when and how often to have one's door open. How to piece apart one's work into thinking big picture versus working on very tactical tasks. How to look at a new field that's emerging and decide when to jump into it. He advocates thinking very carefully about all of these things.
+
+DEVON: I think that's very much right, but I also think it's quite challenging to actually study the context that somebody is in.
+
+There's no lack of biographies out there or histories, but I always have this nagging sense when I read a biography that it's a “just so” story. And you're not actually learning much about what really mattered for having this person succeed.
+
+Sometimes it's partially about motivations. People want to tell a different story and make it a little bit smoother because it's cleaner. Sometimes people forgot the details and it just didn't really come up or didn't seem relevant to the author.
+
+But I found personally, that I've been reading fewer and fewer biographies in my life, and just trying to spend time with people who I think are doing good work. Because then you can actually see first hand what it is that enables them to do that, and what their patterns of thought are. But that means you have to be around certain types of people, and this is one of the reasons why I love being friends with people like you.
+
+But how can you scale that beyond just becoming friends with people?
+
+MICHAEL: Scaling what in particular, Devon? Scaling what — experience?
+
+DEVON: Let's say in high school, I did not have access to the kind of friends that I have now. I didn't know Twitter existed. I didn't have the email etiquette that I now have. I didn't live in San Francisco. I didn't have a driver’s license, I couldn't get to the people I wanted to get to.
+
+So, I was kind of stuck with reading biographies. How would a 14 year old get more of this context so that they can start learning as opposed to having to be in their 20s and living in a great city or attending a great university?
+
+MICHAEL: Something that is certainly a lot of fun is watching Twitch livestreams of people doing interesting things. You're not actually getting their reconstructed “just so” story about how it is they did what they did. Now, you're actually seeing them do the thing.
+
+Maybe an even more fun example, in some ways, you can do this with anything that you can see done in live action. I'm trying to think ... What's the name of the great snooker player in the world? Ronnie O'Sullivan. He claims he taught himself to play snooker basically by watching videos of the previous best player in the world, Stephen Hendry, and just imitating him at the age of 10, 11, 12. That's pretty cool that he can do that self-tutorial just by searching out a video and watching.
+
+DEVON: So, I guess the takeaway is that more scientists should be on Twitch.
+
+MICHAEL: Actually, I noticed somebody who was at Stanford who did livestream a substantial chunk of their PhD, which I thought was pretty great. And there’s other things ... A company, what is it called? JoVE — The Journal of Visualized Experiments, who will send a camera crew to your lab and actually video you as you arrange — I don't know what you do. Arrange the pipette in just the right way to do the procedure. It's pretty interesting.
+
+You learn stuff by seeing people do things for real in a way that you can't learn from ... I don't entirely agree with you about biographies, but there is definitely a lot left out.
+
+DEVON: There are good biographies, but it's really hard to know if it's true or not. And I think biographies, for me, serve more as a sort of inspiration of people doing great things. I just get really excited about doing things in the world when I read biographies, but it's less of a manual about how do them usually.
+
+ANDY: I find that interviews, especially highly-edited interviews, are often good for getting somewhat less “just so” stories. Of course you'll still get them, but sometimes you'll get these little gems where the interviewer will ask, "How did you think to do that?" And the person's like, "Well, you know, I just encountered this other person who was doing this thing." It's kind of similar to the Twitch vibe, where you see how the stumbling happens.
+
+STAR: I think another dynamic you see in biographies is there's often selection for people who have become fairly noteworthy for whatever reason. And there's a subtle effect where — when you're whatever you want to call it, "senior" — often folks end up with others sort of working under their name, doing a lot of the gumshoe work.
+
+I've seen a lot of biographies ... I don't want to single anyone out particularly, but I am thinking of one where, in the beginning, this guy was like, "I had to get a medical exemption so they didn't send me to war, and so I threw the paperwork off the side of my motorcycle and ran over it a few times to make it look..." Whatever. It's very tactical and tactile as well.
+
+Then by the end of it, he's like, "Yeah, and then we invented..." He was really kind of encompassing a few hundred other people with that “we.” But you get this sense that as much as the vision never faded, that person stopped having their fingers in the paint.
+
+And Hamming's book is particularly noteworthy because he's so blunt about the requirements.
+
+MICHAEL: What's some more examples of the bluntness, Star?
+
+STAR: This is referencing what Andy mentioned earlier. Where he goes into detail about how often to have your door open to acknowledge very specifically some people can get more work done with their doors closed. However, they're more likely to diverge away from doing what we collectively think is useful and interesting.
+
+That's also a very interesting thought. It's not an idea that I’ve really heard anybody else address to the extent I thought of it on my own. It was really just sort of wandering off in my head, and it's not the kind of thing I would imagine being able to air in a workplace, not the average workplace. So, how often should I have my door open in order to be most productive? It's not a thing, that question. And then he just went and wrote it down.
+
+MICHAEL: Yeah, he refers to John Tukey quite frequently, and there's also a similar slightly in-your-face quality of about some of those references.
+
+When he was referring to somebody like Claude Shannon, who was a little bit older — he admired him, but he didn't really view him as a peer. So it was more a mentor or somebody who he looked up to.
+
+But Tukey was about the same age and you could see that he felt competitive with Tukey. And a little bit jealous that Tukey was so good, and there's just all that discussion of what made Tukey so good. And there's a great moment in much the same vein, where he goes to talk to his boss and complains how can Tukey knows so much, and his boss leans back in his chair and says, "You too, would be surprised if you worked as hard as John Tukey, how much you'd know." Okay! Right.
+
+ANDY: He makes this great point from that about the compounding nature of knowledge and that small marginal investments may return.
+
+I loved the instances where he complained about his own failure. Essentially, he was going with cached thoughts. He had come to some conclusion about, I think it was digital filters, based on some prior nature of the field. So he missed this opportunity that one of his colleagues ended up pursuing rather than him, and he felt frustrated about that like, "I should have gone after that, and the reason that I didn't was that I had already decided that approach wasn't going to work." And so, when the situation underground changed, he didn't reconsider.
+
+He exhorts the readers in the AI chapters, for instance, saying like, “Almost everybody who's talking about the future of AI is just repeating other people's conclusions. You need to sit and do your own thinking and update your thinking, otherwise you're going to have no idea what's going to come.”
+
+DEVON: I really liked that example of the feedback about John Tukey working harder than Hamming. What was a time in your careers where someone gave you pretty harsh advice like that where you're like, "Oh man. I've really got to think about this."
+
+ANDY: I've got one that was harsh in a subtle way, but it still really kicked me quite hard.
+
+I was supposed to be responsible for this particular gesture reaction on iOS, and I had been working on it for a while and still wasn't feeling quite right, and it was triggering at the wrong times. And after a conversation with my manager about possible approaches, we'd come up with some ideas.
+
+I said, "I'm going to pursue these over the next coming days," and he was clearly interested in seeing if we could make progress a little faster, but I went home — it was maybe 7:30pm or something.
+
+So, I get in the next morning and he'd been there most of the night, and when I got there, the problem was basically solved. There was no criticism really about not having carried it forward quite so aggressively. But arriving and having the problem that I'd been wrestling with for quite some time just solved for me was a good kick.
+
+STAR: You never forget that feeling when it happens. I associate a couple of those with my peers in high school.
+
+My best friend in high school and I were extremely competitive with each other. It was probably the most competitive relationship you could have with someone and still consider them your friend, and sometimes it did break down.
+
+It didn't help that my high school was tiny and we both had these personalities where we had to be the best in everything. But then by the end of high school, I was in a calculus class of four people. It was her and me and two others. It got very narrow at times, but as hard as it was sometimes, I still really miss how intense it was because it was great. I mean, we went to school for six years and we were just in every way, wherever possible, toe-to-toe. It was great.
+
+DEVON: When is competition productive and when is it more toxic?
+
+MICHAEL: I think I deny the premise of the question. Toxic, well okay. All right. Let me lean into the question, let me accept the premise of the question.
+
+You can probably all guess — but maybe people listening to this can't — my opinion. If you're on a linear scale, get off the scale. Go and do something else. I really enjoy watching sport of all kinds, like I love watching people play tennis. I enjoy athletics and what not.
+
+I'll admire Serena Williams or Usain Bolt or whoever is wonderful. But it's also true that if Serena stopped, there would be a second best in the world who would take her place. Actually, I guess there kind of has been over the past few years, but over the last 20 years, she's been by far and away the best player.
+
+If there's a thousand people all competing to do the same thing, actually a lot of them could go and do other things. They could invent other games to play, some of which would be unique games. Games that only they in the world were playing, and it would both be more meaningful for them, it'd be more meaningful for their family and for their friends, and just better for the world if they were to go and do those other things.
+
+Competition is sometimes good for motivating you, but you will always want to be in pool small enough that it's actually, to some considerable extent, friendly competition.
+
+The kind I hate is when you're getting crowded out and there's 17 people all trying to do exactly the same thing, and it doesn't even feel that important anyway because in fact, there's just too many people trying to do the same sort of thing. That's the toxic version.
+
+I'd rather just go and find an incredibly meaningful and important thing that you can do where you're the only person or one of a tiny number of people who are pursuing that end. That's my way of thinking about competition. It's not a very Hamming way, I don't think.
+
+He was a more competitive kind of a person. He wanted to win quite often. Even his framing of asking, "What are the most important problems in your field and why are you not working on them?" That seems to me like kind of a silly framing. It's accepting the consensus social reality of what the field is, when in fact it is much better to figure out what are the problems that nobody in your field has understood are important yet. Sort of trying to invent new problems, and maybe even new fields. That strikes me as a more enjoyable, and ultimately, more meaningful activity.
+
+DEVON: If one is trying to find a new field — or at least find a new set of problems — what should they do differently from what Hamming recommends that they do?
+
+MICHAEL: Some researchers find a problem and the goal is to solve that. Andrew Wiles working on Fermat's Last Theorem. He knew what the theorem was and that was very much the objective. So you're always trying to find little ways of, “How can I get just a little bit more info in this direction, that direction,” or what not.
+
+And people who do problem discovery or even field discovery operate in quite a different way. They are exploring in a general direction. They're trying to find little bits and pieces of info. They have some instinct that there's some big problem over here in this general direction.
+
+Maybe a good example is somebody like Alan Turing — sometimes he was actually working on a particular problem. It was fairly esoteric logic problem that David Hilbert had posed. He couldn't work on the problem of discovering universal computation because nobody had said what universal computation was.
+
+The genius in the paper isn't proving that the whole problem isn't solvable, which is often how it's framed. It was inventing the concept of universal computation, and almost by definition, that's not a problem. That is a problem that is only evident after the fact.
+
+That's very often the case in science — that the most interesting discovery is not the solution to a problem, but rather actually identifying that there's a new concept, a new type of thing in someparticular direction.
+
+And that's something that proceeds much more based on instinct and intuition, where you are like, "There is something here, and I can sort of very vaguely see the outlines of it." You just keep chiseling away, chiseling away, chiseling away, trying to see if there's something actually there. Probably 99 times out of a 100, it turns out it was a mirage and there is nothing there.
+
+Then very occasionally somebody discovers something like the notion of universal computation. And really the problem that Turing was working on was almost incidental to that. It's wonderful that he discovered universal computation out of it, and the solution to the problem is like a nice way of getting there. It was almost an excuse, a provocation, for getting there.
+
+STAR: I have a question for you, Michael. You're going to talk more now.
+
+Which do you think is the better problem discovery question of the questions posed: what are the most important problems in your field that others are thinking about, or what are the most important problems in your field that nobody's thought of yet?
+
+Which do you think would be the better problem discovery question to ask? Better being more productive, more likely to turn over ideas.
+
+MICHAEL: To some extent it's a question of what your personality is. I'm not sure you even actually get to defy it, and to some extent, all I'm doing is relaying my own personality.
+
+I just don't really like working on fixed problems, or I like having a list of 100. Well, not an actual list, but hundreds of different problems which I turn over. You consider many, many variations on the same problem sometimes in a minute.
+
+But it's really that process of actually revising the problem, and looking for things that seem like insights in some particular direction. That's a personality thing, and a thing about what sorts of things I’m comfortable with and what sort of things I am uncomfortable with.
+
+I suspect that if you look at someone who is much, much more problem-oriented — like Hamming and like many, many scientists and engineers — they would be comfortable and uncomfortable with quite a different set of things.
+
+STAR: But you just said you have lists of problems. So you are aware.
+
+MICHAEL: From my point of view, they're not the point exactly. They're almost provocations. They're steps along the way, but they're not the goal.
+
+Rather I will tweak the problem a lot. Sometimes literally many, many, many times in a minute just trying to find something where it's like, "Oh! If I consider this variation, it seems to connect to this thing over here." And then all of a sudden, it's like, "Oh! I can see some way of making progress.” But it's the insight, that step of connection that I think is important. I'm not sure I could do something like work on Fermat's Last Theorem. It seems so fixed.
+
+DEVON: Tell me if this maps to what you mean. Instead of having solving a particular problem as your goal, it's about the process to solving that builds up this mental model in your head, and that model's the important thing. The problem can help you get there, it can help you figure things out, but sometimes you might realize, "Actually, this is the wrong way to phrase the problem entirely."
+
+MICHAEL: I can give a really concrete example which makes sense in this context because you're all very familiar with it, and Andy helped discover it.
+
+We invented this mnemonic medium over the last few years. We didn't think, "Let's set out to invent a medium that will help people remember stuff."
+
+Instead, we spent several hundred hours just talking about human memory, how it works, different strategies for how you can remember things, and what's known about human memory by talking to scientists, and so on. And in apparently separate conversations, we were talking a lot about how media changed the way people think and all these kinds of things.
+
+In some funny sense, these were two separate, very long conversations. And eventually, they kind of merged into one conversation where in fact, we realized that you could build a lot of these memory ideas into some sort of new medium, and we started to sketch that out. But it didn't come out of a problem or any sort of mindset at all.
+
+Instead, it just came of pursuing these two separate, very interesting sectors of ideas. Sometimes they'd come closer to each other, but most of the time they were very far apart. Goodness knows how much time we spent in those separate parallel conversations before they merged. But there was no sense of solving a problem at all. There was definitely a sense, at least for me — Andy can maybe speak separately — of discovering a new type of thing as the result of these conversations.
+
+STAR: Michael, I think you gave a really good answer to the prompt. So just wanted to say thanks and accept that. But to draw part B out, if I may  — is it seems that Hamming also did not win a zero-sum game himself. He turned over things that were not conservative answers to questions per se, other than in a broad sense.
+
+MICHAEL: That certainly seems right to me.
+
+ANDY: I want to know to what extent this problem orientation has to do with this micro-Nobel approach. Does this approach encourage a problem-solving — rather problem-finding — type mindset?
+
+DEVON: It seems like it would encourage you to try and solve a problem that you can stick a name onto, which means that it can be cleanly put boundaries around. You can't put your name to an entire field in the same way.
+
+Now, it doesn't mean that you couldn't win a Nobel for discovering a field. In fact, many people have. But it seems like you would focus your efforts on something that your name ends up getting very closely attached to.
+
+STAR: Is it worth refreshing Hamming's micro-Nobel idea?
+
+ANDY: He has this interesting way of thinking about ... He's wondering, "My productivity is gauged in terms of rate of micro-Nobels," where a micro-Nobel is like a small but meaningful substantial insight, and that seems to be his optimization function.
+
+He refers to it a couple of times. And this seems like a pretty different approach from like, "I want to found a field." It's much more like, "I want some marginal, incrementive insight that is original and important."
+
+MICHAEL: This is a silly observation, but I have to interject it. There hasn't been enough silliness.
+
+John von Neumann pointed out that a micro-century is 50 minutes, which is the time period for a typical research talk. What that means is unfortunately, that a micro-Nobel, you would actually need to have one every 50 minutes your entire life to have one Nobel Prize's worth of work.
+
+But maybe there's some kind of long tail, and every once in a while you get a little bit lucky. What you thought was going to be a micro-Nobel’s worth of 50 minutes actually becomes worth a million Nobels.
+
+STAR: I regret that we can't let Hamming off the hook for being precise about scale in order of magnitude.
+
+ANDY: We can't? He didn't find ten to the sixth micro-Nobels, I expect.
+
+STAR: He picked like he knew what that meant, and he would have been able to draw the inference between time and ... Maybe he was being modest.
+
+DEVON: I'm also very curious. What's a mega-Nobel?
+
+STAR: That's every Nobel we've ever awarded and then some.
+
+MICHAEL: Can I ask a question of both Star and Devon, if you don't mind the imposition. There's this thing that I wonder as I read “The Art of Science and Engineering,” which I hope I'm getting the title right.
+
+ANDY: I get the title wrong every time, for whatever reason. It's a hard title to remember. I don't know why.
+
+MICHAEL: “The Art of Doing Science and Engineering.” My God, that's unbelievable. I guess it's the “doing.”
+
+There's something really interesting about it. So much of that book he's describing research culture. It's describing a research culture that I very much recognize. And there's tons of books about research culture by all sorts of researchers. There are many very good ones, and none of them seemed to have resonated with the Silicon Valley maker-doer-entrepreneur kind of a culture in the same way.
+
+I'm curious if you have thoughts about why that is the case. What do they get out of it that's really sort of interesting and exciting? That maybe they don't get out of some of the other books that have been written about research.
+
+ANDY: I find it really relatable in a way that many books about research culture are not.
+
+So much of Hamming's descriptions are him with his sleeves rolled up, working with filter circuits and programming, or trying to direct others to program. It's true that we look at N dimensional space and the error-correcting codes, which are arguably his most important work, and that's somewhat less relatable. But there's so much in the book that feels like my day-to-day experience that is very easy for me to connect to it.
+
+MICHAEL: So, it's just that practical making aspect almost then for you, Andy. You sort of feel like you can just recognize some of the things he's doing as being similar to you.
+
+ANDY: That's right.
+
+DEVON: Yeah, and it feels like he sort of grabs you by the hand and pulls you into his office, and then he's just like, "Watch me do this."
+
+And he's starting to do it, as opposed to when I read other similar types of things, it feels like there's much more a description of the problem as opposed to the action of solving the problem.
+
+Just like what you compared it to with the Twitch streams, it feels much closer to a Twitch stream than it does to a grand science ... Like, "This is what we figured out."
+
+It also feels more about setting the environment that will then help you create great things, which at least for me, resonates very well. And I think for programmers in general, you're always building yourself tools that scaffold yourselves to be able to build the next tool. And he's talking about these mental tools and then environmental and contextual tools that set him up for success.
+
+MICHAEL: Right, and he's not just considering them instrumental things — this is what I'm taking away from what both of you are saying. Often that's the case when you read scientists talking about pure science. Sometimes they will regard the tools as just these purely instrumental things, not interesting in their own right. Hamming does like them for their own right, which is interesting.
+
+STAR: It does have that quality of being pulled by the cuff into office hours with a professor that you're intimidated by and really look up to, and you're amazed that you get to have some time.
+
+What he says is, "Okay, look. We need to talk. Here's how it works, and here's what you need to be doing." Very few people are maybe even brave enough to put that down. We talked earlier about his competitive streak, but he also acknowledges creativity. What I respect about all of that together is especially the competitive nature.
+
+We don't know if he maybe played that part up about himself. He might've. Hamming really acknowledges the very human part of what drives you in an honest way that many books are unwilling to come close to.
+
+DEVON: He gives me the sense of this grumpy but brilliant uncle who really wants what's best for you, and he's going to tell you the tough stuff because that's what you need to hear in a way that is quite rare.
+
+I don't think that answers specifically the systems-builder question of why does this resonate with makers. But I think it makes it resonate more with people in general. Because when people speak to you like you're someone they care for, and they speak to you like you can go do great things — but you can also really screw them up if you do some dumb stuff — then you take it more seriously if they're taking you more seriously.
+
+STAR: Can I go on in a direction we haven't touched so far? There's something I want to acknowledge about the book that is part of what makes it so special to me. I think it's even in maybe the first or second chapter.
+
+Hamming starts using order of magnitude estimation to make predictions about what the world is going to do and when. To say, "Okay. In 50 years, this is well beyond my career or even my lifetime. Here's what I expect will be happening." This is so great for so many reasons.
+
+First of all, it's a pretty bold bet. And he must have been fairly confident about other calculations, having borne out to make that call and then also to put it in his book. It's very upfront. It's right there in the first chapter.
+
+It reminds me of at least one other place where I've seen that, which is an example that I've come across recently that I found very interesting since reading Hamming's book — which is actually Jack Northrop who founded what is now Northrop Grumman.
+
+He gave a talk in 1942, saying that basically modern aircraft were possible given a sufficiently advanced auto-pilot. He basically had gears and linkages to work with, but he could see that, not that direction would be possible, but that it'd be the right thing to do if it worked. All he needed to make those airplanes was the right auto-pilot. I don't know what quality it is that links that sort of foresight, but Hamming has it. I'm very fascinated with that future-looking, long-term and borne out ability to estimate.
+
+MICHAEL: There's a complimentary thing that I really enjoy, very much in the same vein. He talks about computers, through the 40s and 50s, were regarded as these calculating machines. You solve differential equations on them, you could predict the behavior of systems. Then Hamming just has this great discussion of the fact that, no, they actually might be meaning-making machines as well.
+
+They're not just about solving numerical problems and doing calculations. They're about solving other kinds of meaningful human problems. From our point of view, because we live in that world, it seems totally obvious. But at the time, it must've just been shocking and seemed so foreign to people that was what computers might ultimately be about. That's a really nice example of him getting at the very, very heart of the problem, and then seeing what the world would be like in 30 years time.
+
+ANDY: He has this claim that we don't understand what computing is for yet. Hamming claims, often the problem seems to be not computational power or figuring out how to make the computer do things, but rather knowing the question to ask. It kind of still seems true today in many ways. It's really interesting to see.
+
+DEVON: What do you think would have surprised him about the state of computing today?
+
+STAR: We do so little with so much.
+
+ANDY: He saw the move to VLSI (very large-scale integration), so I don't think he'd be surprised by decreasing core performance per watt trading off with say, multi-core or something like that.
+
+And I don't think he'd be surprised by embedded CPUs becoming more and more important. It's a little hard to say. Maybe he'd be surprised by the prevalence of TPUs and things like that, but I honestly don't think so. He talks about specialized silicon for digital filters in here. So, I think specialized silicon in a tensor applications is probably not surprising.
+
+STAR: He would not be surprised by video calls. Would he be surprised by the new forms of media and expression?
+
+DEVON: My guess is he wouldn't be surprised but he would be delighted.
+
+He wouldn't predict any specific outcome, but then he'd be very excited to see that people are playing around with these things and probably didn't necessarily go down all of the different tendrils of the pathways of what things became.
+
+I'm going to ask just one more question, and this is for all of you.
+
+Hamming argues that breakthroughs tend to come from deep emotional involvement, not the stereotypical calm, cool and uninvolved mindset. Does this ring true for you, and if so or if not, how did you learn it for yourself?
+
+STAR: I mean, it seems obvious to me that this is true. I don't think I've worked on anything that I didn't end up having strong feelings about, no matter how it began, but as far as how I came to discover that, I don't know how to answer that.
+
+MICHAEL: Let me take the contrary view because I've made the argument sort of in the other direction so many times.
+
+Norman Macrae wrote a pretty interesting biography of John von Neumann. In the biography he makes this observation about Bertrand Russell versus von Neumann. Bertrand Russell was utterly, extraordinarily brilliant. But he essentially claims that Russell's main problem was that he was too emotional, he got too involved in a lot of his work and this is the reason why he did not do deeper work ultimately. Whereas he makes the claim that one of von Neumann's strengths was his ability to remain relatively uninvolved and to be relatively emotionless.
+
+I thought a lot about that claim with at least a little bit of sympathy to it. A problem that can arise when you get too emotionally involved in your work is that it can start to interfere with doing it well.
+
+You can start to get anxious about how it's going to come out. You can start to get too stressed, and sometimes it's just better to chill the hell out, and go and do something else for either a day or in some cases, six months.
+
+There's some sense in which it is true, but there's kind of a moderation. It's maybe sort of a Goldilocks principle kind of a thing, where you don't want to be too little involved, you don't want to be too much involved, you want to be involved at just the right level — which is the kind of sentence that's really easy to say and really hard to act on in practice.
+
+ANDY: I'll echo that. The Goldilocks thing really resonates with me. I don't really know how to work without being emotionally involved in stuff, but I've definitely experience problems when I've been too emotionally involved in things.
+
+I'll just share one consequence, which is not stopping soon enough because most problems you pick up, you probably should put down. Choosing when to stop work on a problem is this really hard thing that Hamming actually talks about some, but actually, I'd love to see more literature about choosing when to stop working on a thing.
+
+I think being emotionally involved ... There's several times in my career where I've not dropped a project soon enough many months over, and I should have.
+
+DEVON: What signs should you have looked for, if you were to do it again and you could have known to stop earlier?
+
+ANDY: First order of thing to try is a standard rationalization. Try to write the outside view. What of the outside view of this look like? I probably would have struggled to write a compelling outside view for those projects.
+
+DEVON: I find when I have to start justifying it to my friends, that's a sign.
+
+ANDY: You have appropriately demanding friends, that's great.
+
+DEVON: It's not always the way to go, but if you find yourself a little bashful to be like, "I'm still working on this because it's important.” But also, there's all these reasons why I'm not going to make progress, or you're working with people who are not going to help you with that. That's an important thing to pay attention to.
+
+ANDY: I want to push back against that though, Devon. I think some of the most interesting stuff I've ever done has been stuff where, when I'm talking about it to friends, I feel like I have to justify it a lot. Maybe it's a different kind of justification, but basically it's that I don't really know what this is.
+
+STAR: If you've been working on problems that always sounded like they made sense, my goodness. You're way ahead.
+
+I happen to have the problem where it doesn't make any sense. They just sort of squint and they say, "What?" You just have to sort of shrug. I have a question for Michael and Andy. I know Michael is a marginalia note-taker. I think Andy is also. Where in this book did you make the most notes?
+
+ANDY: Let's flip through and see.
+
+MICHAEL: I have unfortunately the trivial, boring answer, which is of course, the overlap with the famous essay “You and Your Research.” It's not a terribly interesting answer unfortunately.
+
+ANDY: Obviously, the high density is there for me as well. The creativity chapter and systems engineering chapters, which are also similar themes, also have a lot of highlights for me, as well as the orientation chapter which also has similar themes. The stuff that grabbed my attention most densely was that type of stuff.
+
+However, I think some of the biggest insights from the book or some of the points that I most enjoyed are scattered in the middle of a chapter on digital filters. I'll have three stars in the margin or something. It's like, "Hey, pay attention to this." It's in the middle of this otherwise surprising chapter. How about you?
+
+MICHAEL: It's interesting. I felt like a lot of that matter is sort of well, okay ... I was going to say something critical but I don't entirely believe it. I was going to say that it's actually kind of similar to stuff you can find elsewhere. That's not even true. It's still kind of interesting that he talks quite a bit more about motivations and than is ordinarily the case.
+
+ANDY: It's embedded deeply in the material. I'm just looking for these big stars right now.
+
+So, one of them is this short diatribe I referenced earlier when Hamming says, "You must struggle with your own beliefs if you are to make any progress in understanding the possibilities, limitations of computers in this intellectual area."
+
+He’s talking about AI. Now, you can read lots of essays exhorting you to do your own thinking, form your own opinions. That's fine. The fact that this follows several thousand words about reasoning prospects for AI makes it much more useful.
+
+DEVON: The “You Get What You Measure” chapter really blew my mind. Then when I re-read it again recently, I realized that I had just fully internalized all of that, and I thought it was the most boring chapter. It was pretty satisfying actually, but also, I skimmed through it like, "Okay. I get it."
+
+I find that's a very common pattern for me when I learn something. Things that are most shocking or hardest for me often end up then being very integrated into my worldview and my abilities in a way that things that were less mind blowing early on.
+
+I remember when I first started learning about logarithms. I really did not get logarithms. It was really quite a struggle for me, and then I studied them very, very hard because I wanted to understand, and then built that intuition. Now it's one of the pieces of math that I have most deeply embedded in my reasoning.
+
+STAR: I have a theory that this is the case for every idea or book that was a foundational step change. If you even go back and read some classic literature, it seems so boring because so many derivative works have been created that you're familiar with it before you come across it in the first place.
+
+DEVON: Yeah, like Tolkien is this way for me. I know that's kind of heresy, I'm sorry, but “Lord of the Rings,” when I first read it as a kid, I was like, "Yeah. This is fine.”
+
+But I feel there's a lot of other books about elves and trolls and things like that. I didn't really understand why this was such a big deal, and then I realized, "Oh! This invented those ideas. Wow, I see! It's a big deal."
+
+ANDY: Michael, you've alluded to the way that lectures can have value in a surprising fashion by letting you see a person's thought process in great detail — even if you may not absorb detailed information. Seeing their value system, their lenses on the world play out in the context of detailed material is enlightening. I found chapters on digital filters and stimulation to be very much that way.
+
+DEVON: Do you have any final thoughts that you want to close with, or final lightning-round questions?
+
+MICHAEL: Let's try this little experiment. If you had to summarize what you took away from the book in one sentence, what would it be?
+
+STAR: Work hard on problems of interest to the smartest people you know.
+
+ANDY: It's possible to take very, very seriously the practices of doing good work.
+
+DEVON: Be proud and intentional about creating a context that allows you to do great work.
+
+STAR: I feel we should get GPT-3 to try and summarize the text.
+
+ANDY: Michael doesn't get to get off the hook though.
+
+DEVON: You're just inputting the text of the book into GPT-3.
+
+MICHAEL: Yeah, that's right. I'm running it at the moment. Give me a minute. Give me a minute. I'll be fine. The things you said really resonate. Maybe if research is done by human beings and having things slightly human all throughout the whole damn thing. I like that.
+
+DEVON: This is a great place to stop. Thank you three for joining. Star, Andy and Michael, this was super fun.
+
+Brought to you by Devon ZuegelDevon is a software engineer and writer based out of San Francisco.
+
+Audio by The Land FilmsIllustrations by Roman Muradov

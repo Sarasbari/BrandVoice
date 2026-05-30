@@ -1,0 +1,83 @@
+Title: AI note-taking: How to hold more efficient meetings
+Published Date: 2023-08-29T00:00-05:00
+URL: https://www.notion.so/blog/ai-note-taking
+
+Updated on May 13, 2025: Notion AI now includes AI Meeting Notes, a new way to transcribe conversations, summarize information, and surface action items from all of your meetings. Learn more about AI Meeting Notes here.
+
+A meeting is only as effective as the actionable takeaways your team derives from it. And hearing and articulating these action items can be difficult among the chaos.
+
+Even if you assign a note-taker, they might miss items or struggle to contribute their valuable ideas when they’re focused on creating effective meeting notes.
+
+But a new teammate might be able to fill this gap: an AI-powered note-taker. These tools create meeting transcripts, list important action items, and define key conceptual takeaways. Read on to learn more about the features and benefits of AI note-taking tools.
+
+What’s AI note-taking?
+
+While traditional note-taking relies on humans to record meeting notes, AI note-taking passes the work to software. The AI program uses a microphone to listen to the conversation in real time and natural language processing (NLP) to transcribe the details.
+
+After the meeting, the note-taking app can review the recorded information and provide details in the format of your choosing. You might ask the tool to do administrative tasks like writing summaries, picking out the main points, and creating a list of action items.
+
+AI note-takers can serve as more than just a note summarizer. Many tools use the notes to generate additional content at the click of a button, like social media and blog posts as well as email drafts.
+
+Types of AI note-taking features
+
+When choosing a tool, you’ll want one that offers features that align with your needs and preferences. Here are some available features you might prioritize:
+
+Sharing with others — everyone likes a teammate who shares good notes. Make an impact by sharing great AI-transcribed summaries with your team.Customizing the format — find a tool that lets you customize the format based on personal and team preferences. Summarizing key points — a note summarizer saves your team time by articulating a meeting’s most important details. Ask your preferred tool to summarize its AI meeting notes to outline crucial takeaways.Connecting with other apps — the whole point of leveraging AI-powered technology is to save your team time. If the tool connects your notes to other apps, like a team workspace, you won’t have to spend time sharing them with the right people. Creating other content — with the click of a button, you can transform your notes into an email to your team or the first draft of a blog post or other content. With the right tool, the content generation possibilities are limitless.
+
+Sharing with others — everyone likes a teammate who shares good notes. Make an impact by sharing great AI-transcribed summaries with your team.
+
+Customizing the format — find a tool that lets you customize the format based on personal and team preferences.
+
+Summarizing key points — a note summarizer saves your team time by articulating a meeting’s most important details. Ask your preferred tool to summarize its AI meeting notes to outline crucial takeaways.
+
+Connecting with other apps — the whole point of leveraging AI-powered technology is to save your team time. If the tool connects your notes to other apps, like a team workspace, you won’t have to spend time sharing them with the right people.
+
+Creating other content — with the click of a button, you can transform your notes into an email to your team or the first draft of a blog post or other content. With the right tool, the content generation possibilities are limitless.
+
+5 benefits of AI note-taking
+
+The most obvious advantage of using AI-powered tools is saved time, but leveraging these tools also offers your team the following five benefits.
+
+1. Increased productivity
+
+Inefficient tools and processes slow your team down, while anything that saves time increases overall productivity. Let AI take on repetitive and less valuable tasks — like note-taking — to free your team up for more meaningful work.
+
+2. Better information retention
+
+Instead of wasting time memorizing facts, you can store information and focus on understanding the key concepts. And with AI note-taking, you're creating a well-organized library of notes. Your AI-generated notes serve as a personal, accessible information database tailored to your needs.
+
+3. More engagement during meetings
+
+It's hard to type and talk at the same time. Let AI do the typing so you can take a more active role in the conversation. Plus, everyone might feel more at ease and focused knowing that the AI tool is automatically documenting important ideas and action items.
+
+4. Support for your teammates
+
+The documentation these tools provide is an invaluable resource for your team, making next steps, responsibilities, and possible solutions clear. If your tool shares this information somewhere central, you’re creating a single source of truth to keep everyone on the same page.
+
+5. Enhanced accessibility
+
+AI note-taking levels the playing field for individuals who struggle to take notes due to physical impairments or learning differences. An automatic note-taker ensures that everyone can fully participate and benefit from discussions, regardless of their ability to take notes manually.
+
+When to use AI note-taking
+
+AI note-taking is a versatile tool that shines in certain circumstances, like when:
+
+You’ll be talking a lot — you might not know how to take notes in a meeting when you’re leading the discussion. AI can help.You can't keep up — sometimes, teammates might speak faster than you can type. In that case, AI can do the heavy lifting.You want to catch all the details — why worry about recording every detail when AI will do it for you?You need to multitask — there will be times when you have to focus on tasks other than typing notes. There's nothing wrong with that. Everybody could use an AI assistant every once in a while (or all the time).You’re in a large meeting or conference — in situations where you're part of a large meeting, webinar, or conference with multiple speakers, keeping track of all the information presented is daunting. Use an AI note-taking tool to keep up with multiple speakers and capture all the critical details.
+
+You’ll be talking a lot — you might not know how to take notes in a meeting when you’re leading the discussion. AI can help.
+
+You can't keep up — sometimes, teammates might speak faster than you can type. In that case, AI can do the heavy lifting.
+
+You want to catch all the details — why worry about recording every detail when AI will do it for you?
+
+You need to multitask — there will be times when you have to focus on tasks other than typing notes. There's nothing wrong with that. Everybody could use an AI assistant every once in a while (or all the time).
+
+You’re in a large meeting or conference — in situations where you're part of a large meeting, webinar, or conference with multiple speakers, keeping track of all the information presented is daunting. Use an AI note-taking tool to keep up with multiple speakers and capture all the critical details.
+
+Take even better notes with Notion templates
+
+Notion offers templates that further simplify note-taking and content-creation processes. Try the meeting summaries with AI document or the AI-powered all-hands meeting notes outline. Or search the gallery to find a template that suits your needs.
+
+Evaluating your options?
+
+Check out our handy buyer's guide

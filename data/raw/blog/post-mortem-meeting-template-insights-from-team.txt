@@ -1,0 +1,93 @@
+Title: A post-mortem meeting template that draws the most insights from your team
+Published Date: 2022-01-21T09:00-07:00
+URL: https://www.notion.so/blog/post-mortem-meeting-template-insights-from-team
+
+Teams that reflect together grow together.
+
+Each project is an opportunity for your team to think about what’s working, what isn’t, and how to improve your workflow. All you have to do is schedule some time for productive group reflection. Project post-mortems, designed to start the conversation around your projects’ outcomes, are a great place to start.
+
+Preparing for and structuring your post-mortem huddle keeps the discussion on track and equips you to hit critical reflection points. Here’s how to run an excellent session — with the help of a post-mortem meeting template.
+
+What’s a post-mortem meeting?
+
+A post-mortem is a retrospective meeting that helps your team identify how well you met project milestones and what parts to improve in the future. It’s normal for a project to have highs and lows; a post-mortem meeting lets your team compile insights from those notable moments, whether they’re wins or losses.
+
+Since everyone has valuable insights to add, include all team members and key stakeholders in your debrief. Create a meeting agenda so you don’t forget important points, and encourage others to prepare their own reflections. And make sure there’s a space to take meeting notes. Writing down important takeaways from a post-mortem helps you track areas for improvement, set standards for best practices, and minimize risk for your next project.
+
+How a post-mortem meeting paves the way to growth
+
+People are analytical by nature. Chances are, your team has already actively observed your project’s progress as it moves along. And you might already have short-term feedback loops in progress, like daily stand-ups, that spark continuous improvement.
+
+But effective post-mortem meetings take a holistic look— a 360 vantage point that you can only access at the end of a project. Here’s why looking at the big picture is so beneficial:
+
+Enhances efficiency
+
+When your team members aren’t ticking off milestones as efficiently as possible, it’s often because they lack the tools and skills to overcome roadblocks. Clear these obstacles from your team’s path by learning where they tripped up and why, and documenting potential ways to avoid problems.
+
+Use these insights to devise more agile processes, train teams on new skills, and make sure everyone has the tools to do their best work. Some of your findings might even spark important organizational change, like forming new company-wide best practices.
+
+Helps your team learn from mistakes
+
+Mistakes are learning opportunities. They’re a natural part of any project, and post-mortem meetings let you and your team get vulnerable about these slip-ups. Admitting what went wrong is the first step to changing the conditions that led to the problem and avoiding the same ones in the future. Plus, improving upon mistakes boosts morale because it shows everyone’s growth.
+
+Bolsters communication
+
+In this era of remote and hybrid work, team members can’t organically come together at the water cooler or over lunch. But communication and collaboration are what foster productivity and successful outcomes. Meetings, especially ones where everyone gets to have the floor, help teams bond and recall the value each person offers.
+
+What you need for an effective post-mortem meeting
+
+Data and planning support successful debriefs. Prepping takes work, but the session will be far more productive if everyone brings the right information to the table and knows what they want to talk about.
+
+Here’s how to prep for an outstanding post-mortem:
+
+Set ground rules — make sure everyone understands the meeting’s rules of engagement. Keep a schedule, save questions for the end, encourage everyone to raise a hand for interjections (even if you’re working virtually). Prepare talking points — ask team members to prep talking points to avoid losing direction. Remind them to bring any accompanying visuals or documentation to help the rest of the group understand facts and concepts. And if you want to collect high-level insights from the entire team, have members fill out a pre-meeting questionnaire.Appoint a moderator — a post-mortem meeting might have more attendees than usual, so keep it efficient by appointing a moderator who will keep time, redirect the conversion if it goes off track, and make sure the team covers all agenda items. Take meeting notes — the goal of post-mortem meetings is to reflect on past processes and improve future processes, so notes are a must. If you can, ask a colleague who didn’t participate in the project to take notes. This person is less likely to get distracted or impose a bias, and they can dedicate their full attention to writing everything down. Include project metrics — you probably set measurable goals at the beginning of your project. Now it’s time to revisit them. Tracking actual outcomes against your projections will help you improve your process for next time, whether you need to loosen your project timeline or strengthen your risk assessment.
+
+Set ground rules — make sure everyone understands the meeting’s rules of engagement. Keep a schedule, save questions for the end, encourage everyone to raise a hand for interjections (even if you’re working virtually).
+
+Prepare talking points — ask team members to prep talking points to avoid losing direction. Remind them to bring any accompanying visuals or documentation to help the rest of the group understand facts and concepts. And if you want to collect high-level insights from the entire team, have members fill out a pre-meeting questionnaire.
+
+Appoint a moderator — a post-mortem meeting might have more attendees than usual, so keep it efficient by appointing a moderator who will keep time, redirect the conversion if it goes off track, and make sure the team covers all agenda items.
+
+Take meeting notes — the goal of post-mortem meetings is to reflect on past processes and improve future processes, so notes are a must. If you can, ask a colleague who didn’t participate in the project to take notes. This person is less likely to get distracted or impose a bias, and they can dedicate their full attention to writing everything down.
+
+Include project metrics — you probably set measurable goals at the beginning of your project. Now it’s time to revisit them. Tracking actual outcomes against your projections will help you improve your process for next time, whether you need to loosen your project timeline or strengthen your risk assessment.
+
+How to run a post-mortem meeting
+
+An agenda is the backbone of a productive post-mortem meeting. Whether you use a Notion template or create your own shareable doc, your post-mortem meeting agenda should touch on the following points:
+
+Review project milestones — revisit critical moments and whether they happened on time. Include whether the finance team approved the budget on May 5th, or you completed the first coding phase on June 10th. Going over your timeline informs future decisions.Share achievements and obstacles — have each team member write or verbally share what went well and what didn’t meet the mark. Someone might mention that the budget approval came too late, or note that they were missing documentation throughout the process. Once you gather these insights, categorize them against your project baselines (like the projected cost, schedule, or scope).Talk about the how — ask your team to share what helped them finish their work successfully, or what conditions, tools, or skills they lacked. List action items for obstacles — brainstorm how to avoid future roadblocks and create action items based on that conversation. Start making a pathway for concise, realistic implementations that make an impact. Maybe you need to use different software or check in with a client more often. Identifying clear action items makes it easier to keep track of growth points and assign tasks to the right team members. Prioritize action items — use a technique like the MoSCoW method to rank the urgency and importance of items within your plan for improvement. MoSCoW asks you to define what you must, should, could, and won’t have in a future project, putting must-haves at the top of your to-do list.Review the meeting notes — go over the main points of the meeting to synthesize your findings. Give team members the opportunity to ask for clarification of or add takeaways to the meeting summary, and keep notes somewhere accessible so everyone can find them for future reference.
+
+Review project milestones — revisit critical moments and whether they happened on time. Include whether the finance team approved the budget on May 5th, or you completed the first coding phase on June 10th. Going over your timeline informs future decisions.
+
+Share achievements and obstacles — have each team member write or verbally share what went well and what didn’t meet the mark. Someone might mention that the budget approval came too late, or note that they were missing documentation throughout the process. Once you gather these insights, categorize them against your project baselines (like the projected cost, schedule, or scope).
+
+Talk about the how — ask your team to share what helped them finish their work successfully, or what conditions, tools, or skills they lacked.
+
+List action items for obstacles — brainstorm how to avoid future roadblocks and create action items based on that conversation. Start making a pathway for concise, realistic implementations that make an impact. Maybe you need to use different software or check in with a client more often. Identifying clear action items makes it easier to keep track of growth points and assign tasks to the right team members.
+
+Prioritize action items — use a technique like the MoSCoW method to rank the urgency and importance of items within your plan for improvement. MoSCoW asks you to define what you must, should, could, and won’t have in a future project, putting must-haves at the top of your to-do list.
+
+Review the meeting notes — go over the main points of the meeting to synthesize your findings. Give team members the opportunity to ask for clarification of or add takeaways to the meeting summary, and keep notes somewhere accessible so everyone can find them for future reference.
+
+The perfect post-mortem template
+
+A template gives you a concrete outline for every post-mortem analysis. When you keep using the same meeting template, your team will learn its ins and outs, helping them identify their findings and bring the right information to the table.
+
+Post-mortem meeting template
+
+Notion’s post-mortem meeting template is the perfect guide to a productive conversation about the health of any project. It covers project metrics, milestones, and action items, along with a designated space to assign your moderator and notetaker. And every to-do you add has its own page so you can make in-depth notes and link out to other docs.
+
+Beta launch template
+
+If you’re working on a new product, Notion’s beta launch template lets you track every step — including your post-mortem. Creating and testing a new idea inevitably comes with a learning curve, so it’s essential to make space to talk about points for improvement. This template will help you launch your project and take you across the finish line (and beyond).
+
+Meeting Summaries (w/Notion AI)
+
+Your notetaker has a big job to do, and an AI-assisted meeting summary template can streamline their process. This interactive document will help them clean up your ideas and act as an excellent post-meeting resource the team can refer to and share. With the help of Notion AI, it can summarize the main topics of discussion, determine follow-up tasks, and delineate and assign action items.
+
+Track your post-mortem process with Notion
+
+A post-mortem meeting opens the door to invaluable insights that bolster institutional knowledge, streamline future projects, and help teams work smarter. And these wrap-ups are even more productive when you scaffold the session with a solid plan.
+
+Notion’s post-mortem templates document the end of your process. But the beginning and middle deserve just as much attention, if not more. Try creating a Gantt chart to visualize a project and customize an internal knowledge base so you never miss a detail. Keeping everything in our connected workspace gives your team the tools to help every project soar.

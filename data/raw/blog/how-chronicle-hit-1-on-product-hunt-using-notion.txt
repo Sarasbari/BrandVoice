@@ -1,0 +1,67 @@
+Title: How Chronicle hit #1 on Product Hunt using Notion
+Published Date: 2026-03-05T09:00-08:00
+URL: https://www.notion.so/blog/how-chronicle-hit-1-on-product-hunt-using-notion
+
+When we launched Chronicle on Product Hunt, we were hoping for a couple hundred upvotes. A respectable showing. Something to celebrate with the team at lunch the next day.
+
+We ended up with a number one launch and a waitlist of over 100k signups.
+
+For the last few years, we’ve been rethinking how people craft and tell compelling stories every day, building what we think is the modern way to create a presentation. Our Product Hunt launch was a moment to really show off what the team had been working on.
+
+Big launches don’t just happen though—they require orchestration. And for us, that happens entirely in Notion.
+
+Starting with a plan
+
+Every time there’s something to do at Chronicle—big or small—we start a Notion page. It’s become reflex at this point. New feature? Notion page. Big partnership? Notion page. The biggest product launch in our company’s history? A slightly more detailed Notion page.
+
+Our team is remote, so we’re spread across different countries and time zones. Keeping everyone aligned is a real challenge as you scale, especially when it feels like every hour counts. We needed everyone to know what was happening, what needed to happen next, and who was responsible for making it happen.
+
+Building everything in Notion from day one solved that.
+
+Coordinating a launch on Product Hunt
+
+We started with a simple page with some bullet points about what we wanted to do. But as launch day approached, that page grew from a few rough ideas into a sort of “mission control”.
+
+We built everything out of a database so we could track every aspect of the launch, with properties for things like status and due date. We tag in project owners and collaborators to keep everyone working together in one place. Every asset link or file is added to the page too, so everyone has access—whether in Figma, Chronicle, or Google Drive. Where we used to sometimes lose track of little details like which social handle to tag in a post, we now document along with social copy for each individual post that goes up.
+
+The calendar view let us overlay everything at once—feature timelines side-by-side with asset publish dates and social post dates. It gave us a more cohesive look at when everything would go live across all our channels so we could better coordinate between teams. Emails, LinkedIn posts, and announcements were all perfectly timed—no more accidentally scheduling two posts to go live within a few minutes, or leaving day-long gaps when we should be posting.
+
+And because everything lived in Notion, it became both our timeline and knowledge base. Each task became a page full of creative files, copy drafts, and strategy notes. We took the important structure and formatting and created templates so we would never have to start from scratch again.
+
+Launch day details
+
+The weeks leading up to launch were intense, but launch day itself was when our Notion hub really proved its worth.
+
+It became our central coordination hub—we shared it widely across our internal team, our Slack community, friends of Chronicle, and early adopters who’d been with us since beta. In the weeks before, we used it to communicate exactly what we needed: Pre-launch checklists, social sharing instructions, even talking points for anyone posting themselves.
+
+On the day itself, everyone knew where to look for info, what to do, and when. We tracked updates in real-time, like who was covering the launch and what updates we needed to make as momentum built. When you’re watching votes climb on Product Hunt and you’re trying to keep energy high for 24 hours, having one single source of truth keeps you just a little more sane.
+
+Beyond a single launch
+
+That Product Hunt launch was a huge moment for us. A validation that what we’d built so far matters. But it was one moment in a much longer journey that we’re still on.
+
+Notion has become the backbone of how Chronicle operates across the board, from planning to execution to learning. Our customer insights database, for example, holds tons of interview transcriptions. That way, when someone on our team needs to know what customers are actually saying about a particular feature or they’re having an issue, they don’t have to ask around—they just search in Notion.
+
+We also use Notion as our Marketing home page, so all our ongoing projects, shared resources, and core context lives there. Similar to our Product Hunt launch, we can track social posts, email sends, and blog publishing. Marketing and design collaborate especially closely on template creation—we have shared board tracking what’s being built and published so we can track growth.
+
+I even have my own “rough work” pages too—spaces where I can think through problems, jot down ideas, or work out strategies before sharing them more broadly with the team. Notion has become the place where ideas start, but also where they’re built out into reality.
+
+What we learned along the way
+
+Looking back at our Product Hunt launch, a few things made a big difference.
+
+Plan deeply, then execute loudly. The gap between a good launch and a great one is how early you start. We spent weeks writing, designing and coordinating before launch day—that preparation meant we could focus on execution when it mattered most.Invest in your copy and assets. Seems simple, but the visuals, descriptions, and storytelling are what carried us, not just the product itself. We iterated on our messaging until it really felt right, and that attention to detail proved worth it.Rally your ecosystem. We got our early users, community members, and investors excited and ready to support the launch. A few well-timed posts from trusted voices mattered more for us than a handful of random votes.Don’t half-do launches. If you’re going to do it, go all in. Our Product Hunt launch worked because everyone on the team—from eng to design to customer success-treated it like an event, not a task.
+
+Plan deeply, then execute loudly. The gap between a good launch and a great one is how early you start. We spent weeks writing, designing and coordinating before launch day—that preparation meant we could focus on execution when it mattered most.
+
+Invest in your copy and assets. Seems simple, but the visuals, descriptions, and storytelling are what carried us, not just the product itself. We iterated on our messaging until it really felt right, and that attention to detail proved worth it.
+
+Rally your ecosystem. We got our early users, community members, and investors excited and ready to support the launch. A few well-timed posts from trusted voices mattered more for us than a handful of random votes.
+
+Don’t half-do launches. If you’re going to do it, go all in. Our Product Hunt launch worked because everyone on the team—from eng to design to customer success-treated it like an event, not a task.
+
+Why the right systems always win
+
+We hit #1 Product of the Day on Product Hunt. Built a waitlist of over 100,000 people. And proved to ourselves that what we built resonated with people beyond what we expected.
+
+More than numbers, though, the launch showed that when you have the right systems in place, you can move fast without breaking things. You can coordinate across teams and time zones without losing alignment. You can scale success because you’ve documented what works.
