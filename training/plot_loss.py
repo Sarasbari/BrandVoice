@@ -45,7 +45,7 @@ def main():
     )
 
     # Style details
-    ax.set_title("Voice Forge — QLoRA Training Loss (Notion Brand)", fontsize=14, fontweight="bold", pad=15)
+    ax.set_title("BrandVoice — QLoRA Training Loss (Notion Brand)", fontsize=14, fontweight="bold", pad=15)
     ax.set_xlabel("Training Step", fontsize=11, labelpad=10)
     ax.set_ylabel("Loss", fontsize=11, labelpad=10)
 
@@ -64,7 +64,7 @@ def main():
     plt.savefig(output_png, bbox_inches="tight")
     plt.close()
 
-    print(f"Loss curve saved to {output_png}")
+    print("Loss curve saved to outputs/loss_curve.png")
 
 if __name__ == "__main__":
     main()
