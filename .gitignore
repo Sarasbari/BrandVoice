@@ -28,3 +28,6 @@ outputs/
 data/raw/
 data/dataset.jsonl
 data/raw/scrape_errors.log
+
+# PRD
+voice-forge-PRD.md
