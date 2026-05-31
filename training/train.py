@@ -3,6 +3,7 @@ import sys
 import json
 import math
 import inspect
+import re
 import torch
 from datetime import datetime
 from transformers import (
@@ -36,6 +37,21 @@ except ImportError:
 def get_timestamp() -> str:
     """Returns the current formatted timestamp."""
     return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+def get_latest_checkpoint(output_dir: str) -> str | None:
+    if not os.path.isdir(output_dir):
+        return None
+
+    checkpoints = []
+    for name in os.listdir(output_dir):
+        match = re.fullmatch(r"checkpoint-(\d+)", name)
+        if match:
+            checkpoints.append((int(match.group(1)), os.path.join(output_dir, name)))
+
+    if not checkpoints:
+        return None
+
+    return max(checkpoints, key=lambda item: item[0])[1]
 
 def main():
     try:
@@ -189,7 +205,10 @@ def main():
 
         # 7. Train
         print(f"[{get_timestamp()}] Starting training loop (SFTTrainer)...")
-        trainer.train()
+        latest_checkpoint = get_latest_checkpoint(output_dir)
+        if latest_checkpoint:
+            print(f"[{get_timestamp()}] Resuming from checkpoint: {latest_checkpoint}")
+        trainer.train(resume_from_checkpoint=latest_checkpoint)
 
         print(f"[{get_timestamp()}] Saving adapter to {output_dir}...")
         trainer.model.save_pretrained(output_dir)
