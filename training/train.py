@@ -66,7 +66,17 @@ def main():
 
         # 3. Load base model with 4-bit quantisation
         print(f"[{get_timestamp()}] Configuring 4-bit quantisation...")
-        compute_dtype = getattr(torch, config.bnb_4bit_compute_dtype, torch.float16)
+        cuda_supports_bf16 = bool(
+            torch.cuda.is_available()
+            and getattr(torch.cuda, "is_bf16_supported", lambda: False)()
+        )
+        use_bf16 = cuda_supports_bf16
+        use_fp16 = bool(config.fp16 and not use_bf16)
+        compute_dtype = torch.bfloat16 if use_bf16 else torch.float16
+        print(
+            f"[{get_timestamp()}] Mixed precision: "
+            f"bf16={use_bf16}, fp16={use_fp16}, bnb_compute_dtype={compute_dtype}"
+        )
         
         bnb_config = BitsAndBytesConfig(
             load_in_4bit=config.load_in_4bit,
@@ -79,7 +89,8 @@ def main():
         model = AutoModelForCausalLM.from_pretrained(
             config.base_model_id,
             quantization_config=bnb_config,
-            device_map="auto"
+            device_map="auto",
+            torch_dtype=compute_dtype,
         )
         
         # Configure model padding and cache settings
@@ -149,7 +160,8 @@ def main():
             learning_rate=config.learning_rate,
             warmup_steps=warmup_steps,
             lr_scheduler_type=config.lr_scheduler_type,
-            fp16=config.fp16,
+            fp16=use_fp16,
+            bf16=use_bf16,
             logging_steps=config.logging_steps,
             save_steps=config.save_steps,
             optim="paged_adamw_8bit",
