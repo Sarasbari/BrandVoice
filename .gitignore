@@ -22,7 +22,9 @@ ENV/
 Thumbs.db
 
 # Project outputs & large model weights
-outputs/
+outputs/*
+!outputs/architecture.png
+!outputs/loss_curve.png
 
 # Large crawled data and datasets
 data/raw/
