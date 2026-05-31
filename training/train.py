@@ -1,6 +1,8 @@
 import os
 import sys
 import json
+import math
+import inspect
 import torch
 from datetime import datetime
 from transformers import (
@@ -134,13 +136,18 @@ def main():
 
         # 6. Configure SFTTrainer
         print(f"[{get_timestamp()}] Setting up SFTConfig and SFTTrainer...")
+        steps_per_epoch = math.ceil(len(train_dataset) / (config.per_device_train_batch_size * config.gradient_accumulation_steps))
+        total_training_steps = steps_per_epoch * config.num_train_epochs
+        warmup_steps = max(1, int(total_training_steps * config.warmup_ratio)) if config.warmup_ratio > 0 else 0
+        os.environ.setdefault("TENSORBOARD_LOGGING_DIR", os.path.join(output_dir, "logs"))
+
         sft_config = SFTConfig(
             output_dir=output_dir,
             num_train_epochs=config.num_train_epochs,
             per_device_train_batch_size=config.per_device_train_batch_size,
             gradient_accumulation_steps=config.gradient_accumulation_steps,
             learning_rate=config.learning_rate,
-            warmup_ratio=config.warmup_ratio,
+            warmup_steps=warmup_steps,
             lr_scheduler_type=config.lr_scheduler_type,
             fp16=config.fp16,
             logging_steps=config.logging_steps,
@@ -148,18 +155,25 @@ def main():
             optim="paged_adamw_8bit",
             gradient_checkpointing=True,
             report_to="none",
-            logging_dir=os.path.join(output_dir, "logs"),
             save_total_limit=2,
             dataset_text_field="text",
             max_length=config.max_seq_length,
         )
 
-        trainer = SFTTrainer(
-            model=model,
-            train_dataset=train_dataset,
-            tokenizer=tokenizer,
-            args=sft_config,
-        )
+        trainer_kwargs = {
+            "model": model,
+            "train_dataset": train_dataset,
+            "args": sft_config,
+        }
+        trainer_params = inspect.signature(SFTTrainer.__init__).parameters
+        if "processing_class" in trainer_params:
+            trainer_kwargs["processing_class"] = tokenizer
+        elif "tokenizer" in trainer_params:
+            trainer_kwargs["tokenizer"] = tokenizer
+        else:
+            raise TypeError("This TRL version does not support passing a tokenizer or processing_class to SFTTrainer.")
+
+        trainer = SFTTrainer(**trainer_kwargs)
 
         # 7. Train
         print(f"[{get_timestamp()}] Starting training loop (SFTTrainer)...")
